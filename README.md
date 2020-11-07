@@ -9,7 +9,7 @@ Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro.
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (necessário para a maioria dos recursos)
 - [HS2_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) (necessário para ver as legendas)
-- [HS2_TranslationHelper.v1.0.zip](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14) (opcional, mas recomendado. Traduz nomes japoneses para o alfabeto ocidental sem tentar traduzir para o portugues evitando erros como 悟飯=Comida ao invês de 悟飯=Gohan).
+- [HS2_TranslationHelper.v1.0.zip](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14) (opcional, mas recomendado. Traduz nomes japoneses para o alfabeto ocidental sem tentar traduzir para o português evitando erros como 悟飯=Comida ao invés de 悟飯=Gohan).
 
 ## Instalação
 
@@ -27,14 +27,14 @@ As traduções estão todas dentro da pasta `Bepinex\Translation\pt\`. Eles são
 - `Text` - Substituições e modificações de texto normal.
 - `Text\Localizations` - Palavras nesta pasta foram despejadas via TextDump. As traduções podem ser adicionadas para entradas ausentes, mas as novas entradas não devem ser adicionadas ou será difícil mesclar despejos futuros.
 - `Text\zz_MachineTranslations` - Todas as traduções feitas por máquinas (como o google tradutor) vão aqui. As entradas limpas ou traduzidas manualmente devem ser enviadas corretamente para outras pastas. O objetivo é traduzir adequadamente até que esta pasta fique vazia.
-- `Texture` - Substituições de imagems.
+- `Texture` - Substituições de imagens.
 
 As traduções serão revisadas antes de serem adicionadas via "pull-request". Sendo assim nem toda tradução irá automaticamente entrar na base de dados.
 
 ### Como adicionar ou melhorar traduções
 
 - Se quiser fazer uma edição simples, basta abrir o arquivo em questão e clicar em "edit". Depois de terminar a edição, confirme as alterações e faça uma solicitação "pull request".
-- Se você tiver mais traduções para enviar [Faça um fork] (https://help.github.com/articles/fork-a-repo/). Faça upload de suas alterações para o "fork" e, em seguida, [envie uma "pull request"] (https://help.github.com/articles/about-pull-requests/). Sua solicitação de "pull request" será revisada e aceita após uma verificação de qualidade. Novamente, evite traduções feita puramente por máquina. São essenciais o correto uso de maiúsculas e minísculas, a pontuação e a ortografia adequada.
+- Se você tiver mais traduções para enviar [Faça um fork] (https://help.github.com/articles/fork-a-repo/). Faça upload de suas alterações para o "fork" e, em seguida, [envie uma "pull request"] (https://help.github.com/articles/about-pull-requests/). Sua solicitação de "pull request" será revisada e aceita após uma verificação de qualidade. Novamente, evite traduções feita puramente por máquina. São essenciais o correto uso de maiúsculas e minúsculas, a pontuação e a ortografia adequada.
 
 ## Tradução de texto
 
@@ -112,7 +112,7 @@ Existem vários recursos que suportam o uso de prefixação opcional para obter 
 PREFIX1:こんにちは=Oi!
 こんにちは=Olá.
 ```
-Tentar corresponder `こんにちは` para um recurso usando `PREFIX1` retornará `Oi! `, mas um recurso usando`PREFIX2` retornará `Hello`.
+Tentar corresponder `こんにちは` para um recurso usando `PREFIX1` retornará `Oi! `, mas um recurso usando`PREFIX2` retornará `Olá`.
 
 | localização do recurso       | prefixo       | Notas                                                                               |
 |------------------------------|---------------|-------------------------------------------------------------------------------------|
@@ -122,7 +122,7 @@ Tentar corresponder `こんにちは` para um recurso usando `PREFIX1` retornar�
 | `etcetra/list/parametername` | `TRAIT:`      |                                                                                     |
 #### Personalidades
 
-| ID | Name   | Eng Name     | Dialog (`adv/scenario/`) | Subtitles (`list/h/sound/voice/*/`) |
+| ID | Nome   | Nome Port.   | Dialog (`adv/scenario/`) | Subtitles (`list/h/sound/voice/*/`) |
 |----|--------|--------------|--------------------------|-------------------------------------|
 | 0  | クール  | Calma          | `c00`                    | `hvoicestart_c00_*`, `hvoice_c00*`  |
 | 1  | 普通   | Normal        | `c01`                    | `hvoicestart_c01_*`, `hvoice_c01_*`  |
