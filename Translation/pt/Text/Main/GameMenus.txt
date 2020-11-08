@@ -72,8 +72,8 @@ r:"グループ *([0-9０-９]+)"=Grupo $1
 // Personagens -> Editar -> Jogador
 //------------------------------------------------------------
 //Jogador#
-１人目=1st Jogador
-２人目=2nd Jogador
+１人目=1º Jogador
+２人目=2º Jogador
 
 //------------------------------------------------------------
 // Personagens -> Editar -> Roupas do Jogador
