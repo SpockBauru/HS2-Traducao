@@ -1,0 +1,15 @@
+//Regexes para traduções de  mods e items
+
+#set exe HoneySelect2
+#set level 3,7
+
+// Traduza uma palavra não latina seguida por letras ou números latinos, portanto, a primeira palavra precisa ser traduzida apenas uma vez.
+// Examplo: Ao invés de "シャツA=Camisa A", "シャツ2=Camisa 2" e "シャツ[a4]=Camisa [a4]", apenas "シャツ=Camisa" é necessário.
+// OBS: Precisa ter pelo menos uma letra não latina no início seguida de uma letra ou número latino, caso contrário quebraria traduções em outros lugares.
+sr:"^(?<nonLatin>[^\u0000-\u024F]+)(?<latin_i>[\u0020-\u024F｢【｣】]+)$"=${nonLatin} ${latin_i}
+
+// O mesmo que acima, mas a palavra não latina está no meio.
+// Example: Ao invés de "[Modder]シャツ(F_5)=[Modder] Camisa (F_5)", apenas "シャツ=Camisa" é necessário´
+sr:"^(?<latin_i>[\u0020-\u024F｢【｣】]+)(?<nonLatin>[^\u0000-\u024F]+)(?<latin2_i>[\u0020-\u024F｢【｣】]*)$"=${latin_i} ${nonLatin} ${latin2_i}
+
+#unset level 3,7

@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+和室=Quarto Japonês
+フュルの部屋=Quarto da Fur
+大浴場=Banheiro Público
+和式トイレ=Banheiro Japonês
+裏庭=Quintal
+裏庭（雨）=Quintal (Chuva)
+病室=Quarto de Hospital
+教室=Sala de Aula
+中華料理店=Restaurante Chines
+酒場=Bar
+洋式トイレ内=Privada Estilo Ocidental

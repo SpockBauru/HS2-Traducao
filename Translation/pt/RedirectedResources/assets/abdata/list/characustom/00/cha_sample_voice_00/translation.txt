@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+クール=Calma
+普通=Normal
+苦労人=Trabalhadora
+女友達=Namorada
+ギャル=Na Moda
+気弱=Tímida
+母性的=Maternal
+ドS=Sádica
+オープン=Aberta
+天然=Cabeça Oca

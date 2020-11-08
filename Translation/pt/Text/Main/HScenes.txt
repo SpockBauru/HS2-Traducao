@@ -1,0 +1,238 @@
+//***********************************************************************
+// Menus das cenas de sexo
+// Algumas linhas comentadas também têm traduções em Generic.txt
+//***********************************************************************
+
+//------------------------------------------------------------
+// Tipos de posições sexuais
+//------------------------------------------------------------
+愛撫=Carícias
+奉仕=Serviços
+挿入=Penetração
+女主導=Mando da Mulher
+女複数=Ménage 2 Mulheres
+男複数=Ménage 2 Homens
+レズ=Lésbico
+特殊=Especial
+
+//------------------------------------------------------------
+// Menus de posições sexuais
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\h\animationinfo\
+
+//------------------------------------------------------------
+// Dicas
+//------------------------------------------------------------
+ホイールで開始=Roda do Mouse para Começar
+ホイール上下で速度変更=Roda do mouse: Mudar Velocidade
+ホイール上で再開始\nホイール下で引き抜く=Roda para cima: Reiniciar\nRoda para Baixo: Tirar
+ホイールで叩く=Roda do mouse: Bater
+ホイールで再開始=Roda do mouse: Reiniciar
+
+//------------------------------------------------------------
+// Acessórios
+//------------------------------------------------------------
+スロット=Slot(s)
+
+//------------------------------------------------------------
+//Mudar Roupas
+//------------------------------------------------------------
+決定=Selecionar
+元に戻す=Desfazer
+
+//------------------------------------------------------------
+//Item
+//------------------------------------------------------------
+アイテム=Item
+濡れ=Molhada
+ツヤ=Brilhante
+
+脱力回復=Reviver
+
+//------------------------------------------------------------
+// Iluminação
+//------------------------------------------------------------
+ライト設定=Luz
+ライト縦=Vertical
+ライト横=Horizontal
+//ライト強さ=Força
+補助ライト=Luz Auxiliar
+色を初期化=Resetar cor
+
+//------------------------------------------------------------
+// Tela (Opções Gráficas Personalizadas)
+//------------------------------------------------------------
+// limitando ao nível 7
+#set level 7
+画面効果=Tela
+//プリセット=Preset
+映り込み=Reflexão
+色調整=Ajuste de cor
+フォグ=Névoa
+//SSAO
+ブルーム=Bloom
+被写界深度=DoF
+サンシャフト=Raios de Sol
+ビネット=Vignette
+セルフシャドウ=Sombras
+//SSR
+環境光=Luz Ambiente
+
+//Diálogos
+すべて初期化しますか？=Você quer inicializar tudo?
+やめる=Parar
+#unset level 7
+
+
+//------------------------------------------------------------
+//Tela - Preset
+//------------------------------------------------------------
+//Preset
+読み込み=Ler
+
+//load menu
+未設定=Não configurado
+ホラー=Horror
+夜闇=Trevas
+夕暮れ=Entardecer
+
+保存名=Nome salvo
+未入力=Não entrou
+新規保存=Salvar Novo
+上書き保存=Salvar
+
+//------------------------------------------------------------
+//Tela - Reflexões
+//------------------------------------------------------------
+描画=Desenho
+種類=Tipo
+強さ=Força
+
+// Menu Tipo
+デフォルト=Padrão
+照明=Iluminação
+上からの光=Luz de cima
+暖かい光=Luz quente
+不気味な光=Luz sinistra
+黄色い研究室=Laboratório amarelo
+赤い研究室=Laboratório Vermelho
+青い研究室=Laboratório Azul
+豪奢な空間=Espaço luxuoso
+日の差す部屋=Quarto ensolarado
+部屋の中=No quarto
+雪景色=Cena de neve
+岩場=Lugar rochoso
+海辺=Praia
+崖の上=No penhasco
+森の中=Na floresta
+
+//------------------------------------------------------------
+//Tela - Cor
+//------------------------------------------------------------
+//Cor
+色見=Cor
+影響度=Impacto
+//Saturação
+//Brilho
+コントラスト=Contraste
+
+//Opções do menu de Cor
+昼=Meio dia
+夜=Noite
+ソフト=Suave
+ペール=Pálido
+ダル=Tédio
+寒色=Cor fria
+暖色=Cor quente
+夕=Tarde
+ストロング=Forte
+ディープ=Profundo
+ブライト=Brilhante
+セピア=Sepia
+モノクロ=Monocromático
+赤単色=Monocromático Vermelho
+青単色=Monocromático azul
+緑単色=Monocromático Verde
+レッドアクセント=Sotaque vermelho
+ブルーアクセント=Sotaque Azul
+グリーンアクセント=Sotaque Verde
+リバースモノクロ=Monocromático Reverso
+リバースカラー=cor invertida
+サーモグラフ=Termógrafo
+ポスタライズ=Posterizar
+オールドポスター=Pôster antigo
+ノスタルジー=Nostalgia
+アンティーク=Antigo
+ライトシャドウ=Sombra clara
+ダークグレイッシュ=Acinzentado escuro
+アーティスティック=Artístico
+コミック=Cômico
+ツートン=Dois tons
+スモッグ=poluição
+
+//------------------------------------------------------------
+//Tela - Névoa
+//------------------------------------------------------------
+高さ=Altura
+高さ濃度=Intensidade
+
+//------------------------------------------------------------
+//Tela - SSAO
+//------------------------------------------------------------
+範囲=Alcance
+
+//------------------------------------------------------------
+//Tela - Bloom
+//------------------------------------------------------------
+しきい値=Limite
+発光範囲=Gama luminosa
+発光上限=Limite
+拡散範囲=Propagação
+
+//------------------------------------------------------------
+//Tela - DoF
+//------------------------------------------------------------
+焦点幅=Largura do foco
+絞り=Abertura
+
+//------------------------------------------------------------
+//Tela - Raios de Sol
+//------------------------------------------------------------
+しきい色=Limite
+光の色=Cor de luz
+光の範囲=Alcance
+光の伸び=Crescimento
+
+//------------------------------------------------------------
+//Tela - Vignette
+//------------------------------------------------------------
+量=Quantidade
+
+//------------------------------------------------------------
+//Tela - Ambiente
+//------------------------------------------------------------
+空=Céu
+地平線=Horizonte
+地面=Chão
+
+//------------------------------------------------------------
+//Sair
+//------------------------------------------------------------
+終了する=Terminar
+続ける=Continuar
+もう一度見る=Ver de novo
+
+//Diálogo
+Hシーンを終了しますか？=Terminar a cena de sexo?
+覗きを終了しますか？=Você acabou de espiar??
+トイレ覗きを終了しますか？=Você acabou de espiar no banheiro?
+
+//************************************************************
+// Sem categoria
+//************************************************************
+サンプル=Amostra
+1人目=Primeira Pessoa
+体位の種類=Tipo de Posição
+飲=Beber
+操作ガイド=Guia de operação
+吐=Vômito

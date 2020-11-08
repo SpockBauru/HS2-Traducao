@@ -1,0 +1,21 @@
+#set level 8
+
+// Chamar uma Garota
+
+// Usar items dropdown
+
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_HorizontalOverflow(overflow)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_VerticalOverflow(truncate)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByPercentage(0.72)
+/LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_ChangeLineSpacing(0.8)
+/LobbyScene/Canvas/Panel/Parameter/param=IgnoreFontSize()
+
+// status do personagem superior esquerdo
+
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_HorizontalOverflow(overflow)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=ChangeFontSizeByPercentage(0.85)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_ChangeLineSpacing(0.9)
+/LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_VerticalOverflow(truncate)
+
+
+/LobbyScene/Canvas/Panel/Select/Select/SelectView/btnChange=ChangeFontSizeByPercentage(0.9)

@@ -1,0 +1,17 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+タイトル=Título
+マイルーム=Meu quarto
+カスタムシーン１=Cena personalizada 1
+カスタムシーン２=Cena personalizada 2
+ネットワーク=Rede
+普通の雰囲気=Atmosfera normal
+好意的な雰囲気=Atmosfera favorável
+享楽的な雰囲気=Atmosfera agradável
+隷属的な雰囲気=Atmosfera escrava
+嫌悪な雰囲気=Atmosfera nojenta
+暗い雰囲気=Atmosfera escura
+妖しい雰囲気=Atmosfera misteriosa
+おしゃれな雰囲気=Atmosfera elegante
+フュル＝アルバン＝フュール=Fur-Alban-Fur

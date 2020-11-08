@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
+//
+タイトル２=Título 2
+シトリー＝レンブラント=Sitri-Rembrandt
+ナイト・ラブ=Amor noturno
+大人の時間=Tempo adulto
+どこへ向かうのか=Onde ir
+非現実的世界=Mundo irreal
+深夜の散歩=Caminhada da meia-noite
+ゴールイン……？=Objetivo em ...?
+

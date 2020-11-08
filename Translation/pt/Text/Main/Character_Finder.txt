@@ -1,0 +1,97 @@
+# set level 14
+
+//------------------------------------------------------------
+// Buscador de Personagens
+//------------------------------------------------------------
+
+//------------------------------------------------------------
+// use # para procurar instâncias como no "\\Exemplo#"
+// Algumas linhas comentadas também têm traduções em Generic.txt
+//------------------------------------------------------------
+//標準=Normal
+指定なし=Aleatório
+
+//------------------------------------------------------------
+// Item de pesquisa
+//------------------------------------------------------------
+検索項目=Item de pesquisa
+
+//Força:
+肉感=Corpo
+//スレンダー=Esbelto
+筋肉質=Atlético
+ぽっちゃり=Gordo
+//Normal#
+//Aleatório#
+
+//Cor da Pele:
+肌の色=Cor da Pele
+美白=Pálido
+//Normal#
+小麦=Bronzeado
+//Aleatório#
+
+//Altura do Corpo:
+身長=Altura
+低い=Baixo
+普通=Normal
+高い=Alto
+//Aleatório#
+
+//Seios:
+胸=Seios
+小さい=Pequeno
+//Normal#
+大きい=Grande
+//Aleatório#
+
+//Corpo:
+体型=Corpo
+細め=Fino
+//Normal#
+太め=Largo
+//Aleatório#
+
+//Penteado
+髪型=Penteado
+ロング=Longo
+ショート=Curto
+ツイン=Maria Chiquinha
+ポニー=Rabo de Cavalo
+その他=Outro
+//Aleatório#
+
+//Personalidade
+//性格=Personalidade
+消極的=Passivo
+積極的=Ativo
+//Aleatório#
+
+//Pinta
+ホクロ=Pinta
+あり=Permitir
+//なし=Nenhum
+
+//Configurações:
+エルフ耳=Orelhas de Elfo
+メガネ=Óculos
+
+//Botões
+項目を初期化する=Resetar Valores
+この条件で探してもらう=Buscar usando estes parâmetros
+
+//------------------------------------------------------------
+// Janela de Garota Encontrada
+//------------------------------------------------------------
+見つけた女の子=Garota Encontrada
+名前=Nome
+//声質=Voz
+カードに保存する=Salvar Carta
+
+//------------------------------------------------------------
+//Diálogos de Saída
+//------------------------------------------------------------
+編集に戻る=Retornar para o editor
+保存して終了=Salvar e Sair
+保存しないで終了=Sair\bSem Salvar
+検索を終了しますか？=Sair do Buscador?

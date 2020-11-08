@@ -1,0 +1,64 @@
+// Tela de download de personagens
+
+//------------------------------------------------------------
+// Informação de seleção
+//------------------------------------------------------------
+選択情報=Informação de seleção
+ハンドル名=Nome do jogador
+選択=Pesquisa
+//Remover
+キャラ名=Nome do Personagem
+コメント=Comentários
+
+タイプ=Tipo
+//Aniversário
+誕生日=Aniversário
+
+//------------------------------------------------------------
+// Menu
+//------------------------------------------------------------
+メニュー=Menu Atual
+ダウンロードする=Downloader
+
+//------------------------------------------------------------
+// Opções de Busca
+//------------------------------------------------------------
+検索設定=Opções de Busca
+検索項目のリセット=Resetar Opções de Busca
+
+並び順=Ordem
+投稿(新)=Post mais Novo
+投稿(古)=Post mais Antigo
+更新(新)=Atualizado Recentemente
+更新(古)=Atualização Antiga
+
+人気(週間)=Polular\n(Semanal)
+人気(総合)=Popular\n(Total)
+拍手=Likes
+
+ハンドルネーム一覧=Lista de nomes de jogadores
+
+キーワード検索=Pesquisa por palavra-chave
+
+性別=Sexo
+男=Masculino
+女=Feminino
+
+バストサイズ=Tamanho do busto
+髪=Cabelo
+
+自分がアップしたデータ=Dados que enviei
+//------------------------------------------------------------
+//Botões inferiores
+//------------------------------------------------------------
+アップローダー=Uploader
+
+キャッシュの削除=Limpar cache
+キャンセル=Cancelar
+確定=Confirmar
+
+最新情報に更新=Atualizar todos os dados
+ダウンロード=Download
+
+//Dialogue
+ゲームを終了しますか？=Sair do jogo?

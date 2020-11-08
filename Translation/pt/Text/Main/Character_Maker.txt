@@ -1,0 +1,1046 @@
+//***********************************************************************
+//***********************************************************************
+// Nota: Alguns textos são intencionalmente abreviados ou tem seu contexto
+//       removido para caber na IU.
+// Altura da sobrancelha -> Altura // está dentro do menu da sobrancelha
+// Ombro Esquerdo -> Ombro Esq
+//***********************************************************************
+//***********************************************************************
+
+#set exe HoneySelect2
+
+#set level 3
+
+
+//************************************************************
+// Geral
+//************************************************************
+
+//------------------------------------------------------------
+// Personalidades
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
+// RedirectedResources\assets\abdata\etcetra\list\config\30\00\
+// RedirectedResources\assets\abdata\studio\info\34\voicegroup_34\
+
+//------------------------------------------------------------
+// Características
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// Mentalidade
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// Fetiches
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// use # para procurar instâncias como no "\\Exemplo#"
+// Algumas linhas comentadas também têm traduções em Generic.txt
+//------------------------------------------------------------
+サンプル=Amostra
+タイプ=Tipo
+調整=Ajuste
+名前=Nome
+コーデ=Roupas
+瞳の設定=Config. da Iris
+キャラ設定=Config. de Personagem
+ハート=Coração
+肌=Pele
+顔=Face
+耳=Orelhas
+眼鏡=Óculos
+//眉=Sobrancelhas
+//目=Olho
+鼻=Nariz
+//口=Boca
+顎=Queixo
+//首=Pescoço
+肩=Ombro
+胸=Seios
+腰=Cintura
+腕=Braços
+脚=Pernas
+//手=Mãos
+//左手=Mão Esq
+//右手=Mão Dir
+
+//------------------------------------------------------------
+// Disposição (pintura e acessórios) Disposição e guias principais
+//------------------------------------------------------------
+//Pintura e Acessórios
+左肩=Ombro Esq
+右肩=Ombro Dir
+
+//Pintura facial:
+//RedirectedResources\assets\abdata\list\characustom\00\facepaint_layout_00\
+
+//Pintura corporal:
+//RedirectedResources\assets\abdata\list\characustom\00\bodypaint_layout_00\
+
+//Acessórios
+ポニー=Rabo de Cavalo
+ツイン左=Mecha Esq
+ツイン右=Mecha Dir
+ヘアピン左=Grampo Esq
+ヘアピン右=Grampo Dir
+帽子=Chapéu
+額=Testa
+頭中心=Centro da Cabeça
+//Face#
+左耳=Orelha Esq
+右耳=Orelha Dir
+//Óculos#
+//Nariz#
+//Boca#
+//Pescoço#
+胸上=Garganta
+胸上中央=Centro do Busto
+左胸=Seio Esq
+右胸=Seio Dir
+背中中央=Centro das Costas
+背中左=Costas Esq
+背中右=Costas Dir
+//Cintura#
+腰前=Cintura Frontal
+腰後ろ=Cintura Traseira
+腰右=Quadril Esq
+腰左=Quadril Dir
+左太もも=Coxa Esq
+右太もも=Coxa Dir
+左ひざ=Joelho Esq
+右ひざ=Joelho Dir
+左足首=Tornozelo Esq
+右足首=Tornozelo Dir
+かかと左=Calcanhar Esq
+かかと右=Calcanhar Dir
+//Ombro Esq#
+//Ombro Dir#
+左肘=Cotovelo Esq
+右肘=Cotovelo Dir
+左上腕=Braço Esq Sup
+右上腕=Braço Dir Sup
+左手首=Pulso Esq
+右手首=Pulso Dir
+//Mão Esq#
+//Mão Dir#
+左人差指=Indic Esq
+右人差指=Indic Dir
+左中指=Médio Esq
+右中指=Médio Dir
+左薬指=Anelar Esq
+右薬指=Anelar Dir
+下腹部①=Virilha①
+下腹部②=Virilha②
+下腹部③=Virilha③
+
+//------------------------------------------------------------
+// Abas
+//------------------------------------------------------------
+//padrão também usado em campos de cor
+種類=Tipo
+//カラー=Cor
+親=Posição
+配置=Arranje
+その他=Outro
+
+//------------------------------------------------------------
+// Campos de padrões
+//------------------------------------------------------------
+初期カラー=Resetar cor
+
+//------------------------------------------------------------
+// Campos de cor
+//------------------------------------------------------------
+//cor
+ツヤ=Brilho
+質感=Textura
+カラーサンプル=Amostra de Cor
+柄設定=Configuração de Padrão
+柄=Tipo de Padrão
+
+//------------------------------------------------------------
+// Miscelâneas
+//------------------------------------------------------------
+破れ具合=Grau do Rasgo
+オプションパーツ01を表示=Exibir Parte Opcional 01
+オプションパーツ02を表示=Exibir Parte Opcional 02
+
+//------------------------------------------------------------
+// Ajustar / organizar / pai e outros campos de posicionamento
+//------------------------------------------------------------
+//olho
+幅=Largura
+高さ=Altura
+X位置=Eixo X
+Y位置=Eixo Y
+傾き=Ângulo
+
+位置X=Posição X
+位置Y=Posição Y
+
+位置=Mover
+回転=Rodar
+拡縮=Escala
+
+移動量=Passo da Posição
+回転量=Passo da Rotação
+拡縮量=Passo da Escala
+
+操作軸=Eixos
+移動=Mover
+速度=Veloc.
+大きさ=Tam.
+
+揺らさない=Rígido
+
+//Cabelo
+操作軸設定=Config. de Eixos
+全ての操作軸=Mostrar Eixos
+移動X=Mover X
+移動Y=Mover Y
+移動Z=Mover Z
+回転X=Rodar X
+回転Y=Rodar Y
+回転Z=Rodar Z
+
+全て初期化=Resetar Tudo
+
+//------------------------------------------------------------
+// Paint
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\st_paint_00\
+// RedirectedResources\assets\abdata\list\characustom\10\st_paint_10\
+// RedirectedResources\assets\abdata\list\characustom\30\st_paint_30\
+// RedirectedResources\assets\abdata\list\characustom\40\st_paint_40\
+// RedirectedResources\assets\abdata\list\characustom\41\st_paint_41\
+
+//------------------------------------------------------------
+// Padrões
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\st_pattern_00\
+// RedirectedResources\assets\abdata\list\characustom\30\st_pattern_30\
+// RedirectedResources\assets\abdata\list\characustom\34\st_pattern_34\
+
+
+//************************************************************
+// Menus Principais (Lado Esquerdo)
+//************************************************************
+//------------------------------------------------------------
+// Compartilhado
+//------------------------------------------------------------
+全体=Geral
+ペイント01=Pintura 01
+ペイント02=Pintura 02
+
+//------------------------------------------------------------
+// Face
+//------------------------------------------------------------
+フェイス=Face
+
+顔周り=Editar Face
+顔のタイプ=Tipo de Face
+//Queixo#
+頬=Bochechas
+//Sobrancelhas#
+//Olho#
+//Nariz#
+//Boca#
+//Orelhas#
+ホクロの設定=Pintas
+//Editor Masculino:
+ヒゲのタイプ=Tipo de Bigode
+
+目周り=Editar Olhos
+左右の設定を合わせる=Definir ambos esq e dir
+左目=Olho Esquerdo
+右目=Olho Direito
+//editar olhos#
+目のハイライト=Reflexos
+眉のタイプ=Tipo de Sobrancelha
+まつ毛のタイプ=Tipo de Cílios
+
+化粧=Maquiagem
+アイシャドウ=Sombra
+チーク=Bochechas
+リップ=Lábios
+
+//------------------------------------------------------------
+// Corpo
+//------------------------------------------------------------
+ボディ=Corpo
+
+体型=Formato do Corpo
+//Seios#
+上半身=Tronco Superior
+下半身=Tronco Inferior
+//Braços#
+//Pernas#
+
+//Pele#
+
+肌の種類=Tipo de Pele
+日焼け跡=Bronzeado
+//São polêmicos:
+乳首=Mamilos
+アンダーヘア=Pelo Pubiano
+爪の色=Cor da Unha
+
+特殊=Especial
+ふたなり=Mulher com Pinto
+
+//------------------------------------------------------------
+// Cabelo
+//------------------------------------------------------------
+ヘアー=Cabelo
+
+前髪と後ろ髪の色を統一=Combinar cor de trás e da franja
+根本と毛先の色を自動設定=Auto definir cores da raiz e ponta
+髪の調整をまとめて行う=Combinar ajustes de Eixo do Cabelo
+
+後ろ髪=Cabelo Traseiro
+後ろ髪の設定=Config. do Cabelo Traseiro
+
+前髪=Franja
+前髪の設定=Config. da Franja
+
+横髪=Cabelo Lateral
+横髪の設定=Config. do Cabelo Lateral
+
+エクステ=Extensões de Cabelo
+エクステの設定=Config. das Extensões de Cabelo
+
+描画設定=Renderização
+
+//------------------------------------------------------------
+// Roupas
+//------------------------------------------------------------
+//Roupas#
+
+衣装=Conjunto
+トップス=Superior
+ボトムス=Inferior
+インナー上=Superior Interno
+インナー下=Inferior Interno
+手袋=Luvas
+パンスト=Meia Calça
+靴下=Meias
+靴=Sapatos
+
+衣装カード=Carta de Roupas
+//Salvar / Deletar
+// Carregar
+
+//------------------------------------------------------------
+// Acessórios
+//------------------------------------------------------------
+アクセサリー=Acessórios
+スロット=Slot
+コピー=Copiar
+コピーする=Fazer Cópia
+
+頭=Cabeça
+//Orelhas#
+//Óculos#
+//Face#
+//Pescoço#
+//Ombros#
+//Seios#
+//Cintura#
+背中=Costas
+//Braços#
+//Mãos#
+//Pernas#
+下腹部=Virilha
+
+//------------------------------------------------------------
+// Opções
+//------------------------------------------------------------
+オプション=Opções
+
+//Configuração de personagem#
+名前・誕生日=Nome / Aniversário
+
+キャラカード=Carta de Personagem
+保存・消去=Salvar / Deletar
+読込み=Carregar
+
+システム=Sistema
+状態設定表示=Mostrar janela de "Configurações"
+ウィンドウ配置の初期化=Resetar posições de janelas
+スライダーホイール操作=Roda do mouse nos Sliders
+
+コンフィグ=Config
+注視点の表示=Mostrar ponto do Foco
+BGM音量=Volume da Música
+SE音量=Volume dos Sons
+
+//************************************************************
+// Sub Menus (Lado Direito)
+//************************************************************
+
+//------------------------------------------------------------
+// Face -> Tipo de Face
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ft_detail_f_00
+// RedirectedResources\assets\abdata\list\characustom\00\mt_detail_f_00\
+
+輪郭=Contorno
+//Pele#
+シワ=Rugas
+
+//Tipo#
+//Amostra#
+
+強さ=Intensidade
+
+//------------------------------------------------------------
+// Face -> Geral
+//------------------------------------------------------------
+顔全体横幅=Largura da Cabeça
+顔上部前後=Profund. Superior
+顔上部上下=Altura Superior
+顔下部前後=Profund. Inferior
+顔下部横幅=Largura Inferior
+
+//------------------------------------------------------------
+// Face -> Queixo
+//------------------------------------------------------------
+顎横幅=Largura do Queixo
+顎上下=Altura do Queixo
+顎前後=Profund. do Queixo
+顎角度=Angulo do Queixo
+顎下部上下=Papada
+顎先幅=Tamanho da Ponta
+顎先上下=Altura da Ponta
+顎先前後=Profund. da Ponta
+
+//------------------------------------------------------------
+// Face -> Bochecha
+//------------------------------------------------------------
+頬下部上下=Altura Inferior
+頬下部前後=Profundidade Inferior
+頬下部幅=Largura Inferior
+頬上部上下=Altura Superior
+頬上部前後=Profundidade Superior
+頬上部幅=Largura Superior
+
+//------------------------------------------------------------
+// Face -> Sobrancelha
+//------------------------------------------------------------
+眉の幅=Largura
+眉の高さ=Altura
+眉の位置X=Posição X
+眉の位置Y=Posição Y
+眉の傾き=Ângulo
+
+//------------------------------------------------------------
+// Face -> Olhos
+//------------------------------------------------------------
+目の縦幅=Altura dos Olhos
+目横位置=Espaço Entre Olhos
+目前後=Profundidade
+目の横幅=Largura
+目上下=Posição Vertical
+目の角度Z軸=Ângulo Z
+目の角度Y軸=Ângulo Y
+目尻上下位置=Canto Externo Vertical
+目尻左右位置=Distância Externa
+目頭上下位置=Canto Interno Vertical
+目頭左右位置=Distância Interna
+まぶた形状１=Forma de Pálpebra 1
+まぶた形状２=Forma de Pálpebra 2
+
+//------------------------------------------------------------
+// Face -> Nariz
+//------------------------------------------------------------
+鼻全体上下=Posição do Nariz
+鼻全体前後=Profund. do Nariz
+鼻全体角度X軸=Ângulo do Nariz
+鼻全体横幅=Largura do Nariz
+鼻筋高さ=Profund. Superior
+鼻筋横幅=Largura Superior
+鼻筋形状=Curva Superior
+小鼻横幅=Largura da Narina
+小鼻上下=Altura da Narina
+小鼻前後=Compr. da Narina
+小鼻角度X軸=Ângulo X da Narina
+小鼻角度Z軸=Ângulo Z da Narina
+鼻先高さ=Compr. da Ponta
+鼻先角度X軸=Altura da Ponta
+鼻先サイズ=Tamanho da Ponta
+
+//------------------------------------------------------------
+// Face -> Boca
+//------------------------------------------------------------
+口上下=Posição Vertical
+口横幅=Largura da Boca
+口縦幅=Espessura dos Lábios
+口前後位置=Profundidade
+口形状上=Espessura Lábio Sup.
+口形状下=Espessura Lábio Inf.
+口形状口角=Sorriso
+
+//------------------------------------------------------------
+// Face -> Orelhas
+//------------------------------------------------------------
+耳サイズ=Tamanho
+耳角度Y軸=Ângulo Y
+耳角度Z軸=Ângulo Z
+耳上部形状=Comprimento Superior
+耳下部形状=Comprimento Inferior
+
+//------------------------------------------------------------
+// Face -> Pintas
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\st_mole_00\
+// RedirectedResources\assets\abdata\list\characustom\00\mole_layout_00\
+
+//Arranjo
+ホクロの幅=Largura
+ホクロの高さ=Altura
+ホクロの位置X=Posição X
+ホクロの位置Y=Posição Y
+
+//------------------------------------------------------------
+// Face -> Olho Direito/Esquerdo
+//------------------------------------------------------------
+白目=Branco dos Olhos
+瞳の種類=Tipo de Iris
+//Ajustes dos Olhos#
+瞳孔種類=Tipo da Pupila
+瞳孔設定=Config. da Pupila
+
+発光=Brilho
+
+//------------------------------------------------------------
+// Face -> editar olhos
+//------------------------------------------------------------
+設定=Config.
+高さ調整=Ajustar altura
+影の範囲=Alcance da Sombra
+
+//------------------------------------------------------------
+// Corpo -> Geral
+//------------------------------------------------------------
+身長=Altura
+頭サイズ=Tamanho da Cabeça
+
+//------------------------------------------------------------
+// Corpo -> Seios
+//------------------------------------------------------------
+胸サイズ=Tamanho
+胸上下位置=Altura
+胸の左右開き=Direção
+胸の左右位置=Espaçamento
+胸上下角度=Ângulo
+胸の尖り=Comprimento
+胸の柔らかさ=Maciez
+胸の重さ=Peso
+乳輪の膨らみ=Profund. da Aréola
+乳輪の大きさ=Tamanho da Aréola
+乳首太さ=Esp. dos Mamilos
+乳首立ち=Profun. dos Mamilos
+
+//------------------------------------------------------------
+// Corpo -> Tronco Superior
+//------------------------------------------------------------
+首周り幅=Largura do Pescoço
+首周り奥=Esp. do Pescoço
+胴体肩周り奥=Espessura do Ombro
+胴体肩周り幅=Largura do Ombro
+胴体上幅=Largura do Peito
+胴体上奥=Espessura do Peito
+胴体下幅=Largura da Cintura
+胴体下奥=Espessura da Cintura
+
+//------------------------------------------------------------
+// Corpo -> Tronco Inferior
+//------------------------------------------------------------
+ウエスト位置=Altura da Cintura
+腰上幅=Largura da Bacia
+腰上奥=Espessura da Bacia
+腰下幅=Largura do Quadril
+腰下奥=Espessura do Quadril
+尻=Bunda
+尻角度=Ângulo da Bunda
+
+//------------------------------------------------------------
+// Corpo -> Braços
+//------------------------------------------------------------
+//Ombros##
+上腕=Braço Superior
+前腕=Antebraço
+
+//------------------------------------------------------------
+// Corpo -> Pernas
+//------------------------------------------------------------
+太もも上=Coxa
+太もも下=Coxa Inferior
+ふくらはぎ=Joelho e Canela
+足首=Tornozelo
+
+//------------------------------------------------------------
+// Corpo -> Tipo de Pele
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ft_detail_b_00\
+// RedirectedResources\assets\abdata\list\characustom\30\ft_detail_b_30\
+// Male editor:
+// RedirectedResources\assets\abdata\list\characustom\00\mt_detail_b_00\
+// RedirectedResources\assets\abdata\list\characustom\30\mt_detail_b_30\
+
+肉感=Corpo
+肉感の強さ=Definição
+
+//------------------------------------------------------------
+// Corpo -> Bronzeado
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ft_sunburn_00\
+
+//------------------------------------------------------------
+// Corpo -> Pelo Pubiano
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\st_underhair_00\
+
+
+//------------------------------------------------------------
+// Cabelo -> Cabelo Traseiro
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\so_hair_b_00\
+// RedirectedResources\assets\abdata\list\characustom\05\so_hair_b_05\
+// RedirectedResources\assets\abdata\list\characustom\06\so_hair_b_06\
+// RedirectedResources\assets\abdata\list\characustom\07\so_hair_b_07\
+// RedirectedResources\assets\abdata\list\characustom\08\so_hair_b_08\
+// RedirectedResources\assets\abdata\list\characustom\10\so_hair_b_10\
+// RedirectedResources\assets\abdata\list\characustom\13\so_hair_b_13\
+// RedirectedResources\assets\abdata\list\characustom\14\so_hair_b_14\
+// RedirectedResources\assets\abdata\list\characustom\30\so_hair_b_30\
+// RedirectedResources\assets\abdata\list\characustom\34\so_hair_b_34\
+// RedirectedResources\assets\abdata\list\characustom\40\so_hair_b_40\
+// RedirectedResources\assets\abdata\list\characustom\41\so_hair_b_41\
+
+
+//------------------------------------------------------------
+// Cabelo -> Franja
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\so_hair_f_00\
+// RedirectedResources\assets\abdata\list\characustom\05\so_hair_f_05\
+// RedirectedResources\assets\abdata\list\characustom\08\so_hair_f_08\
+// RedirectedResources\assets\abdata\list\characustom\10\so_hair_f_10\
+// RedirectedResources\assets\abdata\list\characustom\13\so_hair_f_13\
+// RedirectedResources\assets\abdata\list\characustom\14\so_hair_f_14\
+// RedirectedResources\assets\abdata\list\characustom\30\so_hair_f_30\
+// RedirectedResources\assets\abdata\list\characustom\34\so_hair_f_34\
+// RedirectedResources\assets\abdata\list\characustom\40\so_hair_f_40\
+// RedirectedResources\assets\abdata\list\characustom\41\so_hair_f_41\
+
+
+
+//------------------------------------------------------------
+// Cabelo -> Extensões
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\so_hair_o_00\
+
+髪設定=Cor
+滑らかさ=Suavidade
+基本カラー=Cor Base
+根本カラー=Cor da Raiz
+毛先カラー=Cor da Ponta
+ツヤカラー=Cor do Brilho
+
+装飾設定=Config de Acessórios
+
+//------------------------------------------------------------
+// Roupa -> Superior
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_top_00\
+// RedirectedResources\assets\abdata\list\characustom\02\fo_top_02\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_top_03\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_top_05\
+// RedirectedResources\assets\abdata\list\characustom\10\fo_top_10\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_top_12\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_top_30\
+// RedirectedResources\assets\abdata\list\characustom\32\fo_top_32\
+// RedirectedResources\assets\abdata\list\characustom\34\fo_top_34\
+// RedirectedResources\assets\abdata\list\characustom\35\fo_top_35\
+// RedirectedResources\assets\abdata\list\characustom\40\fo_top_40\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_top_41\
+// Superior Masculino:
+// RedirectedResources\assets\abdata\list\characustom\00\mo_top_00\
+// RedirectedResources\assets\abdata\list\characustom\30\mo_top_30\
+
+
+//------------------------------------------------------------
+// Roupa -> Inferior
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_bot_00\
+// RedirectedResources\assets\abdata\list\characustom\02\fo_bot_02\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_bot_03\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_bot_30\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_bot_41\
+// Inferior Masculino:
+// RedirectedResources\assets\abdata\list\characustom\00\mo_bot_00\
+// RedirectedResources\assets\abdata\list\characustom\30\mo_bot_30\
+
+
+//------------------------------------------------------------
+// Roupa -> Superior Interno
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_inner_t_00\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_inner_t_03\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_inner_t_05\
+// RedirectedResources\assets\abdata\list\characustom\07\fo_inner_t_07\
+// RedirectedResources\assets\abdata\list\characustom\08\fo_inner_t_08\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_inner_t_12\
+// RedirectedResources\assets\abdata\list\characustom\13\fo_inner_t_13\
+// RedirectedResources\assets\abdata\list\characustom\14\fo_inner_t_14\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_inner_t_30\
+// RedirectedResources\assets\abdata\list\characustom\31\fo_inner_t_31\
+// RedirectedResources\assets\abdata\list\characustom\32\fo_inner_t_32\
+// RedirectedResources\assets\abdata\list\characustom\34\fo_inner_t_34\
+// RedirectedResources\assets\abdata\list\characustom\36\fo_inner_t_36\
+// RedirectedResources\assets\abdata\list\characustom\38\fo_inner_t_38\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_inner_t_41\
+
+
+//------------------------------------------------------------
+// Roupa -> Inferior Interno
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_inner_b_00\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_inner_b_03\
+// RedirectedResources\assets\abdata\list\characustom\04\fo_inner_b_04\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_inner_b_05\
+// RedirectedResources\assets\abdata\list\characustom\10\fo_inner_b_10\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_inner_b_12\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_inner_b_30\
+// RedirectedResources\assets\abdata\list\characustom\31\fo_inner_b_31\
+// RedirectedResources\assets\abdata\list\characustom\38\fo_inner_b_38\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_inner_b_41\
+
+
+//------------------------------------------------------------
+// Roupa -> Luvas
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_gloves_00\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_gloves_03\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_gloves_05\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_gloves_12\
+// RedirectedResources\assets\abdata\list\characustom\13\fo_gloves_13\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_gloves_30\
+// RedirectedResources\assets\abdata\list\characustom\31\fo_gloves_31\
+// RedirectedResources\assets\abdata\list\characustom\32\fo_gloves_32\
+// RedirectedResources\assets\abdata\list\characustom\34\fo_gloves_34\
+// RedirectedResources\assets\abdata\list\characustom\40\fo_gloves_40\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_gloves_41\
+// Luvas Masculinas:
+// RedirectedResources\assets\abdata\list\characustom\00\mo_gloves_00\
+// RedirectedResources\assets\abdata\list\characustom\30\mo_gloves_30\
+
+
+//------------------------------------------------------------
+// Roupa -> Meia Calça
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_panst_00\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_panst_05\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_panst_30\
+// RedirectedResources\assets\abdata\list\characustom\35\fo_panst_35\
+// RedirectedResources\assets\abdata\list\characustom\40\fo_panst_40\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_panst_41\
+
+
+//------------------------------------------------------------
+// Roupa -> Meias
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_socks_00\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_socks_03\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_socks_05\
+// RedirectedResources\assets\abdata\list\characustom\10\fo_socks_10\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_socks_12\
+// RedirectedResources\assets\abdata\list\characustom\13\fo_socks_13\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_socks_30\
+// RedirectedResources\assets\abdata\list\characustom\31\fo_socks_31\
+// RedirectedResources\assets\abdata\list\characustom\32\fo_socks_32\
+// RedirectedResources\assets\abdata\list\characustom\34\fo_socks_34\
+// RedirectedResources\assets\abdata\list\characustom\40\fo_socks_40\
+
+
+//------------------------------------------------------------
+// Roupa -> Sapatos
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\fo_shoes_00\
+// RedirectedResources\assets\abdata\list\characustom\02\fo_shoes_02\
+// RedirectedResources\assets\abdata\list\characustom\03\fo_shoes_03\
+// RedirectedResources\assets\abdata\list\characustom\05\fo_shoes_05\
+// RedirectedResources\assets\abdata\list\characustom\10\fo_shoes_10\
+// RedirectedResources\assets\abdata\list\characustom\12\fo_shoes_12\
+// RedirectedResources\assets\abdata\list\characustom\13\fo_shoes_13\
+// RedirectedResources\assets\abdata\list\characustom\30\fo_shoes_30\
+// RedirectedResources\assets\abdata\list\characustom\31\fo_shoes_31\
+// RedirectedResources\assets\abdata\list\characustom\32\fo_shoes_32\
+// RedirectedResources\assets\abdata\list\characustom\34\fo_shoes_34\
+// RedirectedResources\assets\abdata\list\characustom\40\fo_shoes_40\
+// RedirectedResources\assets\abdata\list\characustom\41\fo_shoes_41\
+// Sapatos Masculinos:
+// RedirectedResources\assets\abdata\list\characustom\00\mo_shoes_00\
+// RedirectedResources\assets\abdata\list\characustom\30\mo_shoes_30\
+
+
+//------------------------------------------------------------
+// Roupa -> Carta de Roupa
+//------------------------------------------------------------
+服読込み=Carregar\nRoupa
+装飾読込み=Carregar\nAcessórios
+全て読込み=Carregar Tudo
+コーディネート名=Nome do Conjunto
+//Voltar
+決定=Aceitar
+
+//------------------------------------------------------------
+// Acessórios - Cabeça
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_head_00\
+// RedirectedResources\assets\abdata\list\characustom\02\ao_head_02\
+// RedirectedResources\assets\abdata\list\characustom\03\ao_head_03\
+// RedirectedResources\assets\abdata\list\characustom\05\ao_head_05\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_head_07\
+// RedirectedResources\assets\abdata\list\characustom\08\ao_head_08\
+// RedirectedResources\assets\abdata\list\characustom\09\ao_head_09\
+// RedirectedResources\assets\abdata\list\characustom\10\ao_head_10\
+// RedirectedResources\assets\abdata\list\characustom\12\ao_head_12\
+// RedirectedResources\assets\abdata\list\characustom\13\ao_head_13\
+// RedirectedResources\assets\abdata\list\characustom\14\ao_head_14\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_head_30\
+// RedirectedResources\assets\abdata\list\characustom\31\ao_head_31\
+// RedirectedResources\assets\abdata\list\characustom\32\ao_head_32\
+// RedirectedResources\assets\abdata\list\characustom\33\ao_head_33\
+// RedirectedResources\assets\abdata\list\characustom\34\ao_head_34\
+// RedirectedResources\assets\abdata\list\characustom\37\ao_head_37\
+// RedirectedResources\assets\abdata\list\characustom\40\ao_head_40\
+
+//------------------------------------------------------------
+// Acessórios - Orelhas
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_ear_00\
+// RedirectedResources\assets\abdata\list\characustom\12\ao_ear_12\
+
+
+//------------------------------------------------------------
+// Acessórios - Óculos
+//------------------------------------------------------------
+//RedirectedResources\assets\abdata\list\characustom\00\ao_glasses_00\
+
+
+//------------------------------------------------------------
+// Acessórios - Face
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_face_00\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_face_07\
+// RedirectedResources\assets\abdata\list\characustom\14\ao_face_14\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_face_30\
+// RedirectedResources\assets\abdata\list\characustom\41\ao_face_41\
+
+
+//------------------------------------------------------------
+// Acessórios - Pescoço
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_neck_00\
+// RedirectedResources\assets\abdata\list\characustom\05\ao_neck_05\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_neck_07\
+// RedirectedResources\assets\abdata\list\characustom\09\ao_neck_09\
+// RedirectedResources\assets\abdata\list\characustom\10\ao_neck_10\
+// RedirectedResources\assets\abdata\list\characustom\12\ao_neck_12\
+// RedirectedResources\assets\abdata\list\characustom\13\ao_neck_13\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_neck_30\
+// RedirectedResources\assets\abdata\list\characustom\31\ao_neck_31\
+// RedirectedResources\assets\abdata\list\characustom\40\ao_neck_40\
+// RedirectedResources\assets\abdata\list\characustom\41\ao_neck_41\
+
+
+//------------------------------------------------------------
+// Acessórios - Ombros
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_shoulder_00\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_shoulder_07\
+// RedirectedResources\assets\abdata\list\characustom\09\ao_shoulder_09\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_shoulder_30\
+// RedirectedResources\assets\abdata\list\characustom\31\ao_shoulder_31\
+
+
+//------------------------------------------------------------
+// Acessórios - Seios
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_chest_00\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_chest_07\
+
+
+//------------------------------------------------------------
+// Acessórios - Cintura
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_waist_00\
+// RedirectedResources\assets\abdata\list\characustom\05\ao_waist_05\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_waist_07\
+// RedirectedResources\assets\abdata\list\characustom\09\ao_waist_09\
+// RedirectedResources\assets\abdata\list\characustom\10\ao_waist_10\
+// RedirectedResources\assets\abdata\list\characustom\13\ao_waist_13\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_waist_30\
+// RedirectedResources\assets\abdata\list\characustom\31\ao_waist_31\
+// RedirectedResources\assets\abdata\list\characustom\32\ao_waist_32\
+// RedirectedResources\assets\abdata\list\characustom\33\ao_waist_33\
+
+
+//------------------------------------------------------------
+// Acessórios - Costas
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_back_00\
+// RedirectedResources\assets\abdata\list\characustom\02\ao_back_02\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_back_07\
+// RedirectedResources\assets\abdata\list\characustom\08\ao_back_08\
+// RedirectedResources\assets\abdata\list\characustom\37\ao_back_37\
+
+//------------------------------------------------------------
+// Acessórios - Braço
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_arm_00\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_arm_07\
+// RedirectedResources\assets\abdata\list\characustom\08\ao_arm_08\
+// RedirectedResources\assets\abdata\list\characustom\10\ao_arm_10\
+// RedirectedResources\assets\abdata\list\characustom\13\ao_arm_13\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_arm_30\
+// RedirectedResources\assets\abdata\list\characustom\40\ao_arm_40\
+
+
+//------------------------------------------------------------
+// Acessórios - Mãos
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_hand_00\
+// RedirectedResources\assets\abdata\list\characustom\05\ao_hand_05\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_hand_07\
+// RedirectedResources\assets\abdata\list\characustom\12\ao_hand_12\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_hand_30\
+// RedirectedResources\assets\abdata\list\characustom\31\ao_hand_31\
+// RedirectedResources\assets\abdata\list\characustom\34\ao_hand_34\
+
+
+//------------------------------------------------------------
+// Acessórios - Perna
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_leg_00\
+// RedirectedResources\assets\abdata\list\characustom\03\ao_leg_03\
+// RedirectedResources\assets\abdata\list\characustom\07\ao_leg_07\
+// RedirectedResources\assets\abdata\list\characustom\30\ao_leg_30\
+// RedirectedResources\assets\abdata\list\characustom\34\ao_leg_34\
+
+
+//------------------------------------------------------------
+// Acessórios - Virilha
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\ao_kokan_00
+
+
+//------------------------------------------------------------
+// Acessórios - Copiar
+//------------------------------------------------------------
+コピー元を選択=Origem
+コピー先を選択=Destino
+左右の親を変更=Mudar Posição Esq e Dir
+スロットをコピー=Copiar Slot
+調整値のコピー=Copiar valor de ajuste
+調整①=Ajuste ①
+調整②=Ajuste ②
+調整①を上下反転=Virar ① de cabeça para baixo
+調整②を上下反転=Virar ② de cabeça para baixo
+調整①を左右反転=Virar ① Horizontalmente
+調整②を左右反転=Virar ② Verticalmente
+
+
+//------------------------------------------------------------
+// Acessórios - Extra
+//------------------------------------------------------------
+髪の毛の色を取得=Copiar cor de cabelo
+初期親=Posição Padrão
+初期化=Resetar Tudo
+
+//------------------------------------------------------------
+// Opções -> Nome / Aniversário
+//------------------------------------------------------------
+//Nome#
+ランダム=Aleatório
+誕生日=Aniversário
+
+// CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle
+//--------------------------------------------------
+月=Mês
+日=Dia
+
+//------------------------------------------------------------
+// Opções -> Tipo
+//------------------------------------------------------------
+声質=Tom da Voz
+
+//------------------------------------------------------------
+// Opções -> Salvar / Deletar
+//------------------------------------------------------------
+消去=Deletar
+新規保存=Salvar Novo
+上書き保存=Salvar
+
+//------------------------------------------------------------
+// Opções -> Carregar
+//------------------------------------------------------------
+//Face#
+体=Corpo
+髪=Cabelo
+//Roupa#
+//Configuração do Personagem#
+
+//------------------------------------------------------------
+// Opções -> Busca
+//------------------------------------------------------------
+ソート=Ordenar
+//Nome#
+日付=Data
+
+//------------------------------------------------------------
+// Opções -> Fusão
+//------------------------------------------------------------
+キャラカードA=Personagem A
+キャラカードB=Personagem B
+融合=Fusão
+掛け合わせる=Fundir Cartas
+終了=Fechar
+
+//************************************************************
+// Caixas de Diálogo
+//************************************************************
+終了しますか？=Deseja Sair?
+キャラメイクを終了しますか？=Sair do Editor?
+
+確定=Confirmar
+キャンセル=Cancelar
+
+
+//************************************************************
+// Editando garotas quando você clica em "editar"
+//************************************************************
+保存して終了=Salvar e Sair
+保存しないで終了=Sair\nSem Salvar
+編集に戻る=Retornar para o Editor
+撮影=Tirar Foto
+撮影し直す=Tirar Foto Novamente
+
+//Diálogo
+キャラ編集を終了しますか？=Terminar a edição desse personagem?
+
+//************************************************************
+// Sem Categoria
+//************************************************************
+ホクロのタイプ=Tipo de Pinta
+肌のタイプ=Tipo de Pele
+メッシュ=Mecha
+肌の色に合わせる=Combinar com a Cor da Pele
+メッシュ設定=Opções de Mecha

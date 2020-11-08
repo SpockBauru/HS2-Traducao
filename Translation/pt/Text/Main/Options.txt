@@ -1,0 +1,164 @@
+//***********************************************************************
+// Menu de Configurações
+// Algumas linhas comentadas também têm traduções em Generic.txt
+//***********************************************************************
+
+#set level 1
+オプション=Configurar
+#unset level 1
+
+//------------------------------------------------------------
+// Menu Esquerdo
+//------------------------------------------------------------
+タイトル設定=Menu de Título
+カメラ設定=Câmera
+描画設定=Gráficos
+オーディオ設定=Áudio
+音声設定=Voz
+テキスト設定=Texto
+ゲーム設定=Jogo
+初期化する=Resetar Tudo
+タイトルに戻る=Voltar ao Título
+
+//------------------------------------------------------------
+// Menu de Título
+//------------------------------------------------------------
+タイトル画面での\nキャラ表示=Exibir Garota\nna Tela de Título
+タイトルで表示する女の子の読み込み=Personalizar Garoda do Título
+表示する女の子を選択する=Selecionar Garota
+
+//------------------------------------------------------------
+// Câmera
+//------------------------------------------------------------
+カメラ見る=Câmera
+注視点の表示=Ponto de Foco
+カメラ縦移動=Movimento Vert.
+カメラ横移動=Movimento Horiz.
+//標準=Normal
+反転=Invertido
+
+//------------------------------------------------------------
+// Gráficos
+//------------------------------------------------------------
+描画レベル=Qualidade
+
+//SSAO
+フォグ=Névoa
+被写界深度=Profund. de Campo
+ブルーム（光る処理）=Bloom
+ビネット=Vignettes
+サンシャフト=Raios de Sol
+SSR（反射）=SSR (Reflexões)
+セルフシャドウ=Sombras
+映り込み=Reflexões
+雨の描画=Chuva
+
+解像度=Resolução
+半分=1/2
+さらに半分=1/4
+
+環境ライト=Luz Ambiente
+
+//Map
+
+遮蔽=Obstruções
+
+背景色=Cor de Fundo
+
+//------------------------------------------------------------
+// Áudio
+//------------------------------------------------------------
+マスター=Volume Mestre
+//BGM
+環境音=Som Ambiente
+システムSE=Sistema SE
+ゲームSE=Jogo SE
+
+カスタム中のBGMを変更する=Personalizar Música
+
+//Menu de Selecionar Música
+BGM選択=Selecionar Música
+登録=OK
+
+//------------------------------------------------------------
+// Voz
+//------------------------------------------------------------
+//声質=Voz
+
+//RedirectedResources\assets\abdata\etcetra\list\config\30\00\
+
+//------------------------------------------------------------
+// Texto
+//------------------------------------------------------------
+サンプルテキストを表示しています=Mostrando texto de amostra
+
+文字表示速度=Velocidade do texto
+遅=Lento
+速=Rápido
+
+アルファ=Alpha
+薄=Transparente
+濃=Opaco
+
+//------------------------------------------------------------
+// Jogo
+//------------------------------------------------------------
+// Opções de jogo
+フュルのイベントをスキップする=Pular evento da Fur
+快感ゲージ表示=Indic. de Prazer
+操作ガイド表示=Guia de Controle
+カメラ初期化判断=Resetar direção da câmera
+プレイヤーの表示=Mostrar Jogador
+プレイヤーの男根=Pênis do Jogador
+プレイヤーの服=Roupa do Jogador
+プレイヤーのアクセサリー=Acessórios do Jogador
+プレイヤーの靴=Sapatos Jogador
+２人目のプレイヤーの表示=Mostrar Jogador 2 
+２人目のプレイヤーの男根=Pênis do Jogador 2
+２人目のプレイヤーの服=Roupas do Jogador 2
+２人目のプレイヤーのアクセサリー=Acessórios do Jogador 2
+２人目のプレイヤーの靴=Sapatos do Jogador 2
+
+// Checkbox
+する=Sim
+しない=Não
+
+// Cor Monocromática
+プレイヤーを単色化=Corpo Monocromático
+単色カラー=Cor Base
+
+// Configurações diversas
+汁表示=Mostrar Sêmen
+尿描画方法=Mostrar Urina
+尿発生条件=Condição de Urina
+潮吹き描画方法=Ejaculação Fem.
+潮吹き発生条件=Condição Ejac. Fem.
+１人目 視線=Olhar da 1ª pessoa
+１人目 首の向き=Direc. Cabeça 1ª pessoa
+２人目 視線=Olhar da 2ª pessoa
+２人目 首の向き=Direc. Cabeça 2ª pessoa
+脱力制御=Controle de Cansaço
+逃走制御=Controle de Fuga
+
+// Checkboxes
+通常=Detalhado
+簡易=Simples
+//なし=Nenhum
+ゲーム準拠=Auto
+常時=Sempre
+脱力しない=Desabilitar Cansaço
+逃走しない=Desabilitar Fuga
+
+//------------------------------------------------------------
+// Opções Extras
+//------------------------------------------------------------
+追加機能=Opções Extras
+追加機能設定=Opções Extras
+Mob男カラー=Cor Multidão Masc.
+Mob女カラー=Cor Multidão Fem.
+
+//------------------------------------------------------------
+// Diálogos
+//------------------------------------------------------------
+設定を初期化しますか？=Você deseja resetar as configurações??
+タイトルへ戻りますか？=Voltar para a tela de título?

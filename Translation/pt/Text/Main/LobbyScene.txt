@@ -1,0 +1,26 @@
+#set level 8
+
+待ち合わせ=Recepção
+
+欲求行動=Necessidade
+状態=Estado
+おもらし=Mijando
+
+
+発汗剤=Sudorífico\n(Suor)
+媚薬=Afrodisíaco\n(Tesão)
+睡眠薬=Sedativo\n(Sono)
+利尿剤=Diurético\n(Mijar)
+
+１人目を選択=1ª Garota
+２人目を選択=2ª Garota
+Hを開始する=Transar
+
+アイテムを使用する=Usar Item
+
+//************************************************************
+// Sem categoria
+//************************************************************
+なんでしょうか=O que vamos fazer
+なんでもこいや=Qualquer coisa
+恥ずかしい=Embaraçoso

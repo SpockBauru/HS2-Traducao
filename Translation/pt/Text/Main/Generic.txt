@@ -1,0 +1,170 @@
+//------------------------------------------------------------
+// Textos Genéricos
+// use # para procurar instâncias como no "\\Exemplo#"
+//------------------------------------------------------------
+はい=Sim
+いいえ=Não
+戻る=Voltar
+チ=Sexo
+なし=Nenhum
+マップ=Mapa
+上=Acima
+少=Pequeno
+日=Dia
+カラー=Cor
+標準=Normal
+声質=Voz
+
+//Partes do Corpo
+体=Corpo
+首=Pescoço
+目=Olhos
+眉=Sobrancelhas
+口=Boca
+手=Mãos
+左手=Mão Dir
+右手=Mão Esq
+
+// Nome das Assistentes
+フュル=Fur
+シトリー=Sitri
+
+
+//------------------------------------------------------------
+// Personalidades
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\cha_sample_voice_00\
+// RedirectedResources\assets\abdata\etcetra\list\config\30\00\
+// RedirectedResources\assets\abdata\studio\info\34\voicegroup_34\
+
+
+//------------------------------------------------------------
+// Características
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// Mentalidade
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\list\characustom\00\init_mind_param_00\
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// Fetiches
+//------------------------------------------------------------
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00
+
+//------------------------------------------------------------
+// Caixa de personagens no Editor de Personagens, Busca de Personagens, Meu Quarto e Recepção
+//------------------------------------------------------------
+// Personalidades dos Personagens
+性格=Personalidade
+
+// Cabeçalho dos personagens
+メンタル=Mentalidade
+特性=Caracte\nrísticas
+心情=Sentimen\ntos
+H属性=Fetiches
+
+// Status dos personagens
+// sr:"^(通常|好意|淫乱|嫌悪|隷属|享楽)([0-9])$"=$1 $2
+// RedirectedResources\assets\abdata\etcetra\list\parametername\30\00\
+
+//Definir nivel para não conflitar com Seletor de Cores
+#set level 4,8
+H=Sexo
+#unset level 4,8
+
+淫乱=Excentrico
+苦痛=Dor
+お尻=Anal
+
+所属グループ=Grupo Atual
+
+//------------------------------------------------------------
+// Seletor de cores no Editor de Personagens, Buscador de personagens e cenas de sexo
+//------------------------------------------------------------
+ピッカー=Selec.
+スライダー=Slider
+プリセット=Preset
+色相=Hue
+明度=Brilh.
+彩度=Sat.
+透明度=Transp.
+赤=Vermelho
+緑=Verde
+青=Azul
+
+左クリックで適用、右クリックで削除=Botão esquerdo para aplicar, direito para deletar
+左クリックで適用=Botão esquerdo para aplicar
+左クリックで現在のカラーを登録=Botão esquerto para registrar cor atual
+
+//------------------------------------------------------------
+// Caixa de configurações no Editor de Personagens e Buscador de Personagens
+// (partes também usadas no menu de foto)
+//------------------------------------------------------------
+状態設定=Configurações
+
+//geral
+視線=Olhar
+//Pescoço#
+カメラ=Cam
+正面=Frente
+ポーズ=Pose
+//Olho#
+//Sobrancelhas#
+//Boca#
+ポーズ再生=Play/Pause
+
+//Roupas
+服状態=Roupas
+自動=Auto
+着衣=Vestido
+下着=Íntimas
+全裸=Nú
+装飾=Acessórios
+表示=Mostrar
+非表示=Esconder
+
+//Luzes
+ライト向きX=Direta X
+ライト向きY=Direta Y
+ライト強さ=Força
+
+//Fundo
+背景=Fundo
+単色=Solido
+画像=Imagem
+
+//------------------------------------------------------------
+// Menu de fotos (salvar cartão) no Editor de Personagens e Buscador de Personagens
+// (usa texto da caixa de configurações)
+//------------------------------------------------------------
+撮影メニュー=Menu de Foto
+
+目の開き=Abert. Olhos
+口の開き=Abert. Boca
+//Mão Esq#
+//Mão Dir#
+
+背面フレーム=Fundo
+前面フレーム=Quadro
+
+保存=Salvar
+
+//Prompts
+本当に削除しますか？=Tem certeza de que deseja excluir?
+本当に削除しますか？\n<color%3D#DE4529FF>このキャラにはパラメータが含まれています。</color>=<color%3D#DE4529FF>O status do personagem também será excluído.</color>\nVocê deseja continuar?
+本当に上書きしますか？=Substituir arquivo?
+本当に上書きしますか？\n<color%3D#DE4529FF>上書きするとパラメータは初期化されます。</color>=<color%3D#DE4529FF>A substituição irá redefinir o status do personagem para as configurações padrão.</color>\nVocê deseja continuar?
+
+// corrigir erros ocasionais com configurações de nível gráfico e mês / dia de aniversário
+1=1
+2=2
+3=3
+4=4
+5=5
+6=6
+7=7
+8=8
+9=9

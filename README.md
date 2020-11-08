@@ -46,7 +46,7 @@ As traduções serão revisadas antes de serem adicionadas via "pull-request". S
 | 0     | Diálogos               |
 | 1     | Menu de Configurações  |
 | 2     | Menu Principal         |
-| 3     | Criador de Personagens |
+| 3     | Editor de Personagens |
 | 4     | Meu Quarto             |
 | 6     | Cenas de Diálogo ADV   |
 | 7     | Cenas de Sexo          |
@@ -68,7 +68,7 @@ As traduções serão revisadas antes de serem adicionadas via "pull-request". S
 - `gamedata/bgmname` - Música de fundo
 - `gamedata/eventcontent` - atividade/necessidade atual
 - `map/list/mapinfo` - nomes de mapas
-- `list/characustom` - coisas do criador de personagens
+- `list/characustom` - coisas do editor de personagens
 - `list/h/animationinfo` - posições (versões do jogo)
 - `list/h/sound` - Legendas
 - `spr/list/*/planname` - Nomes de serviços VIP

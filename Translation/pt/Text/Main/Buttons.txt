@@ -1,0 +1,6 @@
+#set level 4,8
+
+// Texto menor para caber no botão
+
+容姿変更=Editar
+

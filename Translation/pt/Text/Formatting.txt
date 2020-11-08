@@ -1,0 +1,22 @@
+// strings de formato conhecidas usadas pelo jogo antes de aplicar ao elemento GUI
+
+r:"^スロット([０-９0-9]+)$"=Slot $1
+sr:"^(.*) が逃げ出しました$"=$1 fugiu
+
+sr:"^FKカラー (.*)"$=FK Cor $1
+
+// ranking
+r:"^([０-９0-9]+)位"=$1
+
+sr:"^■\s*(.*)"=■ $1
+
+// Alerta de conquista
+
+sr:"^「([^」]+)」が達成されました$"="$1" Conquistado
+
+r:"^残り([０-９0-9]+)Ｐ$"=$1P Restantes
+
+// Quando o serviço é selecionado:
+#set level 15
+sr:^～(.*)～$=~$1~
+#unset level 15

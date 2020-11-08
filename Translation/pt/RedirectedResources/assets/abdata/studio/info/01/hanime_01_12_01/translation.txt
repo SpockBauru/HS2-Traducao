@@ -1,0 +1,14 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+//表示名=
+//立ちin=
+//立ちloop=
+//椅子in=
+//椅子loop=
+//寝in=
+//寝loop=
+//壁in=
+//壁loop=
+//机in=
+//机loop=

@@ -1,0 +1,191 @@
+//------------------------------------------------------------
+// use # para procurar instâncias como no "\\Exemplo#"
+//------------------------------------------------------------
+キャラ管理=Personagens
+プレイヤー選択=Jogador
+
+
+//************************************************************
+// Janela "Meu Quarto"
+//************************************************************
+r:"グループ([0-9０-９]+)が設定中"=Grupo $1 Selecionado
+r:"グループ *([0-9０-９]+)"=Grupo $1
+
+マイルーム=Meu Quarto
+
+部屋を出る=Sair do Quarto
+//Personagens#
+フュルを呼ぶ=Ligar para a Fur
+オプション=Configurações
+寝る=Dormir
+
+// Diálogos
+[キャラクター編集]を選び、\n女の子をグループに登録して下さい=Selecione [Personagens] e cadastre\numa garota no grupo
+待ち合わせ場所に移動しますか？=Ir para a recepção?
+タイトルに戻りますか？=Voltar para a tela de título?
+寝ますか？=Deseja dormir?
+特別待遇室に移動します\nよろしいですか？=Ir para a sala VIP?
+
+//------------------------------------------------------------
+// Sair do Quarto
+//------------------------------------------------------------
+待ち合わせをする=Chamar uma Garota
+館内を回る=Andar pelo Corredor
+特別待遇室に行く=Ir para a sala VIP
+
+//------------------------------------------------------------
+// Personagens
+//------------------------------------------------------------
+//Personagens#
+キャラ作成=Criar
+女カード作成=Criar uma Mulher
+男カード作成=Criar um Homem
+
+キャラ編集=Editar
+グループ編集=Grupos
+衣装選択=Roupas
+//Jogador#
+プレイヤー衣装選択=Roupas do Jogador
+
+// Diálogos
+キャラのメイク画面に移動します\nよろしいですか？=Abrir o editor de personagens?
+
+//------------------------------------------------------------
+// Personagens -> Editar -> Grupos
+//------------------------------------------------------------
+キャラ選択=Escolher
+登録=Cadastrar
+容姿変更=Editar
+解除=Remover
+
+ステータスをリセットする=Resetar Estado
+
+// Dialogues
+ステータスをリセットしますか？=Resetar Estado？
+
+//------------------------------------------------------------
+// Personagens -> Editar -> Roupas
+//------------------------------------------------------------
+一括解除=Reset
+
+//------------------------------------------------------------
+// Personagens -> Editar -> Jogador
+//------------------------------------------------------------
+//Jogador#
+１人目=1st Jogador
+２人目=2nd Jogador
+
+//------------------------------------------------------------
+// Personagens -> Editar -> Roupas do Jogador
+//------------------------------------------------------------
+1人目衣装選択=Roupas do 1º Jogador
+２人目衣装選択=Roupas do 2º Jogador
+
+//------------------------------------------------------------
+// Ligar para Fur - Mesma tela que o quarto da Fur
+//------------------------------------------------------------
+女の子を探してもらう=Requisitar uma Garota
+実績の解除=Conquistas
+ヘルプ=Ajuda
+Hをお願いする=Pedir para transar
+容姿の変更=Mudar a aparência da Fur
+特別待遇室へ行く=Ir para a sala VIP
+
+// Diálogos da sala da Fur
+キャラ検索画面に移動します\nよろしいですか？=Abrir a busca de personagens?
+マイルームに戻ります\nよろしいですか？=Deseja voltar para o seu quarto?
+
+//------------------------------------------------------------
+// Ligar para a Fur -> Conquistas
+//------------------------------------------------------------
+// Lista de Conquistas: RedirectedResources\assets\abdata\gamedata\achievement\achievement\
+// Lista de Desbloqueáveis: RedirectedResources\assets\abdata\gamedata\achievement\exchange\
+実績=Conquistas
+実績項目=Conquistas
+交換品=Desbloqueáveis
+必要Ｐ=Requisitos
+sr:"^残り(.*)P$"=Pontos Restantes $1P
+解放しますか？=Você deseja desbloquear esse item?
+
+//------------------------------------------------------------
+// Ligar para a Fur -> Ajuda
+//------------------------------------------------------------
+ヘルプ画面=Ajuda
+ホーム画面=Tela inicial
+キャラ管理画面=Gerenciar Personagens
+待ち合わせ画面=Encontros
+H画面=Cenas de Sexo
+館内を回る画面=Andar pelo Corredor
+フュルを呼ぶ画面=Ligar para a Fur
+特別待遇室画面=Sala VIP
+
+// Diálogo da tela de ajuda
+説明画面を終了しますか？=Deseja sair da tela de ajuda?
+
+//************************************************************
+// Telas fora de Meu Quarto
+//************************************************************
+
+//------------------------------------------------------------
+// Recepção
+//------------------------------------------------------------
+// Text\Main\LobbyScene.txt
+
+//------------------------------------------------------------
+//Selecionar Mapas
+//------------------------------------------------------------
+MAP選択=Mapas
+マップ選択=Mapa
+このマップで開始する=Iniciar neste mapa
+Hを開始しますか？=Iniciar cena de sexo?
+
+// Diálogos
+この場所に向かいますか？=Deseja ir para este lugar?
+
+//------------------------------------------------------------
+// Busca de Personagens
+//------------------------------------------------------------
+//Text\Main\Character_Finder.txt
+
+//------------------------------------------------------------
+// Menu das cenas de sexo
+//------------------------------------------------------------
+// Text\Main\HScenes.txt
+
+
+//************************************************************
+// Sala VIP (Expansão DX)
+//************************************************************
+プラン選択=Selecionar Serviço
+シトリーとHする=Sexo com a Sitri
+シトリーの容姿を変更する=Aparência da Sitri
+
+//------------------------------------------------------------
+// Menu de Selecionar Serviço
+//------------------------------------------------------------
+// Plan/Service list: RedirectedResources\assets\abdata\spr\list\*\planname
+
+
+//------------------------------------------------------------
+// Tela de Serviço
+//------------------------------------------------------------
+女の子キャラクター=Garota
+パートナー選択=Selecionar Parceira
+女の子衣装=Roupas da Garota
+パートナー衣装=Roupas da Parceira
+プレイヤー=Jogador
+プレイヤー衣装=Roupas do Jogador
+
+以上の内容で申請します=Requisitar serviço com conteúdo acima
+取り下げ=Retirar
+申請=Requisitar
+
+
+//************************************************************
+// Sem grupo
+//************************************************************
+あいうえおかきくけこさしすせそた=AIUEOKAKU
+グループ登録中=Registrando Grupo
+プレイヤー登録中=Registrando como Jogador
+〇〇が達成されました=〇 foi conquistado
+特別待遇を申し込む=Serviço de Luxo

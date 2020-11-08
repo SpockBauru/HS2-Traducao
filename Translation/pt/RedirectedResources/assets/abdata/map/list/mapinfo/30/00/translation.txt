@@ -1,0 +1,27 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+ロビー=Recepção
+マイルーム=Meu Quarto
+フュルの部屋=Quarto da Fur
+女の子部屋=Quarto da Garota
+大浴場=Banheiro Público
+シャワー=Chuveiro
+風呂=Banho
+洋式トイレ=Banheiro Ocidental
+和式トイレ=Banheiro Japonês
+裏庭=Quintal
+裏庭（雨）=Quintal (Chuva)
+拷問部屋=Sala de Tortura
+オフィス=Escritório
+公衆トイレ=Banheiro Público
+病室=Quarto de Hospital
+教室=Sala de Aula
+体育館倉庫=Armazém do Ginásio
+中華料理店=Restaurante Chines
+酒場=Bar
+洋式トイレ内=Privada Estilo Ocidental
+和式トイレ内=Privada Estilo Japonês
+浴室内（シャワー）=No Banheiro (chuveiro)
+浴室内（湯船）=No Banheiro (Banheira)
+OPマップ=Mapa OP

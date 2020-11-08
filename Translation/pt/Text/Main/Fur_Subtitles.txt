@@ -1,0 +1,19 @@
+//***********************************************************************
+// Legendas para a personagem Fur
+// Estes textos foram transcritos dos arquivos de audio e estão dentro do plugin "subtitles"
+//***********************************************************************
+
+//------------------------------------------------------------
+// Ligando para Fur
+//------------------------------------------------------------
+// Arquivo de áudio em: abdata\sound\data\pcm\c-1\adv\30.unity3d
+失礼します。=Com licensa.
+はい。かしこまりました。=Sim. Entendido.
+はい。少々お待ちください。=Sim. Por favor aguarde um momento.
+
+//------------------------------------------------------------
+// Início do Tutorial 
+//------------------------------------------------------------
+// Arquivo de áudio em: abdata\sound\data\pcm\op\30.unity3d
+いらっしゃいませ。当店をご利用いただき誠にありがとうございます。=Bem-vindo. Obrigado por visitar nosso estabelecimento.
+

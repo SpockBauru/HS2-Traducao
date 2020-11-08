@@ -1,0 +1,9 @@
+//
+// Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
+//
+なし=Nenhum
+//軍手=
+//革手袋=
+//革手袋左手=
+//ロングレングス=
+//フィンガーグローブ=

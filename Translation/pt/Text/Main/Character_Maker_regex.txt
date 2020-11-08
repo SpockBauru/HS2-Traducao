@@ -1,0 +1,9 @@
+#set exe HoneySelect2
+#set level 3
+
+//Acessórios que estão na forma (Slot#) (Nome do Acessório)
+sr:"^([0-9]{2}) ([\S\s]+)$"=$1 $2
+
+r:"^カラー([0-9①-⑨]+)$"=Cor $1
+r:"^調整([0-9①-⑨]+)$"=Ajuste $1
+r:"^タイプ([0-9０-９]+)$"=Tipo $1

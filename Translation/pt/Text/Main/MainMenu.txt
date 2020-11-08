@@ -1,0 +1,20 @@
+// Some commented lines have translations also in Generic.txt
+
+#set level 2
+
+プレイ=Jogar
+メイク=Criar
+ネットワーク=Rede
+オプション=Configurações
+終了=Sair
+
+女キャラ=Mulheres
+男キャラ=Homens
+//戻る=Voltar
+
+アップロード=Uploader
+ハニーダウンロード=HS Downloader
+AIダウンロード=AI Downloader
+
+//Diálogo
+ゲームを終了しますか？=Sair do jogo?
