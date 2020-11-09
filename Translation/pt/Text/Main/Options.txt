@@ -3,9 +3,7 @@
 // Algumas linhas comentadas também têm traduções em Generic.txt
 //***********************************************************************
 
-#set level 1
-オプション=Configurar
-#unset level 1
+オプション=Opções
 
 //------------------------------------------------------------
 // Menu Esquerdo

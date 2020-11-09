@@ -16,7 +16,7 @@ r:"グループ *([0-9０-９]+)"=Grupo $1
 部屋を出る=Sair do Quarto
 //Personagens#
 フュルを呼ぶ=Ligar para a Fur
-オプション=Configurações
+オプション=Opções
 寝る=Dormir
 
 // Diálogos

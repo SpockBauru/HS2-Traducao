@@ -19,7 +19,7 @@
 教室=Sala de Aula
 体育館倉庫=Armazém do Ginásio
 中華料理店=Restaurante Chines
-酒場=Bar
+酒場=Taberna
 洋式トイレ内=Privada Estilo Ocidental
 和式トイレ内=Privada Estilo Japonês
 浴室内（シャワー）=No Banheiro (chuveiro)

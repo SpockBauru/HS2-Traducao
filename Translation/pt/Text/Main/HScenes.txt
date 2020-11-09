@@ -44,7 +44,7 @@
 //Item
 //------------------------------------------------------------
 アイテム=Item
-濡れ=Molhada
+濡れ=Roupa Molhada
 ツヤ=Brilhante
 
 脱力回復=Reviver

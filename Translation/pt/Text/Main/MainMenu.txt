@@ -5,7 +5,7 @@
 プレイ=Jogar
 メイク=Criar
 ネットワーク=Rede
-オプション=Configurações
+オプション=Opções
 終了=Sair
 
 女キャラ=Mulheres
