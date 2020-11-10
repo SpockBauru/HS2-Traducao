@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //女の子が見当たらない。どうしようか・・・=
-//CHOICE:放っておく=
-//CHOICE:急いで探しに行く=
-//CHOICE:身体に教え込む=
+CHOICE:放っておく=Deixar para lá
+CHOICE:急いで探しに行く=Correr atrás
+CHOICE:身体に教え込む=Dar uma castigo físico

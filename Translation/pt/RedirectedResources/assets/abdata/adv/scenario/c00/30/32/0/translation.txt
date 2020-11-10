@@ -4,6 +4,6 @@
 //部屋にいそうな気配はする・・・=
 //ん……ぁぁ……ん……=
 //すぅ……すぅ……=
-//CHOICE:こっそりHする=
-//CHOICE:起きるのを待つ=
-//CHOICE:立ち去る=
+CHOICE:こっそりHする=Sexo furtivo
+CHOICE:起きるのを待つ=Esperar acordar
+CHOICE:立ち去る=Sair

@@ -6,8 +6,8 @@
 //あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=
 //おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=
 //あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=
-//CHOICE:覗く=
-//CHOICE:悪戯する=
-//CHOICE:連れ出す=
-//CHOICE:帰りを待つ=
-//CHOICE:立ち去る=
+CHOICE:覗く=Espiar
+CHOICE:悪戯する=Atacar
+CHOICE:連れ出す=Tirar de lá
+CHOICE:帰りを待つ=Esperar
+CHOICE:立ち去る=Sair

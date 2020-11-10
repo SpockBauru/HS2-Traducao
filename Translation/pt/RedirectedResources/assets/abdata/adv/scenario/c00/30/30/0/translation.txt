@@ -6,8 +6,8 @@
 //ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=
 //少し用事を思い出しましたので、失礼致します。=
 //すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=
-//CHOICE:覗く=
-//CHOICE:悪戯する=
-//CHOICE:連れ出す=
-//CHOICE:帰りを待つ=
-//CHOICE:立ち去る=
+CHOICE:覗く=Espiar
+CHOICE:悪戯する=Atacar
+CHOICE:連れ出す=Tirar de lá
+CHOICE:帰りを待つ=Esperar
+CHOICE:立ち去る=Sair

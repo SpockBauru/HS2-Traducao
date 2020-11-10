@@ -11,7 +11,7 @@
 //用件{0}=
 //さぁ、ご主人様、せっかく会えたんですから……早速、この駄犬の穴を使ってください。=
 //ご主人様……駄犬まんこ……いつでも準備万端ですよ？　ふふっ、もちろん使ってくれるんですよね？=
-//CHOICE:おしゃべりしたい=
-//CHOICE:Hしたい=
-//CHOICE:なんでもない=
-//CHOICE:元に戻って=
+CHOICE:おしゃべりしたい=Quero Conversar
+CHOICE:Hしたい=Quero Transar
+CHOICE:なんでもない=Nenhum
+CHOICE:元に戻って=Voltar ao normal

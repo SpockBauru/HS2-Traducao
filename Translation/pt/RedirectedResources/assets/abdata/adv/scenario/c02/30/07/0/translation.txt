@@ -4,5 +4,5 @@
 //反応がないようだ=
 //すぅ……はぁ……ん、んぅ……=
 //すぅ……ん、すぅ……=
-//CHOICE:こっそりHする=
-//CHOICE:立ち去る=
+CHOICE:こっそりHする=Sexo furtivo
+CHOICE:立ち去る=Sair

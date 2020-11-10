@@ -6,8 +6,8 @@
 //ごめんなさい、ちょっと用事を済ませてくるわ。=
 //悪いんだけど、少し用があるから……=
 //ごめんなさい、少しだけ待ってもらいたいんだけど。=
-//CHOICE:覗く=
-//CHOICE:悪戯する=
-//CHOICE:連れ出す=
-//CHOICE:帰りを待つ=
-//CHOICE:立ち去る=
+CHOICE:覗く=Espiar
+CHOICE:悪戯する=Atacar
+CHOICE:連れ出す=Tirar de lá
+CHOICE:帰りを待つ=Esperar
+CHOICE:立ち去る=Sair

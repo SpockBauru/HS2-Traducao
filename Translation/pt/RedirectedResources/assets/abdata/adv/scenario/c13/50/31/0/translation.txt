@@ -6,8 +6,8 @@
 //うふふ、さっきお水を飲んだので……行ってきますね……=
 //あの……ちょっと待っててください……大丈夫です、逃げませんから……=
 //ごめんなさい、お手洗いに行ってきます……鍵は開けておきますね……=
-//CHOICE:覗く=
-//CHOICE:悪戯する=
-//CHOICE:連れ出す=
-//CHOICE:帰りを待つ=
-//CHOICE:立ち去る=
+CHOICE:覗く=Espiar
+CHOICE:悪戯する=Atacar
+CHOICE:連れ出す=Tirar de lá
+CHOICE:帰りを待つ=Esperar
+CHOICE:立ち去る=Sair
