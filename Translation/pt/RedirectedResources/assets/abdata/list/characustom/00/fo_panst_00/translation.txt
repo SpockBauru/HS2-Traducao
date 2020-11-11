@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ストッキング=
-//ストッキングTカバー=
-//ストッキングHカバー=
-//レースストッキング=
-//網タイツ細目=
-//網タイツ中目=
-//網タイツ大目=
-//穴あきストッキング=
-//スパッツA=
-//スパッツB=
-//ショートスパッツ=
-//シンプルガーター=
-//レースガーター=
-//ベルトガーター=
+ストッキング=Meia Calça
+ストッキングTカバー=Meia Calça "T"
+ストッキングHカバー=Meia Calça "H"
+レースストッキング=Meia Calça com Renda
+網タイツ細目=Meia Calça Arrastão Trama Fina
+網タイツ中目=Meia Calça Arrastão Trama Média
+網タイツ大目=Meia Calça Arrastão Trama Larga
+穴あきストッキング=Meia Calça Aberta
+スパッツA=Short Suplex A
+スパッツB=Short Suplex B
+ショートスパッツ=Short Suplex Mini
+シンプルガーター=Liga de Citura Simples
+レースガーター=Liga de Cintura com Renda
+ベルトガーター=Liga de Cintura de Couro

@@ -2,14 +2,14 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ほうれい線=
-//目元シワ=
-//口元シワ=
-//全体シワ1=
-//全体シワ2=
-//頬コケ=
-//頬盛り=
-//唇強調=
-//形状補助1=
-//形状補助2=
-//形状補助3=
+ほうれい線=Linha do Sorriso
+目元シワ=Pé de Galinha
+口元シワ=Linhas na Boca
+全体シワ1=Face 1
+全体シワ2=Face 2
+頬コケ=Bochechas Finas
+頬盛り=Bochechas Cheias
+唇強調=Ênfase nos Lábios
+形状補助1=Estrutura Óssea 1
+形状補助2=Estrutura Óssea 2
+形状補助3=Estrutura Óssea 3

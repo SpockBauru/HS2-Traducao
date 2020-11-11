@@ -2,10 +2,10 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//横あほ毛=
-//2本あほ毛=
-//上向きあほ毛=
-//前あほ毛=
-//お団子=
-//編みカチューシャ=
-//後ろ編み込み=
+横あほ毛=Fio para o Lado
+2本あほ毛=Fio Duplo
+上向きあほ毛=Fios pra Cima
+前あほ毛=Fio pra Frente
+お団子=Coque
+編みカチューシャ=Tiara Trança
+後ろ編み込み=Tiara Trança pra Trás

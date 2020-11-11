@@ -2,13 +2,13 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//スニーカー=
-//ビーチサンダル=
-//ローファー=
-//ビジネスシューズ=
-//ランニングシューズ=
-//メッシュシューズ=
-//カフシューズ=
-//トレッキング=
-//マリンシューズ=
-//上履き=
+スニーカー=Tênis
+ビーチサンダル=Chinelo de Dedo
+ローファー=Mocassins
+ビジネスシューズ=Sapato Social
+ランニングシューズ=Tênis de Corrida
+メッシュシューズ=Tênis de Marca
+カフシューズ=Tênis de Cano Alto
+トレッキング=Tênis de Caminhada
+マリンシューズ=Sapato de Borracha
+上履き=Sapatinha

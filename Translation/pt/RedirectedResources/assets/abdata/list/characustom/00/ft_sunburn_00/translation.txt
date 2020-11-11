@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ワンピースライン１=
-//ワンピースライン２=
-//レーシングライン=
-//スクール水着ライン=
-//ビキニライン=
-//マイクロライン１=
-//マイクロライン２=
-//チューブトップライン=
-//ランジェリーライン=
-//キャミソールライン=
-//スポーツライン=
-//体操着ライン=
-//ナチュラルライン1=
-//ナチュラルライン2=
+ワンピースライン１=Maiô 1
+ワンピースライン２=Maiô 2
+レーシングライン=Maiô Esportivo
+スクール水着ライン=Maiô Escolar Japonês
+ビキニライン=Biquíni
+マイクロライン１=Micro Biquíni 1
+マイクロライン２=Micro Biquíni 2
+チューブトップライン=Tomara que Caia
+ランジェリーライン=Lingerie
+キャミソールライン=Blusa de Alcinha
+スポーツライン=Top Esportivo
+体操着ライン=Roupas de Academia
+ナチュラルライン1=Natural 1
+ナチュラルライン2=Natural 2

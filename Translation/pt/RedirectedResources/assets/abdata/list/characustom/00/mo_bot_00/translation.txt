@@ -2,10 +2,10 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//七分丈パンツ=
-//ハーフパンツ=
-//裾おりパンツ=
-//スーツパンツ=
-//作業着ズボン=
-//サーフパンツ=
-//デニムパンツ=
+七分丈パンツ=Calça Pescador
+ハーフパンツ=Bermuda
+裾おりパンツ=Calça com Bainha
+スーツパンツ=Calça de Terno
+作業着ズボン=Calça Social
+サーフパンツ=Bermudas de Surf
+デニムパンツ=Jeans

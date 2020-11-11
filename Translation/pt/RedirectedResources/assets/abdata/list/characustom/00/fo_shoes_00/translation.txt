@@ -2,16 +2,16 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ビーチサンダル=
-//ボーンサンダル=
-//ローファー=
-//パンプス=
-//ベルトパンプス=
-//ランニングシューズ=
-//スニーカー=
-//メッシュシューズ=
-//カフシューズ=
-//トレッキング=
-//マリンシューズ=
-//上履き=
-//レザーブーツ＆チャップス=
+ビーチサンダル=Chinelo de Dedo
+ボーンサンダル=Sandália
+ローファー=Mocassins
+パンプス=Sapato Feminino Social
+ベルトパンプス=Sapato com Fivela
+ランニングシューズ=Tênis de Corrida
+スニーカー=Tênis Casual
+メッシュシューズ=Tênis de Marca
+カフシューズ=Sapato de Cano Alto
+トレッキング=Tênis de Caminhada
+マリンシューズ=Sapato de Borracha
+上履き=Sapatinha
+レザーブーツ＆チャップス=Botas e Perneiras de Couro

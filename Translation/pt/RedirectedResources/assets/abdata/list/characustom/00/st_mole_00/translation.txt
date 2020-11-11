@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ホクロ=
-//ホクロ２=
-//ソバカス=
-//ソバカス２=
+ホクロ=Pinta
+ホクロ２=Pinta 2
+ソバカス=Sardas
+ソバカス２=Sardas 2

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//四角=
-//円形=
-//薄小=
-//薄四角=
-//薄円形=
-//小円形=
-//大三角=
-//小三角=
-//Iライン=
-//細Iライン=
-//長菱=
-//ハート=
-//まばら=
-//ナチュラル=
+四角=Quadrado
+円形=Redondo
+薄小=Fino e Esparso
+薄四角=Quadrado e Esparço
+薄円形=Redondo e Esparço
+小円形=Pequeno e Redondo
+大三角=Francesa
+小三角=Bikini
+Iライン=Brasileira
+細Iライン=Bikini Extendida
+長菱=Diamante
+ハート=Coração
+まばら=Escasso
+ナチュラル=Natural

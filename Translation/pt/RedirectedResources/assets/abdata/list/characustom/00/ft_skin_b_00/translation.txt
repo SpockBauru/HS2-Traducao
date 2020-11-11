@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//タイプ１=
-//タイプ２=
-//タイプ３=
-//タイプ４=
+タイプ１=Tipo 1
+タイプ２=Tipo 2
+タイプ３=Tipo 3
+タイプ４=Tipo 4

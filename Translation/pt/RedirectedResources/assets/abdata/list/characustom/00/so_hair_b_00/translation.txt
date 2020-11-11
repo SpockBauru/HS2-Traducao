@@ -1,21 +1,21 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ストレートロング=
-//くせっけショート=
-//ボリュームポニー=
-//細ツインテール=
-//細ロングツインテール=
-//セミロング=
-//ぱっつんロング=
-//ツイン前おさげ=
-//後ろおさげ=
-//はねっけロング=
-//ショートヘア=
-//ツインロール=
-//ロングツインロール=
-//ウェーブロング=
-//ぱっつんミディアム=
-//外はねミディアム=
-//外はねショート=
-//横おさげ=
+ストレートロング=Longo e Reto
+くせっけショート=Curto e Curvo
+ボリュームポニー=Rabo de Cavalo
+細ツインテール=Maria Chiquinha Curto
+細ロングツインテール=Maria Chiquinha Longo
+セミロング=Acima dos Ombros
+ぱっつんロング=Longo Arredondado
+ツイン前おさげ=Maria Chiquinha pra Frente
+後ろおさげ=Rabo de Cavalo Baixo
+はねっけロング=Repicado Longo
+ショートヘア=Curto
+ツインロール=Maria Chiquinha Ondulado
+ロングツインロール=Maria Chiquinha Ondulado Longo
+ウェーブロング=Ondulado Longo
+ぱっつんミディアム=Bob Curto
+外はねミディアム=Repicado Médio
+外はねショート=Repicado Curto
+横おさげ=Rabo de Cavalo Lateral

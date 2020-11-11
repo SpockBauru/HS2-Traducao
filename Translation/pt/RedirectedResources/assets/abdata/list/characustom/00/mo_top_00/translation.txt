@@ -2,13 +2,13 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//Tシャツ=
-//Yシャツ(A)=
-//Yシャツ(B)=
-//ポロシャツ=
-//ジャケット=
-//ベスト=
-//作業着=
-//タンクトップ（A）=
-//タンクトップ（B）=
-//ロングカーディガン=
+Tシャツ=Camiseta
+Yシャツ(A)=Camisa A
+Yシャツ(B)=Camisa B
+ポロシャツ=Camiseta Polo
+ジャケット=Blazer Slim
+ベスト=Colete Social
+作業着=Blusa de Trabalho
+タンクトップ（A）=Regata A
+タンクトップ（B）=Regata B
+ロングカーディガン=Cardigan Longo
