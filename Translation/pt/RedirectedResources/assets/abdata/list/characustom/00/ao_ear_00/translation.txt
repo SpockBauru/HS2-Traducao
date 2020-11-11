@@ -1,10 +1,10 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//スター=
-//スターリング=
-//クリスタル=
-//クリスタルピラー=
-//三連イヤリング=
-//フラワー=
-//パール=
+スター=Brinco de Estrela
+スターリング=Brinco de Estrela Vazado
+クリスタル=Brinco de Cristal
+クリスタルピラー=Brinco Pilar de Cristal
+三連イヤリング=Brinco Triângulo Triplo
+フラワー=Brinco de Flôr
+パール=Brinco de Pérolas

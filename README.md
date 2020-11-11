@@ -4,7 +4,7 @@ Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro.
 
 ## Pré-requisitos
 
-- [BepInEx 5.1](https://github.com/BepInEx/BepInEx)
+- [BepInEx 5.3](https://github.com/BepInEx/BepInEx/releases/tag/v5.3)
 - [BepisPlugins para HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (necessário para a maioria dos recursos)
@@ -62,7 +62,7 @@ As traduções serão revisadas antes de serem adicionadas via "pull-request". S
 
 - `adv` - Diálogos principais do jogo
 - `etcetra/list/config` - Personalidade
-- `etcetra/list/ parametername` - Peculiaridades, fetiches, estado
+- `etcetra/list/parametername` - Peculiaridades, fetiches, estado
 - `gamedata/Achivement/Achivement` - Conquistas
 - `gamedata/achievement/exchange` - Desbloqueáveis/upgrades,
 - `gamedata/bgmname` - Música de fundo

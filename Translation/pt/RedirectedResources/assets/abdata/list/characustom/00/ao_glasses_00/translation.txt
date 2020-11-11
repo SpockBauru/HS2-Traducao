@@ -1,25 +1,25 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//スクエア=
-//オーバル=
-//ウェリントン=
-//ボストン=
-//ブロウ=
-//アンダーリム=
-//鼻掛け眼鏡=
-//メタルラウンド=
-//メタルオーバル=
-//メタルアンダーリム=
-//スポーツ=
-//水泳ゴーグル=
-//ゴーグル=
-//ライトゴーグル=
-//布目隠し=
-//アイマスクA=
-//アイマスクB=
-//パピヨン=
-//医療用眼帯右用=
-//医療用眼帯左用=
-//眼帯右用=
-//眼帯左用=
+スクエア=Óculos Quadrado
+オーバル=Óculos Oval
+ウェリントン=Óculos Wayfarer 
+ボストン=Óculos Redondo
+ブロウ=Óculos Meia Armação
+アンダーリム=Óculos Meia Taça
+鼻掛け眼鏡=Óculos Retrô
+メタルラウンド=Óculos Redondo de Metal
+メタルオーバル=Óculos Oval de Metal
+メタルアンダーリム=Óculos Meia Armação de Metal
+スポーツ=Óculos Esportivo
+水泳ゴーグル=Óculos de Natação
+ゴーグル=Óculos de Segurança
+ライトゴーグル=Óculos de Segurança Leve
+布目隠し=Venda de Pano
+アイマスクA=Máscara para Dormir
+アイマスクB=Máscara de Carnaval Simples
+パピヨン=Máscara Borboleta
+医療用眼帯右用=Tapa-olho Medicinal Direito
+医療用眼帯左用=Tapa-olho Medicinal Esquerdo
+眼帯右用=Tapa-olho Esquerdo
+眼帯左用=Tapa-olho Direito

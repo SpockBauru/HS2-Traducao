@@ -192,7 +192,7 @@ Y位置=Eixo Y
 回転量=Passo da Rotação
 拡縮量=Passo da Escala
 
-操作軸=Eixos
+操作軸=Mostrar Eixos
 移動=Mover
 速度=Veloc.
 大きさ=Tam.

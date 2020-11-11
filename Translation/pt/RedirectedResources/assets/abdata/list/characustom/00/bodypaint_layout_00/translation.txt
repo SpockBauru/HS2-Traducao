@@ -1,23 +1,23 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//胸=
-//腹・股間=
-//背中・うなじ=
-//腰=
-//右脚裏=
-//右ふくらはぎ=
-//左脚裏=
-//左ふくらはぎ=
-//右脚=
-//左脚=
-//右スネ=
-//左スネ=
-//右足=
-//左足=
-//左尻=
-//右尻=
-//左肩=
-//左腕=
-//右肩=
-//右腕=
+胸=Busto
+腹・股間=Barriga
+背中・うなじ=Costas
+腰=Lombar
+右脚裏=Atrás da Coxa Direita
+右ふくらはぎ=Panturrilha Direita
+左脚裏=Atrás da Coxa Direita
+左ふくらはぎ=Panturrilha Esquerda
+右脚=Frente da Coxa Direita
+左脚=Frente da Coxa Esquerda
+右スネ=Canela Direita
+左スネ=Canela Esquerda
+右足=Pé Direito
+左足=Pé Esquerdo
+左尻=Nádega Esquerda
+右尻=Nádega Direita
+左肩=Braço Esquerdo
+左腕=Antebreço Esquerdo
+右肩=Braço Direito
+右腕=Antebraço Direito

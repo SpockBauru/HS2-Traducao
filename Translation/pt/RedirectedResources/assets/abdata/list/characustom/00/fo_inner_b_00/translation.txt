@@ -2,19 +2,19 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 なし=Nenhum
-//ノーマル=
-//リボンレース=
-//アダルティレース=
-//ハーフレース=
-//フルレース=
-//マイクロレース=
-//スポーツ=
-//ハイレッグ=
-//Ｔバック=
-//ビキニ=
-//リボンビキニ=
-//マイクロビキニ=
-//マイクロSビキニ=
-//ハートシール=
-//スターシール=
-//絆創膏=
+ノーマル=Calcinha Padrão
+リボンレース=Calcinha com Laço de Fita
+アダルティレース=Calcinha Tanga de Renda
+ハーフレース=Calcinha String
+フルレース=Calcinha Cós Alto
+マイクロレース=Micro Calcinha de Renda
+スポーツ=Calcinha Esportiva
+ハイレッグ=Calcinha Fio Dental
+Ｔバック=Calcinha Micro Fio Dental
+ビキニ=Biquíni
+リボンビキニ=Biquíni com Lacinho
+マイクロビキニ=Micro Biquíni
+マイクロSビキニ=Micro Biquini Cortininha
+ハートシール=Adesivo de Coração
+スターシール=Adesivo de Estrela
+絆創膏=Adesivo de Band-Aid

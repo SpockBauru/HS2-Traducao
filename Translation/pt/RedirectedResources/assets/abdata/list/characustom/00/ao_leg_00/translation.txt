@@ -1,12 +1,12 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//レースガーターリング左=
-//レースガーターリング右=
-//ティアアンクレット=
-//ガーターリング左=
-//ガーターリング右=
-//ミサンガA左=
-//ミサンガA右=
-//ミサンガB左=
-//ミサンガB右=
+レースガーターリング左=Liga de Laço para Perna Esquerda
+レースガーターリング右=Liga de Laço para Perna Direita
+ティアアンクレット=Tornozeleira de Lágrumas
+ガーターリング左=Liga de Perna Esquerda
+ガーターリング右=Lida de Perna Direita
+ミサンガA左=Miçanga no Tornozelo Esquerdo A
+ミサンガA右==Miçanga no Tornozelo Direito A
+ミサンガB左=Miçanga no Tornozelo Esquerdo A
+ミサンガB右=Miçanga no Tornozelo Direito A

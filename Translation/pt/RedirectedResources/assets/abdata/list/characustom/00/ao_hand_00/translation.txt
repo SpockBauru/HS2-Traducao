@@ -1,23 +1,23 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//シンプル指輪=
-//ツインリング=
-//宝石の指輪A=
-//宝石の指輪B=
-//スカルヘッド=
-//チアポンポン=
-//レザーバングル=
-//イルカとカラーストーン=
-//腕時計=
-//丸型腕時計=
-//メタルブレスレット=
-//シュシュ=
-//ストーンブレスレット=
-//リストバンドA=
-//リストバンドB=
-//光輪=
-//スマートウォッチ=
-//スポーツブレスレット=
-//ツイストリング=
-//薬瓶の腕輪=
+シンプル指輪=Anel Simples
+ツインリング=Anel Torcido
+宝石の指輪A=Anel Brilhante A
+宝石の指輪B=Anel Brilhante B
+スカルヘッド=Anel de Caveira
+チアポンポン=Pompom de Torcida
+レザーバングル=Pulseira de Couro
+イルカとカラーストーン=Pulseira Colorida com Golfinho
+腕時計=Relógio
+丸型腕時計=Relógio Redondo
+メタルブレスレット=Pulseira de Metal
+シュシュ=Xuxinha de Cabelo
+ストーンブレスレット=Pulseira de Pedras
+リストバンドA=Munhequeira de Pano A
+リストバンドB=Munhequeira de Pano A
+光輪=Halo
+スマートウォッチ=Smart Watch
+スポーツブレスレット=Pulseira de Silicone
+ツイストリング=Pulseira Torcida
+薬瓶の腕輪=Bracelete com Vidros de Remédio 
