@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//柊のブローチ=
-//サンタの帽子=
-//雪の結晶=
+柊のブローチ=Presilha de Natal
+サンタの帽子=Chapéu de Natal
+雪の結晶=Floco de Neve

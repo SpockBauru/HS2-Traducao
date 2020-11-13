@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//骸骨面上顎=
-//骸骨面下顎=
-//鳥の仮面=
-//剣闘士の額当て=
+骸骨面上顎=Máscara de Caveira
+骸骨面下顎=Queixo de Caveira
+鳥の仮面=Máscara de Pássaro
+剣闘士の額当て=Máscara de Gladiador

@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//タングルショルダー=
-//鎧ドレスショルダー=
-//バーサーカーの肩当て=
-//鎧肩当て=
-//剣闘士の肩当て=
-//くノ一肩当て=
+タングルショルダー=Ombreira Intrincada
+鎧ドレスショルダー=Ombreira de Armadura
+バーサーカーの肩当て=Ombreira de Berserker
+鎧肩当て=Ombreira de Armadura 2
+剣闘士の肩当て=Ombreira de Espadachim
+くノ一肩当て=Ombreira de Garota Ninja

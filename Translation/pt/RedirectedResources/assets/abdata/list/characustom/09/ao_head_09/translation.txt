@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//玉飾り=
-//羽の髪飾り左用=
-//羽の髪飾り右用=
-//ロイヤルクラウン=
-//鎧兜=
-//トゲ=
+玉飾り=Enfeite de Ano Novo
+羽の髪飾り左用=Asa na Esquerda da Cabeça
+羽の髪飾り右用=Asa na Direita da Cabeça
+ロイヤルクラウン=Coroa Real
+鎧兜=Capacete de Cavaleiro
+トゲ=Lança de Cavaleiro

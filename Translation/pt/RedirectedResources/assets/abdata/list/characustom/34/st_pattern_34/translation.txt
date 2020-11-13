@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//牡丹=
-//雪輪=
-//毬=
-//菊=
-//桜=
-//霞桜=
-//八つ藤=
-//鳥流水=
-//大花柄=
-//菊唐草=
-//梅唐草=
-//松皮菱=
+牡丹=Peônia
+雪輪=Neve Redonda
+毬=Buquê
+菊=Crisântemo
+桜=Flôr de Cerejeira
+霞桜=Flores de Cerejeira Caindo
+八つ藤=Brasão Wisteria
+鳥流水=Pássaro em Corrente D'Água
+大花柄=Floral Grande
+菊唐草=Arabesco de Crisântemo
+梅唐草=Arabesco de Flôr de Ameixeira
+松皮菱=Diamante de Casca de Pinheiro

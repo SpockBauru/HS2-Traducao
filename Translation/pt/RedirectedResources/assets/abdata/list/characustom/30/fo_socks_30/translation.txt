@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ダンサーホーズ=
-//ヒーラーサイハイ=
-//コンシェルジュサイハイF=
-//三つ折りソックス=
-//エルフサイハイ=
-//ウエイトレスニーソ=
+ダンサーホーズ=Enfeite de Perna de Dançarina
+ヒーラーサイハイ=Meia 5/8 de Dançarina
+コンシェルジュサイハイF=Meia 5/8 da Recepcionista Fur
+三つ折りソックス=Meias Dobradas 3 vezes
+エルフサイハイ=Meia 5/8 de Elfo
+ウエイトレスニーソ=Meias até o joelho de Garçonete

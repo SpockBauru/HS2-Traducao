@@ -1,16 +1,16 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//レースビスチェ=
-//コンシェルジュビスチェF=
-//ボロ布ブラ=
-//ブラキャミソール=
-//チェインスーツ=
-//オープンブラ=
-//ハイレグ=
-//レオタード=
-//ウエスタンカウ=
-//エルフのレオタード=
-//キャンペーンバンドゥ=
-//ミディアムサポート=
-//サイクルウェアトップ=
+レースビスチェ=Corpete de Renda
+コンシェルジュビスチェF=Corpete da Recepcionista Fur
+ボロ布ブラ=Sutiã de Pano Esfarrapado
+ブラキャミソール=Sutiâ Cropped
+チェインスーツ=Cota de Malha
+オープンブラ=Sutiâ Aberto
+ハイレグ=Collant de Manga Longa
+レオタード=Collant
+ウエスタンカウ=Sutiâ de Faroeste
+エルフのレオタード=Collant de Elfo
+キャンペーンバンドゥ=Tomara que Caia de Propaganda HS2
+ミディアムサポート=Top com Sustentação
+サイクルウェアトップ=Camisa de Ciclismo

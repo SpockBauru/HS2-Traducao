@@ -1,20 +1,20 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//フレアースカート=
-//ダンサーボトム=
-//コンシェルジュスカートF=
-//腰巻=
-//サスペンダーズボン=
-//騎士の腰鎧=
-//ゴスロリスカート=
-//ウエスタンチャップス=
-//チアガールスカート=
-//エルフのスカート=
-//キャンペーンスカート=
-//パジャマパンツ=
-//ジャージパンツ=
-//道着（下衣）=
-//アンダースコート=
-//ユニフォームパンツ=
-//ランナーパンツ=
+フレアースカート=Saia Rodada
+ダンサーボトム=Saia de Dançarina
+コンシェルジュスカートF=Saia da Recepcionista Fur
+腰巻=Tanga
+サスペンダーズボン=Calça com Suspensorios
+騎士の腰鎧=Saia de Armadura de Cavaleiro
+ゴスロリスカート=Saia de Lolita Gótica
+ウエスタンチャップス=Acessório para Calça de Faroeste
+チアガールスカート=Saia de Líder de Torcida
+エルフのスカート=Saia de Elfo
+キャンペーンスカート=Saia de Propaganda HS2
+パジャマパンツ=Calças de Pijama
+ジャージパンツ=Calças de Moletom
+道着（下衣）=Calças de Kimono
+アンダースコート=Calcinha sob Saia
+ユニフォームパンツ=Short Esportivo
+ランナーパンツ=Short de Corrida

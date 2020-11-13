@@ -1,17 +1,17 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ハードブーツ=
-//チャイナシューズ=
-//ダンサーシューズ=
-//ヒーラーシューズ=
-//コンシェルジュブーツF=
-//メリージェーン=
-//ナースシューズ=
-//スキニーブーツ=
-//騎士の脚鎧=
-//ゴスロリパンプス=
-//ウエスタンブーツ=
-//エルフのブーツ=
-//キャンペーンブーツ=
-//ウエイトレスシューズ=
+ハードブーツ=Botas de Couro
+チャイナシューズ=Sapatinho Chinês
+ダンサーシューズ=Sandálias de Dançarina
+ヒーラーシューズ=Sapatos de Curandeira
+コンシェルジュブーツF=Botas da Recepcionista Fur
+メリージェーン=Sapatos Retrô
+ナースシューズ=Sapatos de Enfermeira
+スキニーブーツ=Botas Abertas
+騎士の脚鎧=Armadura de Pernas de Cavaleiro
+ゴスロリパンプス=Sapato de Gótica
+ウエスタンブーツ=Sapatos de Faroeste
+エルフのブーツ=Sapatos de Elfo
+キャンペーンブーツ=Sapatos de Propaganda HS2
+ウエイトレスシューズ=Sapatos de Garçonete

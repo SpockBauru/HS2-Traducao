@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//サッシュリボン=
-//垂れ布=
-//ガンベルト=
+サッシュリボン=Laço de Curandeira
+垂れ布=Pano Pendurado
+ガンベルト=Coldre de Faroeste

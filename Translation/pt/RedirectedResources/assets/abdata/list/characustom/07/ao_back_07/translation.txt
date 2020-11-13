@@ -1,16 +1,16 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//鳥籠=
-//妖精の羽=
-//ネコリュック=
-//ミニリュック=
-//商人カバン=
-//小悪魔の翼右用=
-//小悪魔の翼左用=
-//小天使の翼右用=
-//小天使の翼左用=
-//悪魔の翼右用=
-//悪魔の翼左用=
-//天使の翼右用=
-//天使の翼左用=
+鳥籠=Gaiola de Pássaro
+妖精の羽=Asas de Fada
+ネコリュック=Mochila com Gato
+ミニリュック=Mini Mochila
+商人カバン=Mochila de Mercador
+小悪魔の翼右用=Asa Direita de Diabinha
+小悪魔の翼左用=Asa Esquerda de Diabinha
+小天使の翼右用=Asa Direita de Anjinha
+小天使の翼左用=Asa Esquerda de Anjinha
+悪魔の翼右用=Asa Direita de Demônio
+悪魔の翼左用=Asa Esquerda de Demônio
+天使の翼右用=Asa Direita de Anjo
+天使の翼左用=Asa Esquerda de Anjo

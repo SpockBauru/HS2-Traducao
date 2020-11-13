@@ -1,13 +1,13 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//二つ分けロング=
-//テンショウ=
-//あほ毛ミディアム=
-//ツインロングおさげ=
-//重ねぱっつんミディアム=
-//マッシュヘア=
-//ボリュームカールポニー=
-//リングツインテール=
-//オールバックポニー=
-//オールバックツインテール=
+二つ分けロング=Longo Dividido
+テンショウ=Era Tenshou
+あほ毛ミディアム=Curto com Fios em Cima
+ツインロングおさげ=Maria Chiquinha Baixa
+重ねぱっつんミディアム=Médio com Camadas
+マッシュヘア=Prensado
+ボリュームカールポニー=Rabo de Cavalo Longo e Enrolado
+リングツインテール=Maria Chiquinha em Anel
+オールバックポニー=Rabo de Cavalo em Cima
+オールバックツインテール=Maria Chiquinha em Cima

@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//指ぬきグローブ=
-//チャイナグローブ=
-//ダンサーアーム=
-//フェミニングローブ=
-//ライダーグローブ=
-//騎士の腕鎧=
-//エルフのグローブ=
-//サポーター肘=
+指ぬきグローブ=Luvas sem Dedos
+チャイナグローブ=Luvas Chinesas
+ダンサーアーム=Luvas e Mangas de Dançarina
+フェミニングローブ=Luvas de Manto
+ライダーグローブ=Luvas de Motoqueira
+騎士の腕鎧=Armadura de Braço de Cavaleiro 
+エルフのグローブ=Luvas de Elfo
+サポーター肘=Cotoveleira

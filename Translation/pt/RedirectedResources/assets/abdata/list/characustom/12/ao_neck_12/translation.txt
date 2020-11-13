@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//クリスマスチョーカー=
-//モコモコチョーカー=
-//クリスマスリボン（太）=
-//クリスマスリボン（細）=
-//クリスマスベル=
+クリスマスチョーカー=Gargantilha de Natal
+モコモコチョーカー=Gargantilha Fofinha
+クリスマスリボン（太）=Laço de Natal Grande
+クリスマスリボン（細）=Laço de Natal Pequeno
+クリスマスベル=Sino de Natal

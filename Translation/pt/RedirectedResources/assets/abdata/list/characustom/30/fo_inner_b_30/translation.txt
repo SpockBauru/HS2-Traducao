@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ダンサーショーツ=
-//コンシェルジュレースF=
-//ボロ布パンツ=
-//ソングショーツ=
-//オープンショーツ=
-//ウエスタンカウ=
-//キャンペーンダブルS=
-//サイクルウェアボトム=
+ダンサーショーツ=Calcinha de Dançarina
+コンシェルジュレースF=Calcinha String de Renda da Fur
+ボロ布パンツ=Calcinha de Pano Esfarrapado
+ソングショーツ=Biquíni Fio Dental Suspendido
+オープンショーツ=Calcinha Aberta
+ウエスタンカウ=Calcinha de Faroeste
+キャンペーンダブルS=Biquíni Duplo de Propaganda HS2
+サイクルウェアボトム=Bermuda de Ciclismo

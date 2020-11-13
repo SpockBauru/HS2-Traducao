@@ -1,13 +1,13 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//メカショルダー=
-//メカ装甲５=
-//メカ装甲６=
-//メカ装甲６×３=
-//メカブースターⅡ=
-//メカシールドⅡ=
-//メカシールドⅢ=
-//メカアーマー=
-//サキュバスの腕飾り=
-//バーサーカーの腕当て=
+メカショルダー=Ombreira de Robô
+メカ装甲５=Armadura de Robô 5
+メカ装甲６=Armadura de Robô 6
+メカ装甲６×３=Armadura de Robô 6×3
+メカブースターⅡ=Booster de Robô 2
+メカシールドⅡ=Escudo de Robô 2
+メカシールドⅢ=Escudo de Robô 3
+メカアーマー=Armadura de Robô
+サキュバスの腕飾り=Ornamento de Súcubo
+バーサーカーの腕当て=Braçal de Berserker
