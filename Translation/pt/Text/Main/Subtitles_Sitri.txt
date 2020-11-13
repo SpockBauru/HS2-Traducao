@@ -1,0 +1,20 @@
+//***********************************************************************
+// Legendas para Sitri nos menus
+// Estes foram transcritos dos arquivos de som e estão dentro do plugin "subtitles"
+//***********************************************************************
+// Arquivos de Som em:
+// abdata\sound\data\pcm\c-2\adv\50.unity3d
+
+どういったプランにいたしましょう。=Com qual serviço você gostaria de ir?
+どのようなプランになさるのでしょうか。=Que tipo de serviço você gostaria de solicitar?
+お客様、ご冗談はおやめください。=Senhor, por favor, pare de brincadeiras.
+お客様、お戯れが過ぎますよ。=Estimado cliente, você está sendo muito brincalhão.
+もう、しょうがないお客様ですね。=Bem, vejo que você é um cliente que eu não posso mais evitar.
+わかりました。私でよろしければお相手させていただきます。=Eu entendo. Se você não se importa em me ter, terei prazer em lhe fazer companhia.
+そんなに私をご所望でしたら。喜んでお相手いたします。=Se você deseja assim tanto minha companhia, seria um prazer encontrá-lo.
+どうぞご自由に変更してください。=Por favor, sinta-se à vontade para fazer todos os ajustes que desejar.
+お好きに変更なさってください。=Por favor, modifique como quiser.
+いってらっしゃいませ。=Tenha um bom dia.
+またのご利用、お待ちしております。=Aguardamos ansiosamente a sua próxima visita.
+いらっしゃいませ。=Bem vindo.
+お待ちしておりました。=Estava esperando por você.

@@ -14,6 +14,14 @@
 カラー=Cor
 標準=Normal
 声質=Voz
+奸=Perverso
+毒=Poção
+狂=Louco
+卑=Vulgar
+屄=Buceta
+獄=Prisão
+色=Cor
+グローブ=Luvas
 
 //Partes do Corpo
 体=Corpo
@@ -25,7 +33,7 @@
 左手=Mão Dir
 右手=Mão Esq
 
-// Nome das Assistentes
+// Nome das Recepcionistas
 フュル=Fur
 シトリー=Sitri
 
@@ -60,6 +68,11 @@
 // Personalidades dos Personagens
 性格=Personalidade
 
+//Personalidade na Recepção
+#set level 8
+性格=Personali.
+#unset level 8
+
 // Cabeçalho dos personagens
 メンタル=Mentalidade
 特性=Caracte\nrísticas
@@ -86,7 +99,7 @@ H=Sexo
 //------------------------------------------------------------
 ピッカー=Selec.
 スライダー=Slider
-プリセット=Preset
+プリセット=Pré-Definido
 色相=Hue
 明度=Brilh.
 彩度=Sat.
@@ -123,7 +136,7 @@ H=Sexo
 下着=Íntimas
 全裸=Nú
 装飾=Acessórios
-表示=Mostrar
+表示=Mostre
 非表示=Esconder
 
 //Luzes

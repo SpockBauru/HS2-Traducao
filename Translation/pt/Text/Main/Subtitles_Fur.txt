@@ -1,0 +1,50 @@
+//***********************************************************************
+// Legendas para Fur nos menus
+// Estes foram transcritos dos arquivos de som e estão dentro do plugin "subtitles"
+//***********************************************************************
+// Arquivos de Som em:
+// abdata\sound\data\pcm\c-1\adv\30.unity3d
+// abdata\sound\data\pcm\op\30.unity3d
+// abdata\sound\data\pcm\c-1\adv\50.unity3d
+
+失礼します。=Com licença.
+お呼びでしょうか。=Posso ajudá-lo em alguma coisa?
+何かご用でしょか。=Como posso ajudá-lo?
+ご用件をどうぞ。=Por favor, faça seu pedido.
+いらっしゃいませ。=Bem-vindo.
+如何しましたか。=O que você deseja fazer?
+私に御用でしょうか。=Qual é o seu pedido?
+かしこまりました。=Entendido.
+少々お待ちください。=Por favor, aguarde um momento.
+どうぞ。=Se você desejar.
+こちらですね。=Por aqui.
+悪ふざけもほどほどにして下さいますか。=Por favor, exerça mais o autocontrole. Até mesmo as brincadeiras têm seus limites.
+では、失礼します。=Bem, então, vou me despedir aqui.
+では、またお呼びください。=Então, por favor, me ligue novamente.
+それでは、よいハニーライフを。=Então, tenha uma boa "honey life"!
+またお越しくださいませ。=Por favor, venha novamente.
+いってらっしゃいませ。=Tenha um bom dia.
+ではまた。=Nos vemos mais tarde.
+次回はこのようなことがないようお願いいたします。=Por favor, não faça isso novamente.
+行き過ぎた行動は控えていただけるようお願いいたします。=Por favor, abstenha-se de comportamentos excessivos.
+はい。かしこまりました。=Sim, Entendido.
+はい。少々お待ちください。=Muito bem. Só um momento.
+こちらでは条件に沿った女の子を探し出すことができます。=Você poderá encontrar aqui garotas que correspondam a seus gostos.
+現在のお客様の実績を確認できます。=Você pode inspecionar suas conquistas aqui.
+操作方法などの確認ですね。=Então você deseja revisar o guia do usuário.
+私の見た目を変更することができます。=Você pode mudar minha aparência aqui.
+私とのセックスをご所望なのですか。=Você deseja fazer sexo comigo?
+また私としたいのですか。=Você deseja fazer sexo comigo novamente?
+あなたもお好きですね。=Você também pode gostar deste tipo de coisas.
+こちらは、いつでも構いませんよ。=Você é sempre bem-vindo para estar comigo.
+どうぞ、ご自由にお使いください。=Por favor, sinta-se à vontade para usar isto.
+探してほしいのですか。=Você estava me procurando?
+ご自由にご覧ください。=Por favor, dê uma olhada.
+私の機嫌の取り方は載っておりませんよ。=Eu não tenho meu humor escrito em um guia.
+今の見た目に何かご不満でも。=Há algo em minha aparência atual que não seja do seu agrado?
+まさか、する気ですか。=Você realmente deseja fazer isso?
+今の私に、頼みごとですか。=Você tem um pedido para mim?
+そんな気分ではないのですが。=Não estou com disposição para isso.
+いらっしゃいませ。当店をご利用いただき、誠にありがとうございます。=Bem-vindo. Agradecemos por utilizar nossos serviços.
+こちらのプランをご所望でしょうか。=Você gostaria de solicitar estes serviços?
+かしこまりました、早速ご案内いたします。=Muito bem. Eu o conduzirei até lá.

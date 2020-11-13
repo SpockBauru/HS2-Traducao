@@ -1,4 +1,4 @@
-// strings de formato conhecidas usadas pelo jogo antes de aplicar ao elemento GUI
+// Strings de formato conhecidas usadas pelo jogo antes de aplicar ao elemento GUI
 
 r:"^スロット([０-９0-9]+)$"=Slot $1
 sr:"^(.*) が逃げ出しました$"=$1 fugiu
@@ -10,9 +10,9 @@ r:"^([０-９0-9]+)位"=$1
 
 sr:"^■\s*(.*)"=■ $1
 
-// Alerta de conquista
-
+// Notificações
 sr:"^「([^」]+)」が達成されました$"="$1" Conquistado
+sr:"^マップ選択に「([^」]+)」が解放されました$"="$1" Pode ser Selecionado
 
 r:"^残り([０-９0-9]+)Ｐ$"=$1P Restantes
 

@@ -1,0 +1,36 @@
+﻿//***********************************************************************
+// Legendas para personalidades no Editor de Personagens
+// Estes foram transcritos dos arquivos de som e estão dentro do plugin "subtitles"
+//***********************************************************************
+// Arquivos de Som em:
+// abdata\sound\data\custom\30.unity3d
+// abdata\sound\data\custom\50.unity3d
+
+お呼びでしょうか？=Você me chamou?
+私でお決まりになられましたか？=Você talvez tenha decidido me escolher?
+あら、私を選んでくれるの？=Oh meu Deus, você acabou de me escolher?
+ふふ、一緒に楽しみましょう。=Hehe, vamos nos divertir juntos.
+はあ、私なんですね。=Suspira, então sou eu, huh?
+別に構いませんが、ちゃんとしてくださいね。=Eu realmente não me importo, mas, por favor, faça o certo, está bem?
+なになに？私がいいの？=Dizer o quê? Você está bem comigo? 
+いいよ、一緒に頑張ろうか。=Muito bem, vamos ambos fazer o nosso melhor.
+あはっ、あたしと遊びたいんだ。=Aha, então você quer brincar comigo.
+ふふ、どうしてやろっかな。=Haha, agora que tipo de coisas devemos fazer?
+わ、私でいいんですか？=V-Você está realmente bem comigo?
+ううぅ、緊張してすみません。=Urgh... Desculpe-me, estou tão nervosa.
+うふふ、お任せくださいまし。=Ufufu, por favor, deixe tudo comigo.
+あなたの為になるよう誠心誠意務めさせていただきますわ。=A você, meu querido, eu dedicarei meu coração e minha alma.
+へー、いい度胸じゃねえか。=Hmm? Você é corajoso, não é?
+何でもいいけど、つまんねえ事だけはすんじゃんえぞ。=Faça como quiser, mas eu não vou aturar nenhuma merda estúpida, ouviu?
+いやあ、私を選ぶとお目が高いっすね。=Tenho que dizer que você tem um grande gosto em me escolher.
+一肌でも二肌でも脱がせていただくっすよ。=Eu lhe darei uma ajuda com todo tipo de coisas, e depois algumas mais.
+えへ、私の出番ですね。=Ehe, então é a minha vez agora.
+とりあえず、エッチな事をすればいいんですよね？=Então, tipo... Tainha, vinho e muito sexo, certo?
+どうかしましたか？=Há algum problema?
+私を選んでくださるんですね。が、頑張ります！=Então, graciosamente, você decidiu por mim. E-Eu não vou decepcioná-lo!
+ふふ、よろしくお願い致します。=Hehe, por favor, seja gentil comigo.
+誠心誠意尽くさせて頂きます。=Será um prazer servi-lo com cada fibra do meu ser.
+おっ？俺としたいのか？=Oh? Então você quer sair comigo?
+期待してるから、よろしく頼むぜ。=Estou esperando grandes coisas, portanto, não me decepcione.
+うふふ、あなたの好きなようにしてください。=Hehe, por favor, faça o que você quiser comigo.
+この出会いは運命ですね=Para nós, cruzarmos caminhos como este, certamente é obra do destino!

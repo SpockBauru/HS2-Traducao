@@ -1,0 +1,256 @@
+//***********************************************************************
+//Traduções para Plugins
+//***********************************************************************
+
+//***********************************************************************
+//Editor de Personagens
+//***********************************************************************
+Side to edit=Lado para Editar
+Both=Ambos
+Left=Direita
+Right=Esquerda
+Body=Corpo
+Default=Padrão
+All=Tudo
+Scale=Escala
+
+Open Material Editor=Abrir Material Editor
+
+//------------------------------------------------------------
+//Cabeça
+//------------------------------------------------------------
+//Geral
+Sample=Amostra
+Head Scale=Escala da Cabeça
+Head Position=Posição da Cabeça
+Head + Neck Scale=Escala do Pescoço e Cabeça
+Lower Head Cheek Scale=Escala da Bochcha Inferior
+Upper Head Scale=Escala da Cabeça Superior
+Upper Front Head Scale=Escala da Cabeça Superior Frontal
+
+//Queixo
+Jaw Scale=Escala do Queixo
+Jaw Offset=Deslocamento do Queixo
+Chin Scale=Escala da Papada
+Chin Tip Scale=Escala da Ponta
+
+//Bochechas
+Upper Cheek Scale=Escala da Bochcha Superior
+Lower Cheek Scale=Escala da Bochecha Inferior
+Cheek Offset=Deslocamento da Bochcha
+
+//Sobrancelha
+Eyebrow Scale=Escala da Sobrancelha
+Inner Eyebrow Scale=Escala Interior da Sobrancelha
+Outer Eyebrow Scale=Escala Superior da Sobrancelha
+
+//Olhos
+Eye Scale=Escala do Olho
+
+//Nariz
+Nose + Bridge Scale=Escala Nariz+Gabela
+Nose Scale=Escala do Nariz
+Nose Tip Scale=Escala da Ponta do Nariz
+Nose Tip Offset=Deslocamento da Ponta do Nariz
+Nose Bridge Scale=Escala da Gabela
+
+//Boca
+Mouth Scale=Escala da Boca
+Lips Scale=Escala dos Lábios
+Mouth Side Scale=Escala da Lateral dos Lábios
+Upper Lip Scale=Escala do Lábio Superior
+Lower Lip Scale=Escala do Lábio Inferior
+
+//Orelhas
+Ear Scale=Escala das Orelhas
+Upper Ear Scale=Escala Superior
+Lower Ear Scale=Escala Inferior
+
+//Cílios
+Inner Eyelashes Scale=Escala Interna dos Cílios
+Upper Eyelashes Scale=Escala dos Cílios Superiores
+Outer Eyelashes Scale=Escala Externa dos Cílios
+Lower Eyelashes Scale=Escala dos Cílios Inferiores
+
+//------------------------------------------------------------
+//Corpo
+//------------------------------------------------------------
+//Geral
+Open Material Editor (Body)=Abrir o Material Editor (Corpo)
+Open Material Editor (Head)=Abrir o Material Editor (Cabeça)
+Open Material Editor (All)=Abrir o Material Editor (Tudo)
+
+Body Scale=Escala do Corpo
+
+//Seios
+Breast Scale 1=Escala dos Seios 1
+Breast Scale 2=Escala dos Seios 2
+Breast Scale 3=Escala dos Seios 3
+Breast Tip Scale=Escala da Ponta dos Seios
+Areola Scale=Escala da Aréola
+Areola Protrusion=Saliência da Aréola
+Nipple Scale=Escala dos Mamilos
+Nipple Tip Scale=Escala da Ponta dos Mamilos
+Breast Collision Scale=Escala da Colisão dos Seios
+
+//Tronco Superior
+Neck Scale=Escala do Pescoço
+Shoulder Scale=Escala dos Ombros
+Shoulder Shape=Formado dos Ombros
+Upper Torso Scale=Escala do Busto Superior
+Middle Torso Scale=Escala do Busto Médio
+Lower Torso Scale=Escala do Busto Inferior
+
+//Tronco Inferior
+Ass Scale=Escala da Bunda
+Ass Position=Posição da Bunda
+Ass Collision Scale=Escala de Colisão da Bunda
+Pelvis Scale=Escala da Cintura
+Hips Scale=Escala do Quadril
+Pelvis & Legs Scale X=Escala da Cintura e Pernas X
+Pelvis & Legs Scale Z=Escala da Cintura e Pernas Z
+Hips & Legs Scale X=Escala do Quadril e Pernas X
+Hips & Legs Scale Z=Escala do Quadril e Pernas Z
+Genital Area Scale=Escala da Área Genital
+Anus Scale=Escala do Ânus
+
+//Braços
+Whole Arm Scale=Tamanho dos Braços
+Arm Offset=Deslocamento dos Braços
+Upper Arm Deltoids Scale X=Músculo do Ombro X
+Upper Arm Deltoids Scale Z=Músculo do Ombro Z
+Upper Arm Triceps Scale X=Bíceps e Tríceps X
+Upper Arm Triceps Scale Z=Bíceps e Tríceps Z
+Upper Arm Lower Scale X=Escala do Meio do Braço X
+Upper Arm Lower Scale Z=Escala do Meio do Braço Z
+Elbow Scale X=Frente do Cotovelo X
+Elbow Scale Z=Frente do Cotovelo Z
+Elbow Cap Scale X=Cotovelo X
+Elbow Cap Scale Z=Cotovelo Z
+Forearm Upper Scale X=Antebraço Superior X
+Forearm Upper Scale Z=Antebraço Superior Z
+Forearm Lower Scale X=Antebraço Inferior X
+Forearm Lower Scale Z=Antebraço Inferior Z
+Wrist Scale X=Escala do Pulso X
+Wrist Scale Z=Escala do Pulso Z
+Hand Scale=Escala das Mãos
+Hand=Mão
+Finger=Dedo
+Segment=Falange
+Center=Centro
+Tip=Topo
+
+//Pernas
+Whole Leg Scale=Escala das Pernas
+Leg Offset=Deslocamento das Pernas
+Outer Upper Thigh Scale X=Coxa Superior Externa X
+Outer Upper Thigh Scale Z=Coxa Superior Externa Z
+Upper Thigh Scale X=Coxa Superior X
+Upper Thigh Scale Z=Coxa Superior Z
+Center Thigh Scale X=Centro da Coxa X
+Center Thigh Scale Z=Centro da Coxa Z
+Lower Thigh Scale X=Coxa Inferior X
+Lower Thigh Scale Z=Coxa Inferior Z
+Kneecap Scale=Escala do Joelho
+Kneecap Back Scale=Escala de Trás do Joelho
+Upper Calve Scale X=Escala da Panturrilha Superior X
+Upper Calve Scale Z=Escala da Panturrilha Superior Z
+Center Calve Scale X=Escala da Panturrilha Central X
+Center Calve Scale Z=Escala da Panturrilha Central Z
+Lower Calve Scale X=Escala da Panturrilha Inferior X
+Lower Calve Scale Z=Escala da Panturrilha Inferior Z
+Foot Scale 1=Escala do Pé 1
+Foot Scale 2=Escala do Pé 2
+Foot Toes Scale=Escala dos Dedos dos Pés
+Foot Toes Offset=Deslocamento dos Dedos dos Pés
+
+//Overlays
+Skin Overlays=Sobreposições de Pele
+Get face overlay template=Obter o modelo de sobreposição da face
+Get body overlay template=Obter o modelo de sobreposição do corpo
+Watch last loaded texture file for changes=Carregar mudanças do último arquivo de textura lido
+
+Load new texture=Carregar nova textura
+Clear texture=Limpar Textura
+Export current texture=Exportar textura atual
+
+Face overlay texture (On top of almost everything)=Textura sobre a face (Por cima de quase tudo)
+Body overlay texture (On top of almost everything)=Textura sobre o corpo (Por cima de quase tudo)
+Face underlay texture (Under tattoos, blushes, etc.)= Textura sob a face (Por baixo de tatuagens, maquiagem, etc.)
+Body underlay texture (Under tattoos, blushes, etc.)=Textura sob o corpo (Por baixo de tatuagens, maquiagem, etc.)
+
+//------------------------------------------------------------
+//Cabelos
+//------------------------------------------------------------
+//Mods
+Open Material Editor (Back)=Abrir Material Editor (Traseiro)
+Open Material Editor (Front)=Abrir Material Editor (Franja)
+Open Material Editor (Side)=Abrir Material Editor (Lateral)
+Open Material Editor (Extension)=Abrir Material Editor (Estensões)
+
+//------------------------------------------------------------
+//Roupas
+//------------------------------------------------------------
+//Overlays
+Clothes Overlays=Sobreposições de Roupas
+
+Dump original texture=Exportar textura original
+Hide base texture=Esconder textura base
+Load new overlay texture=Carregar nova textura
+Clear overlay texture=Limpar textura
+Export overlay texture=Exportar textura atual
+
+Top=Superior
+Bottom=Inferior
+Inner Top=Superior Interno
+Inner Bottom=Inferior Interno
+Shoes=Sapatos
+
+//Material Editor
+Open Material Editor (Top)=Abrir Material Editor (Superior)
+Open Material Editor (Bottom)=Abrir Material Editor (Inferior)
+Open Material Editor (Bra)=Abrir Material Editor (Superior Interno)
+Open Material Editor (Underwear)=Abrir Material Editor (Inferior Interno)
+Open Material Editor (Gloves)=Abrir Material Editor (Luvas)
+Open Material Editor (Pantyhose)=Abrir Material Editor (Meia Calça)
+Open Material Editor (Socks)=Abrir Material Editor (Meias)
+Open Material Editor (Shoes)=Abrir Material Editor (Sapatos)
+
+
+//------------------------------------------------------------
+//Plugin Settings
+//------------------------------------------------------------
+Save with translated names=Salvar com nomes ocidentais
+Split XYZ scale sliders=Separar sliders de escala em XYZ
+Advanced Bonemod Window=Janela Avançada do Bonemod
+
+//------------------------------------------------------------
+//Gravure Plugin
+//------------------------------------------------------------
+Inner Bot=Inf. Interno
+Pantyhose=Meia Calça
+Gloves=Luvas
+Socks=Meias
+Half=Meio
+Save (Keep Card)=Salvar\n(Manter Carta)
+
+Animation=Animação
+← Animation →=← Animação →
+Wetness=Molhado
+Blush=Rubor
+Skin Gloss=Brilho
+Nipples=Mamilos
+Tears=Lágrimas
+
+
+//------------------------------------------------------------
+//Cheater Female Parameter Info
+//------------------------------------------------------------
+Parameters=Parâmetros
+Aversion:=Aversão:
+Enjoyment:=Prazer:
+Favor:=Amor:
+Slavery:=Submissão:
+Broken:=Quebra:
+Dependence:=Dependência:
+Apply=Aplicar

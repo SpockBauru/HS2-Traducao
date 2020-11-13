@@ -161,8 +161,8 @@
 ツヤ=Brilho
 質感=Textura
 カラーサンプル=Amostra de Cor
-柄設定=Configuração de Padrão
-柄=Tipo de Padrão
+柄設定=Opções de Estampa
+柄=Tipo de Estampa
 
 //------------------------------------------------------------
 // Miscelâneas
@@ -304,16 +304,16 @@ Y位置=Eixo Y
 髪の調整をまとめて行う=Combinar ajustes de Eixo do Cabelo
 
 後ろ髪=Cabelo Traseiro
-後ろ髪の設定=Config. do Cabelo Traseiro
+後ろ髪の設定=Opções do Cabelo Traseiro
 
 前髪=Franja
-前髪の設定=Config. da Franja
+前髪の設定=Opções da Franja
 
 横髪=Cabelo Lateral
-横髪の設定=Config. do Cabelo Lateral
+横髪の設定=Opções do Cabelo Lateral
 
 エクステ=Extensões de Cabelo
-エクステの設定=Config. das Extensões de Cabelo
+エクステの設定=Opções das Extensões de Cabelo
 
 描画設定=Renderização
 
@@ -402,7 +402,7 @@ SE音量=Volume dos Sons
 //------------------------------------------------------------
 // Face -> Geral
 //------------------------------------------------------------
-顔全体横幅=Largura da Cabeça
+顔全体横幅=Larg. da Cabeça
 顔上部前後=Profund. Superior
 顔上部上下=Altura Superior
 顔下部前後=Profund. Inferior
@@ -411,12 +411,12 @@ SE音量=Volume dos Sons
 //------------------------------------------------------------
 // Face -> Queixo
 //------------------------------------------------------------
-顎横幅=Largura do Queixo
+顎横幅=Larg. do Queixo
 顎上下=Altura do Queixo
-顎前後=Profund. do Queixo
+顎前後=Prof. do Queixo
 顎角度=Angulo do Queixo
 顎下部上下=Papada
-顎先幅=Tamanho da Ponta
+顎先幅=Tam. da Ponta
 顎先上下=Altura da Ponta
 顎先前後=Profund. da Ponta
 
@@ -424,10 +424,10 @@ SE音量=Volume dos Sons
 // Face -> Bochecha
 //------------------------------------------------------------
 頬下部上下=Altura Inferior
-頬下部前後=Profundidade Inferior
+頬下部前後=Profund. Inferior
 頬下部幅=Largura Inferior
 頬上部上下=Altura Superior
-頬上部前後=Profundidade Superior
+頬上部前後=Profund. Superior
 頬上部幅=Largura Superior
 
 //------------------------------------------------------------
@@ -443,18 +443,18 @@ SE音量=Volume dos Sons
 // Face -> Olhos
 //------------------------------------------------------------
 目の縦幅=Altura dos Olhos
-目横位置=Espaço Entre Olhos
+目横位置=Espaço dos Olhos
 目前後=Profundidade
 目の横幅=Largura
 目上下=Posição Vertical
 目の角度Z軸=Ângulo Z
 目の角度Y軸=Ângulo Y
-目尻上下位置=Canto Externo Vertical
+目尻上下位置=Canto Ext Vert
 目尻左右位置=Distância Externa
-目頭上下位置=Canto Interno Vertical
+目頭上下位置=Canto Int Vert
 目頭左右位置=Distância Interna
-まぶた形状１=Forma de Pálpebra 1
-まぶた形状２=Forma de Pálpebra 2
+まぶた形状１=Forma Pálpebra 1
+まぶた形状２=Forma Pálpebra 2
 
 //------------------------------------------------------------
 // Face -> Nariz
@@ -463,27 +463,27 @@ SE音量=Volume dos Sons
 鼻全体前後=Profund. do Nariz
 鼻全体角度X軸=Ângulo do Nariz
 鼻全体横幅=Largura do Nariz
-鼻筋高さ=Profund. Superior
-鼻筋横幅=Largura Superior
-鼻筋形状=Curva Superior
+鼻筋高さ=Profun. da Gabela
+鼻筋横幅=Largura da Gabela
+鼻筋形状=Curva da Gabela
 小鼻横幅=Largura da Narina
 小鼻上下=Altura da Narina
 小鼻前後=Compr. da Narina
-小鼻角度X軸=Ângulo X da Narina
-小鼻角度Z軸=Ângulo Z da Narina
+小鼻角度X軸=Narina Ângulo X
+小鼻角度Z軸=Narina Ângulo Z
 鼻先高さ=Compr. da Ponta
 鼻先角度X軸=Altura da Ponta
-鼻先サイズ=Tamanho da Ponta
+鼻先サイズ=Tam. da Ponta
 
 //------------------------------------------------------------
 // Face -> Boca
 //------------------------------------------------------------
 口上下=Posição Vertical
 口横幅=Largura da Boca
-口縦幅=Espessura dos Lábios
+口縦幅=Esp. dos Lábios
 口前後位置=Profundidade
-口形状上=Espessura Lábio Sup.
-口形状下=Espessura Lábio Inf.
+口形状上=Esp. Lábio Sup.
+口形状下=Esp.Lábio Inf.
 口形状口角=Sorriso
 
 //------------------------------------------------------------
@@ -492,8 +492,8 @@ SE音量=Volume dos Sons
 耳サイズ=Tamanho
 耳角度Y軸=Ângulo Y
 耳角度Z軸=Ângulo Z
-耳上部形状=Comprimento Superior
-耳下部形状=Comprimento Inferior
+耳上部形状=Comp. Superior
+耳下部形状=Comp. Inferior
 
 //------------------------------------------------------------
 // Face -> Pintas
@@ -529,7 +529,7 @@ SE音量=Volume dos Sons
 // Corpo -> Geral
 //------------------------------------------------------------
 身長=Altura
-頭サイズ=Tamanho da Cabeça
+頭サイズ=Tam. da Cabeça
 
 //------------------------------------------------------------
 // Corpo -> Seios
@@ -542,31 +542,31 @@ SE音量=Volume dos Sons
 胸の尖り=Comprimento
 胸の柔らかさ=Maciez
 胸の重さ=Peso
-乳輪の膨らみ=Profund. da Aréola
-乳輪の大きさ=Tamanho da Aréola
+乳輪の膨らみ=Prof. da Aréola
+乳輪の大きさ=Tam. da Aréola
 乳首太さ=Esp. dos Mamilos
-乳首立ち=Profun. dos Mamilos
+乳首立ち=Prof. dos Mamilos
 
 //------------------------------------------------------------
 // Corpo -> Tronco Superior
 //------------------------------------------------------------
-首周り幅=Largura do Pescoço
+首周り幅=Larg. do Pescoço
 首周り奥=Esp. do Pescoço
-胴体肩周り奥=Espessura do Ombro
-胴体肩周り幅=Largura do Ombro
+胴体肩周り奥=Esp. do Ombro
+胴体肩周り幅=Larg. do Ombro
 胴体上幅=Largura do Peito
-胴体上奥=Espessura do Peito
-胴体下幅=Largura da Cintura
-胴体下奥=Espessura da Cintura
+胴体上奥=Esp. do Peito
+胴体下幅=Larg. da Cintura
+胴体下奥=Esp. da Cintura
 
 //------------------------------------------------------------
 // Corpo -> Tronco Inferior
 //------------------------------------------------------------
 ウエスト位置=Altura da Cintura
 腰上幅=Largura da Bacia
-腰上奥=Espessura da Bacia
-腰下幅=Largura do Quadril
-腰下奥=Espessura do Quadril
+腰上奥=Esp. da Bacia
+腰下幅=Larg. do Quadril
+腰下奥=Esp. do Quadril
 尻=Bunda
 尻角度=Ângulo da Bunda
 
@@ -795,7 +795,7 @@ SE音量=Volume dos Sons
 //------------------------------------------------------------
 服読込み=Carregar\nRoupa
 装飾読込み=Carregar\nAcessórios
-全て読込み=Carregar Tudo
+全て読込み=Carregar\nTudo
 コーディネート名=Nome do Conjunto
 //Voltar
 決定=Aceitar
