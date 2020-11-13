@@ -1,5 +1,5 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ハイカラソックス=
-//ウェディングサイハイ=
+ハイカラソックス=Meias com Cno Dobrado
+ウェディングサイハイ=Meia 5/8 de Casamento

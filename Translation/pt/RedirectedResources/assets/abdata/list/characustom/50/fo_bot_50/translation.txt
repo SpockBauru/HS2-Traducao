@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//袴=
-//パンクボトム=
-//ウェディングスカート=
-//触手（下）=
-//コンシェルジュスカートS=
-//巫女袴=
-//リボンベルトスカート=
-//シーフベルト=
+袴=Hakama
+パンクボトム=Jeans Punk
+ウェディングスカート=Saia de Casamento
+触手（下）=Tentáculos (Inferior)
+コンシェルジュスカートS=Saia da Recepcionista Sitri
+巫女袴=Saia de Sacerdotiza
+リボンベルトスカート=Saia com Cinto de Laço
+シーフベルト=Cinto de Bandida

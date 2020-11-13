@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//和服=
-//パンクジャケットA=
-//パンクジャケットB=
-//ウェディングトップス=
-//触手（上）=
-//コンシェルジュスーツS=
-//レースクイーンスーツ=
-//巫女服=
-//ガーリーブラウス=
-//リボンブラウス=
-//シーフトップス=
+和服=Kimono
+パンクジャケットA=Jaquete Punk A
+パンクジャケットB=Jaquete Punk B
+ウェディングトップス=Espartilho de Casamento
+触手（上）=Tentáculos (Superior)
+コンシェルジュスーツS=Traje da Recepcionista Sitri
+レースクイーンスーツ=Vestido da Rainha das Corridas
+巫女服=Blusa de Sacerdotiza
+ガーリーブラウス=Camisa de Menina
+リボンブラウス=Camisa com Laço
+シーフトップス=Regata de Bandida

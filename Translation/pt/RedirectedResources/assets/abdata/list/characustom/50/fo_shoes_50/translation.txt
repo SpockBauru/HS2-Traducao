@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//オックスフォードシューズ=
-//パンクシューズ=
-//ウェディングパンプス=
-//コンシェルジュブーツS=
-//レースクイーンブーツ=
-//シーフブーツ=
+オックスフォードシューズ=Sapatos Oxford
+パンクシューズ=Sapatos Punk
+ウェディングパンプス=Sapatilha de Casamento
+コンシェルジュブーツS=Botas da Recepcionosta Sitri
+レースクイーンブーツ=Botas da Raínha das Corridas
+シーフブーツ=Botas de Bandida

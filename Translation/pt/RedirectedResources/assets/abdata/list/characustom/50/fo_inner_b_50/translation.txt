@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ウェディングショーツ=
-//コンシェルジュレースS=
-//ガーリーショーツ=
+ウェディングショーツ=Calcinha de Renda de Casamento
+コンシェルジュレースS=Calcinha de Renda  da Sitri
+ガーリーショーツ=Calcinha de Lacinho de Menina

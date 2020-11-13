@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//シトリーバング=
-//和風ぱっつん=
-//ワイルドアシンメトリ=
-//エム分けぱっつん=
-//サイドロングラフバング=
+シトリーバング=Franja da Citri
+和風ぱっつん=Franja Reta Japonesa
+ワイルドアシンメトリ=Bob Assimétrico Sobre o Olho
+エム分けぱっつん=Franja em "M" Reta
+サイドロングラフバング=Lado Longo com Mecha Sobre Olho

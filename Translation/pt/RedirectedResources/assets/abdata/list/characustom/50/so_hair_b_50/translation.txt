@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//シトリーヘア=
-//ボリュームぱっつんポニー=
-//ワイルドミディアム=
-//ロングサイドテール=
-//アップスタイル=
+シトリーヘア=Penteado da Citri
+ボリュームぱっつんポニー=Rabo de Cavalo Longo e Volumoso
+ワイルドミディアム=Repicado médio com Rabo de Cavalo
+ロングサイドテール=Longo com Rabo de Cavalo Lateral
+アップスタイル=Coque Amarrado

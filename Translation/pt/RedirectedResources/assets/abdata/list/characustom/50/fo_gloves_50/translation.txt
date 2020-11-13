@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ウェディンググローブ=
-//触手（腕）=
-//コンシェルジュスリーブS=
-//レースクイーングローブ=
-//シーフグローブ=
+ウェディンググローブ=Luvas de Casamento
+触手（腕）=Tentáculos (Braços)
+コンシェルジュスリーブS=Mangas da Recepcionista Sitri
+レースクイーングローブ=Luvas da Rainha das Corridas
+シーフグローブ=Luvas de Bandida
