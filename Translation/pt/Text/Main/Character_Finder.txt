@@ -56,7 +56,7 @@
 髪型=Penteado
 ロング=Longo
 ショート=Curto
-ツイン=Maria Chiquinha
+ツイン=Maria Chiq.
 ポニー=Rabo de Cavalo
 その他=Outro
 //Aleatório#
@@ -73,7 +73,7 @@
 //なし=Nenhum
 
 //Configurações:
-エルフ耳=Orelhas de Elfo
+エルフ耳=Orelha Elfica
 メガネ=Óculos
 
 //Botões

@@ -23,11 +23,11 @@
 //------------------------------------------------------------
 // Dicas
 //------------------------------------------------------------
-ホイールで開始=Roda do Mouse para Começar
-ホイール上下で速度変更=Roda do mouse: Mudar Velocidade
-ホイール上で再開始\nホイール下で引き抜く=Roda para cima: Reiniciar\nRoda para Baixo: Tirar
-ホイールで叩く=Roda do mouse: Bater
-ホイールで再開始=Roda do mouse: Reiniciar
+ホイールで開始=Scroll para Começar
+ホイール上下で速度変更=Scroll: Mudar Velocidade
+ホイール上で再開始\nホイール下で引き抜く=Scroll para cima: Reiniciar\nScroll para Baixo: Tirar
+ホイールで叩く=Scroll: Bater
+ホイールで再開始=Scroll: Reiniciar
 
 //------------------------------------------------------------
 // Acessórios

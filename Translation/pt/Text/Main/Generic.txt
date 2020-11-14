@@ -116,7 +116,7 @@ H=Sexo
 // Caixa de configurações no Editor de Personagens e Buscador de Personagens
 // (partes também usadas no menu de foto)
 //------------------------------------------------------------
-状態設定=Configurações
+状態設定=Opções
 
 //geral
 視線=Olhar
