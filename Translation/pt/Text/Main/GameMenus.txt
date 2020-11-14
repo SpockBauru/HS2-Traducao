@@ -103,7 +103,8 @@ Hをお願いする=Pedir para transar
 実績=Conquistas
 実績項目=Conquistas
 交換品=Desbloqueáveis
-必要Ｐ=Requisitos
+必要Ｐ=Pontos
+GET=PEGO
 sr:"^残り(.*)P$"=Pontos Restantes $1P
 解放しますか？=Você deseja desbloquear esse item?
 

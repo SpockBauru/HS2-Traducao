@@ -2,6 +2,8 @@
 
 #set level 2
 
+sr:"^(Ver)(.*)$"=$1$2 BR
+
 プレイ=Jogar
 メイク=Criar
 ネットワーク=Rede
