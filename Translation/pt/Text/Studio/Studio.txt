@@ -1,0 +1,1101 @@
+// Alguns desses geram conflito com o Editor de Personagens e precisam de nomes abreviados
+// Tenha certeza que esse arquivo carregue apenas no Studio
+
+#set exe StudioNEOV2
+
+
+// A maioria de tudo no estúdio é traduzido por arquivos encontrados em
+// RedirectedResources\assets\abdata\studio\info
+// Este arquivo deve conter principalmente elementos de IU não incluídos nos assets
+
+//
+// Barra lateral direita
+//
+
+ワークスペース=Área de Trabalho
+
+// Barra lateral direita -> Camera
+r:"^カメラ([０-９0-9]+)$"=Camera $1
+
+// Configurações de animação da câmera
+名前=Nome
+動作=Ativo
+フル=Loop
+
+// Barra lateral direita -> Rota
+ルート=Rota
+子接続先=Ponto de Acesso Filho
+スタート=Início
+r:"^ポイント([０-９0-9]+)$"=Ponto $1
+
+// Configurações de Animação de Rota
+ルート設定=Definição de Rotas
+ルートコントローラー=Controlador de Rota
+//Nome
+追加=Adicionar Ponto
+向き補正=Mira Correta
+//Loop
+ライン描画=Linha de Movimento
+//Line Color
+ルートのラインカラー=Cor da linha de rota
+
+// Configurações de pontos de rota
+ルートポイント設定=Definição do ponto de rota
+//Velocidade
+挙動=Comportamento
+形状=Forma
+直線=Linha
+曲線=Curva
+連結=Link
+
+// route Point Behaviors
+直線的=Linear
+徐々に早く=Acelerar
+徐々に遅く=Desacelerar
+急に早く=Imediata Rápida
+急に遅く=Imediata Lenta
+バウンド=Vinculado
+
+// Barra lateral direita -> Adicionar Personagem
+
+sr:"^グループ [:：] (.*)$"=Grupo: $1
+sr:"^部位 [:：] (.*)$"=Parte: $1
+
+髪=Cabelo
+頭=Cabeça
+顔=Face
+首=Pescoço
+胴=Torso
+腰=Cintura
+脚=Pernas
+腕=Arms
+手=Mãos
+股間=Virilha
+ポニー=Rabo de Cavalho
+ツイン左=Maria Chiquinha Esquerda
+ツイン右=Maria Chiquinha Direita
+ヘアピン左=Presilha Esquerda
+ヘアピン右=Presilha Direita
+帽子=Chapéu
+額=Testa
+頭上=Topo da Cabeça
+頭中心=Centro da Cabeça
+イヤリング左=Brinco Esquerdo
+イヤリング右=Brinco Direito
+眼鏡=Óculos
+鼻=Nariz
+口=Boca
+首=Pescoço
+胸上=Tórax superior
+胸上中央=Centro do tórax superior
+左乳首=Mamilo esquerdo
+右乳首=Mamilo direito
+背中中央=Centro de costas
+背中左=Esquerda das costas
+背中右=Direita das costas
+腰=Cintura
+腰前=Frente da Cintura
+腰後ろ=Atrás da cintura
+腰左=Cintura Esquerda
+腰右=Cintura direita
+左太もも=Coxa Esquerda
+左ひざ=Joelho esquerdo
+左足首=Tornozelo esquerdo
+かかと左=Calcanhar esquerdo
+右太もも=Coxa direita
+右ひざ= oelho Direito
+右足首=Tornozelo Direito
+かかと右=Calcanhar direito
+左肩=Ombro Esquerdo
+左上腕=Braço superior esquerdo
+左ひじ=Cotovelo esquerdo
+左手首=Punho esquerdo
+右肩=Ombro direito
+右上腕=Braço superior direito
+右ひじ=Cotovelo direito
+右手首=Punho direito
+左手=Mão esquerda
+左人差指=Dedo indicador esquerdo
+左中指=Dedo Médio Esquerdo
+左薬指=Dedo Anelar Esquerdo
+右手=Mão direita
+右人差指=Dedo do Indicador Direito
+右中指=Dedo Médio Certo
+右薬指=Dedo Anelar Direito
+男根根本=Base do pênis
+女性器=Genitália Feminina
+尻穴=Anus
+顔=Face
+左耳=Orelha esquerda
+右耳=Orelha direita
+左胸=Tórax esquerdo
+右胸=Tórax direito
+左肘=Cotovelo esquerdo
+右肘=Cotovelo direito
+下腹部①=Virilha ①
+下腹部②=Virilha ②
+下腹部③=Virilha ③
+
+// Barra lateral direita -> Pasta nova padrão
+フォルダー=Nova Pasta
+名前を入力=Digite um nome
+
+// Novo controle de câmera do Patch 0727
+設定しているカメラ=Set Camera
+
+//
+// Seletor de Cores
+//
+
+左クリックで現在のカラーを登録します=Botão esquerdo para copiar a cor atual
+全削除=Apagar tudo
+
+// Picker
+ピッカー=Escolher
+スライダー=Slider
+プリセット=Predefinições
+サンプル=Amostra
+見本=Resultado
+色合い=Hue
+鮮やかさ=Saturação
+明るさ=Valor
+赤=Vermelho
+緑=Verde
+青=Azul
+透明度=Alpha
+
+//
+// Controlador de objetos
+//
+
+オブジェクトコントローラー=Controlador de objetos
+平行移動=Horiz.
+上下移動=Vert.
+r:"^([Ａ-Ｚ])回転$"=$1 Rot.
+
+//
+// Controlador de mapas
+//
+マップコントローラー=Controlador de mapas
+位置=Localização
+//Horiz.
+//Vert.
+時間帯=Hora do dia
+
+//
+// Ajustes do item
+//
+
+//Cor 1
+柄=Estampa
+柄の色=Cor da Estampa
+繰り返す=Estampa Título
+横移動=Horizontal
+縦移動=Vertical
+横スケール=Estala Hor.
+縦スケール=Escala Vert.
+//Rotator
+//Shadowing
+アルファ=Alpha
+//Line Color
+//Line Thickness
+//FK
+揺れ制御=Controle de tremor
+
+// Opções de Item -> Caixa inferior direita (Seletor de cores)
+r:"^アイテム カラー([０-９0-9]+)$"=Cor do item $1
+r:"^柄の色([０-９0-9]+)$"=Cor da Estampa $1
+
+// Opções de Items -> Estampas
+柄を選択して下さい=Por favor selecione uma Estampa
+
+// Regexes em caso de variações adicionais adicionadas por patch ou mods
+r:"^チェック([A-Z])$"=Xadrez $1
+r:"^星([A-Z])$"=Estrelas $1
+
+// TODO: Check if studio loads pattern list names from:
+// TODO:   RedirectedResources\assets\abdata\list\characustom\*\st_pattern_*
+// TODO: for not replicate here
+ストライプ=Listras Verticais
+//ボーダー=Horizontal Stripes
+//チェックA=Xadrez A
+//水玉=Polka Dots
+//イチゴ=Strawberries
+//ハーリキンチェック=Harlequin
+//星B=Estrelas B
+//ハート=Heart
+//チェックB=Xadrez B
+//千鳥格子=Hound's Tooth
+//網=Net
+//ヒョウ=Leopard
+//ゼブラ=Zebra
+//迷彩=Camouflage
+//レンガ=Brick
+//編み込み=Weaved
+//市松=Xadrez
+//麻の葉=Hexagons
+//青海波=Ocean Waves
+//唐草=Arabesque
+//矢絣=Arrow Feathers
+//ノルデック=Nordic
+//鹿子=Deerskin
+//亀甲花菱=Turtleshell Flowers
+//星A=Estrelas A
+//ドクロ=Skull
+//グラデーションボーダー=Gradient
+//花柄=Flowers
+//縦線=Vertical Lines
+//横線=Horizontal Lines
+//モザイク=Mosaic
+//アーガイル=Argyle
+//チマヨ=Chimayo
+//ギンガムチェック=Gingham Xadrez
+//変則ストライプ=Irregular Vertical Stripes
+//変則ボーダー=Irregular Horizontal Stripes
+//丸=Circle
+//ペイズリー=Paisley
+//エイシェント=Ancient
+//南国リーフ=Tropical Leaves
+//ハイビスカス=Hibiscus
+//スポーツ=Sports
+//ストライプ細=Thin Stripes
+//バラ=Rose
+//汚れ=Dirty
+//牛柄=Cow
+//蛇柄=Snake
+//牡丹=Peony
+//雪輪=Round Snow
+//毬=Bouquet
+//菊=Chrysanthemum
+//桜=Cherry Blossoms
+//霞桜=Falling Cherry Blossoms
+////八つ藤=
+//鳥流水=Bird in Water Flow
+//大花柄=Large Floral
+//菊唐草=Chrysanthemum arabesque
+//梅唐草=Plum Arabesque
+//松皮菱=Pine Skin Diamond
+
+//
+// Map Light Stuff
+//
+
+//Color
+ライトのON/OFF=Luz On/Off
+ターゲット表示=Mostrar Alvo
+//Self-Shadowing
+//Strength
+//Intensity
+スポット角度=Ângulo do ponto
+ライト=Light // Lower Direita Box
+
+//
+// Menu Adicionar
+//
+
+女キャラ=Mulheres
+男キャラ=Homens
+アイテム=Items
+/ップ=Mapa
+Claro=Iluminação
+マップライト=Luz do Mapa
+背景=Fundo
+フレーム=Frame
+
+// Grupos/Categorias/Itens são carregados a partir de ativos que correspondem aos padrões abaixo
+// Os regexes desta seção são mantidos para o caso de variações adicionais acrescentadas por patch ou mods.
+
+// Add -> Group
+// RedirectedResources\assets\abdata\studio\info\*\itemgroup_*
+
+// Add -> Group -> Category
+// RedirectedResources\assets\abdata\studio\info\*\itemcategory_*
+
+r:"^追加([０-９0-9]+)$"=Adicional $1
+
+// Add -> Group -> Category -> Items
+// RedirectedResources\assets\abdata\studio\info\*\itemlist_*
+
+
+
+
+// Adicionar -> Itens -> Base -> Chão
+r:"^畳([０-９0-9]+)$"=Esteira Tatami $1
+r:"^アスファルト床([０-９0-9]+)$"=Chão de asfalto $1
+r:"^石床([０-９0-9]+)$"=Chão de pedra $1
+r:"^石畳([０-９0-9]+)$"=Pavimentação de pedras $1
+r:"^レンガ床([０-９0-9]+)$"=Chão de tijolos $1
+r:"^タイル床([０-９0-9]+)$"=Piso de ladrilho $1
+r:"^砂地([０-９0-9]+)$"=Areia $1
+r:"^花壇([０-９0-9]+)$"=Canteiro de flores $1
+
+
+// Adicionar -> Itens -> Base -> Portas
+r:"^襖([０-９0-9]+)$"=Porta deslizante $1
+r:"^障子([０-９0-9]+)$"=Porta de papel $1
+r:"^トイレドア([０-９0-9]+)$"=Porta do banheiro $1
+
+// Adicionar -> Itens -> Base -> Paredes
+r:"^石壁([０-９0-9]+)$"=Parede de pedra $1
+r:"^ブロック壁([０-９0-9]+)$"=Parede de blocos $1
+
+// Adicionar -> Itens -> Base -> Escadas
+r:"^石階段([０-９0-9]+)$"=Escadas de Pedra $1
+
+// Adicionar -> Itens -> Base -> Objetos Instalados
+r:"^壁ボックス([０-９0-9]+)$"=Caixa de parede $1
+r:"^ホワイトボード([０-９0-9]+)$"=Quadro branco $1
+r:"^岩([０-９0-9]+)$"=rocha $1
+
+// Adicionar -> Itens -> Base -> Estruturas
+r:"^ビル([０-９0-9]+)$"=Edifício $1
+
+// Adicionar -> Itens -> Móveis -> Móveis -> Mesas
+r:"^机([０-９0-9]+)$"=Mesa $1
+r:"^ちゃぶ台([０-９0-9]+)$"=Mesa de chá $1
+
+// Adicionar -> Itens -> Móveis -> Cadeiras
+r:"^椅子([０-９0-9]+)$"=Cadeira $1
+r:"^食堂椅子([０-９0-9]+)$"=Cadeira de jantar $1
+r:"^パイプ椅子([０-９0-9]+)$"=Cadeira de tubos $1
+r:"^長椅子([０-９0-9]+)$"=Banco de Academia $1
+r:"^ソファ([０-９0-9]+)$"=Sofá $1
+r:"^豪華ソファ([０-９0-9]+)$"=Sofá caro $1
+r:"^ベンチ([０-９0-9]+)$"=Banco $1
+r:"^和風長椅子([０-９0-9]+)$"=Cadeira japonesa $1
+
+// Adicionar -> Itens -> Móveis -> Prateleiras
+r:"^ロッカー([０-９0-9]+)$"=Armário $1
+r:"^壁棚([０-９0-9]+)$"=Estante de parede $1
+r:"^小棚([０-９0-9]+)$"=Estante pequena $1
+r:"^事務棚([０-９0-9]+)$"=Estante de escritório $1
+r:"^大棚([０-９0-9]+)$"=Estante Grande $1
+r:"^自室棚([０-９0-9]+)$"=Estante de Quarto $1
+r:"^図書室棚([０-９0-9]+)$"=Estante da biblioteca $1
+r:"^棚([０-９0-9]+)$"=Estante $1
+
+// Adicionar -> Itens -> Móveis -> Divisórias
+r:"^カーテンレール([０-９0-9]+)$"=Cortinas de trilhos $1
+r:"^カーテン([０-９0-9]+)$"=Cortinas $1
+r:"^ブラインド([０-９0-9]+)$"=Persianas $1
+r:"^シャワー室仕切り([０-９0-9]+)$"=Divisória de Chuveiro $1
+r:"^トイレ仕切り([０-９0-9]+)$"=Divisória de banheiro $1
+
+// Adicionar -> Itens -> Móveis -> Banheiro
+r:"^便器([０-９0-9]+)$"=Banheiro $1
+r:"^トイレットペーパー([０-９0-9]+)$"=Papel higiênico $1
+r:"^蛇口([０-９0-9]+)$"=Torneira $1
+r:"^洗面器([０-９0-9]+)$"=Pia $1
+
+// Adicionar -> Itens -> Móveis -> Verão
+ビーチチェア=Cadeira de praia
+ビーチパラソル=Guarda-sol de praia
+木の椅子=Cadeira de madeira
+木の長椅子=Banco de madeira
+木の机=Escrivaninha de madeira
+木の箱=Caixa de madeira
+
+//
+// Adicionar -> Itens -> Ornamentos
+//
+
+r:"^プレゼント([０-９0-9]+)$"=Presente $1
+r:"鉄パイプ([０-９0-9]+)$"=Tubo de ferro $1
+r:"流木([０-９0-9]+)$"=Madeira à deriva $1
+r:"板([０-９0-9]+)$"=Prancha $1
+r:"レンガ([０-９0-9]+)$"=Tijolo $1
+
+
+// Adicionar -> Itens -> Objetos -> Esportes
+r:"^マット([０-９0-9]+)$"=Esteira $1
+r:"^跳び箱([０-９0-9]+)$"=Cavalo de salto $1
+r:"^ボール([０-９0-9]+)$"=Bola $1
+r:"^プールロープ([０-９0-9]+)$"=Raia $1
+r:"^飛び込み台([０-９0-9]+)$"=prancha de mergulho $1
+r:"^手すり([０-９0-9]+)$"=Corrimão $1
+
+// Add -> Items -> Objects -> Plants
+r:"^観葉植物([０-９0-9]+)$"=Planta Decorativa $1
+r:"^生垣([０-９0-9]+)$"=Cerca $1
+
+// Adicionar -> Itens -> Objetos -> Pós-escola
+r:"^ステンドグラス([０-９0-9]+)$"=Vidro Manchado $1
+r:"^教会の柱([０-９0-9]+)$"=Pilar da Igreja $1
+r:"^燭台([０-９0-9]+)$"=Castiçal $1
+r:"^音楽機器([０-９0-9]+)$"=Máquina de karaokê $1
+r:"^充電器([０-９0-9]+)$"=Carregador de Bateria $1
+r:"^音響機器([０-９0-9]+)$"=Alto-falante $1
+r:"^照明機器([０-９0-9]+)$"=Iluminação de Palco $1
+
+//
+// Adicionar -> Itens -> Objetos -> Alimentos
+//
+
+// Adicionar -> Itens -> Objetos -> Alimentos -> Alimentos
+r:"^弁当([０-９0-9]+)$"=Marmita $1
+r:"^サンドイッチ([０-９0-9]+)$"=Sanduíche $1
+r:"^メロンパン([０-９0-9]+)$"=Pão de Melão $1
+r:"^定食([０-９0-9]+)$"=Refeição completa $1
+r:"^バナナ([０-９0-9]+)$"=Banana $1
+
+//
+// Adicionar -> Itens -> Objetos -> Pequenos Artigos
+//
+
+// Adicionar -> Itens -> Objetos -> Pequenos Artigos -> Vida Diária
+r:"^ノート([０-９0-9]+)$"=Notebook $1
+r:"^バケツ([０-９0-9]+)$"=Balde $1
+r:"^踏み台([０-９0-9]+)$"=Banqueta $1
+r:"^カレンダー([０-９0-9]+)$"=Calendário $1
+r:"^本([０-９0-9]+)$"=Livro $1
+r:"^見開き本([０-９0-9]+)$"=Livro Aberto $1
+r:"^ゴミ箱([０-９0-9]+)$"=Lata de lixo $1
+r:"^ダンボール([０-９0-9]+)$"=Papelão $1
+r:"^紙箱([０-９0-9]+)$"=Caixa de papelão $1
+
+// Adicionar -> Itens -> Objetos -> Pequenos Artigos -> Objetos em Geral
+r:"^壁掛け([０-９0-9]+)$"=Decoração de paredes $1
+r:"^掲載物([０-９0-9]+)$"=itens em exposição $1
+r:"^プラモデル([０-９0-9]+)$"=Modelo em plástico $1
+r:"^大型定規([０-９0-9]+)$"=Régua Grande $1
+r:"^壺([０-９0-9]+)$"=Vaso $1
+r:"^座布団([０-９0-9]+)$"=Almofada de Chão $1
+r:"^掛け軸([０-９0-9]+)$"=pergaminho suspenso $1
+r:"^陶器([０-９0-9]+)$"=Louça de barro $1
+
+// Adicionar -> Itens -> Objetos -> Pequenos Artigos -> Eletrodomésticos
+r:"^時計([０-９0-9]+)$"=Relógio $1
+r:"^テレビ([０-９0-9]+)$"=TV $1
+r:"^冷水器([０-９0-9]+)$"=Fonte de água $1
+r:"^自販機([０-９0-9]+)$"=Máquina de venda $1
+r:"^たこ足配線([０-９0-9]+)$"=Fiação de Energia $1
+r:"^コンセントコード([０-９0-9]+)$"=Cabo elétrico $1
+
+// Adicionar -> Itens -> Objetos -> Pequenos Artigos -> Fantasia
+r:"^宝箱([０-９0-9]+)$"=Baú do Tesouro $1
+
+//
+// Adicionar -> Itens -> Personagem
+//
+
+// Adicionar -> Itens -> Personagem -> Cabelo
+r:"^細リボン([A-Z])$"=Fita fina $1
+
+// Adicionar -> Itens -> Personagem -> Cabeça
+r:"^あほ毛([A-Z])$"=Ahoge $1
+r:"^くるくるあほ毛([A-Z])$"=Ahoge Curvo $1
+r:"^ギザギザあほ毛([A-Z])$"=Ahoge Dentado $1
+r:"^ちょびあほ毛([A-Z])$"=Ahoge Pequeno $1
+r:"^ハートあほ毛([A-Z])$"=Ahoge Coração $1
+
+// Adicionar -> Itens -> Personagem -> Rosto
+r:"^ハート([A-Z])$"=Coração $1
+
+
+// Adicionar -> Itens -> Personagem -> Pós-escola
+r:"^付け毛([０-９0-9][０-９0-9]+)$"=Peça de cabelo $1
+
+
+//
+// Adicionar -> Itens -> Efeitos 2D
+//
+
+// Adicionar -> Itens -> Efeitos 2D -> Balões de Fala
+
+// Obrigado por fazer # 1 como um numeral de largura total e tudo mais como meia-largura, Illusion
+// Pelo menos você não confundiu os parênteses ao contrário dos itens do modelo geral/chara
+// A ilusão confundiu o primeiro kanji em alguns destes - deveria ser 楕, mas é 惰)
+// Os RegExes capturam ambas as variações
+
+r:"^丸吹き出し([０-９0-9]+)左$"=Oval $1 Esquerda
+r:"^丸吹き出し([０-９0-9]+)左\\(影あり\\)$"=Oval $1 Esquerda (Sombreado)
+r:"^丸吹き出し([０-９0-9]+)右$"=Oval $1 Direita
+r:"^丸吹き出し([０-９0-9]+)右\\(影あり\\)$"=Oval $1 Direita (Sombreado)
+r:"^角吹き出し([０-９0-9]+)左$"=Angular $1 Esquerda
+r:"^角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Angular $1 Esquerda (Sombreado)
+r:"^角吹き出し([０-９0-9]+)右$"=Angular $1 Direita
+r:"^角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Angular $1 Direita (Sombreado)
+r:"^四角吹き出し([０-９0-9]+)左$"=Retangular $1 Esquerda
+r:"^四角吹き出し([０-９0-9]+)左\\(影あり\\)$"=Retangular $1 Esquerda (Sombreado)
+r:"^四角吹き出し([０-９0-9]+)右$"=Retangular $1 Direita
+r:"^四角吹き出し([０-９0-9]+)右\\(影あり\\)$"=Retangular $1 Direita (Sombreado)
+r:"^正円吹き出し([０-９0-9]+)左$"=Circular $1 Esquerda
+r:"^正円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Circular $1 Esquerda (Sombreado)
+r:"^正円吹き出し([０-９0-9]+)右$"=Circular $1 Direita
+r:"^正円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Circular $1 Direita (Sombreado)
+r:"^雲吹き出し([０-９0-9]+)左$"=Névoa $1 Esquerda
+r:"^雲吹き出し([０-９0-9]+)左\\(影あり\\)$"=Névoa $1 Esquerda (Sombreado)
+r:"^雲吹き出し([０-９0-9]+)右$"=Névoa $1 Direita
+r:"^雲吹き出し([０-９0-9]+)右\\(影あり\\)$"=Névoa $1 Direita (Sombreado)
+r:"^雷吹き出し([０-９0-9]+)左$"=Relâmpago $1 Esquerda
+r:"^雷吹き出し([０-９0-9]+)左\\(影あり\\)$"=Relâmpago $1 Esquerda (Sombreado)
+r:"^雷吹き出し([０-９0-9]+)右$"=Relâmpago $1 Direita
+r:"^雷吹き出し([０-９0-9]+)右\\(影あり\\)$"=Relâmpago $1 Direita (Sombreado)
+r:"^回想吹き出し([０-９0-9]+)左$"=Pensando $1 Esquerda
+r:"^回想吹き出し([０-９0-9]+)左\\(影あり\\)$"=Pensando １ Esquerda (Sombreado)
+r:"^回想吹き出し([０-９0-9]+)右$"=Pensando $1 Direita
+r:"^回想吹き出し([０-９0-9]+)右\\(影あり\\)$"=Pensando １ Direita (Sombreado)
+r:"^[楕惰]円吹き出し([０-９0-9]+)左$"=Elipse $1 Esquerda
+r:"^[楕惰]円吹き出し([０-９0-9]+)左\\(影あり\\)$"=Elipse $1 Esquerda (Sombreado)
+r:"^[楕惰]円吹き出し([０-９0-9]+)右$"=Elipse $1 Direita
+r:"^[楕惰]円吹き出し([０-９0-9]+)右\\(影あり\\)$"=Elipse $1 Direita (Sombreado)
+r:"^棘吹き出し([０-９0-9]+)左$"=Chocado $1 Esquerda
+r:"^棘吹き出し([０-９0-9]+)左\\(影あり\\)$"=Chocado $1 Esquerda (Sombreado)
+r:"^棘吹き出し([０-９0-9]+)右$"=Chocado $1 Direita
+r:"^棘吹き出し([０-９0-9]+)右\\(影あり\\)$"=Chocado $1 Direita (Sombreado)
+r:"^先なし吹き出し\\(楕円([０-９0-9]+)\\)$"=Sem Ponta (Elipse $1)
+r:"^先なし吹き出し\\(四角([０-９0-9]+)\\)$"=Sem Pont (Retangular $1)
+r:"^吹き出し先([０-９0-9]+)$"=Ponta $1
+r:"^色影\\(四角([０-９0-9]+)\\)$"=Sombra Colorida (Square $1)
+
+// Adicionar -> Itens -> Efeitos 2D -> Efeitos de Cena
+r:"^レンズフレア([A-Z])$"=Lens Flare $1
+
+//
+// Adicionar -> Itens -> Gimmicks
+//
+
+// Adicionar -> Itens -> Gimmicks -> Com Objetos
+r:"^関節([０-９0-9]+)$"=$1° Junta
+r:"^投げ([０-９0-9]+)$"=Passo $1
+r:"^関節([０-９0-9]+)$"=$1° Junta
+r:"^関節([０-９0-9]+)_Bタイプ$"=$1° Junta tipo B
+
+// Adicionar -> Itens -> Gimmicks -> Sem Objetos
+r:"^回転([０-９0-9]+)（obj無し）$"=$1° Rotador (Sem Objeto)
+r:"^バウンド([０-９0-9]+)（obj無し）$"=Liga $1 (Sem objeto)
+r:"^投げ([０-９0-9]+)（obj無し）$"=Passo $1 (Sem objeto)
+r:"^回転([０-９0-9]+)_Bタイプ（obj無し）$"=$1° Rotador Tipo B (Sem Objeto)
+
+//
+// Adicionar -> Itens -> 3D SFX
+//
+
+// Adicionar -> Itens -> 3D SFX -> Vozes
+r:"^喘ぎ([０-９0-9]+)$"=Ofegante $1
+r:"^フェラ([０-９0-9]+)$"=Boquete $1
+
+
+// AIS
+// TODO: verify we don't need these and delete them
+ポジティブ(喘ぎ2)=Positivo (Ofegante 2)
+ポジティブ(喘ぎ1)=Positivo (Ofegante 1)
+ポジティブ(フェラ2)=Positivo (Boquete 2)
+ポジティブ(フェラ1)=Positivo (Boquete 1)
+ものぐさ(喘ぎ2)=Preguiça (Ofegante 2)
+ものぐさ(喘ぎ1)=Preguiça (Ofegante 1)
+ものぐさ(フェラ2)=Preguiça (Boquete 2)
+ものぐさ(フェラ1)=Preguiça (Boquete 1)
+わがまま(喘ぎ2)=Egoísta (Ofegante 2)
+わがまま(喘ぎ1)=Egoísta (Ofegante 1)
+わがまま(フェラ2)=Egoísta (Boquete 2)
+わがまま(フェラ1)=Egoísta (Boquete 1)
+自信家(喘ぎ2)=Confidente (Ofegante 2)
+自信家(喘ぎ1)=Confidente (Ofegante 1)
+自信家(フェラ2)=Confidente (Boquete 2)
+自信家(フェラ1)=Confidente (Boquete 1)
+おおらか(喘ぎ2)=Amigável (Ofegante 2)
+おおらか(喘ぎ1)=Amigável (Ofegante 1)
+おおらか(フェラ2)=Amigável (Boquete 2)
+おおらか(フェラ1)=Amigável (Boquete 1)
+無感情(喘ぎ2)=Sem Emoção (Ofegante 2)
+無感情(喘ぎ1)=Sem Emoção (Ofegante 1)
+無感情(フェラ2)=Sem Emoção (Boquete 2)
+無感情(フェラ1)=Sem Emoção (Boquete 1)
+
+//
+// Adicionar -> Itens -> Armas
+//
+
+// Adicionar -> Itens -> Efeitos -> Efeitos Fixos
+r:"^溶解粘液([０-９0-9]+)$"=Muco Dissolvido $1
+
+//
+// Adicionar -> Itens -> Brilho
+//
+
+// Adicionar -> Itens -> Brilho -> Iluminação
+r:"^電気照明([０-９0-9]+)$"=Luz elétrica $1
+r:"^電気照明\\(和\\)([０-９0-9]+)$"=Luz elétrica suave $1
+r:"^電気スタンド([０-９0-9]+)$"=Lâmpada de chão $1
+r:"^非常灯([０-９0-9]+)$"=Luz de emergência $1
+
+
+// Adicionar -> Itens -> Glow -> Mecha
+r:"^シンプルコア([０-９0-9]+)$"=Núcleo simples $1
+
+// Adicionar -> Itens -> FK Itens -> Geral
+r:"^FK先端([０-９0-9]+)$"=FK Topo $1
+r:"^土台([０-９0-9]+)$"=Base $1
+
+// Adicionar -> Itens -> Itens -> FK Itens -> H-Items
+r:"^FK触手([０-９0-9]+)$"=FK Tentáculo $1
+r:"^FKアナルビーズ([０-９0-9]+)$"=FK Contas anais $1
+
+//
+// Adicionar -> Luzes de Mapa
+//
+
+全体光=Mapa completo
+ポイントライト=Ponto luminoso
+スポットライト=Holofote
+スポットライト(マップ)=Holofote (Mapa)
+ポイントライト(マップ)=Point Light (Mapa)
+全体光(マップ)=Whole Light (Mapa)
+スポットライト(キャラ)=Holofote (Perso.)
+ポイントライト(キャラ)=Point Light (Perso.)
+全体光(キャラ)=Whole Light (Perso.)
+
+//
+// Menu Animação
+//
+
+状態=Estado atual
+キネマ=Cinemática
+アニメ=Animações
+ボイス=Voz
+衣装=Roupa
+関節補正=Ajuste de Juntas
+
+//
+// Menu Animação -> Estado atual
+//
+
+服装=Menu de Roupas
+タイプ=Tipo
+一括=Setar tudo
+アイテム設定=Opções dee Items
+服装詳細=Roupas
+ 服装 一括= Todas as Roupas
+
+// Menu Animação -> Estado Atual -> Opções da Roupa
+トップ=Superior
+ボトム=Inferior
+ブラ=Superior Interno
+ショーツ=Inferior Interno
+パンスト=Meia Calça
+手袋=Luvas
+靴下=Meias
+靴 =Sapatos
+
+// Menu Animação -> Estado atual -> Acessórios
+r:"^スロ([０-９0-9][０-９0-9]+)$"=Slot $1
+
+// Menu Animação -> Estado atual -> Fluidos
+汁=Fluidos
+顔=Face
+胸=Peito
+背中=Costas
+腹=Barriga
+お尻=Bunda
+
+// Menu Animação -> Estado Atual -> Diversos
+涙Lv=Nível de Lágrimas
+頬赤=Bochecha vermelha
+乳首=Rigidez dos mamilos
+男根=Pênis
+男根サイズ=Tamanho do pênis
+ 涙= Lágrimas
+ 濡れ= Molhado
+ 肌艶= Brilho da pele
+
+// Menu Animação -> Estado Atual -> Somente Homens
+単色化=Monocolor
+カラー=Colorido
+
+//
+// Menu Animação -> Cinemática
+//
+
+FK=FK
+IK=IK
+視線=Olhar
+首操作=Pescoço
+眉・目・口=Face
+手=Mãos
+ポーズ=Pose
+
+// Menu Animação -> Cinemática -> Cinemática Geral
+機能=Função
+表示=Mostrar
+サイズ=Tamanho
+
+// Menu Animação -> Cinemática -> Cinemática para Frente
+髪=Cabelo
+首=Pescoço
+胸=Peito
+体=Corpo
+右手=Mão Direita
+左手=Mão Esquerda
+スカート=Saia
+
+// Menu Animação -> Cinemática -> Cinemática Inversa
+一括=Setar Tudo
+体=Corpo
+右手=Mão direita
+左手=Mão Esquerda
+右足=Pé Direito
+左足=Pé Esquerdo
+
+// Menu Animação -> Cinemática -> Sobrancelhas / Olhos / Boca
+種類=Estampa
+開き=Abertura
+瞬き=Piscando
+口パク=Lip-Sync
+
+// Menu Animação -> Cinemática -> Sobrancelhas / Olhos / Boca -> Tipos de exibição
+コンフィグ依存=Da Configuração
+//General
+最前面=Mais à frente
+
+// Menu Animação -> Cinemática -> Pose
+NoName=Sem Nome
+
+//
+// Menu Animação -> Animação de personagens
+//
+
+キャラ=Personagem
+スタジオ=Studio
+H愛撫=Carícia
+女H奉仕=Serviço da Garota
+男H奉仕=Serviço do Garoto
+女H挿入=Penetração da Garota
+男H挿入=Penetração do Garoto
+H特殊=Especial
+// Pacote de Personagens Addon Pack Vol. 3 (add09)
+バトル=Batalha
+// Patch 0525
+レズ=Lésbica
+// Patch 0727
+アウトドア=Ao ar livre
+//Summer
+// Afterschool DLC
+H女複数=Ménage
+//Afterschool
+
+// Animation Controller
+
+速度=Velocidade
+パターン=Padr]ap
+r:"^補助([０-９0-9]+)$"=Extra $1
+付属アイテム表示=Mostrar itens anexados
+強制ループ=Força de loop
+アニメーション操作=Gestão da Animação
+
+//
+// Menu Animação -> Animação de personagens -> Voz
+//
+
+// RedirectedResources\assets\abdata\studio\info\*\voicegroup_*
+// RedirectedResources\assets\abdata\studio\info\*\voicecategory_*
+
+//
+// Menu Animação -> Animação de personagens -> Ajuste da articulação
+//
+
+右腕=Antebraço Direito
+左腕=Antebraço Esquerdo
+//Direita Foot
+//Esquerda Foot
+左前腕部=Grupo do Antebraço Esquerdo
+右前腕部=Grupo do Antebraço Direito
+右太もも=Coxa Esquerda
+左太もも=Coxa Direita
+
+//
+// Menu Animação -> Animação de item
+//
+
+ライトの影響度=Influência da luz
+r:"^カラー([０-９0-9]+)$"=Cor $1
+影=Sombreamento
+ラインの色=Cor da linha
+ラインの太さ=Espessura da linha
+
+//
+// Menu de sons
+//
+
+BGM=Música de Fundo
+外部読込=Carregar arquivo externo
+
+// Menu Som -> Música de Fundo
+
+// TODO: see if these are covered by 
+// RedirectedResources\assets\abdata\studio\info\*\bgm_*
+//独り言=Monologue
+//シャンの家=Shan's House
+//遠い昔の街=Distant City
+//今の世界=Present World
+//暗い森=Dark Forest
+//森と滝=Forest And Waterfall
+//星空と浜辺=Starry Sky And Beach
+//昼の砂浜=Sandy Beach At Noon
+//古の研究=Ancient Research
+//廃墟と少女=Ruins And Girl
+//メインタイトル=Title Screen
+
+//
+// Menu Sistema
+//
+
+コンフィグ=Config
+オプション=Opções
+ロゴ=Logo
+キャラライト=Iluminação de personagens
+//Scene Effects
+セーブ=Salvar
+ロード=Carragar
+初期化=Resetar
+終了=Sair
+
+// Menu Sistema -> Config
+背景色=Cor de fundo
+モブの色=Cur da Multidão
+モブ色=Mob Color // For the picker
+マップ遮蔽処理=Sombr. de Mapa
+// What the hell do these next two options do? They don't seem to change jack on characters.
+眉の最前面表示=Sobrancelhas pela Medate
+目の最前面表示=Olhos pela Metade
+オーディオ設定=Opções de Áudio
+マスター音量=Volume Mestre
+ＢＧＭ=BGM
+効果音=SFX
+システム音=Sistema
+環境音=Ambiente
+音声=Vozes
+
+// Menu Sistema -> Opções
+カメラ設定=Opções de Câmera
+r:"^カメラ速度([A-Z])軸$"=Vel. da Câmera $1
+カメラ移動速度=Vel. do Movim. da Câmera
+操作軸の設定=Opções do Eixo
+大きさ=Tamanho
+速度(移動量)=Vel. (Taxa de Movimento)
+スナップ移動幅=Grid Snap Amount
+オブジェクトの設定=Opções de Objeto
+追加位置=Local de Inicio
+原点=Origem
+注視点=Cruz
+表示タイプ=Tipo de Display
+全表示=Mostrar tudo
+選択表示=Selecionado
+追加時の自動表示=Mostrar automaticamente
+する=Sim
+しない=Não
+追加時の自動選択=Selecione automaticamente
+キャラFK設定=Config. do FK de Personagem
+カラー設定=Opções de Cor
+FKカラー 髪=Cor FK: Cabelo
+FKカラー 首=Cor FK: Cabeça
+FKカラー 胸=Cor FK: Peito
+FKカラー 体=Cor FK: Corpo
+FKカラー 右手=Cor FK: Mão Direita
+FKカラー 左手=Cor FK: Mão Esquerda
+FKカラー スカート=Cor FK: Saia
+ラインの描画=Desenhar Linhas
+アイテムFKのカラー設定=Config. do Item FK
+FKカラー アイテム=Cor FK: Itens
+// Patch 0727
+ルートシステム=sistema de rotas
+ラインの幅=Largura da linha
+ポイントの上限=Mostrar Ponto Final
+あり=Mostrar
+// Patch 0831?
+起動時シーンロード画面を開く=Abrir tela de Carregar Cena na Inicialização
+開く=Abrir
+開かない=Não Abrir
+
+// System Menu -> Logo
+
+デフォルト=Padrão
+illusion ロゴ 白=Illusion Logo (White)
+illusion ロゴ 黒=Illusion Logo (Black)
+illusion文字のみ 白=Word: Illusion (White)
+illusion文字のみ 黒=Word: Illusion (Black)
+キャラスタジオ 白=Character Studio (White)
+キャラスタジオ 黒=Character Studio (Black)
+キャラスタジオ ロゴ=Character Studio Logo
+キャラスタジオ文字のみ 白=Words: "Character Studio" (White)
+キャラスタジオ文字のみ 黒=Words: "Character Studio" (Black)
+スタジオNEO V2 黒=Studio NEO V2 (Black)
+スタジオNEO V2 白=Studio NEO V2 (White)
+スタジオNEO V2 ロゴ=Studio NEO V2 Logo
+スタジオNEO V2 文字のみ 白=Words: "Studio NEO V2" (White)
+スタジオNEO V2 文字のみ 黒=Words: "Studio NEO V2" (Black)
+
+背景 空=Fundo do Céu
+晴れた空=Céu Ensolarado
+夜空=Céu Norutno
+夕暮れの空=Céu Vespertino
+雨空=Céu Chuvoso
+曇り空=Céu Nublado
+
+衣装=Roupas
+トップス=Superior
+ボトムス=Inferior
+インナー上=Superior Interno
+インナー下=Inferior Interno
+手袋=Luvas
+パンスト=Meia Calça
+靴下=Meias
+靴=Sapatos
+
+
+// Menu Sistema -> Iluminação de personagens
+
+// TODO: see if these are covered by RedirectedResources\assets\abdata\studio\info\*\light_*
+//カラー=Color
+//セルフシャドウ=Self-Shadowing
+//強さ=Strength
+//ライト縦=Vertical Light
+//ライト横=Horizontal Light
+
+// System Menu -> Scene Effects
+//カラーの調整=Color Adjustment
+//色味=Shade
+//画面の色味調整=Scene Shade Adjustment
+//アンビエントオクルージョン=Ambient Occlusion
+//描画=Display
+//範囲=Intensity
+//被写界深度=Depth Of Field
+//焦点幅=Focus Distance
+//絞り=Aperture
+//ビネット=Vignette
+//フォグ=Fog
+//濃さ=Thickness
+//開始距離=Starting Distance
+//ブルーム=Bloom
+//しきい値=Threshold Level
+//光のぼかし=Light Gradation
+//サンシャフト=Sunshafts
+//しきい色=Threshold Color
+//光の色=Light Color
+//サンシャフト しきい色=Sunshafts: Threshold Color
+//サンシャフト 光の色=Sunshafts: Light Color
+//光源=Light Source
+//影の表現=Shadow Type
+//影の濃さ=Shadow Density
+//アウトラインの濃さ=Outline Density
+//アウトラインの幅=Outline Thickness
+//全体の陰影の色=Overall Shadow Color
+//// System Menu -> Scene Effects (New in AIS)
+//発光範囲\n=Emission range\n
+//発光上限=Emission upper limit
+//地平線=Horizon
+//拡散範囲=Diffusion range
+//影響度=Impact
+//画像サイズ=Image size
+//映り込み=Reflection
+//コントラスト=Contrast
+//環境光=Ambient light
+//光の範囲=Light range
+//色調整=Color adjustment
+//主被写体=Main subject
+//背景フォグ無効=Disable background fog
+//光の伸び=Light stretch
+//高さ濃度=Height concentration
+//スクリーンスペースリフレクション=Screen space reflection
+
+// System Menu -> Scene Effects -> Color Adjustment -> Shade Dropdown List
+//昼=Midday
+//夕=Evening
+//夜=Night
+////Live Concert Stage
+//ビビッド=Vivid
+//ノスタルジー=Nostalgia
+//レトロ=Retro
+//フラットカラー=Flat Color
+//フォースカラー=False Color
+//コミック=Comics
+//モノクロ=Monochrome
+//セピア=Sepia
+//リバースモノクロ=Reverse Monochrome
+//リバースカラー=Reverse Color
+//レッドアクセント=Red Accents
+//ブルーアクセント=Blue Accents
+//グリーンアクセント=Green Accents
+//スモッグ=Smog
+//ツートン=Two-Tone
+//アーティスティック=Artistic
+//ダークグレイッシュ=Dark Grayish
+//ライトシャドウ=Light Shadow
+//アンティーク=Antique
+//オールドポスター=Old Poster
+//ポスタライズ=Posterize
+//サーモグラフ=Thermograph
+//緑単色=Green Single Color
+//青単色=Blue Single Color
+//赤単色=Red Single Color
+//ブライト=Bright
+//ディープ=Deep
+//ストロング=Strong
+//ソフト=Soft
+//ペール=Pale
+//ダル=Sunset
+//寒色=Cold Color
+//暖色=Warm Color
+
+// Menu Sistema -> Efeitos de Cena -> Fonte de Luz
+マップ依存=Dependente do Mapa
+
+// Menu Sistema -> Efeitos de Cena -> Tipos de Sombra
+浅いなめらか影=Sombras suaves e leves
+浅いくっきり影=Sombras Leves e Afiadas
+深いなめらか影=Sombras profundas e suaves
+深いくっきり影=Sombras profundas e afiadas
+境界線のある影=Sombras da Linha Limite
+完全なめらか影=Sombras perfeitas e suaves
+影なし=Sem sombras
+
+// Menu Sistema -> Efeitos de Cena -> Reflexão
+//上からの光=Light From Above
+//暖かい光=Warm Light
+//不気味な光=Spooky Light
+//黄色い研究室=Yellow Laboratory
+//赤い研究室=Red Laboratory
+//青い研究室=Blue Laboratory
+//豪奢な空間=A Luxurious Space
+//日の差す部屋=Sunlit Room
+//部屋の中=In The Room
+//雪景色=Snow
+//海辺=Seaside
+//崖の上=On The Cliff
+//森の中=In The Forest
+
+//
+// Unsorted
+//
+
+//彩度=Saturation
+//明度=Brightness
+//高さ=Height
+//滑らかさ=Smoothness
+//質感=Texture
+//色=Color
+//画像=Image
+//数値入力=Numeric Input
+//回転=Rotation
+//発光色=Light Color
+//発光の強さ=Light Strength
+//画面効果=Screen Effect
+//その他=Miscellaneous
+//地面=Ground
+//空=Sky
+
+
+//
+// object variation regexes
+//
+sr:"^(.*)\(キャラ\)$"=$1 (Personagem)
+sr:"^(.*)\(マップ\)$"=$1 (Maps)
+sr:"^(.*)\(大\)$"=$1 (Grande)
+sr:"^(.*)\(中\)$"=$1 (Médio)
+sr:"^(.*)\(小\)$"=$1 (Pequeno)
+sr:"^(.*)\(透明\)$"=$1 (Transparente)
+sr:"^(.*)\(近\)$"=$1 (Perto)
+sr:"^(.*)\(遠\)$"=$1 (Longe)
+sr:"^(.*)\(obj無し\)$"=$1 (Sem Objeto)
+sr:"^(.*)\(アルファ\)$"=$1 (Alpha)
+sr:"^(.*)\(通常\)$"=$1 (Geral)

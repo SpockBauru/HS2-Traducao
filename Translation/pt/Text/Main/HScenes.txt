@@ -141,7 +141,7 @@
 夜=Noite
 ソフト=Suave
 ペール=Pálido
-ダル=Tédio
+ダル=Pôr do Sol
 寒色=Cor fria
 暖色=Cor quente
 夕=Tarde
