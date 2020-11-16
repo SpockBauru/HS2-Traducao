@@ -1,3 +1,8 @@
+//***********************************************************************
+// Tradução automática de legendas. Todas as entradas traduzidas/limpas manualmente devem ir para:
+// RedirectedResources\assets\abdata\list\h\sound
+//***********************************************************************
+
 "んる……むぇのおくが、あちゅくなって、まいりまひら……=Hmm... me desculpe, mas estou ficando doente, e estou indo...(A parte de trás do meu peito está ficando quente)
 (胸の奥が、熱くなってまいりました)"=Hmm... me desculpe, mas estou ficando doente, e estou indo...(A parte de trás do meu peito está ficando quente)
 "くひを、はなひれくらはいっ……でないと、わぁくしぅぃ……=Kuhi, Hanahirekura é... caso contrário, Wakushii...(Por favor, tire sua boca, ou eu...)
