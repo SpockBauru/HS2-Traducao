@@ -267,3 +267,17 @@ Apply=Aplicar
 
 #unset level 8
 
+//***********************************************************************
+//Cenas de Sexo
+//***********************************************************************
+#set level 7
+
+//------------------------------------------------------------
+//H chara switcher
+//------------------------------------------------------------
+Swap Girls=Trocar\nGarota
+Swap Boys=Trocar\nGaroto
+Refreshen=Refrescar
+Switch=Trocar
+
+#unset level 7

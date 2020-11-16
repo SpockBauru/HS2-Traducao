@@ -11,7 +11,7 @@
 //用件{0}=
 //せっかく出会えたことですし……さっそく愛を確かめ合いましょう。あなたさんと一つになりたいですよ。=
 //ここで会ったということは……つまりそういうことですよね？　……わたしのおまんこ、もう準備万端ですよ？　ふふっ=
-CHOICE:おしゃべりしたい=Quero Conversar
-CHOICE:Hしたい=Quero Transar
+CHOICE:おしゃべりしたい=Desejo Conversar
+CHOICE:Hしたい=Desejo Transar
 CHOICE:なんでもない=Nenhum
 CHOICE:元に戻って=Voltar ao normal

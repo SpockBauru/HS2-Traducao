@@ -16,7 +16,7 @@
 //隷属{0}=
 //あなたのお話なら、何だって聞きたいわ。=
 //あなたとお話しできるなら、何だっていいわよ。=
-CHOICE:親身になって話す=Conversar intimamente
-CHOICE:積極的に話す=Conversar positivamente
-CHOICE:受け身になって話す=Conversar passivamente
-CHOICE:エッチな話でも=Contar uma história erótica
+CHOICE:親身になって話す=Falar intimamente
+CHOICE:積極的に話す=Falar positivamente
+CHOICE:受け身になって話す=Falar passivamente
+CHOICE:エッチな話でも=Contar história erótica

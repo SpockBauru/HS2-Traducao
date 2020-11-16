@@ -16,7 +16,7 @@
 //隷属{0}=
 //はい。貴方にご満足頂ける様に、尽力致します。=
 //はい、盛り上げ役として頑張ります。=
-CHOICE:親身になって話す=Conversar intimamente
-CHOICE:積極的に話す=Conversar positivamente
-CHOICE:受け身になって話す=Conversar passivamente
-CHOICE:エッチな話でも=Contar uma história erótica
+CHOICE:親身になって話す=Falar intimamente
+CHOICE:積極的に話す=Falar positivamente
+CHOICE:受け身になって話す=Falar passivamente
+CHOICE:エッチな話でも=Contar história erótica

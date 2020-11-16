@@ -56,7 +56,7 @@
 ライト縦=Vertical
 ライト横=Horizontal
 //ライト強さ=Força
-補助ライト=Luz Auxiliar
+補助ライト=Auxiliar
 色を初期化=Resetar cor
 
 //------------------------------------------------------------
@@ -67,7 +67,7 @@
 画面効果=Tela
 //プリセット=Preset
 映り込み=Reflexão
-色調整=Ajuste de cor
+色調整=Ajustar cor
 フォグ=Névoa
 //SSAO
 ブルーム=Bloom
@@ -76,7 +76,7 @@
 ビネット=Vignette
 セルフシャドウ=Sombras
 //SSR
-環境光=Luz Ambiente
+環境光=Luz Amb.
 
 //Diálogos
 すべて初期化しますか？=Você quer inicializar tudo?
@@ -185,7 +185,7 @@
 //Tela - Bloom
 //------------------------------------------------------------
 しきい値=Limite
-発光範囲=Gama luminosa
+発光範囲=Gama
 発光上限=Limite
 拡散範囲=Propagação
 
