@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//背面手コキ=
-//寝パイズリ=
-//壁イラマ=
-//椅子イラマ=
+背面手コキ=Punheta com apoio
+寝パイズリ=Espanhola Dormindo
+壁イラマ=Boq Forçada na Parede
+椅子イラマ=Boq Forçada na Cadei

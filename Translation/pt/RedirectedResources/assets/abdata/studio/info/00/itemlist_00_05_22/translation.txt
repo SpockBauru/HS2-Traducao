@@ -1,12 +1,12 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//はねあほ毛=
-//あほ毛=
-//お団子髪=
-//三つ編み=
-//三つ編みカチューシャ=
-//エクステ=
-//カールエクステ=
-//おくれ毛=
-//細おくれ毛=
+はねあほ毛=Fio de Cabelo duplo
+あほ毛=Fio de Cabelo
+お団子髪=Coque
+三つ編み=Trança
+三つ編みカチューシャ=Tiara de Trança
+エクステ=Extensão
+カールエクステ=Extensão Ondulada
+おくれ毛=Mecha
+細おくれ毛=Mecha Fina

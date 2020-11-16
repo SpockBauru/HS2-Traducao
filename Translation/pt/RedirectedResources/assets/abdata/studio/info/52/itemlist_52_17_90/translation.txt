@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3.1
 //
-//フリルハット=
-//マジシャンズネクタイ=
-//マジシャンズマント=
-//マジシャンズマント（左）=
-//マジシャンズマント（右）=
+フリルハット=Tiara com Babados 
+マジシャンズネクタイ=Gravata de Mágico
+マジシャンズマント=Manto de Mágico
+マジシャンズマント（左）=Capa de Mágico Esquerda
+マジシャンズマント（右）=Capa de Mágico Direita

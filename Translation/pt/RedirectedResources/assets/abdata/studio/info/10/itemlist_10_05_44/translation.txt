@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//勾玉首飾り=
-//狐耳=
-//巫女袖左用=
-//巫女袖右用=
-//狐尻尾=
+勾玉首飾り=Colar Magatama
+狐耳=Orelhas de Raposa
+巫女袖左用=Manga de Sacerdotiza Esquerda 
+巫女袖右用=Manga de Sacerdotiza Direita
+狐尻尾=Rabo de Raposa

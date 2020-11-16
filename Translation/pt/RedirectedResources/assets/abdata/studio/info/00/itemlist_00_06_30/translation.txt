@@ -5,9 +5,9 @@
 //ディルド=
 //拘束台=
 //壁穴=
-//三角木馬=
+三角木馬=Cavalo de Madeira
 //拘束デンマ台=
 //拘束鞍馬=
-//ローター=
-//アナルバイブ=
-//バイブ=
+ローター=Vibrador Bullet
+アナルバイブ=Vibrador Anal
+バイブ=Vibrador

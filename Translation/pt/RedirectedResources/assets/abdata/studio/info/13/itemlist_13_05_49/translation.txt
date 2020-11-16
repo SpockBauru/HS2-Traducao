@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//悪魔の角=
-//サキュバスチョーカー=
-//サキュバスアームレット=
-//サキュバス尻尾=
-//サキュバスの翼右用=
-//サキュバスの翼左用=
+悪魔の角=Chifres de Demônio
+サキュバスチョーカー=Gargantilha de Súcubo
+サキュバスアームレット=Bracelete de Súcubo
+サキュバス尻尾=Rabo de Súcubo
+サキュバスの翼右用=Asa de Súcubo Direita
+サキュバスの翼左用=Asa de Súcubo Esquerda

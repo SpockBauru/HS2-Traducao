@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//玉飾り=
-//羽の髪飾り左用=
-//羽の髪飾り右用=
-//ロイヤルクラウン=
-//ロイヤルリボン=
-//鎧兜=
-//騎士の肩当て=
-//騎士の腰当=
-//鬼神の腰当右用=
-//鬼神の肩当て=
-//トゲ=
+玉飾り=Enfeite de Ano Novo
+羽の髪飾り左用=Asa na Esquerda da Cabeça
+羽の髪飾り右用=Asa na Direita da Cabeça
+ロイヤルクラウン=Coroa Real
+ロイヤルリボン=Fita Real
+鎧兜=Capacete de Cavaleiro
+騎士の肩当て=Ombreira de Cavaleiro
+騎士の腰当=Placa de Cintura de Cavaleiro
+鬼神の腰当右用=Guarda de Cintura do Rei Demônio
+鬼神の肩当て=Ombreira do Rei Demônio
+トゲ=Lança de Cavaleiro

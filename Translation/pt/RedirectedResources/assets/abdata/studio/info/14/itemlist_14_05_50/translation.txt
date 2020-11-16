@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//バレンタインチョコ=
-//プレゼント=
-//チョコドーナッツ=
+バレンタインチョコ=Chocolate de Dia dos Namorados
+プレゼント=Presente
+チョコドーナッツ=Rosquinha

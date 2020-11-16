@@ -1,20 +1,20 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//リュック=
-//革鞄=
-//ダンボール=
-//妖精の羽=
-//商人カバン=
-//ミニリュック=
-//ネコリュック=
-//鳥籠=
-//シャチフロート=
-//シンプルリング=
-//ジュエルリング=
-//洗濯バサミ=
-//クリップ=
-//ミニショルダー=
-//トートバッグ=
-//スクールバッグ=
-//オウムのおもちゃ=
+リュック=Mochila
+革鞄=Bolsa de Couro
+ダンボール=Caixa de Papelão
+妖精の羽=Asas de Fada
+商人カバン=Mochilão de Mercador
+ミニリュック=Mini Mochila
+ネコリュック=Mochila com Gato
+鳥籠=Gaiola de Pássaro
+シャチフロート=Boia de Orca
+シンプルリング=Anel Simples
+ジュエルリング=Anel com Jóia
+洗濯バサミ=Prendedor de Roupas
+クリップ=Grampo de Papel
+ミニショルダー=Bolsa
+トートバッグ=Sacola
+スクールバッグ=Bolsa de Escola
+オウムのおもちゃ=Papagaio de Brinquedo

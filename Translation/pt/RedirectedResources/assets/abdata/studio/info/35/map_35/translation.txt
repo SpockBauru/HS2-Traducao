@@ -3,7 +3,7 @@
 //
 //名称=
 //トイレ前=
-//オフィス=
-//公衆トイレ=
-//病室=
-//和室=
+オフィス=Escritório
+公衆トイレ=Banheiro Público
+病室=Quarto de Hospital
+和室=Quarto Japonês

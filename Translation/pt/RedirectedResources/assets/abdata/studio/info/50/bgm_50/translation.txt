@@ -13,4 +13,4 @@
 どこへ向かうのか=Onde ir
 非現実的世界=Mundo irreal
 ゴールイン……？=Objetivo em ...?
-//深夜の散歩=
+深夜の散歩=Caminhada da meia-noite

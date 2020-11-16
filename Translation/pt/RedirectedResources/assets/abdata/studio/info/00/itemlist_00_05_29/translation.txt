@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//暴走の右手=
-//抱きつきキュービー=
-//チアポンポン=
-//シンプル指輪=
-//スカルヘッド=
-//ツインリング=
-//宝石の指輪A=
-//宝石の指輪B=
+暴走の右手=Chamas na Mão Direita
+抱きつきキュービー=Cubby Abraçadinho
+チアポンポン=Pompom de Torcida
+シンプル指輪=Anel Simples
+スカルヘッド=Anel de Caveira
+ツインリング=Anel Torcido
+宝石の指輪A=Anel Brilhante A
+宝石の指輪B=Anel Brilhante B

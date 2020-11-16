@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//リベットレッグ=
-//騎士の肩鎧=
-//騎士の肩鎧(半壊)=
+リベットレッグ=Tornozeleira de Rebites
+騎士の肩鎧=Ombreira de Armadura de Cavaleiro
+騎士の肩鎧(半壊)=Ombreira de Armadura de Cavaleiro Danificada

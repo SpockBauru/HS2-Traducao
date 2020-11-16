@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.1 by Text Dump v1.4.3
 //
-//ドラゴニックホーン=
-//ドラゴニックテール=
-//ドラゴニックスリーブ（左）=
-//ドラゴニックスリーブ（右）=
+ドラゴニックホーン=Chifre Dragônico
+ドラゴニックテール=Rabo Dragônico
+ドラゴニックスリーブ（左）=Manga Dragônica Esquerda
+ドラゴニックスリーブ（右）=Manga Dragônica Direita

@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//メカバレル=
-//メカブロック=
-//メカタンク=
-//メカポンプ=
-//メカ３連ポール=
-//メカドラゴン=
-//メカウイングⅢ=
-//メカアンテナシングル=
+メカバレル=Barril de Robô
+メカブロック=Bloco de Robô
+メカタンク=Tanque de Robô
+メカポンプ=Bomba de Robô
+メカ３連ポール=Cano Triplo de Robô
+メカドラゴン=Dragão Robô
+メカウイングⅢ=Asa de Robô 3
+メカアンテナシングル=Antena de Robô
