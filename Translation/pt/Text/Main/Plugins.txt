@@ -223,6 +223,7 @@ Open Material Editor (Shoes)=Abrir Material Editor (Sapatos)
 //------------------------------------------------------------
 //Plugin Settings
 //------------------------------------------------------------
+Plugin settings=Opções dos plugins
 Save with translated names=Salvar com nomes ocidentais
 Split XYZ scale sliders=Separar sliders de escala em XYZ
 Advanced Bonemod Window=Janela Avançada do Bonemod
