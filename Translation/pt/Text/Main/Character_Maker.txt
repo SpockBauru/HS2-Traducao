@@ -49,7 +49,7 @@
 名前=Nome
 コーデ=Roupas
 瞳の設定=Config. da Iris
-キャラ設定=Config. de Personagem
+キャラ設定=Personagem
 ハート=Coração
 肌=Pele
 顔=Face

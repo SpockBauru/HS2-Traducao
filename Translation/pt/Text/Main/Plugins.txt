@@ -219,6 +219,12 @@ Open Material Editor (Pantyhose)=Abrir Material Editor (Meia Calça)
 Open Material Editor (Socks)=Abrir Material Editor (Meias)
 Open Material Editor (Shoes)=Abrir Material Editor (Sapatos)
 
+//------------------------------------------------------------
+//Config.
+//------------------------------------------------------------
+//Carregar
+Body Bonemod=Bonemod Corpo
+Face Bonemod=Bonemod Face
 
 //------------------------------------------------------------
 //Plugin Settings
