@@ -22,7 +22,7 @@
 // Menu de Título
 //------------------------------------------------------------
 タイトル画面での\nキャラ表示=Exibir Garota\nna Tela de Título
-タイトルで表示する女の子の読み込み=Personalizar Garoda do Título
+タイトルで表示する女の子の読み込み=Personalizar Garota do Título
 表示する女の子を選択する=Selecionar Garota
 
 //------------------------------------------------------------

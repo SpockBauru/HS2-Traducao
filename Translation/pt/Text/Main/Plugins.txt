@@ -226,6 +226,11 @@ Open Material Editor (Shoes)=Abrir Material Editor (Sapatos)
 Save with translated names=Salvar com nomes ocidentais
 Split XYZ scale sliders=Separar sliders de escala em XYZ
 Advanced Bonemod Window=Janela Avançada do Bonemod
+Show height measure bar=Mostrar quadrado de medida de altura
+Lock Cameralight=Fixar Luz da Câmera
+Toggle Backlight=Ligar Luz de Fundo
+Toggle Blinking=Ligar Piscada
+Toggle Blinking=Ligar Piscada
 
 //------------------------------------------------------------
 //Gravure Plugin
@@ -279,5 +284,13 @@ Swap Girls=Trocar\nGarota
 Swap Boys=Trocar\nGaroto
 Refreshen=Refrescar
 Switch=Trocar
+
+//------------------------------------------------------------
+//Light
+//------------------------------------------------------------
+Lock Camlight=Fixar Luz da Câmera
+Lower Shadow Resolution=Diminuir Resolução das Sombras
+Backlight=Luz de Fundo
+
 
 #unset level 7
