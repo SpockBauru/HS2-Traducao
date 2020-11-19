@@ -76,7 +76,11 @@ SSR（反射）=SSR (Reflexões)
 
 //Menu de Selecionar Música
 BGM選択=Selecionar Música
-登録=OK
+
+//isolar no nível da tela te opções para não causar conflito
+#set level 1
+■登録=OK
+#unset level 1
 
 //------------------------------------------------------------
 // Voz
@@ -108,12 +112,12 @@ BGM選択=Selecionar Música
 カメラ初期化判断=Resetar direção da câmera
 プレイヤーの表示=Mostrar Jogador
 プレイヤーの男根=Pênis do Jogador
-プレイヤーの服=Roupa do Jogador
+プレイヤーの服=Roupas Jogador
 プレイヤーのアクセサリー=Acessórios do Jogador
 プレイヤーの靴=Sapatos Jogador
 ２人目のプレイヤーの表示=Mostrar Jogador 2 
 ２人目のプレイヤーの男根=Pênis do Jogador 2
-２人目のプレイヤーの服=Roupas do Jogador 2
+２人目のプレイヤーの服=Roupas  Jogador 2
 ２人目のプレイヤーのアクセサリー=Acessórios do Jogador 2
 ２人目のプレイヤーの靴=Sapatos do Jogador 2
 
@@ -126,11 +130,11 @@ BGM選択=Selecionar Música
 単色カラー=Cor Base
 
 // Configurações diversas
-汁表示=Mostrar Sêmen
-尿描画方法=Mostrar Urina
-尿発生条件=Condição de Urina
+汁表示=Tipo de Sêmen
+尿描画方法=Tipo de Urina
+尿発生条件=Mostrar Urina
 潮吹き描画方法=Ejaculação Fem.
-潮吹き発生条件=Condição Ejac. Fem.
+潮吹き発生条件=Mostrar Ejac. Fem.
 １人目 視線=Olhar da 1ª pessoa
 １人目 首の向き=Direc. Cabeça 1ª pessoa
 ２人目 視線=Olhar da 2ª pessoa

@@ -54,9 +54,9 @@ r:"グループ *([0-9０-９]+)"=Grupo $1
 // Personagens -> Editar -> Grupos
 //------------------------------------------------------------
 キャラ選択=Escolher
-登録=Registar
+■登録=Registar
 容姿変更=Editar
-解除=Remover
+■解除=Remover
 
 ステータスをリセットする=Resetar Estado
 
@@ -187,6 +187,6 @@ Hを開始しますか？=Iniciar cena de sexo?
 //************************************************************
 あいうえおかきくけこさしすせそた=AIUEOKAKU
 グループ登録中=Registrando Grupo
-プレイヤー登録中=Registrando como Jogador
+プレイヤー登録中=Ver menu Jogador
 〇〇が達成されました=〇 foi conquistado
 特別待遇を申し込む=Serviço de Luxo
