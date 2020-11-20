@@ -1,6 +1,14 @@
-#set level 4,8
+// A Illusion deixou pouco espaço para esses botões, então o quadrado precisa ser removido
 
-// Texto menor para caber no botão
+//Meu Quarto
+#set level 4
+■登録=Registar
+■解除=Remover
+#unset level 4
 
-容姿変更=Editar
+//Opções
+#set level 1
+■登録=OK
+■戻る=Voltar
+#unset level 1
 

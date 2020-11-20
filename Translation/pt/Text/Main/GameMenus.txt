@@ -54,9 +54,9 @@ r:"グループ *([0-9０-９]+)"=Grupo $1
 // Personagens -> Editar -> Grupos
 //------------------------------------------------------------
 キャラ選択=Escolher
-■登録=Registar
+//登録=Registar
 容姿変更=Editar
-■解除=Remover
+//解除=Remover
 
 ステータスをリセットする=Resetar Estado
 

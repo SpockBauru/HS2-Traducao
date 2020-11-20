@@ -77,11 +77,6 @@ SSR（反射）=SSR (Reflexões)
 //Menu de Selecionar Música
 BGM選択=Selecionar Música
 
-//isolar no nível da tela te opções para não causar conflito
-#set level 1
-■登録=OK
-#unset level 1
-
 //------------------------------------------------------------
 // Voz
 //------------------------------------------------------------
