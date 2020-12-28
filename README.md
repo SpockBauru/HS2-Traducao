@@ -14,7 +14,7 @@ Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro.
 ## Instalação
 
 1. Certifique-se de ter os pré-requisitos instalados.
-2. Vá para a página de "releases" acima e baixe a versão mais recente. Como alternativa, os usuários avançados podem obter as traduções beta mais recentes clicando no botão "Clone or download" acima. Se você é tradutor, leia a seção de traduções ADV abaixo para ver como habilitar traduções ADV.
+2. Vá para a página de "releases" acima e baixe a versão mais recente. Como alternativa, os usuários avançados podem obter as traduções beta mais recentes clicando no botão "Clone or download" acima. Se você é tradutor, leia as seções abaixo para ver como contribuir com as traduções.
 3. Extraia o zip e coloque a pasta Translation na pasta BepInEx. Recomenda-se excluir sua pasta de tradução antiga para evitar conflitos de tradução.
 4. Instale o [AutoTranslatorConfig.ini] mais recente (config/AutoTranslatorConfig.ini) (ou compare-o com o arquivo existente e certifique-se de que as entradas nas seguintes seções conferem: `Files`,` TextFrameworks`, `Behaviour`, `Texture`,` ResourceRedirector`)
 
