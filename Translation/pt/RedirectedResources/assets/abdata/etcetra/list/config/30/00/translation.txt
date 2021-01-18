@@ -5,7 +5,7 @@
 普通=Normal
 苦労人=Trabalhadora
 女友達=Namorada
-ギャル=Na Moda
+ギャル=Patricinha
 気弱=Tímida
 母性的=Maternal
 ドS=Sádica
