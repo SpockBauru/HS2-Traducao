@@ -1,7 +1,0 @@
-//
-// Dumped for Honey Select 2 v1.2.3 by Text Dump Beta v1.4.3.2
-//
-Hを開始しますか？=Do you want to start H ?
-ロビーに移動しますか？=Shall I take you to the lobby?
-マイルームに戻ります\nよろしいですか？=Return to my room.\nIs it OK?
-キャラのメイク画面に移動します\nよろしいですか？=Go to the character makeup screen.\nIs it OK?

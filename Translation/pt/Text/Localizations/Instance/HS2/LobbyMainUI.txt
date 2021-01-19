@@ -1,5 +1,0 @@
-//
-// Dumped for Honey Select 2 v1.2.3 by Text Dump Beta v1.4.3.2
-//
-女の子を選択してください=Please select a female
-特別待遇室に移動します\nよろしいですか？=Go to the special room.\nIs it OK?
