@@ -51,11 +51,13 @@ r:"^大力-免费-发型([0-9]{2})"=[DALI] Penteado de compartilhamento gratuito
 シャギー=Desgrenhado
 オールバック=All Back
 バンダナ=Bandana
+カールおさげ=Rabo de Cavalo Enrolado
 
 //------------------------------------------------------------
 //Cabelos -> Opções de franja
 //------------------------------------------------------------
 kuangsan=Kurumi
+普通の前髪=Franja Normal
 
 //------------------------------------------------------------
 // Superior
@@ -96,6 +98,21 @@ HS旗袍(网)=HS Vestido Chinês (Arrastão)
 例の紐β="Aquela" Fita β
 例の紐α="Aquela" Fita α
 ljlsdq_kuangsan=Kurumi
+八十八学園ブラウス=Blusa da Escola 88
+カットソー=Moletom
+タートルネックセーター=Suéter de Gola Alta
+半袖ブラウス（タックアウト）=Blusa de Manga Curta (Pra Fora)
+半袖ブラウス=Blusa de Manga Curta
+ブラウス（タックアウト）=Blusa (Pra Fora)
+フーディ=Casaco com Capuz
+一番星ドレス（トップ）=Vestido de Top Model (topo)
+大力-分享恶魔Q3344929957=[DALI] Súcubo Q3344929957
+格闘用トップス=Top de Luta
+制服=Uniforme
+テストスーツ=Roupa de Teste
+上着=Vestido
+夕雲型エプロン=Avental Yugumo
+
 
 //Superior Masculino
 忍者装束上=Blusa Ninja
@@ -118,6 +135,20 @@ ljlsdq_kuangsan=Kurumi
 バレースパッツ=Short Suplex de Vôlei
 バレーブルマ=Short de Vôlei
 デニムスカート=Saia Jeans
+格闘用スカート=Saia de Luta
+女王のスカート=Saia da Rainha
+ショートデニム=Short Jeans
+フレアーパンツ=Calça Boca-de-Sino
+一番星ドレス（ボトム）=Vestido de Top Model (Inferior)
+ジャージ（たくし上げ）=Moletom (Pescador)
+ひざ丈フレアースカート=Saia Rodada no Joelho
+ひざ丈プリーツスカート=Saia com Pregas no Joelho
+ひざ丈タイトスカート=Saia Justa no Joelho
+巻きスカート=Saia Pareô
+八十八学園スカート=Saia da Escola 88
+クラッシュデニム閉じ=Jeans Rasgado Fechado
+クラッシュデニム開き=Jeans Rasgado Aberto
+
 
 //Inferior Masculino
 忍者装束（下）=Calças de Ninja
@@ -172,6 +203,11 @@ ljlsdq_kuangsan=Kurumi
 指テーピング=Adesivo de Dedos
 乳神グローブ=Luvas da Deusa Peituda
 
+パイロットグローブ=Luva de Piloto
+一番星グローブ=Luvas de Top Model
+八十八学園ベスト=Colete da Escola 88
+
+
 //Luvas Masculinas
 [SENA]手甲=[SENA] Faixas de Braço
 [SENA]手甲・脛当=[SENA] Faixas de Canela e Braço
@@ -209,6 +245,17 @@ T裆黑丝=Meia Calça Preta T
 [SENA]サポーターM1上=[SENA] Cotoveleira M1
 [SENA]サポーターM1下=[SENA] Joelheira M1
 
+腰ベルト=Cinto
+亀甲縛り（体操服半脱時用）=Arnês de Corda (Para Roupas de Ginástica Levantada)
+亀甲縛り（体操服着衣時用）=Arnês de Corda (Para Roupas de Ginástica)
+女王のショール=Xale da Rainha
+一番星パンツ=Calças de Top Model
+ブレザー前開き=Blazer Aberto
+カーディガン=Casaco
+ジャージ（前開き）=Moletom (aberto)
+クリスマスポンチョ（フード）=Poncho de Natal (Capuz)
+ポンチョコート=Poncho Casaco
+
 //------------------------------------------------------------
 //Meias
 //------------------------------------------------------------
@@ -219,9 +266,10 @@ T裆黑丝=Meia Calça Preta T
 ｢SENA｣ソックス+レッグスリーブ=[SENA] Meias + Manga de Perna
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Meias + Manga da Perna Direita
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Meias + Manga da Perna Esquerda
+一番星タイツ=Meias 3/4 de Top Model
 
 //------------------------------------------------------------
-//Shoes
+//Sapatos
 //------------------------------------------------------------
 超高跟鞋=Salto Super Alto
 高跟鞋=Salto Alto
@@ -244,6 +292,9 @@ T裆黑丝=Meia Calça Preta T
 サンダル=Sandálias
 バレーボールシューズ=Sapatos de Vôlei
 kunoichi_shoes=Sapatos de Garota Ninja
+テストブーツ=Botas de Teste
+格闘用ブーツ=Botas de Luta
+大力-分享恶魔q3344929957=[DALI] Súcubo q3344929957
 
 //Male Shoes
 忍者草鞋=Sandálias Ninja
@@ -271,6 +322,14 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 つけ毛=Estensão de Cabelo
 民国帽子=Chapéu da República da China
 乳神アクセ=Acessório da Deusa Peituda
+妹のリボン=Laço de Freira
+一番星クラウン=Coroa de Top Model
+大力-分享恶魔右q3344929957=[DALI] Súcubo Direito q3344929957
+大力-分享恶魔左q3344929957=[DALI] Súcubo Esquerdo q3344929957
+レディヘッド=Cabeça Feminina
+テストヘルメット=Capacete de teste
+サークレット=Diadema
+セイバー=Sabre
 
 //------------------------------------------------------------
 //Acessórios -> Orelhas
@@ -294,6 +353,71 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 ガンツ顎=Queixo de Gantz
 ドクロ仮面=Máscara de Caveira
 
+//Formas
+基本図形：星=Forma: Estrela
+基本図形：爪=Forma: Garra
+基本図形：筒=Forma: Cilindro
+基本図形：パイプ=Forma: Trave
+基本図形：台形=Forma: Trapézio
+基本図形：矢印=Forma: Seta
+基本図形：穴あきキューブ=Forma: Cubo Perfurado
+基本図形：直角=Forma: Ângulo Reto
+基本図形：三日月=Forma: Lua Crescente
+基本図形：十字=Forma: Cruz
+基本図形：Ｖ字=Forma: V
+基本図形：穴あき楕円=Forma: Elipse Perfurada
+基本図形：先尖り棒=Forma: Barra Pontiaguda
+基本図形：三角=Forma: Triângulo
+基本図形：穴あき三角(通常)=Forma: Triângulo Perfurado (Normal)
+基本図形：弧=Forma: Arco
+基本図形：四分円=Forma: Um Quarto De Círculo
+基本図形：半円=Forma: Semicírculo
+基本図形：五角形=Forma: Pentágono
+基本図形：六角形=Forma: Hexágono
+基本図形：穴あき六角形=Forma: Hexágono Perfurado
+基本図形：八角形=Forma: Octógono
+基本図形：頭=Forma: Cabeça
+基本図形：平面（通常）=Forma: Plano (Normal)
+基本図形：輪(通常)=Forma: Anel (Normal)
+基本図形：正台形(通常)=Forma: Trapézio Regular (Normal)
+基本図形：山型多角形1(通常)=Forma: Polígono Montanha 1 (Normal)
+基本図形：山型多角形2(通常)=Forma: Polígono Montanha 2 (Normal)
+基本図形：長六角形(通常)=Forma: Hexágono Longo (Normal)
+基本図形：長五角形（通常）=Forma: Pentágono Longo (Normal)
+基本図形：歪み三角柱(通常)=Forma: Prisma Distorcido Triangular (Normal)
+基本図形：マウス型右(通常)=Forma: Botão De Mouse Direito (Normal)
+基本図形：マウス型左(通常)=Forma: Botão De Mouse Esquerdo (Normal)
+基本図形：三角横台形(通常)=Forma: Trapézio Horizontal Triangular (Normal)
+基本図形：五角横台形(通常)=Forma: Trapézio Horizontal Pentagonal (Normal)
+基本図形：円形横台形(通常)=Forma: Trapézio Horizontal Circular (Normal)
+基本図形：ドロップ立体(通常)=Forma: Gota Sólida (Normal)
+基本図形：ドロップ平面(通常)=Forma: Gota Plana (Normal)
+基本図形：ひょうたん立体(通常)=Forma: Cabaça Sólida (Normal)
+基本図形：ひょうたん平面(通常)=Forma: Cabaça Plana (Normal)
+基本図形：角リング(通常)=Forma: Anel Cônico (Normal)
+基本図形：立体半円(通常)=Forma: Semicírculo Sólido (Normal)
+基本図形：立体四半円(通常)=Forma: Quarto De Esfera Sólido (Normal)
+基本図形：角型(通常)=Forma: Cone Angular (Normal)
+基本図形：直角形(通常)=Forma: Ângulo Reto (Normal)
+基本図形：斜ひし形(通常)=Forma: Losango Diagonal (Normal)
+基本図形：歪み台形(通常)=Forma: Trapézio Distorcido (Normal)
+基本図形：欠け四角(通常)=Forma: Cilindro Ausente (Normal)
+基本図形：二対多角形(通常)=Forma: Polígono De Dois Pares (Normal)
+基本図形：ヒレ型(通常)=Forma: Barbatana (Normal)
+基本図形：歪み多角形(通常)=Forma: Polígono Distorcido (Normal)
+基本図形：角なし斜ひし形(通常)=Forma: Losango Diagonal Sem Arestas (Normal)
+基本図形：角なし歪み台形(通常)=Forma: Trapézio Distorcido Sem Arestas (Normal)
+基本図形：角なし四角錐(通常)=Forma: Pirâmide Quadrada Sem Arestas (Normal)
+基本図形：角なし三角(通常)=Forma: Triângulo Sem Arestas (Normal)
+基本図形：角なし四角(通常)=Forma: Quadrado Sem Arestas (Normal)
+基本図形：筒四分(通常)=Forma: Quarto De Cilindro (Normal)
+基本図形：半ピラミッド(通常)=Forma: Semi-Pirâmide (Normal)
+基本図形：角なし半四角錐(通常)=Forma: Pirâmide Quadrada Sem Arestas (Normal)
+基本図形：半コーン(通常)=Forma: Meio Cone (Normal)
+基本図形：階段型(通常)=Forma: Degrau (Normal)
+基本図形：半カプセル(通常)=Forma: Meia Cápsula (Normal)
+
+
 //------------------------------------------------------------
 //Acessórios -> Pescoço
 //------------------------------------------------------------
@@ -310,6 +434,9 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 ストップウォッチ=Cronômetro
 メダル=Medalha
 乳神チョーカー=Gargantilha da Deusa Peituda
+八十八学園リボン=Laço da Escola 88
+一番星リボン=Laço de Top Model
+一番星ブローチ=Broche de Top Model
 
 //------------------------------------------------------------
 //Acessórios -> Cintura
@@ -327,6 +454,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 手錠ケース=Porta Algemas
 警棒ホルダー=Porta Cacetete
 受令機=Rádio de Polícia
+レイピア（鞘）=Sabre (Bainha)
+レイピア（納刀）=Sabre (Espada)
 
 //------------------------------------------------------------
 //Acessórios -> Costas
@@ -334,6 +463,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 カタナ（全）=Katana (Tudo)
 カタナ（鞘）=Katana (Bainha)
 武蔵肩掛け上着=Jaqueta pelo Ombro da Musashi
+テストバックパック=Mochila de Teste
 
 //------------------------------------------------------------
 //Acessórios -> Braços
@@ -361,6 +491,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 釘バット=Taco de Pregos
 金属バット=Taco de Metal
 出刃ブレード=Faca
+格闘用ブレスレット=Pulseira de Luta
+サイコガン=Arma Psiônica
 
 //Haiyore! Nyaruko-san
 バールのような物=Algum tipo de Barra Indescritível
@@ -376,7 +508,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 //------------------------------------------------------------
 //Acessórios -> Pernas
 //------------------------------------------------------------
-アスカ武器ブレード=Lámina de Perna da Asuka
+アスカ武器ブレード=Lâmina de Perna da Asuka
 
 //------------------------------------------------------------
 //Acessórios -> Virilha
@@ -386,7 +518,11 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 //------------------------------------------------------------
 //Estampas
 //------------------------------------------------------------
+r:"^pattern([0-9]{2})$"=Estampa $1
 例の壁=Parede Exemplo
+単線(縦)=Linha Simples (vertical)
+単線(横)=Linha Simples (horiz.)
+単線2(横)=Linha Simples 2 (horiz.)
 
 //***********************************************************************
 // Sideloader Modpack - Cardas de Personagem e Roupas

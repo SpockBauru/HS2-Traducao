@@ -7,6 +7,6 @@
 ガーターリング左=Liga de Perna Esquerda
 ガーターリング右=Lida de Perna Direita
 ミサンガA左=Miçanga no Tornozelo Esquerdo A
-ミサンガA右==Miçanga no Tornozelo Direito A
-ミサンガB左=Miçanga no Tornozelo Esquerdo A
-ミサンガB右=Miçanga no Tornozelo Direito A
+ミサンガA右=Miçanga no Tornozelo Direito A
+ミサンガB左=Miçanga no Tornozelo Esquerdo B
+ミサンガB右=Miçanga no Tornozelo Direito B

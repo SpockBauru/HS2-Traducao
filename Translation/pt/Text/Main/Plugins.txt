@@ -182,6 +182,42 @@ Body overlay texture (On top of almost everything)=Textura sobre o corpo (Por ci
 Face underlay texture (Under tattoos, blushes, etc.)= Textura sob a face (Por baixo de tatuagens, maquiagem, etc.)
 Body underlay texture (Under tattoos, blushes, etc.)=Textura sob o corpo (Por baixo de tatuagens, maquiagem, etc.)
 
+//Pregnancy+ Plugin
+Pregnancy+=Gravidez+
+
+Enable Pregnancy+=Habilitar Gravidez+
+If disabled, you won't see any pregnant effects.=Se desativado, você não verá nenhum efeito de gravidez.
+
+Inflation Size=Tamanho da Barriga
+The equivalent to number of weeks pregnant for Pregnancy+.=O Equivalente ao número de semanas de Gravidez.
+
+Inflation Multiplier=Multiplicador de Tamanho
+Multiplies the base inflation size by this value.=Multiplica o tamanho por esse valor.
+
+Move Y=Mover em Y
+Moves the belly sphere up and down.=Move a barriga pra cima e pra baixo.
+Move Z=Mover em Z
+Moves the belly sphere forward and back.=Move a barriga pra trás e pra frente.
+
+Stretch X=Esticar em X
+Stretch the belly wider in the X direction.=Estica a barriga pros lados no eixo X
+Stretch Y=Esticar em Y
+Stretch the belly taller in the Y direction.=Estica a barriga pra cima no eixo Y
+
+Shift Y=Deslocar em Y
+Shift the front of the belly up and down.=Desloca a frente da barriga pra cima e pra baixo.
+Shift Z=Deslocar em Z
+Shift the front of the belly forward and back.=Desloca a frente da barriga pra traz e pra frente.
+
+Taper Y=Afunilar em Y
+Taper the sides of the belly in at the top and out at the bottom.  Makes an egg like shape.=Afunila os lados da barriga pra dentro em cima e pra fora em baixo. Faz uma forma oval.
+Taper Z=Afunilar em Z
+Taper the front of the belly in at the top and out at the bottom.  Gives the belly an angle at the front.=Afunila a frente da barriga pra dentro em cima e pra fora em baixo.  Faz um ângulo na frente da barriga.
+
+Cloth Offset=Correção de roupas
+Control the distance between each clothing layer.  Will help reduce clipping.=Controla a distância entre cada camada de roupas. Ajuda a reduzir defeitos.
+
+
 //------------------------------------------------------------
 //Cabelos
 //------------------------------------------------------------
@@ -276,6 +312,9 @@ Slavery:=Submissão:
 Broken:=Quebra:
 Dependence:=Dependência:
 Apply=Aplicar
+
+//Mapas
+Random=Aleatório
 
 #unset level 8
 
