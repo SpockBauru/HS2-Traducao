@@ -112,6 +112,8 @@ ljlsdq_kuangsan=Kurumi
 テストスーツ=Roupa de Teste
 上着=Vestido
 夕雲型エプロン=Avental Yugumo
+大正義ジャケット=Mini Jaqueta Líder de Torcida Yomiuri Giants
+大統領の服=Blusa de presidente
 
 
 //Superior Masculino
@@ -148,7 +150,8 @@ ljlsdq_kuangsan=Kurumi
 八十八学園スカート=Saia da Escola 88
 クラッシュデニム閉じ=Jeans Rasgado Fechado
 クラッシュデニム開き=Jeans Rasgado Aberto
-
+大統領のスカート=Saia de presidente
+大正義スカート=Saia Líder de Torcida Yomiuri Giants
 
 //Inferior Masculino
 忍者装束（下）=Calças de Ninja
@@ -169,6 +172,7 @@ ljlsdq_kuangsan=Kurumi
 スリングショット改=Micro Maiô Cavado com Fios Desanexados
 乳神ワンピ=Vestido da Deusa Peituda
 乳神ワンピ（透け）=Vestido da Deusa Peituda (Opaco)
+大正義チューブトップ=Top Líder de Torcida Yomiuri Giants
 
 //------------------------------------------------------------
 // Inferior Interno
@@ -180,6 +184,8 @@ ljlsdq_kuangsan=Kurumi
 もっこり褌=Tanga com Ereção
 褌=Tanga
 陸上ブルマ=Short Esportivo
+大正義スパッツ=Short Suplex Líder de Torcida Yomiuri Giants
+ハーフコート=Casaco Aberto
 
 //------------------------------------------------------------
 //Luvas
@@ -267,6 +273,7 @@ T裆黑丝=Meia Calça Preta T
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Meias + Manga da Perna Direita
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Meias + Manga da Perna Esquerda
 一番星タイツ=Meias 3/4 de Top Model
+大正義ソックス=Meias Líder de Torcida Yomiuri Giants
 
 //------------------------------------------------------------
 //Sapatos
@@ -295,6 +302,7 @@ kunoichi_shoes=Sapatos de Garota Ninja
 テストブーツ=Botas de Teste
 格闘用ブーツ=Botas de Luta
 大力-分享恶魔q3344929957=[DALI] Súcubo q3344929957
+大正義シューズ=Sapatos Líder de Torcida Yomiuri Giants
 
 //Male Shoes
 忍者草鞋=Sandálias Ninja
@@ -330,6 +338,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 テストヘルメット=Capacete de teste
 サークレット=Diadema
 セイバー=Sabre
+大正義ヘアピン=Presilha Líder de Torcida Yomiuri Giants
 
 //------------------------------------------------------------
 //Acessórios -> Orelhas
@@ -437,6 +446,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 八十八学園リボン=Laço da Escola 88
 一番星リボン=Laço de Top Model
 一番星ブローチ=Broche de Top Model
+大正義ネックレス=Colar Líder de Torcida Yomiuri Giants
 
 //------------------------------------------------------------
 //Acessórios -> Cintura
@@ -474,6 +484,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 [SENA]アスカ武器パック(収納)=[SENA] Pacote de Armas da Asuka (Guardado)
 [SENA]アスカ武器パック（ブレード）=[SENA] Pacote de Armas da Asuka (Lâminas)
 肘アーマー=Armadura de Cotovelo
+大正義リストバンド=Pulseira Líder de Torcida Yomiuri Giants
 
 //------------------------------------------------------------
 //Acessórios -> Mãos
