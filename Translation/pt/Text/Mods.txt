@@ -42,6 +42,7 @@
 //Cabelos -> Opções de Cabelo Traseiro
 //------------------------------------------------------------
 r:"^大力-免费-发型([0-9]{2})"=[DALI] Penteado de compartilhamento gratuito $1
+r:"^大力-赞助发型([0-9]{2})"=[DALI] Penteado Patrocinado $1
 オカッパ=Bob reto
 サイドテール(左)[notail]=Rabo Lateral (Esquerda) [notail]
 サイドテール(右)[notail]=Rabo Lateral (Direita) [notail]
@@ -52,6 +53,10 @@ r:"^大力-免费-发型([0-9]{2})"=[DALI] Penteado de compartilhamento gratuito
 オールバック=All Back
 バンダナ=Bandana
 カールおさげ=Rabo de Cavalo Enrolado
+大力-TD沧海烟霞-发型=[DALI] TD Névoa do Mar - Cabelo
+大力-TD天华-发型=[DALI] TD Céu - Cabelo
+大力-眀妆-作者q3344929957=[DALI] Dinastia Ming - Autor q3344929957
+大力-发型分享B1Q3344929957=[DALI] Penteado de compartilhamento B1 Q3344929957
 
 //------------------------------------------------------------
 //Cabelos -> Opções de franja
@@ -63,11 +68,12 @@ kuangsan=Kurumi
 // Superior
 //------------------------------------------------------------
 r:"^kunoichi.(.*)$"=Garota Ninja $1
+r:"^PC旗袍 变色([0-9])"=PC Vestido Chinês Cor $1
 [XT]LTl蕾丝=[MOD] Renda
 HS旗袍(网)=HS Vestido Chinês (Arrastão)
 旗袍=Vestido Chinês
 シャツ=Camisa
-ノースリーブセーラー=Marinheiro sem mangas
+ノースリーブセーラー=Uniforme de Marinheiro sem mangas
 道着=Kimono
 夜莺-上衣=Casaco Nightingale
 性感吊带裙=Vestido Sexy Suspenso
@@ -98,6 +104,8 @@ HS旗袍(网)=HS Vestido Chinês (Arrastão)
 例の紐β="Aquela" Fita β
 例の紐α="Aquela" Fita α
 ljlsdq_kuangsan=Kurumi
+制服=Uniforme			  
+上着=Vestido				   
 八十八学園ブラウス=Blusa da Escola 88
 カットソー=Moletom
 タートルネックセーター=Suéter de Gola Alta
@@ -108,13 +116,29 @@ ljlsdq_kuangsan=Kurumi
 一番星ドレス（トップ）=Vestido de Top Model (topo)
 大力-分享恶魔Q3344929957=[DALI] Súcubo Q3344929957
 格闘用トップス=Top de Luta
-制服=Uniforme
 テストスーツ=Roupa de Teste
-上着=Vestido
 夕雲型エプロン=Avental Yugumo
 大正義ジャケット=Mini Jaqueta Líder de Torcida Yomiuri Giants
 大統領の服=Blusa de presidente
-
+HS 偶像 上衣=HS Top de Idol
+HS旗袍(透)=HS Vestido Chinês (Transparente)
+HS2衬衫毛衣 改=HS2 Colete de Malha Modificado
+HS2西装外套 改=HS2 Blazer Modificado
+HS2水手服 改=HS2 Uniforme de Marinheiro Modificado
+短袖衬衫=Camisa de Manga Curta
+PC旗袍 原色=PC Vestido Chinês Cor Original
+PH 空姐制服 上衣=PH Top do Uniforme de Comissária de Bordo
+性感晚礼服=Vestido de Noite Sexy
+大力_TD沧海上衣=[DALI] TD Top do Mar
+大力_TD天华上衣=[DALI] TD Top do Céu
+大力_TD天华上衣-改旗袍=[DALI] TD Top do Mar - Vestido Modificado
+大力_明妆-作者q3344929957=[DALI] Dinastia Ming - Autor q3344929957
+大力_明妆-裸肩-作者q3344929957=[DALI] Dinastia Ming - Sem Ombro - Autor q3344929957
+大力-龙盔甲-作者q3344929957=[DALI] Armadura de Dragão - Autor q3344929957
+前空きスーツ=Terno com Decote
+ランナートップス半脱ぎ改=Top de Corrida - Pela Metade Modificado
+セーラー服(長袖)=Uniforme de Marinheiro (Mangas Longas)
+セーラー服(半袖)=Uniforme de Marinheiro (Mangas Curtas)
 
 //Superior Masculino
 忍者装束上=Blusa Ninja
@@ -124,7 +148,7 @@ ljlsdq_kuangsan=Kurumi
 //------------------------------------------------------------
 // Inferior
 //------------------------------------------------------------
-痴女プリーツ=Saia Rodada de Puta
+痴女プリーツ=Saia com Pregas de Puta
 大力-免费分享-DOA-A=[DALI] Compartilhamento Livre - DOA-A
 夜莺-裤=Calças Nightingale
 九分裤=Calça Skinny
@@ -137,7 +161,6 @@ ljlsdq_kuangsan=Kurumi
 バレースパッツ=Short Suplex de Vôlei
 バレーブルマ=Short de Vôlei
 デニムスカート=Saia Jeans
-格闘用スカート=Saia de Luta
 女王のスカート=Saia da Rainha
 ショートデニム=Short Jeans
 フレアーパンツ=Calça Boca-de-Sino
@@ -150,8 +173,34 @@ ljlsdq_kuangsan=Kurumi
 八十八学園スカート=Saia da Escola 88
 クラッシュデニム閉じ=Jeans Rasgado Fechado
 クラッシュデニム開き=Jeans Rasgado Aberto
-大統領のスカート=Saia de presidente
+格闘用スカート=Saia de Luta
 大正義スカート=Saia Líder de Torcida Yomiuri Giants
+大統領のスカート=Saia de presidente
+HS 偶像 裙子=HS Saia de Idol
+HS百褶裙 短=HS Saia com Pregas Curta
+HS百褶裙 略短=HS Saia com Pregas Curta-Média
+HS百褶裙 中=HS Saia com Pregas Média
+HS百褶裙 略长=HS Saia com Pregas Média-Longa
+HS百褶裙 长=HS Saia com Pregas Longa
+HS百褶裙2 短=HS Saia com Pregas Curta 2
+HS百褶裙2 略短=HS Saia com Pregas Curta-Média 2
+HS百褶裙2 中=HS Saia com Pregas Média 2
+HS百褶裙2 略长=HS Saia com Pregas Média-Longa 2
+HS百褶裙2 长=HS Saia com Pregas Longa 2
+PH 空姐制服 裙子=PH Saia do Uniforme de Comissária de Bordo
+百褶裙 短=Saia com Pregas Curta
+百褶裙 略短=Saia com Pregas Curta-Média
+百褶裙 中=Saia com Pregas Média
+百褶裙 略长=Saia com Pregas Média-Longa
+百褶裙 长=Saia com Pregas Longa
+大力_TD沧海_裙子_原色=[DALI] TD Saia do Mar - Cor Original
+大力_TD沧海_裙子_半透明=[DALI] TD Saia do Mar - Transparente
+大力-明妆-金属-作者q3344929957=[DALI] Dinastia Ming - Metal - Autor q3344929957
+大力-明妆-金属-裸肩-作者q3344929957=[DALI] Dinastia Ming - Metal - Sem Ombros - Autor q3344929957
+大力-龙盔甲裙-作者q3344929957=[DALI] Saia da Armadura de Dragão - Autor q3344929957
+連邦ベルト=Cinto da Federação
+連合ベルト=Cinto da Aliança
+ランナーパンツ半脱ぎ改=Short de Corrida - Pela Metade Diferente
 
 //Inferior Masculino
 忍者装束（下）=Calças de Ninja
@@ -173,6 +222,11 @@ ljlsdq_kuangsan=Kurumi
 乳神ワンピ=Vestido da Deusa Peituda
 乳神ワンピ（透け）=Vestido da Deusa Peituda (Opaco)
 大正義チューブトップ=Top Líder de Torcida Yomiuri Giants
+連合水着襟開き=Maiô da Aliança com Decote
+連合水着=Maiô da Aliança
+連邦水着襟開き=Maiô da Federação com Decote
+連邦水着=Maiô da Federação
+毛衣=Colete
 
 //------------------------------------------------------------
 // Inferior Interno
@@ -184,8 +238,7 @@ ljlsdq_kuangsan=Kurumi
 もっこり褌=Tanga com Ereção
 褌=Tanga
 陸上ブルマ=Short Esportivo
-大正義スパッツ=Short Suplex Líder de Torcida Yomiuri Giants
-ハーフコート=Casaco Aberto
+大力-龙盔甲裤=[DALI] Shorts da Armadura de Dragão
 
 //------------------------------------------------------------
 //Luvas
@@ -209,10 +262,18 @@ ljlsdq_kuangsan=Kurumi
 指テーピング=Adesivo de Dedos
 乳神グローブ=Luvas da Deusa Peituda
 
-パイロットグローブ=Luva de Piloto
-一番星グローブ=Luvas de Top Model
 八十八学園ベスト=Colete da Escola 88
-
+一番星グローブ=Luvas de Top Model
+パイロットグローブ=Luva de Piloto
+連合グローブ=Luvas da Aliança
+連邦グローブ=Luvas da Federação
+大力-龙盔甲护手-作者q3344929957=[DALI] Manoplas da Armadura de Dragão - Autor q3344929957
+大力-明妆特效手-作者q3344929957=[DALI] Bracelete da Dinastia Ming com Efeitos Especiais - Autor q3344929957
+大力-明妆手-作者q3344929957=[DALI] Bracelete da Dinastia Ming-Autor q3344929957
+大力_TD天华_袖子B=[DALI] TD Mangas do Céu B
+大力_TD天华_袖子A=[DALI] TD Mangas do Céu A
+大力_TD沧海_袖子_半透明=[DALI] TD Mangas do Mar Transparente
+大力_TD沧海_袖子_原色=[DALI] TD Mangas do Mar Cor Original
 
 //Luvas Masculinas
 [SENA]手甲=[SENA] Faixas de Braço
@@ -250,17 +311,20 @@ T裆黑丝=Meia Calça Preta T
 [SENA]サポーターM1上下=[SENA] Cotoveleira e Joelheira M1
 [SENA]サポーターM1上=[SENA] Cotoveleira M1
 [SENA]サポーターM1下=[SENA] Joelheira M1
-
 腰ベルト=Cinto
-亀甲縛り（体操服半脱時用）=Arnês de Corda (Para Roupas de Ginástica Levantada)
-亀甲縛り（体操服着衣時用）=Arnês de Corda (Para Roupas de Ginástica)
-女王のショール=Xale da Rainha
-一番星パンツ=Calças de Top Model
-ブレザー前開き=Blazer Aberto
 カーディガン=Casaco
-ジャージ（前開き）=Moletom (aberto)
+ジャージ（前開き）=Moletom (Aberto)
 クリスマスポンチョ（フード）=Poncho de Natal (Capuz)
-ポンチョコート=Poncho Casaco
+ポンチョコート=Casaco Poncho
+ブレザー前開き=Blazer Aberto
+一番星パンツ=Calças de Top Model
+女王のショール=Xale da Rainha
+亀甲縛り（体操服着衣時用）=Arnês de Corda (Para Roupas de Ginástica)
+亀甲縛り（体操服半脱時用）=Arnês de Corda (Para Roupas de Ginástica Levantada)
+大正義スパッツ=Short Suplex Líder de Torcida Yomiuri Giants
+ハーフコート=Casaco Aberto
+ゼッケン上（ランナートップ改用）=Identificação de Corredor Superior (Top de Corrida Modificado)
+ゼッケン上下（ランナートップ改用）=Identificação de Corredor Superior e Inferior (Top de Corrida Modificado)
 
 //------------------------------------------------------------
 //Meias
@@ -274,6 +338,9 @@ T裆黑丝=Meia Calça Preta T
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Meias + Manga da Perna Esquerda
 一番星タイツ=Meias 3/4 de Top Model
 大正義ソックス=Meias Líder de Torcida Yomiuri Giants
+大力-龙盔-腰带-作者q3344929957=[DALI] Cinto da Armadura de Dragão - Autor q3344929957
+大力-明妆腿部-作者q3344929957=[DALI] Liga da Dinastia Ming - Autor q3344929957
+大力_TD沧海_腿饰品=[DALI] TD Liga do Mar
 
 //------------------------------------------------------------
 //Sapatos
@@ -282,10 +349,10 @@ T裆黑丝=Meia Calça Preta T
 高跟鞋=Salto Alto
 鱼嘴高跟=Salto Alto sem Dedos
 艦ブーツ=Botas de Navio
-大力-免费分享-三变高跟A作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto A - Author Q3617354271
-大力-免费分享-三变高跟B作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto B - Author Q3617354271
-大力-免费分享-三变高跟C作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto C - Author Q3617354271
-大力-免费分享-三变皮靴-作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Botas de Couro - Author Q3617354271
+大力-免费分享-三变高跟A作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto A - Autor Q3617354271
+大力-免费分享-三变高跟B作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto B - Autor Q3617354271
+大力-免费分享-三变高跟C作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Salto Alto C - Autor Q3617354271
+大力-免费分享-三变皮靴-作者Q3617354271=[DALI] Compartilhamento Grátis 3 - Botas de Couro - Autor Q3617354271
 夜莺-靴=Botas Nightingale
 ガンツブーツ=Botas de Gantz
 厚底ハイヒールパンプス=Salto Plataforma
@@ -303,6 +370,16 @@ kunoichi_shoes=Sapatos de Garota Ninja
 格闘用ブーツ=Botas de Luta
 大力-分享恶魔q3344929957=[DALI] Súcubo q3344929957
 大正義シューズ=Sapatos Líder de Torcida Yomiuri Giants
+連合ブーツ=Botas da Aliança
+連邦ブーツ=Botas da Federação
+ロングブーツ=Botas Acima do Joelho
+大力-龙爪-作者Q3344929957=[DALI] Garras de Dragão - Autor Q3344929957
+大力_明妆鞋-作者q3344929957=[DALI] Sapatos da Dinastia Ming-Autor q3344929957
+大力_TD天华_鞋=[DALI] TD Sapatos do Céu
+大力_TD沧海_鞋=[DALI] TD Sapatos do Mar
+流苏小皮鞋=Sapato de Couro com Franja
+HS 偶像 高跟=HS Salto Alto de Idol
+HS 偶像 鞋子=HS Sapatos de Idol
 
 //Male Shoes
 忍者草鞋=Sandálias Ninja
@@ -314,7 +391,7 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 
 鉢巻=Bandana
 うさ耳リボンカチューシャ=Tiara de Orelhas de Coelhinha
-大力_发光耳机-作者q3344929957=[DALI] Headphone Luminoso - Author q3344929957
+大力_发光耳机-作者q3344929957=[DALI] Headphone Luminoso - Autor q3344929957
 夜莺-兜帽=Capuz Nightingale
 [SENA]HBヘルメット(マスクオフ)=[SENA] HB Capacete (Sem Máscara)
 武蔵ヘアバンド=Tiara Musashi
@@ -339,6 +416,17 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 サークレット=Diadema
 セイバー=Sabre
 大正義ヘアピン=Presilha Líder de Torcida Yomiuri Giants
+PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
+大力_TD沧海头饰A=[DALI] TD Ornamento do Mar A
+大力_TD沧海头饰B=[DALI] TD Ornamento do Mar B
+大力_TD沧海头饰C=[DALI] TD Ornamento do Mar C
+大力_TD天华头饰A=[DALI] TD Ornamento do Céu A
+大力_明妆头巾-作者q3344929957=[DALI] Véu da Dinastia Ming - Autor q3344929957
+大力_明妆头饰-作者q3344929957=[DALI] Ornamento da Dinastia Ming - Autor q3344929957
+大力-龙头盔-作者q3344929957=[DALI] Capacete de Dragão - Autor q3344929957
+制帽=Boné
+通信ヘッドセット=Headset
+陸軍ヘルメット=Capacete do Exército
 
 //------------------------------------------------------------
 //Acessórios -> Orelhas
@@ -356,11 +444,12 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 //------------------------------------------------------------
 //Acessórios -> Face
 //------------------------------------------------------------
-大力-分享-面纱-正常版-作者Q3344929957=[DALI] Compartilhamento Véu Normal - Author Q3344929957
-大力-分享-面纱-反光版-作者Q3344929957=[DALI] Compartilhamento Véu Reflexivo - Author Q3344929957
+大力-分享-面纱-正常版-作者Q3344929957=[DALI] Compartilhamento Véu Normal - Autor Q3344929957
+大力-分享-面纱-反光版-作者Q3344929957=[DALI] Compartilhamento Véu Reflexivo - Autor Q3344929957
 夜莺-面罩=Máscara Nightingale
 ガンツ顎=Queixo de Gantz
 ドクロ仮面=Máscara de Caveira
+全頭マスク=Máscara de Cabeça Inteira
 
 //Formas
 基本図形：星=Forma: Estrela
@@ -426,7 +515,6 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 基本図形：階段型(通常)=Forma: Degrau (Normal)
 基本図形：半カプセル(通常)=Forma: Meia Cápsula (Normal)
 
-
 //------------------------------------------------------------
 //Acessórios -> Pescoço
 //------------------------------------------------------------
@@ -447,6 +535,8 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 一番星リボン=Laço de Top Model
 一番星ブローチ=Broche de Top Model
 大正義ネックレス=Colar Líder de Torcida Yomiuri Giants
+太リボン=Laço Grosso
+PH 空姐制服 丝带=PH Laço do Uniforme de Comissária de Bordo
 
 //------------------------------------------------------------
 //Acessórios -> Cintura
@@ -474,6 +564,10 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 カタナ（鞘）=Katana (Bainha)
 武蔵肩掛け上着=Jaqueta pelo Ombro da Musashi
 テストバックパック=Mochila de Teste
+大力-龙翅膀-作者q3344929957=[DALI] Asas de Dragão - Autor q3344929957
+大力_明妆背金属=[DALI] Metal Traseido da Dinastia Ming
+大力_明妆背带-作者q3344929957=[DALI] Tiras da Dinastia Ming - Autor q3344929957
+大力_TD天华背带A=[DALI] TD Tiras do Céu A
 
 //------------------------------------------------------------
 //Acessórios -> Braços
@@ -502,8 +596,6 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 釘バット=Taco de Pregos
 金属バット=Taco de Metal
 出刃ブレード=Faca
-格闘用ブレスレット=Pulseira de Luta
-サイコガン=Arma Psiônica
 
 //Haiyore! Nyaruko-san
 バールのような物=Algum tipo de Barra Indescritível
@@ -515,6 +607,13 @@ r:"^大力-恶魔角([A-Z])$"=[DALI] Chifre de Demônio $1
 星スティック（水）=Bastão de Poder Estelar (Água)
 星スティック（木）=Bastão de Poder Estelar (Madeira)
 星スティック（金）=Bastão de Poder Estelar (Ouro)
+
+格闘用ブレスレット=Pulseira de Luta
+サイコガン=Arma Psiônica
+大力_古剑=[DALI] Espada Antiga
+大力-镰刀-火-作者q3344929957=[DALI] Foice de Fogo - Autor q3344929957
+大力-镰刀-紫火-作者q3344929957=[DALI] Foice de Fogo Roxo - Autor q3344929957
+大力-镰刀-作者q3344929957=[DALI] Foice - Autor q3344929957
 
 //------------------------------------------------------------
 //Acessórios -> Pernas
@@ -534,6 +633,18 @@ r:"^pattern([0-9]{2})$"=Estampa $1
 単線(縦)=Linha Simples (vertical)
 単線(横)=Linha Simples (horiz.)
 単線2(横)=Linha Simples 2 (horiz.)
+
+//------------------------------------------------------------
+//Pinturas
+//------------------------------------------------------------
+色=Luxúria
+奴隷紋=Tatuagem de Escravo
+奸=Maligno
+毒=Veneno
+狂=Louco
+卑=Humilde
+屄=Buceta
+獄=Prisão
 
 //***********************************************************************
 // Sideloader Modpack - Cardas de Personagem e Roupas
