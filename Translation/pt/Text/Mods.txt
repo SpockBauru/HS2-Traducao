@@ -139,11 +139,20 @@ PH 空姐制服 上衣=PH Top do Uniforme de Comissária de Bordo
 ランナートップス半脱ぎ改=Top de Corrida - Pela Metade Modificado
 セーラー服(長袖)=Uniforme de Marinheiro (Mangas Longas)
 セーラー服(半袖)=Uniforme de Marinheiro (Mangas Curtas)
+大力-分享DVAQ3344929957=[DALI] Compartilhamento - D.VA - Q3344929957
+大力-分享DVA透明Q3344929957=[DALI] Compartilhamento - D.VA Transparente - Q3344929957
+
 
 //Superior Masculino
 忍者装束上=Blusa Ninja
 トレーニングシャツ=Blusa de Academia
 警備シャツ=Camisa de Segurança
+HS男西装 裤子=Paletó de Terno Masculino HS
+[SENA]道着(袖なし)=[SENA] Kimono (Sem Mangas)
+[SENA]ロングTシャツin=[SENA] Camiseta Comprida para Dentro
+[SENA]ロングTシャツout=[SENA] Camiseta Comprida para Fora
+[SENA]Tシャツ(3色色変)=[SENA] Camiseta (3 Cores)
+[SENA]Tシャツ（ノースリーブ）=Camiseta (Sem Mangas)
 
 //------------------------------------------------------------
 // Inferior
@@ -206,6 +215,10 @@ PH 空姐制服 裙子=PH Saia do Uniforme de Comissária de Bordo
 忍者装束（下）=Calças de Ninja
 トレーニングパンツ=Short de Academia
 警備パンツ=Calças de Segurança
+道着（下）=Kimono (Inferior)
+制服レギンス=Calça de Lycra do Uniforme
+制服パンツ=Calças do Uniforme
+HS男西装 上衣=Calças de Terno Masculino HS
 
 //------------------------------------------------------------
 // Superior Interno
@@ -261,7 +274,7 @@ PH 空姐制服 裙子=PH Saia do Uniforme de Comissária de Bordo
 アームスリーブ右=Manga Direita
 指テーピング=Adesivo de Dedos
 乳神グローブ=Luvas da Deusa Peituda
-
+グローブ=Luvas
 八十八学園ベスト=Colete da Escola 88
 一番星グローブ=Luvas de Top Model
 パイロットグローブ=Luva de Piloto
@@ -279,6 +292,8 @@ PH 空姐制服 裙子=PH Saia do Uniforme de Comissária de Bordo
 [SENA]手甲=[SENA] Faixas de Braço
 [SENA]手甲・脛当=[SENA] Faixas de Canela e Braço
 ビブス=Traje de Academia
+[SENA]軍用サスペンダー+グローブ=[SENA] Suspensórios Militar + Luvas 
+格闘技グローブ=Luvas de Artes Marciais
 
 //------------------------------------------------------------
 //Meia Calça
@@ -380,9 +395,21 @@ kunoichi_shoes=Sapatos de Garota Ninja
 流苏小皮鞋=Sapato de Couro com Franja
 HS 偶像 高跟=HS Salto Alto de Idol
 HS 偶像 鞋子=HS Sapatos de Idol
+HS 凉鞋(变色)=Sandálias HS (Colorível)
+酒店拖鞋=Chinelos de Hotel
+HS 凉鞋(棕)=Sandálias HS (Marrom)
+HS 凉鞋(蓝)=Sandálias HS (Azul)
+HS 凉鞋(红)=Sandálias HS (Vermelho)
+HS 凉鞋(黑)=Sandálias HS (Preto)
+HS 板鞋(变色)=Tênis HS (Colorível)
+HS 板鞋(蓝)=Tênis HS (Azul)
+HS 板鞋(红)=Tênis HS (Vermelho)
+HS 板鞋(绿)=Tênis HS (Verde)
+HS 板鞋(黑)=Tênis HS (Preto)
 
 //Male Shoes
 忍者草鞋=Sandálias Ninja
+ミリタリーブーツ=Botas Militares
 
 //------------------------------------------------------------
 //Acessórios -> Cabeça
@@ -427,6 +454,7 @@ PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
 制帽=Boné
 通信ヘッドセット=Headset
 陸軍ヘルメット=Capacete do Exército
+大力-分享DVA-Q3344929957=[DALI] Compartilhamento - D.VA - Q3344929957
 
 //------------------------------------------------------------
 //Acessórios -> Orelhas
@@ -514,6 +542,7 @@ PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
 基本図形：半コーン(通常)=Forma: Meio Cone (Normal)
 基本図形：階段型(通常)=Forma: Degrau (Normal)
 基本図形：半カプセル(通常)=Forma: Meia Cápsula (Normal)
+猿轡=Mordaça
 
 //------------------------------------------------------------
 //Acessórios -> Pescoço

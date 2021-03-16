@@ -254,7 +254,7 @@ Y位置=Eixo Y
 //Orelhas#
 ホクロの設定=Pintas
 //Editor Masculino:
-ヒゲのタイプ=Tipo de Bigode
+ヒゲのタイプ=Tipo de Barba
 
 目周り=Editar Olhos
 左右の設定を合わせる=Definir ambos esq e dir

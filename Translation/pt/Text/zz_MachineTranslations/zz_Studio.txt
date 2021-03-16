@@ -1,5 +1,5 @@
 //***********************************************************************
-// Tradução automática de legendas. Todas as entradas traduzidas/limpas manualmente devem ir para:
+// Tradução automática para o studio. Todas as entradas traduzidas/limpas manualmente devem ir para:
 // RedirectedResources\assets\abdata\studio
 //***********************************************************************
 
