@@ -224,8 +224,8 @@ HS男西装 上衣=Calças de Terno Masculino HS
 // Superior Interno
 //------------------------------------------------------------
 穴開きスク水=Maiô Aberto
-マイクロレース 紐ピン=Micro Biqiíini de Renda com Fio Desanexado
-マイクロビキニ 紐ピン=Micro Biquíini com Fio Desanexado
+マイクロレース 紐ピン=Micro Biquíni de Renda com Fio Desanexado
+マイクロビキニ 紐ピン=Micro Biquíni com Fio Desanexado
 インナースーツ=Colante por Baixo
 武蔵インナー=Maiô interno da Musashi
 陸上トップ=Top Esportivo
@@ -240,6 +240,8 @@ HS男西装 上衣=Calças de Terno Masculino HS
 連邦水着襟開き=Maiô da Federação com Decote
 連邦水着=Maiô da Federação
 毛衣=Colete
+ばってん=Cruz de Proibido
+マイクロビキニトップ=Top Micro Biquíni
 
 //------------------------------------------------------------
 // Inferior Interno
@@ -478,8 +480,11 @@ PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
 ガンツ顎=Queixo de Gantz
 ドクロ仮面=Máscara de Caveira
 全頭マスク=Máscara de Cabeça Inteira
+狐面半分=Metade da Máscara de Raposa
+狐面=Máscara de Raposa
+猿轡=Mordaça
 
-//Formas
+//Formas Básicas
 基本図形：星=Forma: Estrela
 基本図形：爪=Forma: Garra
 基本図形：筒=Forma: Cilindro
@@ -542,7 +547,6 @@ PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
 基本図形：半コーン(通常)=Forma: Meio Cone (Normal)
 基本図形：階段型(通常)=Forma: Degrau (Normal)
 基本図形：半カプセル(通常)=Forma: Meia Cápsula (Normal)
-猿轡=Mordaça
 
 //------------------------------------------------------------
 //Acessórios -> Pescoço
