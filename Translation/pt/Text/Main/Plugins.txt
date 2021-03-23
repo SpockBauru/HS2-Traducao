@@ -294,6 +294,20 @@ Nipples=Mamilos
 Tears=Lágrimas
 
 
+//------------------------------------------------------------
+//Additional accessories control
+//------------------------------------------------------------
+//Menu lateral
+Coordinate Visibility Rules=Regras de Visibilidade de Cartas de Roupas
+
+//Menu Acessórios
+Character Accessory=Acessório de Personagem
+Match Hair Color on Coord Load=Combinar Cor do Cabelo ao Carregar Carta de Roupas
+
+Visibility Rules=Regras de Visibilidade
+Show=Mostrar
+Hide=Esconder
+
 #unset level 3
 
 //***********************************************************************

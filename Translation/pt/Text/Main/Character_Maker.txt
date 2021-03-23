@@ -55,7 +55,7 @@
 顔=Face
 耳=Orelhas
 眼鏡=Óculos
-//眉=Sobrancelhas
+眉=Sobran\ncelhas
 //目=Olho
 鼻=Nariz
 //口=Boca
