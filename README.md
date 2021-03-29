@@ -1,52 +1,68 @@
 # Tradução para HS2
 
-Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro. As traduções são aplicadas em tempo de execução e não requerem substituição ou modificação de nenhum arquivo do jogo.
+Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro. As traduções são aplicadas durante a execução do jogo e não requerem substituição ou modificação de nenhum arquivo original do jogo.
 
 ## Pré-requisitos
 
-- [BepInEx 5.3](https://github.com/BepInEx/BepInEx/releases/tag/v5.3)
+- [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8)
 - [BepisPlugins para HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 - [HS2_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (necessário para a maioria dos recursos)
 - [HS2_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) (necessário para ver as legendas)
-- [HS2_TranslationHelper.v1.0.zip](https://github.com/GeBo1/GeBoPlugins/releases/tag/r14) (opcional, mas recomendado. Traduz nomes japoneses para o alfabeto ocidental sem tentar traduzir para o português evitando erros como 悟飯=Comida ao invés de 悟飯=Gohan).
+- [HS2_TranslationHelper.v1.1](https://github.com/GeBo1/GeBoPlugins/releases/tag/r16) (opcional, mas recomendado. Traduz nomes japoneses para o alfabeto ocidental sem tentar traduzir para o português evitando erros como 悟飯=Comida ao invés de 悟飯=Gohan).
 
 ## Instalação
 
 1. Certifique-se de ter os pré-requisitos instalados.
 2. Vá para a página de "releases" acima e baixe a versão mais recente. Como alternativa, os usuários avançados podem obter as traduções beta mais recentes clicando no botão "Clone or download" acima. Se você é tradutor, leia as seções abaixo para ver como contribuir com as traduções.
 3. Extraia o zip e coloque a pasta Translation na pasta BepInEx. Recomenda-se excluir sua pasta de tradução antiga para evitar conflitos de tradução.
-4. Instale o [AutoTranslatorConfig.ini] mais recente (config/AutoTranslatorConfig.ini) (ou compare-o com o arquivo existente e certifique-se de que as entradas nas seguintes seções conferem: `Files`,` TextFrameworks`, `Behaviour`, `Texture`,` ResourceRedirector`)
+4. Instale o [AutoTranslatorConfig.ini](config/AutoTranslatorConfig.ini) mais recente
 
 ## Contribuição
 
-Toda ajuda é bem vinda. Independentemente de sua habilidade de tradução e conhecimento de japonês, você ainda pode ajudar com as traduções. Mesmo se você não tiver experiência, pode ajudar revisando ou usando o Google Translate ou outros serviços de tradução e, em seguida, limpando a tradução usando o bom senso e um pouco de lógica. A tradução feita puramente por máquina deve ser mantida na pasta designada, mas é preferível evitá-la.
+Toda ajuda é bem vinda. Independentemente de sua habilidade de tradução e conhecimento de japonês você ainda pode ajudar com as traduções. Mesmo se você não tiver experiência, pode ajudar revisando ou usando serviços de tradução automática como o Google Translate ou o [DeepL](https://www.deepl.com/translator), sendo que atualmente recomendamos usar o [DeepL](https://www.deepl.com/translator). No caso das traduções automáticas, limpe a tradução usando o bom senso e um pouco de lógica. 
 
-As traduções estão todas dentro da pasta `Bepinex\Translation\pt\`. Eles são então divididos nas seguintes pastas:
-- `RedirectedResources` - Substituições para palavras embutidas em arquivos de recursos. Preferível em relação à `Text` devido sua precisão e desempenho.
-- `Text` - Substituições e modificações de texto normal.
-- `Text\Localizations` - Palavras nesta pasta foram despejadas via TextDump. As traduções podem ser adicionadas para entradas ausentes, mas as novas entradas não devem ser adicionadas ou será difícil mesclar despejos futuros.
-- `Text\zz_MachineTranslations` - Todas as traduções feitas por máquinas (como o google tradutor) vão aqui. As entradas limpas ou traduzidas manualmente devem ser enviadas corretamente para outras pastas. O objetivo é traduzir adequadamente até que esta pasta fique vazia.
-- `Texture` - Substituições de imagens.
+A tradução feita puramente por serviços automáticos deve ser mantida nos arquivos designados (arquivos `zz_machineTranslation.txt` dentro de `RedirectedResources`), mas o objetivo deste projeto é que não sobre nenhum desses arquivos e tudo seja devidamente traduzido.
+
+### Funcionamento básico e estrutura
+
+Cada linha de tradução segue o seguinte padrão: `texto original=texto traduzido`. Exemplo: `悟飯=Comida`
+Linhas iniciadas com `//` são considerados comentário, ou seja, não são consideradas na tradução.
+
+As traduções estão todas dentro da pasta `Bepinex\Translation\pt\`. Eles são então divididos nos seguintes diretórios:
+- `RedirectedResources` - Subistitui as palavras embutidas nos arquivos do jogo. Essas traduções são carregadas apenas quando o jogo precisa do arquivo correspondente, portanto é preferível usar este diretório ao invés do diretório `Text` devido sua precisão e desempenho. Este diretório imita a estrutura do jogo, colocando uma pasta para cada arquivo de recursos (como os arquivos ".unity3d").
+- `Text` - Traduções genéricas que são carregadas durante a abertura do jogo. Todo texto que não foi traduzido em `RedirectedResources` é verificado neste diretório. Se não existir nenhuma tradução, aí o texto original sem tradução é exibido no jogo, o Google Tradutor é acionado, o texto traduzido é escrito em `_AutoGeneratedTranslations.txt` e só daí a tradução será exibida no jogo. Os textos nesta pasta podem ser tratados com expressões regulares (Regex), redimensionados e separados por cena do jogo ao invés de ser separado por arquivos. Este diretório geralmente é usado em interfaces de usuário por causa destes recursos.
+- `Text\Localizations` - Palavras nesta pasta foram despejadas via TextDump. As traduções podem ser adicionadas para entradas ausentes, mas as novas entradas não devem ser adicionadas ou será difícil mesclar despejos futuros. Basicamente, não mexa nisso...
+- `Texture` - Contém a versão traduzida de imagens do jogo. As imagens do jogo são traduzidas usando o Photoshop, e a verão .psd pode ser encontrada no GitHub em `Arquivos de Imagem Originais`
 
 As traduções serão revisadas antes de serem adicionadas via "pull-request". Sendo assim nem toda tradução irá automaticamente entrar na base de dados.
 
-### Como adicionar ou melhorar traduções
+### Como adicionar ou melhorar traduções no GitHub
 
 - Se quiser fazer uma edição simples, basta abrir o arquivo em questão e clicar em "edit". Depois de terminar a edição, confirme as alterações e faça uma solicitação "pull request".
-- Se você tiver mais traduções para enviar [Faça um fork] (https://help.github.com/articles/fork-a-repo/). Faça upload de suas alterações para o "fork" e, em seguida, [envie uma "pull request"] (https://help.github.com/articles/about-pull-requests/). Sua solicitação de "pull request" será revisada e aceita após uma verificação de qualidade. Novamente, evite traduções feita puramente por máquina. São essenciais o correto uso de maiúsculas e minúsculas, a pontuação e a ortografia adequada.
+- Se você tiver mais traduções para enviar [Faça um fork](https://help.github.com/articles/fork-a-repo/). Isto irá fazer uma cópia do projeto original na sua conta. Faça upload de suas alterações para o "fork" em sua conta e, em seguida, [envie uma "pull request"](https://help.github.com/articles/about-pull-requests/) para o projeto original. Sua solicitação de "pull request" será revisada e aceita após uma verificação de qualidade pela equipe. Novamente, evite traduções feita puramente por máquina. São essenciais o correto uso de maiúsculas e minúsculas, a pontuação e a ortografia adequada.
+- Traduções manuais ou limpas com bom senso e lógica devem ir para os arquivos `translation.txt` que ficam dentro do diretório `RedirectedResources`. Traduções automáticas devem ir para os arquivos `zz_machineTranslation.txt` dentro deste mesmo diretório.
+- Textos da interface do jogo e de lugares como o criador de personagens geralmente estão em `Text`. Itens, legendas e diálogos estão em `RedirectedResources`. Veja abaixo a localização de cada tipo de recurso.
 
-## Tradução de texto
+## Tradução na pasta "Text"
+Textos que não são traduzidos em `RedirectedResources` utilizam o diretório `Text`. Neste diretório a primeira tradução encontrada para um texto é usada todas as vezes que este mesmo texto é encontrado, mas algumas vezes a mesma palavra pode ter significados diferentes dependendo do lugar do jogo. Neste caso pode-se usar o recurso de "nível de escopo" para dizer qual é a tradução que deve ser utilizada naquela parte do jogo.
 
-### Níveis de escopo conhecidos
+### Níveis de escopo
+Para utilizar níveis de escopo, utilize a seguinte estrutura:
+```
+#set level xxx
+texto=tradução
+#unset level xxx
+```
+Em que "xxx" representa o número do nível de escopo desejado. Segue abaixo uma tabela contendo os níveis de escopo conhecidos e seus locais de atuação:
 
 | Nível | Descrição              |
-|------:| -----------------------|
+|-------| -----------------------|
 | -1    | (global)               |
 | 0     | Diálogos               |
 | 1     | Menu de Configurações  |
 | 2     | Menu Principal         |
-| 3     | Editor de Personagens |
+| 3     | Editor de Personagens  |
 | 4     | Meu Quarto             |
 | 6     | Cenas de Diálogo ADV   |
 | 7     | Cenas de Sexo          |
@@ -58,29 +74,63 @@ As traduções serão revisadas antes de serem adicionadas via "pull-request". S
 | 14    | Busca de personagens   |
 | 15    | Recepção VIP           |
 
-## Tradução de recursos
+## Tradução da pasta "RedirectedResources"
+Este o principal diretório de tradução do jogo, por isso tem um tratamento diferenciado.
 
-- `adv` - Diálogos principais do jogo
-- `etcetra/list/config` - Personalidade
-- `etcetra/list/parametername` - Peculiaridades, fetiches, estado
-- `gamedata/Achivement/Achivement` - Conquistas
-- `gamedata/achievement/exchange` - Desbloqueáveis/upgrades,
-- `gamedata/bgmname` - Música de fundo
-- `gamedata/eventcontent` - atividade/necessidade atual
-- `map/list/mapinfo` - nomes de mapas
-- `list/characustom` - coisas do editor de personagens
-- `list/h/animationinfo` - posições (versões do jogo)
-- `list/h/sound` - Legendas
-- `spr/list/*/planname` - Nomes de serviços VIP
-- `studio` - Coisas do estúdio
+Dentro de cada pasta existe um arquivo chamado "translation.txt", este é o arquivo onde as traduções devem ir. Em algumas pastas também existem o arquivo "zz_machineTranslation.txt", que é onde ficam as traduções feitas por serviços automáticos, como o Google translate, que geralmente possuem uma qualidade inferior.
 
-### Traduções ADV
+Cada arquivo "translation.txt" tem o texto japonês original que precisa de tradução. Cada um começa comentado (`//` no início), portanto não será carregado. Para que o seu texto seja exibido corretamente no jogo, coloque a tradução no lado direito do sinal de igual `=` e remova o `//` no início da linha. Não edite o texto em japonês ou a tradução não funcionará. Exemplo:
 
-Cada arquivo translation.txt tem o texto japonês original que precisa de tradução. Cada um começa comentado (`//` no início), portanto não será carregado. Para que o seu texto seja exibido corretamente no jogo, coloque a tradução no lado direito do sinal de igual e remova o `//` no início da linha. Não edite o texto em japonês ou a tradução não funcionará.
+Antes:
+```
+//Tシャツ=
+```
+Depois:
+```
+Tシャツ=Camiseta
+```
+No arquivo "zz_machineTranslation.txt" devem permanecer apenas as linhas de tradução que estão comentadas em "translation.txt". Se o arquivo "translation.txt" foi totalmente traduzido, o arquivo "zz_machineTranslation.txt" deve ser apagado. O objetivo deste projeto de tradução é que não sobre nenhum arquivo "zz_machineTranslation.txt".
 
 A pasta `assets` dentro de `Bepinex\Translation\pt\ RedirectedResources` pode ser compactada em um arquivo .zip para ser lido pelo jogo (simplesmente clique com o botão direito na pasta de recursos e depois comprima para .zip). Arquivos descompactados em `assets` também são carregados. O jogo deve ser reiniciado para ver as traduções atualizadas.
 
-O plugin [TextResourceRedirector] (https://github.com/IllusionMods/TranslationTools#textresourceredirector) é necessário para essas traduções.
+O plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) é necessário para essas traduções. Mantenha-o sempre atualizado
+
+### Estrutura da pasta "RedirectedResources"
+Tabela com a localização das traduções de cada parte do jogo:
+
+| Pasta                            | Descrição                        |
+|----------------------------------| ---------------------------------|
+| `adv`                            | Diálogos principais do jogo      |
+| `etcetra/list/config`            | Personalidade                    |
+| `etcetra/list/parametername`     | Peculiaridades, fetiches, estado |
+| `gamedata/Achivement/Achivement` | Conquistas                       |
+| `gamedata/achievement/exchange`  | Desbloqueáveis/upgrades          |
+| `gamedata/bgmname`               | Músicasde fundo                  |
+| `gamedata/eventcontent`          | atividade/necessidade atual      |
+| `map/list/mapinfo`               | nomes de mapas                   |
+| `list/characustom`               | coisas do editor de personagens  |
+| `list/h/animationinfo`           | posições (versões do jogo)       |
+| `list/h/sound`                   | Legendas                         |
+| `spr/list/*/planname`            | Nomes de serviços VIP            |
+| `studio`                         | Coisas do estúdio                |
+
+#### Personalidades
+Localização dos arquivos referentes a cada personalidade das garotas:
+
+| ID | Nome   | Nome Port.   | Diálogos (`adv/scenario/`) | Legendas (`list/h/sound/voice/*/`) |
+|----|--------|--------------|--------------------------|-------------------------------------|
+| 0  | クール  | Calma        | `c00`                    | `hvoicestart_c00_*`, `hvoice_c00_*`, `hvoicestartevXX_c00*`, `hvoiceevXX_c_00*` |
+| 1  | 普通   | Normal       | `c01`                    | `hvoicestart_c01_*`, `hvoice_c01_*`, `hvoicestartevXX_c01*`, `hvoiceevXX_c_01*` |
+| 2  | 苦労人  | Trabalhadora | `c02`                    | `hvoicestart_c02_*`, `hvoice_c02_*`, `hvoicestartevXX_c02*`, `hvoiceevXX_c_02*` |
+| 3  | 女友達  | Namorada     | `c03`                    | `hvoicestart_c03_*`, `hvoice_c03_*`, `hvoicestartevXX_c03*`, `hvoiceevXX_c_03*` |
+| 4  | ギャル  | Patricinha   | `c04`                    | `hvoicestart_c04_*`, `hvoice_c04_*`, `hvoicestartevXX_c04*`, `hvoiceevXX_c_04*` |
+| 5  | 気弱   | Tímida       | `c05`                    | `hvoicestart_c05_*`, `hvoice_c05_*`, `hvoicestartevXX_c05*`, `hvoiceevXX_c_05*` |
+| 6  | 母性的  | Maternal     | `c06`                    | `hvoicestart_c06_*`, `hvoice_c06_*`, `hvoicestartevXX_c06*`, `hvoiceevXX_c_06*` |
+| 7  | ドS   | Sádica       | `c07`                    | `hvoicestart_c07_*`, `hvoice_c07_*`, `hvoicestartevXX_c07*`, `hvoiceevXX_c_07*` |
+| 8  | オープン | Tarada       | `c08`                    | `hvoicestart_c08_*`, `hvoice_c08_*`, `hvoicestartevXX_c08*`, `hvoiceevXX_c_08*` |
+| 9  | 天然   | Cabeça Oca   | `c09`                    | `hvoicestart_c09_*`, `hvoice_c09_*`, `hvoicestartevXX_c09*`, `hvoiceevXX_c_09*` |
+| -1 | フュル  | Fur          | `c-1`                    |                                       |
+| -2 | シトリー | Sitri        | `c-2`                    |                                       |
 
 ### Linhas de tradução especializadas
 
@@ -88,7 +138,7 @@ Existem alguns recursos especializados tratados pelo TextResourceRedirector que 
 
 #### Formatar strings
 
-As strings de formato têm substituições processadas por [`String.Format`] (https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netframework-4.6#Starting). As seções que são substituídas pelo mecanismo de jogo serão semelhantes a `{0}`, `{1}`, `{2}`, etc. Normalmente são o nome de um personagem ou o nome de algum item. As mesmas substituições encontradas na string original devem existir na string traduzida.
+As strings de formato têm substituições processadas por [`String.Format`](https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netframework-4.6#Starting). As seções que são substituídas pelo mecanismo de jogo serão semelhantes a `{0}`, `{1}`, `{2}`, etc. Normalmente são o nome de um personagem ou o nome de algum item. As mesmas substituições encontradas na string original devem existir na string traduzida.
 
 Exemplo:
 ```
@@ -120,27 +170,12 @@ Tentar corresponder `こんにちは` para um recurso usando `PREFIX1` retornar�
 | `etcetra/list/parametername` | `MIND:`       |                                                                                     |
 | `etcetra/list/parametername` | `STATE:`      |                                                                                     |
 | `etcetra/list/parametername` | `TRAIT:`      |                                                                                     |
-#### Personalidades
 
-| ID | Nome   | Nome Port.   | Dialog (`adv/scenario/`) | Subtitles (`list/h/sound/voice/*/`) |
-|----|--------|--------------|--------------------------|-------------------------------------|
-| 0  | クール  | Calma          | `c00`                    | `hvoicestart_c00_*`, `hvoice_c00*`  |
-| 1  | 普通   | Normal        | `c01`                    | `hvoicestart_c01_*`, `hvoice_c01_*`  |
-| 2  | 苦労人  | Trabalhadora   | `c02`                    | `hvoicestart_c02_*`, `hvoice_c02_*`  |
-| 3  | 女友達  | Namoradeira   | `c03`                    | `hvoicestart_c03_*`, `hvoice_c03_*`  |
-| 4  | ギャル  | Na Moda       | `c04`                    | `hvoicestart_c04_*`, `hvoice_c04_*`  |
-| 5  | 気弱   | Tímida        | `c05`                    | `hvoicestart_c05_*`, `hvoice_c05_*`  |
-| 6  | 母性的  | Maternal      | `c06`                    | `hvoicestart_c06_*`, `hvoice_c06_*`  |
-| 7  | ドS   | Sádica        | `c07`                    | `hvoicestart_c07_*`, `hvoice_c07_*`  |
-| 8  | オープン | Aberta         | `c08`                   | `hvoicestart_c08_*`, `hvoice_c08_*`  |
-| 9  | 天然   | Cabeça Oca    | `c09`                    | `hvoicestart_c09_*`, `hvoice_c09_*`  |
-| -1 | フュル  | Fur           | `c-1`                    |                                      |
-| -2 | シトリー | Sitri         | `c-2`                    |                                      |
 
-### Ferramentas
+## Ferramentas
 
 - [Release Tool](https://github.com/IllusionMods/KoikatsuStoryTranslation/tree/master/tools/ReleaseTool) - Ferramenta que limpa os arquivos de tradução para remover quaisquer partes não traduzidas desnecessárias.
 - [Yomichan](https://foosoft.net/projects/yomichan/) - Este plugin do navegador permite que você veja a definição de palavras japonesas colocando o mouse sobre elas no navegador e pressionando shift.
 - Dicionários:
-  - https://jisho.org/  
-  - http://www.romajidesu.com/  
+  - https://jisho.org/
+  - http://www.romajidesu.com/

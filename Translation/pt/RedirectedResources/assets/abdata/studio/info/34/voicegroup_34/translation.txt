@@ -9,5 +9,5 @@
 気弱=Tímida
 母性的=Maternal
 ドS=Sádica
-オープン=Aberta
+オープン=Tarada
 天然=Cabeça Oca
