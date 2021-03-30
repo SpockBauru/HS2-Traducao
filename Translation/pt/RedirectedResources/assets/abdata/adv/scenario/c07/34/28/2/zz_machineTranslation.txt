@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ん？　こんなところで何をしてるんだ？　まさか、覗いてたんじゃないだろうな？=Hmm? O que você está fazendo aqui fora? Você não estava espreitando para mim, estava?
+おっと、オマエも汗を流しに来てたのか？　もう少し早く会ってればな、二人で入ってもよかったんだが……=Oh, você também está aqui para suar um pouco? Se nos tivéssemos encontrado um pouco mais cedo, poderíamos ter entrado juntos.
+ふぅ……オマエもタイミングが悪いな。丁度汗を流したところだ。今からってのは、流石のオレでも微妙だな。=Hmm... Você também tem um péssimo timing. Acabo de suar um pouco. Acho que não estou pronto para isto agora.
+おい、そこで何してた？　余計な疑いかけられたくなかったら、こんな所うろついてんじゃねぇぞ。=Ei, o que você estava fazendo lá? Se você não quer ficar desconfiado, não fique por aqui.
+こういう所にオマエがいると、覗きしかイメージできないが。まぁ、バレなきゃ犯罪じゃねぇってやつか。=Quando se está em um lugar como este, tudo o que posso imaginar é espreitar. Bem, não é um crime se você não for pego.

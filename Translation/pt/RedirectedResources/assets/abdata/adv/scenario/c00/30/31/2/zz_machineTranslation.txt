@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お待たせしました。……どうなさいました？　息が上がっているようですが？=Desculpe por tê-lo feito esperar... O que está errado? Parece que você está respirando.
+お待たせしました。……何をしていたかは、ご想像にお任せ致します。=Desculpe por tê-lo feito esperar... Deixarei à sua imaginação o que você tem andado fazendo.
+お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=Obrigado por esperar... Você poderia ter dado uma olhada, sabe?
+……まさかとは思いますが、覗いてはいませんよね？=... Acho que não, mas você não está espreitando, está?
+私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=Você já viu o meu chuveiro dourado? Você não viu? Não minta para mim.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=... É isso mesmo. Acho que é bom receber favores das pessoas, a menos que você as odeie tanto.
+――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=-- Eu também costumava ser uma garota crua, por isso tenho experiências amargas de amor. É uma boa memória da qual posso rir agora, no entanto.
+好意{0}=Favores {0}
+……お恥ずかしい話ですが、当時好きだったドラマの告白シーンが印象的だったせいか、少し恋に夢見がちになってしまいました。=... Tenho vergonha de dizer isto, mas talvez tenha sido por causa da impressionante cena de confissão no drama de que gostei na época que me tornei um pouco sonhadora em relação ao amor.
+――ロマンティックなシチュエーションに憧れがあります。ですが、無理に背伸びをしてほしくはありませんね。=-- Tenho um anseio por uma situação romântica. Mas eu não quero que você seja muito alto.
+享楽{0}=Prazer {0}
+一夜限りの関係を持つ女性は意外と多と聞いたことがあります。真偽の程は不明ですが……=Ouvi dizer que um número surpreendentemente grande de mulheres tem uma noite de namoro. Não tenho certeza se é verdade ou não, mas...
+……結婚している自分の姿は、あまり想像がつきませんね。良い妻になれる自信もありません。=... Não posso realmente me imaginar como um homem casado. Eu nem tenho certeza se seria uma boa esposa.
+嫌悪{0}=Repugnância {0}
+――参考になるかは分かりませんが、プレゼントは消え物が無難かと思います。=-- Não sei se isto é útil, mas acho que é seguro dizer que os presentes estão desaparecendo.
+……あなたも誰かを好きになったりするのですね、正直意外です。=... Você também pode se apaixonar por alguém, o que é francamente surpreendente.
+隷属{0}=Escravidão {0}
+……何が切っ掛けで恋に落ちるかは分かりませんから、その様なこともあるのでしょうね。=... Você nunca sabe o que o levará a se apaixonar, então eu acho que isso acontece.
+……なるほど。相手に尽くすのは良いことですが、盲目的にならないように注意しなければいけませんね。=... Estou vendo. É bom ser dedicado a seu parceiro, mas você tem que ter cuidado para não ser cego.

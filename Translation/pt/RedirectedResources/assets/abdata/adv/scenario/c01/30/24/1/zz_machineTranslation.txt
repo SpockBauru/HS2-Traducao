@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+初めてが女の人とだなんて、ドキドキしちゃうわ。すごく楽しみよ。=Estou tão entusiasmado por estar com uma mulher pela primeira vez. Estou realmente ansioso por isso.
+同性が相手だなんて、妙に緊張しちゃうわね。一緒に気持ち良くなりましょう。=Estou estranhamente nervoso por estar com alguém do mesmo sexo. Vamos ficar confortáveis juntos.
+好意{0}=Favores {0}
+同性だからって気にする必要ないわ。あなたが相手なら最高よ。=Você não tem que se preocupar em ser do mesmo sexo. É ótimo se for você.
+あなたが相手になってくれるなんて嬉しいわ。初めてだからドキドキしちゃう。=Estou tão feliz que você vai ser meu parceiro. É a minha primeira vez, portanto estou nervoso.
+享楽{0}=Prazer {0}
+あなたと一緒に気持ち良くなれるなんて、最高に楽しみだわ。=Estou tão entusiasmado em me sentir tão bem com você.
+あなたの事、思いっきり感じさせてあげたいわ。もちろん、私も一緒にね。=Eu quero fazer você sentir todas as coisas que eu sinto. Comigo, é claro.
+嫌悪{0}=Repugnância {0}
+あんまり興味ないけど、するなら早く済ませましょ。=Eu não estou realmente interessado, mas se você estiver, vamos acabar com isso.
+初めてが同性相手だなんて……あんまりその気になれないわね。=Não estou realmente com disposição para a minha primeira vez com o mesmo sexo.
+隷属{0}=Escravidão {0}
+なんでもあなたの思い通りにしてあげるわ。楽しみにしていて。=Eu farei o que você quiser que eu faça. Aguardem ansiosamente.
+私、初めてだけど、あなたの好きにしていいのよ。=Eu sou novo nisso, mas você pode fazer o que quiser.
+壊れ{0}=Quebrado {0}
+………………=...
+いいのよぉ、私どうなってもいいのぉ……だからぁ、エッチなことたくさんしましょう=Está tudo bem, não me importa o que me aconteça... Então vamos fazer muitas coisas maliciosas.
+依存{0}=Depende (0)
+わかってるでしょ？　あなたには私が必要なのよ。そして私にもあなたが必要なの。=Você sabe o que quero dizer. Você precisa de mim. E eu preciso de você.
+いいわよ、早く気持ちよくなりましょ。一緒に、あなたと一緒がいいわ。=Muito bem, vamos ficar confortáveis. Quero estar com você. Quero estar com você.

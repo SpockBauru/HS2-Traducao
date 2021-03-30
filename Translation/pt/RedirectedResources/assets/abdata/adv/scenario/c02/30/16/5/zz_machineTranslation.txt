@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+もう、嫌……こんな場所、二度と来ませんから……っ！=Eu não quero... Jamais voltaremos a este lugar!
+帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

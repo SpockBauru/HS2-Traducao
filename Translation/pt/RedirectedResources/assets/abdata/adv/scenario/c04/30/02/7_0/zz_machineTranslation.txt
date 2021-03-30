@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+へ？　アタシら二人とも用無し？　流石にそれは無くない？=O que é isso? Você não tem utilidade para nenhum de nós? Isso não é pedir muito?
+あーうん。ならまぁいいけど……アンタなんで来たん？=Ah, sim. Bem, tudo bem, mas... Por que você está aqui?
+なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+なに？　こっちが二人だからって、別に気後れする必要ないよ？=O quê? Só porque somos dois, não significa que você tenha que se sentir consciente de si mesmo.
+ほんとになんもないの？　アタシら、仲間外れにしようとかしてないよ？=Você tem certeza de que não é nada? Não estamos tentando mantê-lo fora do nosso grupo, certo?
+なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+そーやってさー。自分から身を引いちゃうから、いつまでもボッチなんだよ？　もっとがっついてきなってー。=Sem mais delongas. É por isso que você será sempre um solitário. Quero que você fique mais duro.
+ふーん。アンタにはもーちょっと積極性が必要かもね～。=Hmm. Talvez você precise ser um pouco mais agressivo ~
+なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+じゃあ最初から入ってくんなし。かまちょかよ。=Então, não entrem desde o início. Você é a porra de um kamacho.
+うっざ……なんなんアンタほんと……=Que diabos você é realmente...
+なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+アタシ、もしかしていない方がいい？　だったらアタシだけ消えるとかでもいーけど？=Você acha que é melhor se eu não estiver aqui? Se for esse o caso, eu simplesmente desaparecerei ou algo assim.
+え？　アタシ抜きで、二人で何か話したいとか？　はっきり言ってくれていーよ？=O quê? Você quer falar sobre algo sozinho sem mim? Diga-me o que você quer, está bem?

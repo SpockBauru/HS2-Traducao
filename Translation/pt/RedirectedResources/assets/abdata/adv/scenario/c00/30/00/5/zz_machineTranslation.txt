@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+最近楽しみにしていること……セックス以外にはないですね。つまらない女ですみません。=O que eu tenho esperado ultimamente... Nada além de sexo. Sinto muito, sou uma mulher entediante.
+……そう、ですね……。受け、責め……自分がどちらかはあまり意識したことがありません。=... Sim, acho que... Recebendo, punindo... Nunca tive realmente consciência do que sou.
+好意{0}=Favores {0}
+――刹那的な快楽を否定はしません。ですが……心を通わせてこそのセックスだとは個人的に思います。=-- Não nego os prazeres momentâneos. No entanto, pessoalmente acredito que o sexo só é possível através da comunicação de coração a coração...
+……性にだらしがない人ほど、本気で惚れてしまったときに尽くすのかもしれませんね。=... Talvez quanto mais vadia uma pessoa for sexualmente, mais ela se dedicará a você quando estiver realmente apaixonada por você.
+享楽{0}=Prazer {0}
+性に奔放なのは悪いことなのでしょうか？　無理にお行儀よくしている方が、私は間違っていると思います。=É errado ser sexualmente desinibido? Acho que é mais errado, em minha opinião, forçar a si mesmo a ser bem comportado.
+……人の一生は短いですから、愉しいことは積極的に行うべきかと。=... A vida de uma pessoa é curta, então acho que devemos ser pró-ativos em fazer o que gostamos.
+嫌悪{0}=Repugnância {0}
+……あなたの性的嗜好に興味はありません。=... Não estou interessado em suas preferências sexuais.
+何故、私があなたに趣味を教えなければいけないのですか？　あなたの趣味も知りたくありません。=Por que devo lhes contar meus hobbies? Eu também não quero conhecer seus hobbies.
+隷属{0}=Escravidão {0}
+……叶えたい願いごと、ですか。……特にありません、現状で満足しています。あなたは何かあるのですか？=... É um desejo que você quer realizar? Nada em particular, estou satisfeito com minha situação atual. Você tem algum?
+……もしものことはあまり考えない様にしています。思ったところで実際に変わるわけではありませんから。=... Eu tento não pensar muito sobre o "e se". Só porque eu penso nisso, não significa que isso realmente mudará.

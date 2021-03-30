@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+パートナーと出会う為には、お好みのパートナーカードをグループへと登録して頂く必要がございます。=Para encontrar um parceiro, você precisa registrar a carta de personagem no grupo.
+尚、１つのグループに対して登録できる人数は決まっておりますのでご注意ください。=Observe que há um limite para o número de pessoas que podem se registrar para um grupo.
+グループへの登録が完了致しましたら、パートナーと出会う準備は完了となります。=Uma vez registrado no grupo, você está pronto para encontrar seu parceiro.

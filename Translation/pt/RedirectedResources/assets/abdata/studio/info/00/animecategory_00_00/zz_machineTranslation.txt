@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+基本=Básico
+感情=Emoções
+歩く・走る=Caminhar / Correr
+遊戯=Jogos
+アクション=Açao
+採取=Coleção
+椅子=Cadeira
+椅子・机=Cadeira de escritório
+床=Piso
+飲食=Comer e beber
+寝=Dormir
+主人公=Herói

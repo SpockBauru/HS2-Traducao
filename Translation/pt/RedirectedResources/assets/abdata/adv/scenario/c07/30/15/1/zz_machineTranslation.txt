@@ -1,0 +1,15 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=Pronto, aí está você. Eu só queria ver você. Sem ressentimentos, certo?
+好意50_汎用{0}=Favors 50_ Genéricos {0}
+よう、また来てやったぞ。嬉しいだろ？=Ei, estou aqui novamente. Você não está feliz em me ver?
+邪魔するぞ。オマエの部屋は居心地がいいんだ。少しゆっくりさせろ。=Você está no meu caminho. Eu estou confortável em seu quarto. Deixe-me descansar um pouco.
+さて、オレはオマエの部屋に来た。あとはオマエがどうするかだ。まさか、お茶を出して終わりってことはないよな？=Bem, estou em seu quarto. Agora é hora de ver o que você vai fazer. Você não vai apenas servir chá e dar o dia por terminado, vai?
+好意50続き{0}=Favores 50 continuou {0}
+オレとオマエのやりたいことは同じだと思ってたんだがな。まぁ、話してるだけでも、それなりに楽しかったが。=Eu pensei que você e eu queríamos fazer a mesma coisa. Bem, só conversar com você foi divertido à sua própria maneira.
+部屋にまで押しかけられて、一晩中話して終わりとはな……意気地なしだと言われても文句は言えねぇぞ？=Você não pode simplesmente invadir meu quarto e acabar falando comigo a noite toda... Você não pode me punir por ser um pouco arrogante, pode?
+一晩中オマエと話すってのも楽しかったが。やっぱ少し物足りねぇな。=Mas foi divertido conversar com você a noite toda. Ainda me falta um pouco.
+喜べ、会いにきてやったぞ。何か面白い話でもしろ。できないなら……そうだな、違うことでオレを楽しませろ。=Alegre-se, eu vim para vê-lo. Você tem algo interessante para me dizer. Se você não pode... Bem, entretenha-me com outra coisa.
+好意80_汎用{0}=Favores 80_ Genéricos {0}

@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=Objetivo Geral Normal {0}
+よお暇人。なにボサッと突っ立ってんだ？=Ei, homem do lazer. O que você está fazendo aí parado?
+ほう、奇遇だな。オマエも来てたのか。=Bem, que coincidência. Você também está aqui?
+暇になるとここに来ちまうよな。お互い悪い癖だ。=Quando não estou ocupado, venho aqui. É um mau hábito para nós dois.
+汎用普通用件{0}=Caso comum de uso geral {0}
+で？　何かオレに用があるなら、早く言え。=Então? Se você precisar de mim para alguma coisa, basta me dizer.
+オレに話があんのか？　手短にしろよ？=Você quer falar comigo? Podemos fazer isso rapidamente?
+汎用好意{0}=Favor genérico {0}
+おう、元気か？　もっと背筋を伸ばせ、みっともねぇぞ。=Ei, como você está? Você precisa se endireitar, cara. Você é nojento.
+また女漁りに来たのか？　ほどほどにしとけよ？=Você está aqui para procurar de novo? Por que você não se deixa de tretas?
+なんでか、オマエと会うと緊張感が無くなるな。困ったもんだ。=Não sei por que me sinto tão nervoso quando o vejo. Isso é um problema.
+汎用好意用件{0}=Favor Geral {0}
+ん？　なんだ？　ジッと見てねぇで、言いたいことがあるならハッキリ言え。=Hmm? O que é isso? Não olhe apenas para mim. Se você tem algo a dizer, diga claramente.
+ほら、何か言え。オレに用があんだろ？=Vamos lá, diga alguma coisa. Você queria me ver, certo?
+汎用享楽{0}=Diversão geral {0}
+おーいたいた。サカリのついたサルが一人な。=Oh, lá está ele. Um dos macacos com o sakari.
+おい、万年発情期。オマエだ、オマエのことを言ってるんだよ。=Ei, cio perene. É você. Estou falando de você.
+なにギラついた目してんだ？　怖がられんぞ？=Para onde você está olhando com esses olhos? Você vai me assustar de morte.
+汎用享楽用件{0}=Caso de Diversão Geral {0}
+まさか、ガン付けに来たわけじゃないだろ？　要件はなんだ？=Você não está aqui para me abater, está? Qual é a exigência?
+用が無いなら俺は行くぞ？　時間は有限ってやつだ。=Se você não quiser que eu vá, eu irei. O tempo é limitado.
+汎用嫌悪{0}=Aversão geral {0}
+おい、会ったら挨拶だろ？　礼儀も知らねぇのか？=Ei, devemos dizer olá quando nos vemos. Você não sabe nem mesmo ser educado?
+チッ、目障りなやつがいやがる。=Droga, tem um cara que é um chato.
+おい、ゴミ箱はあっちだぞ？　勝手にうろちょろするな。=Os caixotes do lixo estão ali. Não saia vagando por conta própria.
+汎用嫌悪用件{0}=Caso de antipatia geral {0}
+なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな。=De que você está esperando? Se você não me quer, saia da minha vista.
+なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=O que é isso? Você está tão assustado que nem consegue mais falar comigo? Você é patético.
+汎用隷属{0}=Escravidão de Propósito Geral {0}
+あぁ、いたのか。挨拶くらいしろ。=Ah, aí está você. Você deveria ao menos dizer oi.
+よう、オマエはいつも気楽そうでいいな。=Yo, você sempre parece tão despreocupado, não é mesmo?
+オマエ、毎日いないか？　ハマリ過ぎだろ。=Você está aqui todos os dias, não está? Você está muito ocupado.
+汎用隷属用件{0}=Uso Geral da Escravatura {0}
+どうした？　何か話があるんだろう？　そんなに言い難いことか？=O que está acontecendo? Há alguma coisa que você queira me dizer? O que é tão difícil de dizer?
+ったく、愚図だな。用があるならさっさと話せ。=Affe, você é tão tolo. Se você quiser alguma coisa, basta me dizer.

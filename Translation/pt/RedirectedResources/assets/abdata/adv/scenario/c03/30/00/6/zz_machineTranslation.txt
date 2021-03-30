@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+へぇ……ちょっと興味あるかも。=Heh... Talvez eu esteja um pouco interessado.
+なんか……危ない話してる？=Estamos falando de... Perigo?
+好意{0}=Favores {0}
+それはそれで、凄いと思うけど……=Isso seria fantástico, mas...
+私はそこまで……出来るかなぁ……？=Eu não sei se posso... Ir tão longe...
+享楽{0}=Prazer {0}
+なにそれ、流石にやり過ぎじゃない？=O que é isso? Isso não é um pouco demais?
+おー、なんか……凄いね……=Ooh, isso é meio... Fantástico...
+嫌悪{0}=Repugnância {0}
+うわ……どん引き……それ本気？=Uau... Isso é um pouco exagerado... Você está falando sério?
+いやー……冗談でもそれはないわー。=Oh não... Estou brincando, isso não está acontecendo.
+隷属{0}=Escravidão {0}
+そういうね。うんうん、分かる分かる。=Sim, algo parecido com isso. Sim, sim, eu sei.
+そうそうそうそう、いいねいいね！=Sim, sim, sim, sim, sim. Ótimo, ótimo, ótimo!

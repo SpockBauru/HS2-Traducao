@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+続けるんすか？　大丈夫っすよ=Você vai continuar? Eu ficarei bem.
+いいっすよ、私も続けたかったっすから=Tudo bem. Eu também queria continuar.

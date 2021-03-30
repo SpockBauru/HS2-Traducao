@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+とても変わったものがそろっている部屋ですね。=É uma sala cheia de coisas muito incomuns.
+なるほど、そういう趣味の部屋ですのね？=Entendo. Esse é o tipo de quarto que você gosta, não é?
+こんな部屋に連れて来るなんて、いやらしい方ですわね。=Você é uma pessoa nojenta para me trazer para uma sala como esta.
+なんでしょうか、この部屋は……あまりいい趣味ではありませんね。=O que é isso? Esta sala... Não tem muito bom gosto.
+なるほど、なかなかいい部屋ですわね……あなたと一緒なら、一層楽しめそうですわ。=Estou vendo, é um quarto muito bonito... Tenho certeza de que vou gostar ainda mais com você.

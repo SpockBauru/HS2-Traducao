@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+あんなに気持ち良くなれるなんて……触手ってすごいのね。=Poder sentir que bons... Tentáculos são incríveis.
+私も飼おうかしら、この子。=Acho que vou ficar com ela também.
+触手って、あんなに感じちゃうのね……すごかったわ。=Eu não sabia que os tentáculos podiam se sentir assim... Foi incrível.
+こんなに面白いだなんて……クセになっちゃいそうだわ。=Não acredito como isso é engraçado... É tão viciante.
+あなたと会えない時は、この子としようかしら……=Quando não puder vê-la, talvez eu tente esta garota...
+なんて冗談よ……うふふ。=Que piada... Hihihi.

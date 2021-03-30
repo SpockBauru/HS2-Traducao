@@ -1,0 +1,27 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+雪=Neve
+動く波動=Onda em movimento
+波紋の軌跡=Trajetória de ondulações
+光の軌跡=Trajetória de luz
+光の閃光=Flash de luz
+光の粉=Pó leve
+光の雨=Chuva de luz
+眩い光=Luz deslumbrante
+放電=Descarga
+キラキラ=Brilho
+ブラックホール=Buraco negro
+土煙=Fumaça
+斬=Golpear
+火2=Ter 2
+火の玉=Bola fogo
+火炎=Chama
+マズルフラッシュ=Flash focinho
+バブルシャワー=Chuveiro de bolhas
+濃い液体(強)=Líquido espesso (força)
+濃い液体(中)=Líquido espesso (Durante ~)
+濃い液体(弱)=Líquido espesso (fraco)
+シャワー(強)=Banho (força)
+シャワー(弱)=Banho (fraco)

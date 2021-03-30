@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+おかえりなさいませ、如何でしたでしょうか？=Bem-vindo de volta. Como foi?
+デラックスプランで訪れた場所は、今後お客様がパートナーとの待ち合わせの際にご自由に使うことができます。=Os lugares visitados nos serviços de luxo estão à sua disposição para serem utilizados no futuro quando você se encontrar com seus parceiros.
+まだお試しになられていないプランがございましたら、パートナーとの関係性を考慮された上、改めてお越しください。=Se há um serviço que você ainda não conseguiu experimentar, por favor, volte depois de considerar o relacionamento com seu parceiro.
+それでは、またのご利用をお待ちしております。=Estamos ansiosos para atendê-lo novamente em breve.

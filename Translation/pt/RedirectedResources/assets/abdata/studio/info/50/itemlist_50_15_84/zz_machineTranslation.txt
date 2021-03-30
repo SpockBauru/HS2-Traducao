@@ -1,0 +1,38 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+待遇室のカウンター1=Balcão na sala de tratamento 1
+待遇室のカウンター2=Balcão na sala de tratamento 2
+待遇室のシャンデリア=Candelabro na sala de tratamento
+待遇室のライト=Luzes da sala de tratamento
+待遇室の椅子=Cadeira na sala de tratamento
+待遇室のソファ1=Sofá na sala de tratamento 1
+待遇室のソファ2=Sofá na sala de tratamento 2
+待遇室のテーブル1=Tabela 1 na sala de tratamento
+待遇室のテーブル2=Tabela 2 na sala de tratamento
+光る焚火台=Fogueira brilhante
+光るコーナーカウンター=Balcão de canto brilhante
+光るテーブル=Mesa brilhante
+光る椅子=Cadeira brilhante
+独創的なライト=Luz engenhosa
+フロートマット=Tapete flutuante
+プールサイドベッド1=Cama 1 ao lado da piscina
+プールサイドベッド2=Cama 2 ao lado da piscina
+プールサイドチェア=Cadeira da piscina
+バーカウンターチェア=Cadeira de balcão de bar
+バーネオン1=Burneon 1
+バーネオン2=Burneon 2
+スポットライト1=Spotlight 1
+レーザー照射器=Irradiador laser
+サディスティックベッド=Cama sádica
+サディスティックソファ=Sofá sádico
+サディスティックチェア=Cadeira sádica
+サディスティックテーブル=Mesa sádica
+祭壇1=Altar 1
+祭壇2=Altar 2
+教会の長椅子=Banco de igreja
+教会の蝋燭1=Velas da igreja 1
+教会の蝋燭2=Velas da igreja 2
+教会の蝋燭3=Velas da igreja 3
+教会のシャンデリア=Lustre de igreja

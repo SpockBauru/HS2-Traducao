@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+こーいう普通じゃないエッチをすると……なんかやっぱり緊張しちゃいますね、あはは。=Quando tenho sexo incomum como este... Fico nervoso, haha.
+エッチ自体は嫌いじゃないから、今回みたいなのも悪くはないですけど……わたし、ちょっと乱れすぎじゃなかったですか？=Eu não me importo com sexo, então algo assim não é ruim, mas... Eu não era um pouco selvagem demais?
+好意{0}=Favores {0}
+あなたさんがいてくれるから……今日みたいなエッチも出来たんですよ？　本当ですからね。=Por sua causa... Pudemos transar como hoje, certo? É verdade.
+今日のエッチは……なんかとーってもイケナイことをしてる気になっちゃいましたね。=O sexo de hoje... Me fez sentir como se eu estivesse fazendo algo realmente malicioso.
+享楽{0}=Prazer {0}
+他の人とやらしーことするわたしを見て興奮しちゃいましたか？　ふふっ、そーいう性癖も嫌いじゃないですよ♪=Você se entusiasmou ao me ver fazendo algo assim com outra pessoa? Eu também não me importo com esse tipo de sexualidade.
+本当のことを言うと……わたし、めちゃくちゃ興奮しちゃいました。だって気持ち良かったんですもん！=Para dizer a verdade... Eu estava tão entusiasmado. Porque soube tão bem!
+嫌悪{0}=Repugnância {0}
+はぁ、わたし、完っ全にお疲れモードですよー。もーぐったりですー。=Hah, estou completamente exausto. Estou tão mole!
+なんでこんなエッチしたがるんですかー！　なんかもー色々普通じゃなさすぎです！=Por que você quer transar comigo desta maneira? Você está tão fora do comum de tantas maneiras!
+隷属{0}=Escravidão {0}
+あなたさんが傍にいてくれないと……ちょっと不安になっちゃいそうなエッチでした……はふ……=Foi o sexo que me fez sentir um pouco inquieto... A menos que você estivesse ao meu lado... Haha...
+あなたさんの前であんなに乱れちゃうなんて……思い出すと照れちゃいますね、えへへ。=Tenho tanta vergonha de lembrar que fiquei tão selvagem na sua frente, ehehe.
+依存{0}=Depende (0)
+二人の愛を確かめるために、他の方とも交わる……ふふっ、理解できなくもない考え方ですね。=A fim de confirmar seu amor, eles se misturam com outras pessoas... Hehe, é uma forma de pensar compreensível.
+乱れたわたしを見て興奮してくれるあなたさんのこと……誰よりも慕ってますよ。えへへ。=Eu te adoro mais do que ninguém porque você fica entusiasmado quando me vê desordenado. Heh heh.

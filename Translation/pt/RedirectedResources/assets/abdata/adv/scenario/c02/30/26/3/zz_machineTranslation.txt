@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+またお尻ですね？　わかってますから、早くしてください。=É o meu traseiro de novo, não é? Eu sei, eu sei. Apenas seja rápido.
+あ、あなたのせいでお尻が変になっちゃったんです。　責任取ってくださいっ！=Oh, você fez meu traseiro parecer tão estranho. Por favor, assuma a responsabilidade!
+好意{0}=Favores {0}
+あなたがお尻ばかり使うから、私もお尻好きにならざるを得なかったんですからね？=Como você usa tanto meu traseiro, eu também tive que me tornar um amante do traseiro, sabe?
+その、お尻のむずむず、あなたで解消したいんです……お願いします。=Sabe, quero me livrar dessa coceira no meu traseiro com você... Por favor.
+享楽{0}=Prazer {0}
+あなたくらいならお尻で十分だってわかりましたから。　使ってみせましょうか？=Descobri que meu traseiro é bom o suficiente para você. Devo lhe mostrar como utilizá-lo?
+ああもう、誰かさんのせいで私のお尻が開発済みになっちゃったんですからね？　わかってますか？=Ohhh, alguém já desenvolveu meu rabo, certo? Você entendeu?
+嫌悪{0}=Repugnância {0}
+はぁ、こんな人に私のお尻が……嫌になります……=Huh, minha bunda para essa pessoa... Me enoja...
+はいはい、どうせ今日もお尻でするんですよね？=Sim, sim, você vai fazer isso hoje novamente com meu traseiro de qualquer maneira, não vai?
+隷属{0}=Escravidão {0}
+ほ、ほら、いつもみたく私のお尻を開発してくださいよ……=Vamos lá, vamos lá, por favor desenvolva meu traseiro como você sempre faz...
+私、その……お、お尻も苛めてくれなきゃ、嫌ですからね……？=Eu não gosto que você não atormente meu... Meu... Meu rabo também, sabe?

@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+これからお風呂ですか？　……へ？　私の顔が赤い……？　そ、それはお風呂上りですので、当然のことではないでしょうか……？=Você vai tomar um banho agora? O que é isso? Meu rosto está vermelho? Bem, isso só é natural depois de tomar um banho, não é?
+お風呂に入られるのでしたら、使ったばかりですので、ご注意下さいませ。=Se você for tomar um banho, por favor note que você acabou de usá-lo.

@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+これ以上、貴方の傍にはいられません。本日限りで失礼させて頂きます。=Eu não posso mais ficar com você. Eu gostaria de tirar minha licença apenas hoje.
+帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

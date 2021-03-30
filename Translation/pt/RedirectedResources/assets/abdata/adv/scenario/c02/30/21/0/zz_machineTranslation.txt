@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+さぁ、次は私の番です……他の子とシたんですから、当然ですよね……？=Bem, agora é a minha vez... Desde que fiz sexo com outra garota, é natural... Certo?
+セックス、してましたね……私以外の子と……=Você estava fazendo sexo... Com outra pessoa que não eu...

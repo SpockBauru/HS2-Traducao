@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+はい、喜んで。あなたとのドスケベセックスが私の生き甲斐ですから。=Sim, com prazer. Porque o que eu vivo é para fazer sexo lascivo com você.
+私がNOと言うはずがありません。さあ、今日も私と淫らに狂いましょう？=Não há como eu dizer não. Vamos lá, vamos enlouquecer comigo hoje, vamos?

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+オマエはどう思う？　意見を聞かせろ。=O que você acha? Diga-me o que você pensa.
+一応オマエの意見も聞いてやる。言ってみろ。=Também vou ouvir a sua opinião. Diga-me.
+おい、オマエの考えはどうだ？　聞かせてみろ。=Ei, o que você acha? Vamos ouvi-lo.
+聞くだけ無駄だと思うが……オマエも何か意見があるか？=Acho que não vale a pena perguntar, mas... Você tem uma opinião?
+そうだな、一応オマエの意見も聞いておくか。=Sim, vamos ver o que você tem a dizer sobre isso.

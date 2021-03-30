@@ -1,0 +1,15 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+立ち1=Em pé 1
+立ち2=Em pé 2
+立ち3=Em pé 3
+立ち4=Em pé 4
+立ち5=Em pé 5
+立ち6=Em pé 6
+立ち7=Em pé 7
+立ち8=Em pé 8
+立ち9=Em pé 9
+立ち10=Em pé 10

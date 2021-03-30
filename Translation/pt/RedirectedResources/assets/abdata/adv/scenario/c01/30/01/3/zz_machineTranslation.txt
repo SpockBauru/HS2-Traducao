@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+なんでもないのね？　いいわよ、だったらエッチしましょう。=Não é nada, certo? Muito bem, então vamos fazer sexo.
+言葉はいらないって事ね？　だったら、身体で語り合いましょう。=Você quer dizer que não precisa de palavras? Então, vamos conversar com nossos corpos.

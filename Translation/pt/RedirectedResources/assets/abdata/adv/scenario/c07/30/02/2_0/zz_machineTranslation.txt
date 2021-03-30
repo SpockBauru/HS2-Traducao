@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なにしてたのA普通{0}=O que você estava fazendo?
+あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Por que tenho que lhe dizer cada vez que o vejo?
+教えねぇよ。女子同士の秘密ってやつだ。=Não vou contar. É um segredo entre as garotas.
+なにしてたのA好意{0}=O que você estava fazendo?
+そういう詮索をいちいちするから、モテねぇんだよ。=É por isso que você não é popular.
+ハッ、オマエがどんだけアホかって話をしてたんだよ。=Ha, eu estava falando sobre o quanto você é um idiota.
+なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+教えて欲しかったら、なんか一発芸でもしろ。=Se você quiser que eu lhe diga, vai ter que fazer alguns truques.
+オマエをどう苛めたら一番楽しいか、相談してたところだ。=Estávamos apenas discutindo como atormentá-lo da maneira mais divertida possível.
+なにしてたのA嫌悪{0}=O que você estava fazendo?
+特になにもしてねぇよ。そもそもオマエに教える義理がねぇ。=Eu não estou fazendo nada em particular. Não tenho nenhuma razão para lhe dizer, em primeiro lugar.
+それを知ってどうするつもりだ？　どうせ厄介なことにしかならねぇだろうが。=O que você vai fazer quando souber? Não vai ser nada além de problemas de qualquer maneira.
+なにしてたのA隷属{0}=O que você fez, A-slave {0}
+本当に聞きたいか？　女同士のこういう話はエグいぞ？=Você realmente quer ouvir isso? Este tipo de coisa entre as mulheres, é bastante desagradável.
+どこまでが苛めで、どこまでが弄りかって話をしてた。そんだけだ。=Estávamos falando de quanto foi um tormento e quanto estava brincando comigo. Isso é tudo.

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+???=????
+誰かいないっすかー……？=Há alguém lá fora?
+はー……セックスしてー……=Ha... Faça sexo comigo...
+どこからか声が聞こえる・・・=Consigo ouvir vozes vindas de algum lugar...

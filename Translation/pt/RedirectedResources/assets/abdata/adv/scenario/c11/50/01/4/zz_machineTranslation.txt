@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+H{0}=Sexo{0}
+……親になる心構えが出来ていないことが、不安なのですか？　それはこれから学んでいけば問題ございません。さぁ、致しましょう？=... Você está preocupado por não estar preparado para ser pai? Isso não é problema, você aprenderá no futuro. Vamos fazer isso, vamos?
+元に……？　その様な些細なことは後回しにして、今は私を孕ませることだけをお考えになって下さい。=Ex? Por favor, deixe esses assuntos triviais para trás e pense apenas em me engravidar por enquanto.
+Home{0}=Home{0}
+はっ……私は何を……？　とんでもないことを口走っていた様な……？=O que... O que eu? Acho que eu disse algo terrível?
+も、申し訳ございません。気持ちが急くあまり、我を忘れておりました……=Lamento muito. Eu estava com tanta pressa que me esqueci de...

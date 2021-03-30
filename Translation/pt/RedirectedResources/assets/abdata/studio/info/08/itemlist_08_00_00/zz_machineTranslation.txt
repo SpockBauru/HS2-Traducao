@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+四分円(通常）=Quarto de círculo (Normal)
+欠け四角(通常)=Quadrado ausente (Normal)

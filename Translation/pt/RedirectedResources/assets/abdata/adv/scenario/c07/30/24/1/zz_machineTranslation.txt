@@ -1,0 +1,29 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ん？　女同士か……オマエ、面白い趣味してるな。この場合は、オレが攻めか？　まあ、その辺りはヤればすぐ分かるだろ。=Hmm? De mulher para mulher... Você tem um gosto interessante. Eu sou o agressor neste caso? Bem, você vai descobrir em breve.
+おっと、まさか女同士とは、恐れ入ったな。安心しろ。別に悪い気はしてねえさ。オマエの趣味を否定するつもりもない。=Whoa, eu não esperava que vocês fossem mulheres. Não se preocupe. Eu não me sinto mal com isso. Não vou negar seu gosto.
+好意{0}=Favores {0}
+おいおい趣味が合うな。オレも女同士はアリだと思うぞ。女らしくとか、気を使わなくていいからな。こういうことは、素の自分で楽しみたいだろう？=Oh, vamos lá, vocês têm o mesmo gosto. Eu acho que as mulheres deveriam estar juntas. Você não precisa se preocupar em se parecer com uma mulher ou qualquer coisa. Você quer desfrutar deste tipo de coisa com seu verdadeiro eu, certo?
+ほお、こういうのは何て言うんだ？　百合だったか？　それともレズか？=Oh, como você chama esse tipo de coisa? É yuri? Ou lésbica?
+まあ、結局ヤルことは一緒だ。男か女かなんて、どうでもいいことだったな。=Bem, no final das contas, é tudo uma questão de dar uma queca. Não importava se era um homem ou uma mulher, não é verdade?
+享楽{0}=Prazer {0}
+ハッ、なんだオマエ。レズってやつか？　別に、馬鹿にしてるわけじゃねえぞ？　レズでもなんでも、要は気持ちよければいいんだ。=Huh, o que você é, uma fufa? Você é lésbica? Não estou gozando com você, está bem? Não importa se você é lésbica ou não, desde que se sinta bem.
+あー、オレの相手は女か。ちょっと驚いたが、ここは考え方を変えるべきだな。=Oh, então meu parceiro é uma mulher. Estou um pouco surpreso, mas acho que devo mudar de idéia aqui.
+オマエの身体は柔らかくて気持ちよさそうだしな。よし、オレが攻めだ。異論は認めないぞ。=Seu corpo é tão macio, sabe tão bem. Está bem, eu vou tomar a ofensiva. Eu não vou discutir com você.
+嫌悪{0}=Repugnância {0}
+おい、これはなんかの冗談か？　だとしたら、笑えねぇな。女同士とか、キモチわりぃ……=Isto é algum tipo de brincadeira? Se sim, não é engraçado. Mulheres juntas, isso é nojento...
+あー、これはハズレを引いちまったな。まさかレズの変態様が相手とは……最悪だ。=Ah, acho que apanhei o cara errado por isto. Não pensei que estaria lidando com uma pervertida lésbica... Que é uma droga.
+隷属{0}=Escravidão {0}
+ほう、こういうこともあるのか。確かに、女同士でもヤれないことは無いが……=Oh, então é assim que acontece? Claro, não é como se as mulheres não pudessem foder umas com as outras, mas...
+よし、まずはオマエの好きにしてみろ。お手並み拝見ってやつだな。=Muito bem, vamos ver o que você pode fazer. Vamos ver o que você pode fazer.
+あ？　オマエ本気か？　オレが男に見えたとか、そういう冗談じゃないよな？=O quê? Você está falando sério? Você não está brincando que eu pareço um homem, está?
+まあ、オマエの趣味なんて知ったこっちゃないが……オレをガッカリさせるようなことはするんじゃねーぞ？=Bem, não me importa o que você gosta, mas não faça nada para me desapontar.
+壊れ{0}=Quebrado {0}
+………………=...
+ぁー、なんらおまぇは……ん……やぅきか……？=Oh, o que você está... Uh...
+依存{0}=Depende (0)
+ふぅん、分かった。女同士仲良くしたいんだな？　なに……後悔はさせねぇさ。=Hmm, está bem. Você quer que as garotas se dêem bem? Bem... Você não vai se arrepender.
+おっと、話が分かるやつが来たみたいだな。気に入った。今からオマエはオレの女だ。=Whoa, parece que temos um cara que sabe do que está falando. Eu gosto disso. Agora você é minha garota.

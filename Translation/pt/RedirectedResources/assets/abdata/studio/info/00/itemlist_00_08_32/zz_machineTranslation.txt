@@ -1,0 +1,26 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+回転=Rodar
+関節10=Junta 10
+関節10_Bタイプ=Tipo de junta 10_B
+関節30=Junta 30
+関節30_Bタイプ=Tipo de junta 30_B
+関節45=Junta 45
+関節45_Bタイプ=Tipo de junta 45_B
+関節60=Junta 60
+関節60_Bタイプ=Tipo de junta 60_B
+関節180=Junta 180
+関節180_Bタイプ=Tipo de junta 180_B
+ピストン=Pistão
+吊りパイプ柔らか=Tubo suspenso macio
+吊りパイプ固い=Tubo suspenso rígido
+吊りパイプ柔らか(長=Tubo suspenso macio (longo)
+吊りパイプ固い(長=Tubo suspenso duro (longo)
+吊りボール柔らか=Bola pendurada macia
+吊りボール固い=Bola pendurada com força
+吊りボール柔らか(長=Bola pendurada macia (longa)
+吊りボール固い(長=Bola pendurada com força (longa
+投げ01=Jogue 01
+投げ02=Jogue 02

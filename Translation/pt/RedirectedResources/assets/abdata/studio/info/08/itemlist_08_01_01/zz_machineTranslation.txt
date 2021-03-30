@@ -1,0 +1,17 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+メカ壁(ドア)=Parede mecânica (porta)
+メカ壁2=Parede mecânica 2
+メカ壁3=Parede mecânica 3
+メカ壁4=Parede mecânica 4
+メカ壁5=Parede mecânica 5
+メカ床1=Piso mecânico 1
+メカ床2=Piso mecânico 2
+メカ床3=Piso mecânico 3
+ガラス床1=Piso de vidro 1
+ガラス床2=Piso de vidro 2
+ガラス壁1=Parede de vidro 1
+ガラス壁2=Parede de vidro 2
+ガラス壁3=Parede de vidro 3

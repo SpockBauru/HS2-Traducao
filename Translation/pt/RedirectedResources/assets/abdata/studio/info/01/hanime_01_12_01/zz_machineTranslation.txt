@@ -1,0 +1,15 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+立ちin=Em pé
+立ちloop=Loop de pé
+椅子in=Cadeira em
+椅子loop=Alça de cadeira
+寝in=Dormir em
+寝loop=Loop de sono
+壁in=Parede em
+壁loop=Alça de parede
+机in=Mesa em
+机loop=Malha de mesa

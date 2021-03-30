@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+何を話しましょうか？=O que você quer que eu lhe diga?
+お話ですか、構いませんよ。=Você quer conversar? Não me importo.
+好意{0}=Favores {0}
+どんな話が聞きたいんですか？=Que tipo de história você quer ouvir?
+まぁ、おしゃべりくらいなら……=Bem, se formos apenas conversar...
+享楽{0}=Prazer {0}
+時間はありますし、別に構いませんよ。=Eu tenho tempo, não me importo.
+私とおしゃべりですか……いいですよ？=Você quer ter uma conversa comigo... Ok?
+嫌悪{0}=Repugnância {0}
+あなたに何を話せと……=O que você quer que eu lhe diga...
+……手短にお願いします。=... Por favor seja breve.
+隷属{0}=Escravidão {0}
+もしかして、根掘り葉掘り聞かれちゃうんですかね？=Talvez eles lhe peçam para cavar mais fundo?
+はい、何でも応えますよ。=Sim, eu respondo a tudo.

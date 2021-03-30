@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+なんだか、とても元気に蠢いているようですわね。=Você parece estar se movimentando muito bem, não é mesmo?
+ちょっとだけ不安ですが、期待もしていますわ。=Estou um pouco nervoso, mas também estou esperançoso.
+早速……試してみましょう。=Vamos... Vamos experimentar.
+素晴らしい触手ですわね……こんな大きなもの、どこにいたのかしら？=Esse é um grande tentáculo... Onde você já esteve com algo tão grande?
+あなたが飼っているのですか？　大変ですね。=Você está mantendo-as? É difícil.
+私も……この子の飼育に一役買わせていただきますね。=Eu vou... Desempenhar um papel na criação dela, não vou?
+この触手……かなり本格的な物なんですのね……=Estes tentáculos... São coisas bastante sérias...
+私の穴という穴をねらっているのかしら？=Você acha que ele está tentando fazer um buraco em mim?
+なんだか、とても楽しみですわ。=Estou um pouco ansioso por isso.

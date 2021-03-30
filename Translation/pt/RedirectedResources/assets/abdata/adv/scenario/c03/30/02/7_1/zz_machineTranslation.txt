@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+えっと、結局なんだったの？　バイバイ……でいいのかな？=Bem, de que se tratava tudo isso? Adeusinho... Está bem assim?
+そんな気後れすることないのに。また今度、話せるときに話そ。=Você não precisa estar tão consciente de si mesmo. Vamos conversar novamente algum dia, quando pudermos.
+なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+どっちかだけに用があったとか？　それなら私……外そうか？=Você queria apenas um deles? Se sim, você quer que eu... O tire?
+うーん、意味深……だね？　そういうわけでも無いのかな？=Hmm, semântica... Certo? Não é assim que funciona, pois não?
+なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+それじゃ、私はこの子とエッチしよーっと♪　いや～残念だなぁ♪=Então eu farei sexo com ela ♪ Oh, é uma pena ♪
+お前が抜けるなら、ふたりでエロバナしちゃおっと♪　今更混ざりたいって言っても遅いからねぇ♪=Se você conseguir, podemos ter uma conversa erótica juntos... É tarde demais para dizer que você quer misturar tudo agora...
+なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+ほら、なんでもないんでしょ？　なら、私達の反応とか見てないで、さっさと消えなよ。=Veja, não é nada, certo? Então não observe nossas reações nem nada, simplesmente vá embora.
+なに？　新手の嫌がらせ？　そういうことしてるから、お前は嫌われるんだよ。=O quê? Isso é um novo tipo de assédio? Esse é o tipo de coisa que faz com que as pessoas o odeiem.
+なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+まぁ、お前にも色々事情はあるよね。そのうち気が向いたら、また話しかけてきて。=Bem, você tem muito em que pensar, não tem? Um destes dias, quando você estiver pronto, poderá vir falar comigo novamente.
+てっきりエッチに来たのかと思ったけど……違ったんだ……？=Eu pensei que você estava aqui para fazer sexo... Mas você não está... Está?

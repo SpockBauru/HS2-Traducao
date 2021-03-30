@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=... Sim, isso é extremo. Só de ouvir você, meu rosto está ficando vermelho...
+その様なことを……私には少々刺激が強すぎます……=Tais coisas... São um pouco estimulantes demais para mim...
+好意{0}=Favores {0}
+えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=Bem... Se é isso que você quer, eu farei algum esforço... Sim.
+ぅ……想像しただけで、照れてしまいます……=Ugh... Estou ficando envergonhado só de pensar sobre isso...
+享楽{0}=Prazer {0}
+それは……興味深いですね。私も試してみたです。=Isso é... Isso é interessante. Eu também já tentei.
+まあ……その様な趣向もあるのですね。勉強不足を痛感致します。=Bem... Existe tal gosto, não existe? Sinto muito a minha falta de estudo.
+嫌悪{0}=Repugnância {0}
+……貴方は、下品なことしか喋ることが出来ないのですか？=... Você é capaz de tudo menos de vulgaridade?
+……こういった施設だからといって、何を話しても良い訳ではありません。自重して下さい。=... Só porque é uma instituição como esta, não significa que você não possa falar sobre nada. Por favor, comporte-se.
+隷属{0}=Escravidão {0}
+その……全く恥じらいがないと言えば嘘になりますが、貴方の為でしたら問題ございません。=Bem... Seria uma mentira dizer que não tenho vergonha nenhuma, mas se é para você, não há problema.
+……その様な場所があるのですね。この施設を初めて知った時と、同じくらい驚きました。=... Que tal lugar existe. Fiquei tão surpreso quanto quando soube pela primeira vez desta instalação.

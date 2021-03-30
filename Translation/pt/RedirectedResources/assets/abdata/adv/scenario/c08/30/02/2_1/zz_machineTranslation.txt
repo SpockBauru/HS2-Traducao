@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あなたはどう思うすかー？=O que você acha?
+あなたの意見も聞いてみたかったんすよー。あなただったらどう思うすかー？=Eu também queria ouvir sua opinião. O que você pensaria?
+あなたがどう思うか興味あるんすけどー聞かせてほしいっすー。=Eu estaria interessado em ouvir o que você pensa.
+まーどっちでもいいんすけどーどう思うすかー？=Bem, eu não me importo de qualquer maneira, mas o que você acha?
+私はあなたの意見に従っちゃおうかなーと思うんすけど、どうすかー？=Acho que vou com a sua opinião.

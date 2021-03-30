@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あなたとお話している間に試したいことができたのですが、これから性のお勉強をいたしませんか？=Tenho algo que gostaria de tentar enquanto falo com você. Você gostaria de aprender sobre sexo de agora em diante?
+あなたさえ宜しければ、次は身体でお互いの理解を深めませんか？=Se estiver tudo bem com você, por que não aprofundamos nosso entendimento físico um do outro da próxima vez?
+好意{0}=Favores {0}
+女の私から誘うのははしたないと思ったのですが、これから……いかがでしょう……？=Achei um pouco bobo para mim convidá-la para sair como mulher, mas de agora em diante... Que tal?
+夫婦のように会話した後は、やはり夫婦のようにまぐわいたく存じますわ……いかが？=Depois de nossa conversa como marido e mulher, gostaria de fazer amor com vocês como marido e mulher.
+享楽{0}=Prazer {0}
+うふふ、あなたとの素敵な会話で身体が火照ってしまいましたわ……セックス、いたしません……？=Meu corpo está pegando fogo de sua conversa maravilhosa... Você gostaria de transar comigo?
+あなたの性への欲求が移ったのでしょうか、身体があなたを求めて仕方ありませんわ……♪=Pergunto-me se seus desejos sexuais foram transferidos para mim, meu corpo não pode deixar de querer você...
+嫌悪{0}=Repugnância {0}
+そのギラギラした目……私をどうするおつもり？=Esses seus olhos brilhantes... O que você pretende fazer comigo?
+どうせ、この後私を犯すのでしょう？　勝手になさって……=Você vai me foder depois disso, não vai? Faça do seu jeito...
+隷属{0}=Escravidão {0}
+もしよろしければ、私が性欲処理をいたしましょうか？=Se você quiser, eu poderia cuidar de suas necessidades sexuais.
+あなたさえよければ、これからセックスをするのはいかがでしょう？=Se estiver tudo bem com você, que tal fazermos sexo agora?

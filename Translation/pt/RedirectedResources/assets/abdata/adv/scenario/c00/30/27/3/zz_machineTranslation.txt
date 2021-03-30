@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+もう少々、手心を加えていただきたく存じます。=Gostaríamos que você acrescentasse mais alguns toques.
+痛みを伴うプレイは状況によって相手の気分を害してしまいます、お気をつけを。=O jogo doloroso pode ofender seu parceiro dependendo da situação, portanto, tenha cuidado.
+好意{0}=Favores {0}
+……ご満足いただけたのでしたら、何よりです。=... Estou feliz que você esteja satisfeito com nosso serviço.
+悦んでいただけたのは嬉しいのですが……少々複雑ですね。=Estou feliz que tenha gostado... Mas é um pouco complicado.
+享楽{0}=Prazer {0}
+慣れようが慣れまいが、こういった行為にはどうしても抵抗を覚えてしまいますね。=Quer você esteja acostumado ou não, não pode deixar de resistir a este tipo de comportamento.
+やはり、私は受けるよりも攻める方が性にあってますね……=Afinal, sou melhor a atacar do que a receber...
+嫌悪{0}=Repugnância {0}
+人に暴力を振るってはいけないのですよ。習いませんでした？=Você não deve ser violento com as pessoas. Você não aprendeu isso?
+不愉快で、苦痛で、最低な時間でした。=Foi desagradável, doloroso e um péssimo momento.
+隷属{0}=Escravidão {0}
+辛さが苦にならないのは、あなたのプレイが上手か、私がただドＭなだけのか……どちらでしょうね？=Ou você joga tão bem que a dor não o incomoda, ou eu sou apenas um dominante... Qual é?
+本当はまだ乱暴にしたいのでは？　お気遣いは無用ですからね？=Acho que você ainda quer ser duro comigo. Não se preocupe com isso.
+依存{0}=Depende (0)
+あなたが与える痛みさえも、私だけのものです……=Até a dor que você inflige é só minha.
+普通、暴力的な行為は嫌われてしまいますから、他の方にしてはいけませんよ？　私だけに、乱暴してください。=Normalmente, o comportamento violento é desaprovado, então não o faça a mais ninguém, certo? Por favor, seja violento, só para mim.

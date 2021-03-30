@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+こんな変な物、どこから持ってきたの？=Onde você conseguiu todas essas coisas estranhas?
+こんな所に触手？　本物なの？=Tentáculos aqui dentro? Eles são reais?
+なんだか、激しく動いてて、面白そうだわ=É um pouco difícil de mover. É interessante.
+こんなものまで持ち出すなんて、すごいわね！=É incrível que você até tenha falado nisso!
+ちょっと待って、何よこれ…気持ち悪いわ！=Espere um minuto, o que é isso... É nojento!
+なんなの？！　どうしてこんなのが出てくるのよ！=Mas que diabos? Como diabos isso entrou aqui? !

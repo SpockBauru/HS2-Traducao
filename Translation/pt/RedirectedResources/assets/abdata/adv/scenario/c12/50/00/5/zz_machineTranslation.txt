@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……やっぱ気持ちいいのが大事だよな。セックスもいいけど、他もいいと思うぜ。=... Quer dizer, é tudo uma questão de se sentir bem, certo? O sexo é bom, mas acho que o outro material também é bom, cara.
+……なんでも楽しいに越したことないぜ。やっぱ楽しめないのはつまんないよな。=... Não há nada melhor do que se divertir com tudo. É chato se você não pode se divertir, não é?
+好意{0}=Favores {0}
+体の相性も大事だけど……やっぱ、気持ちも必要だと思うんだよな……=A química física é importante... Mas eu acho que você também precisa sentir...
+……気持ちいいのもいいけどさ、そういうのってやっぱ、好きなもの同士の方が盛り上がるんじゃねぇの？=... É bom se sentir bem, mas esse tipo de coisa não é mais excitante quando é entre pessoas que gostam umas das outras?
+享楽{0}=Prazer {0}
+やっぱ、身体の快感が一番だろ？　身体は正直って言うだろ、な？=Quero dizer, o que é melhor do que o prazer físico? Você sabe o que eles dizem sobre o corpo, certo?
+……一人も悪くないけど、気持ちい事は分け合った方がもっと気持ち良くなれると思うんだよな。=... Um de nós não é mau, mas acho que nos sentiríamos ainda melhor se compartilhássemos o que é bom.
+嫌悪{0}=Repugnância {0}
+……お前一人で気持ち良くなってりゃいいだろ。=... Você deve se sentir melhor por conta própria.
+悪いけど、俺、お前の趣味に興味ねぇから……=Sinto muito, mas não estou interessado em seus hobbies...
+隷属{0}=Escravidão {0}
+……快楽を欲しがるのは普通だろ？　お互い、気持ちいい方がいいに決まってるんだからな。=... É normal querer prazer, certo? É melhor para nós dois nos sentirmos bem, é claro.
+……お前が快楽を求めてるって言うなら、俺は完全に同意するけどな。=... Se você está dizendo que está procurando prazer, eu concordo plenamente.

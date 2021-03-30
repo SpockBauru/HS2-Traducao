@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+そんな、おしゃべりくらいセックスしながらでも出来ますよね？　ほら……♪=Oh, vamos lá, podemos ao menos ter uma conversa enquanto fazemos sexo, não podemos? Você sabe ♪
+わかりました、私の喘ぎ声が聞きたいんですね？　ふふっ、沢山聞かせてあげますよ……♪=Então você quer me ouvir gemer? Hehe, vou deixar você ouvir muito ♪

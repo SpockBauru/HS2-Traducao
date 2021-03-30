@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+はぃ……ちゅきあいまふ……(はい、付き合います)=(Sim, eu vou sair com você)
+まはれきぅなんへ……うれひいれすぅ……(また出来るなんて、嬉しいです)=(Estou tão feliz que podemos fazer isso novamente)

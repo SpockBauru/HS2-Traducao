@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+なんだ、風呂に入りに来たのか？=O quê, você veio para tomar banho?
+風呂は良いよな、身体があったまって疲れが取れるからな。=Um banho é bom, pois aquece o corpo e remove a fadiga.
+風呂普通用件{0}=Assuntos normais de banho {0}
+……ん？　何か用か？=... Hmm? O que você quer?
+もしかして、俺を探してたのか？=Você estava me procurando, por acaso?
+風呂好意{0}=Favores de banho {0}
+よぉ、こんな所で会うなんてな……お前、風呂に入ろうとしてたのか？=Yo, eu não acredito que estou encontrando você aqui... Você estava prestes a tomar um banho?
+あれ、風呂で会うなんて珍しいな……入るなら、俺待っててもいいぜ。=Ei, é raro ver você no banho... Se você quiser entrar, posso esperar por você.
+風呂好意用件{0}=Favoritos do banho {0}
+……ひょっとして、俺になんか用か？=Você... Você quer me ver, por acaso?
+どうしたんだ？　俺で良ければ付き合うぞ。=Qual é o seu problema? Eu saio com você, se não se importar.
+風呂享楽{0}=Desfrutando do banho {0}
+なんだ、お前か！　どうした、風呂に入りに来たのか？=Que diabos, é você! Qual é o problema? Você vem tomar um banho?
+お前が風呂に来たって事は……覗きに来たのか？　……なぁんてな。=Você quer dizer que você veio ao banho... Para dar uma olhada? Hmmm.
+風呂享楽用件{0}=Desfrutando do banho {0}
+ん？　……何してるんだ？　誰か探してるのか？=Hmm? O que você está fazendo? Você está procurando por alguém?
+……？　俺に何か用か？　セックスだったら力になるぞ。=? O que você quer de mim? Se for sexo, eu posso ajudá-lo.
+風呂嫌悪{0}=Aversão ao banho {0}
+なんだ？　風呂だったら勝手に入れよ。=O que é isso? Se for um banho, vá em frente e pegue-o.
+不審者かと思ったらお前かよ……別に間違いでもねぇか……=Eu pensei que era um vagabundo, mas é você... Ou é um erro...
+風呂嫌悪用件{0}=Abominação do banho {0}
+……なんか用でもあんのか？　ないなら、もう帰れよ。=... Você tem algo a fazer? Se não, então vá para casa.
+……何だよ？　こう見えて、俺忙しいんだけど……=O que é isso? Eu sei que pareço ocupado, mas...
+風呂隷属{0}=Escravidão no banho {0}
+なんだお前、風呂に何の用だ？　お前のことだから、想像はつくけどな。=Que diabos, cara? O que você quer com um banho? É você, eu posso imaginar.
+風呂にお前がいるだけで、なんだか怪しい雰囲気がするんだよな。=Só o fato de você estar no banho me faz sentir um pouco desconfiado.
+風呂隷属用件{0}=A escravidão no banho importa {0}
+俺に用なら、なんでも聞いてやるよ。=Se você precisar de mim, eu sou todo ouvidos.
+もしかして、俺に用でもあるのか？　断らないから言ってみろよ。=Por acaso você quer me ver? Eu não vou dizer não, então me diga apenas.

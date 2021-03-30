@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelúdio A Normal {0}
+あ、面白いヤツが来たよ～……いや訂正、ありゃただのエロいヤツだわ。=Oh, há um cara interessante aqui... Não, correção, isso é só um cara pornô.
+あ、なんか仲間に入れて欲しそうな目してる～。=Ah, você tem olhos que parecem querer ser incluídos ~
+前フリA好意{0}=Prelúdio A Favor {0}
+あ……やっほ、元気してる？=Oh... Olá, como você está?
+ほら、そんなとこいないで、こっちに混ざりなって。=Vamos lá, não seja assim. Venha e misture-se conosco.
+前フリA享楽{0}=Prelúdio A Kyouraku {0}
+あ、来たぞー、女子の匂いに敏感なやつが。=Oh, aí vem ele... Um cara sensível aos cheiros de garotas.
+ねぇ、お前さ♪　あわよくば二人とも、とか……絶対考えてるでしょ？=Ei, você... Você está definitivamente pensando em nós dois, não está?
+前フリA嫌悪{0}=Prelúdio A Disgust {0}
+うわ来た……女子で集まってるとすぐだよね……=Uau, aí vem... Assim que nos reunimos com as garotas...
+あー、解散する？　変なの来たし……=Devemos nos separar? Temos algumas coisas estranhas...
+前フリA隷属{0}=Prelúdio Um Escravo {0}
+あ、今この子と話してたんだ。用事があるなら抜けられるけど……=Oh, eu estava apenas conversando com esta garota. Eu poderia sair se você precisar de mim, mas...
+えへへ、もしかして私たちとエッチしたいのかな？=Ehehe, talvez você queira transar conosco?

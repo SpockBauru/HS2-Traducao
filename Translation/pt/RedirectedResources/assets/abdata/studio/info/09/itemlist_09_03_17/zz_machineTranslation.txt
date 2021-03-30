@@ -1,0 +1,38 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+大砲=Canhão
+大砲(筒)=Canhão (Tubo)
+大砲(台)=Canhão (Ficar)
+大砲(玉)=Canhão (bola)
+爆弾=Bombear
+バリスタ=Varistor
+バリスタの槍=Lança de barista
+布袋=Bolsa de pano
+コイン=Moeda
+宝箱1=Baú de tesouro 1
+宝箱2=Baú de tesouro 2
+タンバリン=Pandeiro
+マラカス=Maracás
+音楽機器１=Equipamento musical 1
+音楽機器２=Equipamento musical 2
+マイクスタンド=Mike stand
+充電器１=Carregador 1
+充電器２=Carregador 2
+監視カメラ=Câmera de segurança
+リールライト=Luz do carretel
+音響機器１=Equipamento de áudio 1
+音響機器２=Equipamento de áudio 2
+音響機器３=Equipamento de áudio 3
+音響機器４=Equipamento de áudio 4
+照明機器１=Equipamento de iluminação 1
+照明機器２=Equipamento de iluminação 2
+照明機器３=Equipamento de iluminação 3
+照明機器４=Equipamento de iluminação 4
+照明機器５=Equipamento de iluminação 5
+簡易鉄骨（大）=Estrutura de aço simples (Grande)
+簡易鉄骨（中）=Estrutura de aço simples (Durante ~)
+簡易鉄骨（小）=Estrutura de aço simples (pequena)
+大型の台=Estande grande
+誘導柵=Cerca de orientação

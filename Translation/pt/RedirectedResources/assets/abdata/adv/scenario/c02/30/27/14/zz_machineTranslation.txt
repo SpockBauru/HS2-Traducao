@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+あの……私、あなたの傍に居たい……あなたなしで生きていくなんて、嫌ですから……っ=Um... Quero estar ao seu lado... Porque não quero viver sem você...
+私の身も心も、全部あなたのモノですから……全部、全部……うふふ……♪=Meu corpo e minha alma são todos seus... Tudo... Tudo... Hihihi...

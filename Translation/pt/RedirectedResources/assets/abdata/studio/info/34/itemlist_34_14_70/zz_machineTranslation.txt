@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ふすま=Farelo
+障子=Shoji
+畳床(大)=Chão de tatame (Grande)
+畳1=Tatami 1
+畳2=Tatami 2
+ししおどし=Shishi-odoshi
+小さな灯篭=Lanterna pequena
+石の皿=Placa de pedra

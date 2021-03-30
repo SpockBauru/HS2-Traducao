@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+廃材ベッド=Cama de lixo
+パイプベッド=Cama de cano
+屋外用ベッド=Cama ao ar livre
+大きなベッド=Cama grande
+派手なベッド=Cama chamativa
+枯草の寝床=Cama de grama morta
+シュラフ=Saco de dormir
+マッサージマット=Tapete de massagem
+ふわふわクッション=Almofada fofa
+ぬいぐるみ=Boneca de pelúcia
+抱き枕=Travesseiro de corpo
+無地の絨毯=Tapete liso
+派手な絨毯=Tapete chamativo
+ハンモック=Maca
+クッション1=Almofada 1
+クッション2=Almofada 2

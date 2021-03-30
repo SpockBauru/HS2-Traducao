@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+まさかとは思いますが……こんな所でシたいなどとは言いませんよね？=Eu não acho que você... Vai me dizer que quer fazer isso aqui, vai?
+ぅう……絶対に気付かれてしまいますよ？　そうなったら、貴方だって……=Ugh... Eles definitivamente vão notar, não vão? E se eles o fizerem, você será...
+い、色々と大変なことになりますから……どうか自重してください……=Não, vai ser um grande problema... Então, por favor, tente se controlar...
+わざと、その大きなものを当てていますね？　何を考えているのですか？=Você está batendo aquele grande de propósito, não está? O que você tem em mente?
+こんなに大勢の人混みの中で……絶対にダメですからね？=Em uma multidão de pessoas como esta... Você nunca vai conseguir, vai?
+いくら貴方が常識の無い人といえど……それくらい分かりますよね？=Mesmo que você não tenha nenhum senso comum... Você sabe disso, não sabe?
+変態だとは思っていましたが……これは流石に一線を越えていますよ？=Eu sabia que você era um pervertido... Mas isso está cruzando a linha, não é mesmo?
+痴漢は犯罪……それくらい子供でも知っていることです……=O abuso é um crime... Até mesmo uma criança sabe disso...
+お願いですから大人しく……やっ、私の言葉が聞こえていないのですか？=Por favor, fique quieto... Oh, você não ouviu uma palavra do que eu disse?

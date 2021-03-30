@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+H{0}=Sexo{0}
+あ？　意味の分からねぇことを言ってんじゃねぇ。さっさとヤるぞ。=O quê? Não diga nada que não faça sentido. Vamos ao trabalho.
+ハッ、頭がおかしいのはオマエの方だ。すぐに分からせてやるよ。=Ha, você é que é louco. Informá-lo-ei em breve.
+Home{0}=Home{0}
+ん？　どうやら、少し頭がイカレちまってたらしいな。=Hmm? Aparentemente, você enlouqueceu um pouco.
+ハッ、みっともねぇところを見せちまったな。全部忘れろ、いいな？=Ha, desculpe-me por ter mostrado a pior parte. Esqueça tudo, está bem?

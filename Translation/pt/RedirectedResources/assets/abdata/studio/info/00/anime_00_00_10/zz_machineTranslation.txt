@@ -1,0 +1,21 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+立って食べるin=Comer de pé In
+立って食べるloop=Comer de pé Loop
+立って食べるout=Comer de pé Out
+スプーンで料理を食べるin=Comer com colher In
+スプーンで料理を食べるloop=Comer com colher Loop
+スプーンで料理を食べるout=Comer com colher Out
+盗み食い=Roubando Comida
+盗み食いバレin=Roubando Comida In
+盗み食いバレloop=Roubando Comida Loop
+椅子、机で食べるin=Comer em uma cadeira ou mesa In
+椅子、机で食べるloop=Comer em uma cadeira ou mesa Loop
+椅子、机で食べるout=Comer em uma cadeira ou mesa Out
+椅子で食べるout=Comer em uma cadeira Out
+立って飲む=Beber em pé
+椅子で飲む=Beber em uma cadeira
+座って飲む=Beber sentado

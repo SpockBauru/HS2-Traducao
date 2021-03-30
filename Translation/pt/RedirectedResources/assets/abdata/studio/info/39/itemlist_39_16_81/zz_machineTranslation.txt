@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ビーチチェア=Cadeira de praia
+ビーチパラソル=Guarda-sol de praia
+サーフボード=Prancha de surfe
+かき氷機=Máquina de gelo raspado
+かき氷=Gelo raspado
+スプーンストロー=Palhinha de colher
+提灯=Lanterna
+すのこ=Duckboard

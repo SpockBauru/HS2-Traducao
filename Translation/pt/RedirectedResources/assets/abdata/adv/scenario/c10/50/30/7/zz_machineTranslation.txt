@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+えぇと……匂いなど、残っていませんよね？　もし、臭かったりしたら、遠慮せず言ってください。=Bem... Já não há cheiro, não é mesmo? Se houver algum cheiro, por favor, não hesite em me dizer.
+はぁ……すみません。こういうことは、貴方と会う前にすませておくべきでした……次からは気を付けます。=Huh... Desculpe. Eu deveria ter feito essas coisas antes de conhecê-lo... Terei cuidado na próxima vez.
+貴方なら何かしてくるかと思いましたが、こう大人しく待たれてしまうと……ふふ、何だが逆に、私が恥ずかしくなってしまいますね。=Eu estava esperando que você fizesse alguma coisa, mas estou envergonhado.
+んぅ……貴方が大人しく待っているなんて、逆に怪しいですね。この後どんなことをされるのか……不安になります。=Hmm... É bastante suspeito que você esteja esperando em silêncio. O que será que você vai me fazer depois disso... Me deixa inquieto.
+大変お待たせいたしました。後でおしおきでも、何でもして頂いて構いませんので……どうか、許して頂けますか？=Obrigado por sua paciência. Você pode me castigar mais tarde, ou fazer o que quiser comigo, então... Por favor, você pode me perdoar?

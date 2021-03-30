@@ -1,0 +1,37 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+昼=Meio dia
+夕=Tarde
+夜=Noite
+暖色=Cor quente
+寒色=Cor fria
+ダル=Pôr do Sol
+ペール=Pálido
+ソフト=Suave
+ストロング=Forte
+ディープ=Profundo
+ブライト=Brilhante
+セピア=Sepia
+モノクロ=Monocromático
+赤単色=Monocromático Vermelho
+青単色=Monocromático azul
+緑単色=Monocromático Verde
+レッドアクセント=Sotaque vermelho
+ブルーアクセント=Sotaque Azul
+グリーンアクセント=Sotaque Verde
+リバースモノクロ=Monocromático Reverso
+リバースカラー=Cor invertida
+サーモグラフ=Termógrafo
+ポスタライズ=Posterizar
+オールドポスター=Pôster antigo
+ノスタルジー=Nostalgia
+アンティーク=Antigo
+ライトシャドウ=Sombra clara
+ダークグレイッシュ=Acinzentado escuro
+アーティスティック=Artístico
+コミック=Cômico
+ツートン=Dois tons
+フォグ=Névoa
+スモッグ=Poluição

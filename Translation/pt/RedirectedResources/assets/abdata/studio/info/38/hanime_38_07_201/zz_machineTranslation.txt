@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+前待機=Esperar antes
+弱ループ=Loop fraco
+強ループ=Laço forte
+絶頂前ループ=Loop antes de gozar
+女絶頂=Mulher goza
+同時絶頂=Gozada simultânea
+外出し=Sair para
+外出し事後=Depois de sair
+脱力弱ループ=Loop fraco
+脱力強ループ=Laço forte de fraqueza
+脱力絶頂前ループ=Loop antes do clímax de fraqueza
+脱力女絶頂=Mulher fraca Clímax
+脱力外出し事後=Depois que a fraqueza vai embora

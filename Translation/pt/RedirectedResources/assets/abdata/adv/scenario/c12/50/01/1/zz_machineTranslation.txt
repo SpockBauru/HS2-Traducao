@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+おしゃべり？　それならセックス中でもできるな。よし、やるぞ。=Conversando? Então podemos fazer isso durante o sexo. Muito bem, vamos fazer isso.
+素直になれ……お前がしたいのは会話じゃなくてセックスだろ？=Seja honesto... Não é conversa que você quer, é sexo.

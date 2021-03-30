@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あなただったのね……ちょっと助けて欲しいの。穴にはまっちゃって……=Oh, é você, preciso de sua ajuda. Estou preso em um buraco e...
+ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Ei, eu preciso ir ao banheiro... Você tem me escondido.
+ちょっと困ってるのよ……穴から抜けれなくなっちゃって。=Estou tendo um pequeno problema... Para sair do meu buraco.
+トイレ行きたいわ……我慢できなくなりそう。=Tenho que ir ao banheiro... Não tenho certeza se posso segurá-lo.
+こんな状況なんだから、見て見ぬふりなんてしないわよね。=Não vou fazer vista grossa a esta situação, vou?
+べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=Não, você não tem que falar comigo. Há muito tempo eu o tolero.
+あなたに、こんな所見られちゃうなんて、なんだか恥ずかしいわ。=Estou meio envergonhado de que você me veja assim.
+なんだか、トイレに行きたくてしょうがないわ。=Não sei, só sinto que preciso ir ao banheiro.

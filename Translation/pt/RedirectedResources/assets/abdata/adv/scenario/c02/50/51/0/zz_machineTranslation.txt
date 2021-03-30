@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+ふーん……ここへ連れてきた理由が分かりましたよ。私に苛めて欲しいんですね？=Hmm... Agora eu sei porque você me trouxe aqui. Você quer que eu o atormente, não é mesmo?
+ま、あなたがそう望むなら私も吝かじゃありません。いいですよ、とことん苛めてあげます。=Bem, se é isso que você quer, eu estou disposto a fazer isso. Muito bem, vou atormentá-lo sem fim.
+遠慮するつもりはないので、覚悟を決めてくださいね？=Não vou me conter, então esteja preparado, certo?
+説明しなくても、あなたの考えは分かりました。今日は苛めて欲しい気分なんですね。=Você não tem que explicar, eu sei o que está pensando. Você está com vontade de me atormentar hoje.
+どのくらいの加減で責めてほしいんですか？　強くですか？　それとも思いっ切り強くですか？=Quão difícil você quer que eu vá? Difícil? Ou você quer o mais difícil que puder?
+希望があれば言ってください。それを聞くかは分かりませんが。=Se você tiver preferência, me avise. Eu não sei se vou ouvir isso.
+わざわざこんな部屋にくるなんて、よっぽどですね。まあ、責める側としてもテンションは上がりますけど。=É algo e tanto para se chegar até uma sala como esta. Bem, como o punido, estou ficando entusiasmado.
+じゃあ……まずはあなたを縛りますよ。今からあなたは、私が与える快楽を享受するだけの存在です。=Bem, então... A primeira coisa que vou fazer é amarrá-lo. De agora em diante, você só desfrutará dos prazeres que eu lhe dou.
+良い子にしててくださいね？　そうしたら天国へ連れて行ってあげます……=Seja um bom menino, sim? Se o fizer, eu o levarei ao céu...

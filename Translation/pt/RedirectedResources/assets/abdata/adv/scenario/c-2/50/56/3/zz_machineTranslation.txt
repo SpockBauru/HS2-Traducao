@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+事後{0}=Após o fato {0}
+ふぅ……さすがに、少々疲れてしまいました……=Hmm... Como era de se esperar, estou um pouco cansado...
+お客様……大変気持ち良いのですが、もう少々、加減をしていただけると助かります……=Senhor... É muito bom, mas seria bom se você pudesse diminuir um pouco a velocidade...

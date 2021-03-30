@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+メカ屋根1=Telhado mecânico 1
+メカ屋根2=Telhado mecânico 2
+メカ屋根3=Telhado mecânico 3
+メカ屋根4=Telhado mecânico 4

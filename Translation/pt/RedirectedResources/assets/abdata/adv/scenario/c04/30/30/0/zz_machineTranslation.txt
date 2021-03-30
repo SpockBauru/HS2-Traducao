@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ちょい待ち……あー、寄り道したいところができた的な？　そんな感じ？=Espere um minuto... Uh, você sabe, tipo, você tem um lugar para parar? Algo assim?
+えっと、ちょい言い難いんだけど……トイレタイム……いいっすか？=Bem, é meio difícil de dizer, mas... Hora do banheiro... Está bem assim?
+あ、ちょっとトイレ行ってくる。んふふぅ……覗いちゃダメだよー？=Oh, eu vou ao banheiro. Hihihi-hehe... Não espreite, está bem?
+ちょっとあっち行ってて。いーから、早くっ！=Vá embora. Vamos lá, vamos lá, vamos lá!
+あーその、ちょっと催しちゃったかも……発情してるとかじゃなくて……ほら、お手洗い的な？=Uh, bem, eu acho que tive um pequeno ataque... Não que eu esteja no cio ou qualquer coisa... Você sabe, como uma coisa de banheiro?

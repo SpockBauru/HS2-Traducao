@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+さて、今日も、一緒に楽しもうか。=Bem, hoje vamos nos divertir um pouco juntos.
+緊張しないで、楽に行こうぜ、お互いにな。=Não fique nervoso, vamos com calma, nós dois.
+好意より20～49{0}=20-49{0} de favor.
+また俺としてくれるんだな？　期待してるぜ。=Você vai fazer isso comigo novamente, não vai? Estou contando com isso.
+誘ってくれて、ありがとう……なんか、ちょっとニヤついちゃうな。=Obrigado por me convidar... Algo sobre isso me faz sorrir um pouco.
+好意より50～79{0}=50-79{0} de favor.
+あ、お前だったのか……誘ってくれてありがとう……うん、まぁよろしくな。=Oh, é você... Obrigado por me convidar... Sim, bem, é um prazer conhecê-lo.
+おぉ！　お前か？　いやぁ、俺も会いたかったんだよな……まぁ理由はよく分からんけど、会いたかったんだよ、うん。=Oh! É você? Bem, eu também senti sua falta... Bem, eu não sei por quê, mas senti sua falta, sim.
+好意より80～100{0}=80 a 100{0} mais do que favor.
+なんだ、お前が誘ってくれたのか……な、なんだよお前……ひょっとして、俺に気があるとか？　いやなんでもねぇよ。=O quê, você me convidou para sair... O quê, você... Você está interessado em mim ou algo assim? Não, não é nada.
+やった、またお前だったんだな！　実をいうと、俺もお前に会いたいなぁって思ってたんだぜ。=Sim, é você de novo! Para dizer a verdade, eu também estou morrendo de vontade de conhecê-lo.
+享楽より20～49{0}=20-49{0}
+それじゃ、一緒に気持ち良くなろうぜ！=Então nos sentiremos bem juntos!
+今日も一緒に満足できるよう頑張ろうぜ！=Vamos trabalhar juntos para satisfazê-lo hoje!
+享楽より50～79{0}=De 50 a 79{0}
+気持ち良くなってるお前の顔……じっくり見せてくれよな？=Vou precisar de uma boa olhada em seu rosto... Quando você estiver se sentindo bem, certo?
+俺、お前とならもっと気持ち良くなれると思ってるから、よろしくな。=Eu, eu acho que posso ficar mais confortável com você, então diga oi.
+享楽より80～100{0}=De 80-100{0}
+お前に誘われたってだけで、なんだか興奮してきたみたいだ。=Ele está ficando meio excitado só porque você o convidou para sair.
+まだまだ不慣れだけど、思い切り気持ち良くなろうぜ！=Eu sei que ainda sou novo nisso, mas vamos fazer com que se sinta tão bem quanto possível!
+嫌悪より20～49{0}=De repugnância 20-49{0}
+俺としても、楽しくないんじゃないの？=Quero dizer, mesmo para mim, não é divertido, não é?
+ああ……また俺と遊ぶんだ。まぁ、いいけど……=Oh... Você está brincando comigo novamente. Bem, está bem, mas...
+嫌悪より50～79{0}=50-79 de repugnância {0}
+俺とやるより、一人でした方がいいんじゃないのか？=Não seria melhor fazer isso sozinho do que comigo?
+やるんなら、なるべく早く終わらせようぜ。=Se vamos fazer isto, vamos acabar com isto o mais rápido possível.
+嫌悪より80～100{0}=80-100{0} de repugnância.
+はぁ……なんかもう、あんまりやる気がしないんだよなぁ。=Huh... Eu realmente não tenho mais vontade de fazer muito.
+俺を選ぶなんて、本当に変わってんな、お前……=Você é muito estranho por me escolher, cara. Você...
+隷属より20～49{0}=Da servidão 20-49{0}
+お前の思うままに、俺を求めてもいいんだぜ？=Você pode me querer tanto quanto me quer, certo?
+言葉なんかより、身体の方が伝わりやすいって、知ってるか？=Você sabe que é mais fácil se comunicar com seu corpo do que com as palavras?
+隷属より50～79{0}=50-79{0} da servidão.
+今日はどんなセックスがお望みだ？　聞かせてくれよ。=Que tipo de sexo você quer hoje? Vamos ouvi-lo.
+俺の興奮がお前にも伝わるといいな……絶対感じさせてやる。=Espero que você possa sentir minha emoção... Porque eu vou fazer você sentir isso.
+隷属より80～100{0}=80-100{0} da servidão.
+俺が好きなのは、お前との気持ちいい時間なんだよ。=Tudo o que eu gosto é de passar um bom tempo com você.
+今日も身体を熱くして、たっぷり感じ合おうぜ……=Vamos aquecer nosso corpo hoje e nos sentirmos bem uns aos outros...

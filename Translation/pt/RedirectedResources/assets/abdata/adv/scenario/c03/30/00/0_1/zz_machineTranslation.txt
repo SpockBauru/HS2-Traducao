@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=Objetivo Geral Normal {0}
+おっす、どうしたの？=Oh, ei, o que está acontecendo?
+やっほー、元気してた？　私はバッチリ元気ー♪=Olá, como você está? Eu tenho sido ótimo.
+なーんかギラ付いた目してない？　欲求不満ー？=O que há com o brilho em seus olhos? Frustrado?
+汎用普通用件{0}=Caso comum de uso geral {0}
+というかさ、こ、こんな所で何してるの？=Quero dizer, o que você está fazendo aqui?
+それでさ、わ、私に何か用？=Então, o que você quer de mim?
+汎用好意{0}=Favor genérico {0}
+あれ、お前も来てたんだ。ラッキー♪=Oh, você também está aqui. Sorte a sua. ♪
+あれ、お前も……なんか運命感じちゃうね？=Você sabe, você também... Você se sente como se estivesse condenado, não é mesmo?
+や、やぁ……なんて、なんか変な挨拶になっちゃった。緊張してるのかな……私。=Ei, ei... Que saudação esquisita. Será que estou nervoso... Eu.
+汎用好意用件{0}=Favor Geral {0}
+そ、それでさ……私に何か用事があったんでしょ？　何かなぁって……。=Bem, então... Você queria me ver, não queria? Eu estava me perguntando...
+ほら、用事があるなら、遠慮せず言って。=Aqui, se você precisar de alguma coisa, não hesite em pedir.
+汎用享楽{0}=Diversão geral {0}
+お、来たなぁ。万年発情期のケダモノめぇ～♪=Oh, você está aqui. O animal que está o tempo todo no cio...
+どーもー、ヤリに来ました～。なんちゃってー♪=Olá, estou aqui para foder com você. Que piada...
+んぅ？　どこ見てんの？　会って早々欲情しちゃった？=Hmm? Para onde você está olhando? Você acabou de me conhecer e ficou um pouco excitado?
+汎用享楽用件{0}=Caso de Diversão Geral {0}
+どうせヤリにきたんでしょ？　もちろん、ご指名は、わ・た・し？　ふふふ♪=Você está aqui para me foder, não está? Claro, você está aqui por mim, não está? Hihihi-hehe.
+もう目がエロくなってるよ。目的がバレバレだぁ♪=Você já tem um visual sexy nos olhos. É óbvio o que você quer.
+汎用嫌悪{0}=Aversão geral {0}
+うわ、いたんだ。こっち来ないでよ。=Ohhh, você está aqui. Não venha até aqui.
+あー、会いたくないやつと会っちゃったー……=Oh, conheci alguém que não quero conhecer...
+うーん、お前がいるなら、もう帰ろっかなぁ……=Hmm, se você está aqui, talvez eu devesse ir para casa...
+汎用嫌悪用件{0}=Caso de antipatia geral {0}
+用件があるなら、さっさと話して。=Se você tem algo a dizer, diga-o rapidamente.
+私はお前と話すことなんてないけど。お前は違うの？=Eu não tenho nada a dizer a você. Você não?
+汎用隷属{0}=Escravidão de Propósito Geral {0}
+あ……偶然だね。=Oh... É uma coincidência.
+ふふ、ここに来れば、絶対いると思った♪=Huh, eu sabia que você estaria aqui quando eu chegasse aqui.
+その、「あ、エロいやつに遭っちゃった」っていう目、最高かも……=Adoro a maneira como você olha para mim e diz: "Ah, acabei de conhecer um cara sexy.
+汎用隷属用件{0}=Uso Geral da Escravatura {0}
+それで、私に声をかけてくれたってことは、やっぱりエロ？　私、またエロだった……？=Então, o fato de você ter se aproximado de mim significa que você é erótico? Estou sendo erótico novamente?
+何か私に命令したいことでもあった？なんでも従うけど……=Há alguma coisa que você queira me dizer para fazer? Eu farei o que você quiser, mas...

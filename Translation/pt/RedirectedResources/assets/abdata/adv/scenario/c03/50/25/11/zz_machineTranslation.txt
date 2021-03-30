@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんか、色々あるね～、この部屋。=Há tanta coisa acontecendo - esta sala.
+ここは……普通の部屋じゃないね……何をするの？=Este... Não é um quarto comum... O que você faz?
+ここで遊ぶの？　なんか面白そうなんだけど♪=Você joga aqui? Parece meio divertido. ♪
+何なのこの部屋？　趣味悪いんだけど。=O que há com esta sala? Eu tenho mau gosto.
+いいじゃん、この部屋！　なかなか面白そうだね♪=Eu gosto desta sala. Parece bastante interessante.

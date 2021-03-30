@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Posto de Conversação B Normal {0}
+あなたの意見が聞けて良かったわ。=É bom ouvir sua opinião.
+そういう考え方もあるのね。=Essa é uma maneira de pensar sobre isso.
+会話事後B好意{0}=Posto de Conversação B Favor {0}
+色んな意見が聞けて、楽しかったわ。=Tem sido divertido ouvir todas as diferentes opiniões.
+あなたの意見、参考にさせてもらうわ。=Levarei sua contribuição em consideração.
+会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
+あなたの意見が聞けて、楽しかったわ。=Gostei de ouvir sua opinião sobre isto.
+あなたの考え方、すごく魅力的よ。=Acho o modo como você pensa muito atraente.
+会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
+そう、よくわかったわ。=Sim, eu estou bem ciente.
+何かの参考にさせてもらうわ。=Vou ver o que posso fazer.
+会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
+あなたの意見、必ず受け入れるわ。=Vou acreditar em sua palavra.
+あなたの意見、絶対参考にするわ。=Com certeza levarei em consideração sua contribuição.

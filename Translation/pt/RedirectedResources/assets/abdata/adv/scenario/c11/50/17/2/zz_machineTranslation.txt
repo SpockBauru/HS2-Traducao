@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お手数をおかけしてすみません……=Desculpe incomodá-lo...
+ま、誠に有難うございます。簡素なお礼で大変申し訳ございませんが、失礼致しますっ。=Muito obrigado. Sinto muito por este simples agradecimento, mas por favor me desculpem.
+誠に有難うございます、やはり貴方は素敵なお方です。=Muito obrigado, você é uma pessoa maravilhosa.
+えっ……？　あ、いえ……誠に有難うございます。=Eh? Oh, não... Muito obrigado.
+では、お花を摘みに参ります。=Agora, vou colher algumas flores.
+貴方に好き放題されると思っていたのですが……一方的な状況は、貴方のお好みではないのでしょうか？=Eu pensei que você me deixaria fazer o que eu quisesse... Ou uma situação unilateral não é do seu agrado?
+……有難う、ございます。=... Obrigado, senhor.
+こ、これで、失礼致します。改めて有難うございました。=Agora, se me dão licença. Mais uma vez, muito obrigado.
+貴方にはこの様な一面もあるのですね。=Você tem este lado para você, não tem?
+助けて下さるのですか？=Você vai me ajudar?
+誠に有難うございます。長々とお礼を述べていると、折角助けて頂いたのに決壊を迎えてしまいそうなので、失礼致します。=Muito obrigado. Se eu lhe agradecer por sua ajuda por muito tempo, posso enfrentar um colapso, mesmo que você me tenha ajudado, então, por favor, me desculpe.
+このご恩は忘れません。誠に有難うございました。=Eu nunca esquecerei este favor. Muito obrigado por sua gentileza.

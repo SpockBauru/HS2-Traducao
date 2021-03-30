@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+登場1=Aparência 1
+登場2=Aparência 2
+登場3=Aparência 3
+登場4=Aparência 4
+登場5=Aparência 5
+登場6=Aparência 6
+登場7=Aparência 7
+登場8=Aparência 8
+登場9=Aparência 9
+登場10=Aparência 10
+ドアを開ける1=Abrir a porta 1
+ドアを開ける2=Abrir a porta 2
+ドアを開ける3=Abrir a porta 3
+御辞儀1=Renúncia 1
+御辞儀2=Renúncia 2

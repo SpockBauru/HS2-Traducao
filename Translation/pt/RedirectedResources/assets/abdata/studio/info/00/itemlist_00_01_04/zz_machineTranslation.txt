@@ -1,0 +1,56 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+木階段１=Escada de madeira 1
+木階段２=Escadas de madeira 2
+木階段３=Escadas de madeira 3
+石階段１=Escada de pedra 1
+シンプルな階段１=Escada simples 1
+シンプルな階段２=Escadas simples 2
+木のドア1=Porta de madeira 1
+木のドア2=Porta de madeira 2
+シンプルなドア=Porta simples
+トイレのドア=Porta do banheiro
+錆びたドア1=Porta enferrujada 1
+錆びたドア2=Porta enferrujada 2
+錆びたドア3=Porta enferrujada 3
+塔のドア=Porta da torre
+窓付きのドア=Porta com janela
+小屋のドア=Porta da cabana
+分厚いドア=Porta grossa
+機械的なドア=Porta mecânica
+木の柱=Pilar de madeira
+石の柱1=Pilar de pedra 1
+石の柱2=Pilar de pedra 2
+鶏小屋=Galinheiro
+ボロ小屋=Cabana maltratada
+原始的なテント=Tenda primitiva
+テント=Tenda
+巨大なテント=Enorme tenda
+フェンス入り口=Entrada da cerca
+フェンス=Cerca
+曲がったフェンス=Cerca dobrada
+長い柵=Cerca longa
+短い柵=Cerca curta
+街の柵=Cerca da cidade
+白い柵=Cerca branca
+木の柵=Cerca de madeira
+トイレの仕切り=Divisória de banheiro
+木製プランター=Plantador de madeira
+プランター壁付=Plantador com parede
+滑り台=Slide
+ブランコ=Balanço
+錆びた遊具=Jogo enferrujado
+井戸=Nós vamos
+古びたデータ端末=Terminal de dados antigo
+データ端末=Terminal de dados
+電柱1=Poste 1
+電柱2=Poste 2
+電柱3=Poste 3
+折れた電柱=Poste de energia quebrado
+電線1=Wire 1
+電線2=Fio elétrico 2
+木製のオール=Remo de madeira
+木製のボート=Barco de madeira
+エンジン付きボート=Barco com motor

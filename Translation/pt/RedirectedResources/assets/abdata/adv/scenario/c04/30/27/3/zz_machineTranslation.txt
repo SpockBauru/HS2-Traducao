@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ねぇ、ちょっと乱暴過ぎじゃなかった？　アンタってあーいうのが好きなん？=Ei, isso foi um pouco duro, não foi? Você gosta desse tipo de coisa?
+いった……まだちょっと痛いんですけど。傷とか残ったら、どーしてくれんの？=Ainda está um pouco dorido. O que você vai fazer se isso deixar uma cicatriz ou algo assim?
+好意{0}=Favores {0}
+アタシをキズモノにした責任、取ってもらうかんね？　マジ逃がさないから。覚悟しなよ～♪=Você vai assumir a responsabilidade de me transformar em um monstro, certo? Não vou deixá-lo ir. Prepare-se...
+あんま痛いのは勘弁かなぁ～。気持ちいい時もあんだけどね～。=Não quero que isso doa muito. Há momentos em que se sente bem, no entanto ~
+享楽{0}=Prazer {0}
+アンタって割と強引なんだね。ま、痛気持ちいいってのも、悪くはないかな～。=Você é muito insistente, não é? Não tenho certeza se é uma coisa ruim que se sinta bem em estar em dor.
+しゅどーけん握りたくて頑張っちゃった感じ？　アンタもきゃわたんなとこあんじゃん♪=Você só está tentando controlar a espada? Você é um pouco pretensioso, não é?
+嫌悪{0}=Repugnância {0}
+アンタ、マジヘタクソじゃん。アタシは気持ちよくなりにきてんの！　アンタみたいなクソマゾと一緒にしないでもらえる？=Você é muito ruim nisso. Estou aqui para me sentir bem! Não me faça sentir como um maldito masoquista como você!
+あのさー、ヘタクソなら大人しくフツーにしなよ。こっち痛がってるの分かんなかった？　空気読めし……雑魚！=Sabe, se você é tão ruim, por que não age como tal? Você não vê que estou com dores? Leia o ar... Peixinho!
+隷属{0}=Escravidão {0}
+ちょっと痛かったけど、悪くなかったかも。アハッ、アタシ変態みたいなこと言ってんね♪=Doeu um pouco, mas não foi tão ruim assim. Ahaha, eu pareço um pervertido.
+まー、気持ち良ければアタシ的にはオケだから♪　アンタもあんまり気にしなくていーよ。=Bem, se é bom, está tudo bem para mim ♪ Você não precisa se preocupar muito.
+依存{0}=Depende (0)
+アタシ、わりかし痛いのイケるタチかも。アハッ、アンタに目覚めさせられちゃった的な？=Acho que sou muito bom com a dor. Aha, você me despertou, hein?
+うん、痛いのもアリなんじゃない？　なんか、激しく求めらてる感？　悪くないなーって♪=Sim, também pode ser doloroso, não pode? É como se ele estivesse exigindo isso. Não é ruim.

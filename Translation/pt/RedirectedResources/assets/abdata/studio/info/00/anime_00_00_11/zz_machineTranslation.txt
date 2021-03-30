@@ -1,0 +1,27 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+寝1=Dormir 1
+寝返り1=Virar 1
+寝2=Dormir 2
+寝返り2=Virar 2
+寝3=Dormir 3
+寝4=Dormir 4
+寝5=Dormir 5
+寝6=Dormir 6
+寝7=Dormir 7
+寝8=Dormir 8
+寝9=Dormir 9
+抱き枕=Travesseiro de corpo
+起きるin=Levantar-se In
+起きるloop=Levantar-se Loop
+飛び起きるin=Pular In
+飛び起きるloop=Pular Loop
+椅子で寝るin=Dormir em uma cadeira In
+椅子で寝るloop=Dormir na cadeira Loop
+椅子で寝るout=Dormir em uma cadeira Out
+机椅子寝in=Dormir em uma cadeira ou mesa In
+机椅子寝loop=Dormir em uma cadeira ou mesa Loop
+机椅子寝out=Dormir em uma cadeira ou mesa Out 

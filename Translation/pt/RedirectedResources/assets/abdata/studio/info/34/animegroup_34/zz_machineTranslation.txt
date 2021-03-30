@@ -1,0 +1,28 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+キャラ=Personagem
+キャラ2=Personagem 2
+スタジオ=Studio
+バトル=Batalha
+H前待機=Esperar antes de H
+女H愛撫=Mulher H carícia
+男H愛撫=Carícia de homem H
+女H奉仕=Serviço da Garota
+男H奉仕=Serviço do Garoto
+女H挿入=Penetração da Garota
+男H挿入=Penetração do Garoto
+女H特殊=Mulher H especial
+男H特殊=Homem H especial
+レズ=Lésbica
+女複数H=Feminino Multi-H
+機械H=Máquina H
+女H奉仕2=Mulher serviço sexual 2
+男H奉仕2=Homem serviço sexual 2
+女H挿入2=Mulher inserção sexual 2
+男H挿入2=Homem inserção sexual 2
+女H特殊2=Mulher sexo especial 2
+男H特殊2=Homem sexo especial 2
+女複数H2=Mulher múltiplo sexo 2
+男複数H2=Homem múltiplo sexo 2

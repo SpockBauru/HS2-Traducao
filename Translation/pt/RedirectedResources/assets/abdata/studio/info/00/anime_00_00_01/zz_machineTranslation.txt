@@ -1,0 +1,49 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+立ち1=Em pé 1
+立ち2=Em pé 2
+立ち3=Em pé 3
+立ち4=Em pé 4
+立ち5=Em pé 5
+立ち6=Em pé 6
+立ち7=Em pé 7
+立ち8=Em pé 8
+立ち9=Em pé 9
+立ち10=Em pé 10
+立ち11=Em pé 11
+立ち12=Em pé 12
+立ち13=Em pé 13
+立ち14=Em pé 14
+座り1=Sentado 1
+座り2=Sentado 2
+座り3=Sentado 3
+寝=Dormir
+ジャンプ1=Salto 1
+ジャンプ2=Salto 2
+ポーズ1in=Pose 1in
+ポーズ1loop=Pose 1 loop
+ポーズ1out=Pose 1out
+ポーズ2in=Pose 2in
+ポーズ2loop=Pose 2 loop
+ポーズ2out=Pose 2out
+ポーズ3in=Pose 3in
+ポーズ3loop=Pose 3 loop
+ポーズ3out=Pose 3out
+ポーズ4in=Pose 4in
+ポーズ4loop=Pose 4 loop
+ポーズ4out=Pose 4 fora
+ポーズ5in=Pose 5in
+ポーズ5loop=Pose 5 loop
+ポーズ5out=Pose 5out
+ポーズ6in=Pose de 6 polegadas
+ポーズ6loop=Pose 6 loop
+ポーズ6out=Pose 6 fora
+ポーズ7in=Pose 7in
+ポーズ7loop=Pose 7 loop
+ポーズ7out=Pose 7 fora
+ポーズ8in=Pose de 8 polegadas
+ポーズ8loop=Pose 8 loop
+ポーズ8out=Pose 8 fora

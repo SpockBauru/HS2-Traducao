@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+あなたには喜んでもらえて、私は気持ちよくなれて……最高のプレイでした。=Você me fez feliz, eu o fiz sentir bem... Foi uma grande peça.
+……病みつきになってしまうかもしれません。=... Você pode se tornar viciado nele.
+絡みついていた触手の感触……忘れられそうにないです……=A sensação dos tentáculos entrelaçados ao meu redor... Nunca vou esquecer...
+今夜の夢の中でも、犯されてしまうかもしれません……=Você pode ser fodido em seus sonhos esta noite...
+その……触手に襲われてる私の姿はどうでしたか？=Bem... Gostou da visão de eu ser atacado por tentáculos?
+いやらしくて、また見たいと思ったなら……いつでも、誘ってください。=Se é nojento e você quer vê-lo novamente... A qualquer momento, basta perguntar.

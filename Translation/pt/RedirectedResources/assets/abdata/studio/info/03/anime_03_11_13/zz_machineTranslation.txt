@@ -1,0 +1,44 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+立ち1=Em pé 1
+立ち2=Em pé 2
+立ち3=Em pé 3
+立ち4=Em pé 4
+立ち5=Em pé 5
+立ち6=Em pé 6
+立ち7=Em pé 7
+立ち8=Em pé 8
+立ち9=Em pé 9
+中腰1=Cintura média 1
+中腰2=Cintura média 2
+中腰3=Cintura média 3
+中腰4=Cintura média 4
+中腰5=Cintura média 5
+中腰6=Cintura média 6
+中腰7=Cintura média 7
+座り1=Sentado 1
+座り2=Sentado 2
+座り3=Sentado 3
+座り4=Sentado 4
+座り5=Sentado 5
+座り6=Sente-se 6
+座り7=Sentado 7
+座り8=Sentado 8
+座り9=Sentado 9
+座り10=Sentado 10
+座り11=Sentado 11
+座り12=Sentado 12
+寝1=Dormir 1
+寝2=Dormir 2
+寝3=Dormir 3
+寝4=Dormir 4
+寝5=Dormir 5
+寝6=Dormir 6
+寝7=Dormir 7
+寝8=Dormir 8
+椅子1=Cadeira 1
+椅子2=Cadeira 2
+椅子3=Cadeira 3

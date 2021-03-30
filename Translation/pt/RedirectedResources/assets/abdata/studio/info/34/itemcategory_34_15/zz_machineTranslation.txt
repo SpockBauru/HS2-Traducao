@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+寝具=Roupa de cama
+机=Escrivaninha
+椅子=Cadeira
+キッチンカウンター=Balcão de cozinha
+照明=Iluminação

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+す、すみません……お手洗いに寄らせて頂いても、宜しいでしょうか？=Com licença... Posso parar no banheiro, por favor?
+あの……大変申し訳ございませんが、少々お待ち頂けないでしょうか？=Um... Sinto muito, mas você poderia esperar um momento, por favor?
+すみません、お花を摘みに参っても宜しいでしょうか？=Desculpe-me, posso vir e colher algumas flores?
+少々お待ち頂け……いえ、お待ち頂く必要はございません。用事を思い出したので、失礼致します。=Se você esperar um momento... Não, não há necessidade de esperar. Acabo de me lembrar de algo, portanto, se me dão licença.
+その……このままでは行為の真っ最中に決壊してしまいそうで……お手洗いへ寄りたいのですが、宜しいでしょうか？=Bem, tenho medo de quebrar no meio do ato, e gostaria de parar no banheiro, se não houver problema.

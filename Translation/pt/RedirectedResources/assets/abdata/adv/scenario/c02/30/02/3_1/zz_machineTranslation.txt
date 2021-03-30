@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+返答肯定2普通{0}=Responder afirmativo 2 normal {0}
+やっぱり、そう思いますよね？=Você ainda pensa assim, não é mesmo?
+ふむ、同じ意見ですね。=Hmmm, eu concordo com você.
+返答肯定2好意{0}=Responder afirmação 2 favor {0}
+あなたと同じ意見でよかったです。=Estou feliz por concordar com você.
+そうですか、私と同じ考えなんですね……=Certo, então você pensa como eu...
+返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
+へぇ、あなたもですか。=Oh, você também?
+ふふっ、私の意見に合わせてくれたんですか？=Hehe... Você se ajustou à minha opinião?
+返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
+あなたと一緒の考えだなんて……=Não posso acreditar que estou pensando como você.
+……今からでも意見変えられませんか？=... Você não pode mudar sua opinião agora?
+返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
+あなたも同じ気持ちですか。=Você se sente da mesma maneira?
+そうですか、あなたも同じ感性をお持ちなんですね。=Ah, estou vendo. Você tem a mesma sensibilidade.
+返答否定2普通{0}=Responder negativo 2 normal {0}
+あら、意見の相違ですかね？=Oh, isso é uma diferença de opinião?
+私とはちょっと違う考えみたいですね。=Você parece pensar um pouco diferente do que eu penso.
+返答否定2好意{0}=Negação de resposta 2 favor {0}
+あ……そ、そうですか……=Ah... Sim, eu vejo...
+あなたはそう思ってるんですね……=Então, você acha que...
+返答否定2享楽{0}=Negação de resposta 2 gozo {0}
+あら、食い違いましたね。=Oh, tivemos uma discrepância.
+ふぅん……あなたはそう思うんですか。=Hmmm... Você acha que sim?
+返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
+そうですか、同じ考えじゃなくてよかったです。=Fico feliz por não pensarmos da mesma forma.
+よかった、同類とは思われたくないので。=Ótimo, porque não quero ser pensado como um par.
+返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
+そうですか、同じ気持ちだったらよかったんですけどね。=Bem, eu gostaria de sentir o mesmo.
+私の考えはあまり一般的ではないって事ですかね？=Isso significa que minha idéia não é muito comum?

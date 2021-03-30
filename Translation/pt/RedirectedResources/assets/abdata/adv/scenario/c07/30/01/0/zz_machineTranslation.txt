@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用{0}=Objetivo Geral {0}
+よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Onde você estava? Você deve estar sempre à minha vista, certo?
+よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Certo, eu encontrei. Você não deve me deixar por um tempo. Isso está claro?
+ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=Droga, onde diabos você tem andado por aí? Quando eu o chamo, você vem imediatamente.
+風呂{0}=Banho {0}
+風呂に入りたかったのか？　一緒に入ってやってもいいぞ？=Você queria tomar um banho? Eu poderia entrar com você se você quiser.
+おい、オレの身体を洗わせてやろうか？　光栄だろ？=Ei, você quer que eu te lave? Você ficaria honrado?
+用件{0}=Negócios {0}
+それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=Então, como você quer que eu o atormente hoje? Vou ao menos escutar seu pedido.
+ほら、やるぞ。オレは気が短いんだ。分かってるな？=Aqui, vamos fazer isso. Estou com mau humor. Você sabe disso, certo?

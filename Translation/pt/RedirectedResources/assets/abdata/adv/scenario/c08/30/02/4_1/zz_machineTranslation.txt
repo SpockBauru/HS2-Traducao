@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Posto de Conversação B Normal {0}
+もともと２人で話し合ってたことっすけどーあなたの意見が聞けてよかったっすー。=É algo que temos discutido juntos, mas fico feliz em ouvir sua opinião.
+ガールズトークで意見言うなんて酷なことさせちゃったっすねー、本当に助かったっすー。=Lamento tê-la feito fazer uma coisa tão horrível, expressando sua opinião em conversa de garota... Agradeço muito sua ajuda.
+会話事後B好意{0}=Posto de Conversação B Favor {0}
+これからのセックスの参考にさせてもらうっすよー。ご協力感謝っ。=Vou usá-lo como referência para minha vida sexual futura. Muito obrigado por sua cooperação.
+あなたのことがもー少しわかった気がしたっすよー。どーもありがとっすー。=Acho que agora o entendo um pouco mais. Muito obrigado.
+会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
+思わず確認みたいなことしちゃったっすけどー結果的によかったっすねー。=Eu fiz algo como confirmar sem pensar, mas estou contente que tenha corrido bem.
+色々参考になったっすよー。むふふー実践が楽しみっすー。=Aprendi muito com isso. Estou ansioso para praticar.
+会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
+あなたの意見が聞けたのはいいことなんじゃないすかねー。=É bom ouvir sua opinião, não é?
+いやー、まー、とりあえずー意見聞けてよかったっすー。=Bem, de qualquer forma, fico feliz em ouvir sua opinião.
+会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
+あなたの気持ちが知れたんでかなり濡れちゃったっすよー。感謝感謝っすー。=Fiquei muito molhado porque sabia como você se sentia. Muito obrigado.
+こういうのって聞いてみるもんすねー。受け身すぎるのもよくないってことすねー。=É bom perguntar sobre estas coisas. Não é bom ser muito passivo, não é?

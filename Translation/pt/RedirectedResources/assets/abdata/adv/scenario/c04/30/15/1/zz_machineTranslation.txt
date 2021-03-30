@@ -1,0 +1,15 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あ、いたいた♪　まー特に用事とかあるわけじゃなくてー、ちょっと話したいなーとか思っただけなんだけどね♪=Ah, aí está você... Bem, não tenho nenhum negócio em particular, só queria falar com você...
+好意50_汎用{0}=Favors 50_ Genéricos {0}
+あは、また来ちゃいました～♪　なーんか居心地いいんだよね～、アンタの部屋。=Haha, estou aqui novamente ♪ Eu me sinto tão confortável em seu quarto ♪
+おじゃまっしまーっす！　ねー、お菓子とかないの？　甘いもん食べたくてさ～。味はなるべく濃厚なのがいいな～、なんてっ♪=Ojamashimasu! Você tem algum doce ou alguma coisa? Eu queria comer algo doce. Quero algo com um sabor rico...
+やっほ♪　元気してた？　密かにアタシに会いたい～とか思ってたっしょ？　てわけで、来てあげたよ～♪　嬉しーっしょぉ？=Ei, como você está? Você estava secretamente esperando me ver, não estava? É por isso que vim vê-lo ♪ Você não está feliz?
+好意50続き{0}=Favores 50 continuou {0}
+あは、マジで話だけで終わるとは思わなかったわー。でも楽しかった♪　付き合ってくれてあんがとね♪=Haha, eu realmente não pensei que acabaríamos apenas conversando. Mas foi divertido. ♪ Obrigado por estar comigo ♪
+アンタ、トークもなかなかイケてるじゃん♪　退屈になったら帰ろうとか思ってたけど、全然だったわ。むしろもう一泊したいくらい。=Pensei em ir para casa se eu me aborrecesse, mas não fui. Prefiro passar mais uma noite.
+はー、めっちゃ話し込んじゃったね。気付いたら夜明けてたし……んふ、アンタ的には残念だった？　また来るから、そん時はよろ～♪=Bem, nós conversamos muito. Era de madrugada antes que eu percebesse. Mmm, você ficou desapontado? Voltarei novamente, se o fizer.
+おー、居てくれて良かった～♪　ほら、アタシが来てあげたんだから、もうちょっと嬉しそうな顔しなよ～。んふ、アンタが期待してるような展開もあるかもよ～♪=Oh, estou feliz por você estar aqui... Olhe, eu vim até você, então você deveria parecer um pouco mais feliz. Você pode ter o desenvolvimento que está esperando...
+好意80_汎用{0}=Favores 80_ Genéricos {0}

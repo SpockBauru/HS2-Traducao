@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お邪魔します。　その……一緒に入ってもいい、ですよね……？=Desculpe incomodá-lo. Tudo bem se eu entrar com você, certo?
+あなたが入っていく姿を見かけたもので。チャンスは逃せませんからね。=Eu o vi entrar. Você não pode correr riscos, você sabe.
+失礼します、身体、温まりますか？　……もっと、温まりたくはないですか？=Desculpe-me, senhor. Você gostaria de se aquecer? Você não quer ficar mais quente?
+私も入らせて貰いますね。　あなたの傍にいないと、不安なんです……=Vou ter que entrar. Eu não me sinto seguro sem você ao meu lado...

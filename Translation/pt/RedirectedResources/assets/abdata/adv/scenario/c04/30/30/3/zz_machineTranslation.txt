@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ねぇ……どの辺りから見てたん？　まさか最初からとか……ないよね？=Ei... Onde você começou a observá-lo? Você não começou do início... Não é mesmo?
+うーん、結構分かりやすく誘ったつもりだったんだけどなぁ。アンタずっと見てるだけで……以外と意気地なしだったんだねぇ……=Bem, eu achei muito óbvio. Você só olha para mim o tempo todo... E realmente não é tão entusiasta...

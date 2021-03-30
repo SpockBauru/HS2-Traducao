@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+ご用の際は、いつでもお声がけ下さい。=Se você precisar de alguma coisa, entre em contato conosco a qualquer momento.
+お手すきの際は、気軽にお声がけ頂けますと幸いです。=Se você tiver alguma dúvida, não hesite em entrar em contato conosco.
+なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+何かございましたら、ご遠慮なくお声がけ下さいね。=Se você precisar de mais alguma coisa, não hesite em nos contatar.
+その……お顔を拝見出来ただけでも、嬉しく存じます。=Estou feliz em ver seu rosto.
+なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+あら……私の思い違いだったのですね。=Oh meu... Eu devo ter me enganado.
+てっきり三人で致すのかと……勘違いをしておりました。=Pensei que seríamos nós os três... Mas estava enganado.
+なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+ただただ迷惑です。=É simplesmente irritante.
+何故、まだここにいるのですか？=Por que você ainda está aqui?
+なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+また、いつでもお声がけ下さい。=Por favor, sinta-se à vontade para nos contatar novamente a qualquer momento.
+貴方のご用を優先致しますので、何かございましたらお申しつけ下さい。=Seu negócio é nossa prioridade, portanto, por favor nos avise se houver algo que possamos fazer por você.

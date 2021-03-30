@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+名称=Nome
+晴れた空=Céu Ensolarado
+曇り空=Céu Nublado
+雨空=Céu Chuvoso
+夕暮れの空=Céu Vespertino
+夜空=Céu Norutno

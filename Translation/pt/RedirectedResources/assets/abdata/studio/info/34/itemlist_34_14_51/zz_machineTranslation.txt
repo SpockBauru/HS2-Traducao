@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+パンジー1=Amor-perfeito 1
+パンジー2=Amor-perfeito 2
+パンジー3=Amor-perfeito 3
+黄色い花=Flor amarela
+空色の花=Flores azul celeste
+蔦の葉1=Folha 1 de Tsuta
+蔦の葉2=Folha 2 de Tsuta
+蔦の葉3=Folha 3 de Tsuta
+蔦の葉4=Folha 4 de Tsuta
+蔦の葉5=Folha 5 de Tsuta
+庭の大木=Árvore grande no jardim
+松の木=Pinheiro

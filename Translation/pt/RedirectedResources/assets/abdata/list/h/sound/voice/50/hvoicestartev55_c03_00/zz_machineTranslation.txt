@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お前がしたいなら、もっと続けてもいいから=Eu posso continuar e continuar se você quiser.
+いいよ…もっと続けちゃおうか=Muito bem... Vamos continuar.

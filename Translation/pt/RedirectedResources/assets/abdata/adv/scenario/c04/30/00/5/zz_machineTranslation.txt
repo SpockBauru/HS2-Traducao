@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+おぉ……なんか面白そうな話じゃん？=Oh... Isso parece uma história interessante, não parece?
+うわ……そこまでしちゃうんだ？=Uau... Você iria tão longe?
+好意{0}=Favores {0}
+……ぁはは、アンタ過激だね。=... Hahaha, você é tão radical.
+いやぁ……アタシはそこまでは……=Bem, eu não sou assim...
+享楽{0}=Prazer {0}
+……分かる。あるあるだわそれ。=Eu sei o que você quer dizer. Isso é uma coisa.
+あーねー、そういうねー。だいたい理解した。=Ah, sim, você está certo. Eu entendi a maior parte.
+嫌悪{0}=Repugnância {0}
+なにそれ……アタシの知らない世界の話だわ。=Esse é um mundo que eu não conheço.
+ふーん。どうでもいいけど……興奮し過ぎ。=Hmm. Não me importa... Você está muito entusiasmado.
+隷属{0}=Escravidão {0}
+……あは、アンタも好きだねぇ。=... Haha, você também gosta.
+……うんうん。ちょっと分かるかも。=... Sim, sim. Acho que sei o que você quer dizer.

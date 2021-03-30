@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+その……お恥ずかしい限りなのですが、貴方のお話で高揚しまして……良かったら、このまま致しませんか？=Bem, tenho vergonha de dizê-lo, mas sua história me animou... E eu gostaria de mantê-la assim, se não se importa.
+せ、折角というのも変な話ですが、宜しければこのまま……いかがでしょうか？=Se você não se importa, eu gostaria de manter assim... O que acha?
+好意{0}=Favores {0}
+あ、貴方のことをより理解するために、今度は身体を重ねたいのですが……いかがでしょうか？=Oh, eu gostaria de conhecê-lo um pouco melhor se pudéssemos curtir.
+その……お時間は、まだ大丈夫でしょうか？　もう少し、貴方のお傍に置いて頂きたく存じます……=Bem... Seu tempo ainda é bom? Gostaria que você ficasse comigo um pouco mais...
+享楽{0}=Prazer {0}
+……お話だけでは、この熱は引きそうにないので、抱いて頂けませんか？=... Acho que não consigo me livrar desta febre apenas com uma história, então você pode me segurar?
+お話だけでなく、身体を重ね合いたく存じます。貴方も、そのつもりだったのではないですか？=Eu gostaria de fazer amor com você, não apenas falar com você. Não é isso que você sempre quis?
+嫌悪{0}=Repugnância {0}
+貴方のお話の所為で、変な気分に……責任を取って頂きます。=Sua história me colocou num clima estranho... E você é responsável por ela.
+うぅ……不本意ですが……これからお付き合いください。貴方の所為なので、拒否権はございません。=Ugh... Relutantemente... Por favor, fique comigo a partir de agora. Como a culpa é sua, você não tem o direito de recusar.
+隷属{0}=Escravidão {0}
+……我儘だとは重々承知しているのですが、どうか私を抱いては下さいませんか……？=... Sei que é egoísmo da minha parte, mas você pode, por favor, não me abraçar?
+貴方のお声を聴いているだけで、身体が疼いてしまいまして……このまま、抱いて頂けないでしょうか？=Só de ouvir sua voz faz meu corpo formigar... Você pode me abraçar assim?

@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+えと、私の顔に何かついてます？　髪型変ですか？　態度とか喋り方なら、気にしないでください……=Tenho alguma coisa na minha cara? Eu tenho um corte de cabelo estranho? Se é a sua atitude ou a forma como fala, não se preocupe...
+すみません、お話苦手なので、セ……Ｈ、しましょうか。=Desculpe, não sou muito bom a falar, então vamos apenas...
+今日も恥ずかしがる私を取っ払って本当の、スケベな私を……解放させてほしいです。=Quero que você tire minha timidez hoje e deixe a verdadeira eu, a lasciva... Se libertar.

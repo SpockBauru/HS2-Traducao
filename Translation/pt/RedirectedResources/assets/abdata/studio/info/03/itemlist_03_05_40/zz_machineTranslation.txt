@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+メカ装甲1=Armadura mecânica 1
+メカ装甲2=Armadura mecânica 2
+メカ装甲3=Armadura mecânica 3
+メカ装甲4=Armadura mecânica 4
+メカ装甲5=Armadura mecânica 5
+メカ装甲6=Armadura mecânica 6
+メカ装甲6x3=Armadura mecânica 6x3
+メカフット=Pé mecânico

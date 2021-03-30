@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お待たせいたしました……どちらに参りましょう……？=Desculpe por fazê-los esperar... Mas para que lado devemos ir?
+お待たせして申し訳ございません……少々、時間がかかってしまいましたわ……=Desculpe-me por fazê-los esperar... Mas demorei um pouco...
+うふふ、もしかして、覗いていらっしゃいました？　やっぱり……あなたの熱い視線を感じましたわ……♪=Por acaso você estava me observando? Eu sabia... Eu podia sentir seus olhos quentes em mim ♪
+遅くなりました……=Desculpe o atraso...
+デートの途中で大変失礼いたしました……=Lamento muito interromper o seu encontro...

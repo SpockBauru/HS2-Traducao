@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+触手ってすげぇんだな……あんなに気持ち良くなれるなんてさ。=Os tentáculos são incríveis... Nunca soube que eles podiam se sentir tão bem.
+これだったら、また遊んでもいいかな、うん。=Eu não me importaria de brincar com isso novamente, sim.
+すげぇ……俺、触手で遊んじまったぜ。=Puta merda... Estou brincando com tentáculos.
+触手が、こんなに面白いもんだなんて、知らなかったぜ、まったく。=Eu não sabia que tentáculos poderiam ser tão interessantes, eu juro.
+お前、こんな所に触手があるなんて、良く知ってたな？=Como diabos você sabia que existiam tentáculos neste lugar?
+ひょっとして、誰かが飼ってたりするのか、これ……=Por acaso, alguém mais tem um destes, ou...

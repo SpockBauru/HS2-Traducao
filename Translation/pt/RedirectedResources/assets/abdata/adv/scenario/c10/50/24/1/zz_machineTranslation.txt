@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+女性同士……ですか。いえ、嫌ではありませんよ。ただ少し、驚いてしまって。その……仲良くして頂けると、嬉しいです。=De mulher para mulher? Não, não é que eu não goste. Estou apenas um pouco surpreso. Bem, eu ficaria feliz se pudéssemos ser amigos.
+同性なら変な気兼ねもいりませんし……きっと上手くいくと思います。ふふ、よろしくお願いいたしますね。=Se você é do mesmo sexo, não precisa se preocupar com nada de estranho... E tenho certeza de que vai dar certo. Hehe, estou ansioso para trabalhar com você.
+好意{0}=Favores {0}
+良かった。実は、貴方のことが気になっていまして。同性なのに気持ち悪いと言われるかと心配で……でも、誘って頂けたのでもう安心です。ふふ♪=Bom. Na verdade, eu tenho pensado em você. Eu estava preocupado que você pudesse dizer que sou assustador mesmo sendo do mesmo sexo... Mas agora que você me convidou para sair, estou aliviado. Hehe...
+お誘いありがとうございます。貴方は同性から見てもとても魅力的なので……私のような者を選んで頂けて、本当に光栄です。=Obrigado por seu convite. Você é muito atraente mesmo do ponto de vista homossexual, por isso me sinto muito honrado por você ter escolhido alguém como eu.
+享楽{0}=Prazer {0}
+いいですね女同士♪　とても楽しそうです。ふふ、私の気持ちよくなれる所……全部教えますね。=É bonito, de mulher para mulher. ♪ Parece que vai ser muito divertido. Vou lhes mostrar todos os lugares que me fazem sentir bem.
+まぁっ、驚きました。貴方も私と同じ趣味とは。女の子同士でしたいとずっと思っていたのです。夢が叶ってしまいました。ふふふ♪=Bem, estou surpreso. Eu não sabia que você tinha o mesmo gosto que eu. Eu sempre quis ter uma garota com garota. É um sonho tornado realidade. Hihihi-hehe.
+嫌悪{0}=Repugnância {0}
+えっと……特殊な趣味をお持ちなのですね。私がどうこう言う事では無いと思いますが……色々と大変そうですね……=Bem... Você tem um hobby especial, não tem? Acho que não me cabe a mim dizer, mas... Parece que você está passando por muita coisa...
+女性同士でするのはそこまで気になりません。ですが……貴方は少し……いえ、こちらの問題ですので、お気になさらず。=Não me incomoda muito quando as mulheres fazem isso umas com as outras. Mas... Você é um pouco... Não, é um problema nosso, então não se preocupe com isso.
+隷属{0}=Escravidão {0}
+その……いきなりですが、私は受けがいいです。えぇと……女性同士でするなら最初にハッキリさせておいた方が、よいかと思いまして……=Bem... Isto é repentino, mas eu estou receptivo. Bem... Se vai ser entre mulheres, achei melhor deixar claro primeiro...
+女同士ですし、私に変な遠慮はいりませんよ。貴方のしたいこと全部してみてください。多少乱暴にされても……問題ありませんので。=Somos ambas mulheres, portanto, não precisa ter medo de mim. Você pode fazer o que quiser. Mesmo que seja um pouco rude... Não é problema.
+壊れ{0}=Quebrado {0}
+あなたぁ……ちゃんろわらしぉ、きもちおくれきるんれすかぁ？　たにょみましゅよぉ……=Você... Você é um pouco tímido, não é? Eu adoraria...
+はーい、それじゃぁ……はじめましゅかぁ……よろひくぅ……おねがぁしましゅねぇ……=Certo, então... Vamos começar... Por favor... Por favor...
+依存{0}=Depende (0)
+性別なんて、関係ありません。きっと、貴方と私は、とても仲良くなれます。根拠はありませんが……ふふ、女の勘、です♪=Não importa o sexo que você seja. Tenho certeza de que você e eu vamos nos dar muito bem. Não tenho nenhuma razão para acreditar nisso, mas... Hehe, a intuição feminina...
+女性同士だとしても、貴方とは何故か特別な繋がりを感じます。ふふ、前世で一緒だったりしたのでしょうか？=Apesar de sermos ambas mulheres, sinto uma conexão especial com você por alguma razão. Hehe... Vocês estiveram juntos em uma vida anterior?

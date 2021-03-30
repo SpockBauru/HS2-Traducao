@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+あれ、あなたさんもお風呂？　いーですねー、やっぱりお風呂は大切ですもんねー！=Oh, você também está tomando banho? Sim, é muito importante tomar um banho, não é?
+ここにいるってことはお風呂に入るんですよね？=Se você está aqui, isso significa que você está tomando banho, certo?
+風呂普通用件{0}=Assuntos normais de banho {0}
+ところでー、もしかしてわたしに用事とかありましたか？=A propósito, por acaso você tinha algum negócio comigo?
+あ、なんか私に話しでもあったりします？=Oh, há alguma coisa sobre a qual você queira falar comigo?
+風呂好意{0}=Favores de banho {0}
+あは、こんなとこであなたさんに会えるなんて！　お風呂が楽しくなりそーですー！=Haha, não acredito que estou me encontrando com você aqui! Vou aproveitar meu banho!
+わたし、いつもお風呂の中であなたさんのことを考えてるんですよ。だからー、気持ちが通じたんですかねー、なんちゃって、えへへ。=Estou sempre pensando em você no banho. É por isso que, acho que meus sentimentos chegaram até você.
+風呂好意用件{0}=Favoritos do banho {0}
+で、もしかしてなにか話でもあります？=Então, há algo sobre o qual você quer falar?
+なにか用事とかあるなら聞きますよー！=Se você precisar de alguma coisa, estou aqui!
+風呂享楽{0}=Desfrutando do banho {0}
+うーん、もしかしてとは思うんですがー、わたしと一緒に入りたいなんて思っちゃったりしてません？=Hmmm... Não sei se é possível... Mas você acha que talvez queira se juntar a mim?
+ここで会ったが百年目！　それじゃ一緒に入ります……なんちゃってー！=Estamos aqui há cem anos! Então eu vou com você... Que surpresa!
+風呂享楽用件{0}=Desfrutando do banho {0}
+む……さてはわたしに何か用事がありますね？　お顔に出てますよー！=Então você tem algum negócio comigo, não tem? Está em toda a sua cara!
+なんか聞きたいことでもあれば、言ってくれていーですよ？=Se houver algo que queira me perguntar, é só me avisar, certo?
+風呂嫌悪{0}=Aversão ao banho {0}
+えー、なんでこのタイミングでここにいるんですかー。=Eh, por que você está aqui neste momento?
+もー、せっかくのお風呂なのにー……なんかいきなり疲れちゃったなー。=Estou tão cansado de repente...
+風呂嫌悪用件{0}=Abominação do banho {0}
+なんか言いたいことでもあるんですか？　だったらどーぞ。=Você tem algo a dizer? Se for o caso, vá em frente.
+話があるなら聞きますけど……手短にしてくださいね。=Se você precisar falar, sou todo ouvidos, mas... Mantenha-o curto.
+風呂隷属{0}=Escravidão no banho {0}
+あなたさんのお顔を見たら、なんかお風呂が恥ずかしくなっちゃいますよー。理由は秘密ですけどね♪=Quando eu vejo seu rosto, fico meio envergonhado de tomar banho! A razão é um segredo, porém.
+お風呂で会うって……結構ドキッとするイベントじゃないですかー？　えへへ。=Reunião no banho... É um evento muito emocionante, não é? Ehehe.
+風呂隷属用件{0}=A escravidão no banho importa {0}
+あ……えっと……わたしを呼び止めてくれたってことは、なにかお話があるってことですよねー？=Ah... Bem... Se você me impediu, significa que você tem algo a me dizer, certo?
+もしかしてわたしに用事とかあったり？　だったらなんでも聞いちゃいますよー！=Por acaso você tem algum negócio comigo? Se for o caso, eu lhe perguntarei qualquer coisa!

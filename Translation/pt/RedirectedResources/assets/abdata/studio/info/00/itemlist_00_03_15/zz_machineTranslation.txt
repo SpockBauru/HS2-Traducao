@@ -1,0 +1,45 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+チェスト=Peito
+畑 4マス=Campo 4 quadrados
+畑 6マス=Campo 6 quadrados
+畑 8マス=Campo 8 quadrados
+薬台=Farmacia
+木のクローゼット=Armário de madeira
+脱衣かご=Cesta de despir
+ペットマット=Tapete para animais
+ペット合成装置=Sintetizador Pet
+蓄音機=Gramofone
+ジュークボックス=Juke-box
+高級なコンポ=Componente de luxo
+暖炉=Lareira
+ストーブ=Forno
+流木の棚=Prateleiras de madeira flutuante
+木の本棚=Estante de madeira
+カラーボックス=Caixa de Cores
+機械的な本棚=Estante mecânica
+錆びた棚=Prateleiras enferrujadas
+お店の棚=Prateleiras de loja
+扇風機=Ventilador
+テレビゲーム=Videogame
+テレビ=Televisão
+水槽=Aquário
+機械的な水槽=Aquário mecânico
+パレット=Paleta
+木のバケツ=Balde de madeira
+バケツゴミ箱=Lata de lixo balde
+プラスチックゴミ箱=Lata de lixo de plástico
+木の箱１=Caixa de madeira 1
+木の箱２=Caixa de madeira 2
+ホログラム１=Holograma 1
+ホログラム２=Holograma 2
+ホログラム３=Holograma 3
+ポンプ=Bombear
+コンテナ=Recipiente
+光る床=Chão brilhante
+自販機=Maquina de vendas
+壊れた発電機=Gerador quebrado
+古びた冷蔵庫=Geladeira velha
+魔女の大鍋=Caldeirão de bruxa

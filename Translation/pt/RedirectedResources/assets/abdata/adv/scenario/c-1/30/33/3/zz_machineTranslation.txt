@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+事後{0}=Após o fato {0}
+んん……お客様……気持ちよくして頂き感謝致しますが……あまり激しい行為を求められては、仕事に支障をきたしてしまいますので……=Bem, senhor... Obrigado por me fazer sentir tão bem... Mas se você me pedir para fazer algo muito violento, isso vai interferir no meu trabalho...
+ふぅ……申し訳ございません、少々感じすぎてしまったみたいで……お客様には、感服致します……=Hmm... Desculpe, acho que me senti um pouco demais... E o admiro, senhor...

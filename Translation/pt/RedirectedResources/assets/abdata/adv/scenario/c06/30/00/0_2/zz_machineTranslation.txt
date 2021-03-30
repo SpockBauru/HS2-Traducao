@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+きゃっ……あなたもいらしてたのですね、そ、その……こんにちは……=Oh, você também está aqui, quero dizer... Olá...
+まあ……そ、そんなに見ないでくださいまし……=Bem... Não olhe tão duro...
+風呂普通用件{0}=Assuntos normais de banho {0}
+もしかして、私をお探しでしたの……？=Você estava me procurando, não estava?
+それで……何かご用ですか？=Então... O que posso fazer por você?
+風呂好意{0}=Favores de banho {0}
+お部屋まで誘いに行ったのですが、あなたもお風呂にいらしたのですね……=Fui ao seu quarto para convidá-lo para sair. Você também estava no banho...
+まあ……もう、エッチな視線で挨拶するのはやめてくださいまし……=Bem... Por favor, não me cumprimente mais com um olhar malicioso...
+風呂好意用件{0}=Favoritos do banho {0}
+わざわざ私を探しに来てくださったのですか？　嬉しいですわ……=Você veio de tão longe para me encontrar? Fico feliz que o tenha feito...
+今日はあなたに会える気がしていましたの、お話いたしませんか……？=Tive a sensação de que o veria hoje. Gostaria de conversar?
+風呂享楽{0}=Desfrutando do banho {0}
+ご機嫌よう……お互いの身体を知っているせいかお風呂で会うと不思議な気持ちになりますわ……♪=Bom dia... É estranho nos vermos no banho porque conhecemos os corpos um do outro...
+まさかお風呂にいらっしゃったなんて……♪　もちろん偶然ですわよ……？=Eu não esperava vê-lo no banho... É claro que é apenas uma coincidência...
+風呂享楽用件{0}=Desfrutando do banho {0}
+少しお話いたしませんか？　もちろん……うふふ、お話以外のことでも、大歓迎ですけれど……♪=Você gostaria de ter uma pequena conversa? É claro que você está convidado a falar sobre qualquer coisa, exceto...
+性のお勉強をしにいらっしゃったのですか……？=Você está aqui para aprender sobre sexo?
+風呂嫌悪{0}=Aversão ao banho {0}
+きゃっ……=Ohhh...
+きゃあっ……あ、あなた……=Oh, você... Você...
+風呂嫌悪用件{0}=Abominação do banho {0}
+何か……ご用ですか……？=Posso ajudá-los?
+なんですの……？=O que é isso?
+風呂隷属{0}=Escravidão no banho {0}
+こんなところでお会いするなんて……ご一緒しても宜しいですか……？=Não acredito que vou encontrá-lo aqui... Posso me juntar a você?
+まあ……宜しければ、お背中をお流しいたしますわ。=Bem... Se você não se importa, eu gostaria de lhe dar uma esfoliação nas costas.
+風呂隷属用件{0}=A escravidão no banho importa {0}
+私に何かご用ですか……？=O que posso fazer por você, senhor?
+それでは、何なりとお申しつけくださいまし。=Então, por favor, sinta-se à vontade para pedir qualquer coisa.

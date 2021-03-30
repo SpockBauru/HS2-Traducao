@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+針葉樹=Conífera
+針葉樹(雪)=Conífera (neve)
+針葉樹(装飾)=Conífera (Decoração)

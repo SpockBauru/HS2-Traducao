@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+いや、ないない。そういうの求めないから。アタシが求めてるのは……アンタのカラダ♪=Não, não, não. Eu não estou procurando por isso. O que eu procuro é o seu corpo...
+は？　そんなん許されないから。アタシと会ったらヤルのは当たり前でしょ？=O que é isso? Você não pode fazer isso. Se você me vê, você tem que me foder, certo?

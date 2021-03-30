@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お待たせ。大丈夫よ、もう用事は済んだから。=Ei, pessoal. Está tudo bem. Já terminei aqui.
+ちょっと待たせちゃったかしら？　ごめんなさい。=Espero não o ter feito esperar muito tempo. Sinto muito.
+ちょっと気持ちいい用事だったんだけど……あなたも呼べば良かったわね。=Foi apenas um pequeno recado agradável... Mas eu deveria ter convidado você também.
+どこに行っていたかなんて……あなたには関係ないわ。=Onde você esteve... Não é da sua conta.
+あなたを待たせてると思ったら、なんだか落ち着かなかったわ。=Foi um pouco inquietante pensar que eu estava fazendo você esperar.

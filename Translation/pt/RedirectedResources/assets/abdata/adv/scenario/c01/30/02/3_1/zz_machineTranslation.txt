@@ -1,0 +1,33 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+返答肯定2普通{0}=Responder afirmativo 2 normal {0}
+あなたも同じ考えなのね。=Vejo que você é da mesma opinião.
+あなたも同じ意見なのね。=Vejo que você compartilha minha opinião.
+返答肯定2好意{0}=Responder afirmação 2 favor {0}
+良かったわ、あなたも同じ意見で。=Ótimo, porque você concorda comigo.
+あなたも同じ考えだなんて嬉しいわ。=Estou tão feliz que você pense o mesmo.
+返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
+やっぱり、あなたもそう思うのね。=Eu sabia que você se sentiria da mesma maneira.
+そうよね、あなたも同じで良かったわ。=Eu sei, e estou feliz que você seja o mesmo.
+返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
+そうなの、あなたも同じなのね。=Ah, sim, você é o mesmo.
+あなたも同じ意見だったのね、ふぅん。=Você tinha a mesma opinião, hmmm.
+返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
+あなたも同じ意見だなんて、すごく嬉しいわ。=Estou tão feliz que você compartilhe minha opinião.
+あなたの意見も同じだったなんて、最高に嬉しいわ。=Estou na lua que você compartilha minha opinião.
+返答否定2普通{0}=Responder negativo 2 normal {0}
+あら、考え方が違うのね。=Oh, você pensa diferente.
+あなたは違う意見なのね。=Vejo que você tem uma opinião diferente.
+返答否定2好意{0}=Negação de resposta 2 favor {0}
+そういう考え方もあったのね。=Então era assim que você estava pensando.
+あなたはそういう意見なのね。=Esta é a sua opinião.
+返答否定2享楽{0}=Negação de resposta 2 gozo {0}
+なるほど、そういう考え方もあったのね。=Entendo. É uma maneira de pensar sobre isso.
+そういう意見もあるのね。=Então, esta é a opinião.
+返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
+ふーん……違う意見なのね。=Hmmm... Opinião diferente, eu vejo.
+返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
+あら、意見が違ってしまったわね。=Oh, nós discordamos, não discordamos?
+あなたは違う考え方なのね。=Você pensa diferente.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelúdio B normal {0}
+こんにちは。私たちに何かご用でしょうか？=Olá. O que podemos fazer por você?
+どなたかお探しなのでしょうか？=Você está procurando por alguém?
+前フリB好意{0}=Prelúdio B Favor {0}
+もしお時間が宜しければ、お話にお付き合い頂けませんか？=Se você tiver um momento, gostaria de ter a gentileza de se juntar a nós para uma conversa?
+彼女と話に花を咲かせておりました。良かったら、貴方もいかかがですか？=Estive conversando com ela. Você gostaria de se juntar a nós?
+前フリB享楽{0}=Prelúdio B Kyouraku {0}
+うふふ、何か破廉恥な事を考えていませんか？=Hihihi-hehe. Você tem alguma idéia de como isso é um roubo?
+貴方から淫靡な気配を感じるのですが……気のせいでしょうか？=Sinto um sinal de lascívia vindo de você... Ou é apenas minha imaginação?
+前フリB嫌悪{0}=Prelúdio B Disgust {0}
+はぁ……ご用件をどうぞ。=Huh... Posso ajudá-los?
+女性がいれば、直ぐに寄ってくるのですね。=Se há uma mulher, você se aproxima dela.
+前フリB隷属{0}=Prelúdio B Escravo {0}
+彼女か私にご用向きでしょうか？=Você gostaria de vê-la ou a mim?
+彼女にご用でしたら、私は席を外しますが……？=Se você precisar dela, eu estarei fora de seu controle?

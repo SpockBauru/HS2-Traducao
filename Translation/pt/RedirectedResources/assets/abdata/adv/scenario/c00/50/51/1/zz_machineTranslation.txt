@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+私の嗜虐心は満たされました。本当にありがとうございます。=Meu paladar tem sido satisfeito. Muito obrigado.
+また、責められたいご気分の時は、何時でもお誘いください。=Se você estiver com vontade de ser punido novamente, por favor, convide-me a qualquer momento.
+人を責めることは、何故あんなに楽しいのでしょうね？　不思議です。=Por que é tão divertido punir as pessoas? É um mistério.
+理由は分かりませんが、心が満たされることは確かなので、これからもよろしくお願いします。=Não sei por que, mas tenho certeza de que enche meu coração de alegria, portanto, por favor, continue assim.
+感じているあなたの声をもっと聞いていたかったのですが……次回にお預けですね。=Eu adoraria ter ouvido mais de seus sentimentos... Mas acho que vou deixar isso para a próxima vez.
+いつでもお誘いを待っていますので、お気軽に声をかけて下さい=Estamos sempre à espera de seu convite, portanto sinta-se à vontade para entrar em contato conosco!

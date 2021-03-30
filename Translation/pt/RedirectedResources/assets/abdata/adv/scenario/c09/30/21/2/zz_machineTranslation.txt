@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+あっ、やだっ、どうして逃げるんですかっ……別に責めたりしませんからっ、どうか、片手間でもいいからっ、わたしのことも愛してくださいーっ！=Não estou te acusando de nada, mas por favor me ame também, mesmo que seja só por um momento!
+待ってっ、逃げないでくださいっ！　わたしっ、あなたさんがいないとダメなんですっ！　本当の本当にダメなんですっ！　だから……お願い、愛してぇ……=Espere, por favor, não fuja! Eu não sirvo para nada sem você! Estou muito, muito ferrado! Então, por favor, me ame...
+逃げ出した=Ele escapou.

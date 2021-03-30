@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ふぅ、マーキングにしては少々出しすぎのような気もしますが……=Hmm, parece um pouco excessivo para marcações...
+このまま放っておいたら、精液の匂いが染みついてしまいそうですね。=Se eu o deixar assim, o cheiro do sêmen se infiltrará.
+好意{0}=Favores {0}
+私で興奮してくださった証だと思うと、とても誇らしいですね。=Estou tão orgulhoso de ser uma prova de sua excitação comigo.
+こんなにも出して頂けるとは……女冥利につきますね。=É o sonho de uma mulher a ser servida tanto.
+享楽{0}=Prazer {0}
+精液でヌルヌルになった私の肢体……いかがですか？=Você gostaria de ver meu corpo escorregadio com sêmen?
+ぴゅっぴゅぴゅっぴゅとあなたが射精するたび、嗜虐心がそそられて……とても愉しかったです。=Cada vez que você ejaculava com um banco de banco de banco, meu paladar era despertado... Era muito divertido.
+嫌悪{0}=Repugnância {0}
+すぐにシャワーを浴びたいので、これで失礼します。=Preciso tomar um banho em breve, portanto, se me derem licença.
+好ましくない相手が絶倫なほど厄介なものはありませんね。=Não há nada mais irritante do que um parceiro indesejável que é um lunático delirante.
+隷属{0}=Escravidão {0}
+もしこれだけの量が子宮へと注がれたのならば……着床必須ですね。=Se este tanto foi derramado no útero... A implantação é uma obrigação.
+早く身体を流さなければ……染み付いた匂いで、常に発情してしまいそうです。=Se eu não lavar meu corpo logo... O cheiro que se infiltra sempre me fará entrar em cio.
+依存{0}=Depende (0)
+あなたが放った子種です。　私が受け止めるのは当然の義務です。=Esta é a semente que você liberou. É meu dever natural aceitá-lo.
+折角あなたに出していただいた精液です、暫くこのままにしておくのもよさそうですね。=É o sêmen que você tirou, e parece ser bom deixá-lo assim por um tempo.

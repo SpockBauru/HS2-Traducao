@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+返答肯定1普通{0}=Responder afirmativo 1 normal {0}
+あぁ、そういうことだ。=Sim, é disso que estou falando.
+そうだ、分かってるじゃねぇか。=Sim, você sabe do que estou falando.
+返答肯定1好意{0}=Responder afirmação 1 favor {0}
+あぁ、当たり前だな。=Sim, isso é óbvio.
+その通りだ。それ以外は考えられん。=Você está certo. Não consigo pensar em mais nada.
+返答肯定1享楽{0}=Responder Afirmação 1 Desfrute {0}
+ああ、話が分かるな。=Sim, você conhece a história.
+そうだな。そこは否定しない。=É isso mesmo. Não há como negar isso.
+返答肯定1嫌悪{0}=Responder afirmativamente 1 repugnância {0}
+チッ、一応肯定はしてやる。=Tsk, eu lhe darei o benefício da dúvida.
+オマエと一緒なのが気に食わないが。その通りだ。=Eu não gosto do fato de você estar com ele. Você está certo.
+返答肯定1隷属{0}=Responder Afirmação 1 Escravidão {0}
+ハッ、オマエと意見が合うとはな。=Ha, eu nunca pensei concordar com você.
+まぁ、そんなところだ。=Bem, é só isso.
+返答否定1普通{0}=Negação de resposta 1 normal {0}
+それは無い。=Não é.
+いや、ありえないな。=Não, não pode ser.
+返答否定1好意{0}=Resposta Negativa 1 Favor {0}
+そうか？　もう一度よく考えろ。=Sério? Pense novamente.
+違うな。オマエは分かってない。=Não, você não tem. Você não sabe do que está falando.
+返答否定1享楽{0}=Negação de resposta 1 prazer {0}
+いいや、そうじゃないだろ。=Não, você não tem.
+何故そうなるのか、逆に聞きたいな。=Eu gostaria de perguntar por que isso seria, ao contrário.
+返答否定1嫌悪{0}=Negação de resposta 1 repugnância {0}
+オマエがそう思うなら、そうなんだろうよ。=Se é isso que você pensa, então é isso que você é.
+くだらん。話し合うだけ無駄だな。=Bobagem. Não vale a pena falar sobre isso.
+返答否定1隷属{0}=Negação de resposta 1 escravidão {0}
+そうは思わん。価値観が違うな。=Acho que não. Você tem valores diferentes.
+どうしてそうなる？　意味がわからん。=Como isso pode ser? Eu não entendo.

@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+焚火=Fogo
+かまど=Kamado
+屋外調理セット=Conjunto de cozinha ao ar livre
+キッチン=Cozinha
+システムキッチン=Cozinha de sistema
+カウンター=Contador
+カウンターシンク=Pia do balcão
+お店のカウンター=Balcão da loja
+バーカウンター1=Balcão de bar 1
+バーカウンター2=Balcão de bar 2
+バーカウンター角=Canto do balcão do bar
+受付カウンター=Balcão de recepção
+長い受付カウンター=Longo balcão de recepção
+おしゃれなカウンター=Balcão da moda
+シンプルカウンター1=Contador simples 1
+シンプルカウンター2=Contador simples 2
+シンプルシンク=Pia simples
+屋外用洗面器=Lavatório externo

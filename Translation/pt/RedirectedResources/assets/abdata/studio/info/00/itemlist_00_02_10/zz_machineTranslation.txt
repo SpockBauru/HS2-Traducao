@@ -1,0 +1,32 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+流木の机=Mesa de madeira flutuante
+木の長机=Mesa longa de madeira
+木の机=Escrivaninha de madeira
+木の小棚=Prateleiras de madeira
+引き出し机=Mesa de gaveta
+お店の机=Balcão de loja
+屋外用用机=Mesa ao ar livre
+ケーブルドラム=Tambor de cabo
+派手な机=Mesa chamativa
+ガラスの机=Mesa de vidro
+ガラスの長机=Mesa longa de vidro
+移動式の台=Plataforma móvel
+樽=Barril
+ドラム缶=Tambor
+巨大なバッテリー=Bateria enorme
+機械的な机=Mesa mecânica
+機械的な机・角=Mesa / canto mecânico
+機械的な机・大=Mesa mecânica / grande
+大きな換気口=Grande abertura de ventilação
+流木の食卓=Mesa de jantar em madeira flutuante
+木の食卓=Mesa de jantar de madeira
+屋外用の食卓=Mesa de jantar ao ar livre
+派手な食卓=Mesa de jantar chamativa
+機械的な食卓=Mesa de jantar mecânica
+本と流木机=Livros e escrivaninhas de madeira flutuante
+本と木の机=Livro e mesa de madeira
+本と派手な机=Livros e escrivaninhas chamativas
+事務机=Mesa de trabalho

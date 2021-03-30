@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+少しは痛いのにも慣れてきましたけど……だ、だからってやりすぎないでくださいよ？=Acostumei-me a um pouco de dor, mas... Isso não significa que você deva exagerar, está bem?
+ふん、私だっていつまでも痛がってるわけじゃないですからね？=Huh, eu também não vou ficar sofrendo para sempre, vou?
+好意{0}=Favores {0}
+痛いのもまぁ、受け入れてしまえばそれまでなんですよね。　……あなた以外にはされたくないですが。=E a dor, bem, se você a aceita, é isso, não é? Não quero ser feito por ninguém além de você.
+愛のない鞭は痛いだけですから、しっかり私に愛を込めて痛くしてくださいね？=Um chicote sem amor só dói, então certifique-se de fazer doer com amor por mim, está bem?
+享楽{0}=Prazer {0}
+痛みを感じる事が出来れば、もう勝ったも同然ですからね、ふふん♪=Se você pode sentir a dor, você já ganhou. Hehe. ♪
+まぁ、痛気持ちいい事ならいくらでも歓迎しますよ。=Bem, você é bem-vindo a tantas coisas dolorosas quanto quiser.
+嫌悪{0}=Repugnância {0}
+はぁ、アレだけ痛い事してれば、誰だって慣れざるを得ないですよ。=Huh, se você faz tantas coisas dolorosas, todos têm que se acostumar com isso.
+ふん、これ以上痛いことをしても無駄ですからね？=Hmm. Você não pode me machucar mais do que já fez, pode?
+隷属{0}=Escravidão {0}
+今日も痛いことするんですよね？　……してくれますよね？=Você vai fazer algo doloroso hoje, não vai? Você vai fazer, não vai?
+私になら何をしたっていいと思ってませんか？　……間違ってはないですけど。=Você acha que não pode fazer nada comigo? Não estou errado.

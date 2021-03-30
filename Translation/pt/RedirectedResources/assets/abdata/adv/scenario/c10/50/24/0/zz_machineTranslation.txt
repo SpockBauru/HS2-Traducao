@@ -1,0 +1,45 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+は、はじめまして……この度はご指名頂きありがとうございます。貴方の期待に応えられるよう、努力いたします。=É um prazer conhecê-lo... Obrigado por me escolher. Farei todos os esforços para atender às suas expectativas.
+えぇと、本当に私でいいのですか？　ここには他にも魅力的な方がたくさん……いえ、何でもありません。精一杯頑張らせて頂きます！=Bem, você tem certeza de que sou eu? Há muitas outras pessoas atraentes aqui... Não, não é nada. Farei o meu melhor!
+どうも。貴方が私のお相手……ですよね？　すみません。実は少し……緊張しています。もし、変なことをしてしまっても許してくださいね？=Hi. Você é meu... Sócio, não é? Sinto muito. Na verdade, estou um pouco... Nervoso. Por favor, me perdoe se eu fizer algo estranho, ok?
+好意{0}=Favores {0}
+ふふ……すみません、いきなり笑ったりして。貴方のお相手ができるのだと考えたら、つい……不束者ですが、どうかよろしくお願いいたします。=Desculpe-me por ter rido do nada. Eu estava pensando no fato de que eu poderia ser seu parceiro... Eu não sou muito bom nisso, mas por favor me dê seu apoio.
+初対面でこんな事を言うのは失礼かもしれませんが、何だか貴方とは初めて会ったという気がしません。きっと私達は……良い関係になれると思います。=Pode ser rude dizer isto em nossa primeira reunião, mas eu não sinto que nunca o conheci antes. Tenho certeza de que teremos um... Bom relacionamento.
+あの……一目惚れってあると思いますか？　えぇと、これからその、色々すると思うので……お互いの価値観を知ったおいた方が良いかと……=Bem... Você acha que o amor existe à primeira vista? Bem, nós vamos fazer muitas coisas, então... É melhor conhecer os valores um do outro...
+享楽より20～49{0}=20-49{0}
+さて、貴方は攻めと受け、どちらが好きですか？　私はどちらでも構いません。お互い初対面ですので、色々と試してみましょう。=Então, qual você prefere, um atacante ou um receptor? Eu também não me importo. Nunca nos conhecemos antes, portanto, vamos tentar coisas diferentes.
+貴方……なんだかいい匂いがしますね。もっと近くで嗅いでいいですか？　なんて……すみません。これでは私、痴女みたいですね♪=Você... Você tem um cheiro agradável. Posso sentir o cheiro mais próximo? Sinto muito. Sinto-me um pervertido agora...
+享楽より50～79{0}=De 50 a 79{0}
+あっ……！　本日はよろしくお願いします！　私、なんだか気が早ってしまっていて……失礼なことをしないように気を付けますね。=Ah! Estou ansioso para trabalhar com você hoje! Estou com um pouco de pressa... Vou ter cuidado para não ser rude.
+あの……もっと近くに寄ってもいいですか？　ふふ。私スキンシップが好きな方なので……距離感が近過ぎたりしたら、言ってください。=Hum... Posso chegar mais perto? Hehe. Eu sou o tipo de pessoa que gosta de skinship, então... Se a distância for muito curta, por favor, me avise.
+享楽より80～100{0}=De 80-100{0}
+はじめまして。本日のお相手は貴方ですね？　初対面ですが変に気を使わず楽にしてください。その方がお互いに、気持ちよくなれると思いますから。=Prazer em conhecê-lo. É com você que vou me encontrar hoje, certo? Nunca nos encontramos antes, mas, por favor, sinta-se à vontade. Acho que isso nos fará sentir mais confortáveis.
+その、急かすわけでは無いのですが……堅苦しい挨拶などは面倒ですよね？　こちらはもう、いつでも始めて頂いて構いませんよ？=Bem, não quero apressá-lo, mas... É um pouco incômodo ter uma saudação formal, não é? Você pode começar isso a qualquer momento.
+嫌悪より20～49{0}=De repugnância 20-49{0}
+どうしてでしょう。その、上手くは言えないのですが……あまり気持ちが乗らないというか。すみません、失礼ですよね。=Eu me pergunto por quê. Bem, eu não posso dizer, mas... É que não me sinto muito confortável. Sinto muito, isso é indelicado.
+はじめまして。その……初対面ですし、上手くはいかないと思いますが……それがまぁ、普通ですよね？=Prazer em conhecê-lo. Bem... Nunca nos conhecemos antes, e tenho certeza que não vai correr bem, mas... Isso é, bem, normal, não é?
+嫌悪より50～79{0}=50-79 de repugnância {0}
+なんでしょう……こう言っては失礼なのですが……私達はきっと上手くいかないと思います。何故だかそう……確信できてしまうのです。=Não sei... E não quero ser indelicado... Mas não acho que vamos conseguir. Não sei por que estou tão... Certo.
+こういう場所ですが、だからこそ相手は選びたいものです。まぁ、何事も挑戦と……前向きに捉えます。=É um lugar como este, mas é por isso que você quer escolher seu parceiro. Bem, eu aceito qualquer coisa como um desafio... Positivamente.
+嫌悪より80～100{0}=80-100{0} de repugnância.
+はぁ……私は運が無いのかもしれませんね。いえ、独り言です。お気になさらず。何を言おうと……結局することは同じですから……=Huh... Talvez eu esteja sem sorte. Não, estou apenas falando comigo mesmo. Não se preocupe com isso. Não importa o que eu diga... No final, o que eu faço é o mesmo...
+あの……どうしても私でなければいけませんか？　こういう事はお互いの気持ちも大事ですよ？　はぁ、自分勝手な真似だけはしないでくださいね。=Hum... Tem mesmo que ser eu? É importante ter sentimentos mútuos sobre estas coisas, sabe? Huh, por favor, não seja egoísta.
+隷属より20～49{0}=Da servidão 20-49{0}
+はじめましてなので本日は貴方にお任せします。遠慮せず、貴方のしたいことをしてみてください。それで、私達の相性が分かるかと思いますので。=É um prazer conhecê-lo, por isso, deixo isso para você hoje. Por favor, não hesite em fazer o que você quer fazer. É assim que saberemos se somos compatíveis.
+えぇと、軽く自己紹介をいたしますね？　私はその、受け身な性格なので……貴方にリードして頂けると大変助かります。=Bem, eu gostaria de me apresentar brevemente, você não gostaria? Sou uma espécie de pessoa passiva, portanto seria muito útil se você pudesse assumir a liderança.
+隷属より50～79{0}=50-79{0} da servidão.
+最初に聞いておきますね。攻めるのがお好きですか？　その、折角するのなら、その辺りの不一致があってはいけないかと思いまして……=Vou perguntar primeiro. Você gosta de atacar? Bem, sabe, se vamos fazer isso ocasionalmente, achei que não deveríamos ter nenhuma discrepância nessa área.
+私達は初対面ですが、遠慮は無しでお願いします。恥ずかしながら少し強くされる方が好きなので、思い切りして頂いて……大丈夫です。=Nunca nos encontramos antes, mas por favor não se retraia. Tenho vergonha de dizer que prefiro ser empurrado um pouco mais, por isso, por favor, saiam todos... Está tudo bem.
+隷属より80～100{0}=80-100{0} da servidão.
+少し引かれてしまうかもしれないのですが……私のことは乱暴に扱って頂いて構いません。そういったことには……興味がありせんか？=Sei que isto pode soar um pouco estranho, mas... Você pode ser duro comigo. Você está interessado em... Esse tipo de coisa?
+貴方は私にどんな事をしてくれるのですか？　きっと、とても素敵な事ですよね？　ふふ、私、期待してしまっても……いいですか？=O que você vai fazer por mim? Tenho certeza de que é muito bom, não é? Hehe, posso ter minhas esperanças?
+壊れ{0}=Quebrado {0}
+あなたぁ……ちゃんろわらしぉ、きもちおくれきるんれすかぁ？　たにょみましゅよぉ……=Você... Você é um pouco tímido, não é? Eu adoraria...
+はーい、それじゃぁ……はじめましゅかぁ……よろひくぅ……おねがぁしましゅねぇ……=Certo, então... Vamos começar... Por favor... Por favor...
+依存{0}=Depende (0)
+私、なんとなく分かります。貴方は運命の人。きっと、前世か何かで……私達は繋がったことがあるのだと思います。=Eu meio que entendo. Você é o único. Tenho certeza de que em uma vida passada ou algo assim... Estivemos conectados.
+私って、他人に依存するタイプなんです。ですから、一度でも抱かれてしまったら……きっと貴方しか見えなくなってしまうと思います。=Eu sou o tipo de pessoa que depende dos outros. Portanto, uma vez que eu esteja em seus braços... Estou certo de que só o verei.

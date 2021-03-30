@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+え？　なんとなく顔見に来ただけ？　アンタも良くわかんないことするねぇ……=O quê? Você veio apenas para me ver? Você faz coisas que eu também não entendo...
+あっそ……って、マジで何も用ないの？=Ah, sim... E você realmente não tem utilidade para nada?
+好意{0}=Favores {0}
+急用でも出来た？　まぁいいや、また何かあったら呼んで。=Qual é a pressa? Bem, não. Ligue-me se precisar de mais alguma coisa.
+ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Hmm? O que há com a consideração? De qualquer forma, isto está bem assim?
+享楽{0}=Prazer {0}
+なに？　緊張してんの？　かわたんかよ～♪=O quê? Você está nervoso? Você é um ajoelhado...
+ん、りょ。んじゃ、適度に欲求不満になったら、またアタシんとこ来て。=Claro. Então, quando você ficar moderadamente frustrado, volte para mim.
+嫌悪{0}=Repugnância {0}
+なにそれ。何も用がないなら、最初から顔見せないでくれる。=O que é isso? Se você não tem nada a ver comigo, não mostre nem mesmo sua cara.
+うん、まぁそれが懸命な判断じゃん？　アタシもアンタには用無いし。=Sim, bem, é uma boa decisão, certo? Eu também não preciso de você.
+隷属{0}=Escravidão {0}
+えー、放置プレイってやつですかー？　なんか冷たくなーい？=Eh, é uma espécie de brincadeira negligente? Não está um pouco frio?
+ありゃ、ちょっと肩透かし。まぁ、何か用があったら気軽に話しかけてよ。=Sim, é um pouco decepcionante. Bem, se você precisar de alguma coisa, sinta-se à vontade para falar comigo.

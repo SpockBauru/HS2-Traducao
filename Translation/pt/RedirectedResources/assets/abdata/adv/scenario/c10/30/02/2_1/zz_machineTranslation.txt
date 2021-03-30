@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+悩み所ですね……貴方はどう思いますか？=É difícil... O que você acha?
+貴方の意見を聞いてみたいです。遠慮なさらず、どうぞ……=Eu gostaria de ouvir o que você tem a dizer. Por favor, não hesite em...
+この場合……貴方なら、面白いことを言ってくれそうですね。どうですか？=Neste caso... Você pode ter algo interessante a dizer. O que você acha?
+あまり気は進みませんが……貴方はどう思っているか、聞いてもいいですか？=Eu não gosto de fazer isso, mas... Posso perguntar como você se sente sobre isso?
+まずは、貴方の意見を聞きたいです。色々と参考にしたいので……=Antes de mais nada, gostaria de ouvir sua opinião. Eu gostaria de me referir a vários...

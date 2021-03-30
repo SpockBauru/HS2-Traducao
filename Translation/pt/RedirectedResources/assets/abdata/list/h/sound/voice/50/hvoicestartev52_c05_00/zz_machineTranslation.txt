@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+つ、続けるんですか……？=Você vai continuar?
+えっ……う、嘘……ですよね……？=O que... Você está mentindo... Você não está?

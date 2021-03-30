@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelúdio B normal {0}
+せ、せっかくですから……ご一緒にどうですか？=Bem, já que você está aqui... Por que não se junta a nós?
+あ、あなたも……少し、お話していきませんか？=Oh, você também... Você gostaria de ter uma pequena conversa?
+前フリB好意{0}=Prelúdio B Favor {0}
+あの……どうせなら、あなたともお話したいです……=Um... De qualquer forma, eu também gostaria de falar com você...
+せ、せっかく会えたことですし……何か話しませんか？=Bem, agora que nos conhecemos... Por que não falamos sobre algo?
+前フリB享楽{0}=Prelúdio B Kyouraku {0}
+今……少しくらいは時間ありますか？=Agora... Você tem um pouco de tempo?
+わ、私たちと一緒に……ちょっと話しませんか？=Por que você não vem conosco... E nós conversamos sobre isso?
+前フリB嫌悪{0}=Prelúdio B Disgust {0}
+あ、あなた……こんなところでどうしたんですか……=Oh, você... O que você está fazendo aqui...
+ま、まさかここであなたに会うなんて……はぅぅ……=Eu nunca pensei vê-lo aqui, mas...
+前フリB隷属{0}=Prelúdio B Escravo {0}
+きっと大人数の方が会話も盛り上がりますよ。=Tenho certeza de que quanto maior o grupo, mais animada é a conversa.
+あ……私たち、あなたの話も聞きたいです。=Oh... Queremos ouvir sua história, também.

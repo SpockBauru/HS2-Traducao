@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+あら、そうなの。=Ohhh, sim.
+そう、何か用があったんじゃないのね。=Sim, você não queria ter nada a ver com isso.
+なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+そう、残念ね。=Sim, sinto muito.
+そうなの、なんでもなかったのね。=Ah, sim, não foi nada.
+なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+あら、なんでもないなんて寂しいわね。=Oh, estou tão triste que não é nada.
+本当に何でもないの？=Você tem certeza de que não é nada?
+なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+なんでもないなら、別にいいわ。=Se não é nada, não me importo.
+そうなの、だったら気にしないわね。=Oh, bem, então eu não me importo.
+なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+特に用事はないって事かしら？=Você quer dizer que você não tem nada especial a fazer?
+なんでもないなら、私も何も聞かないわ。=Se não for nada, eu também não farei nenhuma pergunta.

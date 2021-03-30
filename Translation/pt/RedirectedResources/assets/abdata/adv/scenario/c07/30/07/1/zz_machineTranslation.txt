@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+んぅぅ？　ぁっ……ふぁっ……=Hmm? Ahh... Wha...
+……ほら……来い……んぅ……=Vamos lá... Vamos lá... Mmm...
+（よし……そうだ……それでいい……）=(Certo... Sim... É isso...)
+んんっ……んぐ……なんだ？=Mmm... Mmm... O que é isso?

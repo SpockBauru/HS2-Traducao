@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+分娩台=Mesa de entrega
+ディルド=Dildo
+拘束台=Plataforma de contenção
+壁穴=Buraco na parede
+拘束デンマ台=Suporte denma de contenção
+拘束鞍馬=Restrição Kurama

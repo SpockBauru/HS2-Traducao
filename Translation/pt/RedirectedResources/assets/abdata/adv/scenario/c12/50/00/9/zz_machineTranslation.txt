@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+なぁ、良かったら、このまましちゃわねぇか？=Ei, por que não fazemos isso, se você não se importa?
+なんか、妙にやりたくなってきたんだけど……お前、どう？=Sabe, eu tenho esta estranha vontade de fazer isto... Você, o que acha?
+好意{0}=Favores {0}
+あのさ、よかったら、俺、まだ時間あるんだけど、この後、どうだ？=Sabe, se não se importa, ainda tenho algum tempo depois disto.
+えぇっと、あの……おしゃべりのあとは身体で語り合うってのはどうだ？　なんてな……=Bem, hum... Depois de toda essa conversa, por que não temos uma conversa física? Oh, meu...
+享楽{0}=Prazer {0}
+なぁ、そろそろセックスしようぜ。=Ei, acho que está na hora de fazermos sexo.
+よし、話しも盛り上がってきたとこだし、次はセックスだな。=Muito bem, agora que estamos conversando, vamos ao sexo.
+嫌悪{0}=Repugnância {0}
+で、話しが目的なのかよ？　どうせやるんなら早く済ませようぜ。=Então, qual é o objetivo de falar? Se vamos fazer isso, vamos ser rápidos.
+お前の話聞いてるぐらいなら、やってた方がマシかもな。=Talvez eu preferisse estar fazendo isso do que escutando você.
+隷属{0}=Escravidão {0}
+で、セックスするのかしないのか？　するでいいんだよな？=Então, vamos fazer sexo ou não? Você está de acordo com isso, certo?
+話しはもういいから、そろそろ本題に入ろうぜ、な？=Chega de conversa. Vamos ao que interessa, hein?

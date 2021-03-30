@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+長々と話し込んでしまいましたね。では、これで失礼します。=Já falamos sobre isso há muito tempo, não é mesmo? Agora, se me dão licença.
+色々お話できて楽しかったです。それでは。=Foi divertido conversar com você. Por tanto tempo.
+好意{0}=Favores {0}
+……時が立つのは早いですね。またの機会をお待ちしています、さようなら。=... O tempo voa, não é mesmo? Estarei esperando por outra oportunidade, adeus.
+あなたのことを色々知れて有意義な時間でした。ありがとうございます。=Foi um momento significativo para mim para saber muito sobre você. Muito obrigado.
+享楽{0}=Prazer {0}
+今日はありがとうございました。また、お話でもセックスでもお誘いをお待ちしています。=Obrigado por seu tempo hoje. Estou ansioso para ouvir de você novamente, seja por uma história ou por sexo.
+中々興味深いお話でした。次も楽しみにしていますね。=Foi uma história bastante interessante. Estou ansioso para a próxima.
+嫌悪{0}=Repugnância {0}
+もう話すこともありませんし、失礼させていただきます。=Não tenho mais nada a dizer, e vou deixá-los com isso.
+次はもう少しまともな話題を振っていただきたいですね。=Eu gostaria de ver um tópico mais sério da próxima vez.
+隷属{0}=Escravidão {0}
+……本当にセックスはしないのですね。いえ、何でもありません。=... Você realmente não desejaria fazer sexo, desejaria? Não, não é nada.
+もっと猥談をしていたかったのですが、続きは次の機会に持ち越しですね。=Eu gostaria de ter falado mais obscenamente, mas acho que vou ter que guardar o resto para a próxima vez.

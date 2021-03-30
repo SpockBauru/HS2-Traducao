@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+駄犬は……ご主人様のご家族とも、仲良く出来ますよぉ……=Um cão pode se dar bem com a família de seu dono...
+だからずっと……そばに置いててくださいねぇ……=Portanto, por favor... Mantenha-me por perto...
+あぁ……ご主人様と、教会でいけないことをしちゃいましたぁ……=Ah... Eu fiz algo errado na igreja com meu mestre...
+ご主人様に当たる罰も、この駄犬が全部引き受けますよぉ……=Este cão mau tratará de todas as punições que o dono receberá.
+ご主人様のペットは私だけで充分だって……分かってもらえましたか……？=Você entende que sou suficiente para ser o animal de estimação do mestre?
+だから、例え誰かと結ばれても……駄犬のことは捨てないでくださいねぇ……=Portanto, mesmo que você acabe com outra pessoa... Por favor, não me deixe.

@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+好意{0}=Favores {0}
+水の抵抗は厄介でしたね。まぁ、それが興奮に繋がっていたのですが……=A resistência da água era complicada. Foi isso que o tornou tão emocionante...
+疲れた体を休めるために、もう一度お酒を飲みませんか？=Você gostaria de tomar uma bebida novamente para descansar seu corpo cansado?
+ひんやりとした水の中でも、あなたの熱を確かに感じていました。=Mesmo na água gelada, eu podia definitivamente sentir seu calor.
+……あなたにも、私の熱は伝わっていたでしょうか？=... Você também sentiu meu calor?
+あなたとお酒を飲んで、プールで交わって……素敵な一時でした。=Tomei uma bebida com você, misturado na piscina... Foi um momento maravilhoso.
+本当にありがとうございます。また誘って頂けると嬉しく思います。=Muito obrigado. Ficarei feliz se você me convidar novamente.

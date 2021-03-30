@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+さて、今日はどういたしましょうか。もちろんエッチなことをするわけですが……まずは貴方のお好みで、して頂いて構いませんよ。=Bem, o que devemos fazer hoje? É claro que vamos fazer algo malicioso, mas... Você pode fazer o que quiser primeiro.
+ふふ、期待されているのですか？　心なしか顔が赤いような気がしますよ？私は逃げたりしませんから、ゆっくり楽しみましょう。=Hehe, você está me esperando? Acho que seu rosto está um pouco vermelho, não acha? Não vou fugir, por isso vamos aproveitar nosso tempo e desfrutar.
+好意より20～49{0}=20-49{0} de favor.
+こういう事に慣れている女性は、お嫌いですか？　相手が誰でもいいというわけではありませんから。そこだけは、信じて頂けると嬉しいです。=Você não gosta de mulheres acostumadas a este tipo de coisa? Não é que eu não me importe quem eles são. Espero que você possa confiar em mim nisso.
+私とジッと見て、どうしたのです？　何かして欲しいことがあれば、言ってください。趣味は人それぞれですから。引いたりしません。=Qual é o meu problema com a borbulha? Se houver algo que queira que eu faça, é só me avisar. Todos nós temos interesses diferentes. Eu não vou puxá-lo para baixo.
+好意より50～79{0}=50-79{0} de favor.
+私は幸せものですね。貴方のような方に選んで頂けて、本当に、感謝しかありません。=Eu sou um homem de sorte, não sou? Sou muito grato por ter sido escolhido por alguém como você.
+慣れたと思った時が一番危ないのですよね。初心に帰って、気を引き締めてお相手させて頂きます！=É mais perigoso quando você pensa que está acostumado a isso. Vou voltar para a prancheta de desenho e me preparar para lidar com você!
+好意より80～100{0}=80 a 100{0} mais do que favor.
+うぅ、すみません。私、今とても緊張しています。せっかく貴方に選んで頂けたのですから、しっかりしなければと思う程に、ドキドキしてしまって。=Ugh, desculpe-me. Estou muito nervoso neste momento. Estou tão nervoso que sinto que tenho que ser forte desde que você me escolheu.
+良かった。私を選んで頂けたのが、貴方で……正直、もう貴方以外とはシたくないんです。なんて……ちょっと私、重いですね。ごめんなさい。=Estou feliz. Estou feliz que você me escolheu porque, sinceramente, não quero mais ter relações sexuais com ninguém além de você. Eu sou um pouco pesado, não sou? Sinto muito.
+享楽より20～49{0}=20-49{0}
+それでは早速、始めましょうか？　お話は、シた後でもできますし……焦り過ぎかもしれませんが、時間は有限ですので。=Então, vamos começar, certo? Podemos falar sobre isso depois de terminarmos... Eu sei que provavelmente estou sendo precipitado demais, mas o tempo é limitado.
+どうも。本日も貴方とたくさん楽しみたいです。……私、少しがっつき過ぎですか？　ふふ♪=Hi. Quero me divertir muito com vocês hoje. Estou sendo exigente demais? Hehe.
+享楽より50～79{0}=De 50 a 79{0}
+これは、私からのお願いなのですが……お互い、遠慮は無しでシましょうね？　でないと、ちゃんと気持ちよくなれませんから。=Este é um pedido meu, mas... Vamos fazer sexo um com o outro sem qualquer reserva, certo? Caso contrário, não seremos capazes de nos sentir bem.
+私の方は準備万端なのですが……最初から激しく求めたりしたら、引かれますか？　そろそろ……我慢も限界でして……=Estou pronto para ir, mas... Será que você se sentiria desconfortável se eu pedisse muito desde o início? Estou quase no fim da minha corda, então...
+享楽より80～100{0}=De 80-100{0}
+……よろしくお願いします。一度始めたら、お互い止まらなくなりそうなので……挨拶だけでも、きちんとしておこうと思いまして。=... Estou ansioso para trabalhar com você. Parece que quando começarmos, não seremos capazes de parar um ao outro... Então pensei em pelo menos cumprimentá-lo adequadamente.
+きっと、貴方より私の方が興奮しています。お恥ずかしい話ですが、もう待ち切れないのです。早く……しましょう？　私が襲ってしまう前に……=Tenho certeza de que estou mais entusiasmado do que você. Tenho vergonha de dizer isto, mas não posso esperar mais. Apresse-se... Vamos? Antes de eu atacar você...
+嫌悪より20～49{0}=De repugnância 20-49{0}
+貴方は……空気を読むのは得意ですか？　いえ、こういう事は相手があってのものなので……少し気になりまして。=Você é... Bom em ler as pessoas? Não, estou apenas um pouco curioso porque você tem que estar com a pessoa com quem está fazendo isso.
+私、少々気難しいところがあるので……面倒だと思ったら、次回からは他の方とする事をオススメします。=Eu posso ser um pouco difícil... Então, se você achar problemático, sugiro que da próxima vez o faça com outra pessoa.
+嫌悪より50～79{0}=50-79 de repugnância {0}
+うぅ、どうしても私でなければいけませんか？　お気持ちだけ受け取る……というわけには……いきませんよね……はぁ……=Ugh, tenho que ser eu? Eu não posso simplesmente aceitar seus sentimentos... Posso?
+あの……勝手で申し訳ありませんが……この後、少々用事があるので……なるべく早く終わりにさせてもらえると助かります。=Bem, desculpe-me por ser tão egoísta, mas tenho alguns assuntos a tratar depois disto, então se você pudesse me deixar terminar o mais rápido possível, isso seria ótimo.
+嫌悪より80～100{0}=80-100{0} de repugnância.
+貴方は、気持ちよくなれればいいタイプですよね？　でしたら、相手が私である必要はないかと……今回はいいですが……次回は遠慮してください。=Você é o tipo de pessoa que só quer se sentir bem, não é? Se for esse o caso, então acho que você não precisa de mim como seu parceiro... Tudo bem desta vez... Mas da próxima vez, por favor, abstenha-se.
+はぁ……気分が乗らない日ってありますよね。どうしてでしょう。貴方と会う日はよくそうなります。=Huh... Há dias em que você simplesmente não tem vontade. Eu me pergunto por quê. Isso acontece com freqüência quando o encontro.
+隷属より20～49{0}=Da servidão 20-49{0}
+ふふ、貴方に誘って頂けるのを待っていました。さぁ……まずは何をしてもらえるのですか？=Hehe, tenho estado esperando que você me convidasse para sair. Agora... O que você vai fazer por mim primeiro?
+私、その……受け身なところがありまして。少々迷惑をかけてしまうかもしれませんが……許して頂けると幸いです。=Eu sou... Bem, eu sou meio passivo. Posso lhe causar alguns problemas, mas... Espero que você possa me perdoar.
+隷属より50～79{0}=50-79{0} da servidão.
+まぁ、本日のお相手は貴方なのですね。なんて……知っていましたけど嬉しいです。私をたくさん可愛がってくださいね……ふふ♪=Ohhh, você é meu parceiro hoje, não é? Como... Eu sabia, mas estou contente. Por favor, cuide muito de mim... Phew...
+もう、エッチな気分になっていますか？　私は……貴方を見ただけで、身体が疼き出しています……=Você já está com vontade de fazer sexo? Estou... Formigando só de olhar para você...
+隷属より80～100{0}=80-100{0} da servidão.
+私、まだ何もされていないのに少し濡れています。実は放置プレイも、好きなのです……色々と妄想を膨らませるだけで、イキそうに……=Estou um pouco molhado, embora eles ainda não me tenham feito nada. Na verdade, eu também gosto de brincar com o abandono... Só de fantasiar com todo tipo de coisas, estou prestes a me...
+すみません……へ、変なことを言いますね？　私を……苛めて頂けますか？　その……そういう感じのプレイが……好きなので。=Desculpe, isso é... Isso é uma coisa estranha de se dizer, não é? Você pode... Me atormentar? Esse é o tipo de jogo... Que eu gosto.

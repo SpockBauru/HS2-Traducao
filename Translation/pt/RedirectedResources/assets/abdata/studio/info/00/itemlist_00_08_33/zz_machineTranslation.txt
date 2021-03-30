@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+回転（obj無し）=Rotação (sem obj)
+回転10（obj無し）=Rotação 10 (sem obj)
+回転10_Bタイプ（obj無し）=Rotação 10_B (sem obj)
+回転30（obj無し）=Rotação 30 (sem obj)
+回転30_Bタイプ（obj無し）=Rotação 30_B (sem obj)
+回転45（obj無し）=Rotação 45 (sem obj)
+回転45_Bタイプ（obj無し）=Rotação 45_B tipo (sem obj)
+回転60（obj無し）=Rotação 60 (sem obj)
+回転60_Bタイプ（obj無し）=Rotação 60_B tipo (sem obj)
+回転180（obj無し）=Rotação 180 (sem obj)
+回転180_Bタイプ（obj無し）=Rotação 180_B (sem obj)
+ピストン（obj無し）=Pistão (sem obj)
+振動（obj無し）=Vibração (sem obj)
+浮遊（obj無し）=Flutuando (sem obj)
+バウンド１（obj無し）=Bound 1 (sem obj)
+バウンド２（obj無し）=Limite 2 (sem obj)
+投げ01（obj無し）=Jogue 01 (sem obj)
+投げ02（obj無し）=Jogue 02 (sem obj)

@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+基本形=Palavra não flexionada
+ベース=Base
+家具=Mobília
+置物=Enfeite
+食材=Alimentos
+キャラ=Personagem
+Ｈアイテム=Item H
+2D効果=Efeito 2D
+ギミック=Truque
+3DSE=3DSE
+エフェクト=Efeito
+ペット=Animais de estimação

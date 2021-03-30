@@ -1,0 +1,21 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……気分が変わったのですか？=... Você mudou de idéia?
+何の為に始めたのか……理解に苦しみますね。=Não sei por que você começou isto... É difícil de entender.
+好意{0}=Favores {0}
+もしかして、体調が優れないのですか？　……心配です。=Por acaso você não está se sentindo bem? Estou preocupada com você.
+何かご用事でも思い出しましたか？=Você se lembra do que queria?
+享楽{0}=Prazer {0}
+あまり期待外れな選択は取らないで頂けるとありがたいのですが……=Agradecia que não fizesse muitas escolhas decepcionantes.
+互いに満足もせず終わるなんて思いもよりませんでした。=Nunca me ocorreu que acabaríamos insatisfeitos um com o outro.
+嫌悪{0}=Repugnância {0}
+まったくもって無意味な時間でした。=Foi uma época totalmente inútil.
+隷属{0}=Escravidão {0}
+ここで終わり……もしかして、これもプレイの一環なのでしょうか？=É aqui que termina... Talvez isto seja parte da peça?
+おあずけにされてしまうと余計に疼いてしまいます。次は最後までしてくださいね？=Fico ainda mais formigueiro quando sou deixado sozinho. Da próxima vez, por favor, termine, está bem?
+依存{0}=Depende (0)
+またセックスしていただけるのでしたら、私は気にしませんよ。=Se você puder transar comigo novamente, eu não me importarei.
+あなたのことですから、何か事情があるのですね。またお時間がある時に、セックスしましょう。=É você, portanto, há algumas circunstâncias. Vamos fazer sexo novamente quando você tiver tempo.

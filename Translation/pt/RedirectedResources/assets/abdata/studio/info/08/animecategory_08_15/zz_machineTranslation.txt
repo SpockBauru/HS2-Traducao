@@ -1,0 +1,40 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+女 カットイン=Mulher: Cortando
+女 格闘A=Mulher: lutando A
+女 格闘B=Mulher: lutando B
+女 気弾=Mulher: Bomba
+女 片手剣=Mulher: Espada de uma mão
+女 盾と剣=Mulher: Escudo e espada
+女 小太刀1=Mulher: Espada Pequena 1
+女 小太刀2=Mulher: Espada Pequena 2
+女 拳銃1=Mulher: pistola 1
+女 拳銃2=Mulher: pistola 2
+女 投擲=Mulher: jogando
+女 魔法杖=Mulher: Varinha mágica
+女 魔法本=Mulher: Livro de magia
+女 両手剣=Mulher: Espada de duas mãos
+女 棒・槍=Mulher: Varinha / lança
+女 槌・鎌=Mulher: Martelo e foice
+女 ライフル=Mulher: Rifle
+女 弓矢=Mulher: Arco e flecha
+男 カットイン=Homem: cortando
+男 格闘A=Homem: lutando A
+男 格闘B=Homem: lutando B
+男 気弾=Homem: Bomba
+男 片手剣=Homem: Espada de uma
+男 盾と剣=Homem: Escudo e espada
+男 小太刀1=Homem: Espada Pequena 1
+男 小太刀2=Homem: Espada Pequena 2
+男 拳銃1=Homem: Pistola 1
+男 拳銃2=Homem: Pistola 2
+男 投擲=Homem: Jogando
+男 魔法杖=Homem: Varinha mágica
+男 魔法本=Homem: Livro de magia
+男 両手剣=Homem: Espada de duas mãos
+男 棒・槍=Homem: Varinha / lança
+男 槌・鎌=Homem: Macete / foice macho
+男 ライフル=Homem: Rifle
+男 弓矢=Homem: Arco e flecha

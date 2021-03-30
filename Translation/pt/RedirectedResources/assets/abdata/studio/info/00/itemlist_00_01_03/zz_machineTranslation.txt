@@ -1,0 +1,28 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+木天井１=Teto de madeira 1
+木天井２=Teto de madeira 2
+木天井３=Teto de madeira 3
+木天井４=Teto de madeira 4
+木天井５=Teto de madeira 5
+木天井６=Teto de madeira 6
+石天井１=Teto de pedra 1
+石天井２=Teto de pedra 2
+石天井３=Teto de pedra 3
+石天井４=Teto de pedra 4
+石天井５=Teto de pedra 5
+石天井６=Teto de pedra 6
+シンプルな天井１=Teto simples 1
+シンプルな天井２=Teto simples 2
+シンプルな天井３=Teto simples 3
+シンプルな天井４=Teto simples 4
+シンプルな天井５=Teto simples 5
+シンプルな天井６=Teto simples 6
+木屋根１=Telhado de madeira 1
+木屋根２=Telhado de madeira 2
+石屋根１=Telhado de pedra 1
+石屋根２=Telhado de pedra 2
+シンプルな屋根１=Telhado simples 1
+シンプルな屋根２=Telhado simples 2

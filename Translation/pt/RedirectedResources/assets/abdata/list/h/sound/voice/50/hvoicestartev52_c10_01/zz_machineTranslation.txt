@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+何を考えて……少しは自重してください……=O que você acha... Você precisa puxar um pouco o seu peso...
+まだ続けようとするなんて……貴方は狂っています……=Você é louco para continuar tentando.

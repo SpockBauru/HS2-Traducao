@@ -1,0 +1,33 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+流木の椅子=Cadeira de madeira flutuante
+木製の椅子=Cadeira de madeira
+木製の丸椅子=Cadeira redonda de madeira
+派手な椅子=Cadeira chamativa
+赤い椅子=Cadeira vermelha
+高い丸椅子=Cadeira redonda alta
+木製の高い椅子=Cadeira alta de madeira
+錆びた高い椅子=Cadeira alta enferrujada
+事務椅子=Cadeira de escritório
+缶の椅子=Pode presidir
+丸い椅子=Cadeira redonda
+屋外用椅子=Cadeira ao ar livre
+機械的な椅子=Cadeira mecânica
+機械的な丸椅子=Cadeira redonda mecânica
+機械的な箱=Caixa mecânica
+クーラーボックス=Caixa refrigeradora
+流木のベンチ=Banco de madeira flutuante
+木のベンチ=Banco de madeira
+屋外用ベンチ=Banco ao ar livre
+石造りのベンチ=Banco de pedra
+プラスチックベンチ=Banco de plástico
+機械的なベンチ=Banco mecânico
+水没したベンチ=Banco submerso
+お店のソファ=Sofá de loja
+布製ソファベッド=Sofá cama de pano
+普通ソファベッド=Sofá-cama comum
+木造りソファベッド=Sofá cama de madeira
+革製ソファベッド=Sofá cama de couro
+派手なソファベッド=Sofá-cama chamativo

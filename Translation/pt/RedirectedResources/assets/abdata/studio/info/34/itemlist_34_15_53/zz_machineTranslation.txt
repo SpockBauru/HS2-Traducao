@@ -1,0 +1,26 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+教室の机=Mesa da sala de aula
+教卓=Professora
+庭園のテーブル=Mesa de jardim
+可動式の机=Mesa móvel
+丸机=Mesa redonda
+サイドテーブル1=Mesa lateral 1
+サイドテーブル2=Mesa lateral 2
+曲板の机=Mesa curvada
+低いテーブル1=Mesa baixa 1
+低いテーブル2=Mesa baixa 2
+オフィステーブル=Mesa de escritório
+大きなオフィステーブル=Mesa grande de escritório
+焼杉のテーブル=Mesa yakisugi
+焼杉のサイドテーブル=Mesa lateral Yakisugi
+アンティークテーブル=Mesa antiga
+引き出し机=Mesa de gaveta
+何かの作業台=Bancada de trabalho
+中華の机=Escrivaninha chinesa
+中華の丸机1=Mesa redonda chinesa 1
+中華の丸机2=Mesa redonda chinesa 2
+西部の丸机=Mesa redonda ocidental
+ポーカーテーブル=Mesa de pôquer

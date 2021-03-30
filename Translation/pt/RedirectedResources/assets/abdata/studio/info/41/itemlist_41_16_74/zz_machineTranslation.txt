@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+女王の椅子=Cadeira da rainha
+回転ベッド=Cama giratória
+唇ソファ=Sofá labial
+紫スタンドライト=Luz de suporte roxa
+紫照明=Iluminação roxa
+ハートネオン=Neon coração
+檻の箱=Caixa-gaiola
+鉄格子1=Grelha 1
+鉄格子2=Grelha 2
+鉄格子3=Grelha 3
+鉄格子4=Grelha 4
+鉄格子の扉=Porta trancada
+赤い壁=Parede vermelha
+白黒タイル床=Piso de ladrilho preto e branco

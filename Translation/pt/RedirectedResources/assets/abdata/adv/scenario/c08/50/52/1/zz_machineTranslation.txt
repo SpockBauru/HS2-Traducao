@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+まったく、あなたは本当にエロっすねー。=Totalmente, você é realmente erótico, não é?
+場所を考えてくれないと、さすがに困るっすよー。=Se você não pensar no local, você está realmente em apuros!
+電車でいたずらされるなんて……やばいっす。=Ser enganado em um trem... Isso é ruim.
+正直……恥ずかしいけど感じてしまったっす。=Para ser honesto... É embaraçoso, mas eu o senti.
+電車内であんな事するなんて、普通じゃないっすよ～。=Não é normal fazer algo assim em um trem!
+さすがにちょっと、引いちゃうっすよ。=Como você pode imaginar, estou um pouco surpreendido.

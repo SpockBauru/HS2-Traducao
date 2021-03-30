@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+ああ、言うと思った……よりにもよって３人のときに誘ってくるなんて……まあ、断らないけどね。=Sim, eu sabia que você diria isso... Que me convidaria para sair quando éramos só nós três, de todas as pessoas... Bem, eu não diria não.
+……私はいいよ、お前に話しかけられた時点で覚悟はしてたし。=... Estou bem, estava preparado para isso quando você falou comigo.
+HしようA好意{0}=Eu lhe farei um favor.
+はぁ、だよねぇ。お前はそういうヤツだよ……でもま、私も似たようなものだし……いいけどね。=Huh, isso mesmo. Você é esse tipo de cara... Mas bem, eu também sou meio assim... Então... Está bem.
+えっと……私はいいけど、どうかな？　コイツ、いきなりすぎるよねー？=Bem... Por mim tudo bem, mas eu não sei. Esse cara é muito abrupto, não é?
+HしようA享楽{0}=Vamos fazer isso.
+ハイハイ！　私は大賛成♪　３Ｐ３Ｐ～♪=Olá, olá! Eu sou a favor. ♪ Ménage, Ménage ~ ♪
+そうこなくっちゃねぇ♪　もう濡れてるもん♪=É disso que eu estou falando. Já estou molhado.
+HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+は？　流石に調子に乗り過ぎじゃない？　まぁ、もう一人がいいって言えば、私もいいけど。=O que é isso? Você não acha que está se deixando levar? Bem, se o outro diz que está tudo bem, por mim está tudo bem.
+ふーん、自分から恥かきにきたんだ？　マゾなの？=Hmm. Você veio para se humilhar? Você é masoquista?
+HしようA隷属{0}=Vamos sexo Um escravo {0}
+３人か……なんか、凄い事になりそう♪=Três... Vai ser ótimo.
+いいと思う……３人でするのって、絶対気持ちいいよ……♪=Acho que é bom... É definitivamente bom fazê-lo com três pessoas ♪

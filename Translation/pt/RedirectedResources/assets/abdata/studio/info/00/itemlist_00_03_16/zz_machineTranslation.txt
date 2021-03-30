@@ -1,0 +1,52 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+空き缶=Lata vazia
+ヌタウナギ=Hagfish
+魚雷=Torpedo
+長靴=Botas
+トアバ=Toaba
+ヤリマス=Massa de lança
+コツブウオ=Kotsubuo
+猫魚=Peixe-gato
+オッチャン=Ochan
+コムツ=Combs
+オニブダイ=Onibdai
+捕獲ゲージ=Medidor de captura
+猫じゃらし=Gato
+コントローラー=Controlador
+携帯ゲーム機=Console de jogo portátil
+携帯機器=Dispositivo móvel
+ハンドライト=Luz de mão
+松明=Tocha
+フライ返し=Fatiamento
+フライパン=Frigideira
+包丁=Faca de cozinha
+まな板=Tábua de cortar
+おたま=Concha
+なべ=Frigideira
+おぼん=Obon
+木の皿=Placa de madeira
+木のスプーン=COlharr de madeira
+木のコップ=Taça de madeira
+本1=Livro 1
+本2=Livro 2
+本3=Livro 3
+歯ブラシ=Escova de dente
+小石=Seixos
+プレゼント1=Presente 1
+プレゼント2=Presente 2
+プレゼント3=Presente 3
+砂のお山=Montanha de areia
+砂のお城=Castelo de Areia
+砂の古城=Castelo de areia velho
+シャベル=Pá
+ピッケル=Machado de gelo
+釣り竿=Cana de pesca
+ウキ=Flutuador
+虫網=Rede de insetos
+ビニール傘=Guarda-chuva de vinil
+じょうろ=Regador
+小枝=Galho
+雑巾=Trapo

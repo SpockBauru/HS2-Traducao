@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+な、何？！　これってどういうことなの？=O quê? Qual é o significado disto?
+もしかして、夜這いに来てくれたの？=Talvez você tenha vindo para rastejar durante a noite?
+起こしてくれたら、私が気持ちよくしてあげたのに。=Se você tivesse me despertado, eu o teria feito sentir-se melhor.
+寝込みを襲うなんて！　何考えてるのよ。=Você me atacou enquanto eu dormia! O que você estava pensando?

@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+身動きが取れないんですのね？　どうして差し上げようかしら？=Você está preso, não está? O que posso fazer por você?
+あなたも、興奮しているようですわね。=Você parece muito entusiasmado com isso também.
+よろしいですわ……私が、悶えさせて差し上げます。=Muito bem, eu o farei escrever.
+あら……素敵な恰好ですわね。=Oh meu... Você está vestida maravilhosamente.
+見ているだけで、なんだか興奮してまいりましたわ。=Estou ficando animado só de olhar para isso.
+期待していただいても、よろしいですわよ。=Você pode contar com isso, você sabe.
+身動きが取れないなんて、大変ですわね。=É tão difícil de se locomover, não é?
+私が、助けて上げられればよろしいのですが……=Gostaria de poder ajudá-los, mas...
+残念ながら、お助けすることはできないんですのよ……うふふ。=Infelizmente, não posso ajudá-los... Hihihi.

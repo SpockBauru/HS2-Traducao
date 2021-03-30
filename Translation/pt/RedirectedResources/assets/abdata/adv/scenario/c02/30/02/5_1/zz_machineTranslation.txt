@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようB普通{0}=Vamos sexo B normal {0}
+まぁいつもしている事と変わりはないですし……しちゃいますか。=Bem, não é diferente do que eu sempre fiz, então... Vamos fazer isso.
+これもプレイの一環として、大人しく受けましょうか。=Vamos apenas aceitar isto como parte da peça e ser maduros a respeito.
+HしようB好意{0}=Vamos fazer um favor a B {0}
+い、いいですけど、するからには……わかってますよね？=Eu não me importo, mas já que estamos fazendo isso... Você sabe o que quero dizer.
+もぉ……あなたに誘われたら、嫌とは言えないじゃないですか……=Bem... Se você me convidar para sair, eu não posso dizer não.
+HしようB享楽{0}=Vamos caminhar!
+ふふっ、楽しい事になってきましたね？=Hehe, isto vai ser divertido, não vai?
+では、二人でしっかりと攻め立ててあげましょうか。=Então, vamos nos certificar de que ambos o atacamos bem, certo?
+HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+はぁ、私だけならともかく、他の人を巻き込まないであげてください……=Huh, não me importo se for só eu, mas por favor não traga outras pessoas para isto...
+どうせ断れないですからね……さっさと済ませますよ。=Eu não posso dizer não de qualquer maneira... Então eu vou acabar com isso.
+HしようB隷属{0}=Vamos lá escravo B {0}
+勿論、断る理由なんてありませんよ。=É claro que não há motivo para dizer não.
+私達を雌堕ちさせようと？　それは楽しみですね……=Você está tentando nos transformar em vadias? Isso seria divertido...

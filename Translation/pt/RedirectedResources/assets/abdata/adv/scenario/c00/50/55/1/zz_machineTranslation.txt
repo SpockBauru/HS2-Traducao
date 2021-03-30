@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+この施設で婚姻届を受理していただけるなら、今すぐ提出に行く所でした。=Se esta instalação tivesse aceitado minha licença de casamento, eu teria ido lá agora mesmo para apresentá-la.
+やはり私には、あなたしかいない様です。これからもよろしくお願いします。=Parece que você é o único para mim, afinal de contas. Por favor, continue a trabalhar comigo.
+結婚して新婚生活が始まった時、私があなたに望むことはたった一つだけです。=Quando você se casa e começa sua lua-de-mel, só há uma coisa que eu quero para você.
+毎日、一回は必ず私とセックスして下さい。これさえ守っていただけるのでしたら、あなたを束縛するつもりはありません。=Você deve transar comigo pelo menos uma vez por dia. Se você puder manter isto, não tenho a intenção de prendê-lo.
+いつか……いつか本物の教会で、あなたと式を挙げたいです。ドレスを着て式を行うのは憧れがありますから。=Algum dia... Algum dia eu quero ter uma cerimônia com você em uma igreja de verdade. Porque eu tenho o desejo de usar um vestido e ter uma cerimônia.
+……似合わないことを言った自覚はあるので、あまりからかわないでいただけると助かります。=... Estou ciente de que já disse coisas que não lhe agradam, por isso agradecia que não troçasse muito de mim.

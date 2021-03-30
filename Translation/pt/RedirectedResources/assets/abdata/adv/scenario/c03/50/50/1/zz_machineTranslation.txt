@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+好意{0}=Favores {0}
+なかなか楽しかった……やっぱり、雰囲気って重要だよね。=Foi muito divertido... Afinal de contas, o ambiente é importante, não é?
+まぁ……お前となら、どこでも楽しめたとは思うけど。=Bem... Com você, tenho certeza que eu poderia ter me divertido em qualquer lugar.
+何だか、いつもより濃厚だった気がするんだけど……=Não sei. Acho que era mais espesso do que o normal.
+ちょっと、雰囲気に酔ってたのかもね。=Talvez eu estivesse apenas um pouco, você sabe, embriagado com a atmosfera.
+お前と、こんないい時間が過ごせるなんて思ってなかった。=Eu nunca pensei que me divertiria tanto com você.
+また、誘ってくれたら嬉しいかも……なんちゃって。=Talvez você gostaria de me convidar de volta... Que se lixe.

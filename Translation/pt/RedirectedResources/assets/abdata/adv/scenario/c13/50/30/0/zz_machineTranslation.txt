@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あの、ちょっとだけ席を外してもいいですか……？=Hum, posso sair da sala por um momento?
+……！　あの、ほんの少しだけ待っててもらってもいいですか……？=! Um, você pode esperar um pouco?
+うふふ、さっきお水を飲んだので……行ってきますね……=Ummm... Eu só bebi um pouco de água... Então eu vou...
+あの……ちょっと待っててください……大丈夫です、逃げませんから……=Um... Espere um segundo... Está tudo bem, eu não vou fugir...
+ごめんなさい、お手洗いに行ってきます……鍵は開けておきますね……=Desculpe, vou ao banheiro feminino... E deixo a porta destrancada para você...

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+次はゆっくりお話ししましょう。=Vamos falar devagar da próxima vez.
+何かあったらいつでも声をかけてね。=Se você precisar de alguma coisa, pode sempre recorrer a mim.
+なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+あなたとお話したかったけど、仕方がないわね。=Eu queria falar com você, mas não tive escolha.
+何かあるのかと、期待しちゃったわ。=Eu esperava que você tivesse algo para mim.
+なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+私はお話したかったけど、残念だわ。=Eu queria falar com você. Desculpe.
+なんでもないなら、それでいいけど、なんだか寂しいわね。=Se não é nada, tudo bem, mas é meio triste.
+なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+それで良ければ、私からは特にないわ。=Se não houver problema, não há nada de especial em mim.
+それなら別に問題ないわ。=Então eu não tenho nenhum problema com isso.
+なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+あなたが望むなら、それで問題ないわ。=Se é isso que você quer, não há problema.
+あなたが望むなら、また今度お話がしたいわ。=Eu gostaria de falar com você algum dia, se quiser.

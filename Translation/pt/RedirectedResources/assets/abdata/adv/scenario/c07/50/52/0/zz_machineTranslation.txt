@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+クソが……周りに人がいたらオレが抵抗しないとか思ってんだろ？=Você acha que eu não vou lutar se houver pessoas por perto, não acha?
+まぁ実際、他のヤツらに迷惑はかけたくないからな……少しの間はじっとしててやる。=Bem, na verdade, eu não quero incomodar os outros caras... Então eu vou ficar sentado por um tempo.
+でも覚えてろよ？　電車出た時が楽しみだなぁ、おい。=Mas lembre-se, está bem? Estou ansioso para quando o trem partir, cara.
+満員電車に連れ込んで、好き放題しようってか……発想が最低だな。=Levá-la para um trem lotado e deixá-la fazer o que ela quiser... A idéia é nojenta.
+でも結局、オマエ一人じゃオレを抑えきれないってことだろ？=Mas no final, você não pode me segurar sozinho, não é mesmo?
+情けねぇくせに性欲だけは一人前とか……ほんと救えねぇなオマエ……=Você é tão patético e, no entanto, você é um verdadeiro trabalho...
+たく……まんまとオマエの浅知恵に乗せられたってわけか……=Bem... Parece que fui enganado por seu pensamento superficial...
+笑えねぇ冗談だ……で、オレをこっからどうする気だよ？=Essa é uma piada engraçada... Então, o que você vai fazer comigo agora?
+こんな人混みの中でヤったら即バレる……そこまでの勇気があんのかよ？=Se você fode em um lugar lotado como este, você será exposto instantaneamente... E você é tão corajoso assim?

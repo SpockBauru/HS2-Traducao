@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+私とどんなお喋りをしたいのですか……？=Que tipo de conversa você quer ter comigo?
+何についてお話いたしましょう……？=O que posso lhe dizer sobre?
+好意{0}=Favores {0}
+あなたとゆっくりお話しできるなんて幸せです、どんなお話をいたしましょう……？=Estou tão feliz em poder falar com você. Sobre o que posso lhe dizer?
+夫婦のような会話ができればよいのですが……=Eu gostaria que pudéssemos falar como marido e mulher, mas...
+享楽{0}=Prazer {0}
+うふふ……あなたのことですから、やはりエッチなお話でしょうか……？=Ummm... Já que é você, ainda é uma história sexual?
+いやらしいお話をするおつもりですか……？　大きな声では言えませんけれど、大歓迎です♪=Você vai falar de algo desagradável? Não posso dizê-lo em voz alta, mas você é mais do que bem-vindo.
+嫌悪{0}=Repugnância {0}
+はあ……私と何をお話したいのですか……？=Huh... Sobre o que você quer falar comigo?
+お好きに話してくださいまし……=Fale como quiser...
+隷属{0}=Escravidão {0}
+私のわからないようなお話でも、なんでも話してください、聞いているだけで楽しいので……=Por favor, conte-me qualquer coisa, mesmo que seja uma história que eu não entenderia, porque gosto de ouvir...
+あなたの好きな話題にいたしましょう。=Vamos falar do que você quiser.

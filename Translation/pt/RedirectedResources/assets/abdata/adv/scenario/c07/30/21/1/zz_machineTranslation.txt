@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+いい返事だ。まぁ、断るなんて選択肢はそもそもオマエには無いんだがな。=Boa resposta. Bem, você não tem a opção de recusar, tem?
+よし、それでいい。素直なやつは嫌いじゃないぞ。他の女に浮気したことは、まぁ多目にみてやる。=Ok, isso é bom. Eu não me importo com um atirador reto. Vou te dar uma folga por me trair com outra mulher.

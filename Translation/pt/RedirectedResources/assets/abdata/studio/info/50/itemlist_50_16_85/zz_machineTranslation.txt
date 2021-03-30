@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+教会の花瓶1=Vaso de igreja 1
+教会の花瓶2=Vaso de igreja 2
+黒いゴミ袋=Saco de lixo preto
+網目のゴミ箱=Lata de lixo de malha
+バーのグラス1=Vidro em barra 1
+バーのグラス2=Vidro de barra 2
+バーのグラス3=Vidro de barra 3
+バーのグラス4=Vidro de barra 4
+小さいバケツ=Balde pequeno
+オレンジ=Laranja
+カットオレンジ=Corte laranja
+レモン=Limão
+カットレモン=Cortar limão
+バーのボトル1=Garrafa 1
+バーのボトル2=Garrafa 2
+バーのボトル3=Garrafa 3
+バーのボトル4=Garrafa de barra 4
+ビールサーバー1=Servidora de cerveja 1
+ビールサーバー2=Servidora de cerveja 2
+ボトルスタンド=Suporte para garrafas
+ミキサー=Batedeira
+フルーツ皿=Salada de frutas
+ビーチボール=Bola de praia
+犬の首輪=Coleira
+犬の皿=Prato de cachorro
+サディスティックウォールシェルフ=Prateleira de parede sádica
+磔台=Crucificação
+風景画=Pintura de paisagem
+卵型の花瓶=Vaso em forma de ovo
+受付モニター=Monitor de recepção
+キーボード=Teclado
+長いプランター=Plantador longo
+壁テーブル=Mesa de parede
+つり革1=Strap 1
+つり革2=Strap 2

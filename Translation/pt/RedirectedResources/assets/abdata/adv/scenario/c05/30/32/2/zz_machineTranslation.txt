@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あ……あれ……あなた……もしかしてずっと待っててくれたんですか？=Oh... Que... Você... Poderia ser que você esteve esperando por mim o tempo todo?
+あ……おはようございます……え……ずっとここにいてくれたんですか……あ……ありがとうございますっ。=Ah... Bom dia... Eh... Você esteve aqui o tempo todo... Ah... Obrigado.
+おはようございます、もしかしてここにいたんですか……？　ど、どうせなら……夜這いしてくれても……なんて……えへへ……=Bom dia, você está aqui por acaso? Bem, de qualquer forma... Você poderia ter rastejado até aqui à noite... Hehehe...
+ひゃっ……こんな時間に起きてごめんなさいっ……どうかっ、怒らないでっ……=Desculpe-me por acordá-lo a esta hora... Por favor, não fique bravo...
+こんな早くからあなたに会えるなんて……ありがとうございますっ、えへへ。=Não acredito que estou me encontrando com você tão cedo... Muito obrigado, ehehe.

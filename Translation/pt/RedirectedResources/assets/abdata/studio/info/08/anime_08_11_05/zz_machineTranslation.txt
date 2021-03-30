@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+モンキーダンス=Dança de macaco
+駄々っ子=Criança mimada
+壁押し=Empurrão de parede
+ジタバタ=Jitabata
+もつ=Miudezas
+応援=Torcendo
+荒ぶる鷹のポーズ=Pose de Falcão Rude
+why=Porque
+イエッサ=Yessa
+やすめ=Resto
+エッヘン=Ahem
+お尻ぺんぺん=Caneta de ponta
+ゾンビ=Zumbi
+ゾンビ攻撃=Ataque zumbi
+ゾンビ這いつくばり=Zumbi rastejando
+奥義=Mistério
+決めポーズ右=Pose decisiva certa
+決めポーズ左=Pose decisiva à esquerda
+なるほど=Entendo
+パニック=Pânico
+謝る=Desculpar-se
+謝罪=Desculpa
+腹パン=Pão de barriga
+腹減った=Com fome
+ダイブ=Mergulhar
+チッチッチ1=Tsk tsk tsk 1
+チッチッチ2=Tsk tsk tsk 2
+壁チラ右=Resfriador de parede à direita
+壁チラ左=Resfriador de parede esquerdo

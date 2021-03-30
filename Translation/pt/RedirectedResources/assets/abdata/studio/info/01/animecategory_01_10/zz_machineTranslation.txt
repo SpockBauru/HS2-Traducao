@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+男 W騎乗位=Homem W Cowgirl
+女 W騎乗位A=Mulher W Cowgirl A
+女 W騎乗位B=Mulher W Cowgirl B

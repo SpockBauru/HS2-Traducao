@@ -1,0 +1,15 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+木馬の遊具=Playground de cavalo de balanço
+砂場=Caixa de areia
+防災倉庫=Armazém de prevenção de desastres
+水飲み場=Bebedouros
+パーゴラ=Pérgola
+公園の電灯=Lâmpada de parque
+公園の電柱=Postes de serviço no parque
+カーブミラー=Espelho curvo
+注意看板=Sinal de atenção
+自動販売機=Maquina de vendas
+簡易プール=Piscina simples

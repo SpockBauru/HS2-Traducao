@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+どう、楽しかった？　私は結構盛り上がったよ。=Como foi? Você se divertiu? Eu me diverti muito.
+こういうのだったら、また付き合ってもいいけどね。=Se é algo assim, eu não me importaria de sair com você novamente.
+結構、熱くなって遊んじゃったかも……=Acho que me deixei levar um pouco...
+お前も楽しかったよな？　だったらいいんだけど。=Você também se divertiu, certo? Espero que sim.
+ふぅ……最高に面白かったぁ。=Whew... Isso foi a coisa mais engraçada que eu já vi.
+たまには、こういうのも悪くないね。=Às vezes, estas coisas não são tão ruins assim.

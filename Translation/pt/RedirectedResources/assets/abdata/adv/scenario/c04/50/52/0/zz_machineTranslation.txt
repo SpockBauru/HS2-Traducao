@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+マジキモ……電車の中で発情するとか……サイテー。=Sériamente assustador... Cio no trem... Psicopata.
+痴漢て、した方が圧倒的に不利だかんね？　冤罪とかヨユーであるから。=No caso de molestamento, o perpetrador está em enorme desvantagem, certo? Porque há uma falsa acusação e um bom você.
+まぁアンタはマジでする気みたいだから……脅しにもならないのがムカつくわ、ホント……=Bem, você parece que vai fazer isso, então... É irritante que você não esteja nem mesmo me ameaçando, realmente...
+あーやだやだ……なんでアタシがこんな変態の相手なんか……=Oh não... Por que sou um parceiro tão pervertido...
+どうせ今も、ヤルことしか考えてないんでしょ？　マジ最悪……=Você só está pensando em transar agora, não está? Isso realmente é uma droga...
+この際、痴漢で捕まってもらった方が……アタシ一人の犠牲で済むかも。=Neste ponto, talvez seja melhor tê-la capturada como molestadora... Para que tenhamos que sacrificar apenas uma pessoa.
+アンタさ、ホント何処でも発情してるよね……なんかの病気なんじゃないの？=Você sabe, você está realmente no calor em todos os lugares... Você deve ter algum tipo de doença.
+早く電車下りてさ、病院行きなよ……そっちに付き合う方がまだマシ……=Por que você não sai do trem, vai para o hospital... E eu ficarei mais do que feliz em ir com você...
+ねぇ、痴漢はヤバイって……脳みそお猿さんなアンタでも分かるっしょ？=Mesmo um macaco com cérebro pode entender que os molestadores são perigosos, não é mesmo?

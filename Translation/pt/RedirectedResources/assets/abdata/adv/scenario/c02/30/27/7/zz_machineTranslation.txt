@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+人数差なんて関係ないって顔してますね……ふんっ。=Parece que você não se importa com a diferença em números... Hmmm.
+お見逸れしました……とでも言うと思ったんですか？=Você pensou que eu ia dizer: "Sinto muito por ter sentido sua falta..."?
+好意{0}=Favores {0}
+……あの人と私、どっちのイく姿が可愛かったですか？=... Quem era mais bonito no caminho que ele veio, ele ou eu?
+二人共きっちりイかせるなんて……あなたらしいですね。=É como se você fizesse os dois virem... Exatamente.
+享楽{0}=Prazer {0}
+私達をイかせたんですから、それは満足ですよね？=Você nos fez gozar. Isso é gratificante, não é?
+はいはいイきました、イかせて頂きましたよーです。=Sim, sim, eu vim. Eu fiz você gozar!
+嫌悪{0}=Repugnância {0}
+別に、二人ともイかせたくらいで気が変わるなんてありませんから。=Não é que eu vá mudar de idéia só porque você nos fez gozar os dois.
+はぁ……ただただ屈辱です……=Huh... É apenas humilhante...
+隷属{0}=Escravidão {0}
+他の人がイくと、こう……引っ張られちゃったりするんですよ。　わかりますか？=Quando outra pessoa vem, é como... É puxada para fora. Você entendeu?
+私達のイき声、堪能してくれましたか……？=Você gostou do som da nossa vinda?
+依存{0}=Depende (0)
+私のイき顔、見てくれましたか？　あの人に目移りなんてしていませんよね……？=Você viu a minha cara quando eu cheguei? Você não se sente atraído por ele, não é mesmo?
+本当なら、分け隔てていた分を独り占め出来たのに…………=Se tivesse sido verdade, poderíamos ter guardado nossa parte para nós mesmos.

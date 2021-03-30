@@ -1,0 +1,20 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+前待機=Esperar antes
+弱ピストン=Pistão fraco
+強ピストン=Pistão forte
+絶頂前ピストン=Pistão antes de Clímax
+女絶頂=Mulher goza
+同時絶頂=Gozada simultânea
+外出し=Sair para
+外出し事後=Depois de sair
+脱力弱ピストン=Pistão fraco
+脱力強ピストン=Pistão fraco e forte
+脱力絶頂前ピストン=Pistão antes de gozar fraqueza
+脱力女絶頂=Mulher fraca Clímax
+脱力同時絶頂=Fraqueza simultânea goza
+脱力外出し=Fraqueza saindo
+脱力外出し事後=Depois que a fraqueza vai embora

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+少しだけ、お時間を頂戴してもよろしいでしょうか？=Posso ter um momento de seu tempo, por favor?
+直ぐに戻りますので、少しだけお待ちいただけますか？=Volto já. Pode nos dar um momento, por favor?
+ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=Eu não quero ser áspero nas bordas aqui, então posso parar no banheiro?
+少し用事を思い出しましたので、失礼致します。=Acabei de me lembrar de algumas coisas, portanto, se me dão licença.
+すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=Com licença, preciso passar no banheiro feminino... Mas é claro, você é bem-vindo para dar uma olhada.

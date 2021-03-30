@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ほんと最悪……もうお前の顔なんて、見たくもない。もうこれっきり。お前と会う気は、二度とないから。=Eu não quero mais ver seu rosto. É isso mesmo. Nunca mais te vejo.
+帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

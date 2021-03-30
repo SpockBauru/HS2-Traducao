@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ここからはロビーにてパートナーをお呼びして頂くか、もしくは自らの足でパートナーの居る場所へと出向く必要がございます。=A partir daqui, você precisará ligar para seu parceiro na recepção ou ir até o local onde seu parceiro está por conta própria.
+どちらを選ぶかはお客様の自由となっておりますが、本サポート中に限り、まずはパートナーの呼び出しから始めて頂きたく思います。=Cabe a você escolher qual deles você gostaria de usar, mas somente durante este suporte, gostaríamos que você começasse por ligar para seu parceiro.
+それでは、ロビーへと向かいましょう。=Agora, vamos para a recepção.

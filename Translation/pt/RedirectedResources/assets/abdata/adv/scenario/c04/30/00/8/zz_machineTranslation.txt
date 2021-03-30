@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=É a hora da história, obrigado. Então, você está feliz? Queria falar sobre mais alguma coisa?
+ふぅ、何気に結構話し込んじゃったね。=Huh, falamos um pouco sem razão aparente.
+好意{0}=Favores {0}
+んふ、アンタと話してると、時間が経つのが早いわ♪=O tempo voa quando você está falando comigo.
+もーちょっと話してたかったけど、流石にそろそろ自重かな？=Eu queria falar com você por um tempo mais, mas acho que está na hora de puxar meu peso, hein?
+享楽{0}=Prazer {0}
+あは、話してるだけでも、結構楽しかったわ♪=Haha, foi muito divertido só de falar com você...
+アンタ、わりとトーク力あるんじゃない？　退屈しなかったわ～。=Você é muito bom em falar, não é? Eu não estava entediado!
+嫌悪{0}=Repugnância {0}
+話し終わり？　だったら即サリ決めさせてもらうけど。=Você já acabou de falar? Se for esse o caso, eu decidirei imediatamente.
+はぁ、無駄な時間だった。なんでこんなやつの話聞いちゃったんだろ。=Huh, isso foi uma perda de tempo. Não sei por que escutei este cara.
+隷属{0}=Escravidão {0}
+あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Já terminamos de falar? Terei o maior prazer em fazer-lhe companhia.
+色々話せて楽しかったわ。またトークのお誘い歓迎って感じ♪=Foi divertido conversar com você sobre tudo. Sinto que sou bem-vindo para falar com você novamente.

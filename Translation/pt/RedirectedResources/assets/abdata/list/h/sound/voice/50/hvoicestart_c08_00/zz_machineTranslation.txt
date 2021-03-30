@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ちょっと待つっすよ？！　一体これで何するつもりっすか？=Espere um minuto! Que diabos você está fazendo com isso?
+いやいや…かなり自由に、うごめいちゃってるんすけどね=Não, não, não... É praticamente livre para se locomover.
+何なんすかこれ？　これまた面白そうな奴っすねえ=O que é isso? Parece ser outro cara interessante.
+なんかすごいっすね？！　無茶苦茶動いてるじゃないすか=Isto não é incrível? Está se movendo como uma loucura!
+こんな物、良く見つけてきたっすね？=Como você encontrou todas essas coisas?
+こんな所に触手があるなんて、ちょっと驚きっすね=Estou um pouco surpreso por encontrar tentáculos neste lugar.
+うにょうにょ動いてて、かなり面白そうっすね=Parece ser muito divertido!
+触手まで持ち出すなんて、相変わらずすごいっすね=Você até criou tentáculos. Você é tão incrível como sempre.
+なんなんすか、これ…気持ち悪いっすよ！=O que há com isto... É nojento!
+こんな変生き物持ち出すなんて、何考えてるんすか？=No que você está pensando, em criar uma criatura tão estranha?
+触手の相手をしろと仰るのでしたら、従います=Se você quiser que eu lide com os tentáculos, eu vou obedecer.
+……触手で絶頂する私を、ご覧になりたいのですか？=Você gostaria de ver o meu clímax com os meus tentáculos?

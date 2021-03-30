@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+なんだ？　人数が一人増えただけでビビってんのか？=O que é isso? Mais uma pessoa e você se passa?
+おい、ただ邪魔しに来ただけか？　クソ悪趣味だな。=Ei, você veio me interromper? É de mau gosto, porra.
+なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+あ？　どっちかが邪魔ってことか？　いいご身分だな。=Oh? Você quer dizer que um de nós está no caminho? Você está em boa companhia.
+二人きりじゃねぇと何も出来ないってか？　女々しいやつめ。=Vocês não podem fazer nada a menos que sejam só os dois? Você é um boceta.
+なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+ただの寂しんぼってやつか？　クソ迷惑なやつだな。=Apenas um cara solitário, não é? Um chato do caralho.
+なら、さっさとどっかへ行ったらどうだ？　オレらの邪魔をするな。=Então por que você não sai daqui? Fique fora do nosso caminho.
+なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+チッ、構ってちゃんはお呼びじゃねぇんだよ。=Eu não quero ser incomodado por você.
+オレらもオマエにゃ用はねぇよ。さっさと消えろゴミクズ。=Nós também não temos nenhuma utilidade para você. Saia daqui, seu pedaço de lixo.
+なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+おいおい、どうした？　コミュ障ってやつか？=O que está acontecendo? O que você é, um comuna?
+んぅ？　そう言えばオレらが構ってくれると思ったか？=Hmm? Você acha que nos importaríamos se você dissesse isso?

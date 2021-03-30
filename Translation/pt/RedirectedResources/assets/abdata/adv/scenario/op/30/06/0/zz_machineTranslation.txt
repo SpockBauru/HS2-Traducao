@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お帰りなさいませ、如何でしたでしょうか？=Bem-vindo de volta. Como foi?
+普段であればああした会話や触れ合いが出来ますが、彼女達にもそれぞれ都合が御座います。=Normalmente, você pode ter essas conversas e interações, mas cada uma das garotas tem sua própria necessidade.
+お風呂へ行く事もあればトイレに行く事もありますので、そういった最中での接触はお勧めしかねます。=Às vezes elas vão ao banho, às vezes vão ao banheiro, então não recomendo entrar em contato nessa hora.
+が、相手との関係次第では喜ばれる方もおりますので一概には言えませんが。=Entretanto, dependendo de seu relacionamento com a pessoa, há algumas pessoas que irão apreciá-lo, por isso é difícil dizer com certeza.
+また、そういったプライバシーに関わる場所や状況次第では、どなたが居るか把握が出来ない場合が御座いますので、ご了承下さい。=Além disso, observe que dependendo da localização e das circunstâncias relacionadas a tal privacidade, pode não ser possível saber quem está lá.
+パートナーとの触れ合いについてのご説明は以上とさせて頂きます。=Isso é tudo o que temos a dizer sobre como entrar em contato com seu parceiro.
+この後、ご来店記念としてお客様へささやかなプレゼントが御座いますのでお受け取り下さい。=Depois disso, você receberá um pequeno presente para comemorar a sua visita.
+又、今後のパートナーへの特定の行動や触れ合いなど、【実績】をこなした数により新たにプレゼントが増えていきます。=Além disso, novos presentes aumentarão dependendo do número de [Conquistas] que você completar, como ações específicas e contato com futuros parceiros.
+プレゼントには様々な恩恵がございますので、積極的に行動して頂ければと思います。=Os presentes trazem vários benefícios, e esperamos que você seja pró-ativo em aproveitá-los.
+これら実績の確認・報酬の受け取り・又はご不明な点や本サービスの内容の再確認の際は私にお申し付け下さい。=Favor entrar em contato comigo se você precisar confirmar essas conquistas, receber recompensas, se você tiver alguma dúvida ou quiser rever o conteúdo deste serviço.
+以上で初回サービスの内容とさせて頂きます、長時間のお付き合い、誠にありがとうございました。=Este é o conteúdo do primeiro serviço, muito obrigado pelo seu relacionamento de longo prazo conosco.
+ここから先はお客様の気の向くまま、パートナーとの触れ合いをお楽しみ頂ければと思います。=De agora em diante, esperamos que você goste de interagir com seu parceiro como quiser.
+では、これにて失礼させて頂きます……=Agora, se me der licença...
+………………=...
+ちなみにですが、パートナーの中にはそれぞれ好みの関係が御座います。=A propósito, cada parceiro tem seu tipo de relacionamento favorito.
+その関係を追及していった場合は、もしかするとそのパートナーの本性となるような一面が見られるかもしれません。=Se você avançar na relação, poderá ver um lado de seu parceiro que possivelmente seja sua verdadeira natureza.
+お客様への保証はしかねますが。=No entanto, não podemos garantir isto a nossos clientes.
+では改めまして、引き続き素敵な一時を……=Portanto, mais uma vez, divirtam-se muito.

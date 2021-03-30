@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Posto de Conversação A Normal {0}
+それじゃまた、次の機会にー！=Nos vemos na próxima vez!
+またお話してくださいねー！=Espero que você fale comigo novamente!
+会話事後A好意{0}=Um favor após a conversa {0}
+次はもう少し、まったりとお話しましょー！=Da próxima vez, vamos conversar um pouco mais de maneira descontraída!
+わたしだったらいつでも暇ですから、お時間のある時は声を掛けてくださいー！=Estou sempre livre, portanto, se você tiver tempo, por favor me ligue!
+会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+次、もしも二人きりで話す機会があれば……わたしのこと、もっと色々教えてあげちゃいますからね♪=Da próxima vez, se tivermos a oportunidade de falar a sós, eu lhe falarei mais sobre mim.
+今度お話する時は、もっと突っ込んだ内容のことでもいいですよ。なんだったら、お話せずに突っ込んじゃっても……なんちゃって、えへへー！=Da próxima vez que falarmos, poderemos falar de algo mais profundo. Se você quiser, pode simplesmente entrar sem me dizer... Que se lixe!
+会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+それじゃ、これで失礼します。=Deixarei você com isso, então.
+はーい、さよならさよならですー。=Sim, é adeus, adeus!
+会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+あなたさんのお話が聞けて楽しかったです。それでは、またー！=Foi divertido ouvir sua história. Até breve!
+あなたさんのこと、もっともっと知りたいって思ってますから……またいつでも声を掛けてくださいね！=Eu adoraria conhecê-lo cada vez melhor... Então, por favor, me ligue a qualquer momento!

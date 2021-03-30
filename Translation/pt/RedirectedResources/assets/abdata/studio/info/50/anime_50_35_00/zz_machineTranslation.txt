@@ -1,0 +1,53 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+几帳面：待機=Carinhosa: Esperar
+几帳面：肯定=Carinhosa: Afirmação
+几帳面：否定=Carinhosa: Negação
+几帳面：放置=Carinhosa: Deixar sozinho
+几帳面：考える=Carinhosa: Pensar
+几帳面：驚く00=Carinhosa: Surpresa 00
+几帳面：驚く01=Carinhosa: Surpresa 01
+几帳面：バイバイ=Carinhosa: tchau tchau
+几帳面：無反応=Carinhosa: Sem reação
+几帳面：恥ずかしい=Carinhosa: Constrangedor
+几帳面：登場=Carinhosa: Aparecer
+几帳面：起こす=Carinhosa: Acordar
+大和撫子：待機=Japonesa Ideal: Esperar
+大和撫子：肯定=Japonesa Ideal: Afirmativo
+大和撫子：否定=Japonesa Ideal: Negação
+大和撫子：放置=Japonesa Ideal: Deixar sozinho
+大和撫子：考える=Japonesa Ideal: Pensar
+大和撫子：驚く00=Japonesa Ideal: Surpresa 00
+大和撫子：驚く01=Japonesa Ideal: Surpresa 01
+大和撫子：バイバイ=Japonesa Ideal: tchau tchau
+大和撫子：無反応=Japonesa Ideal: Sem reação
+大和撫子：恥ずかしい=Japonesa Ideal: Constrangedor
+大和撫子：登場=Japonesa Ideal: Aparecer
+大和撫子：起こす=Japonesa Ideal: Acordar
+ボーイッシュ：待機=Moleca: Esperar
+ボーイッシュ：肯定=Moleca: Afirmativo
+ボーイッシュ：否定=Moleca: Negação
+ボーイッシュ：放置=Moleca: Deixar sozinho
+ボーイッシュ：考える=Moleca: Pensar
+ボーイッシュ：驚く00=Moleca: Surpresa 00
+ボーイッシュ：驚く01=Moleca: Surpresa 01
+ボーイッシュ：バイバイ=Moleca: tchau tchau
+ボーイッシュ：無反応=Moleca: Sem reação
+ボーイッシュ：恥ずかしい=Moleca: Constrangedor
+ボーイッシュ：登場=Moleca: Aparecer
+ボーイッシュ：起こす=Moleca: Acordar
+ヤンデレ：待機=Obsessiva: Esperar
+ヤンデレ：肯定=Obsessiva: Afirmação
+ヤンデレ：否定=Obsessiva: Negação
+ヤンデレ：放置=Obsessiva: Deixar sozinho
+ヤンデレ：考える=Obsessiva: Pensar
+ヤンデレ：驚く00=Obsessiva: Surpresa 00
+ヤンデレ：驚く01=Obsessiva: Surpresa 01
+ヤンデレ：バイバイ=Obsessiva: Tchau tchau
+ヤンデレ：無反応=Obsessiva: Sem reação
+ヤンデレ：恥ずかしい=Obsessiva: Constrangedor
+ヤンデレ：登場=Obsessiva: Aparecer
+ヤンデレ：起こす=Obsessiva: Acordar

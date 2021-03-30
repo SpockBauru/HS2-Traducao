@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+よし、それでいい。素直が一番だ。=Ok, isso é bom. A honestidade é o melhor.
+よし、オレはもう行く。世話になったな、本当に助かった。このお礼はまた今度な。=Está bem, vou andando. Obrigado por tudo. Você tem sido ótimo. Agradeço-lhe em outra ocasião.
+オレは助かったが、本当にこれで終わりでいいのか？　まぁ、この埋め合わせは、後できちんとしてやるよ。=Estou salvo, mas você tem certeza de que isto é o melhor que pode fazer? Bem, eu o recompensarei mais tarde.
+ほう、なんの悪戯も無しに助けるとは、案外紳士だったみたいだな。=Bem, você é mais um cavalheiro do que pensa, ajudando sem nenhum truque.
+助けられた礼は、また今度ってことでいいか？　このままでいると、またオマエに迷惑をかけそうなんでな。=Agradeço-lhe por salvar minha vida em outro momento. Se eu ficar assim, vou causar-lhe novamente problemas.
+オレを自由にした方が、色々出来ると思ったんだろう？　つまりは、オレに攻められたいってことか？=Você pensou que poderia fazer mais se me deixasse ir, não foi? Você quer dizer que você quer que eu o ataque?
+オマエもたまには役に立つな。=Você também é útil, às vezes.
+じゃあ、オレは行くぞ。変に引き止めるなよ？　オレに感謝だけ売っておいた方がいいぞ。=Pronto, estou indo. Não me atrasem, está bem? Mais vale vender sua gratidão para mim.
+どうした？　なんでまだオレの前にいるんだ？=O que está acontecendo? Por que você ainda está na minha frente?
+おっと、まさか何もされないとは思ってなかったが、オマエの趣味じゃなかったのか？=Whoa, eu não achava que eles fariam alguma coisa com você, mas isso não era sua coisa?
+さて、助けてもらったのはいいが。ここでまた問題発生だ。つまり、オマエとのお喋りはここまでだ。=Bem, é bom ter sua ajuda. Mas aqui está outro problema. Este é o fim de nossa pequena conversa.
+予想以上に謙虚なやつだったみたいだな。紳士なのは悪くねぇが、たまには欲望に素直になってもいいんだぜ？=Parece que ele foi mais humilde do que eu esperava. Não é ruim ser um cavalheiro, mas é bom ser honesto sobre seus desejos de vez em quando, sabe?

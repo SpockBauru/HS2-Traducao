@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+絵画１=Pintura 1
+絵画２=Pintura 2
+鏡=Espelho
+大きな鏡=Espelho grande
+ホログラムモニター=Monitor de holograma
+壁かけホログラム=Holograma de parede
+何かのブレーカー=Disjuntor
+コンソール=Console
+ドアランプ=Lâmpada de porta
+古びた梯子=Escada velha
+古びた瓶=Garrafa velha
+古びた空き缶=Lata velha vazia
+消火栓=Hidrante
+看板=Signboard
+レンガ1=Tijolo 1
+レンガ2=Tijolo 2
+板1=Quadro 1
+板2=Quadro 2
+板3=Quadro 3
+流木1=Madeira à deriva 1
+流木2=Madeira à deriva 2
+鉄パイプ1=Tubo de ferro 1
+鉄パイプ2=Tubo de ferro 2
+鉄板=Placa de ferro
+トタン=Ferro galvanizado
+ホース=Mangueira
+錆びた階段=Escada enferrujada
+壊れた樽=Barril quebrado
+ゴミ箱=Lata de lixo
+床のゴミ=Lixo do chão
+鉱石=Minério
+鉱石のかけら=Fragmento de minério
+空いた箱=Caixa vazia
+ふしぎな箱=Caixa misteriosa
+シャコ貝=Tridacna

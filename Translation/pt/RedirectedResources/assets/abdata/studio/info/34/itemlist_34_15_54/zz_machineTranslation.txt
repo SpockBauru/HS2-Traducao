@@ -1,0 +1,27 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ロビーの椅子=Cadeira de saguão
+ロビーの丸椅子=Cadeira redonda no saguão
+ロビーのソファ=Sofá no saguão
+バスチェア1=Cadeira de banho 1
+バスチェア2=Cadeira de banho 2
+庭園の椅子=Cadeira de jardim
+庭園のベンチ=Banco de jardim
+庭園の木製ベンチ=Banco de madeira no jardim
+焼杉の椅子=Cadeira yakisugi
+焼杉のベンチ=Banco yakisugi
+アンティークチェア=Cadeira antiga
+アンティークソファ=Sofá antigo
+四角スツール=Banquinho quadrado
+パイプソファ=Sofá cachimbo
+パイプ椅子1=Cadeira de cano 1
+パイプ椅子2=Cadeira de cano 2
+オフィスチェア=Cadeira de escritório
+車椅子=Cadeira de rodas
+待合室のソファ=Sofá na sala de espera
+教室の椅子=Cadeira de sala de aula
+中華の椅子=Cadeira chinesa
+西部のハイチェア=Cadeira alta ocidental
+西部の椅子=Cadeira ocidental

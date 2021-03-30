@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+やっほー……なんて気軽に挨拶できるか！　あっち行けーーっ！=Yoo-hoo... Que maneira casual de dizer olá! Fique longe de mim!
+も、もしかしてエッチのお誘い？　それなら、まずは、か、身体！　身体洗ってよ？=Você está me pedindo para transar com você? Então vamos começar com seu corpo. Por que você não lava seu corpo?
+風呂普通用件{0}=Assuntos normais de banho {0}
+というかさ、こ、こんな所で何してるの？=Quero dizer, o que você está fazendo aqui?
+それでさ、わ、私に何か用？=Então, o que você quer de mim?
+風呂好意{0}=Favores de banho {0}
+一緒に入っちゃう？　なんて、冗談だってば。恥ずかしすぎるって！=Você quer entrar comigo? Estou brincando. É muito embaraçoso!
+あ……えっと、お前もお風呂？　なんか、こういう小さいことでも合うと嬉しいね。=Oh... Uh, você está tomando banho também? Até é bom quando podemos encaixar estas pequenas coisas.
+風呂好意用件{0}=Favoritos do banho {0}
+そ、それでさ……私に何か用事があったんでしょ？　何かなぁって……。=Bem, então... Você queria me ver, não queria? Eu estava me perguntando...
+ほら、用事があるなら、遠慮せず言って。=Aqui, se você precisar de alguma coisa, não hesite em pedir.
+風呂享楽{0}=Desfrutando do banho {0}
+あれぇ、奇遇じゃん♪　ん？　奇遇じゃなかったりして？　私の追っかけかぁ？=Que coincidência. E se não for? Você está me seguindo?
+いつお前とヤるってなってもいいように、身体は綺麗にしとかないとなぁ♪=Tenho que manter meu corpo limpo para poder foder com você quando eu quiser.
+風呂享楽用件{0}=Desfrutando do banho {0}
+どうせヤリにきたんでしょ？　もちろん、ご指名は、わ・た・し？　ふふふ♪=Você está aqui para me foder, não está? Claro, você está aqui por mim, não está? Hihihi-hehe.
+もう目がエロくなってるよ。目的がバレバレだぁ♪=Você já tem um visual sexy nos olhos. É óbvio o que você quer.
+風呂嫌悪{0}=Aversão ao banho {0}
+やっぱ、お風呂やめようかな。お前がいるし……=Afinal de contas, acho que vou parar de tomar banho. Você está aqui e...
+え、なんでいるの？　お風呂を汚さないで？=Oh, por que você está aqui? Você não quer fazer uma bagunça no banheiro?
+風呂嫌悪用件{0}=Abominação do banho {0}
+用件があるなら、さっさと話して。=Se você tem algo a dizer, diga-o rapidamente.
+私はお前と話すことなんてないけど。お前は違うの？=Eu não tenho nada a dizer a você. Você não?
+風呂隷属{0}=Escravidão no banho {0}
+あ、ちょうどよかった……身体を洗うのと洗わないの、どっちがそそるかな……？=Ah, ainda bem... O que é mais intrigante, lavar o corpo ou não lavar o corpo?
+あ、私のお風呂を覗きに来たの？　減るものじゃないから、いいよ、はい……=Oh, você veio dar uma olhada no meu banho? Não é menos. Está bem, sim...
+風呂隷属用件{0}=A escravidão no banho importa {0}
+それで、私に声をかけてくれたってことは、やっぱりエロ？　私、またエロだった……？=Então, o fato de você ter se aproximado de mim significa que você é erótico? Estou sendo erótico novamente?
+何か私に命令したいことでもあった？　なんでも従うけど……=Há alguma coisa que você queira me dizer para fazer? Eu farei o que você quiser, mas...

@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+なんだか、かなり動き回ってるけど、大丈夫なの？=Você está meio que se movendo muito. Você está bem?
+一応安全なのよね？　ならいいけど。=É seguro, certo? Espero que sim.
+いいわよ……試しに遊んでみるから。=Está bem... Vou tentar e brincar com isso.
+すごい触手よね……どこから連れてきたのかしら？=Esses tentáculos são incríveis... De onde eles vieram?
+生きてるのよね、これ？　機械じゃないんでしょ？=Está vivo, não está? Não é uma máquina, não é?
+とにかく、この子で……楽しませてもらうから。=De qualquer forma, eu vou me divertir com esta garota.
+この触手……かなり暴れてるんだけど……=Estes tentáculos... Estão bastante fora de controle...
+肉食だったりしないわよね？=Você não é um carnívoro, é?
+私は、楽しめればそれでいいんだけど。=Estou bem com isso, desde que eu me divirta.

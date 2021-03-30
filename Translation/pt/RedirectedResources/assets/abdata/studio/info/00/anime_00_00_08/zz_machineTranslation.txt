@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+待機=Esperar
+本を読む=Ler um livro
+ページをめくる=Virar a página
+机に料理を置く=Colocar a comida na mesa
+掃除ふく=Poupas de limpeza
+高い机に手をついてる=Mão sobre uma mesa alta
+柵に寄りかかっている=Apoiado na cerca

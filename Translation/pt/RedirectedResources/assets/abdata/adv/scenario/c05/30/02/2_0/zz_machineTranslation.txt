@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なにしてたのA普通{0}=O que você estava fazendo?
+さ、最近、好きになったキャラクターグッズについて……話してたんです……=Bem, estávamos falando de alguns bens de caráter pelos quais me apaixonei recentemente...
+せ、先日観たドラマのことを話してたんですけど……=Estava a contar-lhe um drama que vi no outro dia...
+なにしてたのA好意{0}=O que você estava fazendo?
+え、えっと……れ……恋愛の話……といいますか……そういった感じのことを……=Bem, um... Estamos... Falando de amor... Ou algo assim.
+こ、恋人に対して何を求めるか……みたいな内容を話していました……=Ele estava falando sobre o que queria de sua namorada...
+なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+じ、実はその……好きな人に喜んでもらうにはどうすればいいか……ってお話をしてたんです。=Bem, na verdade, estávamos falando sobre... O que fazer para fazer a pessoa que você ama feliz...
+お、お化粧のお話を少し……わ、私……そういうのあまり得意じゃなくて……=Oh, eu gostaria de falar um pouco sobre maquiagem, mas eu... Não sou muito bom com isso.
+なにしてたのA嫌悪{0}=O que você estava fazendo?
+ど、どうすれば……あ、あまり怒られないかを……聞いてたんです……=Eu só estava perguntando como eu poderia... Uh, não ficar tão bravo.
+ひ、ひどいことする人に出会った時の対処方を……はぅぅ……=Oi, eu gostaria de saber o que fazer quando você conhecer alguém que faz coisas terríveis... Haha...
+なにしてたのA隷属{0}=O que você fez, A-slave {0}
+え、えっとですね……好きな人に見も心も捧げるのが女の子の幸せ……みたいな話をしてたんです……えへへ……=Bem, vejamos... Estávamos falando sobre como é a felicidade de uma garota dedicar seus olhos e coração à pessoa que ela ama... Ehehe...
+す、好きな人に求められた時に……どうやったら緊張しないか……なんてことを話し合ってました。=Estávamos falando de como estar menos nervoso quando alguém que você ama pede por você.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ん……さすがにこれだけしていれば、身体に慣れを感じてきますね。=Hmm... Como era de se esperar, se você está fazendo isso há tanto tempo, começará a sentir a familiaridade em seu corpo.
+この感じ……身体が、相性を再確認したような気がします。=Este sentimento... É como se meu corpo tivesse reafirmado nossa compatibilidade.
+好意{0}=Favores {0}
+なんだか少し、あなたに近づけた気がします……次が楽しみです。=Sinto que estou me aproximando um pouco mais de você... Estou ansioso para o próximo.
+あなたの身体の事がわかってきた気がします。　あなたも、私の身体の事、わかってきてくれていますよね？=Acho que estou começando a entender seu corpo. Você está conhecendo meu corpo também, não está?
+享楽{0}=Prazer {0}
+さて、次からはもう少し積極的にいってみましょうか。　たぶん、いける気がします。=Agora, vamos tentar ser um pouco mais agressivos da próxima vez. Acho que posso fazer isso.
+あなたになら、もっと自分を曝け出すのもいいかもしれませんね……=Talvez eu pudesse me expor mais a você...
+嫌悪{0}=Repugnância {0}
+違う……こんな身体、私知らない……っ=Não... Eu não conheço este corpo.
+くっ……誰が、あなたの事なんか認めますか……っ=Quem o reconheceria?
+隷属{0}=Escravidão {0}
+はぁ……あなたを感じていたら、どんどん身体が開発されていっちゃいますね……=Huh... Meu corpo está se desenvolvendo cada vez mais à medida que eu o sinto...
+私、あなたの前でならもっともっとエッチになれますので……次も、お願いしますね？=Posso ser ainda mais levado na sua frente, então... Da próxima vez, por favor, também?

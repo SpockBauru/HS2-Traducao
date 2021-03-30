@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+あぁ、身体が変な熱を帯びています……この触手に、何かされてしまった様です……=Oh, meu corpo está queimando como louco... E estes tentáculos estão fazendo algo comigo...
+もう解放されたはずなのに、絶頂している様な錯覚が……これは、いけません……=Eu já deveria ter sido liberado, mas sinto que estou no auge... Isto não deveria ser...
+今も、触手に絡みつかれている様な気がして……感じてしまいそうです。=Mesmo agora, sinto que estou sendo enredado em tentáculos... E posso senti-lo.
+もしかして、病みつきになってしまったのでしょうか……？=Será que você se tornou viciado?
+たくさん絡みつかれていた私の姿、いかがでしたか……？=Como você gostou de me ver emaranhado em tantos?
+興奮して頂けたのでしたら、本望です。=Se você estava entusiasmado com isso, eu realmente espero que sim.

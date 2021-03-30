@@ -1,0 +1,31 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+小屋=Cabana
+トタン小屋１=Cabana de ferro galvanizado 1
+トタン小屋２=Cabana 2 de ferro galvanizado
+販売所=Escritório de vendas
+街の噴水=Fonte da cidade
+白い噴水=Fonte branca
+壊れた変電機=Transformador quebrado
+崩れたお店１=Oficina em ruínas 1
+崩れたお店２=Oficina em ruínas 2
+石材建築物１=Edifício de pedra 1
+石材建築物２=Edifício de pedra 2
+石材建築物３=Edifício de pedra 3
+石材建築物４=Edifício de pedra 4
+石材建築物５=Edifício de pedra 5
+石材建築物６=Edifício de pedra 6
+瓦礫１=Escombros 1
+瓦礫２=Escombros 2
+瓦礫３=Escombros 3
+何かの跡地１=Ruínas de algo 1
+何かの跡地２=Ruínas de algo 2
+何かの跡地３=Ruínas de algo 3
+壊れた桟橋=Cais quebrado
+シャンのアジト=Esconderijo de Fofa
+工場=Fábrica
+レストラン=Restaurante
+塔=Torre
+処理場=Planta de processamento

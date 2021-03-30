@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+それは……三人でということ、でしょうか？　私は問題ありませんが……=Isso significa... Que nós três? Não tenho nenhum problema com isso, mas...
+えっと……私の方は、問題ございません。=Hum... Não há problema para mim.
+HしようA好意{0}=Eu lhe farei um favor.
+三人で、ですか……貴方が望まれるのでしたら……=Nós três... Se é isso que você quer.
+さ、三人で……その様な行為をお望みなのですね……=Bem, vocês três... Vocês três querem fazer algo assim...
+HしようA享楽{0}=Vamos fazer isso.
+はい、私は喜んでお付き合い致します。=Sim, estou disposto a concordar com isso.
+うふふ、そう仰ることは予想しておりました。=Ummm... Eu esperava que você dissesse isso.
+HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+何故、二人同時なのですか？　理解に苦しみます……=Por que vocês dois estão aqui ao mesmo tempo? Eu não entendo...
+……彼女が問題ないのでしたら、私も構いません。=... Se ela está bem com isso, eu estou bem com isso.
+HしようA隷属{0}=Vamos sexo Um escravo {0}
+三人で……自信はありませんが、努力致します。=Nós três... Não temos certeza, mas vamos tentar.
+刺激的なお誘いですね。勿論、喜んでお付き合い致します。=É uma oferta empolgante. É claro que terei o maior prazer em alinhar com isso.

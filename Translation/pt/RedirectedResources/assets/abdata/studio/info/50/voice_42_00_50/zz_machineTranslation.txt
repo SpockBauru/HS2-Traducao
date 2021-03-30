@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+「すぅ……はぁ……」="Suu... Ha..."
+「んぅ……はぁ……」="Hmm... Hah..."
+「はぁ…はぁ…はぁ…はぁ…」="Hah... Ha... Ha... Ha... Ha..."
+「すぅ…はぁ…はぁ…んぅ…」="Suu... Ha... Ha... Nuu..."
+「はひ、ぁひっ、ひっ、んぐっ…はひ…」="Hahi, ahi, oi, ngu... Hahi..."

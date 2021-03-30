@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+え……それはえぇと、この三人でということですよね？　わ、私は構いませんが……少し、ドキドキしますね。=Bem... Isso significa, uh, nós três, certo? Eu não me importo, mas estou um pouco nervoso, você não está?
+また、唐突ですね……いつもそういうことばかり考えているのですか？　ふふ、仕方のない人です。=Além disso, é abrupto... Você sempre pensa nesse tipo de coisa? Huh, não posso evitá-lo.
+HしようA好意{0}=Eu lhe farei um favor.
+そ、そういうことは二人でするものでは？　いえ、嫌ではないのですが……少々突然だったもので……=Bem, isso não é algo que vocês dois fazem juntos? Não, não é que eu não queira, é que... Foi um pouco repentino.
+うぅ、つまりそれは、貴方と私達と……三人で……や、やります！　私は大丈夫です！　貴方と、シたいですし……=Uh, quero dizer, é você e nós... Nós três... Não, eu faço isso! Eu sou bom! Quero fazer isso com você, então...
+HしようA享楽{0}=Vamos fazer isso.
+あら、これは想像以上のことになりましたね♪　私は大歓迎ですよ。三人でするなんて、凄くワクワクします。=Oh, isto é muito mais do que eu imaginava... Sou a favor disso. É terrivelmente emocionante para nós três fazermos isso.
+ふふ、素敵な提案ですね。もちろん私は大賛成なので……あとお一人のご説得を、頑張ってください♪=Hehe, essa é uma sugestão adorável. Claro que sou a favor, então... Por favor, tente convencer mais uma pessoa a se juntar a nós. â
+HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+信じられない程の豪胆さですね。普通なら即却下ですが、そこまでの自信が……実際にシたらどうなるのか見てみたい気もします。=Isso é incrivelmente ousado da sua parte. Normalmente, eu o descartaria fora de controle, mas com tanta confiança... Eu gostaria de ver o que acontece quando você realmente se agita.
+はぁ……貴方は全部それですね。人数なんてお構いなしですか……仕方ありません、私だけ逃げるわけにもいきませんし……=Huh... Você é todo a favor disso, não é? Você não se preocupa com o número de pessoas... Não há nada que possa ser feito. Não posso simplesmente fugir...
+HしようA隷属{0}=Vamos sexo Um escravo {0}
+わ、私はお二人に合わせますので……お二人がいいなら、私も参加させて頂ければ……幸いです。=Uau, eu vou junto com vocês dois... Então se estiver tudo bem com vocês dois, eu ficaria feliz em participar...
+まぁっ、また凄い事を考えましたね。私はその、流されやすい性格なので……こういう空気は、断り辛いというか……やってみても、いいですよ。=Bem, você teve outra grande idéia. Tenho a tendência de ser facilmente influenciado, então... É difícil dizer não a este tipo de atmosfera... Você pode tentar.

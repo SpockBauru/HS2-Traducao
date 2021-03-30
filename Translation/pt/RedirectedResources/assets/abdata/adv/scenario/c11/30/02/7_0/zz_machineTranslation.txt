@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+本当に、宜しいのですか？=Você tem certeza de que quer fazer isso?
+わざわざ、お声がけ下さったのですか？=Você teve muito trabalho para entrar em contato comigo?
+なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+えっと……ご遠慮されているのでしょうか？=Hum... Você está se abstendo de fazer isso?
+お話出来る機会だと思っていたのですが……残念です。=Pensei que esta era uma oportunidade para falar com você... Mas sinto muito.
+なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+他のご用向きの途中なのですか？=Você está no meio de outro recado?
+特にご用はなかったのですか？=Você não tinha algo em particular sobre o qual queria me ver?
+なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+ご用がないのでしたら、声をかけないで下さい。=Se você não quiser falar comigo, por favor, não fale comigo.
+では、早急に立ち去って下さい。=Então, por favor, saia o mais rápido possível.
+なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+貴方がそう仰るのでしたら……了解致しました。=Se você o diz... Então eu entendo.
+そうなのですか……少々残念です。=Vejo... Estou um pouco decepcionado.

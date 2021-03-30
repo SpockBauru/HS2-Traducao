@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+勿論OKだぜ。お前とエッチできないなんて冗談じゃないからな=Claro que não me importo com isso. Porque não estou brincando de não poder transar com você.
+俺が断る訳ねぇだろ。今日も一緒に楽しく感じ合おうぜ。=Eu não diria não a isso. Vamos nos divertir e nos sentir um ao outro hoje.

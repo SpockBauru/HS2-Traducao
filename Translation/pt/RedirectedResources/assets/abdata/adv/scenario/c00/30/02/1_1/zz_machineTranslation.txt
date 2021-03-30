@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelúdio B normal {0}
+こんにちは。どなたかをお探しでしょうか？=Olá. Você está procurando por alguém?
+私か彼女に何かご用でしょうか？=O que posso fazer por você ou ela?
+前フリB好意{0}=Prelúdio B Favor {0}
+こんにちは。良かったら、あなたもお話しませんか？=Olá. Se você quiser, pode falar comigo também.
+どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=Como posso ajudá-los? Não me cabe a mim dizer-lhe que ficaria feliz em...
+前フリB享楽{0}=Prelúdio B Kyouraku {0}
+3Pをしたいとという本音がお顔に出ていますよ。=Você pode ver em seu rosto que você realmente quer ter uma ménage à trois.
+私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=Eu sei que você está entusiasmado em nos ver, mas por favor, tente controlar sua excitação.
+前フリB嫌悪{0}=Prelúdio B Disgust {0}
+普通の人なら、会話中に声をかけたりしませんよ。=Uma pessoa normal não falaria com você durante uma conversa.
+楽しい気分が霧散しました。=O humor divertido se esfriou.
+前フリB隷属{0}=Prelúdio B Escravo {0}
+二人纏めて犯したい、そう考えているお顔ですね。=Parece que você quer foder as duas juntas, não é mesmo?
+あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=Seria estranho ter uma conversa com ela enquanto é fodida por você.

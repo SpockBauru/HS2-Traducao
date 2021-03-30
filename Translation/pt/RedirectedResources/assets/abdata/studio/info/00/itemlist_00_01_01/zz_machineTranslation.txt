@@ -1,0 +1,55 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+木床１=Piso de madeira 1
+木床２=Piso de madeira 2
+木床３=Piso de madeira 3
+木床４=Piso de madeira 4
+木床５=Piso de madeira 5
+木床６=Piso de madeira 6
+木床７=Piso de madeira 7
+石床１=Chão de pedra 1
+石床２=Chão de pedra 2
+石床３=Chão de pedra 3
+石床４=Chão de pedra 4
+石床５=Chão de pedra 5
+石床６=Chão de pedra 6
+石床７=Chão de pedra 7
+シンプルな床１=Piso 1 simples
+シンプルな床２=Andar simples 2
+シンプルな床３=Andar simples 3
+シンプルな床４=Andar simples 4
+シンプルな床５=Andar simples 5
+シンプルな床６=Andar simples 6
+シンプルな床７=Piso 7 simples
+木壁１=Parede de madeira 1
+木壁２=Parede de madeira 2
+木壁３=Parede de madeira 3
+木壁４=Parede de madeira 4
+木壁５=Parede de madeira 5
+石壁１=Parede de pedra 1
+石壁２=Parede de pedra 2
+石壁３=Parede de pedra 3
+石壁４=Parede de pedra 4
+石壁５=Parede de pedra 5
+シンプルな壁１=Parede simples 1
+シンプルな壁２=Parede simples 2
+シンプルな壁３=Parede simples 3
+シンプルな壁４=Parede simples 4
+シンプルな壁５=Parede simples 5
+木の隔壁1=Septo de madeira 1
+木の隔壁2=Septo de madeira 2
+木の隔壁3=Septo de madeira 3
+木の隔壁4=Septo de madeira 4
+木の隔壁5=Septo de madeira 5
+石の隔壁1=Antepara de pedra 1
+石の隔壁2=Antepara de pedra 2
+石の隔壁3=Antepara de pedra 3
+石の隔壁4=Antepara de pedra 4
+石の隔壁5=Antepara de pedra 5
+シンプルな隔壁1=Partição simples 1
+シンプルな隔壁2=Partição simples 2
+シンプルな隔壁3=Partição 3 simples
+シンプルな隔壁4=Partição simples 4
+シンプルな隔壁5=Partição 5 simples

@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+壁松明=Tocha de parede
+松明=Tocha
+ドラム缶焚火=Fogueira de tambor
+焚火台=Fogueira
+木製ライト=Luz de madeira
+木製壁ライト=Aplique de madeira
+室内照明=Iluminação interior
+ペンダントライト=Luz pendente
+シーリングファン=Ventilador de teto
+ランプ=Luminária
+ファンライト=Ventilador
+屋外用ライト=Luzes externas
+街灯1=Poste 1
+街灯2=Poste 2

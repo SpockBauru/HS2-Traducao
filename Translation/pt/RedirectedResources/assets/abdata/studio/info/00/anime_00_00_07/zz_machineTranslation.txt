@@ -1,0 +1,23 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+待機=Esperar
+落ち込むin=Deprimido In
+落ち込むloop=Deprimido Loop
+落ち込むout=Deprimido Out
+座り咳=Tosse sentada
+バーの椅子=Cadeira de bar
+ぬいぐるみを抱く=Segurar um bicho de pelúcia
+会話 右=Conversar à direita
+会話 左=Conversar à esquerda
+ベンチ座り 男女=Homem e mulhere sentados no banco
+ベンチ膝枕 男女=Homen e mulhere almofada de joelho 
+本を読む=Ler um livro
+ページをめくる=Virar a página
+洋式トイレin=Banheiro estilo ocidental In
+洋式トイレloop=Banheiro estilo ocidental Loop
+洋式トイレout=Banheiro estilo ocidental Out
+洋式トイレバレ=Barra de banheiro de estilo ocidental
+洋式トイレバレ待機=Barra de banheiro estilo ocidental esperando

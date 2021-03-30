@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+好意{0}=Favores {0}
+素敵な時間だったわ……あなたが連れてきてくれたおかげね。=Foi uma época adorável... Graças a você por me trazer junto.
+また、誘って欲しいわ。=Espero que você me convide de volta.
+あなたとお酒に、たっぷりと酔いしれた気分だわ……=Sinto-me como se estivesse cheio de você e de sua bebida...
+ついつい、雰囲気に飲まれちゃったのかしら、うふふ。=Acho que me deixei levar pela atmosfera, hihihi.
+こんな素敵な時間……あなたがいてくれたおかげね。=Um momento tão maravilhoso... Graças a você.
+また、一緒にここに来ましょうよ、ね？=Voltaremos aqui juntos, está bem?

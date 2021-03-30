@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用{0}=Objetivo Geral {0}
+嬉しいわ、あなたに出会えるなんて、やっぱり運命なのかしら。=Estou tão feliz em encontrá--lo. Acho que é o destino.
+こんな所で出会うなんて、やっぱりお互いに必要としているのよ、私たち。=Nunca pensei que o veria aqui. Eu sabia que precisávamos um do outro.
+あなたが声をかけてくれるってわかってたわ。お互いに求めあってるんだもの。=Eu sabia que você iria me chamar. Queremos um ao outro, você sabe.
+風呂{0}=Banho {0}
+こんな所で出会うなんて、お風呂、一緒に入るってことね。=Não posso acreditar que estamos nos encontrando em um lugar como este. Banho, você quer dizer juntos.
+お風呂で会えたって事は、一緒に入る運命だって事ね。=Se nos encontrássemos no banho, significa que estamos destinados a ficar juntos.
+用件{0}=Negócios {0}
+用件なんて分かってるわ。お互いに求めあってるんだもの。=Eu sei o que você quer. Nós nos queremos um ao outro.
+とりあえず二人で繋がり合いましょうよ……うふふ。=Enquanto isso, vamos nos conectar um com o outro... Hihihi.

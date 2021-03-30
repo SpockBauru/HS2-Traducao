@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+ふふ、うふふ……結婚、ですね……♪　何も言わなくて大丈夫です……あなたの意思は全て理解できました……♪=Hihihi-hehe... Casamento, sim ♪ Você não precisa dizer nada ♪ Eu entendo tudo o que você quer ♪
+指輪も婚姻届も必要ありません……♪　私があなたを愛していて……あなたが私を愛している……それだけで充分です……♪=Não preciso de anel ou certidão de casamento ♪ Eu te amo... E você me ama... E isso é o suficiente ♪
+他の誰が何と言おうが私達は正式に結ばれました……♪　さあ、誓いのセックスをしましょう……♪=Não me importa o que os outros dizem, estamos oficialmente empatados ♪ Venha, vamos fazer sexo com votos ♪
+健やかなるときも、病めるときも、喜びのときも、悲しみのときも、富めるときも、貧しいときも、例え死がふたりを分かとうとも……愛しています……♪=Na saúde e na doença, na alegria e na tristeza, na riqueza e na pobreza, mesmo que a morte nos separe... Eu te amo...
+現世も前世も来世も、私はあなただけを愛しています……♪　あなただけをです……♪=Nesta vida, a última e a próxima, eu amo somente você ♪ Somente você ♪
+あなたも同じくらい……私を愛してくださいね……♪=Espero que você me ame... Tanto quanto eu amo você...
+愛が目に見えれば、どれくらいあなたを愛しているかすぐに分かって貰えるんですけれど……人はまだそこまで進化出来てない様で残念です……♪=Se o amor fosse visível, as pessoas saberiam imediatamente o quanto eu te amo... É uma pena que as pessoas ainda não tenham evoluído a esse nível...
+見て分かって貰えないなら、言葉で伝えるしかないですよね……？　だからあなたへの愛のおもいだけ「好き」って言います……♪=Se você não consegue ver e entender, você tem que dizer com palavras... Certo? Então direi apenas "eu te amo" com todo o amor que tenho por você...
+好きです好きです好きです好きです好きです好きです好きです好きです……ふふ、人生が200回あったとしても伝えきれないかもしれません……♪=Te amo, te amo, te amo, te amo, te amo... Fufu, mesmo que eu tivesse 200 vidas, eu posso não ser capaz de lhe dizer ♪

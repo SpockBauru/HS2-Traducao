@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Quebrado {0}
+私ぃ……まら出来るぅ……♪=Eu... Posso... Ainda...
+景色あぁ……ぐるぐるぅ……♪=♪ Oh, a vista... Redonda e redonda ♪
+身体ぁ……びくびくぅ……♪=Corpo... Tremendo...

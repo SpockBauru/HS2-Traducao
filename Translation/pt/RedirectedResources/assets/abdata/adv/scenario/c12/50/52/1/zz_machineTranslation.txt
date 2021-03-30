@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+まったく、最悪だったぜ。=Que porcaria.
+お前のせいで……恥ずかしい思いしちまったじゃねぇか。=Você me deixou... Constrangido, sabe?
+なんで、こんな所で無理やりやろうとするんだよ……=Por que você está tentando me forçar a fazer isso aqui...
+理解できねぇぜ、まったく……=Eu não entendo.
+完全に、無理やりだったじゃねぇかよ！=Você estava forçando isso totalmente!
+今度あんな真似したら、ぶっ飛ばすからな。=Se você fizer algo assim novamente, eu lhe darei um chute no traseiro.

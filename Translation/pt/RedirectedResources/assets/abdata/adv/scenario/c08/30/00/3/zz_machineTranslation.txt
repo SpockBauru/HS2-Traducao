@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+もしかしてー話しかける相手を間違えたってやつすかー？=Pode ser que você esteja falando com a pessoa errada?
+もー、セックスできるかもーって期待しちゃったじゃないすかー、まあー自業自得すけどー。=Eu esperava que pudéssemos transar... Bem, eu mereci, mas...
+好意{0}=Favores {0}
+えーあなたと話してめちゃくちゃ濡れてきたところだったんすけどー。=Eu estava ficando muito molhado falando com você.
+じゃー「あなたとセックスしてー」っていう願望を溜めておくのでー今度爆発させるっすー。=Então, vou poupar meu desejo de transar com você e explodi-lo na próxima vez.
+享楽{0}=Prazer {0}
+私のメチャシコ誘いワードに乗ってこないとはツワモノっすねー。=Você tem tanta sorte de não ter recebido a minha palavra de convite.
+なんでもないってーもしかしてもう余所で射精してきちゃったんじゃないすかー？=Não é nada... Talvez você já tenha ejaculado em outro lugar?
+嫌悪{0}=Repugnância {0}
+そっすかー。んじゃ、また今度っすー。=Estou vendo. Bem, nos vemos na próxima vez.
+了解っすー。じゃー私はこれでー。=Entendi. Deixo você com isso.
+隷属{0}=Escravidão {0}
+そんなーあなたの太くて固くて大きいアレで～あーしてこーしてドピュっとしてほしかったっすー。=Oh não, eu queria que você fizesse isto e aquilo com seu grande, duro e grosso pinto.
+う～もし私を生殺しのままにしたくないって思ったらーいつでも戻ってきてほしいっすー。=Se você não quiser me deixar vivo, pode sempre voltar.

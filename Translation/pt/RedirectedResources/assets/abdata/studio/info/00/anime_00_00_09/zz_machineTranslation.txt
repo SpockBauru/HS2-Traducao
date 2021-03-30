@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+しゃがみin=Agachado In
+しゃがみloop=Agachado Loop
+しゃがみout=Agachado Out
+傘持ちしゃがみin=Agachado com um guarda-chuva In
+傘持ちしゃがみloop=Agachado com um guarda-chuva Loop
+傘持ちしゃがみout=Agachado com um guarda-chuva Out
+体育座りin=Ginástica sentada IN
+体育座りloop=Ginástica sentada Loop
+体育座りout=Ginástica sentada Out
+砂の城を立てる=Construir um castelo de areia
+TVゲームしてる=Jogando video game
+しゃがみ怖がる=Agachado com medo
+和式トイレin=Casa de banho estilo japonês In
+和式トイレloop=Banheiro estilo japonês Loop
+和式トイレout=Banheiro estilo japonês Out
+和式トイレバレin=Barra de banheiro de estilo japonês In
+和式トイレバレloop=Barra de banheiro de estilo japonês Loop
+足パタパタ=Pegadas de pé
+足パタパタ2=Pegadas de pé 2
+クッションでゲーム=Jogo com almofada
+クッションで脱力=Fraqueza com almofada
+ぬいぐるみを抱く=Segurar um bicho de pelúcia
+扇風機=Ventilador
+風呂 待機=Banho esperando
+風呂バレin=Banho In
+風呂バレloop=Banho Loop
+五右衛門風呂=Banho goemon
+五右衛門風呂バレin=Banho goemon In
+五右衛門風呂バレloop=Banho goemon Loop
+地面いじりin=Brincando com o chão In
+地面いじりloop=Brincando com o chão Loop
+地面いじりout=Brincando com o chão Out
+治療=Tratamento
+暖まる=Aquecimento

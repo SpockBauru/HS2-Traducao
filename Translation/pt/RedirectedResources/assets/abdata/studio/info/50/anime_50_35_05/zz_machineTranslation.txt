@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+登場10=Aparência 10
+登場11=Aparecer 11
+登場12=Aparecer 12
+登場13=Aparecer 13
+アクション1=Ação 1
+アクション2=Ação 2
+アクション3=Ação 3
+アクション4=Ação 4
+アクション5=Ação 5
+アクション6=Ação 6
+アクション7=Ação 7
+アクション8=Ação 8
+アクション9=Ação 9

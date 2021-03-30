@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+事後{0}=Após o fato {0}
+少々戯れたかっただけなのですか？　しようがないお客様ですね……=Você só queria se divertir um pouco? Você é um cliente indefeso...
+困ったお客様です、あまり時間を取らせないで下さいね？=Sou um cliente problemático. Por favor, não demore muito, está bem?

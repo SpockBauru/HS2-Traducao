@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あ、おはよう。なんだ、部屋の前で待っててくれたのか？　嬉しいな。=Oh, bom dia. O quê, você estava esperando por mim em frente ao meu quarto? Isso é muito gentil da sua parte.
+おはよう！　来てたんなら、起こしてくれても良かったんだぜ。=Bom dia! Se você estivesse aqui, poderia ter me despertado.
+お、なんだよ……俺が起きるの待ってたのか？　嬉しいぜ、それじゃ、今日も一緒に楽しもうか。=Oh, o que... Você estava esperando por mim para acordar? Então, estou feliz que você esteja aqui. Vamos nos divertir juntos hoje.
+あぁ、おはよう……朝からお前の顔、見たくなかったけどな。=Sim, bom dia... Embora eu não quisesse ver seu rosto esta manhã.
+なんだ、寝込みを襲いに来たんじゃないのか？　ちょっと期待してたんだけどな。=O quê, você não veio me atacar enquanto eu dormia? Eu estava esperando por isso.

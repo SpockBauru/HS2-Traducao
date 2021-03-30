@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+新婚初夜って、やはり素晴らしいものでしたね……=A primeira noite de lua-de-mel deles ainda foi uma coisa maravilhosa.
+これで私は身も心も、完全にあなたのものになりましたわ。=Agora eu sou completamente seu, de corpo e alma.
+新婚初夜……素敵なひと時でした。=Nossa primeira noite como recém-casados... Foi um belo momento.
+早く、あなたの子供を孕めればいいのですが……=Espero poder conceber seu filho em breve...
+これで……私たちは本当の意味で夫婦になったのですね。=Agora... Somos realmente marido e mulher, não somos?
+いつまでも、あなたと共にいさせて下さいませ。=Por favor, deixe-me estar com você para sempre e sempre.

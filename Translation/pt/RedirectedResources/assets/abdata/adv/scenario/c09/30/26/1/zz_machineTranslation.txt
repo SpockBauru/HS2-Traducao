@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+うーん、まだちょっと緊張しちゃってますけど、精一杯頑張りたいと思いますので、よろしくお願いしますなのですよー。=Hmm, ainda estou um pouco nervoso, mas farei o meu melhor, portanto, por favor, me dêem seu apoio!
+エッチってどーやったら慣れるんでしょー？　全然嫌ではないんですけど、そのー、やっぱり照れちゃいますね、えへへ。=Como você se acostuma com o sexo? Não é que eu não goste nada disso, mas ainda estou um pouco envergonhado.
+好意より20～49{0}=20-49{0} de favor.
+既に経験済みなわたしとしては、もー何でも出来る気でいるんですがー。如何せん、経験不足は否めないというか……とにかくよろしくお願いします！=Eu já tenho experiência, por isso sinto que posso fazer qualquer coisa. Não posso negar minha falta de experiência, mas... De qualquer forma, estou ansioso para trabalhar com você!
+エッチ……どーやったら上手になるんですかねー？　やっぱり経験しかないのかな？　だったら、いっぱい経験させて欲しいですよー、えへへ。=Como você se torna bom no sexo? A experiência é o único caminho? Se for esse o caso, quero que você me deixe experimentar muita coisa.
+好意より50～79{0}=50-79{0} de favor.
+まだまだ緊張しちゃって、思うようなエッチは出来ませんけど……でも、あなたさんが相手だとやっぱり嬉しいですよー！=Ainda estou nervoso e não posso transar como quero, mas ainda estou feliz quando estou com você!
+正直なところ、エッチに関してはまだまだ未熟者ですので……あなたさんがリードしてくれると心強いなー、なんて！=Para ser honesto, ainda sou um trabalho em andamento quando se trata de sexo... Então seria reconfortante se você pudesse assumir a liderança... Oh meu!
+好意より80～100{0}=80 a 100{0} mais do que favor.
+エッチって恥ずかしいことも多いですけど……それ以上に嬉しいことも多いんですよねー。あなたさんが相手だから気付けたんですよ♪=O sexo é muitas vezes embaraçoso... Mas também é muito mais excitante! Percebi isso porque eu estava com você ♪
+まだまだ不慣れなわたしですけど、あなたさんとだったらどんなことでも出来ちゃう気がするんです。色々教えてくださいね、先生♪　なんちゃって。=Ainda sou novo nisto, mas sinto que posso fazer qualquer coisa com você. Por favor, me ensine muitas coisas, Sensei.
+享楽より20～49{0}=20-49{0}
+なんかわたし……最近、エッチなことに興味津々なお年頃っていうかー、そんな感じになっちゃってー……あはは、恥ずかしー！=Sinto que estou numa idade em que estou realmente interessado em sexo, ou algo assim... Haha, isso é embaraçoso!
+ちょっと慣れてきたおかげか、エッチなこと、色々知りたいんですよねー。あなたさんだったら、教えてくれますよね？=Talvez seja porque estou me acostumando um pouco a isso, mas quero saber sobre sexo e tudo isso! Se for você, você vai me dizer, não vai?
+享楽より50～79{0}=De 50 a 79{0}
+ふふっ、今までは耳年増な部分もありましたけど、経験済みとなった今ではもー完璧。わたしのエッチでメロメロにしちゃいますよー。=Até agora, eu era um pouco um ouvido antigo, mas agora que experimentei, estou perfeito. Eu vou fazer você derreter com meu sexo!
+どーやったらあなたさんに悦んでもらえるか、拙いなりに、いーっぱい研究してきましたからね。期待しちゃってください！=Fiz muitas pesquisas para descobrir como posso fazer você feliz. Você pode contar comigo!
+享楽より80～100{0}=De 80-100{0}
+慣れていないとはいえ、エッチに手抜きは禁物！　わたしもたっぷり勉強してきましたから、今日も一発頑張っちゃいましょー！=Mesmo que você não esteja acostumado a isso, você não pode cortar os cantos quando se trata de sexo! Eu estudei muito, então vamos tentar de novo hoje!
+エッチの愉しさを知っちゃうと、わたし、もう次から次に知識欲が湧いてきちゃって！　今日も色んなこと試しちゃいますから、覚悟してくださいね♪=Quando descobri as alegrias do sexo, meu apetite pelo conhecimento cresceu de uma coisa para outra. Vou tentar muitas coisas hoje, portanto, por favor, esteja preparado.
+嫌悪より20～49{0}=De repugnância 20-49{0}
+あんまり上手に出来る気はしないので……期待しないでくださいね。=Não sinto que possa fazê-lo muito bem, por isso... Não tenha muitas esperanças.
+やっぱりエッチって慣れないですねー。うーん、残念ながら、わたし、もしかしたら苦手なタイプの人なのかもしれないですよー。=Afinal de contas, é difícil se acostumar ao sexo! Hmmm, infelizmente, talvez eu seja o tipo de pessoa que não é boa nisso.
+嫌悪より50～79{0}=50-79 de repugnância {0}
+前回のエッチから色々考えたんですけどー、うーん、やっぱりエッチってどーやっても疲れちゃいますよねー。=Pensei muito sobre isso desde a última vez que fizemos sexo, mas... Bem, sexo é realmente cansativo, não importa como você o faça.
+疲れずに気持ち良くなれるだけのエッチがあればいーんですけど……そーいうのは難しいんでしょーかね、やっぱり。=Seria bom se houvesse sexo suficiente para fazer você se sentir bem sem se cansar... Mas acho que isso é difícil de fazer.
+嫌悪より80～100{0}=80-100{0} de repugnância.
+はぁぁ……今から身体動かすと思うだけでなんかぐったりですよー。あ、別にエッチが嫌いなわけじゃないですよ？　まだ慣れていないだけなんでー。=Não é que eu não goste de sexo. Ah, não é que eu não goste de sexo, sabe? É que eu ainda não estou acostumado a isso.
+なんかー……エッチって気分が大切じゃないですかー？　今日ってー、あんまり乗らないっていうかー……まぁ、別にいーんですけどね。=Eu não sei... Sexo é tudo uma questão de humor, não é? Hoje, não estou com disposição... Bem, tudo bem.
+隷属より20～49{0}=Da servidão 20-49{0}
+まだ少し照れますけど……あなたさんのしたいエッチをあなたさんがしたいようにしてくれたら嬉しいなって思いますよー。=Ainda sou um pouco tímido... Mas eu ficaria feliz em ter o sexo que você quer, do jeito que você quer!
+緊張はしますけど、嫌ってことはないんで……あなたさんから色々要望を出してもらえると助かりますー、えへへ。=Estou nervoso, mas não é que eu não goste... Seria ótimo se você pudesse me dar alguns pedidos, hehehe.
+隷属より50～79{0}=50-79{0} da servidão.
+最近、エッチの時にあなたさんがどんなことを求めてくれるのか、そんなことばかり考えちゃってるんですよ。わたし、やらしい娘なんでしょーか？=Ultimamente, tenho pensado muito sobre o que você quer que eu faça quando fazemos sexo. Eu sou uma safada?
+まだまだエッチ初心者なわたしですので、そのー……あなたさんがしたいことを教えてくれると助かりますー！=Eu ainda sou um iniciante em sexo, então... Seria ótimo se você pudesse me dizer o que quer fazer!
+隷属より80～100{0}=80-100{0} da servidão.
+わたし、まだエッチには不慣れですけど……あなたさんが……えーっと……調教？　そーいうのしてくれると、いーんじゃないかなーって思います！=Eu ainda sou novo no sexo, mas acho que seria bom se você... Uh... Me treinasse? Eu acho que seria ótimo se você pudesse fazer algo assim por mim!
+あなたさんが求めてくれれば求めてくれるほど、わたしもエッチが上手になると思うので！　今日もいっぱい、好きにしてくれていーですよー！=Quanto mais você pedir, melhor eu terei sexo! Você pode fazer o que quiser comigo hoje também!

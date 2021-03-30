@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Posto de Conversação A Normal {0}
+それでは、お話はこの辺で。またいつか、三人でお話がしたいですね。=Bem, por enquanto é tudo. Gostaria de falar com vocês três novamente um dia destes.
+三人で話していると、時間があっという間に経ってしまいますね。そろそろ、お開きにしましょうか。=O tempo voa quando nós os três estamos conversando, não é mesmo? Acho que é hora de dar a noite por terminada.
+会話事後A好意{0}=Um favor após a conversa {0}
+今日は本当にありがとうございました。三人で色々とお話ができて、とても楽しかったです。=Muito obrigado por hoje. Nós três tínhamos muito o que conversar e foi muito divertido.
+もう、結構な時間が経っていたのですね。お話に夢中で気が付きませんでした。それでは、解散しましょうか？=Já faz um bom tempo, não é mesmo? Eu estava tão absorvido em nossa conversa que não percebi. Vamos nos separar então?
+会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+やはり、一人より二人、二人より三人ですね。人数が多いほど、色々楽しめるのだと思います。=Afinal, duas pessoas são melhores que uma, e três pessoas são melhores que duas. Acho que quanto mais pessoas houver, mais você poderá desfrutar de várias coisas.
+さて、そろそろいいお時間ですし、この辺りで解散が無難ですかね？　区切らないと、ずっとお話してしまいそうですし。=Bem, está quase na hora de ir, e eu acho que é seguro romper por aqui, não acha? Se não nos separarmos, podemos acabar falando para sempre.
+会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+お話は終わり……ということでよろしいですか？　これ以上は、特に何も無いと思いますので。=Você tem certeza de que quer terminar sua história? Acho que não há mais nada a dizer.
+ふぅ……では解散いたしましょう。皆様の今後の予定に、支障があるといけませんので。=Bem... Vamos nos separar. Não queremos interferir em seus planos futuros.
+会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+では、私はこの辺で失礼させて頂きますね。お二人でお話の続きをするのであれば、どうか私にご遠慮なく。=Bem, então, vou deixá-lo a seu critério. Se vocês dois quiserem continuar sua conversa, por favor, não hesitem em me contatar.
+お二人とも、お時間は大丈夫ですか？　私は構いませんが……あまり長時間お引止めするのも、悪いかと思いまして。=Vocês dois têm certeza de que estão prontos para isto? Não me importo, mas achei que seria errado mantê-lo aqui por muito tempo.

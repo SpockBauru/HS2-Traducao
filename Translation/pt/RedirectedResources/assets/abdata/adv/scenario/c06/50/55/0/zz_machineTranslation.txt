@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+結婚式の次にすることは、お分かりですか？=Você sabe o que vai fazer a seguir após o casamento?
+結婚と言えば、初夜のちぎりですわ。=Falando em casamento, é minha noite de núpcias, Chigiri.
+それでは、早速始めましょう……=Então, vamos começar...
+結婚で心が繋がったんですから、次は身体も繋がりましょう。=Vocês conectaram seus corações em casamento, agora vamos conectar seus corpos também.
+私、あなたの子供が孕みたいのです。=Eu quero conceber seu filho.
+さぁ……早く、私を孕ませて下さいませ。=Agora... Rapidamente, por favor, me impregnem.
+結婚したんですね、私達……=Você é casado. Nós...
+次は、家族を増やしていく番ですよ。=A seguir, é a sua vez de fazer crescer a sua família.
+さぁ……早く、一緒に子作りに励みましょう。=Vamos... Vamos, vamos fazer um bebê juntos.

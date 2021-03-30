@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あ……そ、そうでしたか……=Ah... Sim, eu vejo...
+た、たまたまお会いしただけだったんですね。=Oh, você acabou de conhecê-lo, não foi?
+好意{0}=Favores {0}
+あ……て、てっきり私を探してくれたのかと……すみません……=Desculpe, pensei que você estava me procurando.
+ぐ、偶然声を掛けて頂いただけですもんね。=Você acabou de me chamar, não foi?
+享楽{0}=Prazer {0}
+あ……せっかく会えたと思ったんですけど……本当にたまたまただったんですね……=Oh... Pensei que tinha acabado de conhecê-lo... Mas foi realmente apenas uma coincidência...
+そう……ですか……では、あまり引き止めない方がいいですね。=Bem... Está bem... Então é melhor eu não te atrasar muito.
+嫌悪{0}=Repugnância {0}
+で、でしたら……よ……呼び止めないでください……=Bem, então... Não... Não me impeça...
+そ、そうですか……良かった……そ、それじゃ私はこれで……=Bem, isso é bom... Bem, acho que vou só...
+隷属{0}=Escravidão {0}
+なんでもない……ですか……うぅ、ちょっと残念です……=Não é nada?
+せ、せっかくお会い出来たと思ったのに……また何かあれば、声をかけてくださいね。=Se você tiver alguma dúvida, sinta-se à vontade para me contatar.

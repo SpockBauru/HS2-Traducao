@@ -1,0 +1,17 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ＡＩ少女=AI Girl
+廃墟と少女=Ruínas e menina
+古の研究=Pesquisa antiga
+昼の砂浜=Praia de areia durante o dia
+星空と浜辺=Céu estrelado e praia
+森と滝=Floresta e cachoeira
+暗い森=Floresta Negra
+今の世界=O mundo atual
+遠い昔の街=Uma cidade velha distante
+シャンの家=Casa de Fofa
+独り言=Monólogo
+NEO=NEO
+ハロウィン=Dia das Bruxas

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+何かしら？　色々面白そうな物がそろってる部屋ね。=O que é isso? É uma sala cheia de coisas interessantes.
+何よココ？　あなたって、そういう趣味があるの？=O que é isto? Você tem um hobby como esse?
+こんな所であなたと一緒に遊べるなんて、大歓迎だわ。=Eu ficaria mais do que feliz em estar com você aqui.
+何なのこの部屋……正直、悪趣味だわ。=O que há com esta sala... Honestamente, é de mau gosto.
+ふぅん、すごいわね、この部屋……あなたとならたっぷり楽しめそうだわ。=Hmm, uau, esta sala... Você e eu vamos nos divertir muito.

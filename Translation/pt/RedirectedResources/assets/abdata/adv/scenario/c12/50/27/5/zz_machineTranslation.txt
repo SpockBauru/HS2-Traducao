@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+色んな奴にやられて、誰にいかされたのかわかんなくなった。=Eu já fui fodido por tantos caras, que nem sei quem me fodeu.
+人が多い分、すげぇ感じちゃったかも知れない……気持ち良かったぁ。=Havia tanta gente, que eu poderia ter sentido... Senti-me bem.
+好意{0}=Favores {0}
+気持ちよかったんだけどさ……やっぱ、お前だけの方が良かったかなぁ……=Foi bom, mas... Teria sido melhor se fosse só você...
+お前が楽しんで、俺も気持ち良かった……まぁ、悪くないのかな。=Você se divertiu, e eu me senti bem... Bem, acho que isso não é tão ruim assim.
+享楽{0}=Prazer {0}
+やっぱり多勢に無勢だったな……すっかりいかされちまったぜ。=Afinal, estávamos em desvantagem numérica. Fomos totalmente aproveitados.
+お前らに囲まれて、こんなに感じるなんて……すげぇ興奮しちまったよ。=Não acredito como é bom estar cercado por vocês... É tão emocionante.
+嫌悪{0}=Repugnância {0}
+大勢で一人の女を囲んで楽しかったか？　もう、終わりでいいだろ……=Você gostou de ter tantas pessoas ao redor de uma mulher? Vamos acabar com isto...
+お前ら、俺をいかせて満足だろ？　だったら、もうどっか行ってくれよ。=Vocês estão felizes em me fazer ejacular, não estão? Então saia daqui.
+隷属{0}=Escravidão {0}
+まさに輪姦だな……思わず興奮してしまったよ。=É uma verdadeira foda em grupo... E eu não pude deixar de me divertir.
+文字どおり嬲れてしまった……お前たち、かなりいいチームなのかもしれないな。=Eles literalmente me torturam... Vocês podem ser uma equipe muito boa.
+依存{0}=Depende (0)
+お前がいたからいかされちまった……他の奴は、おまけだったな。=Eu fui fodido por causa de vocês... E o resto de vocês foi apenas um bônus.
+お前のお陰で気持ちよく絶頂できたぜ。他の奴も悪くはなかったかな。=Você me fez atingir o clímax confortavelmente. Acho que os outros caras também não eram tão ruins assim.

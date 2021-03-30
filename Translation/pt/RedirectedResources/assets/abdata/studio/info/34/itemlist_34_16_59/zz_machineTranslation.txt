@@ -1,0 +1,49 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+電話=Telefone
+電卓=Calculadora
+チェス盤=Tabuleiro de xadrez
+ポーン=Penhor
+小物入れ=Estojo de acessórios
+カード1=Cartão 1
+カード2=Cartão 2
+カード3=Cartão 3
+砂時計=Ampulheta
+封筒=Envelope
+羊皮紙=Pergaminho
+用紙=Papel
+黒板消し=Apagador de quadro
+筆箱=Estojo
+ノート開き=Abertura de nota
+ノート閉じ=Fechamento de nota
+ペンスタンド=Suporte para canetas
+メニュー1=Menu 1
+メニュー2=Menu 2
+ティッシュペーパー=Lenco de papel
+卓上カレンダー=Calendário desktop
+金の花瓶=Vaso de ouro
+やかん=Chaleira
+ケトル=Chaleira
+コーヒーカップ=Xícara de café
+ティーセット1=Jogo de chá 1
+ティーセット2=Jogo de chá 2
+ティーセット3=Jogo de chá 3
+ティーセット4=Jogo de chá 4
+シャンプー入れ=Porta-xampu
+石鹸=Sabão em barra
+バレーボール=Vôlei
+バスケットボール=Basquetebol
+小さな植木鉢=Vaso pequeno
+中華のお皿=Prato chinês
+ハードダーツ=Dardos duros
+ダーツボード=Tabuleiro de dardos
+フィアスコボトル=Garrafa fiasco
+ボトル=Garrafa
+缶=Posso
+チップ(大)=Dica (Grande)
+チップ(中)=Dica (Durante ~)
+チップ(小)=Dica (pequena)
+グラス=Copo
+シャワーヘッド=Lavar a cabeça

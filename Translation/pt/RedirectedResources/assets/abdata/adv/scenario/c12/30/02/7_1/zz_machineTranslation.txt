@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+俺たちに用があったら、また声をかけてくれよな。=Se você precisar de nós, nos dê um grito de volta, sim?
+んじゃ、また時間があったら遊ぼうぜ。=Bem, vamos jogar novamente quando tivermos tempo.
+なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+本当に良いのか？　用があったらいつでも言ってくれよ。=Você tem certeza disso? Se você precisar de mim, pode sempre me avisar.
+分かった、それじゃまた今度よろしくな。=Muito bem, bem, até a próxima.
+なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+そうか、ならしょうがねぇな……また今度気持ちいい事しようぜ。=Bem, então não posso evitar... Vamos fazer algo agradável em outra ocasião.
+何でもないのか？　それじゃまた、なんかあるときに一緒に楽しもうぜ。=O que está acontecendo? Bem, então vamos nos divertir juntos quando tivermos algo a fazer.
+なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+俺の方も用はないから……さよなら。=Eu também não estou aqui para você, então... Adeus.
+だったら用はないだろ……それじゃあな。=Então você não tem nenhuma utilidade para mim... Por tanto tempo.
+なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+もう少し一緒にいたかったんだけど、忙しいならしょうがないか。=Eu queria passar um pouco mais de tempo com você, mas acho que não posso ajudar se você estiver ocupado.
+分かったよ……次は、まとめて相手してくれよな。=Tudo bem, bem... Da próxima vez, você vai ter que lidar com todos eles juntos.

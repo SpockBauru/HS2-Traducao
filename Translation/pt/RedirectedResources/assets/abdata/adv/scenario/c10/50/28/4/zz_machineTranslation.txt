@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あぁえぇと……お湯の温度が少し高くて、つい変な声が出てしまったのですが……き、聞こえていましたか？=A temperatura da água estava um pouco alta e eu fiz um barulho estranho... Você me ouviu?
+どうやら、少しのぼせてしまったようです。顔が赤いはそのせいかと……あら、貴方も顔が赤いですね？　ふふ、何を想像しているのですか？=Acho que estou um pouco corado. Eu acho que é por isso que meu rosto está vermelho... Oh, você também está vermelho, não está? O que você acha que está fazendo?

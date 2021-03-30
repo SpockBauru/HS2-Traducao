@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あら、どうしたの？　まさか、起きるまで待っててくれたの？=Ohhh. O que há de errado? Não me diga que você esperou que eu acordasse?
+あら、おはよう。もしかして、ずっとここにいたの？=Oh, bom dia. Você já esteve aqui o tempo todo, por acaso?
+ひょっとして私を待っててくれたの？　嬉しいわ、ありがとう。=Por acaso você estava esperando por mim? Estou muito feliz. Obrigado.
+どうしてこんな所にいるの？=Por que você está aqui?
+どうしたの、こんな所で？　呼んでくれたらすぐに起きたのに。=O que há de errado com você? O que está fazendo aqui? Eu teria acordado assim que você me chamasse.

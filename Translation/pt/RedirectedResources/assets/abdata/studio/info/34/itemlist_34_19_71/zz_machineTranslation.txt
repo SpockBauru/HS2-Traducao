@@ -1,0 +1,24 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+クール(喘ぎ)=Legal (Calça)
+クール(フェラ)=Legal (Soprar)
+普通(喘ぎ)=Usualmente (Calça)
+普通(フェラ)=Usualmente (Soprar)
+苦労人(喘ぎ)=Pessoa trabalhadora (Calça)
+苦労人(フェラ)=Pessoa trabalhadora (Soprar)
+女友達(喘ぎ)=Namorada (Calça)
+女友達(フェラ)=Namorada (Soprar)
+ギャル(喘ぎ)=Garota (Calça)
+ギャル(フェラ)=Garota (Soprar)
+気弱(喘ぎ)=Fraco (Calça)
+気弱(フェラ)=Fraco (Soprar)
+母性的(喘ぎ)=Materno (Calça)
+母性的(フェラ)=Materno (Soprar)
+ドS(喘ぎ)=De S (Calça)
+ドS(フェラ)=De S (Soprar)
+オープン(喘ぎ)=Abrir (Calça)
+オープン(フェラ)=Abrir (Soprar)
+天然(喘ぎ)=Natural (Calça)
+天然(フェラ)=Natural (Soprar)

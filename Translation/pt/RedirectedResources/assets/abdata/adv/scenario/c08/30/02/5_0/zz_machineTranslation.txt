@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+おっ、３Ｐっすね～？　私はいいすけどーどうっすかー？　大丈夫すかー？=Oh, é um trio, não é? Estou bem, mas o que acha? Você está bem?
+もちろん喜んでっす～！　あ……いいっすかねー？　３人でやることになっちゃうっすけどー。=É claro que eu ficaria feliz em fazê-lo! Ah... Está tudo bem? Mas seremos nós os três.
+HしようA好意{0}=Eu lhe farei um favor.
+あなたがしたいってんならーする以外の選択肢ないじゃないすかー。=Se você quiser fazer isso, não há outra escolha a não ser faze-lo.
+むふふーだからあなたのこと好きなんすよー。私はバッチコイすけどーどうっすかー？=É por isso que eu gosto tanto de você. Eu sou perfeito, mas o que você acha?
+HしようA享楽{0}=Vamos fazer isso.
+もしかしてー２人にご奉仕させる魂胆っすかー？　だとしたら超ノリノリでやりたいっすー。=É possível que você esteja tentando fazer com que nós dois o sirvamos? Se for esse o caso, quero fazê-lo com grande entusiasmo.
+２人をはべらせて王様プレイっすかー？　私はめっちゃやりたいっすけどー？=Você quer brincar de rei com dois caras? Eu quero tanto fazer isso.
+HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+あー、３Ｐいいっすねー。まー私の一存じゃ決められないんすけどー？=Ah, um ménage à trois soa bem. Bem, eu não posso decidir sozinho, posso?
+３人でっすかー？　いいんじゃないすかねー。あ、どうするっすかー？=Só nós três? Acho que isso é bom. Oh, o que você quer fazer?
+HしようA隷属{0}=Vamos sexo Um escravo {0}
+あなたってやっぱりスケベさんすねー。私はオールOKすけどー、どうすかー？=Você é um garoto lascivo, não é? Eu estou bem com isso, mas o que você acha?
+もちろんいいっすよー。２人ともイカせまくっちゃってほしいっすー。=É claro que não há problema, quero que ambos me façam gozar.

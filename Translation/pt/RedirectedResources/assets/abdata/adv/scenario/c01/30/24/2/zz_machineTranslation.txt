@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+こんな感じで良かったのかしら？　あんまり自信がないわね。=É assim que deve ser? Não tenho tanta certeza.
+私、変な所なかったかしら？　おかしかったら遠慮なく言ってね。=Há algo de errado comigo? Não hesite em me dizer se algo está errado.
+好意{0}=Favores {0}
+初めての相手が、あなたで良かったわ。なんだか幸せよ。=Estou feliz que você seja meu primeiro parceiro. Estou meio feliz.
+ありがとう、私の初めてをもらってくれて。相手があなたで良かったわ。=Obrigado por me dar meu primeiro. Estou feliz que tenha sido você.
+享楽{0}=Prazer {0}
+エッチがこんなに気持ちいいなんて思わなかったわ。もっと試してみたくなっちゃうわ。=Nunca pensei que o sexo pudesse sentir-se tão bem. Isso me dá vontade de tentar mais.
+初めてのエッチであんなに感じちゃうなんて。これよりもっと気持ち良くなれるなら、最高だわ。=Não acredito que me sinto assim depois da primeira vez que fiz sexo. Se puder ficar melhor do que isto, será ótimo.
+嫌悪{0}=Repugnância {0}
+終わったのね？　なら、もういいわ。=Você está acabado, certo? Então estou pronto.
+これでもう十分でしょ？　これで最後にしてほしいわ。=Isso não é suficiente? Espero que este seja o último.
+隷属{0}=Escravidão {0}
+初めてでこんなに気持ちよくしてもらえるなんて……私、本当に幸せ者ね。=Poder me fazer sentir tão bem pela primeira vez... Tenho muita sorte, não é mesmo?
+こんなに気持ちよくされちゃったら、他の事なんにも考えられなくなるわ。=Se você me fizer sentir tão bem, eu não poderei pensar em mais nada.
+壊れ{0}=Quebrado {0}
+気持ち、よかったわぁ。私ぃ、もっともっと感じたいのぉ……=Isso soube tão bem. Eu quero me sentir cada vez mais...
+最高に、感じちゃったわぁ……もっと、気持ちよくなってみたいのぉ。=Eu me sinto tão bem... Quero me sentir ainda melhor.
+依存{0}=Depende (0)
+どうだった、私とのエッチは？　もっと気持ちよくなれるようにがんばるわ。=Como foi? Como foi o sexo comigo? Farei o meu melhor para que se sinta melhor.
+初めてだったから、あんまり自信なかったけど、次はもっと上手になって、あなたを喜ばせてあげる。=Foi a minha primeira vez, por isso não estava muito confiante, mas da próxima vez estarei melhor e lhe agradarei.

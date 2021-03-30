@@ -1,0 +1,29 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+電気ストーブ=Fogão elétrico
+クリスマスツリー1=Árvore de natal 1
+クリスマスツリー2=Árvore de natal 2
+ツリーの植木鉢=Vaso de árvore
+オーナメント1=Ornamento 1
+オーナメント2=Ornamento 2
+オーナメント3=Ornamento 3
+オーナメント4=Ornamento 4
+オーナメント5=Ornamento 5
+オーナメント6=Ornamento 6
+雪床=Chão de neve
+雪だるま1=Boneco de neve 1
+雪だるま2=Boneco de neve 2
+雪の結晶1=Floco de neve 1
+雪の結晶2=Floco de neve 2
+雪の結晶ステッキ2=Bastão de floco de neve 2
+ソリ=Trenó
+クリスマスケーキ=Bolo de Natal
+丸いステンドグラス=Vitral redondo
+ステンドグラス１=Vitral 1
+ステンドグラス２=Vitral 2
+ステンドグラス３=Vitral 3
+ステンドグラス４=Vitral 4
+ステンドグラス５=Vitral 5
+太陽のステンドグラス=Vitral do sol

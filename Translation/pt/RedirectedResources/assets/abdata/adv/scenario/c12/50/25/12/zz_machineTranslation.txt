@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+この電車、どこにつながってるんだ？=Aonde este trem leva?
+こんな所に電車が走ってたんだな……知らなかったぜ。=Eu não sabia que havia um trem correndo aqui... Não sabia disso.
+電車なんかに乗って、どこに行くつもりだ？=Aonde você pensa que vai, entrar em um trem?
+電車なんか乗って……一体、どうするつもりなんだよ？=Que diabos você está fazendo em um trem?
+こんな電車の中で、何するつもりなんだ？=O que você vai fazer em um trem como este?

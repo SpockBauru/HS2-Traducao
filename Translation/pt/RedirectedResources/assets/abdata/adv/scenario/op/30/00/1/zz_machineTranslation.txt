@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+こちらがお客様の御部屋になります。=Este é o seu quarto.
+行動を起こす際の事前の準備や確認等をして頂く際にご利用下さいませ。=Use-o quando tiver que se preparar e confirme com antecedência quando entrar em ação.
+また、私のお力が必要な際はいつでもお申し付けください。=Por favor, avise-me se você precisar de minha ajuda novamente.
+それでは早速ですが、パートナーとお会いする為の準備をしていきましょう。=Portanto, vamos nos preparar para encontrar seu parceiro.

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+えーとさ……折角だから、このままエッチしない？=Bem... Já que estamos na mesma página, por que não fazemos apenas sexo?
+あー……お前も私と同じ気持ち？　なら……しちゃう？=Uh... Você sente o mesmo por mim? Você... Faria isso?
+好意{0}=Favores {0}
+え、えっとさ……ちょっと変な気分になって……付き合ってほしいな。=Bem, estou com um humor um pouco estranho, e gostaria que você saísse comigo.
+ねぇ……このまま解散も寂しいからさ、え、エッチしない？=Ei... Será solitário se nos separarmos assim, então... Por que não fazemos sexo?
+享楽{0}=Prazer {0}
+次は身体でコミュニケーションとろうよ！=Da próxima vez, vamos nos comunicar com nossos corpos!
+場も温まってきたし、エッチしよっ。=O lugar está ficando quente, então vamos fazer sexo.
+嫌悪{0}=Repugnância {0}
+う……無性にムラムラする。もうお前でいいから解消してくれない？=Estou irresistivelmente excitado. Você não pode simplesmente ser você e se livrar dele?
+変な話を振るから、私までエッチな気分になってきた……責任とってよ。=Você está agindo de forma estranha e eu começo a me sentir como se estivesse sendo malcriado... Assuma a responsabilidade.
+隷属{0}=Escravidão {0}
+あ、あの……よければ、このままエッチしない？=Oh, um... Se você não se importa, você gostaria de fazer sexo comigo assim?
+ね、ねぇ……このままエロ、したいな？=Ei, ei... Você quer fazer pornografia como esta?

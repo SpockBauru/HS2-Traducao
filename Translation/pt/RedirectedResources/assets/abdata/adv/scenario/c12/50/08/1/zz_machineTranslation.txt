@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+よぉ！　良かったら、背中流してやるよ。=Ei! Posso lavar suas costas, se você quiser.
+悪いけど一緒に入らせてもらうぜ！　お前に拒否権ないから。=Sinto muito, mas vou entrar com você! Você não pode me recusar.
+俺が一緒に入って手伝ってやるよ……色々とな。=Eu vou lá com você e vou ajudá-lo... Com algumas coisas.
+一人で風呂なんて寂しい事するなよ……俺が一緒に入るからな。=Não faça nada solitário como tomar um banho sozinho... Porque eu irei com você.

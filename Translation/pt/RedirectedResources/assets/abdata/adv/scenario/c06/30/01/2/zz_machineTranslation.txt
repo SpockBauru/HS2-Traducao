@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話{0}=Conversação {0}
+やっぱり私とダンスを踊るために来てくださったのですねぇ、早速致しましょう……♪=Eu sabia que você veio aqui para dançar comigo, vamos fazê-lo imediatamente ♪
+うふふふ、私たち相思相愛ですわね、致しましょう、致しましょう、うふ、うふふふ……♪=Mmm-hmm, estamos tão apaixonados, vamos fazê-lo, vamos fazê-lo, hihihi-hehe ♪

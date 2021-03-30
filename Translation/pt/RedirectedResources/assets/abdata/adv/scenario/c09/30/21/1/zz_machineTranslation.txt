@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+セリフ{0}=Serif {0}
+ありがとうございます……やっぱりわたしには、あなたさんの愛が何よりも必要なんです……=Obrigado... Preciso mais do que tudo de seu amor...
+あ……して……くれるんですね……えへへ、嬉しい……あなたさんはやっぱ素敵な人……わたしの最愛の方です。=Você é uma pessoa maravilhosa... Você é minha amada.

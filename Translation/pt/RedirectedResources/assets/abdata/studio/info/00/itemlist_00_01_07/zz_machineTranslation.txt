@@ -1,0 +1,37 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+草原1=Meadow 1
+草原2=Meadow 2
+砂浜1=Praia 1
+砂浜2=Praia 2
+岩場=Lugar rochoso
+土=Solo
+洞窟=Caverna
+苔むした岩1=Rocha musgosa 1
+苔むした岩2=Pedra musgosa 2
+苔むした岩3=Pedra musgosa 3
+苔むした岩4=Pedra musgosa 4
+苔むした岩5=Rocha musgosa 5
+苔むした岩6=Rocha musgosa 6
+苔むした岩7=Pedra musgosa 7
+なだらかな岩1=Rocha suave 1
+なだらかな岩2=Rocha suave 2
+なだらかな岩3=Rocha suave 3
+荘厳な岩1=Pedra majestosa 1
+荘厳な岩2=Pedra majestosa 2
+荘厳な岩3=Pedra majestosa 3
+厳めしい岩1=Rocha severa 1
+厳めしい岩2=Rocha severa 2
+厳めしい岩3=Rocha severa 3
+厳めしい岩4=Rocha severa 4
+変哲もない岩1=Rocha não convencional 1
+変哲もない岩2=Rocha não convencional 2
+変哲もない岩3=Rocha não convencional 3
+変哲もない岩4=Rocha não convencional 4
+変哲もない岩5=Rocha não convencional 5
+変哲もない岩6=Rocha não convencional 6
+変哲もない岩7=Rocha não convencional 7
+変哲もない岩8=Rocha não convencional 8
+変哲もない岩9=Rocha não convencional 9

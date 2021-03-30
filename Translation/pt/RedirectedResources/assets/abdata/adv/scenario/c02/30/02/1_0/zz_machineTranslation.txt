@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリA普通{0}=Prelúdio A Normal {0}
+どうも、あなたもいらしたんですね。=Olá, vejo que você também está aqui.
+あら、更に増えましたね。=Oh, há ainda mais, não é mesmo?
+前フリA好意{0}=Prelúdio A Favor {0}
+あ……こんにちは。=Oh... Olá.
+まさかあなたも来るなんて……=Eu não esperava que você estivesse aqui.
+前フリA享楽{0}=Prelúdio A Kyouraku {0}
+あら、あなたもここに？=Oh, você também está aqui?
+ふふっ、あなたも私に会いに来たんですか？=Hehe, você veio me ver também?
+前フリA嫌悪{0}=Prelúdio A Disgust {0}
+……はぁ、折角楽しく話してたのに……=... Huh, estávamos apenas tendo uma boa conversa...
+……何ですか？　今取り込み中なんですが。=... O que é isso? Agora estou levando-o para dentro.
+前フリA隷属{0}=Prelúdio Um Escravo {0}
+ようこそ、花園へ。=Bem-vindo ao Jardim.
+あら、丁度あなたの噂をしていたところです。=Oh, eu só estava fofocando sobre você.

@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+返答肯定2普通{0}=Responder afirmativo 2 normal {0}
+あはっ、気が合いますねー！　うれしーですよ！=Haha, nós somos espíritos afins! Estou tão feliz!
+でーすーよーねー！　あなたさんも同じで良かった！=Eu sei, certo? Fico feliz que você seja do mesmo jeito!
+返答肯定2好意{0}=Responder afirmação 2 favor {0}
+おお、わたしと同意見ですね！　さすがあなたさんです！=Oh, você concorda comigo! Esse é você!
+あなたさんと同じ……えへへ、なんかちょっと照れますね。=Sou como você... Hehehe, estou um pouco envergonhada.
+返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
+ふおお、わたしと同じ意見だということは……似たもの同士ってことでしょーか？　えへへ。=Hmmm... Se você tem a mesma opinião que eu... Isso significa que somos semelhantes? Heh, heh.
+あなたさんも同じ考えの人で良かったー！　こういうの大切ですもんね。えーっと……ふぃーりんぐ？=Fico feliz que você também seja uma pessoa com a mesma mentalidade! Essas coisas são importantes, não são? Vamos ver... Firingu?
+返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
+えー、わたしと同じ意見ですかー……本当にそー思ってます？=Oh, você concorda comigo... Você realmente acha que sim?
+うーん、同意見なのはうれしーですけど……なんだろ、なんかちょっと悔しい気分ですよ……=Ainda bem que concorda comigo, mas estou me sentindo um pouco frustrado...
+返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
+ふふっ、同じように感じてくれてるの、うれしーです！　これからもいっぱい同意見を重ねていきたいですよー！=Estou tão feliz que você se sinta da mesma maneira! Espero que tenhamos muito mais das mesmas opiniões no futuro!
+同じ考え方だなんて……なんか素敵ー！　えへへ、ちょっと……にやけちゃいますね！=É tão bom que pensamos da mesma forma. Eu estou apenas... Sorrindo!
+返答否定2普通{0}=Responder negativo 2 normal {0}
+なるほどなるほど……その意見も一理ありますね。=Estou vendo... Você tem razão nisso.
+ふむふむ、おー……お話を聞くと、簡単に自分の意見がひっくり返っちゃいそーですよ、えへへ。=Hmmm... Oh... Ouvindo você, acho que minha opinião poderia ser facilmente virada de cabeça para baixo, ehehe.
+返答否定2好意{0}=Negação de resposta 2 favor {0}
+わたしとは違う意見ですか……でもみんな違ってみんな良いって言いますもんねー、えへへ。=É uma opinião diferente da minha... Mas eles dizem que todos são diferentes e que todos são bons, certo?
+あなたさんがそーいう考えながら……わたしも考えを改めようかなー、なんちゃって、あははっ。=Tenho certeza que você ficará feliz em saber que não sou o único.
+返答否定2享楽{0}=Negação de resposta 2 gozo {0}
+ふふっ、なるほどー……意見が違うわたしを……時には強引にねじ伏せたい……とか、そんな願望があったりしますか？=Vejo... Você tem o desejo de me torcer à força quando discordamos?
+おお、わたしとは反対意見ですか……ではいずれ、決着を付ける日が来るでしょう……ふっふっふ。=Oh, você discorda de mim... Então chegará o dia em que resolveremos este... Phew...
+返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
+ふぉぉ、そーですか！　やっぱりわたしとは違いますか！　はえー、良かったー！=Oh, estou vendo! Então você não é como eu, afinal de contas! Estou tão feliz!
+まぁ、別にあなたさんがどんな意見だろうと関係ないんですよ。だから今の話は気にしないでください。=Bem, não me interessa qual é a sua opinião. Portanto, por favor, não se preocupe com o que acabei de dizer.
+返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
+そーいう考え方も嫌いじゃないですよ。だって……あなたさんの意見ですし、えへへ。=Também não me desagrada esse tipo de pensamento. Porque... É a sua opinião, ehehe.
+うーん、そう考えちゃいますか……でも、考え方が違うからって、相性悪いわけじゃないですもんね♪=Hmmm... Você está pensando que... Mas só porque pensamos diferente não significa que sejamos incompatíveis...

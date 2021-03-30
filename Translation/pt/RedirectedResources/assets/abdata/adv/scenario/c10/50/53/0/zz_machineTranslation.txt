@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+えぇと、あの触手は……本物というか、生きているのですよね？=Bem, esses tentáculos... Eles são reais, ou estão vivos, não são?
+だ、大丈夫なのでしょうか……きちんと意思の疎通はできますか？=Você tem certeza de que pode se comunicar com ele adequadamente?
+まさか、誰も止められない状態で、ずっと犯されてしまうなんてことは……=De jeito nenhum eu ia ser fodida o tempo todo sem ninguém para me impedir.
+なんだかその、私が入ってきた時から……触手さん達の動きが活発に……=Não sei... Desde que entrei... Os tentáculos se tornaram mais ativos...
+まるで餌を与えられた雛のような、そんな必死さを感じるのですが……=Sinto tanto desespero, como um pintinho que foi alimentado...
+あぁ……私の身体は……どこまで貪られてしまうのでしょう……=Oh... Até que ponto meu corpo será devorado...
+私のお相手は貴方ではなく、あちらの……触手でよろしいのですか？=Eu não estou com você, estou com aqueles... Tentáculos ali?
+どんなことをされてもと思ってはいましたが、まさか相手が人外で、しかも不気味な触手とは……=Eu estava preparado para fazer o que fosse preciso, mas nunca pensei que estaria lidando com um tentáculo não-humano e assustador.
+大分特殊な獣姦ですね……私の身体が耐えられるとよいのですが……=É um tipo muito especial de bestialidade... E espero que meu corpo possa aguentar...

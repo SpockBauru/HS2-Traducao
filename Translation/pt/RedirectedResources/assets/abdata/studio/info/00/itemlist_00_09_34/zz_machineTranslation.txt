@@ -1,0 +1,18 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+鳥の鳴き声=Latidos de pássaro
+海（近）=Mar (Perto)
+海（遠）=Mar (Longe)
+木々=As árvores
+川=Rio
+溝=Sulco
+滝（小）=Cachoeira (pequena)
+滝（大）=Cachoeira (Grande)
+夜虫音=Som de inseto noturno
+電子音=Som eletronico
+焚き木=Queimando madeira
+松明=Tocha
+扇風機=Ventilador
+水槽=Aquário

@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+前待機=Esperar antes
+弱ループ=Loop fraco
+強ループ=Laço forte
+絶頂前ループ=Loop antes de gozar
+外出し=Sair para
+外出し事後=Depois de sair

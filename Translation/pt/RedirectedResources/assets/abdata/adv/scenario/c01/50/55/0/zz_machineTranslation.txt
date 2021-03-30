@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+私達、結婚式を上げたんだから、次のステップに進みましょ。=Já tivemos nosso casamento, agora vamos seguir em frente.
+分かってるでしょ？　結婚と言えば、初夜よ、初夜！=Você sabe o que quero dizer. Falando em casamento, é sua noite de núpcias. Sua noite de núpcias!
+それじゃ、早速始めましょ！=Bem, então, vamos continuar!
+結婚で、一緒になれたんだから、次は身体も一緒になりたいわ。=Com o casamento, temos que estar juntos, agora eu quero que nossos corpos também estejam juntos.
+あなたがいないと、私は私でなくなるの。=Eu não seria eu sem você.
+さぁ……早く、一緒につながり合いましょう。=Vamos... Vamos, vamos nos conectar.
+結婚もしたんだし、私達、もう家族よ。=Somos casados agora. Somos uma família.
+早く、私たちの家族を増やしましょう。=Rápido, vamos fazer crescer nossa família.
+思いっきり、私を孕ませて頂戴。=Quero que você me impregne com todas as suas forças.

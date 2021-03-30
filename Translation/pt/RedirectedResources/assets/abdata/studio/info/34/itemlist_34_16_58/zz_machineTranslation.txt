@@ -1,0 +1,47 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+庭園のパラソル=Guarda-chuvas no jardim
+点滴スタンド=Via intravenosa
+パーテーションポール1=Pólo de partição 1
+パーテーションポール2=Poste de partição 2
+ホワイトボード=Quadro branco
+大型プリンター=Impressora grande
+メモ付き冷蔵庫=Geladeira com notas
+巨大な柱=Enorme pilar
+柱風の台=Suporte de vento do pilar
+観葉植物=Planta de folhagem
+花瓶と花=Vaso e flores
+アイアンメイデン=Dama de Ferro
+大きな鳥かご=Grande gaiola
+中華の仕切り=Partição chinesa
+中華のラック=Cremalheira chinesa
+中華の壺=Jarra chinesa
+中華の壁飾り1=Decoração de parede chinesa 1
+中華の壁飾り2=Decoração de parede chinesa 2
+西部のピアノ=Piano ocidental
+ウォールシェルフ=Prateleira de parede
+壁掛けフック=Gancho de parede
+油絵=óleo
+横長の絵=Pintura horizontal
+三角コーン=Cone triangular
+ダンボール1=Cardboard 1
+ダンボール2=Cardboard 2
+バット入れ=Estojo de morcego
+ボール入れ=Titular da bola
+ハードル=Obstáculo
+エアコン=Ar condicionado
+病室備品=Equipamento para quarto de hospital
+黒い箱=Caixa preta
+酒場の木箱=Caixa de madeira em bar
+酒場の樽=Barril de barra
+ノートパソコン=Computador portátil
+絨毯=Tapete
+和風の棚1=Prateleira 1 estilo japonês
+和風の棚2=Prateleira 2 estilo japonês
+小さな和風棚=Prateleira pequena em estilo japonês
+鏡台=Suporte de espelho
+掛け軸=Rolo pendurado
+着物かけ=Quimono
+釜=Chaleira

@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+―――確かに、受け入れる事も大事ではありますね……=--- De fato, também é importante aceitar...
+……そんなモノを平気で受け入れる人もいるんですね、世の中怖いですね……=... Há pessoas que aceitam tais coisas sem hesitar... É um mundo assustador...
+好意{0}=Favores {0}
+……え？　私ですか？　そ、それは勿論、好きな人が求めてるなら……=... O quê? Sou eu? Isto é, claro, se a pessoa que você ama está perguntando...
+……相手次第ですけど、それがもしあなただったら、まぁ……受け止め……る努力くらいはしますよ？=Depende deles, mas se for você, bem, eu pelo menos tentarei aceitar, certo?
+享楽{0}=Prazer {0}
+相手がＭであるなら、何も容赦する必要なんてないですよね？=Se a outra pessoa for masoquista, não há necessidade de perdoar nada, certo?
+受けな相手でも、ただマグロを相手するのはちょっとつまらないんですよね……返り討ちにするのがいいんですよ。=Mesmo que você seja um parceiro passivo, é meio chato lidar apenas com atum... É bom voltar atrás.
+嫌悪{0}=Repugnância {0}
+……そんな人生の何が楽しいんですかね？=... Qual é a graça desse tipo de vida?
+……それって、ただの奴隷と何が違うんですか？=... Como isso é diferente de ser apenas um escravo?
+隷属{0}=Escravidão {0}
+―――その気持ち、すごくわかります。私でもそうします。=---Eu sei muito bem que essa sensação. Eu faria o mesmo.
+私はいくらでも待てますね。待つ事には慣れていますから……=Eu posso esperar o tempo que eu quiser. Estou acostumado a esperar, então...

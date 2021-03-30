@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+H{0}=Sexo{0}
+うふふ、もう遅いですよ……♪=Ummm, é tarde demais ♪
+これが私の本性なんです……♪　あなたのスケベな本性も、暴いてあげますね、うふふふ……♪=Esta é minha verdadeira natureza ♪ Vou expor sua natureza lasciva também, hihihi ♪
+Home{0}=Home{0}
+そう、ですか……あなたが否定するなら、言われた通りにします……=Bem, está bem... Se você o negar, então farei como você pediu...
+……ごめんなさい……私のこと、嫌いにならないでください、お願いします……=... Desculpe... Por favor não me odeie, por favor não me odeie...

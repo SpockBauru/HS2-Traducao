@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+あれ、お風呂？　モテたいなら、身体は綺麗にしときなよー♪=Isso é um banho? Se você quer ser popular, deve manter seu corpo limpo.
+あー、絶対覗きに来たでしょ？　もう目がエロいもん♪=Oh, você definitivamente veio aqui para espiar, não foi? Seus olhos são tão sexy.
+風呂普通用件{0}=Assuntos normais de banho {0}
+それでー、アタシに何か用？=Então, o que você quer de mim?
+ご指名はアタシですかー？　なんて♪=É a mim que você quer? Ohhh.
+風呂好意{0}=Favores de banho {0}
+誰を覗きに来たのかな～？　アタシ？　ねぇアタシでしょ？=Quem você está aqui para espionar? Eu? Ei, sou eu, certo?
+お風呂入りに来たの？　清潔なのはポイント高いね～♪=Você veio para tomar um banho? Ainda bem que eu estou limpo.
+風呂好意用件{0}=Favoritos do banho {0}
+何か用事？　アタシで良ければ話聞くよ～。=O que você quer? Se estiver tudo bem com você, eu o ouvirei.
+とりま、どっかでダベる？=De qualquer forma, você quer sair em algum lugar?
+風呂享楽{0}=Desfrutando do banho {0}
+うんうん、アンタの目的はだいたい分かってるから。お風呂といえばってやつだよねぇ……んふふ♪=Eu sei exatamente o que você quer. Tenho certeza que você ficará feliz em ouvir isso...
+アンタがお風呂にいると、なんかもう怪しさしかないわ～♪=Quando se está no banho, é tudo suspeito...
+風呂享楽用件{0}=Desfrutando do banho {0}
+まーアタシのとこに来たってことは……そういうこと？=Bem, se você veio até mim, isso significa...
+で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=Então, o que posso fazer por você? Você não veio aqui apenas para me ver, veio?
+風呂嫌悪{0}=Aversão ao banho {0}
+うわ、怪し……なんでアンタがお風呂にいんの？=Uau, isso é estranho... Por que você está no banheiro?
+アンタがいるってだけで、安心してお風呂も入れないわ。マジ迷惑。=Eu não posso nem tomar banho sem me preocupar que você esteja lá. Você é realmente irritante.
+風呂嫌悪用件{0}=Abominação do banho {0}
+アタシに何か用なの？　何もないならさっさと消えて。=O que você quer de mim? Se você não tem nada para mim, desapareça daqui.
+ボーっと突っ立ってないで、何か用事があるならさっさと言って。=Não fique aí parado num aturdir. Se você tem algo a fazer, basta dizer.
+風呂隷属{0}=Escravidão no banho {0}
+おおっと、アタシと一緒にお風呂に入りに来たとか？　んふ、裸の付き合いしちゃいますぅ？=Oh, você está aqui para tomar um banho comigo? Vamos ficar nus juntos?
+アタシは匂いが濃いのとかもイケるタイプだけど。普通は清潔にしてた方が好まれるよね～。=Eu sou o tipo de pessoa que consegue lidar com um cheiro forte. Geralmente é melhor estar limpo, não é?
+風呂隷属用件{0}=A escravidão no banho importa {0}
+これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=É esta uma tendência que eu posso esperar ver muito? Ou isto é apenas um recado normal?
+んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?

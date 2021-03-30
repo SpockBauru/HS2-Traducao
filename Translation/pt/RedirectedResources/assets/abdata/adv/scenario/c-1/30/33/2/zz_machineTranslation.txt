@@ -1,0 +1,7 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+事後{0}=Após o fato {0}
+ご満足して頂けたでしょうか？　またのお呼び出し、お待ちしております。=Esperamos que você tenha ficado satisfeito com nosso serviço. Aguardamos ansiosamente a sua nova resposta.
+それでは、これにて失礼します。お客様がご満足して頂けたのなら幸いです。=Agora, se me dão licença. Esperamos que você tenha ficado satisfeito com nosso serviço.

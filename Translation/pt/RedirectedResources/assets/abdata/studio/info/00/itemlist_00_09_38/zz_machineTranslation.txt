@@ -1,0 +1,28 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+無感情(フェラ1)=Sem Emoção (Boquete 1)
+無感情(フェラ2)=Sem Emoção (Boquete 2)
+無感情(喘ぎ1)=Sem Emoção (Ofegante 1)
+無感情(喘ぎ2)=Sem Emoção (Ofegante 2)
+おおらか(フェラ1)=Amigável (Boquete 1)
+おおらか(フェラ2)=Amigável (Boquete 2)
+おおらか(喘ぎ1)=Amigável (Ofegante 1)
+おおらか(喘ぎ2)=Amigável (Ofegante 2)
+自信家(フェラ1)=Confidente (Boquete 1)
+自信家(フェラ2)=Confidente (Boquete 2)
+自信家(喘ぎ1)=Confidente (Ofegante 1)
+自信家(喘ぎ2)=Confidente (Ofegante 2)
+わがまま(フェラ1)=Egoísta (Boquete 1)
+わがまま(フェラ2)=Egoísta (Boquete 2)
+わがまま(喘ぎ1)=Egoísta (Ofegante 1)
+わがまま(喘ぎ2)=Egoísta (Ofegante 2)
+ものぐさ(フェラ1)=Preguiça (Boquete 1)
+ものぐさ(フェラ2)=Preguiça (Boquete 2)
+ものぐさ(喘ぎ1)=Preguiça (Ofegante 1)
+ものぐさ(喘ぎ2)=Preguiça (Ofegante 2)
+ポジティブ(フェラ1)=Positivo (Boquete 1)
+ポジティブ(フェラ2)=Positivo (Boquete 2)
+ポジティブ(喘ぎ1)=Positivo (Ofegante 1)
+ポジティブ(喘ぎ2)=Positivo (Ofegante 2)

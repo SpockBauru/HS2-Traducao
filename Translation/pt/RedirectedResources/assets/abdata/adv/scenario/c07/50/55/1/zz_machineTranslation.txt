@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+妙に燃えたな……やっぱ神様の前だと気持ちが素直になるってやつか？=Eu estava estranhamente queimado... É esse o tipo de coisa que faz você se sentir honestamente diante de Deus?
+まぁ神様はオマエの情けない喘ぎ声に嫌気がさして……とっくにいないかもしれないがな。=Bem, Deus pode ter se cansado de sua patética voz ofegante... E pode já ter ido embora há muito tempo.
+キスよりエロいことをしたんだ。一応、これも愛の誓いになるのか？=Fizemos algo mais erótico do que beijar. Caso você esteja se perguntando, esta é parte do pacto amoroso?
+オレも女だからな。悪い気はしない……どれだけ誓い合ったところで、従順になるつもりもないけどな。=Eu também sou mulher. Sem ofensa... Mas eu não vou ser submisso por mais que juremos.
+どうだ？　オレのしもべになる気持ちは固まったか？=O que você acha? Você já se decidiu por ser meu servo?
+ハッ、楽しみだな。名実共に、オマエの全てがオレのものになる日が……=Estou ansioso por isso. O dia em que vocês são todos meus, em nome e na realidade...

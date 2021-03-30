@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ベース2=Base 2
+家具2=Móveis 2
+置物2=Estatueta 2
+キャラ2=Personagem 2
+武器2=Arma 2
+3DSE2=3DSE2

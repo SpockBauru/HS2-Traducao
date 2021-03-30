@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+HしようB普通{0}=Vamos sexo B normal {0}
+なんかちょっと楽しそうですし、ぜひぜひしたいですー！=Parece meio divertido, e eu adoraria!
+お二人さえ良ければ、わたしも混ぜてくださいー！=Se não houver problema com vocês dois, eu gostaria de ser incluído!
+HしようB好意{0}=Vamos fazer um favor a B {0}
+あなたさんがいてくれるなら、わたしはいつでもエッチしたいと思ってますよ。だから……お願いします。えへへ。=Se você está aqui, estou sempre disposto a transar com você. Então... Por favor, faça. Heh heh.
+わたしも喜んで参加しますー！　嬉しいし、楽しいし、気持ちいいなんて、最高ですもんっ！=Terei o maior prazer em me juntar a vocês! Estou feliz, estou me divertindo, me sentindo bem, é ótimo!
+HしようB享楽{0}=Vamos caminhar!
+みんなで一緒に！　いーですね！　そーいうの憧れてましたよー！=Estamos todos juntos nisto! Isso é ótimo! Eu sempre quis fazer algo assim!
+どーせなら、そーいうことしないと勿体ないですもんね。皆さんで一緒に愉しんじゃいましょー！=Seria uma vergonha se não fizéssemos algo assim, não seria? Vamos nos divertir juntos!
+HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+はぁ……なんか疲れそうですけど……この娘にだけ負担させるわけにはいきませんからね。=Huh... É meio cansativo... Mas não posso deixar esta garota ser a única a aguentar o fardo.
+百歩譲って、一緒にするのはいーですけど……あんまり疲れさせないでくださいね。=Darei cem passos com você, mas... Por favor, não me canse muito.
+HしようB隷属{0}=Vamos lá escravo B {0}
+あなたさんやこの娘を悦ばせてあげられるんだったら……わたしはもー、やる気満々ですよー！=Se eu puder fazer você e esta garota felizes, estou totalmente disposto a isso!
+いーですねー、しましょーしましょー！　みんなで一緒に気持ち良くなりたいですよー！=Oh, sim! Vamos fazê-lo! Vamos fazê-lo! Eu quero que todos nós nos sintamos bem juntos!

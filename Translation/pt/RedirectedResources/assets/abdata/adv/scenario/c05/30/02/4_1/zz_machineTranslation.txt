@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後B普通{0}=Posto de Conversação B Normal {0}
+あなたとお話出来て良かったです……参考になりました。=Foi um prazer conversar com você... E informativo.
+や、やっぱり……たくさんの方の意見を聞くことは大切ですね。=Afinal... É importante ouvir a opinião de muitas pessoas.
+会話事後B好意{0}=Posto de Conversação B Favor {0}
+お話を聞かせてくれて、ありがとうございました。=Muito obrigado por compartilhar sua história conosco.
+ふふっ、あなたの意見が聞けて良かったです。=É bom ouvir sua opinião.
+会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
+ほんの少しだけでも……あなたのことが知られて良かった……=Fico feliz que eles saibam de você... Mesmo que seja só por pouco tempo.
+え、えっと……少しでもあなたの好みが理解できるよう、頑張りますね。=Bem, um... Farei o meu melhor para entender seus gostos da melhor forma possível.
+会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
+そ、そういう考え方の人なんだとは……理解しました……=Bem, eu não sabia que você era esse tipo de pensador... Mas eu entendo...
+う……こ、今後の参考には……させて頂きます……=Bem, terei isso em mente para referência futura...
+会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
+ふふっ、あなたの言葉……何よりも重みがあります……=Hehe, suas palavras... Elas carregam mais peso que tudo...
+すごく……勉強になりました……また聞かせてくださいね。=Aprendi muito... E espero que você me deixe ouvir mais.

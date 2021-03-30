@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あ、えっと……待った？　待ったよね？　結構私、トイレ長めなんだ……えへへ、ごめんね？=Oh, uh... Você esperou? Você esperou por mim? Estou no banheiro há muito tempo... Hehe, desculpe.
+ふぅ、トイレから出ると涼しいねぇ。なんか妙に暑いトイレでさ……汗かいちゃった♪=É legal quando eu saio do banheiro. Eu estava suando... No banheiro quente.

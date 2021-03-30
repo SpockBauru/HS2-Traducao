@@ -1,0 +1,26 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+眩しい=Deslumbrante
+ガッカリ=Desapontado
+怒るin=Zangado In
+怒るloop=Zangado Loop
+怒るout=Zangado out
+立ち怖がる=Estou com medo de ficar em pé
+びっくりする1=Surpreso 1
+びっくりする2=Surpreso 2
+立ちお腹減ったー=Estou com fome
+さむがる=Espremer
+暑がる=Fica quente
+不快両手を見る=Desconfortável olhando para as duas mãos
+いてっ！=Vamos!
+もじもじ=Hesitante
+あくび=Bocejar
+クスクス=Tímido
+拍手=Aplausos
+話しを聞く1=Ouvir a história 1
+話しを聞く2=Ouvir a história 2
+話しを聞く3=Ouvir a história 3
+話しを聞く4=Ouvir a história 4

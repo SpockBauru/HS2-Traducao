@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+もしもーし！　あなたさーん！　わたしが来ましたよー！　お部屋にいらっしゃいますかー！？=Olá! Ei, você! Eu estou aqui! Você está em seu quarto?
+ふおお！　まさかのお留守でしたかっ！　なんと間の悪いわたし！　次こそはタイミング掴んで来ますからねー！=Uau! Eu não esperava que você estivesse em casa! Que péssimo momento para mim! Da próxima vez, eu vou acertar o tempo, prometo!

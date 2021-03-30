@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+焼き魚=Peixe grelhado
+ココナッツスープ=Sopa de coco
+バナナイモサラダ=Salada de batata com banana
+オムレツ=Omelete
+豪華ブイヤベース=Bouillabaisse de luxo
+カップ麺=Cup Noodle
+ダークマター=Matéria escura
+ホールケーキ=Todo o bolo
+生卵=Ovo cru
+赤い実=Fruta vermelha

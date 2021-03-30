@@ -1,0 +1,35 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+体のトップ=Topo do corpo
+体幹2=Tronco 2
+体幹１=Tronco 1
+太もも・脚付根=Coxas / pernas
+ヒザ=Joelhos
+足首=Tornozelo
+つま先=Dedos dos pés
+肩=Ombro
+上腕=Braço Superior
+前腕=Antebraço
+親指=Polegar
+人差し指=Dedo indicador
+中指=Dedo do meio
+薬指=Dedo anelar
+小指=Dedo mindinho
+左胸=Tórax esquerdo
+右胸=Tórax direito
+胸補助=Assistência do peito
+男根=Pênis
+玉=Bola
+前髪=Franja
+後髪=Cabelo traseiro
+横髪=Cabelo Lateral
+スカート(正面)=Saia (frente)
+スカート(前右)=Saia (Frente direita)
+スカート(右)=Saia (direita)
+スカート(後ろ右)=Saia (Direito traseiro)
+スカート(後ろ)=Saia (voltar)
+スカート(後ろ左)=Saia (Esquerda traseira)
+スカート(左)=Saia (deixou)
+スカート(前左)=Saia (Dianteiro esquerdo)

@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+待っててくれたのね、ありがとう。=Você estava esperando por mim. Obrigado.
+待たせちゃって、ごめんなさいね。=Desculpe-me por tê-los feito esperar.
+お待たせ。遅くなってごめんなさいね。=Aqui está. Desculpe o atraso.
+悪かったわね、待たせて……=Desculpe, não queria deixá-lo esperando...
+ありがとう、待っててくれて。すごく嬉しいわ。=Obrigado por esperar por mim. Estou tão feliz.

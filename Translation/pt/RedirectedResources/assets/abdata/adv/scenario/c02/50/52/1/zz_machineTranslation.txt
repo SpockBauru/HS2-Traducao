@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+嫌悪{0}=Repugnância {0}
+最低な人間だとは常々思っていましたが、ここまでとは……=Sempre achei que você era uma pessoa horrível, mas nunca pensei que fosse tão longe...
+しばらく顔も見たくありません。消えてください。=Não quero nem mesmo ver seu rosto por um tempo. Por favor, vá embora.
+今まで会った人の仲で、あなたが一番嫌いです。それもダントツの一番です。=De todas as pessoas que já conheci, você é a que eu mais odeio. Esse também é o mais dantotsu.
+心から人を憎いと思ったのは初めてです……こんな感情、別に知りたくはありませんでした。=É a primeira vez que odeio realmente alguém... E não queria saber como era a sensação.
+たった今、罪を犯したというのに、何故清々しい顔をしているんですか……？　狂っているとしか思えません。=Por que você parece tão inocente, quando acaba de cometer um crime? Não posso deixar de pensar que você está louco.
+こんな人と関わってしまうなんて……人生の汚点です。=Não posso acreditar que estou envolvido com alguém assim... É uma mancha em minha vida.

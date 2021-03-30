@@ -1,0 +1,16 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂の照明1=Iluminação de banho 1
+風呂の照明2=Iluminação do banho 2
+教室の照明=Iluminação de sala de aula
+ロビーの照明=Iluminação do saguão
+卓上ライト=Luz de mesa
+ステンドグラスライト=Luz de vitral
+花の照明=Iluminação de flores
+シンプルシャンデリア=Lustre simples
+スタンドライト=Luz de pé
+蝋燭の照明1=Iluminação de vela 1
+蝋燭の照明2=Iluminação de velas 2
+あんどん=Andon

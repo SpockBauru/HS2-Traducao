@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+こんな生物、どこから持ちこんだのですか？=De onde você trouxe esta criatura?
+こんな所に触手なんて…良くご用意されましたね=Estou surpreso que você não tenha preparado um tentáculo para um lugar como este.
+なんだか、激しく動いていて…元気そうですわ=Ele está se movendo um pouco duro... E está com bom aspecto.
+こんなものまで持ち込むなんて、すごい所ですわね=É um lugar incrível para trazer todas essas coisas.
+なんですの、これは…少し気味が悪いですわ=Eu não sei, isto é... Isto é um pouco assustador.
+こんな不気味な生物…どこから持ち込んだんですの？！=Essas criaturas assustadoras... De onde você as trouxe?

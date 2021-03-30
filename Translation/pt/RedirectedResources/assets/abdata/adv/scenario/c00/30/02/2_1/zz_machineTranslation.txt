@@ -1,0 +1,9 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+あなたはどう思われますか？=O que você acha?
+あなたのご意見をお伺いしてもよろしいでしょうか？=Posso pedir sua opinião?
+もしかして、違う意見もあるのでしょうか？　是非、お聞かせください。=Talvez você tenha uma opinião diferente? Gostaríamos muito de ouvir de você.
+あまり興味はありませんが、あなたはどう思われますか？=Não estou realmente interessado. O que você acha?
+あなたは他の考えをお持ちなのでしょうか？=Você tem alguma outra idéia?

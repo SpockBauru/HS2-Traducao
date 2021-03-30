@@ -1,0 +1,56 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+格闘A１=Luta A1
+格闘A２=Luta A2
+格闘A３=Luta A3
+格闘B１=Luta B1
+格闘B２=Luta B2
+格闘B３=Luta B3
+気弾１=Bomba 1
+気弾２=Bomba 2
+気弾３=Bomba 3
+片手剣１=Espada de uma mão 1
+片手剣２=Espada de uma mão 2
+片手剣３=Espada de uma mão 3
+盾と剣１=Escudo e espada 1
+盾と剣２=Escudo e espada 2
+盾と剣３=Escudo e espada 3
+小太刀１=Espada Pequena 1
+小太刀２=Espada Pequena 2
+小太刀３=Espada Pequena 3
+小太刀二刀１=Espada Pequena duas espadas 1
+小太刀二刀２=Espada Pequena duas espadas 2
+小太刀二刀３=Espada Pequena duas espadas 3
+拳銃１=Arma 1
+拳銃２=Pistola 2
+拳銃３=Pistola 3
+二丁拳銃１=Pistola de cano duplo 1
+二丁拳銃２=Pistola de cano duplo 2
+二丁拳銃３=Pistola de cano duplo 3
+投擲１=Jogando 1
+投擲２=Jogando 2
+投擲３=Jogando 3
+魔法杖１=Varinha mágica 1
+魔法杖２=Varinha mágica 2
+魔法杖３=Varinha mágica 3
+魔法本１=Livro de magia 1
+魔法本２=Livro de magia 2
+魔法本３=Livro mágico 3
+両手剣１=Espada de duas mãos 1
+両手剣２=Espada de duas mãos 2
+両手剣３=Espada de duas mãos 3
+棒・槍１=Pau / lança 1
+棒・槍２=Pau / lança 2
+棒・槍３=Pau / lança 3
+槌・鎌１=Martelo e foice 1
+槌・鎌２=Martelo e foice 2
+槌・鎌３=Martelo e foice 3
+ライフル１=Rifle 1
+ライフル２=Rifle 2
+ライフル３=Rifle 3
+弓矢１=Arco e flecha 1
+弓矢２=Arco e flecha 2
+弓矢３=Arco e flecha 3

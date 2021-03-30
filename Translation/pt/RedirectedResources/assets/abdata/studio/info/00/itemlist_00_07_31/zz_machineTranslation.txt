@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+レンズフレアA=Reflexo de lente A
+レンズフレアB=Reflexo de lente B
+レンズフレアC=Reflexo de lente C
+レンズフレアD=Reflexo de lente D
+レンズフレアE=Reflexo de lente E
+レンズフレアF=Reflexo de lente F
+レンズフレアG=Reflexo de lente G
+丸影=Luz da Lua
+色影=Sombra de cor
+色影(四角1)=Sombra de cor (Quadrado 1)
+色影(四角2)=Sombra de cor (Quadrado 2)
+色影(六角)=Sombra de cor (hexagonal)
+色影(三角)=Sombra de cor (triângulo)
+色影(ハート)=Sombra de cor (coração)
+色影(星)=Sombra de cor (Estrela)
+色影(月)=Sombra de cor (Lua)
+色影(欠月)=Sombra de cor (Mês ausente)
+色影(雫)=Sombra de cor (solta)
+色影(十字)=Sombra de cor (cruzar)
+色影(縁円)=Sombra de cor (Margem)
+色影(縁四角)=Sombra de cor (Quadrado de borda)

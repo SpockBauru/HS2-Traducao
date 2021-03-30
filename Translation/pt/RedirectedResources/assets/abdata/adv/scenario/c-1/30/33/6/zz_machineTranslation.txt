@@ -1,0 +1,5 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お客様、からかうにしては少々度が過ぎます。どうかお気を付けを。=Senhor, você está me provocando um pouco demais. Por favor, tenha cuidado.

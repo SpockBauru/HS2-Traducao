@@ -1,0 +1,21 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+デフォルト=Padrão
+森の中=Na floresta
+崖の上=No penhasco
+海辺=Praia
+岩場=Lugar rochoso
+雪景色=Cena de neve
+暖色=Cor quente
+部屋の中=No quarto
+日の差す部屋=Quarto ensolarado
+豪奢な空間=Espaço luxuoso
+青い研究室=Laboratório Azul
+赤い研究室=Laboratório Vermelho
+黄色い研究室=Laboratório amarelo
+不気味な光=Luz sinistra
+暖かい光=Luz quente
+上からの光=Luz de cima
+照明=Iluminação

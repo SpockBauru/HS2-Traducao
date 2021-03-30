@@ -1,0 +1,17 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+花畑=Jardim de flores
+演説台=Pódio
+アンティークの長椅子=Banco antiga
+壁掛け蝋燭=Velas de parede
+女神像=Estátua da Liberdade
+石柱(装飾あり)=Pilar de pedra (Com decoração)
+石柱(装飾なし)=Pilar de pedra (Sem decoração)
+ステンドグラス壁1=Parede de vitral 1
+ステンドグラス壁2=Parede de vitral 2
+ステンドグラス壁3=Parede de vitral 3
+ステンドグラス壁4=Parede de vitral 4
+ステンドグラス壁5=Parede de vitral 5
+ステンドグラス壁6=Parede de vitral 6

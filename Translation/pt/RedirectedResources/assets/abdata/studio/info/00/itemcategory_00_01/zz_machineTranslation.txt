@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+床壁=Parede do chão
+部屋=Quarto
+天井=Teto
+設置物=Instalação
+建造物=Prédio
+自然物=Objetos naturais
+環境=Ambiente
+画像板=Quadro de imagem

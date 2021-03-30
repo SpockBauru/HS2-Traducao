@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+ねぇ、私も一緒に入っていいかしら？=Posso entrar com você?
+いいでしょ？　一緒に温まりましょう。=Tudo bem? Vamos nos aquecer juntos.
+私も一緒に入って、身体をきれいにしてあげるわ。=Eu entrarei com você e o limparei.
+お風呂、私も一緒に入るわね、うふふ。=Banho, eu vou com você.

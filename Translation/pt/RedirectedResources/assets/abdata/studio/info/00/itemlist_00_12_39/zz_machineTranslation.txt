@@ -1,0 +1,22 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+鳥=Pássaro
+鶏=Frango
+ヒヨコ=Pintinho
+猫戦車=Tanque gato
+キュービー=Cubículo
+妖精=Fadas
+黒い精霊=Espírito negro
+カエル=Sapo
+トアバ=Toaba
+ヤリマス=Massa de lança
+コツブウオ=Kotsubuo
+猫魚=Peixe-gato
+オッチャン=Ochan
+コムツ=Combs
+オニブダイ=Onibdai
+ヌタウナギ=Hagfish
+魚雷=Torpedo
+お魚くわえた猫=Gato com peixe

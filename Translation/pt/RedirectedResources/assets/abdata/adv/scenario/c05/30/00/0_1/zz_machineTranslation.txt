@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=Objetivo Geral Normal {0}
+あ……こ、こんにちは……=Oh... Olá...
+あ……あなた……ですか……=Oh... Você... É você...
+こ、こんなところで……奇遇ですね。=Este é um lugar estranho...
+汎用普通用件{0}=Caso comum de uso geral {0}
+もしかして私に何か用ですか？=Você queria me ver, por acaso?
+えっと……どうしましたか？=Um... O que posso fazer por você?
+汎用好意{0}=Favor genérico {0}
+あ、あなたもここにいたんですね。=Oh, você também está aqui, não está?
+ま、まさかあなたに会えるなんて思いませんでした。=Bem, eu nunca pensei que o veria.
+あ、あなたも来てるなんて……ちょっと驚きです。=Oh, estou um pouco surpreso que você também esteja aqui.
+汎用好意用件{0}=Favor Geral {0}
+なにかご用でしょうか？=Posso ajudá-lo, senhor?
+もしかして私になにか用事……だったりしますか？=Há algo que você quer de mim?
+汎用享楽{0}=Diversão geral {0}
+ふふっ、偶然とはいえ、会えると嬉しいです。=É um prazer vê-lo, mesmo que seja por acaso.
+実は……あなたに会いたいなと思ってました……えへへ。=Na verdade... Eu esperava conhecê-lo... Ehehe.
+こ、こんにちは……同じ場所に来るなんて……心が通じ合ってるみたいです……なんて……=Olá... Para estar no mesmo lugar que você... É como se tivéssemos um coração... Que...
+汎用享楽用件{0}=Caso de Diversão Geral {0}
+ん……もしかして……何か私にお話でもありますか？=Hum... Há alguma coisa que você queira me dizer?
+私になにか聞きたいことでもありますか？=Você tem alguma pergunta para mim?
+汎用嫌悪{0}=Aversão geral {0}
+あ、あなたも来てたんですか……=Oh, você também está aqui...
+も、もしかして……私を叱るために来たんじゃない……ですよね……？=Você tem certeza... Você não veio aqui para me repreender, certo?
+や……こ、こんなところでまであなたに会うなんて……うぅぅ……=Oh, não posso acreditar que estou me encontrando com você aqui.
+汎用嫌悪用件{0}=Caso de antipatia geral {0}
+よ、用事があるなら……言ってください……=Bem, se precisar de mim... Basta dizer-me...
+は、話なら聞きますから……あまり……怖い顔はしないでください……=Eu o ouvirei se você quiser, mas por favor não pareça tão assustado...
+汎用隷属{0}=Escravidão de Propósito Geral {0}
+あなたに会えた日は……ちょっと幸せなんです……えへへ。=No dia em que o vejo... Estou meio feliz... Ehehe.
+こんなところで会えるなんて……テンション上がっちゃいます……=Não acredito que estou encontrando você aqui... Estou tão animado...
+あ……ふふっ、知り合いの方に会えるだけでも嬉しいのに……それがあなただなんて……=Oh... Hehe... Estou feliz de ver alguém que conheço... E é você...
+汎用隷属用件{0}=Uso Geral da Escravatura {0}
+あ、あなたからのご用件なら、なんでも伺いますよ。=Oh, fico feliz em ouvir tudo o que você tem a dizer.
+なにか用事があったから声をかけてくれたんですよね？　なんでしょうか？=Você me chamou porque tinha algo a fazer, não é mesmo? O que é isso?

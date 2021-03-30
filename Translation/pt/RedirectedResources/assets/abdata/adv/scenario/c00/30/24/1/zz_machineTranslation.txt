@@ -1,0 +1,25 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+……女性の方とは、思いもよりませんでした。ですが問題ございません。共に快楽を求めることに変わりはありませんから。=... Eu não tinha idéia de que era uma mulher. Mas não é problema. Ambos queremos o mesmo prazer.
+乙女の柔肌を重ね合う……既に淫靡な雰囲気が漂っている気がします。=A pele macia da donzela está empilhada uma em cima da outra... Sinto que já existe uma atmosfera lasciva no ar.
+好意{0}=Favores {0}
+同性の方と致すから……いえ、あなただから？　いつもより気持ちが昂っております。その理由をこれから確かめさせてください。=Porque eu estou com alguém do mesmo sexo... Ou é porque é você? Estou me sentindo mais excitado do que de costume. Deixe-me descobrir o porquê.
+同性同士の経験が豊富とは言えませんが……きっと満足させてみせます。二人で素敵な思い出を作りましょう。=Não posso dizer que tenho muita experiência com o mesmo sexo... Mas vou satisfazê-lo. Vamos fazer juntos algumas grandes lembranças.
+享楽{0}=Prazer {0}
+これから、女同士の肢体が交わる……それも、初対面の女同士の。なんだか、興奮しませんか？=De agora em diante, os corpos de duas mulheres vão se entrelaçar... E isso, também, de duas mulheres que nunca se encontraram antes. Isso não o excita de alguma forma?
+同性で致すという背徳的な行為……既に気持ちが最高潮へ達してしまいそうです。あなたはどうですか？=O ato imoral de transar com alguém do mesmo sexo... Já sinto que vou atingir meu auge. E você?
+嫌悪{0}=Repugnância {0}
+男性ではなく、私をお望みなのですか？　同性が良いなんて、変わった方ですね。=Você não quer um homem, você me quer? Você é um estranho, preferindo o mesmo sexo.
+女性同士で、ですか……あまり快感を味わえるとは思えませんね。=De mulher para mulher, huh... Não acho que seja muito prazeroso.
+隷属{0}=Escravidão {0}
+同性なのですから、恥ずかしがらずに全てを……そう、全てを、さらけ出し合いましょう？=Como somos do mesmo sexo, não tenhamos vergonha de revelar tudo... Bem, tudo um ao outro, certo?
+同性と言えど羞恥心がお有りでしょうか？　……ご安心ください、私がこの身体を持って、あなたを乱れさせてみせますから……=Mesmo que seja do mesmo sexo, você tem um sentimento de vergonha? Não se preocupe, vou pegar este meu corpo e torná-lo selvagem para você...
+壊れ{0}=Quebrado {0}
+………………=...
+はぁ……強くぅ……私のこと、求めてください……んっ、はぁ……お願い、れすからぁ……=Huh... Tão difícil... Por favor, me faça querer você... Hmm... Por favor...
+依存{0}=Depende (0)
+あなたの様な女性と過ごせるなんて光栄です。　さぁ、私の元に……=É uma honra passar tempo com uma mulher como você. Agora, venha comigo...
+女同士でしか体感できない悦び……あなたの身体に染み込ませて差し上げますね。=O prazer que só pode ser experimentado entre as mulheres... Vou deixá-lo de molho em seu corpo.

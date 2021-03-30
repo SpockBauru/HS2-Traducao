@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+壊れ{0}=Quebrado {0}
+あらしさ……なんかちょっろかぁらほてっれれさ……=Eu não sei o que há de errado comigo.
+これ、あんらのせいれもあるんらからね？　そこんろこわかっれる？=Isto também é culpa sua, certo? Você entende isso?
+しゃんぽろか……あらしはあんらのペットじゃないんらかんね？=Shampooro... Arashi não é seu animal de estimação, não é?
+ろうせ、エッチなことすぅ気なんれしょ？　マジやりしゅぎはかんべんらかね？=Você não vai fazer nada malicioso, vai? Não fique muito sério, está bem?
+あんらみたいに、まんれんはつじょーきの相手すぅろは大変らは……=Não é fácil ser como você e eu, lidando com um bando de pessoas.
+そりゃあらしらってこわぇるよれ……けっきょくれんぶあんらのせいりゃん……=É por isso que tenho tanto medo de você... Porque tudo isso é culpa sua...

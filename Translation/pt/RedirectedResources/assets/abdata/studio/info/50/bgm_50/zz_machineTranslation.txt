@@ -1,0 +1,10 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+朝霧=Névoa da manhã
+夕涼み=Noite fria
+探索好き=Eu gosto de explorar
+見られてる？=Você está assistindo?
+勝負！！=Jogo! !!
+リビドーDX=Libido DX

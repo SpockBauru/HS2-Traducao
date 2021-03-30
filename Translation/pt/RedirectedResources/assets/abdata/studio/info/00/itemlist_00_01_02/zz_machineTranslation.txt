@@ -1,0 +1,29 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+木部屋１=Sala de madeira 1
+木部屋２=Sala de madeira 2
+木部屋３=Sala de madeira 3
+木部屋４=Sala de madeira 4
+木部屋５=Sala de madeira 5
+木部屋６=Sala 6 de madeira
+木部屋７=Sala de madeira 7
+木部屋８=Sala de madeira 8
+木部屋９=Sala de madeira 9
+石部屋１=Sala de pedra 1
+石部屋２=Sala de pedra 2
+石部屋３=Sala de pedra 3
+石部屋４=Sala de pedra 4
+石部屋５=Sala de pedra 5
+石部屋６=Sala de pedra 6
+石部屋７=Sala de pedra 7
+シンプルな部屋１=Quarto simples 1
+シンプルな部屋２=Quarto simples 2
+シンプルな部屋３=Quarto simples 3
+シンプルな部屋４=Quarto simples 4
+シンプルな部屋５=Quarto simples 5
+シンプルな部屋６=Quarto simples 6
+シンプルな部屋７=Quarto Simples 7
+シンプルな部屋８=Quarto simples 8
+シンプルな部屋９=Quarto simples 9

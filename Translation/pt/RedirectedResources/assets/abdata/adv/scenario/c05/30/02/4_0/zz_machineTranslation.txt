@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+会話事後A普通{0}=Posto de Conversação A Normal {0}
+それでは私たちはこれで。=Bem, vamos deixá-lo com isso.
+で、では……また。=Então... Nos vemos por aí.
+会話事後A好意{0}=Um favor após a conversa {0}
+こ、今度また……ゆっくりお話ししましょう。=Falo com você mais tarde... Devagar.
+ま、またお話できる機会があれば……いつでも声をかけてくださいね。=Bem, se você tiver a chance de falar comigo novamente... Você sempre pode me chamar.
+会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+今度話す時には、もっともっと……あなたのこと、教えてくださいね。=Da próxima vez que falarmos, você pode me contar mais... Sobre você.
+次はその……ふ、二人きりで……もっと……性的なお話でも……えへへ……=Da próxima vez... Talvez só nós dois... Possamos falar sobre algo mais... Sexual... Hehehe...
+会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+ほっ……そ、それではさよなら……=Ho... Bem, então adeus...
+そ、それでは……失礼します……=Bem, então... Desculpem-me...
+会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+少しでもお話できて嬉しかったです……ではまた。=Foi um prazer falar com você... Novamente.
+こ、今度は逆に……あなたが聞きたいことも……質問してくださいね。=Desta vez é o contrário... E você pode fazer as perguntas... Que você quer fazer.

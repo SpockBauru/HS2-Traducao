@@ -1,0 +1,13 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+弱前待機=Esperar antes de enfraquecer
+弱アクション=Ação fraca
+強前待機=Espera forte
+強アクション=Ação forte
+絶頂=Clímax
+脱力アクション=Ação de fraqueza
+脱力絶頂=Fraqueza Clímax
+脱力事後=Depois de fraqueza

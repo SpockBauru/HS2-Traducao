@@ -1,0 +1,12 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+液溜まり=Piscina líquida
+液体A=Líquido A
+液体B=Líquido B
+溶解粘液1=Muco dissolvido 1
+溶解粘液2=Muco dissolvido 2
+溶解粘液3=Muco dissolvido 3
+溶解粘液4=Muco dissolvido 4
+溶解粘液5=Muco dissolvido 5

@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+あ……あなたもお風呂ですか？=Oh... Você também está tomando banho?
+こ、こんなところで……たまたま通りがかっただけですか？=Você está apenas... Apenas de passagem?
+風呂普通用件{0}=Assuntos normais de banho {0}
+もしかして私に何か用ですか？=Você queria me ver, por acaso?
+えっと……どうしましたか？=Um... O que posso fazer por você?
+風呂好意{0}=Favores de banho {0}
+も、もしかして……わ、私を探してくれていたり……なんて、あるわけないですよね……えへへ。=Não há como ele estar me procurando... Não há... Hehehe?
+まさかお風呂であなたに会うなんて……=Nunca pensei que o veria na banheira.
+風呂好意用件{0}=Favoritos do banho {0}
+なにかご用でしょうか？=Posso ajudá-lo, senhor?
+もしかして私になにか用事……だったりしますか？=Há algo que você quer de mim?
+風呂享楽{0}=Desfrutando do banho {0}
+え、えっと……念のためですけど……女の子のお風呂を覗く趣味がある……なんてことはないですよね？=Bem, vamos ver... Só para ter certeza... Você não tem um hobby de espreitar nos banhos das garotas... Você tem?
+ま、まさか……わ、私がお風呂に入るタイミングを待っててくれたんですか？=Não pensou... Uau, você estava esperando o momento certo para eu tomar um banho?
+風呂享楽用件{0}=Desfrutando do banho {0}
+ん……もしかして……何か私にお話でもありますか？=Hum... Há alguma coisa que você queira me dizer?
+私になにか聞きたいことでもありますか？=Você tem alguma pergunta para mim?
+風呂嫌悪{0}=Aversão ao banho {0}
+うそ……ど、どうしてここにあなたが……=Ohhh, por que você está aqui?
+ま、まさか邪な気持ちで来たわけじゃ……ないですよね？=Você não veio aqui com más intenções... Veio?
+風呂嫌悪用件{0}=Abominação do banho {0}
+よ、用事があるなら……言ってください……=Bem, se precisar de mim... Basta dizer-me...
+は、話なら聞きますから……あまり……怖い顔はしないでください……=Eu o ouvirei se você quiser, mas por favor não pareça tão assustado...
+風呂隷属{0}=Escravidão no banho {0}
+お、お風呂であなたに会うなんて……な、なんだか色々想像……しちゃいます……=Oh, encontrar você no banho... Me faz pensar em tantas coisas...
+こ、こんな場所で会えると……少しドキッとしちゃいますよ……=Isto, encontrá-lo em um lugar como este... Me deixa um pouco nervoso...
+風呂隷属用件{0}=A escravidão no banho importa {0}
+あ、あなたからのご用件なら、なんでも伺いますよ。=Oh, fico feliz em ouvir tudo o que você tem a dizer.
+なにか用事があったから声をかけてくれたんですよね？　なんでしょうか？=Você me chamou porque tinha algo a fazer, não é mesmo? O que é isso?

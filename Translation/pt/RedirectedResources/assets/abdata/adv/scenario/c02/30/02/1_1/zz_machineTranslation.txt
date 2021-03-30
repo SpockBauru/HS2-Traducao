@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelúdio B normal {0}
+私達に何か？=Alguma coisa para nós?
+それで、何か用ですか？=Então, o que posso fazer por você?
+前フリB好意{0}=Prelúdio B Favor {0}
+何か私達に聞きたい事でも？=Há alguma coisa que você queira nos perguntar?
+別に、あなたの話なんてしてませんよ……？=Eu não estou falando de você?
+前フリB享楽{0}=Prelúdio B Kyouraku {0}
+噂をすればなんとやら、ですかね？=Falando no diabo, eh?
+で、私達に何か？=Então, o que você quer de nós?
+前フリB嫌悪{0}=Prelúdio B Disgust {0}
+もしかしなくても、邪魔しに来たんですか？=Por acaso, você veio me incomodar?
+無視しないだけありがたいと思ってください。=Fique grato por não ignorá-lo.
+前フリB隷属{0}=Prelúdio B Escravo {0}
+ふふっ、両手に花、ですかね？=Um flor em cada mão, não é?
+今なら私達相手に……なんて。=Agora você está lidando com a gente... Oh, meu.

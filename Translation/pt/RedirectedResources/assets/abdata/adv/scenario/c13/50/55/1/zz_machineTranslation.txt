@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+依存{0}=Depende (0)
+子供は何人欲しいですか？　あなたが望むだけ、子作りに励みましょう……♪=Quantos filhos você gostaria de ter? Vamos procriar o quanto você quiser ♪
+それとも子供はまだ作らずに、二人きりの時間を過ごしますか……？　うふふ、私はどちらでも大丈夫ですよ……♪=Ou você quer passar algum tempo sozinho sem ter filhos ainda? Ummm, estou bem com qualquer um dos dois ♪
+男の子でも、女の子でもあなたの子供なら絶対に可愛いです……♪=Quer seja um menino ou uma menina, seu filho seria absolutamente adorável ♪
+子供を愛することを目に入れても痛くないって言いますけど、比喩じゃなく本当に入れたとしても痛くないと思います……♪=Dizem que amar seus filhos não machuca se você os coloca nos olhos, e não quero dizer metaforicamente, quero dizer realmente colocá-los em seus olhos...
+どうしてセックスをするだけじゃ生きていけないんでしょうか……残念で仕方ありません……♪=Por que não podemos simplesmente transar e viver... É uma vergonha ♪
+セックスだけで生きることが出来たら、ずっとあなたと繋がってたいです……♪=Se eu pudesse viver só de sexo, eu ficaria conectado a você para sempre ♪

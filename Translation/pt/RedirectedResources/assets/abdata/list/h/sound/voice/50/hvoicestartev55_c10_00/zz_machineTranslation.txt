@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+貴方となら無限にできます……いいえ、無限にしたいのです……=Posso torná-lo infinito com você... Não, eu quero torná-lo infinito...
+お互い倒れるまで続けたいですね……まぁ私は、倒れる気なんてありませんが……=Gostaria de continuar até cairmos os dois... Bem, não quero cair...

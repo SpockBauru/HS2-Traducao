@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+いいね。大分オレ好みの部屋だ。形から入るのは全然悪くねぇ……=É legal. Eu gosto muito desta sala. Não é ruim começar do início...
+んで、どうせオマエはオレに苛められたいんだろう？=E você quer que eu o atormente de qualquer maneira, não é mesmo?
+まさかオレを苛めたいなんて生意気なことは……言わねぇよなぁ？=Você não seria tão arrogante... A ponto de querer me atormentar, não é mesmo?
+大層な部屋だな。こんだけ揃ってれば何でもできそうだ……=É uma sala grande. Com todas essas coisas, você poderia fazer qualquer coisa...
+オマエを拘束して、オレ好みに調教してやるよ。=Vou prendê-lo e treiná-lo ao meu gosto.
+そういうことを期待して、この部屋につれて来たんだろ？　なぁ？=Foi para isso que você me trouxe para esta sala, não foi? Não foi?
+なんだ苛めて欲しかったのか。いいぞ、望み通りにしてやる。=Você queria que eu o atormentasse, não queria? Muito bem, eu lhe darei o que você quer.
+ここなら防音もしっかりしてそうだからな、泣き喚いても大丈夫だぞ。=Este lugar será à prova de som, para que você não tenha que se preocupar em chorar.
+まずは拘束するか……逃げられたりすると面倒だからな。=Teremos que detê-lo primeiro... Porque se ele escapar, será um problema.

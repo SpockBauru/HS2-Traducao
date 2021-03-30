@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+あ、あのさ……お前、私を苦しめたり、痛いことするの好き、だよね？　あれ、本当に迷惑だから、その……絶対にやらないでね……？=Oh, você sabe... Você gosta de me fazer sofrer, não é mesmo? Isso é realmente irritante, então... Nunca faça isso... Certo?
+お前って、あまり友達に紹介できないタイプだよね。ほら、だってあの『痛い』趣味があるじゃん……？=Você é o tipo de cara que eu não posso realmente apresentar aos meus amigos. Sabe, porque você tem aquele hobby "doloroso"?
+好意{0}=Favores {0}
+私、お前のこと好きだから……どれぐらい？　嫌なことされても許しちゃえる、ぐらい……？=Porque eu gosto de você... Quanto? Ao ponto de eu poder perdoar-lhe mesmo que você faça algo que eu não goste?
+ねえ、また今日も痛いことするの？　はーあ……なんでこんなヤツ好きになっちゃったんだろうなー。=Ei, você vai fazer algo doloroso novamente hoje? Huh... Eu me pergunto por que me apaixonei por este cara.
+享楽{0}=Prazer {0}
+最近、気付いたんだけどさぁ♪　頑張れば痛いのも気持ちよく感じられそうだよね？　どう思う？=Percebi recentemente que ♪ Se você trabalhar duro o suficiente, a dor pode sentir-se bem, certo? O que você acha?
+痛くしてもいいけど、気持ちいいのも一緒にお願い。そうすれば、私もそこまで抵抗しないからさ♪=Você pode fazer doer, mas, por favor, faça com que se sinta bem também. Dessa forma, não vou ripostar tanto. ♪
+嫌悪{0}=Repugnância {0}
+お前に朗報、痛いのとか苦しいのに慣れちゃった。私を嬲って楽しみたかったのに、残念だったね。=Boas notícias para você, estou acostumado à dor e ao sofrimento. Sinto muito que você quisesse me torturar por diversão.
+ほら、早く好きにすれば？　優しくされたいとか、期待してないから。=Vá lá, por que você não faz o que quer? Não estou esperando que você seja gentil comigo nem nada.
+隷属{0}=Escravidão {0}
+私、今日ずっとオナニーしててさ、気持ち悪いよね？　お仕置きしてもいいよ、いつもの痛いので……♪=Estive me masturbando o dia todo. É nojento, não é? Você pode me castigar, com sua habitual dor ♪
+今日も痛くしてくれるなら、この前よりももっと強くしてもらってもいい？　お前にしか、頼めないから。=Se você vai me fazer sofrer de novo hoje, posso pedir-lhe que torne as coisas mais difíceis do que da última vez? Porque você é o único a quem posso perguntar.

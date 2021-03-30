@@ -1,0 +1,39 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+汎用普通{0}=Objetivo Geral Normal {0}
+ご機嫌よう。=Tenha um bom dia.
+まあ、こんなところでお会いするなんて奇遇ですこと。=Bem, é uma coincidência tão estranha que nos encontramos aqui.
+あら、こんにちは。=Olá.
+汎用普通用件{0}=Caso comum de uso geral {0}
+もしかして、私をお探しでしたの……？=Você estava me procurando, não estava?
+それで……何かご用ですか？=Então... O que posso fazer por você?
+汎用好意{0}=Favor genérico {0}
+こんにちは、今日も素敵ですわね。=Olá, você está linda hoje.
+あら、愛しのパートナー様、こんにちは。=Olá, meu querido parceiro.
+まあ、待ち合わせもしていませんのに……運命的な出会いですわね。=Bem, ainda nem nos conhecemos, mas... É o destino, não é?
+汎用好意用件{0}=Favor Geral {0}
+わざわざ私を探しに来てくださったのですか？　嬉しいですわ……=Você veio de tão longe para me encontrar? Fico feliz que o tenha feito...
+今日はあなたに会える気がしていましたの、お話いたしませんか……？=Tive a sensação de que o veria hoje. Gostaria de conversar?
+汎用享楽{0}=Diversão geral {0}
+まあ、その節は……うふふ……♪=Bem, essa seção é... Ufufu...
+あら、ご機嫌よう、あの夢のようなひと時からいかがお過ごしですか……？=Olá, como você está desde aquele momento de sonho?
+うふふ……あなたをお見かけすると、嬉しくて笑みが……ふふ……♪=Mmmm... Eu sorrio de alegria quando o vejo... Hihihi...
+汎用享楽用件{0}=Caso de Diversão Geral {0}
+少しお話いたしませんか？　もちろん……うふふ、お話以外のことでも、大歓迎ですけれど……♪=Você gostaria de ter uma pequena conversa? É claro que você está convidado a falar sobre qualquer coisa, exceto...
+性のお勉強をしにいらっしゃったのですか……？=Você está aqui para aprender sobre sexo?
+汎用嫌悪{0}=Aversão geral {0}
+まあ、奇遇ですこと……=Bem, que coincidência...
+その節はどうも……=Obrigado por seu tempo...
+あら、ご機嫌よう……=Olá, olá...
+汎用嫌悪用件{0}=Caso de antipatia geral {0}
+何か……ご用ですか……？=Posso ajudá-los?
+なんですの……？=O que é isso?
+汎用隷属{0}=Escravidão de Propósito Geral {0}
+その節はご指導頂き、ありがとうございました。=Obrigado por sua orientação sobre esse assunto.
+パートナー様、お会いできて光栄ですわ。=Sr. Sócio, é um prazer conhecê-lo.
+あれからお変わりありませんか……？=Você mudou desde então?
+汎用隷属用件{0}=Uso Geral da Escravatura {0}
+私に何かご用ですか……？=O que posso fazer por você, senhor?
+それでは、何なりとお申しつけくださいまし。=Então, por favor, sinta-se à vontade para pedir qualquer coisa.

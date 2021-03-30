@@ -1,0 +1,21 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+ふは……身体中がどろどろですぅ……しばらく感触が残りそうですよー。=Huh... Meu corpo está tão escorregadio... Que a sensação vai ficar comigo por um tempo!
+かけてもらったところ、全部熱いです……はぁぁ、すごい……=Já me despejaram em cima e está tudo quente... Hahaha, ótimo...
+好意{0}=Favores {0}
+ん……ふぅ……なんか草っぽい匂いがします……ん……不思議ぃ……=Hmm... Cheira a grama... Estranho...
+あぁ……こんなにかけられて恥ずかしいはずなのに……なんかちょっと……興奮しちゃってます……=Eu deveria ter vergonha de ser coberto desta maneira, mas estou um pouco... Entusiasmado...
+享楽{0}=Prazer {0}
+精液でどろどろになったわたしの姿はどーですかー？=Como você gosta de me ver cortado no sêmen?
+濃くてドロドロしてて匂いが強くて……はぁ……こんなにいっぱい汚されるの……癖になりそうです……=É tão espesso e desleixado e cheira tão forte... Haha... Tanta sujeira... Que vai ser um hábito...
+嫌悪{0}=Repugnância {0}
+むぅ……これじゃ身体中に匂いがついちゃうじゃないですかー。=Mmm, isso vai deixar o cheiro em todo o meu corpo.
+もぉ洗っていーですか？　この匂いと感触……さすがに限界ですよー。=Posso lavá-lo agora? Este cheiro e sensação... É de fato o limite.
+隷属{0}=Escravidão {0}
+精液ぃ……指でつつくとぷりぷりしてますよぉ……ん……新鮮ってこと……ですよね。=O sêmen... Quando eu puxo com meu dedo, é suculento. Isso significa que é fresco... Não é?
+依存{0}=Depende (0)
+なんだかすごくふしだらな気分ですけど……興奮してもらえましたか？=Eu me sinto como uma vadia, mas... Isso a excitou?
+たまには、こういうことも必要ですよね、ふふっ。=Às vezes, você precisa fazer isso.

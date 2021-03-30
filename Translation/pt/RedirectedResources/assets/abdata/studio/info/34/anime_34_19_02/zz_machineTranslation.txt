@@ -1,0 +1,55 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+表示名=Nome em Exibição
+喜1=Ki 1
+喜2=Ki 2
+喜3=Ki 3
+喜4=Ki 4
+喜5=Ki 5
+喜6=Ki 6
+喜7=Ki 7
+喜8=Ki 8
+喜9=Ki 9
+喜10=Ki 10
+怒1=Raiva 1
+怒2=Raiva 2
+怒3=Raiva 3
+怒4=Raiva 4
+怒5=Raiva 5
+怒6=Raiva 6
+怒7=Raiva 7
+怒8=Raiva 8
+怒9=Raiva 9
+怒10=Raiva 10
+哀1=Tristeza 1
+哀2=Tristeza 2
+哀3=Tristeza 3
+哀4=4 triste
+哀5=Tristeza 5
+哀6=Tristeza 6
+哀7=Tristeza 7
+哀8=Tristeza 8
+哀9=Tristeza 9
+哀10=Tristeza 10
+恥1=Vergonha 1
+恥2=Vergonha 2
+恥3=Vergonha 3
+恥4=Vergonha 4
+恥5=Vergonha 5
+恥6=Vergonha 6
+恥7=Vergonha 7
+恥8=Vergonha 8
+恥9=Vergonha 9
+恥10=Vergonha 10
+依存1=Dependência 1
+依存2=Dependência 2
+依存3=Dependência 3
+依存4=Dependência 4
+依存5=Dependência 5
+依存6=Dependência 6
+依存7=Dependência 7
+依存8=Dependência 8
+依存9=Dependência 9
+依存10=Dependência 10

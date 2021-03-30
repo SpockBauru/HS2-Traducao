@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+なにしてたのA普通{0}=O que você estava fazendo?
+ん？　教えて欲しい？　どーしよっかな～♪=Hmm? Você quer que eu lhe diga? Eu não sei...
+まー世間話的な？　女子の会話に内容を求めちゃいけないって。=Bem, como conversa fiada? Ele disse que não devemos procurar conteúdo nas conversas das garotas.
+なにしてたのA好意{0}=O que você estava fazendo?
+アンタの話してたんだよ。どんくらいイケてるかって診断。=Eu estava falando de você. O diagnóstico de quão quente você está.
+コ・イ・バ・ナ♪　これ以上は守秘義務で話せません♪=♪ Não posso mais lhe dizer por causa da confidencialidade ♪
+なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+そりゃもう……女子同士の赤裸々下ネタトーク、聞きたい？=Isso é ótimo... Você quer ouvir conversas nuas sobre a linha de fundo entre garotas?
+エロい話してた。よくオカズにするオナネタとか。=Eles estavam falando de sexo. Sabe, o tipo de masturbação a que você se masturba.
+なにしてたのA嫌悪{0}=O que você estava fazendo?
+え？　占いの話とか？　まーそんな感じ？=O quê? Quer dizer, como contar a sorte? Algo assim?
+アンタをここから追い出す方法を話し合ってた。そんだけ。=Estávamos discutindo como tirá-lo daqui. Isso é tudo.
+なにしてたのA隷属{0}=O que você fez, A-slave {0}
+ちょっとアブノーマルな話。てか、どこまでがノーマルかって話？=É um pouco anormal. Quero dizer, até onde é normal?
+んとね、アタシらがサドかマゾかって、お互いに診断してたとこ。=Bem, nós estávamos apenas diagnosticando um ao outro para ver se estávamos tristes ou masoquistas.

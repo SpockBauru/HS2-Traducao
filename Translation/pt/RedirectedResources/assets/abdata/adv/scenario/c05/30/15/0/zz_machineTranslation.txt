@@ -1,0 +1,6 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+すみません……今、お部屋にいますか……？=Desculpe... Você está no seu quarto agora?
+あれ、お留守なのかな……ではまた出直します……=Oh, não sei se você está em casa... Mas eu voltarei...

@@ -1,0 +1,11 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+享楽{0}=Prazer {0}
+感じているあなたの顔、とても滑稽でしたよ。=Seu rosto, a maneira como você se sentia, era tão engraçado.
+写真に撮って、施設の方々に見せてあげたい程でした。=Eu queria tirar uma foto e mostrá-la às pessoas da instalação.
+あなたって、苛め甲斐がありますよね。つい本気を出しちゃいました。=Você é um atormentador tão digno. Acabei de levar a sério.
+その分、あなたも楽しめたからいいですよね？=E isso é bom, porque você também gostou, certo?
+ふぅ……嗜虐心が満たされてスッキリしました。=Sinto-me melhor agora que minhas papilas gustativas estão satisfeitas.
+また苛めて欲しくなったら、私を誘ってください。いつでも付き合いますよ。=Se você quiser que eu o atormente novamente, é só me convidar para sair. Eu saio com você a qualquer momento.

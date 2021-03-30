@@ -1,0 +1,8 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+お邪魔します……お風呂、ご一緒してもいいですか？=Desculpe incomodá-lo... Mas posso me juntar a você para um banho?
+ふふっ、あなたが入ってることに気付いたから……つい入って来ちゃいました。=Huh, eu notei que você estava lá dentro... Então eu acabei de entrar.
+失礼します……もうお風呂に入るなら、一言言ってくれれば……お身体流してあげますのに……=Se você me dá licença... Se você vai tomar banho, é só me dizer e eu te lavo.
+ご主人様、私も一緒に入りたいですぅ……ご主人様と一緒のお風呂、楽しいんですもん。=Mestre, eu também quero tomar um banho com você... É divertido tomar um banho com você, Mestre.

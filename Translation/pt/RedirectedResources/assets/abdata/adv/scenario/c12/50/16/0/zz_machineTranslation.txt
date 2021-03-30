@@ -1,0 +1,5 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+女の子が見当たらない。どうしようか・・・=Não consigo encontrar a garota. Eu não sei o que fazer...

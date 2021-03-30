@@ -1,0 +1,34 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+風呂普通{0}=Banho normal {0}
+貴方もお風呂ですか？　清潔感は大事ですからね。常に気を付けたいものです。=Você também está tomando banho? A limpeza é importante, não é? Quero ser sempre cuidadoso.
+お散歩するのもいいですが、理由もなくここにいると……ふふ、覗きを疑われてしまいますよ？=Você pode dar um passeio, mas se você estiver aqui sem motivo... Hehe... Você será suspeito de espiar, não é mesmo?
+風呂普通用件{0}=Assuntos normais de banho {0}
+私に何か御用ですか？　私にできることなら、なるべく協力させて頂きますよ。=O que posso fazer por você, senhor? Se houver algo que eu possa fazer, farei o meu melhor para ajudar.
+えぇと、どうしましょうか？　私は、このままお話しているだけでも大丈夫ですが……=Bem, o que você quer que eu faça? Eu estou bem se continuarmos a conversar, mas...
+風呂好意{0}=Favores de banho {0}
+私、いつも身体は綺麗にするようにしているのです。ぁ……き、聞いてないですよね。すみません。=Eu, eu sempre tento manter meu corpo limpo. Ah... Ki, você não está ouvindo. Sinto muito.
+貴方となら、一緒にお風呂に入ってもいいのですが……ぁ、いえ、すみません……少しはしたな過ぎましたね。=Eu poderia tomar um banho com você, mas... Oh, não, desculpe... Isso foi um pouco demais.
+風呂好意用件{0}=Favoritos do banho {0}
+私に声をかけたということは、何か用事があるのですよね？　何なりと、お申しつけください。=Se você chegou até mim, você deve ter algum negócio, certo? O que quer que você precise, estou a seu serviço.
+貴方とお話できるだけでも嬉しいですが……何か、他に御用があれば言ってください。=Estou feliz em falar com você, mas se precisar de mais alguma coisa, é só me avisar.
+風呂享楽{0}=Desfrutando do banho {0}
+顔が赤いですよ？　ふふ、お風呂に入る前から、のぼせないようにしてくださいね？=Seu rosto está vermelho, você sabe? Hehe, por favor tente não ficar todo nervoso antes de tomar um banho, ok?
+お風呂、一緒に入りますか？　なんて、冗談ですよ♪　ふふ、本気にしてしまいましたか？=Você quer tomar um banho comigo? Que piada ♪ hehe, você levou isso a sério?
+風呂享楽用件{0}=Desfrutando do banho {0}
+聞くだけ野暮かもですが、今日は何をしにここに来たのですか？=Provavelmente não é a coisa certa a se perguntar, mas o que você está fazendo aqui hoje?
+さて、私とお話をしているだけでいいのですか？　何か他にやることがあるのでは？=Agora, você tem certeza de que quer apenas falar comigo? Não há algo mais que você precisa fazer?
+風呂嫌悪{0}=Aversão ao banho {0}
+どこにいても、貴方は怪しいですね。お風呂なら尚更です。私、見ていますからね？=Onde quer que você esteja, você está desconfiado. Ainda mais no banheiro. Estou de olho em você, certo?
+ん……何をしに来たのですか？　ここはお風呂です。私の近くに来る必要は無いと思いますが……=Hmm... O que você está fazendo aqui? Isto é um banho. Acho que você não precisa se aproximar de mim...
+風呂嫌悪用件{0}=Abominação do banho {0}
+あの……特に用が無いなら、もう私は失礼したいのですけど……=Um... Se você não tem nada em particular, eu gostaria de sair agora.
+用事があるなら、早く言ってください。時間は有限ですので。=Se você tem algo a dizer, diga-o rapidamente. Seu tempo é limitado.
+風呂隷属{0}=Escravidão no banho {0}
+私、身体はいつも綺麗にしていますよ。本当です……もし汚い方がお好みなら、考え直しますが……=Eu sempre mantenho meu corpo limpo. Eu juro... Se você preferir sujo, eu reconsiderarei, mas...
+もしかして……覗きですか？　誰かに言ったりはしませんが、あまりハメを外し過ぎないようにお願いします。=Você é... Você é um voyeur? Eu não direi a ninguém, mas por favor, não se preocupe demais.
+風呂隷属用件{0}=A escravidão no banho importa {0}
+えっと、何かお話しますか？　それとも他のことが、いいでしょうか……=Bem, você quer falar sobre alguma coisa? Ou você gostaria de falar sobre outra coisa...
+ふ、二人とも黙っていても話が始まりませんね？　その……私に何か？=Huh, vocês dois não podem simplesmente calar a boca e começar a falar, podem? Bem... Você quer me ver?

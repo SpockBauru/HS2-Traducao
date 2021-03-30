@@ -1,0 +1,43 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+いやー……いやぁ～、やっぱセックスすると～このために生きてる～ってなるんすよね～♪=Bem... Não... Quando tenho sexo, sinto que estou vivendo para isto...
+はー……あなたのがネチっこい動きで私を……あ、また濡れてきたっすー。２回戦目ってアリすかー？=Estou ficando molhado de novo... É possível ter uma segunda rodada?
+なーんかー……セックス以上に気持ちいいものなんてあるのかーって感じじゃないすかー？=Não há nada mais agradável do que o sexo?
+好意より50～79{0}=50-79{0} de favor.
+あなたとすると気持ちいいってかー幸せってかー、このふたつって微妙に違うっすよねー？=Quando faço isso com você, me sinto bem... Me sinto feliz... Essas duas coisas são um pouco diferentes, não são?
+はふー……ふふ、セックスが終わった後に、こーゆー雰囲気になれるのっていいっすねー。=Haha... Hehe... É bom poder entrar nesse tipo de clima depois que o sexo acaba.
+前はセックスできればそれでいい～みたいなこと言ってたかもしれないすけど今は全然違うっすー♪=Antes, eu poderia ter dito: "Se eu posso fazer sexo, isso é tudo que importa", mas agora eu sou totalmente diferente.
+好意より80～100{0}=80 a 100{0} mais do que favor.
+なんか、私の身体を知り尽くされてる～って感じのセックスで、ちょー気持ちよかったっすー♪=Eu senti que você conhecia meu corpo por dentro e por fora, foi muito bom transar com você.
+身体もそうなんすけど、特に心というかー……あなたとのセックスって一体感があるんすよねー♪=O corpo é o mesmo, mas especialmente a mente... O sexo com você me dá uma sensação de unidade...
+セックスするためにあなたに会ってたのにー今はあなたに会うためにセックスしてる感じっす～♪=Eu costumava conhecê-lo para fazer sexo, e agora estou fazendo sexo para conhecê-lo.
+享楽より50～79{0}=De 50 a 79{0}
+お互いにイッたセックスの後ってー、なんかやってやった感あるっすよー♪=Depois do sexo, quando ambos vêm, sentem-se como se o tivessem feito.
+最近、自分がイッたときより、あなたがイッた時のホヤ～っとした顔見た方がゾクゾクするんすよねー。=Ultimamente, sinto mais calafrios quando vejo seu rosto quando você vem do que quando eu mesmo venho.
+享楽より80～100{0}=De 80-100{0}
+最高のセックスだったっすけど、次はもっと私にヤらせてもいいっすよー♪=Foi ótimo sexo, mas da próxima vez você pode me deixar te foder mais...
+同じ「イク」でも、あなたを攻めてるときの絶頂感ってハンパないんすよー♪=Mesmo sendo o mesmo tipo de prazer, a sensação de clímax quando estou atacando você é incrível ♪
+私、あなたのおちんちんから精液を搾り取るマニアになってるの気付いてるっすか～？=Você percebe que estou me tornando um maníaco que espreme o sêmen de seu pênis?
+嫌悪より50～79{0}=50-79 de repugnância {0}
+ふぃ～、イッたイッたー、んじゃ、さよならっすー。=Fui, eu vim, eu vim... Bem, adeus.
+セックスできるならホイホイお呼ばれされちゃうんでー、気が向いたら誘っていいすよー。=Se eu puder fazer sexo com você, eu serei convidado, então você pode me convidar se tiver vontade.
+やっぱセックスは気持ちいいやつに限るっすねー。=Afinal de contas, o sexo deve se sentir bem.
+嫌悪より80～100{0}=80-100{0} de repugnância.
+ふぅ……あなたってほんとーセックスだけはうまいっすよね～。=Você é realmente bom em sexo, não é?
+ちゃんとイけてよかったーってことでー、これにて失礼するっすー、ではではー。=Estou feliz por ter podido gozar assim... Então vou deixá-los agora... Adeus...
+イッたはイッたんすけどー、なーんか物足りないんすよねー。=Eu vim, mas não foi o suficiente.
+隷属より50～79{0}=50-79{0} da servidão.
+あなたってほんとーに私を絶頂に導く天才っすよねー。なんかーもー病みつきって感じっす～。=Você é realmente um gênio em me levar ao clímax, não é mesmo? É como se eu estivesse viciado em você.
+最近、あなたに攻められるとドキドキが止まらないんすよー、こりゃセックスの病っすね～♪=Ultimamente, não consigo parar meu coração de bater quando você me ataca... Esta é uma doença sexual...
+あなたにアソコを舐めてもらったり、沢山気持ちよくしてもらうとー、すっごく安心するんすよ～♪=Eu me sinto tão aliviado quando você lambe minha buceta e me faz sentir tão bem...
+隷属より80～100{0}=80-100{0} da servidão.
+もー私ーあなたとのセックスにぞっこんラブって感じっす～♪=Estou tão apaixonada por sexo com você...
+う～、ちゃんとふたりでイッたのに、まだ身体が疼くんすよ～、さてはあなたインキュバスっすね～？=Ainda estou formigando, apesar de termos vindo juntos... Você é uma incubadora, não é?
+あぁ～……もう時間っすねー、スケベなシンデレラになった気分っす。=Ahhh... É hora de ir... Eu me sinto como uma Cinderela lasciva.
+依存{0}=Depende (0)
+あの、また乱れちゃいましたけど……そんな私を誘い続けてくれるあなたのことが……好き、です。=Bem, voltei a ter problemas, mas... Eu gosto de você... Por continuar me convidando assim.
+え、H、気持ちよかったです……あの、スケベな私ですけど……その、ま、また誘ってくれますか？=Bem, sexo foi bom... Eu sou uma pessoa lasciva, mas... Bem, você pode me convidar de novo?
+あの……やっぱり私、あなたのことが好き、です。うぅ、Ｈのときより心臓バクバクしてます……=Um... Eu ainda gosto de você. Meu coração está batendo mais rápido do que durante o sexo...

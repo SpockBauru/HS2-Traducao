@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+普通{0}=Normal {0}
+私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=Você quer falar comigo? Não tenho certeza se posso oferecer um tópico agradável, mas compreendo.
+分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=Eu entendo. Talvez eu não possa lhe dar uma resposta espirituosa, mas por favor, tenha paciência comigo.
+好意{0}=Favores {0}
+ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Sim, com prazer. Sobre o que podemos falar? Pessoalmente, estou interessado em sua história de amor.
+勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=É claro que irei junto com você. Tenho uma reputação pelo meu timing.
+享楽{0}=Prazer {0}
+猥談でしたら、お任せください。=Se for uma obscenidade, nós o protegemos.
+……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=... Estou vendo, você vai falar obscenamente para me colocar no clima e depois transar. Eu entendo.
+嫌悪{0}=Repugnância {0}
+ちょうど暇をしていたところでしたので、お付き合いしますよ。=Acabei de ter algum tempo livre em minhas mãos, por isso vou fazer-lhe companhia.
+盛り上がるとは到底思えませんが……分かりました。=Acho que não vai ser muito emocionante, mas... Tudo bem.
+隷属{0}=Escravidão {0}
+身体ではなく、言葉でコミュニケーションを……分かりました。=Comunique-se com suas palavras, não com seu corpo... Eu entendo.
+言葉攻めですか、分かりました。=É um ataque verbal? Eu entendo.

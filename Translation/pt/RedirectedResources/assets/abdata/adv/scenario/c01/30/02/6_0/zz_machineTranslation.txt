@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+H事後A普通{0}=Sexo posterior A normal {0}
+ありがとう、誘ってくれて。=Obrigado por me ter convidado.
+こういうのも刺激があってよかったわ。=Estou feliz que você tenha achado estas coisas estimulantes.
+H事後A好意{0}=Sexo posterior A favor {0}
+あなたとエッチができて嬉しかったわ。=Foi um prazer transar com você.
+こういうエッチってなんだか照れちゃうわね。=Este tipo de sexo é um pouco embaraçoso, não é?
+H事後A享楽{0}=Sexo poste A diversão {0}
+気持ちよくって、幸せだったわ。=Senti-me tão bem. Fiquei tão feliz.
+こういうエッチ、刺激的で最高だったわ。=Este tipo de sexo, era excitante, era ótimo.
+H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+これで満足したのかしら。=Será que ele está satisfeito com isto?
+とりあえず、これで終わりよね。=Bem, por enquanto é tudo.
+H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+あなたの望み通りのエッチができたかしら。=Espero que tenhamos tido o sexo que você queria.
+あなたに望まれてエッチするのって、最高だわ。=É tão bom ser desejado por você e transar com você.

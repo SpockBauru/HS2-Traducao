@@ -1,0 +1,19 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+前フリB普通{0}=Prelúdio B normal {0}
+今きたところですか……？　私はお友達と話してました……=Você acabou de chegar aqui? Estava falando com seu amigo...
+あの……どっちかに用でしたか……？=Um... Você queria ver um de nós ou?
+前フリB好意{0}=Prelúdio B Favor {0}
+今日も大好きです……今、お友達とお話してました……=Eu te amo hoje... Eu estava conversando com seu amigo...
+3人で話しますか……？　あ、ふたりがよければですけど……=Você quer falar sobre isso sozinho? Bem, se não houver problema com vocês dois...
+前フリB享楽{0}=Prelúdio B Kyouraku {0}
+もしかして……3人でエッチしたいんですか、うふふ……=Talvez... Você queira transar com nós três? Ummm...
+わざわざ割って入ってきたということは……私たちの身体に割って入りたいんですね……？=Se você se deu ao trabalho de invadir... Você quer invadir nossos corpos?
+前フリB嫌悪{0}=Prelúdio B Disgust {0}
+私があなた以外の子と話してるのが意外ですか……？=Você está surpreso que eu esteja falando com uma garota que não seja você?
+私にも相談相手ぐらいいます……=Eu poderia usar alguém para falar com...
+前フリB隷属{0}=Prelúdio B Escravo {0}
+うふふ、なんとなく……何が言いたいかわかっちゃいます……=Ummm... Eu meio que... Sei o que você quer dizer...
+この子の前で犯そうとしてませんか……？　その逆ですか……？=Você está tentando me foder frente dessa garota? Ou é ao contrário?

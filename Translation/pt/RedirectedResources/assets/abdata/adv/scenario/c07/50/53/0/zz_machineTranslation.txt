@@ -1,0 +1,14 @@
+//***********************************************************************
+//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
+//***********************************************************************
+
+隷属{0}=Escravidão {0}
+おいおい、こんな気持ち悪いやつとヤれって言うのか？=Oh, vamos lá. Você quer que eu foda esse cara assustador?
+流石にオレでも引くレベルだぞ……普通の女なら悲鳴あげてるだろうな。=É um nível que até eu acharia perturbador... Uma mulher normal estaria gritando.
+ま、ヤってりゃ慣れるとこもあるだろうし。ウダウダ言うのはこの辺でやめとくか……=Bem, acho que você se acostuma com isso depois de um tempo. Acho que vou parar de falar sobre isso agora.
+コイツ……オマエの命令は聞くのか？　おい、目反らすな……=Ele... Ele recebe ordens de você? Ei, não desvie o olhar...
+まぁオマエのペットじゃないなら、逆にオレが手懐けることも可能ってわけか……=Se não é o seu animal de estimação, então posso cuidar dele.
+ハッ、それじゃ一勝負だな。オレと触手……勝った方がご主人様だ。=Huh, acho que então é um concurso. Eu e Tentáculos... Quem quer que ganhe é o mestre.
+たく、どこから連れてきたんだこんなバケモン……=Onde você conseguiu este bakemon?
+だらだらと垂れてるのは涎か？　オレを襲う気マンマンてわけだ……=O que é essa baba? É como se ele estivesse pronto para me atacar.
+上等……人間様を舐めるとどうなるか教えてやるよ。=Bom... Deixe-me mostrar-lhe o que acontece quando você lambe um humano.
