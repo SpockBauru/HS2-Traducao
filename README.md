@@ -131,6 +131,10 @@ Localização dos arquivos referentes a cada personalidade das garotas:
 | 7  | ドS   | Sádica       | `c07`                    | `hvoicestart_c07_*`, `hvoice_c07_*`, `hvoicestartevXX_c07*`, `hvoiceevXX_c_07*` |
 | 8  | オープン | Tarada       | `c08`                    | `hvoicestart_c08_*`, `hvoice_c08_*`, `hvoicestartevXX_c08*`, `hvoiceevXX_c_08*` |
 | 9  | 天然   | Cabeça Oca   | `c09`                    | `hvoicestart_c09_*`, `hvoice_c09_*`, `hvoicestartevXX_c09*`, `hvoiceevXX_c_09*` |
+| 10 | 几帳面  | Carinhosa    | `c10`                    | `hvoicestart_c10_*`, `hvoice_c10_*`, `hvoicestartevXX_c10*`, `hvoiceevXX_c_10*` |
+| 11 | 大和撫子 |Japonesa Ideal| `c11`                    | `hvoicestart_c11_*`, `hvoice_11_*`, `hvoicestartevXX_11*`, `hvoiceevXX_c_11*` |
+| 12 |ボーイッシュ| Moleca       | `c12`                    | `hvoicestart_c12_*`, `hvoice_c12_*`, `hvoicestartevXX_c12*`, `hvoiceevXX_c_12*` |
+| 13 | ヤンデレ | Obsessiva    | `c13`                    | `hvoicestart_c13_*`, `hvoice_c13_*`, `hvoicestartevXX_c13*`, `hvoiceevXX_c_13*` |
 | -1 | フュル  | Fur          | `c-1`                    |                                       |
 | -2 | シトリー | Sitri        | `c-2`                    |                                       |
 
