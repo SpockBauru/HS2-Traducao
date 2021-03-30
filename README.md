@@ -28,7 +28,8 @@ A tradução feita puramente por serviços automáticos deve ser mantida nos arq
 ### Funcionamento básico e estrutura
 
 Cada linha de tradução segue o seguinte padrão: `texto original=texto traduzido`. Exemplo: `悟飯=Comida`
-Linhas iniciadas com `//` são considerados comentário, ou seja, não são consideradas na tradução.
+
+Linhas iniciadas com `//` são considerados comentários, ou seja, não são consideradas na tradução.
 
 As traduções estão todas dentro da pasta `Bepinex\Translation\pt\`. Eles são então divididos nos seguintes diretórios:
 - `RedirectedResources` - Subistitui as palavras embutidas nos arquivos do jogo. Essas traduções são carregadas apenas quando o jogo precisa do arquivo correspondente, portanto é preferível usar este diretório ao invés do diretório `Text` devido sua precisão e desempenho. Este diretório imita a estrutura do jogo, colocando uma pasta para cada arquivo de recursos (como os arquivos ".unity3d").
@@ -106,13 +107,13 @@ Tabela com a localização das traduções de cada parte do jogo:
 | `etcetra/list/parametername`     | Peculiaridades, fetiches, estado |
 | `gamedata/Achivement/Achivement` | Conquistas                       |
 | `gamedata/achievement/exchange`  | Desbloqueáveis/upgrades          |
-| `gamedata/bgmname`               | Músicasde fundo                  |
-| `gamedata/eventcontent`          | atividade/necessidade atual      |
-| `map/list/mapinfo`               | nomes de mapas                   |
-| `list/characustom`               | coisas do editor de personagens  |
-| `list/h/animationinfo`           | posições (versões do jogo)       |
+| `gamedata/bgmname`               | Músicas de fundo                 |
+| `gamedata/eventcontent`          | Atividade/necessidade atual      |
+| `map/list/mapinfo`               | Nomes dos mapas                  |
+| `list/characustom`               | Coisas do editor de personagens  |
+| `list/h/animationinfo`           | Posições (versões do jogo)       |
 | `list/h/sound`                   | Legendas                         |
-| `spr/list/*/planname`            | Nomes de serviços VIP            |
+| `spr/list/*/planname`            | Nomes dos serviços VIP           |
 | `studio`                         | Coisas do estúdio                |
 
 #### Personalidades
