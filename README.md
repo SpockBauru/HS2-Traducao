@@ -119,8 +119,8 @@ Tabela com a localização das traduções de cada parte do jogo:
 #### Personalidades
 Localização dos arquivos referentes a cada personalidade das garotas:
 
-| ID | Nome   | Nome Port.   | Diálogos (`adv/scenario/`) | Legendas (`list/h/sound/voice/*/`) |
-|----|--------|--------------|--------------------------|-------------------------------------|
+| ID | Nome   | Nome Port.   | Diálogos (`adv/scenario/`) | Legendas (`list/h/sound/voice/*/`)                                           |
+|----|--------|--------------|--------------------------|--------------------------------------------------------------------------------|
 | 0  | クール  | Calma        | `c00`                    | `hvoicestart_c00_*`, `hvoice_c00_*`, `hvoicestartevXX_c00*`, `hvoiceevXX_c_00*` |
 | 1  | 普通   | Normal       | `c01`                    | `hvoicestart_c01_*`, `hvoice_c01_*`, `hvoicestartevXX_c01*`, `hvoiceevXX_c_01*` |
 | 2  | 苦労人  | Trabalhadora | `c02`                    | `hvoicestart_c02_*`, `hvoice_c02_*`, `hvoicestartevXX_c02*`, `hvoiceevXX_c_02*` |
@@ -135,8 +135,8 @@ Localização dos arquivos referentes a cada personalidade das garotas:
 | 11 | 大和撫子 |Japonesa Ideal| `c11`                    | `hvoicestart_c11_*`, `hvoice_11_*`, `hvoicestartevXX_11*`, `hvoiceevXX_c_11*` |
 | 12 |ボーイッシュ| Moleca       | `c12`                    | `hvoicestart_c12_*`, `hvoice_c12_*`, `hvoicestartevXX_c12*`, `hvoiceevXX_c_12*` |
 | 13 | ヤンデレ | Obsessiva    | `c13`                    | `hvoicestart_c13_*`, `hvoice_c13_*`, `hvoicestartevXX_c13*`, `hvoiceevXX_c_13*` |
-| -1 | フュル  | Fur          | `c-1`                    |                                       |
-| -2 | シトリー | Sitri        | `c-2`                    |                                       |
+| -1 | フュル  | Fur          | `c-1`                    |                                                                                 |
+| -2 | シトリー | Sitri        | `c-2`                    |                                                                                 |
 
 ### Linhas de tradução especializadas
 
