@@ -3,5 +3,5 @@
 //***********************************************************************
 
 会話{0}=Conversação {0}
-うん、わかってたけど、やっぱりお前から誘ってもらえると嬉しいよぉ、私だって乙女だからさぁ♪=Sim, eu sabia, mas estou feliz que você me convidou para sair, porque eu também sou uma garota...
+//うん、わかってたけど、やっぱりお前から誘ってもらえると嬉しいよぉ、私だって乙女だからさぁ♪=Sim, eu sabia, mas estou feliz que você me convidou para sair, porque eu também sou uma garota...
 えへへ、シよシよ♪　お前とスることばっかり考えてたから、エッロいことたっくさんしてあげるぅ♪=Tenho pensado muito em foder com você, por isso vou fazer muitas coisas maliciosas com você.

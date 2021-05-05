@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話{0}=
-//うん、わかってたけど、やっぱりお前から誘ってもらえると嬉しいよぉ、私だって乙女だからさぁ♪=
+うん、わかってたけど、やっぱりお前から誘ってもらえると嬉しいよぉ、私だって乙女だからさぁ♪=Sim, eu sabia disso, mas como sou uma garota ainda fico feliz quando você me convida ♪
 //えへへ、シよシよ♪　お前とスることばっかり考えてたから、エッロいことたっくさんしてあげるぅ♪=
