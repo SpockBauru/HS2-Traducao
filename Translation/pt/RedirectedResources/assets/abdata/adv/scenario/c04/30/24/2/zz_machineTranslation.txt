@@ -3,14 +3,14 @@
 //***********************************************************************
 
 普通{0}=Normal {0}
-アンタ、まーまーイイ感じだったよ。またリピってあげてもいーかも♪=Você estava muito bem. Talvez eu faça isso novamente.
+//アンタ、まーまーイイ感じだったよ。またリピってあげてもいーかも♪=Você estava muito bem. Talvez eu faça isso novamente.
 おつかれー。やーマジ、結構疲れるよね。ヤッてる時は気持ちいーんだけどさ～。=Boa noite. Sim, é bastante cansativo, não é? Mas é uma sensação boa quando você está fazendo isso.
 好意{0}=Favores {0}
 アタシ、アンタのことすきぴになったかも……またいつでも呼び出しおけまるだから。よろ♪=Acho que me afeiçoei muito a você... E você pode me ligar a qualquer momento. Eu estarei lá.
 アタシら、わりとカラダの相性良かったんじゃない？　どう？　アタシのこと忘れられなくなりそ？=Acho que éramos muito bons juntos, não éramos? O que você acha? Você acha que será capaz de me esquecer?
 享楽{0}=Prazer {0}
-あー気持ちよかった。アンタもでしょ？　隠しても無駄だかんね？=Isso soube bem. Também se sentiu bem para você. Não vale a pena escondê-lo, certo?
-これは、いいオモチャ見つけちゃったかな～。また遊んであげるから、呼んだら秒で来ること、分かった？=Acho que encontrei um bom brinquedo para você! Vou brincar com você de novo. Você entende que eu venho em um segundo quando você me ligar?
+//あー気持ちよかった。アンタもでしょ？　隠しても無駄だかんね？=Isso soube bem. Também se sentiu bem para você. Não vale a pena escondê-lo, certo?
+//これは、いいオモチャ見つけちゃったかな～。また遊んであげるから、呼んだら秒で来ること、分かった？=Acho que encontrei um bom brinquedo para você! Vou brincar com você de novo. Você entende que eu venho em um segundo quando você me ligar?
 嫌悪{0}=Repugnância {0}
 はい終わりー、はい撤収ー、じゃーねー。=Sim, acabou, sim, acabou.
 なに？　感想とか無いから。ひたすらキモかったとか言って欲しいの？　アンタ、マゾ？　終わってんね。=O quê? Eu não tenho uma opinião. Você só quer que eu diga que foi nojento? Você é masoquista? Você está acabado.

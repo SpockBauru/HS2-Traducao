@@ -5,8 +5,8 @@
 普通{0}=Normal {0}
 ふーん、アンタがアタシの相手ってわけね。うーん……ナシよりのアリかなぁ。=Então, você é meu parceiro. Hmmm... Prefiro ter você do que não.
 ま、お互い気持ちよくなれればいーわけだし？　とりまよろ♪=Bem, desde que ambos nos sintamos bem, certo? De qualquer forma, por favor...
-どーもー。欲求不満でこんなとこ来ちゃったビッチでーす。=Olá. Eu sou uma vadia que veio aqui por frustração.
-なんて……ちょっと寒かった？　挨拶とか苦手なんだよね～。てか、男子的にはとりまヤらせろって感じっしょ？=Como... Um pouco de frio? Eu não sou muito bom em cumprimentar as pessoas. Quero dizer, os rapazes querem que eu os foda, certo?
+//どーもー。欲求不満でこんなとこ来ちゃったビッチでーす。=Olá. Eu sou uma vadia que veio aqui por frustração.
+//なんて……ちょっと寒かった？　挨拶とか苦手なんだよね～。てか、男子的にはとりまヤらせろって感じっしょ？=Como... Um pouco de frio? Eu não sou muito bom em cumprimentar as pessoas. Quero dizer, os rapazes querem que eu os foda, certo?
 お、おっすー！　とかでいいんかな？　なんか恥ずいんですけど……ほ、ほら、こーいうときは男子がリードするべきだし？=Oh, whoa! É correto dizer isso? É meio embaraçoso... Mas, você sabe, os rapazes deveriam assumir a liderança neste tipo de situação, certo?
 好意{0}=Favores {0}
 へぇ～。アンタ、わりとタイプかも。アタシはどう？まー、タイプじゃなくてもシてもらうけどね。そのためにこんなとこまで来たんだし……=Uau. Eu acho que você pode ser meu tipo. E quanto a mim? Bem, mesmo que você não seja meu tipo, eu peço que você o faça. Foi por isso que vim até aqui...
@@ -25,7 +25,7 @@
 享楽より80～100{0}=De 80-100{0}
 会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=Lamento conhecê-lo tão de repente, mas você quer ser meu escravo?
 ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=Vou fazer você se sentir bem, certo? O que você diz? Não é um mau negócio, não é?
-あーあ、アタシを選んじゃったか。ごしゅーしょーさま。アタシ、ちょっと性欲ヤバたんだから。アンタにも、それなりに頑張ってもらうかんね？=Ah, então você me escolheu. Goshou-sama. Eu tenho um pouco de desejo sexual baixo. Você vai ter que trabalhar um pouco mais do que isso, não é mesmo?
+//あーあ、アタシを選んじゃったか。ごしゅーしょーさま。アタシ、ちょっと性欲ヤバたんだから。アンタにも、それなりに頑張ってもらうかんね？=Ah, então você me escolheu. Goshou-sama. Eu tenho um pouco de desejo sexual baixo. Você vai ter que trabalhar um pouco mais do que isso, não é mesmo?
 嫌悪より20～49{0}=De repugnância 20-49{0}
 え、マジ？　アンタみたいのが相手なの？　ガン萎え……これ、チェンジできない系？=Ah, realmente? Você está lidando com alguém como você? É este o tipo de coisa que você não pode mudar?
 キモ……なんていうか、存在がキモい。これでヘタクソだったら、即サリ決定っしょ……=Não sei, é apenas assustador. Se eu for um mauzão nisso, vou ser abatido imediatamente...

@@ -11,7 +11,7 @@
 ちょ、今？　うぅ……アンタ、わざと意地悪してるでしょ？=Espere, agora? Ugh... Você está sendo mau de propósito, não está?
 ん？　自分からシたくなった？　じゃ、攻守交替ってことで♪=Hmm? Você mesmo quer fazer isso? Então vamos trocar de lado ♪
 おけ、もっかいね？　アタシもシたいと思ってた♪=Essa é boa. Eu sempre quis fazer isso ♪
-アンタ大丈夫なん？　無理して倒れても知らないかんね？=Você está bem? Não quero que você caia se você se esforçar demais.
+//アンタ大丈夫なん？　無理して倒れても知らないかんね？=Você está bem? Não quero que você caia se você se esforçar demais.
 えぇっ、いーの？　アタシ今……おしっこしたばっかだよ？=O quê? Você tem certeza? Eu só... Mijei nas calças.
 うわ、流石にちょっと恥ずかしーけど、なんか嬉しい気もする。=Uau, estou um pouco envergonhado com a pedra, mas também estou um pouco feliz.
 よーし、ヤっちゃうよー？　覚悟はいーい？=Tudo bem, eu vou foder com você. Você está pronto?

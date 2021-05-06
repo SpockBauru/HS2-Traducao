@@ -4,7 +4,7 @@
 
 普通{0}=Normal {0}
 あー気持ち良かった♪　とか言っとけば、アンタも嬉しーっしょ？=Se você disser: "Isso soube bem", você ficará feliz, certo?
-あーあ、イカされちゃった。ま、アンタもイったし、あおいこってことで。=Oh, não, ele me fez gozar. Bem, você também veio, então eu vou chamá-lo de cabra.
+//あーあ、イカされちゃった。ま、アンタもイったし、あおいこってことで。=Oh, não, ele me fez gozar. Bem, você também veio, então eu vou chamá-lo de cabra.
 どーよ、アンタのことイカせてやったし。アタシ？　こら、アタシのことはいーの、余計なこと言わない。=Vamos lá, eu te fiz gozar. Eu? Ei, não diga nada sobre mim.
 好意より50～79{0}=50-79{0} de favor.
 ちゃけば、どだった？　アタシの体、気に入った？=Como foi, Chakeba? Você gosta do meu corpo?

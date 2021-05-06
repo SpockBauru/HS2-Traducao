@@ -5,7 +5,7 @@
 普通{0}=Normal {0}
 ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou tão satisfeito. Aha!
 ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Por hoje estou acabado, certo? Eu cuidarei de você novamente.
-はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, sim... Boa noite, boa noite, boa noite...
+//はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, sim... Boa noite, boa noite, boa noite...
 {0}={0}
 う～ん、アタシ的にはもーいっかな～。ほら、あんまダラダラやっても仕方ないっしょ？=Hmmm, eu acho que estou bem com isso. Veja, não adianta ser muito preguiçoso, certo?
 ね、次はちゃんとイカせてあげるからさ。そんな萎えぽよな顔しないでって。=Da próxima vez, vou fazer você gozar. Não fique tão deflacionado.
