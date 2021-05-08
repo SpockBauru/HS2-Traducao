@@ -2,13 +2,13 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 //あぁ、この世で一番身体の相性がいいヤツ、見ぃつけたぁ♪=Ah, encontrei o cara mais compatível do mundo...
 ヤバ……お前見た瞬間、身体が……じゃなくて、子宮がドクンって言った……喉乾いたってさぁ♪=No momento em que te vi, meu corpo... Não meu ventre... Fiquei com sede.
 あれ、私をドスケベの沼に叩き落してくれたヤツじゃぁん♪　くすくすっ♪=Esse é o cara que me jogou no poço de lodo.
-風呂{0}=Banho {0}
+//風呂{0}=Banho {0}
 ここで私に会うって、それイコールセックスだけど大丈夫？　まぁもう遅いし、逃がさないけどねぇ♪=Se você vai me encontrar aqui, vai ser sexo, certo? Bem, é tarde, e não vou deixar você escapar.
 ちょうど性欲が爆発しそうでさぁ♪　パートナーが来てくれないかなぁって思ってたんだよねぇ♪=Minha libido está prestes a explodir... E eu estava me perguntando se meu parceiro poderia vir...
-用件{0}=Negócios {0}
+//用件{0}=Negócios {0}
 //一応聞いておいてあげるけど、求められているのは私の身体？　そして、要件は私とのエッチ？=Deixe-me perguntar-lhe uma coisa. É o meu corpo que está sendo exigido? E a exigência é transar comigo?
 じゃあ、エッチしよっかぁ♪　もうガチガチじゃん、口では嘘つけても身体じゃつけないんだからぁ♪=Então, vamos fazer sexo... Você está tão apertado que pode deitar-se com a boca, mas não com o corpo...

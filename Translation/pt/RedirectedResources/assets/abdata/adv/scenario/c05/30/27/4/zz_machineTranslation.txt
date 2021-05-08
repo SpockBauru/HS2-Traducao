@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 こ、今回は色々な人のあそこを見てしまいました……みんな、個性的な形で……はぅぅ……=Desta vez vi muitas bocetas de pessoas diferentes... Todas elas tinham suas próprias formas únicas... Haha...
 た、沢山の人とエッチするなんて……なんだか……すごく淫らなことをした気分です……=Tive sexo com tanta gente... Parece que... Parece que fiz algo muito lascivo...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ほ、本当のことを言うと……あなただけに愛してもらいたいんですけど……えへへ。=Ho, para dizer a verdade... Quero que só você me ame... Ehehe.
 こ、こんなエッチ……普通じゃないと思ってても……ちょっとだけ興奮しちゃいました……=Este tipo de sexo... Mesmo sabendo que não é normal... É apenas um pouco excitante...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ふふっ、たまにはこういうエッチもいい経験になりますよね。ちょっとドキドキしちゃいました。=Por vezes este tipo de sexo é uma boa experiência, não é? Estou um pouco nervoso.
 私はすごく興奮しましたけど……あなたも興奮出来ましたか？=Eu estava realmente entusiasmado com isso... Mas você poderia estar entusiasmado com isso também?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 う……ぅ……少し怖かったです……次は普通が……いいです……=Bem... Isso foi um pouco assustador... Mas da próxima vez... Normal é... Melhor...
 こんな……色んな人の相手をするなんて……きっと良くないことだと思うんですけど……うぅ……=Tenho certeza de que não é uma boa idéia... Lidar com tantas pessoas diferentes... Mas...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 他の人も一緒に……なんて、最初は緊張しましたけど……あなたがいてくれたから……気持ち良かったです……=Eu estava tão nervoso no início, ter outras pessoas... Comigo, mas... Ter você lá... Me fez sentir tão bem...
 大好きなあなたに見られながら、あんな風に乱れるなんて……すごく感じちゃいました……えへへ。=Para poder ser selvagem assim enquanto era observado pelo meu favorito... Me senti tão bem... Ehehe.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ご主人様が躾けてくれた駄犬の身体、みなさん悦んでくれましたね。えへへ、ご主人様自慢のペットになれて嬉しいです。=O corpo do cão mimado que o dono disciplinou, todos ficaram satisfeitos, certo? Ehehe, estou feliz de ser o animal de estimação orgulhoso de seu mestre.
 他の方のお相手しましたけど、やっぱり私はご主人様が一番好きです……って、当然のことですよね！=Eu já lidei com outras pessoas, mas ainda amo mais o Mestre... E com razão!

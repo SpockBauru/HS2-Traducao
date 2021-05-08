@@ -2,27 +2,27 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 待て、オレはイってねぇぞ？　こういうのは、お互い気持ちよくなんねぇとダメだろうが。=Espere, eu não gozei, gozei? Este tipo de coisa só é bom se nos faz sentir bem a ambos.
 おい、自分だけイって終わりか？　あんまりオレを失望させるなよ？=O quê, você vai simplesmente se deixar levar? Não me decepcione muito, está bem?
 まぁ、上手くイケない時もあるか。おい、次までにはもっと上手くなっておけよ？=Bem, às vezes você não consegue acertar. É melhor você ser bom na próxima vez, certo?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 オマエがイケただけで良しとするか。ここであーだこーだ言っても、みっともねぇだけだしな。=Acho que é uma coisa boa que você foi capaz de fazer isso. É apenas uma pena que você tenha que dizer tal e tal aqui.
 次はオレもイカせろよ？　一人だけイって満足なんてのは、そう何回も許されねぇからな？=Da próxima vez, deixe-me gozar também, está bem? Você não pode se contentar com apenas uma pessoa ejacular tantas vezes.
 ハッ、やっぱオレには敵わねぇってことだろ。でも努力はしろよ？　力づくでオレを落とすくらいのことはしてみろ。=Você não é páreo para mim, não é? Mas você tem que tentar, certo? Você deveria pelo menos tentar me vencer pela força.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 オレの勝ちってことでいいな？　イケなかったのは不満だが、好き放題にしてやったって感じは嫌いじゃねぇ。=Acho que isso significa que eu ganhei, certo? Não estou feliz por não ter conseguido, mas não me importo de ter que fazer o que eu queria.
 おいおい、もう少し骨のあるやつだと思ったんだけどな。オレの見込み違いってやつか？=Ah, vamos lá. Pensei que você teria mais osso no seu corpo. Eu estava errado, não estava?
 ちょっと待て、流石にこれで終わりは許されねぇぞ？　オマエがぶっ壊れようが、オレには知ったことじゃねぇしな。=Espere um minuto, não posso deixar que isto seja o fim da história. Não me importo se você está quebrado ou não.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ハッ、一人だけイって、ハイさよらか？　クズらしい終わり方だな。お似合いだ。=Huh, vem um cara, e você está pedrado? Essa é uma maneira escumalha de acabar com isso. Serve para você.
 おかげさまで、オマエのことがもっと嫌いになれそうだ。おい、これはそういう狙いなんだろう？=Graças a você, eu vou odiá-lo ainda mais. Ei, é disso que se trata, não é?
 いいか、自己満足で終わりたいってんなら、一人でオナニーでもしてろ。最初からオレを巻き込むな。=Olhe, se você quiser acabar sendo egocêntrico, vá se masturbar por conta própria. Não me arraste para isso desde o início.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ほう、とことん焦らすってわけか。ハッ、おもしれぇ。上等だよ。=Oh, então você vai me apressar o caminho todo? Ha, isso é divertido. É bom.
 おい、これで終わりか？　自分だけイケれば満足ってか？　なんだ、オマエもゴミクズだったのか。=Ei, isso é tudo o que você tem? Você está feliz enquanto estiver quente? O quê, você também é um pedaço de lixo?
 まさか、オマエがその程度のやつだったとはな。オレが好きにしていいって言ったのは、こういう意味じゃねぇぞ？=Eu não pensava que você fosse esse tipo de cara. Não era isto que eu queria dizer quando disse que você pode fazer o que quiser.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 こういう冗談はあんまり好きじゃねぇ。ヤり直すなら、早めにしておけ？=Eu não gosto muito destas piadas. Se você vai transar novamente, faça-o mais cedo em vez de mais tarde.
 オマエの目は節穴か？　まさか、オレがイってないことに気付いてないのか？=Você é cego? Você nem sabe que eu não vou, não é mesmo?
 ほう、オレを試すとは、いい度胸じゃねぇか。いつ襲われてもいいように、身体は綺麗にしとけよ。=Oh, você tem coragem de me testar, não tem? Você deve manter seu corpo limpo para que possa ser atacado a qualquer momento.

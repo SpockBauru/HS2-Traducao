@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 アンタともけっこーヤったよね？　流石にアタシも、慣れてきたかな～♪=Tive muito sexo com você, não tive? Acho que já estou me acostumando...
 やっぱ慣れって大事だよね～。最近さ、どんどん感度上がってる気がする♪=É importante se acostumar às coisas, não é? Ultimamente, sinto que estou ficando cada vez mais sensível.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 誰かさんとヤリまくったせいで……アタシ、エッチすんの慣れてきたかも♪=Acho que estou me acostumando a fazer sexo porque tenho andado transando com outra pessoa.
 アタシら、絶対カラダのあいしょーいいっしょ♪　じゃなきゃ、慣れててもこんな感じないって。=Tenho certeza que você encontrará muitas pessoas que gostariam de saber mais sobre este tipo de coisa.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 アハッ、最近さ～、もうずっとエロいこと考えてばっかなんだよね～♪　誰のせいかな～？=Ahaha, ultimamente ~ Tenho pensado em coisas eróticas o tempo todo ~ ♪ De quem é a culpa?
 感じ方って言うの？　なんか分かってきた気がする。またアンタで色々試させてもらうから、よろ♪=Você chama isso de sentimento? Acho que estou começando a entender algo. Vou tentar mais algumas coisas com você, está bem?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ゲ……アタシってまさかキモ専だったの？　なんか、段々アンタとしても気持ちよくなってる気がする……=Eu não sei se sou uma aberração ou não. Não sei, sinto que estou ficando cada vez mais confortável como você.
 うー、こんなのとシて、エロいことに慣れるとか……間違いなくアタシの人生最大の汚点っしょ……=Acostumar-me a fazer coisas eróticas com alguém assim... É definitivamente a maior mancha em minha vida.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 きもちいーのって、やっぱサイコーっしょ♪　恥じらってヤルことヤラないとか、人生損してるよね？=É ótimo se sentir bem... Se você é muito tímido para fazer o que quer, você está perdendo a vida, não é mesmo?
 ヤッバ、アタシの身体、アンタに開発されちゃったかも……なんかさー、一回火照り出すと、なかなか収まんなくなっちゃってさー♪　んふふぅ♪=Oh não, acho que você desenvolveu meu corpo... Quando começo a ficar quente, não consigo parar... Hihihi-hehe...

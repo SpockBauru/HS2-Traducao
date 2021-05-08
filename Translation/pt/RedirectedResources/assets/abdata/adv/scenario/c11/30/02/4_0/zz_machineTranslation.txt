@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 では、また機会がありましたら、お話致しましょう。=Bem, vamos conversar novamente quando tivermos uma chance.
 お陰で有意義な時間を過ごすことが出来ました。それでは、また。=Graças a você, eu pude passar um tempo significativo. Vejo vocês em breve.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 もう良い時間になっていたのですね、気づいておりませんでした。=Já era um bom momento, eu não tinha notado.
 一段落したので、本日はこれで解散に致しましょうか。また、お付き合い頂けますと幸いです。=Agora que já nos acomodamos, vamos nos separar por hoje. Espero que você se junte a nós novamente.
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 もう少々お話したいのですが、引き留めてはいけませんね。次の機会を楽しみにしております。=Eu gostaria de falar um pouco mais com você, mas não quero ficar com você. Estou ansioso pela nossa próxima oportunidade.
 次回はお話以外のことも致しませんか？=Você gostaria de fazer algo mais do que falar da próxima vez?
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 キリが良いので、私は失礼させて頂きます。=Vou deixá-lo com seu trabalho.
 それでは、失礼致します。=Agora, se me dão licença.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 また、三人でお話出来る機会があると、嬉しく存じます。=Eu ficaria feliz em ter a oportunidade de conversar com vocês três novamente.
 では、私達は失礼させて頂きます。=Agora, se nos derem licença, temos alguns negócios a tratar.

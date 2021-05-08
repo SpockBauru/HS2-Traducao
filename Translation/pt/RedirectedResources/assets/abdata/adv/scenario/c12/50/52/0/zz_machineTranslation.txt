@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 お前……こんな所で何するつもりなんだよ。=Você... O que você vai fazer em um lugar como este?
 分かってるだろうな？　変なまね、するんじゃねぇぞ。=Você sabe do que estou falando. Não faça nada engraçado.
 おかしなことしたら、許さねぇからな。=Se você fizer alguma loucura, eu não lhe perdoarei.

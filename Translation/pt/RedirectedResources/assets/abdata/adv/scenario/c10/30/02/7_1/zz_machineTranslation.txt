@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+//なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 また、気が変わったら……いつでも声をかけてください。私達は待ってますよ。=E se você mudar de idéia... Você sempre pode nos chamar. Ficaremos esperando.
 私達、入りにくい空気を作ってしまっていましたか？　だとしたら……すみません。=Tornamos difícil para você entrar? Se for esse o caso... Desculpe.
-なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+//なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
 何か、考え過ぎていないですか？　私達は別に、貴方を拒んだりしませんよ？=Você não está repensando demais as coisas? Não vamos rejeitá-lo, certo?
 あの……後でこちらから伺わせていただきます。余計なお世話で……なければですが……=Entraremos em contato com você mais tarde. Espero que não seja pedir muito, mas...
-なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+//なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
 本当にいいのですか？　後で後悔しませんか？　もう一度考えてみてもいいのですよ？=Você tem certeza de que quer fazer isso? Você não vai se arrepender mais tarde? Você pode pensar nisso novamente, não pode?
 貴方がそれでいいのなら、私は止めませんが……何か思い出したら、また来てください。=Não vou impedi-lo se é isso que você quer, mas... Se você se lembrar de alguma coisa, volte.
-なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+//なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
 なんですか？　嫌がらせですか？　貴方のそういうところ、本当に迷惑です。=O que é isso? Você está me assediando? Essa parte de vocês realmente me irrita.
 意味不明ですね。私達に用が無いのなら、早く他のところへ行ったらどうですか？=Eu não entendo. Se você não nos quer, por que não vai para outro lugar?
-なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+//なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
 なんだか、意味深ですね？　本当は何かあるのでは？　少し、気になってしまいますね……=É meio significativo, não é? Não há realmente alguma coisa a ver com isso? Estou um pouco curioso...
 話に入るのって、勇気がいりますよね。私も、他人のことは言えませんが……三人でお話したら、きっと楽しいと思いますよ？=É preciso muita coragem para entrar em uma conversa, não é? Não posso falar pelos outros, mas... Tenho certeza que nós três teríamos muita diversão conversando juntos, não acha?

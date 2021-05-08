@@ -3,13 +3,13 @@
 //***********************************************************************
 
 あ、良かった……えへへ、少しだけお話しませんか？=Ah, bom... Ehehe, por que não conversamos um pouco?
-好意50_汎用{0}=Favors 50_ Genéricos {0}
+//好意50_汎用{0}=Favors 50_ Genéricos {0}
 またお話聞いて欲しくて来ちゃいました。=Eu vim aqui porque queria falar com você novamente.
 お邪魔します……今日も会いたくなっちゃいました……えへへ。=Desculpe incomodá-lo... Eu só queria vê-lo novamente hoje... Ehehe.
 あなたの部屋……何度来てもドキドキします……あなたの香り……えへへ。=Seu quarto... Não importa quantas vezes eu venha aqui, eu ainda fico nervoso... Seu cheiro... Ehehe.
-好意50続き{0}=Favores 50 continuou {0}
+//好意50続き{0}=Favores 50 continuou {0}
 ありがとうございました。お話聞いてもらえて嬉しかったです……またよろしくお願いしますね。=Muito obrigado. Fico feliz que você me escutou... Estou ansioso para trabalhar com você novamente.
 ふふっ、あなたに会えて良かった……これでしばらくは寂しさを誤魔化せそうです……なんて。=Phew, é bom ver você... Isto me ajudará a enganar a solidão por um tempo... Que surpresa.
 あなたと一緒に過ごせる時間って……すごく大切な宝物です……だから……またお話聞いてくださいね。=O tempo que posso passar com você... É um tesouro muito precioso... Então... Por favor, me escute novamente.
 良かった……あなたのことを考えてたら急に会いたくなっちゃって……来ちゃいました。ご迷惑じゃなかったですか？=Bom... Quando eu estava pensando em você, de repente eu queria vê-lo... Então eu vim. Espero não o ter incomodado.
-好意80_汎用{0}=Favores 80_ Genéricos {0}
+//好意80_汎用{0}=Favores 80_ Genéricos {0}

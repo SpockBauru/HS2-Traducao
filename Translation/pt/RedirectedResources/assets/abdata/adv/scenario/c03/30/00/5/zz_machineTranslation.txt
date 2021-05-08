@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ちょっ、それは流石に過激じゃない？=Espere, isso é um pouco extremo, não é?
 うわー、そこまで考えたことはなかった……=Uau, eu não tinha pensado tão à frente...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 まぁ、一度意識しちゃうとね……=Bem, uma vez que você esteja ciente disso...
 夢中になれるものがあるっていいよね……=É bom ter algo para ficar obcecado...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ほんとそれ。お前はよく分かってる。=É disso que estou falando. Você sabe exatamente do que estou falando.
 同志よ……ここにいたか……！=Camarada... Você está aqui.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 早口になると……更に気持ち悪くなるね。=Quando você fala tão rápido... Isso me faz sentir ainda pior.
 あーはいはい、分かった分かった……=Ah sim sim ok ok...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 まぁ、楽しんだもん勝ちってことかな？=Bem, eu acho que é tudo uma questão de diversão, certo?
 それはわりと……凄いことなんじゃ？=Isso não seria... Fantástico?

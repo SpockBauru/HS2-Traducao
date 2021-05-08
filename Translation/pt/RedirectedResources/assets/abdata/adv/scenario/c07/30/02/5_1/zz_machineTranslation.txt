@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Vamos sexo B normal {0}
+//HしようB普通{0}=Vamos sexo B normal {0}
 ったく、ここで断ったら、オレだけビビッてるみてぇじゃねぇか。=Bem, se eu recusar neste ponto, parece que sou o único que está assustado.
 仕方ねぇな、オレも付き合ってやるよ。=Não posso evitá-lo. Irei com você.
-HしようB好意{0}=Vamos fazer um favor a B {0}
+//HしようB好意{0}=Vamos fazer um favor a B {0}
 ここでオレだけ抜けても、後味がわりぃからな。いいぞ、やってやる。=Não gosto do gosto residual de ser deixado aqui fora. Tudo bem, eu faço isso.
 気使うやつが増えるのは面倒だが。まぁ、やらない理由にはならねぇな。=É uma dor de cabeça ter que se preocupar com mais pessoas. Bem, isso não é motivo para não fazer isso.
-HしようB享楽{0}=Vamos caminhar!
+//HしようB享楽{0}=Vamos caminhar!
 おいおい、乱交ってやつか？　面白いことを考えるじゃねぇか。=Uma orgia? Essa é uma idéia interessante.
 もちろんオレも混ぜてもらうぞ。文句はねぇな？=É claro que estou dentro. Você não está reclamando, está?
-HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+//HしようB嫌悪{0}=Vamos sexo B repugnância {0}
 オマエの提案ってのが気に入られねぇが、三人でするのには賛成だ。=Não gosto da idéia de você sugerir isso, mas concordo que nós três devemos fazer isso.
 するのは構わないが、オマエはおまけみたいなもんだからな？　覚えとけよ？=Não me importa se você o faz, mas você é apenas um bônus, está bem? Lembra-se disso?
-HしようB隷属{0}=Vamos lá escravo B {0}
+//HしようB隷属{0}=Vamos lá escravo B {0}
 悪くない話だな。三人でめちゃくちゃするってことだろ。=Essa não é uma má história. Isso significa que nós três vamos estragar tudo.
 よし、オレも乗った。ここで断ったら、女がすたるってもんだ。=Pronto, estou dentro. Se eu recusar aqui, perderei minha condição de mulher.

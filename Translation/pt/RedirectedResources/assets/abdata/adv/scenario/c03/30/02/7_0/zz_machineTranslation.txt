@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+//なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 ん？　なんかひっかかる言い方だね？　私だけでも、話聞こっか？=Hmm? Isso é um pouco embaraçoso, não é? Você quer falar comigo a sós?
 え？　それだと、何しに来たのしか言えないよ？　何でもないなら、まぁいいけどさ……=O que é isso? Isso é tudo que você pode dizer, o que você está fazendo aqui? Se não é nada, bem...
-なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+//なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
 あれ？　こっちがふたりで緊張してる？　なんかあったら、ふたりきりの時に聞かせて？=O quê? Estou nervoso por estarmos sozinhos? Você pode me dizer se há algo errado quando estamos sozinhos?
 ふふ、そんなに遠慮しなくても。別に私たちは、お前のこと邪魔とか思ってないよ？=Não seja tão tímido. Nós não achamos que você seja um empecilho ou algo assim.
-なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+//なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
 ま、お前が言うならそういうことにしとく♪　でも、今度はエッチに誘ってよぉ？=Bem, se você o diz, então eu aceito assim... Mas me peça para transar com você da próxima vez, certo?
 えー、ちょっとぐらい話していけばいいのにぃ♪　それじゃ、また後でね♪=Por que você não vai falar com ele por um tempo? Vejo você mais tarde.
-なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+//なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
 は？　何しに来たの？　ほんと、お前って意味不明で、迷惑なやつだね。=O que é isso? O que você está fazendo aqui? Você é realmente tão inútil e irritante, não é mesmo?
 じゃあ早くどっかいって。私達の邪魔しないで。=Então, saia daqui. Não se meta em nosso caminho.
-なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+//なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
 もしかして、用事を思い出した？　それなら、早く行った方がいいね……=Talvez você tenha se lembrado de algo? Bem, então é melhor ir andando...
 うん、分かった。今度またふたりで話そうか。それじゃ、またね。=Sim, está bem. Vamos conversar novamente. Vejo vocês mais tarde.

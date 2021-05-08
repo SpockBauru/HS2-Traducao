@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 では、私達はこれで失礼しますね。=Bem, acho que agora vamos andando.
 それでは、私達はこれで。=Bem, vamos deixá-lo com isso.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 次は二人きりで、なんて……で、では。=Da próxima vez, seremos só nós dois... E depois.
 それではまた会いましょう。=Então, até breve.
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 では、また楽しませてくださいね。=Portanto, por favor, entretenha-me novamente.
 次もまた楽しみにしていますから、では。=Então, espero vê-lo novamente na próxima vez.
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 それではさようなら。=Adeus, então.
 次は邪魔しないでください、では。=Da próxima vez, por favor, não me interrompa. Tchau.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 今度は別の口で語り合いましょう、では。=Agora vamos então falar um com o outro em bocas diferentes.
 次は、お話以外も期待させてもらいますね、では。=Então, na próxima vez, aguardo com expectativa mais do que apenas histórias.

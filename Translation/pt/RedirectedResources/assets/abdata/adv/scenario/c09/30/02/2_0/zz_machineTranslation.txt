@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=O que você estava fazendo?
+//なにしてたのA普通{0}=O que você estava fazendo?
 宇宙人について話してたんです！　信じるか信じないか、みたいなー！=Estávamos falando de alienígenas! Acredite ou não!
 ちょーど男同士の恋愛について語ってました！　ＢＬです、ＢＬ！=Ele estava falando de um pequeno romance de homem com homem! É BL, BL!
-なにしてたのA好意{0}=O que você estava fazendo?
+//なにしてたのA好意{0}=O que você estava fazendo?
 好きな人のことを話してたんですよー。恋愛について興味津々なお年頃ですし♪=Eu estava falando da pessoa de quem eu gosto! E ele está numa idade em que está curioso sobre o amor.
 人に嫌われるのは嫌だなーってことを語ってたんです。なんか……嫌いな人からも嫌われたくないっていうかー……八方美人的な？　あはは。=Eu estava falando de como eu não quero ser odiado pelas pessoas. É como... Você não quer ser desagradado mesmo por pessoas de quem você não gosta... Como se você fosse bonito de todos os lados? Hahaha.
-なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+//なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 大きな声では言えないのですが……ちょっと……エッチなことについて話してたんです……興味ありますか？　ふふっ。=Não posso dizer isto em voz alta, mas... Estávamos apenas... Falando de algo malicioso... Você estaria interessado? Hehe.
 どーやったら可愛く見えるか話してたんですよ。仕草とか話し方とか……やっぱり語尾は変えていくべきですかねにゃんわん！=Estávamos falando sobre como fazê-la parecer bonita. A maneira como você age, a maneira como fala... Eu acho que você deveria mudar o final de suas palavras, não acha?
-なにしてたのA嫌悪{0}=O que você estava fazendo?
+//なにしてたのA嫌悪{0}=O que você estava fazendo?
 面倒な人に会わずに済む方法を考えてたんです……まぁ、無駄なんですけどね。=Tenho tentado pensar em maneiras de evitar conhecer pessoas problemáticas... Bem, é inútil.
 疲れた時はどーやって休むかって話をしてたんですよ……なんか最近、疲れることが多い気がするんでー。=Estávamos falando sobre como descansar quando você está cansado... Sinto que tenho estado muito cansado ultimamente.
-なにしてたのA隷属{0}=O que você fez, A-slave {0}
+//なにしてたのA隷属{0}=O que você fez, A-slave {0}
 どーいう結婚式がしたいかーみたいなお話をしてたんです。二人きりとかー、海外とかー、どれもこれも憧れますけどねー、えへへ。=Estávamos falando sobre o tipo de casamento que queremos ter. Só nós dois, no exterior... Eu anseio por todos eles... Hehehe.
 マグロについて考えてたんですよー。どーしてベッドで動かないとマグロって言うんですかねー。マグロは止まることなく、めちゃくちゃ早く泳ぐのにー！=Eu estava pensando no atum! Por que lhe chamam atum se ele não se move na cama? O atum nada muito rápido sem parar!

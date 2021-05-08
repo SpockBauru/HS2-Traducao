@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 ええ、わかりますわ……あら、ご機嫌よう。=Sim, posso ver que... Oh, bom dia para você.
 とても興味深いお話ですわね……まあ、こんにちは。=Essa é uma história muito interessante... Bem, olá.
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 そう言われてみますと、納得ですわね……あら、お散歩ですか？=Isso faz sentido agora que você fala nisso... Oh, você vai dar um passeio?
 私とは違う考えをなさっているのですね……まあ、ご機嫌いかが？=Você pensa diferente do que eu... Bem, como você está?
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 その遊び、とても面白そうですわね……♪　あら、あなたもいらしていたのですね……♪=Esse jogo parece muito interessante ♪ Oh, você também está aqui ♪
 私最近、目覚めてしまいましたの……♪　まあ、いつからお聞きになっていたのですか……？=Acabo de acordar ♪ Bem, há quanto tempo você está ouvindo?
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 もう、ご冗談はおやめになって、うふふ……あら……=Oh, não brinque com isso.
 こんなに会話が弾んだのは久しぶりですわ……まあ……=Não tenho tido uma conversa como esta há... Bem...
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 それは参考になりますわ……あら、お疲れ様でございます。=Isso ajuda... Oh, obrigado por sua ajuda.
 今度、試してみようかと思います……まあ、私をお探しですか……？=Acho que vou tentar da próxima vez... Bem, você está me procurando?

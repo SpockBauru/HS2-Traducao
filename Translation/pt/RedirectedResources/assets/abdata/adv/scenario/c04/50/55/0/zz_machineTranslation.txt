@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ふぅん、なに？　アタシと永遠の愛とか誓い合っちゃいたい系？=Hmm. O quê? Você quer jurar seu amor eterno a mim?
 お嫁さんてさ、やっぱ少なからず全女子の憧れなわけ……分かる？=Uma esposa é o sonho de toda garota, não importa quão pequena... Você sabe?
 アタシも例外じゃないから、今ケッコーその気になっちゃってるよ♪　ふふ♪=Eu não sou uma exceção, por isso estou realmente interessado nisso agora.

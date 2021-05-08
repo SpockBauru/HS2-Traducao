@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 これ以上、私を惚れさせてどうするつもりなんですか……？=O que você vai fazer para que eu me apaixone ainda mais por você?
 お洒落な場所であなたとお酒を飲みながら、静かな一時を過ごすなんて……=Não consigo imaginar passar um momento calmo em um lugar da moda tomando uma bebida com você...
 そんなの好きにならないはずがありません……今すぐ私を抱いてください……=Como eu poderia não gostar disso... Me abraçar agora...

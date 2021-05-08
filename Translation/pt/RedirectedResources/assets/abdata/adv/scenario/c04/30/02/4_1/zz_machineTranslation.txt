@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後B普通{0}=Posto de Conversação B Normal {0}
+//会話事後B普通{0}=Posto de Conversação B Normal {0}
 あーね、そういう考えもあるよね。参考になった。=Ah, sim, essa é uma maneira de pensar sobre isso. Isso foi útil.
 まぁほら、こーやって話すことが大事的なね？　そういう感じっしょ？=Bem, você sabe, é importante falar assim, certo? Sabe, assim?
-会話事後B好意{0}=Posto de Conversação B Favor {0}
+//会話事後B好意{0}=Posto de Conversação B Favor {0}
 うん、なかなかいい話が出来たんじゃん？=Sim, tivemos uma conversa muito boa, não tivemos?
 結構話せたし、アタシ的には満足だわ。=Conversamos muito, e estou feliz com isso.
-会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
+//会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
 へぇー、こうやって話すのも、まぁまぁ面白かったね♪=Heh, foi meio divertido falar com você assim.
 アタシ、喋るの自体は結構好きだから、またいつでも話し相手になったげる。=Gosto muito de falar, por isso estou sempre feliz em falar com você.
-会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
+//会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
 まぁ、人それぞれってことでいーんじゃん。長く話し合うようなことでもないし。=Bem, eu acho que depende da pessoa. Não é algo a ser discutido por muito tempo.
 はい、トーク終了。いやー楽しかったねー、すごいねー、やばいねー。=Sim, a conversa acabou. Bem, isso foi divertido, foi ótimo, foi ruim.
-会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
+//会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
 わりと楽しめたんじゃん？　結構色んな話したし。=Você se divertiu, certo? Falamos de muitas coisas.
 ふぅー、喋った喋った。ちょっと喉乾いちゃった。=Whew, eu já falei e falei. Estou com um pouco de sede.

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Vamos sexo B normal {0}
+//HしようB普通{0}=Vamos sexo B normal {0}
 あー、そうなるんじゃないかなーとは思ってた。うん、それなりに覚悟はしてたから……まぁおけ。=Oh, eu sabia que isso aconteceria. Sim, eu estava preparado para isso, então... Bem, tudo bem.
 あっはは、マジでこうなるとは思ってなかったわぁ。まーいーんじゃん？　みんなでやってみよ♪=Haha, eu realmente não esperava que isso acontecesse. Está tudo bem, certo? Vamos fazer isso juntos.
-HしようB好意{0}=Vamos fazer um favor a B {0}
+//HしようB好意{0}=Vamos fazer um favor a B {0}
 んふ、そう来ると思った。流石にここでアタシだけ断るとかは……無いかなぁ。=Hmm, eu sabia que você o faria. Não é que eu seja o único que vai dizer não... Acho eu.
 まったく、ほんと欲張りだよねぇ。まぁ、悪い気はしないけど。=Você é realmente ganancioso, não é? Bem, eu não me sinto mal com isso.
-HしようB享楽{0}=Vamos caminhar!
+//HしようB享楽{0}=Vamos caminhar!
 いーじゃん。こーいうノリ好き！　乗るしかない、このビッグウェーブにってやつ？=É bom. Eu amo quando você faz isso! Temos que surfar esta grande onda, certo?
 うーわ、アンタらマジ最高♪　こんなん、最初から選択肢ないっしょ♪=Vocês são os melhores. Não têm escolha na matéria.
-HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+//HしようB嫌悪{0}=Vamos sexo B repugnância {0}
 え？　何勝手に話し進めてんの？　アタシは嫌だけど？=O quê? Sobre o que você está falando? Eu não gosto disso.
 いや、するなら勝手に一人でしてなよ。アタシらを巻き込まないでくれる？=Não, se você vai fazer isso, faça-o sozinho. Deixe-nos fora disso, está bem?
-HしようB隷属{0}=Vamos lá escravo B {0}
+//HしようB隷属{0}=Vamos lá escravo B {0}
 それなー。もうこうなっちゃったら、断るとかありえんてぃーでしょ？=É isso mesmo. Se é assim, não há como dizer não, certo?
 えー、そういうノリ？　まぁ、アタシも全然乗るけどさぁ。=Ah, você quer dizer assim? Bem, eu também estou totalmente a bordo.

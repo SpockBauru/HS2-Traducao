@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 まったく、最悪だったんだけど。=Foi uma porcaria total.
 お前のせいで……とんでもない目に合っちゃった。=Você me colocou... Em um inferno de problemas.
 こんな所で、よく無理やりやろうとしたよな……=Como você ousa tentar me forçar a fazer isso em um lugar como este...

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 電車とか……こんな所で何するつもり？=Trens e... O que você está fazendo aqui?
 言っておくけど……変なまね、しないでよね=Só para que você saiba... Não faça nenhuma loucura.
 ちょっと、言った傍から何してんのっ……=O que você está fazendo neste momento?

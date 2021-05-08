@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=... Se você está me perguntando se eu vou fazer o que você diz só porque eu gosto de você... Então eu não quero fazer.
 ……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=... Há uma diferença entre uma ordem e um pedido, certo? Bem, para cada um deles, eu acho.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=Hmm, eu não sei sobre amor ou amor... Mas é normal querer fazer o que faz a outra pessoa feliz.
 ……駆け引きとか、そういうのは良く分かんねぇけど……なんでもいう事聞くのは違う気がするぜ。=... Não sei nada sobre táticas ou algo parecido, mas não creio que seja correto fazer o que você quiser.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ――気持ちいいならなんだっていいんじゃねぇの？　深く考えたってしょうがねぇだろ。=-O que importa se é bom? Não importa se você pensa muito sobre isso.
 ……俺にはよくわかんねぇけど、楽しめればそれでいいんじゃねぇの。=... Não sei se isso é verdade, mas acho que tudo é bom, desde que você goste.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ……なんの話してんだ？　知るか、そんなもん。=... Do que você está falando? Não sei, algo assim.
 ……それで？　何が楽しいんだ、その話？=... E daí? Qual é a graça disso, dessa história?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 言われるとおりに動く方が楽な場合もあるからな。否定する気はねぇよ。=Às vezes é mais fácil fazer o que lhe é dito. Não vou negá-lo.
 SとかMとか、誰だってそういうものは持ってるんじゃねぇのか？　その場その場で強く出る方がどっちかってだけだろ。=Sadista ou masoquista, todo mundo tem algo assim, não é mesmo? É apenas uma questão de qual sai mais forte na hora.

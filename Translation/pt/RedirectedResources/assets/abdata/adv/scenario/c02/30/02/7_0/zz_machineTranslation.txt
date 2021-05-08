@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+//なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 はぁ、そうですか。=Huh, estou vendo.
 あら、顔を出しに来ただけですか？=Oh, você só veio para mostrar seu rosto?
-なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+//なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
 まぁ、声をかけてくれただけでも良しとします。=Bem, é uma coisa boa que você me chamou.
 ……別に気を使わなくてもいいんですよ？=... Você não precisa se preocupar com isso, certo?
-なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+//なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
 そうですか、わかりました。=Certo, estou vendo.
 あら、折角美女が二人も揃っているのに……=Duas mulheres bonitas num só lugar...
-なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+//なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
 何でもないなら割り込んで来ないでください。=Se não for nada, não entrem de barcaça.
 ……わざわざ邪魔しに来ただけって事ですか？=... Quer dizer que você veio até aqui para me interromper?
-なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+//なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
 ……本当に何でもなかったんですか？=... Não foi realmente nada?
 別に、この場で私達を押し倒してしまってもよかったんですよ？=Eu realmente não me importo, você poderia ter nos empurrado para além do limite aqui mesmo, sabe?

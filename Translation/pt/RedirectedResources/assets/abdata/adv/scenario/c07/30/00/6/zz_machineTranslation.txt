@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 おいおい、よくやるな……=Vá lá, você faz isso muitas vezes...
 ……なぁ、そこまでする必要があるのか？=... Ei, você tem que ir tão longe?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 まったく、恐れ入ったな……=Ohhh...
 はぁ、それは本当なのか？=Isso é verdade?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 オマエは本当に加減を知らねぇな……=Você realmente não sabe o que está fazendo...
 ……どうなんだろうな。微妙なラインだ。=... Não sei nada sobre isso. É uma linha tênue.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 いや……普通に考えておかしいだろ。=Não... Isso não é normal.
 ……気持ち悪いやつだ。それ以上オレに近付くな。=Isso é nojento. Não se aproxime mais de mim.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……少なくとも、オレはいいと思うぞ。=... Pelo menos acho uma boa idéia.
 ハッ、大袈裟に言い過ぎだろ……=Ha, você está exagerando...

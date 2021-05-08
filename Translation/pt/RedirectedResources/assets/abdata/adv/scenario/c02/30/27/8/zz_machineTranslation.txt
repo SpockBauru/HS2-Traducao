@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 結局何をしたかったんですか……？=O que você queria fazer no final?
 はぁ、何もしないんですか……=Huh, você não vai fazer nada...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 えっと……今日は乗り気じゃなかったって事ですかね……？=Bem... Isso significa que você não estava com disposição hoje?
 こんなの、お互い損なだけじゃないですか……=Isto não é apenas uma perda para nós dois...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ……何ですか？　怖気づいたんですか？=... O que é isso? Você ficou assustado?
 はぁ、がっかりです……=Huh, estou desapontado...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 まぁ、あなたとするくらいなら時間を無駄にした方がまだマシですね。=Bem, eu ainda prefiro perder meu tempo do que fazê-lo com você.
 何事もなく終わって何よりです。=Estou contente que tudo tenha corrido sem nenhum problema.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……お預けしたからには、次はちゃんとしてくれるんですよね？=... Agora que o deixei no comando, da próxima vez você vai fazer certo, certo?
 ……私の期待を返してください。=... Retribuir minhas expectativas.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あの、私の何がいけなかったんですか？　……直しますから、何でもしますから……捨てないで、ください……っ=Hum, o que há de errado comigo? Eu conserto, eu faço qualquer coisa... Por favor, não jogue fora...
 ……あぁ、何か用事があるんですね、それならば仕方ないです。　……私とシたくないわけ、ないですよね……？=... Oh, você tem algo a fazer, então não adianta... Não é que você não queira transar comigo, certo?

@@ -3,13 +3,13 @@
 //***********************************************************************
 
 おお、いらっしゃいましたか！　えーっと特に用事はないのですが、ちょっとあなたさんに会いたいなーと思いまして！　えへへ！=Oh, você está aqui! Bem, eu não tenho nada em particular para fazer, mas eu apenas pensei que gostaria de conhecê-lo! Heh heh!
-好意50_汎用{0}=Favors 50_ Genéricos {0}
+//好意50_汎用{0}=Favors 50_ Genéricos {0}
 なんか一人だと寂しくなっちゃって……また会いに来ちゃいました、えへへ。=Eu me sentia só quando estava sozinho... Então vim vê-lo novamente, ehehe.
 今日もたくさんお話してくれるとうれしーですー！=Espero que você tenha muito o que falar hoje!
 あなたさんと一緒にいると落ち着けるから……ついつい来ちゃうんですよ、えへへ。=Eu me sinto em casa quando estou com você... Então eu continuo voltando, ehehe.
-好意50続き{0}=Favores 50 continuou {0}
+//好意50続き{0}=Favores 50 continuou {0}
 一緒にいてくれてありがとうございました！　また甘えちゃうかもしれませんけど、その時はよろしくお願いしますーっ！=Muito obrigado por estarem comigo! Posso estragar você novamente, mas quando o fizer, contarei com você!
 あなたさんと過ごせた日は一日心がぽかぽかするんですよー。だから、今日はもう幸せな日です、えへへ。=O dia que eu puder passar com você, meu coração estará quente o dia todo! Portanto, hoje já é um dia feliz, ehehe.
 なんかあなたさんの傍にいられる時が、一番ほっとするんです。対わたし癒し効果抜群ですよー！=Sinto-me o mais aliviado quando posso estar perto de você. Tem um grande efeito curativo em mim!
 いてくれて良かったですー！　えっと……少しだけお話したいなと思ったんですけど……いーですか？=Estou feliz por você estar aqui! Eu estava pensando se poderia falar um pouco com você... Se está tudo bem?
-好意80_汎用{0}=Favores 80_ Genéricos {0}
+//好意80_汎用{0}=Favores 80_ Genéricos {0}

@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 あんな子なんかより、私の方があなたを愛してるという事、証明してみせます……っ=Vou te provar que te amo mais do que aquela garota...
 私の匂いで、しっかり上書きさせますから……=Farei com que meu cheiro se sobreponha ao...

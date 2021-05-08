@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 いいわよ……エッチしましょう。=Muito bem... Vamos fazer sexo.
 いきなりだけど……別に問題ないわ。=Eu sei que é do nada, mas... Não é problema.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 もちろん……あなたが相手なら私はＯＫよ。=Claro... Se for com você, eu estou bem com isso.
 嬉しいわ、あなたからエッチに誘ってくれて。=Estou feliz que você me tenha pedido para fazer sexo com você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いいわよ……気持ちのいいエッチ、しましょう。=Muito bem... Sexo agradável, vamos a isso.
 私も、あなたとエッチしたかったから……しましょう。=Eu também queria transar com você, então... Vamos fazer isso.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 分かったわ、別にいいわよ=Está bem, tudo bem. Não me importo.
 私とエッチがしたいのね？　別に構わないけど。=Você quer transar comigo, não quer? Não me importo se você o fizer.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたがしたいのなら……私はいつでもいいわよ。=Se é isso que você quer fazer... Então eu estou sempre pronto para isso.
 あなたとのエッチなら、どんな用事があっても優先するわ。=Se eu estiver fazendo sexo com você, eu darei prioridade, não importa qual seja meu negócio.

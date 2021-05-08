@@ -2,27 +2,27 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 もう終わりでいいのか？　お前がそういうなら別にいいけどさ……=Você tem certeza de que acabou? Se é isso que você quer...
 俺だけいっちゃったみたいだけど……お前はこれで良かったのか？=Parece que eu sou o único que saiu... Mas você está bem com isso?
 俺をいかせたかったのかよ？　エッチな奴だな。=Você queria me fazer ejacular? Você é um menino safado.
-{0}={0}
+//{0}={0}
 俺だけしかいってないのに……お前が満足ならそれでいいけど。=Eu sou o único que disse isso, mas... Se você está feliz, tudo bem.
 気持ち良かったよ。次は絶対一緒にいこうな。=Isso soube bem. Da próxima vez, vamos fazer isso juntos.
 お前に感じさせられて……思いっきりいっちゃったよ。=Você me fez sentir isso... E eu fui até o fim.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 俺はとにかく大満足だったよ！　お前は、いかなくても良かったのか？=Eu estava muito feliz de qualquer maneira! Você não precisava ir, precisava?
 なんか悪かったな、俺ばっか感じちゃって……でも、気持ち良かったぜ、本当に。=Lamento ser o único que sentiu isso, mas soube bem, muito bem.
 思いっきりいかされちゃったなぁ。最高に気持ち良かったぜ。=Ele me fez gozar o mais forte que pude. Foi a melhor sensação de todos os tempos.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 お前にいかされて終わりなんて、なんか落ち込みそうだよ。=Vou ficar tão deprimido quando você me fizer gozar e pronto.
 終わりでいいんだろ。もうこれで十分だよ。=É o fim, certo? Isso é suficiente.
 俺だけいったみたいだな……お前がそういうの好きなら、別にいいけど。=Acho que eu era o único... Se você gosta desse tipo de coisa, tudo bem.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 俺だけしかいってないけど、本当にいいのか？=Eu sou o único que está dizendo isso. Tem certeza disso?
 責めるだけで良かったのか？　お前はいけなかったじゃないか。=Tudo o que você tinha que fazer era me punir? Você não deveria ter feito isso.
 俺を責めて満足したんだな？　だったら、なんの問題もないけど。=Você está feliz em me punir, não está? Então eu não tenho nenhum problema com isso.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 どうして俺だけなんだ？　お前に感じてもらえないなら、俺だって寂しい。=Por que sou só eu? Se você não consegue sentir, também sentirei sua falta.
 お前は今ので満足なのか？　お前が喜ぶなら、何をしてもいいんだからな。=Você está feliz agora? Não me importa o que tenho que fazer para fazer você feliz.
 お前はまだいってないじゃないか？　まさか、俺の身体に何か問題でもあったのか……=Você ainda não gozou, não é mesmo? Não me diga que há algo de errado comigo...

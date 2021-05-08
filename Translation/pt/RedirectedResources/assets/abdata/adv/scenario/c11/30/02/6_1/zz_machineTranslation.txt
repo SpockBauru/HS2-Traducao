@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=Sexo posterior B normal {0}
+//H事後B普通{0}=Sexo posterior B normal {0}
 お、お二人さえ宜しければ、また私も交えて頂けますと……嬉しく存じます。=Se estiver tudo bem com vocês dois, eu ficaria feliz em me juntar a vocês novamente.
 私も、貴方のお役に立つことが出来ていたでしょうか？=Espero ter sido de alguma utilidade para você.
-H事後B好意{0}=Sexo posterior B favor {0}
+//H事後B好意{0}=Sexo posterior B favor {0}
 ……ご満足されたのなら、私は本望です。それでは、失礼致します。=... Espero que você esteja satisfeito com seu trabalho. Agora, se me dão licença.
 次は、私ではなく他の方をお誘い頂けると……申し訳ございません。=Da próxima vez, se você pudesse convidar outra pessoa em vez de mim... Desculpe.
-H事後B享楽{0}=Sexo poste B gozo {0}
+//H事後B享楽{0}=Sexo poste B gozo {0}
 全員の興奮が伝染していましたね。また、致すのが楽しみです。=A excitação de todos foi contagiosa, não foi? Estou ansioso para deixá-lo igualar novamente.
 私、乱れ過ぎていましたね。次回はもっと気を引き締めて臨みます。=Eu estava muito desorganizado, não estava? Da próxima vez, terei mais cuidado.
-H事後B嫌悪{0}=Aversão sexo posterior B {0}
+//H事後B嫌悪{0}=Aversão sexo posterior B {0}
 終わりということなら、これで失礼致します。=Se isso é o fim, então vou deixá-lo agora.
 三人で致した所為か、普段より疲れました……=Talvez seja porque nós três o fizemos juntos, mas estávamos mais cansados do que de costume.
-H事後B隷属{0}=Subjugação sexo posterior B {0}
+//H事後B隷属{0}=Subjugação sexo posterior B {0}
 本当に楽しい時間程、あっという間に過ぎてしまいますね……=Quanto mais tempo você passa se divertindo, mais rápido ele passa...
 お疲れ様です。二人同時の行為でしたが、お身体の方は大丈夫でしょうか？=Obrigado por seu tempo. Foi um ato de duas pessoas ao mesmo tempo. O seu corpo está bem?

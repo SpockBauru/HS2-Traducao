@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=O que você estava fazendo?
+//なにしてたのA普通{0}=O que você estava fazendo?
 温故知新……昔の出来事から学べることも多い、そういったお話をしておりました。=Ele disse que há muitas coisas que podem ser aprendidas com o que aconteceu no passado.
 新しい技術についていくのが難しい、ということを話しておりました。=Ele estava falando sobre como é difícil acompanhar as novas tecnologias.
-なにしてたのA好意{0}=O que você estava fazendo?
+//なにしてたのA好意{0}=O que você estava fazendo?
 甘味について、色々と談義しておりました。=Tivemos muitas discussões sobre a doçura.
 お互い好きな詩について、語り合っていた所です。=Estávamos conversando um com o outro sobre nossos poemas favoritos.
-なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+//なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 少々お恥ずかしいですが、性癖について赤裸々に話しておりました。=Tenho um pouco de vergonha de dizer isto, mas eu estava falando nuamente sobre minha sexualidade.
 好みの仕草について、熱く語り合っていました。=Eles tiveram uma discussão acalorada sobre seus gestos favoritos.
-なにしてたのA嫌悪{0}=O que você estava fazendo?
+//なにしてたのA嫌悪{0}=O que você estava fazendo?
 好ましくないことは、はっきりと伝えるべきという話です。=Estamos falando de coisas que são indesejáveis e devem ser comunicadas claramente.
 好きな映画について、話をしていた所です。=Estávamos apenas falando de nossos filmes favoritos.
-なにしてたのA隷属{0}=O que você fez, A-slave {0}
+//なにしてたのA隷属{0}=O que você fez, A-slave {0}
 趣味にかけるお金に関して、話をしておりました。=Estávamos falando a respeito do dinheiro que gastamos em nossos hobbies.
 相手に合わせるか否か、という話をしておりました。=Estávamos falando sobre se devemos ou não nos adaptar à outra pessoa.

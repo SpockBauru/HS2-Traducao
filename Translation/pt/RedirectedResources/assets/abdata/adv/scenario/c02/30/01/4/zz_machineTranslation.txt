@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 え？　どこをどう見ても、私そのものじゃないですか？　……あぁ、あなたの身体が一番「私」だと知ってますよね……？=O que é isso? Não importa como você olha para isso, não sou só eu? Oh, você sabe que seu corpo é o "eu" mais "eu"?
 何がですか？　あなたに都合のいいセックス人形、それが私ですよ？　ほら、確かめてください……♪=O que é isso? Sou sua boneca sexual conveniente, é isso que sou, certo? Aqui, certifique-se ♪
-Home{0}=Home{0}
+//Home{0}=Home{0}
 あ……す、すみません……私、少しはしゃぎすぎてしまってたみたいで……=Oh, desculpe... Parece que eu estava um pouco exagerado...
 そ……そうですね、私、どうかしてましたね……はい……=Bem... Sim, eu estava fora de mim... Sim...

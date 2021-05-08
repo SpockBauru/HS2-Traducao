@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+//HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 私達と、ですか？　こちらは構いませんが……=Conosco, senhor? Eu não me importo, mas...
 えっと、二人を相手にって事ですよね？=Hum, você quer dizer contra duas pessoas, certo?
-HしようA好意{0}=Eu lhe farei um favor.
+//HしようA好意{0}=Eu lhe farei um favor.
 ちょっと、私だけじゃないんですよ……？=Ei, não sou só eu?
 えっ、わ、私は、嫌じゃないですけど……ねぇ？=Eh, eu não me importo, mas... Ei?
-HしようA享楽{0}=Vamos fazer isso.
+//HしようA享楽{0}=Vamos fazer isso.
 やっぱり。　顔、ニヤついてましたからね。=Eu sabia. Você tinha um grande sorriso no rosto.
 あなたならそう言うと思ってましたよ。=Eu sabia que você diria isso.
-HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+//HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
 あの、見境なさすぎじゃないですか？=Sabe, eu acho que você está sendo um pouco desdenhoso.
 ……えぇ、そんな予感はしていましたよ。=... Sim, eu tinha um pressentimento sobre isso.
-HしようA隷属{0}=Vamos sexo Um escravo {0}
+//HしようA隷属{0}=Vamos sexo Um escravo {0}
 なるほど、女を侍らせたいって事ですね、構いませんよ。=Estou vendo. Então você quer ter uma mulher como acompanhante. Tudo bem.
 何ですか？　私の痴態を見せつけろって事ですか？=O que é isso? Você está me pedindo para lhe mostrar minha lascívia?

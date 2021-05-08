@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 絶対お前と二人っきりで過ごすからな……誰にも邪魔させない。=Eu definitivamente vou passar algum tempo sozinho com você... E não vou deixar ninguém se meter no meu caminho.
 俺を満たしてくれるのは、お前だけだぜ。今日も俺と二人で、気持ち良くなろうな。=Você é o único que pode me encher. Hoje, você e eu, vamos nos sentir bem.
 お前とだったら絶対熱くなれるってわかってるんだ。俺と気持ちよくなることだけを考えて楽しもうぜ。=Eu sei que posso ficar quente com você. Vamos apenas pensar em como vai ser bom para mim e nos divertir.

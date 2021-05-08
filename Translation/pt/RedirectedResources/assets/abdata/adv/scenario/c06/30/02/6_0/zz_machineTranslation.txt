@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 やはり３人ですると、刺激的ですわね……=É muito mais emocionante quando somos só nós três...
 いつもとは違うお勉強ができたと思います。=Acho que pude aprender algo diferente do habitual.
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 もう、ちょっとだけ妬けてしまいましたわ……=Já estou com um pouco de inveja de você...
 うふふ、一夫多妻制になってもあなたなら大丈夫ですわね……=Ummm... Tenho certeza que você vai ficar bem com a poligamia...
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 ふたりでするときとは違うあなたが見られて幸せでしたわ……♪=Fiquei feliz em vê-lo de forma diferente do que quando estávamos juntos...
 たまにはこのような営みもよいものですわね……♪=É bom ter este tipo de atividade de vez em quando ♪
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 おふたりとも、お疲れ様でした。=Obrigado a ambos por seu trabalho árduo.
 終わりましたのね……=Acabou...
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 変則的なセックスでしたが、しっかりとご奉仕できていたでしょうか……？=Foi um sexo irregular, mas espero ter podido servi-lo bem?
 おふたりにご満足頂けたなら何よりですわ。=Espero que ambos estejam satisfeitos com sua estadia.

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=O que você estava fazendo?
+//なにしてたのA普通{0}=O que você estava fazendo?
 はい、この施設について話し合っていました。=Sim, nós estávamos discutindo estas instalações.
 性のお勉強は必要か否か、というお話をしておりましたの。=Estávamos falando sobre se a educação sexual é necessária ou não.
-なにしてたのA好意{0}=O que você estava fazendo?
+//なにしてたのA好意{0}=O que você estava fazendo?
 恋はするものではなく落ちるもの……というお話をしていたのですけれど……=Estávamos falando de como o amor não é algo que você faz, mas algo pelo qual se apaixona...
 その……夫婦の営みはとても甘いものだと、そのようなお話をしておりまして……=Bem... Temos falado sobre como é doce para um casal estar junto, e...
-なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+//なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 セックスの際、相手のお顔が快楽で歪むのが好き、というお話ですわ……♪=É uma história sobre um homem que gosta de ver o rosto de seu parceiro contorcido em prazer durante o sexo...
 実は、性のお話をしていたのです、ご奉仕するときしっかりとお相手の反応を見るべきかどうか……♪=Na verdade, estávamos falando de sexo, e se você deve ou não observar as reações de seu parceiro quando você os serve ♪
-なにしてたのA嫌悪{0}=O que você estava fazendo?
+//なにしてたのA嫌悪{0}=O que você estava fazendo?
 身体を重ねるお相手は、やはり好きな方でないといけない……というお話ですわ……=É uma história sobre como a pessoa com quem você vai fazer sexo tem que ser alguém que você gosta...
 お互いに尊敬し合っている者同士のセックスが一番というお話をしておりましたの……=Estávamos falando sobre como o sexo é melhor quando é entre pessoas que se respeitam, então...
-なにしてたのA隷属{0}=O que você fez, A-slave {0}
+//なにしてたのA隷属{0}=O que você fez, A-slave {0}
 花嫁修業についてお話しておりました、やはり修行は必要なものでしょう……=Estávamos falando de treinamento de noivas. Acho que treinamento é necessário...
 相手を喜ばせるためには、常に一手二手先を読むべき……というお話をしておりましたの……=Eu estava falando de como você deve estar sempre um ou dois movimentos à frente para agradar ao seu parceiro...

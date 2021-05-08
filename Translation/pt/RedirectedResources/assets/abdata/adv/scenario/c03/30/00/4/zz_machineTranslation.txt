@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 まぁ、私はいい友達で終わりやすいからなぁ……=Bem, eu tendo a acabar sendo um bom amigo, então...
 え、もしかして……恋の話ですか？=O quê, você... Você está falando de amor?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ふふ、ずっと話してたいってことなら、私もよくあるよ。=Huh, se você quiser falar o tempo todo, eu sou conhecido por fazer isso.
 なんか……ちょっとドキドキしてきちゃった……。=É que... Está me deixando um pouco nervoso...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 セフレと恋人って、何が違うんだろうねぇ……=Pergunto-me qual será a diferença entre uma amizade e um amante...
 好きだとやっぱ、気持ちよさも違うと思うよ？=Eu acho que é diferente quando você ama, não é mesmo?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 いーよ別に、ご機嫌取りとかしなくて……=Bem, eu não tenho que estar de bom humor...
 どうせお世辞でしょ？　中身スカスカ……=Você está apenas lisonjeado, certo? Não há nada lá dentro...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 うー、なんか背中がくすぐったくなる話だぁ……=Esta história faz cócegas nas costas...
 いーなぁー、そういうの憧れちゃうなぁ……=Adoro isso... Adoro esse tipo de coisa...

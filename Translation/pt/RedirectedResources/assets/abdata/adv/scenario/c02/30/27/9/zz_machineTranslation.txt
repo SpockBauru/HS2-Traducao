@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 もぉ……あんなになるまでされたら、何も言えないじゃないですか……っ=Não posso dizer nada se ele me fizer isso...
 はふ……自分でも、ここまでするとは思いませんでした……=Huh... Não pensei que eu mesmo chegaria tão longe...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 はぁ……あなたが、感じさせすぎるからいけないんですよ……=Huh... Você não deveria ter me feito sentir também...
 もぉ、あんな気持ちよすぎたら、私……どうにかなっちゃうかもしれませんよ……？=Oh, se isso for bom demais, eu posso... Ficar fora de controle?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 はぁ……ちょっと、張り切り過ぎちゃいましたね……=Huh... Um pouco demais de tensão...
 はふぅ、あそこまでイかせたなら、まぁ少しは誇ってもいいんじゃないですか？=Huh, se você a fez gozar tão longe, bem, você pode estar um pouco orgulhoso disso, não pode?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ……加減ってものを知らないんですか……？=Huh, você não sabe o que é certo e errado?
 んぅ……私の事はいいから、ほっといてください……=Mmm... Não se preocupe comigo, apenas me deixe em paz...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 はぁ……何回イったかなんて、覚えてませんよもう……=Não consigo nem me lembrar quantas vezes vim...
 感じすぎ、ですか？　身体が求めてるんです、仕方のない事です。=Você se sente muito? Meu corpo está pedindo por isso. Não posso evitar.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あなたに、身も心も溶かされて……幸せです……♪=Estou tão feliz que você derreteu meu corpo e minha alma...
 はぁ……私のメス堕ち姿を見ていただき、ありがとうございます……♪=Huh... Obrigado por observar minha depravação feminina...

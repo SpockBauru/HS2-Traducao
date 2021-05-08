@@ -2,33 +2,33 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-返答肯定2普通{0}=Responder afirmativo 2 normal {0}
+//返答肯定2普通{0}=Responder afirmativo 2 normal {0}
 やはりそうですよね、同じ意見で嬉しいです。=Eu sabia que você estava certo, e estou feliz por estarmos na mesma página.
 私も同意見です。=Eu concordo com você.
-返答肯定2好意{0}=Responder afirmação 2 favor {0}
+//返答肯定2好意{0}=Responder afirmação 2 favor {0}
 あなたもそう思われますか？　私とあなたは感性が似ているのかもしれませんね。=Você também acha que sim? Talvez você e eu tenhamos sensibilidades semelhantes.
 私も同じ見解です。一致すると何だか嬉しいですね。=Eu tenho a mesma visão. Eu fico meio feliz quando eles combinam.
-返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
+//返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
 そうですか、私たち気が合いますね。=Oh, bem, nós somos almas gêmeas, não somos?
 成程、私と近しい意見ですね。=Estou vendo, você tem uma opinião semelhante à minha.
-返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
+//返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
 あなたと意見が一致するとは思ってもみませんでした。=Eu nunca pensei que concordaria com você.
 私と近しい考え方ですね。=Você e eu somos próximos em nosso pensamento.
-返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
+//返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
 本当ですか？　私も同じことを思っていました=Você tem certeza? Eu estava me perguntando a mesma coisa.
 あなたもですか？　同じ意見とは嬉しいです。=Você também? Estou feliz por compartilharmos a mesma opinião.
-返答否定2普通{0}=Responder negativo 2 normal {0}
+//返答否定2普通{0}=Responder negativo 2 normal {0}
 貴重なご意見をありがとうございます。=Obrigado por seu valioso feedback.
 そういった考え方もあるのですね。=Portanto, essa é uma maneira de pensar.
-返答否定2好意{0}=Negação de resposta 2 favor {0}
+//返答否定2好意{0}=Negação de resposta 2 favor {0}
 私とは違いますが、素晴らしい考え方だと思います。=Não é como eu, mas eu acho que é uma ótima idéia.
 成程……それも一理ありますね。=Estou vendo... Você tem razão nisso.
-返答否定2享楽{0}=Negação de resposta 2 gozo {0}
+//返答否定2享楽{0}=Negação de resposta 2 gozo {0}
 違う視点でのご意見、大変参考になりました。=Sua opinião a partir de uma perspectiva diferente foi muito útil.
 それは面白いですね、私にはない考え方でした。=Isso é interessante, eu não tinha pensado nisso.
-返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
+//返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
 見解の不一致ですね。=É uma discordância de opinião.
 個人的には賛同できませんね。=Pessoalmente, eu não concordo com isso.
-返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
+//返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
 確かに……私が浅慮だったかもしれません。=Você está certo... Talvez eu estivesse sendo superficial.
 面白いですね、とても参考になりました。=Isso é interessante, muito informativo.

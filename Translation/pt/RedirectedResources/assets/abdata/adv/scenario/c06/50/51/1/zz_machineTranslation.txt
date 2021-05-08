@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いかがでしたか？　興奮していただけましたでしょうか？=Como foi isso? Espero que tenham ficado entusiasmados.
 大変楽しかったですわ……またいつでも遊ばせていただきたいですわ。=Foi muito divertido... E eu adoraria jogar de novo a qualquer momento.
 ついつい楽しんでしまいましたわ……時間を忘れておりました。=Eu estava me divertindo tanto... Perdi a noção do tempo.

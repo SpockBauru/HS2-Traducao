@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=O que você estava fazendo?
+//なにしてたのA普通{0}=O que você estava fazendo?
 食べ物の好みについてだ。甘いの辛いの酸っぱいの……色々あるからな。=Trata-se de preferências alimentares. Doce, picante, azedo... Há muito a fazer.
 昨日のスポーツの結果についてだな。=É sobre os resultados esportivos de ontem.
-なにしてたのA好意{0}=O que você estava fazendo?
+//なにしてたのA好意{0}=O que você estava fazendo?
 何って、ちょっと……恋バナ、的な感じ？=O que, como uma pequena... História de amor?
 まぁ……恋人ができたらどうするぅ……的な話だよ、うん。=Bem... É uma história do tipo "se eu tivesse uma namorada", sim.
-なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+//なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 好きな体位とかあるのかぁ、みたいな話だよ。=Só estou dizendo, tipo, você tem uma posição favorita ou algo assim?
 性感帯の話だよ……やっぱ、人によって違ってるんだな。=Estou falando de sua sexualidade... Você sabe, é diferente para todos.
-なにしてたのA嫌悪{0}=O que você estava fazendo?
+//なにしてたのA嫌悪{0}=O que você estava fazendo?
 別に……ちょっと話してただけだけど。=Nada... Estávamos apenas conversando.
 ……話してただけだよ……お前の事は話題になってないから。=... Estávamos apenas conversando... Porque você não é o tema da conversa.
-なにしてたのA隷属{0}=O que você fez, A-slave {0}
+//なにしてたのA隷属{0}=O que você fez, A-slave {0}
 お前の話だよ。気になるか？=Estou falando de você. Você se importa?
 実はお前のことを話してたんだよ……中々盛り上がったぜ。=Na verdade, estávamos falando de você... Foi muito emocionante.

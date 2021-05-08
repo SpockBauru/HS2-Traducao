@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 私は愛してくださらないのですか？　嫉妬の念を禁じえません、思わず実力行使に出てしまいそうです。=Você não me ama? Não posso deixar de sentir ciúmes, sinto que vou ter que usar a força.
 逃しませんよ。それでは、私とセックスをしましょう？=Não vou sentir falta disso. Então por que você não faz sexo comigo?
 逃げ出した=Ele escapou.

@@ -2,27 +2,27 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 終わりでいいのですか？　あなたがそう仰るのでしたら異論はございませんが……=Você tem certeza de que quer terminar? Se é isso que você quer, eu não tenho nenhuma objeção, mas...
 大変気持ちよかったのですが……あなたはこれで良いのでしょうか？=Soube muito bem, mas... Você está bem com isso?
 ……？　女を責めたい気分だったのでしょうか？=? Ele estava com vontade de punir a mulher?
-{0}={0}
+//{0}={0}
 私だけ達してしまい申し訳ございません。　……大変、気持ちよかったです。=Lamento que eu tenha sido o único que chegou até ele... Me senti muito, muito bem.
 次は共に果てることが出来るように、努めさせていただきます。=Farei o meu melhor para que possamos terminar juntos da próxima vez.
 あなたに愛された事……幸せにございます。=Estou tão feliz que você me amou.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 至福のひと時でした。誠にありがとうございます。=Foi um momento de felicidade. Muito obrigado.
 私ばかり感じてしまい申し訳ない気持ちもあったのですが……快楽に抗うことは出来ませんでした。=Senti-me mal por ter sido o único a senti-lo, mas... Não pude resistir ao prazer.
 責める方が性に合うのですが、今回の様に責められるのも悪くないものですね。=É mais minha natureza punir, mas não é tão ruim ser punido assim, não é?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 イカせていただき、ありがとうございます。=Obrigado por me deixar louco.
 終わりですね。発言の撤回は受け付けていませんので、失礼します。=Esse é o fim. Eu não aceito retrações de declarações, então me desculpem.
 ……私だけ達してしまう事がどれ程の屈辱か、あなたにはわからないでしょうね。=... Você não tem idéia de como é humilhante para mim ser o único que chega até ele.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 たくさん苛められてしまいました……=Já fui torturado muitas vezes...
 責めるだけで満足されたのでしょうか？=Ele estava satisfeito em apenas me punir?
 私を虐げることがお好きなんですね。責めたいときは、いつでもお付き合い致します。=Você gosta de me torturar, não é mesmo? Sempre que você quiser me torturar, eu estarei lá para você.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あなたは自分の事だけを考えていればいいのです。　あなたに満足して頂く事が、私の存在意義なのですから。=Tudo o que você tem que fazer é pensar em si mesmo. Sua satisfação é minha razão de ser.
 私は、あなたが満足する姿を見たいのです。　私が気持ちよくなる事は二の次です。=Quero ver você satisfeito. Fazer-me sentir bem é secundário a isso.
 私のセックスが不甲斐ないからでしょうか？　何か不満があるのなら、すぐにでも直しますから……=É porque não estou fazendo sexo suficientemente bom? Se há algo que não lhe agrada, eu vou consertar...

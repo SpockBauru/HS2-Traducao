@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 苦しいとか、痛いとかが、少しだけ感じるようになってきたわ。=Estou começando a sentir um pouco da agonia, um pouco da dor.
 痛みでも、身体が熱くなるのね。=Até mesmo a dor faz você se sentir quente.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あなたに痛くされても、だんだん気持ち良くなってきたわ。=Estou ficando cada vez mais confortável com você me machucando.
 あなたがしたいことなら、痛いことでもちょっとは耐えられるわ。=Eu posso viver com um pouco de dor se é isso que você quer fazer.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 また私を痛めつけたいの？　……わかったわ。=Você quer me machucar novamente? Está bem, está bem.
 痛いことに慣れるなんて、想像してなかったわ。=Eu nunca imaginei que me acostumaria com a dor.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 苦痛にも慣れてきたわね、あんまり慣れたくなかったんだけど……=Estou me acostumando com a dor. Não queria me acostumar muito, mas...
 どうせまた痛め付けるんでしょ……=Você vai machucá-lo novamente de qualquer maneira...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたのお望みのまま、無茶苦茶にしていいのよ。もう、慣れちゃったから、うふふ。=Você pode ser tão ultrajante quanto quiser. Estou acostumado a isso agora.
 どんなに激しい要求にも応えて見せるわ、ウフフ……=Vou atender a todas as suas exigências, por mais feroz que seja...

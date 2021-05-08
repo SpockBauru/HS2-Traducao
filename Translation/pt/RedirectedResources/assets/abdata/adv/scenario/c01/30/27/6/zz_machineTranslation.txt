@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 他の女の子がいるなんて、なんだか不思議な感覚だったわ。=Foi meio estranho ter outra garota por perto.
 女の子に囲まれて、あなたも興奮したんじゃないの？=Aposto que você também se divertiu por estar rodeado de garotas, não é?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 たくさんの女の子がいても、私だけを見て欲しいわ。=Gostaria que você pudesse ver só a mim, apesar de haver tantas garotas por aí.
 大勢であなたを気持ちよくできたなら、私もうれしいわ。=Se eu o fiz sentir bem com muita gente, estou feliz por você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 やっぱり、大勢でエッチしたらなんだか盛り上がるわね。=Afinal, é meio excitante transar com um monte de gente.
 ふふ、たくさん女の子がいたから楽しかったでしょ？=Hehe, aposto que você se divertiu muito com um monte de garotas.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 他の女の子がいたんだから、私はいなくても良かったんじゃないの？=Havia outras garotas lá, então por que eu não tinha que estar lá?
 これだけ女の子がいたんだから、私の事はもういいでしょ？=Depois de todas essas garotas, você já teve o suficiente de mim, certo?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたが望むなら、もっと女の子がいてもいいのよ。=Você pode ter mais garotas, se quiser.
 女の子が何人いようと関係ないわ。あなたが気持ちいいのが一番よ。=Não me importa quantas garotas você tenha. O que é importante é que você se sinta bem.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 これだけの女の子がいても、本当にあなたの事わかってるのは私だけよ。=Todas estas garotas, e eu sou a única que realmente a conhece.
 何人女の子がいても、あなたを感じさせるのは私よ、うふふ。=Não importa quantas garotas você tenha, sou eu quem faz você se sentir, hihihi.

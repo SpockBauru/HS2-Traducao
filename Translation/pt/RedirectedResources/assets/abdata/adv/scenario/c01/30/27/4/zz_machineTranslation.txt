@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 何人もとするなんて、ちょっと刺激的だったわ。=Foi meio excitante fazer isso com um monte de gente.
 今のエッチって乱交って言うのかしら？　ちょっと興奮したわ。=Será que agora chamam ao sexo uma orgia? Estou um pouco entusiasmado.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 本当はあなただけとエッチしたかったわ。わがままかしら。=Eu queria muito transar só com você. Egoísta.
 他の人がいるなんてびっくりしたけど、あなたがいたから良かったわ。=Fiquei surpreso ao ver mais alguém aqui, mas estou feliz que você tenha estado.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 たまにはこんなエッチも悪くないわね、興奮したわ。=Às vezes, sexo como este não é tão ruim. Estou tão excitado.
 囲まれてエッチするのが、こんなに興奮するなんて。=Não posso acreditar como estou entusiasmado por estar cercado e transar com você.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 何人も相手にするなんて、ちょっと疲れるわ。=É meio cansativo ter que lidar com tanta gente.
 こんなに相手が多いんじゃ、休む暇もないじゃない。=Com tantos parceiros, não há tempo para descansar.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたが喜ぶなら何人とだってしてあげるわ。=Eu o farei com qualquer número de pessoas, se isso o fizer feliz.
 乱交っていいわね、すごく興奮したわ。=Eu adoro orgias. É tão emocionante.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 こんなにたくさんで愛してもらえるなんて、本当に幸せだわ。=Tenho tanta sorte de ser amado por tantos.
 私に乱交させるなんて、あなたって、本当に変態ね、うふふ。=Você é um pervertido, me deixando ter uma orgia com você, hihihi.

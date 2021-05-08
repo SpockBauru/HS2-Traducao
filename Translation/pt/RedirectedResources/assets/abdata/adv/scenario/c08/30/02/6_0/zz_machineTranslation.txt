@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 ３人でするのって刺激的っすねー。=É tão emocionante fazer isso com três pessoas!
 いやーみんな違ってみんなエロいんすねー。人類が滅亡しないわけっすよー。=Bem, todos são diferentes e todos são eróticos. Não é de se admirar que a raça humana não esteja morrendo.
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 またあなたのスケベなところを思い知らされちゃった感じっすー。=Sinto que fui lembrado de seu lado obsceno novamente.
 ２Ｐの方が好みっすけどー３Ｐは３Ｐでいいすねー。=Eu prefiro com duas pessoas, mas Ménage à trois é bom.
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 なんか乱交感あってよかったっすねー。=Foi bom ter algum tipo de sentimento de orgia.
 いつもより「エロの暴力」って感じだったすねー。=Foi mais como "violência erótica" do que de costume.
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 お、もうこんな時間っすかー。=Oh, já é essa hora?
 盛り上がったっすねー。=Foi muito divertido!
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 なんかハマっちゃいそうっすねー３Ｐ～。=Acho que vou ficar viciado nisto... Ménage à trois ~
 ３Ｐで興奮したあなたの顔ー最高だったっすよー。=O olhar em seu rosto quando você estava empolgado com o trio - foi ótimo!

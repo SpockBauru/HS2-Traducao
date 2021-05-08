@@ -2,24 +2,24 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 お疲れさまです。　とりあえず、これからもよろしくお願いします。=Obrigado por sua ajuda. Enquanto isso, por favor, continue com o bom trabalho.
 終わりですか？　……そうですか、お疲れさまでした。=Você está pronto? Bem, obrigado por seu tempo.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ……それじゃぁ、これから心身共々、よろしくお願いしますね。=... Bem, então, eu espero trabalhar com vocês tanto física quanto mentalmente a partir de agora.
 ふぅ……まぁ、したい時にまた呼んで下さい。　……あなたになら、応えて問題なさそうですから。=Hmm... Bem, me ligue novamente quando quiser... Porque acho que não terei nenhum problema em responder a você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 私、まだまだ満足していないんで。　これから、もっともっと楽しませて下さいね？=Ainda não estou satisfeito. Por favor, deixe-me se divertir cada vez mais a partir de agora.
 それじゃまた。　……次もまた、遊びましょう？=Vejo vocês então... Vamos jogar novamente da próxima vez, certo?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はい、終わりです。　お疲れさまでした。=Sim, acabou. Obrigado por seu tempo.
 別に、無理に誘って頂く必要はないので。　むしろ誘って頂かなくても結構ですので。=Você não precisa me forçar a convidá-lo. Na verdade, você não precisa nem mesmo me convidar.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 私、待つのは得意ですから。　次もまた、よろしくお願いしますね？=Eu sou bom em esperar. Vejo você da próxima vez, não é mesmo?
 こんなものじゃ相性なんてわかりませんよね。　だから……次も、お願いしますね？=Não se pode distinguir a química com algo assim. Então... Da próxima vez, por favor, também, está bem?
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 おわ……った……？=O senhor?
 あり、がと……ございまし、た……=Obrigado... Obrigado... Obrigado... Obrigado...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 嫌、離れたくない……でも、離れないと嫌われちゃう……ははっ、私、どうしたらいいんですかね……？=Não, eu não quero ir embora... Mas se eu não for, ele vai me odiar... Haha, o que eu devo fazer?
 終わり、ですか……わかりました、いつでも呼んで下さい。　……いえ、呼ばれなくても、あなたの傍に向かいますから……=O fim, huh... Ok, por favor me ligue a qualquer hora... Não, mesmo que você não me chame, eu irei para o seu lado...

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あー、知ってるこれ……未知とのそーぐーってやつでしょ？=Oh, eu conheço este aqui... Chama-se Sogou com o Desconhecido, certo?
 てかこれ本物？　生きてんの？　グロさがエグいんですけど……=Quero dizer, isto é real? Ele está vivo? É tão nojento...
 こんなんの相手してたらさぁ……アタシのジョーシキ、全部ぶっ壊されそう……=Se eu tiver que lidar com esse tipo de coisa... Vai destruir toda a minha Joshiki...

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 はぁ、そうですか。=Huh, estou vendo.
 わかりました、それではまた。=Certo, nos vemos então.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ……そうですか、では。=... Vejo, então.
 用がなくても私に会いに来てくれた、という事にしておきますね。=Direi apenas que você veio me ver apesar de não precisar de mim.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 私の顔を見に来ただけって事ですね、わかりました。=Então você só está aqui para ver meu rosto. Eu entendo.
 あら、何もしないんですね、わかりました。=Você não vai fazer nada, eu entendo.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 なら声をかけないでください。=Então não chame por ele.
 そうですか、なら私に用はないですよね、さようなら。=Então você não tem nenhuma utilidade para mim. Adeus.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 そうですか、残念です……=Bem, lamento ouvir isso...
 また何かありましたら、いつでも声をかけてください。=Se você precisar de mais alguma coisa, por favor nos ligue a qualquer momento.

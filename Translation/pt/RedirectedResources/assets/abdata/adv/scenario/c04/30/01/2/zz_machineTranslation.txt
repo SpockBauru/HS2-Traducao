@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversação {0}
+//会話{0}=Conversação {0}
 んふ、自分から誘えるとか偉いじゃん♪　これはご褒美あげないとね♪=É ótimo que você mesmo possa convidá-la para sair... Eu tenho que recompensá-la por isso.
 そうそう、それでいーの♪　アタシらは身体で会話する方が合ってるっしょ？=Sim, é isso mesmo. É melhor conversarmos com nossos corpos, certo?

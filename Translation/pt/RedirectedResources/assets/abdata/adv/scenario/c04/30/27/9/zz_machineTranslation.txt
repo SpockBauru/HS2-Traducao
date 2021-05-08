@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 //ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Espere um minuto... Hah, não consigo respirar... Oh não... É hora de ir...
 んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=Hmm... Não consigo colocar nenhuma força em meu corpo... Hmm ~ você tem que ficar lá até que eu possa me mudar. Você entendeu?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あは……アンタやっぱ凄いわ……はぁっ、マジ気に入った。もー手放したくないかも♪=Você é tão fantástico... Eu realmente gosto de você. Eu não sei se quero desistir.
 ふわぁ～……なんかハッピーな感じなんですけど～。疲れても、こーいうのなら全然アリ♪=Uau... Sinto-me tão feliz! Embora eu esteja cansado, estou totalmente bem com este tipo de coisa.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 へぇー、アタシをここまでフラフラにさせるなんて……んっ、アンタもなかなかやるじゃん……=Uau, você é realmente bom em me deixar tonto...
 はぁっ……アンタ、なかなかタフじゃん……アタシをこんなにしちゃうなんて……大したもんだよ。=Hmm... Você é tão duro. Estou impressionada que você possa fazer isso comigo.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ちょっとアンタ……ヤリ過ぎだから……はぁ、マジ疲れた……もう付き合ってらんないっつーの。=Você... Você está transando demais... Haha, estou muito cansado... Não quero mais sair com você.
 キモイくせに、スタミナだけはあんのね……んぅ……唯一の才能ってやつ？=Você é assustador, mas tem resistência... Hmm... É esse seu único talento?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あー、もうダメ……全然動けない……今なら、なんでもヤリほーだいだよ？　なんてね♪=Oh, não, eu não posso... Me mover... E agora você pode foder o que quiser, ok? Ohhh.
 これこれ……このヤリ切った感が好きなんだよね～。やっぱさー、ヤルならとことんっしょ♪=É isso... Adoro a sensação de ser fodida. Afinal, se você vai foder, fode com força ♪
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あーこれヤバ……絶対癖になるやつ……こーいう限界までヤっちゃう感じ、好きだな～♪=Ah, isso é perigoso... Este é o tipo de coisa que definitivamente se tornará um hábito... Eu gosto deste tipo de coisa, onde você fode até o limite ~ ♪
 あっは……流石のアタシも限界だわ～……アンタも頑張ったじゃん……少し見直した♪=Ah... Estou no meu limite... Você fez um ótimo trabalho... Estou impressionada ♪

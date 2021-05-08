@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 うーん、また微妙なとこ突いてくるね～。=Hmmm... Você está batendo em um ponto sutil novamente!
 ……コイバナって、そこまで得意じゃないんだよねぇ。=... Não sou muito bom em brincadeiras de brincar.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あー分かる。分かりみが深い。=Ah, eu entendo. É profundo.
 とりま、もうちょい詳しく。=De qualquer forma, um pouco mais de detalhe.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ……で、それをアタシに話して、どう答えて欲しい系？=Então, o que você quer que eu diga quando eu falar com você sobre isso?
 まー人それぞれっしょ。で、話は終わり？=Bem, para cada um deles, eu acho. Então, estamos conversados?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 いや……そんなこと聞かれても困るし。=Não... Você não tem que me perguntar isso.
 あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Oh, passe... Por que eu tenho que falar com você assim?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……へぇ、そういう考え方もあるんだ。=... Uau, essa é uma maneira de pensar sobre isso.
 ……それってさ、アタシに気があるってこと？=Isso significa que você está interessado em mim?

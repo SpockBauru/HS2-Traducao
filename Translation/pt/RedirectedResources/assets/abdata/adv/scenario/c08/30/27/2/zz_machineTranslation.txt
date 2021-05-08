@@ -2,26 +2,26 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 はー、気持ちよかったっすー。でも、私だけイッて終わりでよかったんすかー？=Haha, isso soube bem. Mas, não havia problema se eu apenas viesse e pronto?
 セックスは持ちつ持たれつっすからー代わりに私が頑張っちゃうっすよ～♪=O sexo é uma via de mão dupla, portanto farei o meu melhor em troca.
 やっぱイっちゃうと頭がぼーっとするっすねー。=Afinal, quando eu venho, minha cabeça fica confusa.
-{0}={0}
+//{0}={0}
 あのー、私は気持ちよかったんすけどーあなたはそこまでだったっすかー？=Bem, foi bom para mim, mas foi assim tão bom para você?
 今日は調子悪かったんすかー？　それとも、私がエロくないことしちゃったっすかねー？=Você estava tendo um dia ruim? Ou eu fiz algo que não fosse erótico?
 まさかっすけどー、私をイかさないと大切な人が殺される脅しでも受けてたんすかー？=Eu não acho que sim... Você estava ameaçando matar alguém de quem gosta se não me fizesse gozar?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あなたをイかせる気マンマンだったんでちょっと消化不良っす～、次は容赦しないっすよ～♪=Estou um pouco indigesto porque estava tão determinado em fazer você gozar... Não vou deixar você sair do gancho da próxima vez...
 私だけイイ思いをするのはフェアじゃないんでー次にＨするときはサービスしますよ～。=Não é justo que eu seja o único que se diverte, então eu lhe prestarei um serviço na próxima vez que tivermos sexo.
 く、悔し～っす～。だって、あなたをイカせるのって、ちょ～楽しいしヤり甲斐あるから～……=É tão frustrante! Porque é muito divertido e vale a pena fazer você gozar...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 今日もイかせてくれてありがとーっすー。=Obrigado por me fazer gozar novamente hoje.
 なんか私だけ気持ちよくなっちゃって申し訳ないっすねー。=Lamento que eu seja o único que se sente bem.
 私だけイッちゃったすねー。=Eu sou o único que veio.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 人にイかせてもらうのって最高なんすけどー次はふたりで気持ちよくなれたらいいかなーとー。=É ótimo ter alguém que faça você gozar, mas da próxima vez espero que ambos possamos nos sentir bem.
 あの、私のこともう飽きちゃったっすかー？　頑張るんで捨てないでもらえると助かるっすー。=Hum, você já está cansado de mim? Farei o meu melhor, portanto, se você não me jogar fora, eu agradeceria.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 こ、これって何かのプレイですよね？　だって私だけイってあなたがイってないなんて……=Isto é algum tipo de brincadeira, não é? Se for eu quem vem e você não...
 あなたにイかせてもらうと、心の芯までトロけちゃうっていうか、本当に気持ちいいんです……=Quando você me faz gozar, sinto-me como se estivesse sendo torturado até o meu âmago, é uma sensação muito boa.
 あはは……私だけ乱れすぎですよね？　次は一緒にイけたらいいなって思います……=Hahaha... Sou só eu sendo muito selvagem, certo? Espero que possamos nos reunir na próxima vez...

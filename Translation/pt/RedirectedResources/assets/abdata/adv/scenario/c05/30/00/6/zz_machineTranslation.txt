@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ……そ、そうですね……好きな方に喜んでもらえるのなら……わ、私はいいと思いますけど……=... Bem, sim... Se isso faz a pessoa que você gosta feliz... Uau, eu acho que é bom...
 ……え、えっと……こうやってお話する時間も……そ、そういうことに含まれるんだと思います……=... Bem, hum... O tempo que passamos falando assim... Bem, acho que isso faz parte...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ……な、何気ない会話でも……きっと少しずつ……距離は縮まるのかなって……思ってますよ。=Mesmo que seja apenas uma conversa casual, tenho certeza de que pouco a pouco... A distância entre nós irá encurtar... Acho eu.
 ……好きな人のために何かをしたいという気持ち……じ、実は私……最近になって……よ、ようやく気付いたというか……はぅぅ……=... A sensação de querer fazer algo pela pessoa que se ama... Bem, na verdade, eu... Só recentemente... Bem, acho que finalmente percebi que...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ……も、もしかして……あなたもそんな風に感じてくれてるんですか？　だったら私……すごく……嬉しいです……=Poderia ser... Que você também se sinta assim? Se for esse o caso, estou... Realmente... Feliz...
 ……あ、あまりにひどいことは悲しいですけど……で、でも……エッチなことくらいだったら……えへへ……=... Oh, é triste se é muito terrível... Mas... Se é só sobre sexo... Ehehe...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ……わ、私には……そういう感情はちょっと……分かりませんから……=Eu simplesmente... Não... Não sei... Como... Me sentir.
 ……は……ぅ……ご、ごめんなさい……理解はできますけどっ……きょ、共感は……=Entendo, mas não simpatizo...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……ぜ、全部を無条件で受け入れるというのは……好きって気持ちだけじゃなくて……そ、その……信頼の証というか……はぅぅ……=Aceitar tudo incondicionalmente não é apenas um sentimento de amor, mas também um sinal de confiança.
 ……あ、あなたからそんなこと言ってもらえるなんて……すごく嬉しいし……は、恥ずかしいぃ……えへへっ……ありがとうございます……=... Oh, estou tão feliz em ouvi-lo dizer isso... E estou tão envergonhada... Hehehe... Obrigada...

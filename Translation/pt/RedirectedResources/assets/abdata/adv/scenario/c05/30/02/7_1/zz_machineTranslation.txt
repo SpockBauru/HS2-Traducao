@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+//なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 せ、せめてゆっくりお話出来れば良かったんですが……=Gostaria que tivéssemos pelo menos podido conversar.
 ではまた、時間のある時にでも……=Bem, nos vemos quando eu tiver mais tempo...
-なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+//なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
 つ、次はゆっくりお話出来ると嬉しいです……=Terei prazer em falar com você da próxima vez...
 た、単なる挨拶でしたか……=Foi só uma saudação...
-なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+//なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
 こ、今度また……皆さんでお話しましょうね。=Voltarei a falar com vocês um dia destes.
 次はゆっくり出来そう時に……また声を掛けてもらえると嬉しいです。=Da próxima vez que você puder relaxar... Espero que me chame novamente.
-なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+//なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
 で、では……また……そのうちに……=Então... Vamos... Vamos... Vamos ver.
 きょ、今日のところは……何事もなく終われそう……はふ……=Hoje... Será sem problemas... Haha...
-なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+//なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
 あぁ……せっかく会えたのに……少し寂しいです……=Estou um pouco triste por ter que conhecê-lo...
 あなたとも……色々お話したかったんですが……=Eu tenho querido falar com você sobre algumas coisas, mas...

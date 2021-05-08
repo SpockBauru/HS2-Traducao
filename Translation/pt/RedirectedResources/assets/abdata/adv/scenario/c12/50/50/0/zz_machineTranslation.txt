@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 こんなおしゃれな場所で、何するんだ？=O que você está fazendo neste lugar chique?
 まぁ、お前のことだから、ある程度分かるけどな。=Bem, é você, para que eu possa entender algumas delas.
 俺は、お前がしたいなら、いくらでも付き合うぜ。=Sairei com você o tempo que você quiser.

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 私たち、結婚しちゃったし……やることやっといた方がいいと思うんだけど？=Agora que estamos casados, acho que devemos fazer o que temos que fazer, não acha?
 だから……初夜的なアレだよ……言わなくたって、わかるだろ？=Então... É uma coisa de noite de núpcias... Você não tem que me dizer, sabe?
 とりあえず、やっちゃお？　私、我慢できないから♪=Por que não o fazemos? Eu não aguento isso.

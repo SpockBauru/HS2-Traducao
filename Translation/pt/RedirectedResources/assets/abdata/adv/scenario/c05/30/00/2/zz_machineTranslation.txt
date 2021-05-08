@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 そ、そんなストレートに……でも……い、いいですよ……=Bem, não é tão simples assim... Mas... Sim, está tudo bem...
 は、恥ずかしいですけど……あなたがそう言うのなら……わ、私は構いません。=Ha, estou envergonhado, mas... Se você o diz... Uau, eu não me importo.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 も、もちろん……私の返事はイエスです……えへへ……=Mo, é claro... Minha resposta é sim... Ehehe...
 あ……は、はいっ、喜んでっ……って、ちょ、ちょっと恥ずかしいですね……ふふっ。=É um pouco embaraçoso, não é?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 エッチに誘ってもらえるなんて……嬉しい……はい、早速始めましょう。=Estou tão feliz que você esteja me pedindo para fazer sexo com você... Sim, vamos começar.
 あ……ふふっ、私もちょうどそんな気分……でした……だから……しましょう、エッチ。=Oh... Hehe, eu só estava com vontade... Então... Vamos fazer isso, sexo.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 わ、分かりました……う……受け入れます……=Eu entendo... E aceito...
 うぅ……い、言うことききますから……ひどいことはしないでください……=Farei o que você disser... Mas por favor não faça nada terrível...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あ、あなたがしたいのでしたら……わ、私はいつでも準備万端です。=Oh, se você quiser... Uau, eu estou sempre pronto.
 ふふっ、特に聞かなくても……私はいつだって、あなたとしたいですよ、エッチ……=Hehe, você não precisa pedir... Eu adoraria fazer isso com você, a qualquer hora, sexo...

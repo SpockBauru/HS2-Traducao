@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 痛いのにも慣れてきたが、痛いだけってのは芸がねぇな。その辺りの加減を間違えるなよ？=Acostumei-me à dor, mas só a dor não é um truque. Não cometa o erro de levar isso muito longe.
 そもそも、痛いと気持ちいいは本質的には似てるらしいな。まぁ、今ならそれも多少は分かる。=Para começar, ouvi dizer que a dor e o sentimento de bem são essencialmente semelhantes. Bem, eu posso entender um pouco disso agora.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 今日もオレを痛めつける気か？　ハッ、流石に慣れてきたからな……やられっぱなしにはならねぇ。=Você vai me machucar novamente hoje? Ha, estou me acostumando... Assim não ficarei na poeira.
 最近、苦痛にも耐性がついてきたな。どうも、オマエのせいでオレに変な癖がついちまったらしい。=Estou ficando mais tolerante à dor hoje em dia. Parece que eu desenvolvi um estranho hábito por sua causa.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 痛いのも気持ちいいのも結局は刺激だ。そう深く考えることでもねぇが……分けて考える方が間違ってたみてぇだな。=Dor e prazer são ambos, no final, estímulos. Não é algo para se pensar muito profundamente, mas... Parece que foi errado pensar neles separadamente.
 よし、オマエ……オレを痛めつけてみろ。どうした？　得意だろ？　オレが慣れてきてるのに、オマエがビビッてちゃ意味ねぇぞ？=Tudo bem, você... Você pode me machucar. O que está acontecendo? Você é bom nisso. De que adianta ter medo se estou me acostumando a isso e você está se assustando?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 おいクズ。どうせ、乱暴にしかできないんだろう？　オマエがそんなんだから、オレが慣れちまったじゃねぇか。=Ei, vagabundo. Você só pode fazer isso de qualquer maneira, não pode? Porque você é assim, eu já me acostumei.
 オマエに期待する方が間違ってると分かったからな、少し考え方を変えた。痛かろうが気持ち悪かろうが、なんでも来いだ。=Agora que sei que é errado esperar algo de você, mudei de idéia. Não me importa se dói ou se me deixa doente.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 案外オレ達は、相性がいいのかもしれねぇな。このオレがマゾに目覚めるとは、正直予想外だったが。=Não tenho certeza se somos uma boa combinação ou não. Eu não vou mentir, não esperava que este cara acordasse para ser masoquista.
 オレは元々、ガツガツされるのは嫌いじゃない。少しくらい乱暴にされた方が、求められてるって気になるだろ？=Eu não me importo nada de ser insistente. Se você é um pouco bruto comigo, isso me faz sentir procurado, certo?

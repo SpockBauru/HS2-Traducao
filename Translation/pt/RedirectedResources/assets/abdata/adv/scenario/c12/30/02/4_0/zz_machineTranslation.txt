@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 それじゃあ、これで帰るぜ。=Muito bem, então. Vou embora agora.
 俺たちはこれで帰るから、んじゃ、またな。=Estamos saindo agora. Até mais tarde.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 また良かったら話に付き合ってくれよ、じゃあな。=Você é bem-vindo para vir falar comigo novamente se quiser. Tchau.
 今度は、俺とお前の二人で話してもいいかな……んじゃ、また。=Talvez da próxima vez, você e eu possamos conversar... Então nos veremos.
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 話し終わったし、帰ろうかな……んじゃ、またな。=Agora que conversamos, acho que vou para casa... Até logo.
 三人で話すのも、中々楽しかったな。たまにはこういうのもいいもんだぜ。=Foi muito divertido conversar com vocês três. É bom ter algo assim de vez em quando.
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 じゃ、俺は帰るから。=Bem, estou indo embora.
 もう話も終わったし、これで帰るからな。=Já terminei de falar com você. Estou indo embora agora.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 それじゃあ、俺たちはこれで消えるから。またよろしくな。=Bem, agora estaremos fora. Nos vemos por aí.
 次は話だけじゃなくて、セックスもしたいよな？=Da próxima vez, não vamos apenas conversar, vamos fazer sexo, certo?

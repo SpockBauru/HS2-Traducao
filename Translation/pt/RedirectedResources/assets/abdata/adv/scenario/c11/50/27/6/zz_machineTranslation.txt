@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 とても破廉恥な行為でした……=Foi um ato muito vergonhoso...
 私達のご奉仕で、身も心も満たされたのであれば嬉しく思います。=Esperamos que nosso serviço tenha enchido seu corpo e sua alma de alegria.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 少々複雑な心持ちではありますが、貴方にご満足頂けたという事実の前では些細な事です。=Tenho sentimentos mistos sobre isto, mas eles são insignificantes diante do fato de que você estava satisfeito.
 その……私以外の女性がいることに嫉妬心を抱いておりました……申し訳ございません。=Bem... Eu estava com inveja do fato de que havia outra mulher além de mim... Sinto muito.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 うふふ、私達の連携の前では、流石の貴方もたじたじでしたね。=Hihihi.. Até você ficou um pouco sobrecarregado com nossa parceria.
 次回は彼女との団結をさらに深め、より心地良い絶頂へと導いてみせます。=Da próxima vez, vou me unir ainda mais com ela e levá-la a um clímax mais confortável.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 次は私は抜きでお願い申し上げます。=Da próxima vez, por favor, deixe-me fora disso.
 ……貴方には勿体ないぷれいでしたね。=... Foi bonito demais para você, não foi?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 私も貴方のはぁれむの一員に加えて頂けて、大変光栄です。=Estou muito honrado de fazer parte de seu hareem.
 足を引っ張ってはいなかったでしょうか？　貴方のお役に立つことが出来ていたのなら良いのですが……=Espero não tê-lo arrastado para baixo. Espero ter sido útil para você, mas...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 どれだけ女性を侍らせても、私を孕まして下さるのでしたら問題ございませんよ。=Não me importa quantas mulheres você tem a seu serviço, desde que me impregne.
 うふふ、他の女性もいらっしゃったのでいつもより興奮されていたのですか？　すごい量が出ていましたよ。=Você estava mais entusiasmado do que de costume porque havia outras mulheres lá? Foi uma quantidade enorme.

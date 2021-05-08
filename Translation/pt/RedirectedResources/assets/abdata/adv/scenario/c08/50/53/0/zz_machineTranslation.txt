@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 見ただけで、すごくヌルヌルしてるのが分かるっす……=Só de olhar para ele, você pode ver como é escorregadio...
 これが、今から絡みついてくるんすね？=Isto é o que você está ficando todo emaranhado agora, não é?
 さぁて……どんなエロい事されちゃうんすかねぇ。=Bem... Que tipo de coisas eróticas eles farão comigo?

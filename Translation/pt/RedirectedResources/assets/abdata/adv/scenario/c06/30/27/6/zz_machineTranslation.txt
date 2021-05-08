@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 やはりハーレムというものは、いつの時代でもロマンになり得ますのね……=Afinal de contas, um harém pode ser uma idéia romântica em qualquer idade.
 人によってお射精への導き方が違うのですね……とっても参考になりましたわ……=Pessoas diferentes têm maneiras diferentes de fazer você ejacular... Isso é muito útil...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 まるでふたりの愛が伝わったかのような、幸せそうなお射精でしたわ……=Ele ejaculou tão alegremente, como se pudesse sentir o amor entre nós.
 正直に申し上げますと、競う気持ちを止められませんでしたわ……=Tenho que admitir, não pude me impedir de competir...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ふたりきりの時とは違う快感を得られたようで何よりですわ……♪=Estou feliz que você teve um prazer diferente do que quando estávamos sozinhos juntos.
 あなたの性感を刺激するには最高のふたりだったようですわね……♪=Parece que éramos o par perfeito para estimular sua sexualidade ♪
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 他の方と競い合わせるのはこれっきりにしてくださいまし……=Por favor, não me faça competir com os outros novamente...
 今後、このようなことはお遊びが好きな方々となさってくださいましね……=No futuro, por favor, faça este tipo de coisa com pessoas que gostam de brincar...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ひとりの時とは勝手が違いましたけれど、しっかりとお役目を果たせてほっといたしました……=Foi diferente de quando eu estava sozinho, mas fiquei aliviado por ter conseguido cumprir meu papel...
 相性のいい方でしたから、ふたりで協力してあなたをお射精へと導くことができましたわ……=Você foi um bom partido, então pudemos trabalhar juntos para que você se cumpra...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あなたという人は本当に……うふふ、攻められるのがお好きなのですねぇ……♪=Você realmente gosta de ser atacado, não é?
 ふたりっきりでするときとは違うお顔が見られて……あなたのことが一層愛おしくなりましたわぁ……♪=Ver seu rosto de forma diferente do que quando estávamos sozinhos juntos me fez amar você ainda mais...

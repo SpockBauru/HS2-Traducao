@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ……け、結構大胆な話ですね……=Isso é muito ousado...
 ……あ……ぅ……ちょ、ちょっと……顔が熱くなってきました……=... Oh... Ei... Meu rosto está ficando quente...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ……そ、それは……女の子も同じかなって思います……けど……あっ、いえ、もしかしたら私だけ……かも……=Eu acho que é o mesmo para as garotas... Mas... Oh, não, talvez seja só eu...
 ……そ、それって……あまり普通じゃないような気も……あっ、わ、私はっ……そんなに経験がないから……自信ないですけど……=Bem, isso não parece muito normal... Oh, eu... Eu não tenho muita experiência, então não tenho certeza...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 え、えっと……そういうこと、もしもあなたがしたいのであれば……わ、私も……興味はありますよ？=Bem, hum... Se é isso que você quer fazer... Bem, eu também estou... Interessado, você sabe?
 あ、あなたが悦ぶことなら……もっと詳しく聞かせて欲しいです……=Oh, se é algo que lhe agrada, eu adoraria ouvir mais sobre isso...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ……ま、まさか……そんなことまでしたいなんて……う……ぅ……か、覚悟が必要です……=Não posso acreditar que você queira fazer algo assim... Você precisa estar preparado...
 あ、あの……その話……い、今する必要があるんでしょうか……？=Oh, um... É realmente necessário falar sobre isso agora?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……ほ、他の娘は分かりませんけど……わ、私でしたら……そういうことも……え、えへへ……=Não sei quanto às outras garotas, mas se fosse eu, eu poderia fazer algo assim... Sim, sim...
 あ、あのっ……私で良ければ……あなたが考えているようなこと……いつでも受け入れますよ……？=Oh, um... Se não me importo... O que você está pensando... Estou sempre aberto a isso?

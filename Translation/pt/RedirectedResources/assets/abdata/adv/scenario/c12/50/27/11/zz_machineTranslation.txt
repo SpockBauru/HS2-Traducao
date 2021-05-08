@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 お前と何度も続けたから、セックスにも慣れてきたぜ。=Já fiz isso tantas vezes com você, estou me acostumando a transar com você.
 俺、なんだか今日はいつも以上に気持ち良かった気がするんだけど、Ｈになれてきたかな。=Me senti melhor hoje do que de costume, acho que estou me acostumando com sexo.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 お前のおかげで、身体がセックスに慣れてきたみたいだ。=É como se meu corpo estivesse se acostumando ao sexo graças a você.
 お前とセックスするたびに、身体の相性が良くなっていくみたいだ。=Parece que cada vez que faço sexo com você, nossa química física fica cada vez melhor.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いいセックスだったな。次はもっと楽しめそうだ。=Isso foi bom sexo. Acho que vou gostar mais da próxima vez.
 お前のおかげで、一段とセックスに体が慣れてきたみたいだ。これからはもっと気持ち良くなれそうだ。=Graças a você, acho que meu corpo está ficando mais acostumado ao sexo. Acho que vou me sentir muito melhor de agora em diante.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 セックス、前よりちょっと楽かもな……お前じゃなきゃ、もっといいのに。=Sexo, talvez um pouco mais fácil do que antes... Se não fosse por você, seria melhor.
 セックス自体は嫌いじゃないけど……相手がなぁ……=Eu não me importo com o sexo, mas... O cara...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 どうやら俺、セックスに慣れてきたみたいだ。これからもどんどん開発していってくれよ。=Aparentemente, estou me acostumando a transar. Por favor, continue me desenvolvendo.
 俺の身体が、お前とのセックスを楽しめるようになってきたみたいだ。=É como se meu corpo estivesse começando a gostar de transar com você.

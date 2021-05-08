@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 色々お話できて楽しかったです。貴方のことが、少し分かった気がします。=Foi divertido conversar com você. Sinto que agora o entendo um pouco melhor.
 会話だけでも、大分時間を使ってしまいましたね。ご迷惑ではなかったですか？=Passamos muito tempo apenas conversando, não é mesmo? Espero não lhe ter causado nenhum problema.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 お話、すごく面白かったです。色々と参考になることもありましたし、とても有意義な時間でした。=Gostei muito de sua palestra. Aprendi muitas coisas e foi um momento muito significativo.
 時間が経つのも忘れるとは、こういう事を言うのですね。できればずっと貴方と、お話していたかったです。=Isto é o que significa esquecer a passagem do tempo. Gostaria de ter podido falar com você para sempre.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 お話だけで終わってしまうのは、少し勿体ないですね。やっと身体が、温まってきたところだったのですが……=Seria um pouco vergonhoso apenas falar sobre isso. Meu corpo, finalmente, estava começando a aquecer...
 貴方のお話は、なかなか興味深いものが多かったです。もっと色々、貴方を知りたくなりました。=Muitas de suas histórias foram bastante interessantes. Eu gostaria de saber mais sobre você.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ふぅ……少し肩が凝りました。やはりジっとお話しているだけでは、身体にも良くないようですね。=Hmm... Meus ombros ficaram um pouco rígidos. Afinal de contas, parece que ficar sentado conversando também não é bom para você.
 言いたいことは全部言い切れましたか？　あまり何度もお話したくはないので、未練がましい真似はやめてくださいね。=Você já disse tudo o que queria dizer? Não quero falar sobre isso muitas vezes, portanto, por favor, não tente ser irracional.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あ……もうお話は終わりですか？　少し、残念ですね……まだまだ色々、お話したいと思っていたので……=Oh... Já terminamos de falar? Estou um pouco decepcionado... Porque esperava que pudéssemos falar sobre muitas outras coisas...
 私とお話をして頂いて、ありがとうございました。もし、退屈にさせてしまっていたら……申し訳ございません。=Obrigado por ter tido tempo para falar comigo. Se eu o aborreci... Sinto muito.

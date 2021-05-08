@@ -2,13 +2,13 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 あぁ……あなたから会いに来てくれたなんて……=Não posso acreditar que você veio me ver.
 あなたに会いたいという願い、通じたようですね。=Parece que meu desejo de vê-lo foi atendido.
 嬉しい……あなたと出会えるなんて……♪=Estou tão feliz... Em conhecê-lo ♪
-風呂{0}=Banho {0}
+//風呂{0}=Banho {0}
 あなたもお風呂ですか？　さ、一緒に入りましょう？=Você está tomando um banho também? Vamos lá, vamos entrar juntos, vamos?
 あ……ささ、こちらへ……冷えてしまいますよ？=Oh... Vamos lá, venha aqui... Você vai ficar com frio, ok?
-用件{0}=Negócios {0}
+//用件{0}=Negócios {0}
 さて……あなたのお望みは、勿論私とのセックス……ですよね？=Agora... O que você quer, é claro, é transar comigo... Certo?
 それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=Então vamos nos preparar para transar... Sem diferença, certo?

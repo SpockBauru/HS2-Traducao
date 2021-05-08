@@ -2,29 +2,29 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 本日は私と身体を重ねて頂き、誠に有難う御座いました。とっても素敵なひと時でしたわ、これからもどうぞ宜しくお願い申し上げます。=Muito obrigado por compartilhar seu corpo comigo hoje. Foi um momento muito agradável. Por favor, continue a trabalhar comigo.
 ああ、まだ心臓がドキドキして……これが女としての性を享受することなのですね。=Oh, meu coração ainda bate... E isto é o que você gosta como mulher, não é?
 あなたさえよろしければ、これからも私と共に性のお勉強をさせてくださいまし。=Se você não se importa, por favor, deixe-me continuar a estudar sexo com você.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 夫婦のような甘い営み……素敵な馴れ初め……うふふ、幸せを感じました……=Doce atividade como marido e mulher... Maravilhosa familiaridade... Hihihi, eu me senti tão feliz...
 私たち、きっとよいパートナーになれますわ、これからも何卒よろしくお願いいたします。=Tenho certeza de que seremos bons parceiros, e estou ansioso para trabalhar com vocês.
 はぁ……身体だけではなく心も重なったような安心感を覚えましたわ。この出会いは運命なのかもしれません、これからもふたりの仲を深めてまいりましょう。=Senti uma sensação de segurança como se nossos corpos, assim como nossos corações, fossem um só. Talvez este encontro tenha sido o destino, e continuaremos a aprofundar nosso relacionamento.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いけませんわ、あなたの喜ぶ顔を見ていましたら、つい笑みがこぼれてしまいました♪=Não posso evitar, não pude deixar de sorrir quando vi como você estava feliz.
 私たち、もっとたくさん気持ちよくなれますわ、今後とも宜しくお願いいたします♪=Podemos fazer você se sentir muito melhor. Obrigado por seu apoio contínuo.
 ああ、なんて……なんて甘美な快感……これが私の求めていたセックスですわ♪=Ohhh, que doce prazer, este é o sexo que eu estava procurando.
 でもまだまだ楽しみ足りませんわ、享楽の限りを尽くせるよう、もっと歩み寄りましょう、ふふふ♪=Mas não estamos nos divertindo o suficiente. Vamos nos aproximar para que possamos nos divertir o máximo que pudermos.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 あなたに、私を犯す権利がどこにあるのでしょうか……=Que direito você tem de me foder...
 やはり、無理にでも断っておくべきでした……あなたは最低な方です……=Eu sabia que deveria ter me forçado a dizer não... Você é um idiota...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたとは初めて身体を重ねるのに、私……もう骨抜きになってしまいましたわ。これっきりなんて耐えられません、また誘って頂けますか？=Você é a primeira pessoa com quem eu fiz amor, e eu estou... Desossado. Não aguento ver você novamente. Você vai me convidar para sair novamente?
 私、何か開いてはいけない扉を開いてしまったような気がいたします。もう後戻りはできませんがあなたとなら構いません、これからも私を導いてくださいまし。=Sinto como se tivesse aberto uma porta que não deveria ter aberto. Não posso voltar, mas não me importo se estiver com você, por favor, continue a me guiar.
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 なん、て……こと……=O que... É... Isso...
 ひ、酷、い……です、わ……=É... É... É horrível.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 性を以て性を屈服させる……はぁ、堪りませんわぁ……♪=Ajoelhar o sexo com sexo... Haha, eu não aguento...
 あなたも私のような女性を探していらしたのでしょ、もう不便はさせませんから、ご安心くださいな♪=Eu sei que você tem procurado uma mulher como eu, e não vou incomodá-lo novamente.
 ああ、やはりあなたは運命のパートナー様ですわぁ……♪　これからもめくるめく官能の世界を私と共に味わってまいりましょう♪=Ah, você é o parceiro dos meus sonhos... Vamos continuar a desfrutar juntos do mundo da sensualidade...

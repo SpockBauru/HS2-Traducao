@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 あら……そうですか？　また、何かありましたら、お気軽に声をかけてくださいね。=Ah... É verdade? Se houver mais alguma coisa que eu possa fazer por você, sinta-se à vontade para me ligar.
 ふふ、おかしな人ですね。私、からかわれてしまいましたか？　なんて……怒っているわけではありませんので、安心してください。=Hehe, você é um cara engraçado. Eu fiz pouco de você? Como... Eu não estou com raiva, então por favor não se preocupe.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 私の考え過ぎかもしれませんが……何か私に出来ることがあれば、また話しかけてください。=Talvez eu esteja pensando demais... Mas se houver algo que eu possa fazer para ajudar, por favor, fale comigo novamente.
 そうですか……お話だけでもと思ったのですが……いえ、なんでもありません。=Bem... Pensei que podíamos apenas conversar... Não, não é nada.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あら、フラれてしまいましたか。いいお相手が見つからなかったら……私はいつでも待っていますよ。=Ah, então você foi rejeitado. Se você não encontrar uma boa combinação, estou sempre esperando por você.
 なんでもないは……寂しいですね。いえ、私が勝手に期待していただけなので……気にしないでください。=Nada é... Triste, não é? Não, eu estava apenas esperando por mim mesmo... Então, por favor, não se preocupe com isso.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ……冷やかしはお断りです。本当に貴方という人は……不愉快です。=Huh, não quero me acalmar. Você é realmente... Desagradável.
 私をおちょくって楽しいですか？　随分素敵な趣味をお持ちのようで……理解は一切できませんが。=Você gosta de me divertir? Você parece ter um hobby muito bom... Que eu não entendo de todo.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 えっと、本当に何も用は無い……ということでいいのですよね？　ふ、フリなどは……正直よく分からないので……=Bem, eu realmente não tenho nada a ver com você, tenho? Para ser honesto, não sei muito sobre fingir, então...
 う……私は用無しですか？　冷たく扱われるのには慣れているつもりでしたが……少し、切ないですね。=Umm... Você não tem nenhum uso para mim? Eu pensava que estava acostumado a ser tratado friamente, mas... É um pouco, triste.

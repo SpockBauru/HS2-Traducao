@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 え、ええ、それではまた。=Sim, nos vemos então.
 お、お話出来て嬉しかったです。=Oh, foi um prazer conversar com você.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 た、楽しいお話を……ありがとうございました。=Muito obrigado pela história divertida...
 ま、またっ……いつでも声をかけてくださいね。=Bem, espere... Você sempre pode me chamar.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 色々なことを聞けて……すごく参考になりました……あなたとのお話、楽しいです……=Ouvi muitas coisas... Que me ajudaram muito... E gosto de falar com você...
 あ……えっと……今度はもっと……突っ込んだ内容なんかもお話出来ると嬉しいです。=Oh... Bem... Eu ficaria feliz em falar sobre coisas mais profundas na próxima vez.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 そ、それでは私はこれで……失礼します……=Bem, agora vou andando... Se me derem licença...
 う……ぅ……こ、怖かった……あっ、いえ、何でもありませんっ……では……=Eu estava assustado... Não, não é nada... Então...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あ……楽しい時間はあっと言う間に過ぎちゃいますね……残念……=Ah... Os tempos de diversão passam tão rápido... Pena...
 こ、今度時間がある時には……もっとゆっくりお話してください。=Da próxima vez que você tiver tempo... Por favor, fale comigo mais devagar.

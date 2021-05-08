@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 はー、最初はちょっと緊張したけど、最後はもう、なんか仲良しだったね♪=Eu estava um pouco nervoso no início, mas no final, éramos realmente bons amigos.
 うん、三人でするのも、わりとアリなんじゃん？　アタシはそう思った。=Sim, nós três podemos fazer isso juntos, certo? Foi o que eu pensei.
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 あは、もーちょっと恥ずかしくて体が動かないーとかあるかと思ったけど……そーでもなかったね♪=Pensei que talvez você estivesse um pouco envergonhado demais para se mexer, mas não está.
 始めちゃえば、結局まぁまぁ良かったね。常識的には、ちょっとヤバめだけど。=Uma vez que começamos, acabou sendo muito bom. O bom senso me diz que é um pouco confuso.
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 いやー、三人もいいじゃん♪　アタシ的には全然アリよりのアリ！=Ahh, em três é bom ♪ Eu estou mais do que bem com isso!
 あはっ、みんなでアンアン言って。なんか思い出すと可笑しくなってきちゃった♪=Haha, todos nós dissemos um an. É tão engraçado de se pensar.
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 邪魔者が一人いたからねぇ……それさえなければなぁ……=Havia uma pessoa no caminho... Se não fosse por isso...
 なんか、チラチラうざい顔が見えて……あんま集中できなかったかも。=Eu realmente não conseguia me concentrar porque continuava a ter vislumbres de rostos irritantes.
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 これは……わりとアリなのでは？　一対一が基本てのも、別に誰が決めたわけでも無いしね。=Isto não é... Uma boa idéia? Não é como se alguém tivesse decidido que é basicamente um a um.
 あー、こうやって……乱交とかにハマってくのかなぁ。やばい扉開けちゃった気がする♪=Será que é assim que eu entrarei em orgias e coisas assim? Acho que abri uma porta perigosa.

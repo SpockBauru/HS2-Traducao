@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 はぁぁ……すご、い……えっち、なっちゃったぁ……♪=Ohhh, estou ficando quente...
 あ、は……これ……せかい、ぐるぐる……あはぁ……♪=Ah, ha... Isto... É... O... Mundo... Ah... O mundo... Ah...

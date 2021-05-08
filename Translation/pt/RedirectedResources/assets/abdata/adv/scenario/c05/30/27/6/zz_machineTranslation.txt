@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ほ、他の女の子がいると……私はちょっと緊張しましたけど……あなたはさすがです……=As outras garotas... Me deixaram um pouco nervosa... Mas você é tão boa...
 他の女の子も一緒に相手しちゃうなんて……あなたって本当に逞しいんですね……=Não posso acreditar que você enfrentaria outra garota com você... Você é tão duro...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 他の娘と一緒にあなたへご奉仕できたこと、すごく嬉しいです。いっぱい感じてもらえましたか？=Foi um grande prazer servi-lo com as outras garotas. Você o sentiu muito?
 私たちの思い、きちんと伝わりました？　あなたが気持ち良くなってくれたのなら、それが一番です。=Transmitimos nossos sentimentos corretamente? Se você se sente bem, isso é o melhor.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 沢山の女の子としたいだなんて……あなた、エッチなんですね……でも……私も興奮しちゃいました……=Não acredito que você queira fazer isso com tantas garotas... Você é tão levado... Mas... Isso me excita também...
 女の子いっぱい呼んでのエッチ……やっぱりあなたもそういうのが好きなんですね、ふふっ。=Tenho certeza que você gosta de fazer sexo com muitas garotas... Afinal, você também gosta desse tipo de coisa, hein?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 他の娘と一緒にするエッチなんて……やっぱりアブノーマルだと思います……はぅぅ……=Acho que o sexo com outra garota... Ainda é anormal... Hahaha...
 他の娘が気になって、私はあまり……あ、ごめんなさいっ、文句を言ってるわけじゃないんですっ、怒らないでっ……=Eu estava tão preocupado com as outras garotas que não... Oh, desculpe, não estou reclamando, não fique bravo...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 途中から他の娘に負けたくなくて……いつも以上にご奉仕頑張っちゃいました……気付きましたか？=Na metade do caminho, eu não queria perder para as outras garotas... Então fiz o meu melhor para servi-las ainda mais do que o normal... Você notou?
 他の娘もいましたけど……その……出来れば、私で一番感じてもらえたら……嬉しいです……=Havia outras garotas, mas... Bem... Se eu pudesse, ficaria feliz se você se sentisse o melhor comigo...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ご主人様、今日も沢山おちんぽ汁出せましたかぁ？　もしかして、あの子も私みたいに躾けちゃう気じゃない……ですよね？=Mestre, você fez muito suco de pinto hoje? Você não vai discipliná-la como eu fiz, vai?
 ご主人様のおちんぽ汁は……私が独り占めしたいのに……なんて、駄犬の分際でそんなおこがましいこと考えちゃダメですよね、ごめんなさい……=Eu gostaria de ter o suco de pinto do dono só para mim, mas sou um cão mimado, não deveria estar pensando em coisas tão impertinentes, desculpe.

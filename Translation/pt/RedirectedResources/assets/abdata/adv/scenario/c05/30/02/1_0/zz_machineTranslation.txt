@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 あ……こ、こんにちは。=Oh... Olá aí.
 あ、ちょうどいいところに……=Mesmo a tempo...
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 ふふっ、こんにちは。=Phew, olá.
 こんなところであなたに会えるなんて。=Não posso acreditar que estou me encontrando com você aqui.
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 今、ちょうど盛り上がっていたところですよ。=Eu estava ficando entusiasmado com isso.
 誰か探していましたか？=Você tem procurado alguém?
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 あ……あなた……ですか……=Oh... Você... É você...
 い、今……ちょっとお話してたんです……=Eu estava apenas... Apenas falando com você...
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 ふふっ、会えて嬉しいです。=É um prazer vê-lo.
 偶然通りがかったんですか？=Você acabou de passar por aqui?

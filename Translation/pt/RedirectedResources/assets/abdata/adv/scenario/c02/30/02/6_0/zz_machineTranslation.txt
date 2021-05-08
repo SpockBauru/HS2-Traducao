@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 ふぅ、これで満足ですか？=Você está feliz agora?
 二人を相手して、どうでしたかね？=Como isso foi contra vocês dois?
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 ……で、もちろん私の方が気持ちよかったですよね？=... Então, é claro, eu me senti melhor, não foi?
 私、頑張ったつもりですけど……どうでしたか？=Pensei ter dado o meu melhor, mas... Como foi?
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 さて、両手に花でしたが、如何でしたか？=Bem, era uma flor em cada mão. Como era?
 楽しい一時もここまで、でしょうかね？=Tanto por um bom tempo, hein?
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 はぁ、無駄に疲れましたね……=Huh, você está cansado por nada...
 もう、いいですよね……？=Já terminamos com o?
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 やはり目の前で感じてる人がいると、それに引っ張られますね……=Afinal, quando você vê alguém sentindo isso bem na sua frente, ele o puxa para dentro...
 私の淫れた姿、二人の目にはどう映りましたかね？=Como você acha que eles me viram em minha lascívia?

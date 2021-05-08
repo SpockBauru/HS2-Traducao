@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 へ？　それは誠のお話なのですか？　驚きです……=Heh? Isso é uma história sincera? Estou surpreso...
 ……人それぞれですね。私にはない発想でした。=... Para cada um, eu acho. Não era uma idéia que eu tivesse.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ……わ、私に出来るかは分かりませんが、参考に致しますっ。=... Não sei se posso fazer isso, mas vou me referir a isso.
 うふふ……貴方のそういった所を、私は特に尊敬しております。=Eu admiro especialmente isso em você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 そうなのですか？　私達の相性はばっちりですね。=É verdade? Somos uma combinação perfeita.
 それは驚きですね……ですが、いつか試してみたい思いもあります。=Isso é incrível... Mas eu tenho o desejo de tentar um dia.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ……もう少々、ゆっくり話して頂けませんか？=Poderíamos falar um pouco mais devagar, por favor?
 何事も、程度というものがございます。それを学ばない限り、貴方に成長はありません。=Há um grau para tudo. A menos que você aprenda, você não vai crescer.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 えっと……私は、違う箇所があるからこそ、惹かれるのだと思います。=Um... Acho que me sinto atraído por eles por causa das diferentes partes.
 ……そういった際は、一度心を落ち着けるのが有効かと思います。気持ちが逸ったままでは上手くいきませんから。=... Nesses casos, acho que é útil acalmar uma vez. Não vai funcionar se você não estiver no estado de espírito correto.

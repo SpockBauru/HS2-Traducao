@@ -3,7 +3,7 @@
 //***********************************************************************
 
 自分の部屋より、あなたのお部屋の方が落ち着くんです。……これからも、私を傍においていただけますか？=Eu me sinto mais em casa em seu quarto do que em meu próprio... Você continuará me mantendo ao seu lado?
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 女が好きな方の元へ訪れたのですから、セックスをするのは自明のことですね。=Como você visitou aquela que gosta de mulheres, é óbvio que você terá relações sexuais com ela.
 このまま一日中情事に耽りたいのですが……我儘を言ってはいけませんね。=Quero me entregar a um caso como este o dia todo... Mas não deveria ser egoísta.
 ありがとうございました。これ以上お傍にいたら、益々離れがたくなるので、これで失礼致します。=Muito obrigado. Se eu ficar mais tempo ao seu lado, será cada vez mais difícil partir, portanto, vou deixá-lo agora.

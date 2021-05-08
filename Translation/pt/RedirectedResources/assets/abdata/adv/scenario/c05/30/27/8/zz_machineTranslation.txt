@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 こ、今回は……これで終わりでいいんですか……？=Desta vez... Este é o fim, certo?
 あ、あの……特に何もしませんでしたけど……本当に良かったんですか……？=Oh, um... Você não fez nada em particular, mas... Você tem certeza de que estava tudo bem?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 こ、こんな感じで止めるって……もしかして……わ、私に何か至らないところがありましたか……？=Você está me impedindo assim... Poderia ser... Há algo que eu não esteja fazendo direito?
 あ、あの……出来れば次は……その……い、色々……して欲しいです……=Oh, um... Se eu pudesse, da próxima vez... Bem, eu gostaria que você... Fizesse muitas coisas...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 これって……もしかしてお預け調教みたいな感じ……なんでしょうか……？=Isto poderia ser... Como se fosse um treinamento para mim?
 こ、今回も色んなことが出来ると思ってたんですが……=Pensei que poderíamos fazer muitas coisas desta vez, mas...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ほ、本当に……今回はもう終わりで良いんですか……もしかして怒ってたりしませんか……？=Você tem certeza de que não quer terminar desta vez... Ou está com raiva?
 こ、こんな風に終わられると……ちょっと不安……です……本当にいいんでしょうか……？=Estou um pouco nervoso para terminar assim... Você tem certeza de que quer fazer isso?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あ、あなたが何もしたくないのなら……私はそれで……はぅぅ……=Oh, se você não quer nada com isso... Então eu... Haha...
 も、もしかして……こうやって何もしないのも何かのプレイ……なんでしょうか？=Poderia ser... Que não fazer nada como isto é algum tipo de brincadeira?
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ご、ご主人様ぁ……駄犬のおまんこは準備万端でしたのに……お預けだなんてひどくないですか……？=Ahh, mestre... A boceta do cão estava pronta para ir... Não é horrível que você o deixe aqui?
 うぅぅ、ご主人様は時々、こういう意地悪をしますよね……でも……し、躾なら仕方ないです……私のおまんこ、もうぬるぬるなのにぃ……=Ugh, Mestre às vezes é mau assim... Mas... Não pode ser ajudado se for disciplina... Minha buceta já está molhada...

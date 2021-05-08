@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いいね。大分オレ好みの部屋だ。形から入るのは全然悪くねぇ……=É legal. Eu gosto muito desta sala. Não é ruim começar do início...
 んで、どうせオマエはオレに苛められたいんだろう？=E você quer que eu o atormente de qualquer maneira, não é mesmo?
 まさかオレを苛めたいなんて生意気なことは……言わねぇよなぁ？=Você não seria tão arrogante... A ponto de querer me atormentar, não é mesmo?

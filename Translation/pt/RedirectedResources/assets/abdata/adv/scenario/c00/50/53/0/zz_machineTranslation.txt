@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ……触手が、首を長くして私を待っている様ですね。=... Parece que os tentáculos estão me esperando com pescoços longos.
 うようよと私の身体を這って、ひたすら責め立ててくる……想像しただけで背筋がゾクゾクします。=Ele rastejou sobre meu corpo e continuou me acusando... Só de pensar nisso, minha coluna vertebral fica formigando.
 そんな私を見て、あなたは興奮されるのですね？　……私もあなたも、どうしようもない変態の様です。=Ao me ver assim, você fica empolgado, não é mesmo? Você e eu parecemos ambos ser pervertidos indefesos.

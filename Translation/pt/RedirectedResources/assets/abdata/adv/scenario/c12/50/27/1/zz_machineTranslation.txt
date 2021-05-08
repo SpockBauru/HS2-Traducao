@@ -2,27 +2,27 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 あれ？　なんだよ、もう終りなのか？=O que é isso? O que, é o fim da linha?
 お前だけ満足したみたいだな……まぁ、いいけど。=Parece que você é o único que está satisfeito... Bem, você sabe.
 なんだよ。これで終わりだなんてすげぇ物足りないぜ……=Mas que diabos? Não posso acreditar que este é o fim...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 俺の身体で気持ちよくなってくれたなら、俺も嬉しいよ。=Se você se sente bem em meu corpo, fico feliz por você.
 お前が俺で感じてくれたなら……それだけで充分だぜ。=Se você pudesse sentir isso em mim... É tudo o que eu preciso.
 良かった。お前に喜んでもらえるよう、これからもがんばるぜ。=Bom. Continuarei trabalhando duro para fazer você feliz.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 なんだよ、お前だけしかイってないじゃん。俺ももっと気持ち良くなりたかったぜ。=O quê? Você é o único que veio. Eu gostaria de ter me sentido melhor.
 お前さぁ、俺で感じすぎなんじゃないのか？　まぁ、いいけどな。=Sabe, acho que você está sentindo muito por mim. Bem, eu não me importo.
 次は絶対一緒に気持ち良くなろうぜ。=Da próxima vez, definitivamente nos sentiremos melhor juntos.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 イケて良かったな、俺も疲れなくて良かったよ。=Ainda bem que você conseguiu. Ainda bem que eu não estou muito cansado.
 お前が射精したかっただけなら、別に俺はいなくてもよかったんじゃないのか？=Se tudo o que você queria fazer era ejacular, você não precisava que eu estivesse lá, precisava?
 自分だけいって終わりなら、次からは一人でやってくれよ。=Se for só você e estiver acabado, estará por sua conta da próxima vez.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 なんだ、俺はまだだったんだけど……お前がいったならそれでいいかな。=Bem, eu ainda não estava lá, mas... Se você estivesse, tudo bem.
 今回いけなかった分、次は思いっきり感じさせてもらうからな？=Se eu não conseguir desta vez, farei você sentir da próxima vez, está bem?
 自分だけ満足して終わるなんて……結構いじわるなんだな。=Não posso acreditar que você acabou ficando satisfeito consigo mesmo... Você é uma provocadora, não é?
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 お前をいかせられるなんて、最高に盛り上がったぜ。=Foi uma explosão que fez com que você viesse.
 お前にいってもらって、すげぇ嬉しいよ。俺は大満足だぜ。=Estou tão feliz que você tenha dito isso. Estou muito feliz.
 お前が射精したくなったら、いつでも俺が手伝ってやるからな。=Se alguma vez você precisar ejacular, estou sempre aqui para ajudar.

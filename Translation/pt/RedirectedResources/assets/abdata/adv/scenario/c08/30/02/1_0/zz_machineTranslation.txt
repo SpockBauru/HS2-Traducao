@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 そうっすねー、私は～……あ、どもっすー。=Isso mesmo, estou... Ah, olá.
 まー深く考えてるつもりはないんすけどー……あー、知ってる顔だと思ったらあなたっすかー。=Bem, eu não quero pensar muito nisso, mas... Oh, eu pensei que o conhecia.
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 なんだかんだ無視できない話っすよねー……おっ、噂をすれば～。=É uma história que não pode ser ignorada por algum motivo...
 いやーこれは大事な話っすよー……っとー主役の登場っすねー。=Bem, esta é uma história importante... O personagem principal está aqui...
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 //もう性癖の問題っすよねー……あっ、いいところも来たっすねー。=Já é uma questão de sexualidade... Oh, você também veio ao lugar certo.
 //ちょっと話題が過激すぎたっすかねー？　ありゃ、こんなところまでどうしたんすかー？=O tema foi um pouco extremo demais? O que há de errado com você?
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 あんま考えたくないすけどー……あー……こんちはーっす。=Eu realmente não quero pensar sobre isso, mas... Uh... Olá.
 コメントしづらいんすけどー……おっと……っすー。=Estou tendo dificuldade em comentar isso... Oops... Soooo...
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 なーんか濡れてきちゃったんすけどー♪　あ……今の聞こえちゃったっすか？=Estou começando a ficar molhado... Você ouviu o que eu acabei de dizer?
 てかこんな話して引いてないすかー？　おおっ、おつかれさまっすー。=Quero dizer, você não está me afastando falando assim? Oh, boa noite!

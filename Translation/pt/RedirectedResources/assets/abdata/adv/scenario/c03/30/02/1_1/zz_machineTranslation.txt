@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelúdio B normal {0}
+//前フリB普通{0}=Prelúdio B normal {0}
 あれ、お前たち、仲良かったの？=Oh, vocês eram próximos, hein?
 ３人で話そっか。=Vamos falar em particular.
-前フリB好意{0}=Prelúdio B Favor {0}
+//前フリB好意{0}=Prelúdio B Favor {0}
 どもども、私もいるよー♪　お忘れなくー。=Olá, eu também estou aqui ♪ Não se esqueça ♪
 もしかしてふたりとも、仲いい感じ？=Vocês dois parecem estar se entendendo?
-前フリB享楽{0}=Prelúdio B Kyouraku {0}
+//前フリB享楽{0}=Prelúdio B Kyouraku {0}
 ３Ｐ、じゃなくて、３人で話そっか♪=Não, não, não. Vamos apenas conversar.
 おー、賑やかになってきた。いいねいいね♪=Oh, está ficando lotado. Nice. Nice. ♪
-前フリB嫌悪{0}=Prelúdio B Disgust {0}
+//前フリB嫌悪{0}=Prelúdio B Disgust {0}
 えー、お前はお呼びじゃないんだけどなぁ……=Eh, você não é procurado aqui...
 なに？　このまま私達に混ざる気？　図々しい。=O quê? Você vai se juntar a nós? Não seja um boceta.
-前フリB隷属{0}=Prelúdio B Escravo {0}
+//前フリB隷属{0}=Prelúdio B Escravo {0}
 やっほー、私のこともちゃんと構ってくれたら嬉しいな……=Sim, eu adoraria se você também cuidasse de mim...
 あ、３Ｐしにきたの……？=Oh, você está aqui para uma ménage à trois?

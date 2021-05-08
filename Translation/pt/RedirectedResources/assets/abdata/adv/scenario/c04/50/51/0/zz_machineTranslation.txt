@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 うーわ、なにこの部屋。ちょっとマニアック過ぎない？=Uau, que sala. Não é um pouco maníaco demais?
 え、なに？　まさかアタシ……チョーキョーされちゃう？　そういうパティーン？=O quê? Não me diga que eu vou ficar engasgado? Algo assim?
 それとも～、アタシにチョーキョーして欲しいの？　そっちなら全然アリよりのアリなんだけど♪=Ou você quer que eu faça isso por você? Se for esse o caso, estou mais do que de acordo com isso.

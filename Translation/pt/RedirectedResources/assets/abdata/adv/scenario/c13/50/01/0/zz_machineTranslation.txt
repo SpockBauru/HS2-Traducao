@@ -2,13 +2,13 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 あなたのこと……ずぅっとずぅっと……待ってましたよ……♪=Tenho esperado por você... Por tanto tempo... Por tanto tempo...
 今まではあなたの自由な時間……これからは私とあなただけの自由な時間、です……♪=Tem sido seu tempo livre... E agora é só você e eu, tempo livre...
 今日も産毛の一本に至るまで、あなたを愛して愛して、愛し尽くしています……♪=Eu te amo e te amo e te amo até o último cabelo em sua cabeça hoje...
-風呂{0}=Banho {0}
+//風呂{0}=Banho {0}
 うふふ……♪　偶然だと思いますか……？　私がお風呂にいることが、ですよ……♪=♪ Você acha que é uma coincidência? Que eu estou no banho ♪
 今この瞬間、このお風呂以外の世界が滅亡しちゃえばいいんですけど……♪=Se apenas o mundo fora deste banho pudesse ser destruído neste exato momento ♪
-用件{0}=Negócios {0}
+//用件{0}=Negócios {0}
 あなたの用件知ってます……♪　心臓の音と目線、それに汗のかき方と、私との将来の赤ちゃんのもとを大事にしまってある場所の大きさで……♪=Eu sei o que você quer ♪ pelo som do seu coração e pela maneira como você olha para mim e pela maneira como você transpira e pelo tamanho do lugar onde você mantém comigo a fonte do seu futuro bebê ♪
 それじゃああえて聞いちゃいますね……♪　私に何か、用事ですか……？=Então vou lhe perguntar... Há alguma coisa que você queira de mim?

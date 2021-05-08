@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ふぅ、触手最高っす……気持ちよかったすよぉ。=Os tentáculos são os melhores... Eles se sentiram tão bem.
 もう、持って帰りたくなるくらいっすー。=Eu só quero levá-lo para casa comigo!
 触手って、本当にエロくって最高っすねぇ。=Os tentáculos são realmente eróticos e incríveis.

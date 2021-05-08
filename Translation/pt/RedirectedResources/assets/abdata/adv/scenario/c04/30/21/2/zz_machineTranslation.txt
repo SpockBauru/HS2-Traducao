@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 は？　本気で言ってんの？　そんなん許されないから！=O que é isso? Você está falando sério? Não posso deixar você fazer isso!
 ふーん、自分の立場が分かってないんだ？　これもう、躾けとかじゃなくて、おしおき決定だねっ！=Você não sabe o que está fazendo, não é mesmo? Isto não é mais disciplina, é um espancamento!
 逃げ出した=Ele escapou.

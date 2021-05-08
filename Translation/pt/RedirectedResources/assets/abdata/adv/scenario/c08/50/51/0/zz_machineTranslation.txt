@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 動けないんすか？　大丈夫っすか？=Você não pode se mover? Você está bem?
 結構がっちり固定されちゃってるっすねー……=Está muito bem fixado...
 分かってると思うんすけど……楽しませてもらうっすねー♪=Você sabe que eu vou gostar disto.

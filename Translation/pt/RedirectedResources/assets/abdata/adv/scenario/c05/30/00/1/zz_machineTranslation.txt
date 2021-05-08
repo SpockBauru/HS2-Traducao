@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ど、どんなお話をしますか……？=Sobre o que você quer falar?
 わ、私に分かるお話だといいのですが……=Espero que essa seja uma história que eu possa entender...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あ、あなたとお話……どんなことを話しましょう？=Oh, eu vou falar com você sobre... Sobre o que vamos falar?
 き、聞きたいこととかあれば、何でもどうぞ。=Se você tiver alguma pergunta, sinta-se à vontade para fazer.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ふふっ、一体どんなことを聞かれるんでしょう……？=Hehe, que tipo de perguntas eles me farão?
 もしかして……私のことで知りたいこととかありますか？=Há... Há alguma coisa que você queira saber sobre mim?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 い、一体何の話をするつもり……ですか……？=De que diabos você vai falar?
 あ、あなたとお話なんて……ど、どんなことを話すんだろう……？=Oh, não acredito que estou falando com você... Sobre o que você acha que vamos falar?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ふふっ、何を話ましょう？　あなたとのお話……それだけで嬉しいです。=Hehe, o que posso lhe dizer? Uma história com você... É tudo o que tenho o prazer de dizer.
 ど、どんな話題が好き……でしょうか……？=Sobre que tipo de assuntos você gosta de falar?

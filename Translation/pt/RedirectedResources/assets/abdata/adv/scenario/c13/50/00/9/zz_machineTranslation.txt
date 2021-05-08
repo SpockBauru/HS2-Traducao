@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 あの……もしよかったら、このまま……しませんか……？=Um... Se você não se importa, por que nós não... Fazemos isso?
 その……あなたとお話してたら、ムズムズしてきて……はしたなくてごめんなさい、時間があればでいいんです……=Bem, eu estava conversando com você e fiquei todo mole e sinto muito por ser tão petulante, mas se você tiver tempo...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あの、これからエッチしますか……？　ごめんなさい、不安になっちゃって、私から聞いちゃいました……=Hum, você quer fazer sexo agora? Desculpe, fiquei ansioso, então perguntei...
 お話してるだけで、あなたを好きな気持ちが抑えられなくなっちゃいました……お願いです、私とひとつになってください……=Só por falar com você, não pude deixar de gostar de você... Por favor, torne-se um comigo...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あなたの声が性感帯に響いて……うふふ、ここからは快楽の時間にしませんか……？=Sua voz ecoa na minha zona sexual... Hihihi, vamos fazer com que a partir daqui seja um prazer?
 うふふ、もう私のアソコがぬるぬるになっているの……あなたなら気づいてますよね……しませんか……？=Ummm, minha boceta já está ficando molhada... Você já notou... Você não?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 あの……間が持たないので、エッチ……してもいいですか……？　あなたが、嫌なら、いいですけど……=Um... Já que estamos ficando sem tempo, posso... Posso transar com você? Se você não quiser, tudo bem, mas...
 お話が全然だめだったので……お詫びに、エッチしますか……？　気持ちよくは、ないとは思いますけど……=Eu não tive a oportunidade de falar com você, então... Você gostaria de fazer sexo comigo como um pedido de desculpas? Eu sei que não vai ser bom, mas...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 お話の途中、ずっと合図を送ってたの気付いてました……？　いっぱい犯してほしいの合図です……=Você notou que eu continuei dando pistas durante nossa conversa... Eu estava sinalizando que queria que você me fodesse com força...
 もう限界です……私の身体、あなたの命令を求めちゃってます……エッチしてください……=Estou no meu limite... Meu corpo está implorando por suas ordens... Por favor, me foda...

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelúdio B normal {0}
+//前フリB普通{0}=Prelúdio B normal {0}
 どうしたんだ？　誰か探してんのか？=Qual é o seu problema? Você está procurando por alguém?
 俺たちに何か用でもあるのか？=O que você quer de nós?
-前フリB好意{0}=Prelúdio B Favor {0}
+//前フリB好意{0}=Prelúdio B Favor {0}
 よぉ、良かったら、お前も話していかないか？=Ei, se quiser, pode falar comigo também.
 どうかしたのか？　俺で良かったら話ぐらい聞くけど……ま、もう一人いるけどな。=O que há de errado com você? Se estiver tudo bem com você, eu pelo menos o ouvirei... Mas há outro cara.
-前フリB享楽{0}=Prelúdio B Kyouraku {0}
+//前フリB享楽{0}=Prelúdio B Kyouraku {0}
 俺たちになんか用か？　まぁ、何となく察しはつくけどな。=O que você quer de nós? Bem, eu acho que tenho uma idéia muito boa.
 俺たち相手に、何かするつもりか？　楽しみにしていいんだろうな。=O que você vai fazer contra nós? Acho que podemos esperar ansiosamente por isso.
-前フリB嫌悪{0}=Prelúdio B Disgust {0}
+//前フリB嫌悪{0}=Prelúdio B Disgust {0}
 お前が来たなら、もう終りにしようかな。=Se você está aqui, eu vou acabar com isto.
 特に用がないなら、もう行っていいぞ。=Se você não tem nada em particular, você pode ir agora.
-前フリB隷属{0}=Prelúdio B Escravo {0}
+//前フリB隷属{0}=Prelúdio B Escravo {0}
 俺たちに遊んでもらいたいんだな？　俺は問題ないぜ。=Você quer que brinquemos com você? Eu não tenho nenhum problema com isso.
 お前が望むんだったら、仲間に入れてやるぞ？=Eu me juntarei a você se você quiser, está bem?

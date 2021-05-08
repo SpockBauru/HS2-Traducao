@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 新婚初夜って、素敵ですね……=É uma bela primeira noite para um recém-casado...
 早く……家族を増やしていきたいです。=Mal posso esperar... Para expandir minha família.
 素敵な初夜でしたね……=Foi uma bela noite de núpcias...

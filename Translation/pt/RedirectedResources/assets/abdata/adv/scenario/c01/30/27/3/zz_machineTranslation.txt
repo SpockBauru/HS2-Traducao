@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 今のエッチは、ちょっときつかったわね……=Isso foi um sexo duro...
 今みたいなエッチは、もう勘弁してほしいわ。ちょっときつかったもの。=Eu não quero que você faça sexo como está fazendo agora. Estava um pouco apertado demais.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 今の、ちょっときつかったけど、あなたがいいなら、しょうがないわね。=Agora, isso foi um pouco duro, mas se você não se importa, que assim seja.
 ああいう痛いエッチはあんまり好みじゃないけど、あなたが好きなら我慢するわ。=Eu não gosto muito desse tipo de sexo doloroso, mas vou aguentar se você gostar.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 エッチは好きだけど、今のはちょっときつかったわね。もっと気持ちいいのがいいわ。=Eu gosto de sexo, mas isso foi um pouco difícil para mim. Gosto mais quando me sinto bem.
 苦痛なのも、慣れれば気持ちいいみたいだけど……=É doloroso, mas quando se acostuma, parece que se sente bem.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 痛かったんだけど……ああいうのはこれで最後にして。=Foi doloroso, mas... Essa é a última vez que vou fazer algo assim.
 こんなに苦痛なら、エッチなんてしなくていいわ。=Se é tão doloroso, não temos que fazer sexo.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたが望むなら、少しの痛みぐらいへっちゃらよ。=Não tenho medo de um pouco de dor, se é isso que você quer.
 ちょっとだけ痛かったけど……それが気持ちよかったわ。=Doeu um pouco... Mas isso soube bem.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 私に苦痛を与えて喜んでるのね？　我慢した甲斐があったわ。=Você tem prazer em me infligir dor, não é mesmo? Valeu a pena aturar.
 あなたに与えられる苦痛なら、なんの問題もないわ、ウフフ。=Eu não tenho nenhum problema com a dor que posso infligir a você.

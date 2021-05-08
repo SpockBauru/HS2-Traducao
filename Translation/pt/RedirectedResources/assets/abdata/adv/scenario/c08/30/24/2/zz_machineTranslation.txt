@@ -2,31 +2,31 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 うーん……なんか、思ってたほど私のスケベ感が出てなかった気が……=Hmm... Não acho que fui tão lasciva quanto esperava...
 でも、まだ出会ったばっかっすからねー。少しずつ本物のスケベになってみせるっすよ～♪=Mas acabamos de nos conhecer, certo? Eu vou te mostrar a verdadeira lascívia aos poucos ~ ♪
 いやー、やっぱセックスっていいすねー。まあ、課題は山盛りって感じだったっすけどーなんだかんだ気持ちよくなかったっすか～？=Bem, sexo é realmente bom, não é? Bem, tivemos muito trabalho a fazer, mas não se sentiu bem por alguma razão?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 なんか、いい時間だったっすねー。あなたさえよければ、また声かけてほしいっす～♪=Foi um bom momento, não foi? Se estiver tudo bem com você, gostaria de ouvir de você novamente.
 やっぱ一目見てピンと来た人とするセックスってたまんないすねー。=Não me canso de transar com alguém por quem me sinto atraído à primeira vista.
 もう満足～さよなら～って感じじゃないんでーこれからも会ってくれます～？=Eu não estou mais satisfeito, então você vai continuar a me ver?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あ～～、セックスって超楽しいすねー。=Ahhhh, sexo é super fácil, não é?
 あーでもー、あなたとだったからっすよねー、また誘ってほしいっす～♪=Mas isso é porque foi com você... Quero que me convide novamente...
 う～、もう終わりすかー、なんだか自分のスキル不足を感じたっすー。=Ummm, já acabou... Senti que me faltavam habilidades.
 次はもっとうまくヤれると思うんでー長期的な関係として受け入れてほしいっす～♪=Acho que posso fazer melhor da próxima vez, então espero que você aceite isto como um relacionamento de longo prazo.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 えーとー……うん……いやー、すごかったすねー。=Um... Sim... Não, isso foi incrível.
 とりあえず、お疲れしたー。=De qualquer forma, estou cansado!
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ありゃ、もう終わりすかー焦らしプレイはきついっすよ～～。=Ahhh, já acabou?
 と言いつつ～それを楽しんでいる自分もいるような～……なんか私、あなたの虜っぽいす。=Mas, ao mesmo tempo, há uma parte de mim que gosta... Sinto-me como se fosse um prisioneiro de vocês.
 うーん……気持ちよかったんすけどーやっぱまだまだ足りないとこだらけすねー。=Bem... Foi bom, mas ainda há muito que eu preciso fazer.
 次はあなたをもっとオラオラさせたいしー、またチャンスをもらえたら嬉しいっすー。=Gostaria de torná-lo mais ornamentado da próxima vez, e ficaria feliz em ter outra oportunidade.
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 あ、あは……あはは……=Ah... Ah... Ah...
 あた、まが……白……=Ohhh... Branco...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ハァ……ハァ……あれ、もういいんですか？　もしかしてあまり気持ち良くなかったですか？=Huh... Huh... É isso? Talvez não tenha sido tão bom?
 私はその……正直、気持ちよすぎて何も覚えていない、です……=Sinceramente, sinto-me tão bem, não me lembro de nada, por isso...
 ハァ……ハァ……あの、私エッチすぎじゃなかったですか？　気にしすぎかもしれないんですけど、それで嫌われたら嫌だなって思ったので……=Ha... Ha... Hum, eu não estava sendo muito malcriado? Posso estar me preocupando demais com isso, mas não queria que você me odiasse por isso...

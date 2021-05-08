@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 お楽しみ頂けたのでしたら、幸いです。=Esperamos que tenha gostado.
 私で良ければ、また何時でもお付き合い致します。=Se estiver tudo bem com você, estou sempre feliz em ajudar novamente.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 うふふ、つい話し込んでしまいましたね。=Ummm... Eu me empolguei ao falar com você.
 楽しい時間程、早く過ぎてしまいます……名残惜しいですが、続きはまた次回ですね。=Quanto mais divertido você tiver, mais rápido ele passa... Desculpe-me por deixá-lo, mas nos vemos da próxima vez.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 こうやってお話をするのも楽しいものですね。また、お誘い頂けると嬉しく存じます。=É divertido falar com você desta maneira. Ficarei feliz se você puder me convidar novamente.
 あら……？　もうこんなに時間が過ぎていたのですね。お話が楽しくて、気づいていませんでした。=Oh? Eu não percebi quanto tempo já havia passado. Estávamos nos divertindo tanto que eu não tinha notado.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 まともな話題を振れる様になってから、お声がけ頂きたいものです。=Eu gostaria de ouvir de você quando puder falar sobre algo decente.
 分かり切っていたことですが、時間を無駄にしてしまいました。=Era óbvio, mas era uma perda de tempo.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 貴方への理解度が深まった気がして、楽しい時間でした。有難うございます。=Foi um momento divertido, e sinto que minha compreensão de vocês se aprofundou. Muito obrigado.
 貴方とお話出来て、大変嬉しく存じます。=É um grande prazer falar com você.

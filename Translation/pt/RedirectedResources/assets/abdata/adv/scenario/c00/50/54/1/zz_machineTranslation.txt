@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 ずっろ……あなはろこうしれ……いはいれす……=Zuro... Ana roko koukou... Irayasu...
 かぇうのいやれす……もっろ……ここにいまひょうぅ……=Eu não quero morrer... Mas estou aqui...
 しぇっくしゅ……おわぃ、なんれすか……？=Sheshkushu... Uau, o que é isso?

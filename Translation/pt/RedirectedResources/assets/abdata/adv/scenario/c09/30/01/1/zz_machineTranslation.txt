@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversação {0}
+//会話{0}=Conversação {0}
 おしゃべりもいいですけど、どうせなら身体と身体で会話した方が良くないですか？　言ってる意味、分かりますよね？　えへへ。=Falar está bem, mas não seria melhor ter uma conversa física de qualquer maneira? Você sabe o que quero dizer, não é mesmo? Heh heh.
 そうですね……それじゃまず……わたしのおまんこに、あなたさんのおちんぽを入れてもらって……それからじっくりまったり、おしゃべりしませんか？=Bem, então... Por que você não coloca seu pau na minha buceta primeiro e depois teremos uma longa e agradável conversa?

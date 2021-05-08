@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 はぁ……心行くまで、楽しむことが出来ました。=Huh... Eu poderia desfrutar do meu coração.
 ぁ……申し訳ございません、つい夢中になっておりました……貴方にも、ご満足頂けたでしょうか？=Desculpe, eu me deixei levar... Espero que você também tenha ficado satisfeito.
 やはり人を責めるのは楽しいものですね。心なしか肌の艶が増した様な気が致します。=Afinal de contas, é divertido punir os outros, não é? Sinto que minha pele se tornou mais brilhante.

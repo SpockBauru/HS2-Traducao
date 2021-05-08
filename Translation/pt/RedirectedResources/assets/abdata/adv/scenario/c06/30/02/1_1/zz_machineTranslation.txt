@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリB普通{0}=Prelúdio B normal {0}
+//前フリB普通{0}=Prelúdio B normal {0}
 ふたりでお話をしておりましたの、あなたもいかがですか？=Estávamos apenas conversando, você gostaria de se juntar a nós?
 この方とおしゃべりをすると止まらなくて……まるで井戸端会議ですわね。=Não consigo parar de falar com ela... Ela é como uma desejosa de bem.
-前フリB好意{0}=Prelúdio B Favor {0}
+//前フリB好意{0}=Prelúdio B Favor {0}
 もしお時間があれば、３人でお話いたしませんか……？=Se tiverem um momento, vocês três gostariam de conversar?
 私、３人でおしゃべりしたいですわ、もちろん、みなさんが宜しければですけれど……=Gostaria de ter uma conversa com vocês três, se não houver problema, é claro...
-前フリB享楽{0}=Prelúdio B Kyouraku {0}
+//前フリB享楽{0}=Prelúdio B Kyouraku {0}
 是非３人でお話いたしましょう、きっと話が弾みますわ……♪=Tenho certeza de que nós três teremos muito o que conversar...
 ちょうどいいですわ、あなたの意見も聞かせてくださらない……？=Ainda bem que eu gostaria de ouvir sua opinião?
-前フリB嫌悪{0}=Prelúdio B Disgust {0}
+//前フリB嫌悪{0}=Prelúdio B Disgust {0}
 申し訳ございません、今ふたりでお話をしているのですが……=Desculpe, senhor. Estamos conversando um com o outro...
 奇遇ですこと……=Que coincidência...
-前フリB隷属{0}=Prelúdio B Escravo {0}
+//前フリB隷属{0}=Prelúdio B Escravo {0}
 まあ、気付くのが遅くなってしまって……お疲れ様でございます。=Bem, levei um tempo para perceber que... Obrigado por sua ajuda.
 こちらにいらしていたのですね、何かご用でしょうか？=Vejo que você está aqui. O que posso fazer por você?

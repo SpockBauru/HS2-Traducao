@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 まー、好きな人相手なら……やっぱり喜んで欲しいって思うんじゃないですかねー？=Bem, se é alguém de quem você gosta... Você provavelmente quer que eles sejam felizes, não acha?
 それだけ自分が求められてるってことですよね？　うーん、悪いことじゃないよーな気もするなー。でもわたし、おバカですからね、自信ないですー。=Isso é o quanto você é procurado, não é? Bem, não parece ser uma coisa ruim. Mas eu sou um idiota, por isso não tenho certeza.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 なんていうかー、こー、無条件で受け入れられる瞬間があるんですよ、きっと！　多分！=O que posso dizer - há este momento de aceitação incondicional, tenho certeza! Talvez!
 あー、わたしにもありますよ？　頼まれたら応えてあげたいなって気持ち……もちろん、相手は限定されますけどっ！　されますけどっ！=Oh, eu também tenho essa sensação, você sabe? Quando alguém me pede para fazer algo, eu quero fazer... Mas é claro, é limitado! Eu quero!
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ふぉぉ、まさかあなたさんも同じ気持ちだったとはー！　お互いにお互いを思うなんて素敵じゃないですか！　なんかの昔話みたい！=Whoa, eu não pensei que você sentisse o mesmo! Não é maravilhoso que nós dois sintamos um pelo outro! É como uma velha história.
 まぁ、エッチな話に限定すれば……どんなことでも出来ちゃいますよねー。だって何しても気持ちいーですもん、あはは。=Bem, se você limitar a conversa sobre sexo... Você pode fazer qualquer coisa, certo? Porque qualquer coisa sabe bem, haha.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 いやー、それは無理ですよー、ないない、ないのない！=Não, isso é impossível, não, não, não!
 えー、どーなんですかー？　それ、本気で言ってます？　本気だとしたらそーとーヤバい感じのあれですよ？=Bem, o que você quer dizer? Você está falando sério sobre isso? Se você está falando sério, é uma coisa muito ruim, sabe?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 その話……もしも相手があなたさんだったら……わたしはやっぱり受け入れちゃうと思いますよ……理由は……分かりますよね？　えへへ。=Essa história... Se a outra parte fosse você... Acho que eu a aceitaria... Você sabe por que... Certo? Heh heh.
 わぁ、ありがとうございますーっ！　あなたさんの気持ち、すごい嬉しい！　わたしも……いつも同じこと、考えてますよ♪=Uau, muito obrigado!!!! Estou tão feliz que você se sinta assim! Estou sempre pensando a mesma coisa...

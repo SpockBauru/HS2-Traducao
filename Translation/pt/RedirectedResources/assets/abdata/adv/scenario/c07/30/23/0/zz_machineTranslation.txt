@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 よう。まさか他の女の匂いなんてさせてねぇよな？　オレはそういうのには敏感だぞ？=Olá. Você não está cheirando o cheiro de outra mulher, está? Eu sou sensível a esse tipo de coisa.
 よし、始めるぞ。オレとおしゃべりがしたいなら、全部終わってからだ。=Muito bem, vamos começar. Se você quiser ter uma conversa comigo, vamos acabar com isso.
 よく来た。まぁ当然だが……オレから逃げなかったことは、褒めてやる。=Você está aqui. Bem, eu lhe darei crédito por não ter fugido de mim.

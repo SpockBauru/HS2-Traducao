@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 貴方のお陰で、破廉恥な技術に一段と磨きがかかりました。これからも宜しくお願い致しますね。=Graças a você, minhas habilidades sem vergonha foram ainda mais refinadas. Estou ansioso para trabalhar com você no futuro.
 本日は普段より貴方と深く繋がれた気が致します。……慣れてきたのでしょうか？=Sinto que hoje consegui me conectar com você mais profundamente do que o normal... Você já se acostumou?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 漸く気持ちに技術が追いついた様です。これまで以上に尽くすことが出来ると思うと……うふふ、嬉しさが込み上げてきます。=Parece que minhas habilidades finalmente alcançaram meus sentimentos. Quando penso que serei capaz de servi-lo mais do que nunca... Hihihi, estou cheio de alegria.
 その、これまでより感度が増していたのですが……破廉恥な女はお嫌いではございませんよね？=Quero dizer, eu tenho sido mais sensível do que nunca... Mas você não se importa com uma mulher em desgraça, não é mesmo?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 貴方と肌を重ねてきた成果を漸くお見せすることが出来そうです。次回はご期待くださいね？=Parece que finalmente serei capaz de mostrar os resultados da minha experiência de pele com pele com você. Por favor, aguarde a próxima vez.
 貴方と肌を重ね続けた甲斐あって、要領を掴んだが気が致します。うふふ、これからの情事が楽しみです。=Sinto-me como se tivesse apanhado o jeito depois de ter passado tanto tempo com você. Estou ansioso pelo nosso caso futuro.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 これから先も、貴方と肌を重ねなければならないのですね……=A partir de agora vou ter que compartilhar minha pele com vocês...
 貴方を拒絶しているはずなのに、私の身体は何故……？=Eu sei que estou rejeitando você, mas por que meu corpo?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 これからも貴方に尽くして参りますので、宜しくお願い申し上げます。=Continuarei fazendo o meu melhor por você e estou ansioso para trabalhar com você.
 大変喜ばしいことに、貴方好みの破廉恥な女になることが出来ました。=Para meu grande prazer, pude me tornar o tipo de prostituta que você gosta.

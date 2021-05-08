@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Vamos sexo B normal {0}
+//HしようB普通{0}=Vamos sexo B normal {0}
 俺も全然大丈夫！　それじゃ早速始めようぜ。=Estou totalmente de acordo com isso! Vamos então começar.
 ３Pだったら、俺も混ぜてくれよ。=Se for um trio, eu quero participar.
-HしようB好意{0}=Vamos fazer um favor a B {0}
+//HしようB好意{0}=Vamos fazer um favor a B {0}
 しょうがねぇな、俺も付き合うよ。=Não posso evitá-lo. Irei com você.
 三人でするのかよ？　わかった、わかった、俺も付き合うから。=Vocês três vão fazer isso? Tudo bem, tudo bem, eu saio com você.
-HしようB享楽{0}=Vamos caminhar!
+//HしようB享楽{0}=Vamos caminhar!
 俺だって大賛成だぜ。さあ、一緒に楽しもうぜ。=Sou a favor disso. Vamos lá, vamos nos divertir juntos.
 そういうことなら、俺だって、お前らと気持ち良くなりたいぜ。=Se for esse o caso, também quero me sentir bem com vocês.
-HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+//HしようB嫌悪{0}=Vamos sexo B repugnância {0}
 俺も、別に付き合ってもいいけどな。=Eu também não me importaria de sair com você.
 好きにしてくれよ。俺もちょっとだけ付き合うから。=Faça o que você quiser. Estarei com você por um tempo.
-HしようB隷属{0}=Vamos lá escravo B {0}
+//HしようB隷属{0}=Vamos lá escravo B {0}
 ３Pなら、俺も大歓迎だぜ。たっぷり楽しませてもらうからな。=Eu sou a favor de um trio. Vou me divertir bastante.
 俺だって付き合うぜ……お前、頑張って感じさせてくれよ？=Eu também vou sair com você... Você só tenta me fazer sentir bem, certo?

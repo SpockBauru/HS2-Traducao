@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あんなに感じてしまうなんて……触手って素晴らしいですわね。=Não acredito que posso me sentir assim... Os tentáculos são maravilhosos, não são?
 またいつでも、お相手していただきたいわ。=Eu adoraria ter sua empresa novamente, a qualquer momento.
 触手の粘液と蠢きに、完全にやられてしまいましたわ。=O muco e os mexericos dos tentáculos me foderam completamente.

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ……もしかして、私の気持ちを汲んでここへ連れてきてくれたんですか？=... Será que você levou meus sentimentos em consideração e me trouxe aqui?
 嬉しいです……では、あなたに甘えて遠慮せずにやりたいようにやってみますね……=Fico feliz... Por isso, vou lhe fazer o que eu quiser sem reservas...
 まずはあなたを縛っちゃいます……うふふ、心配しなくても大丈夫ですよ……痛いことは絶対にしません……=Vou amarrá-lo primeiro... Hihihi, não se preocupe... Não vou fazer nada doloroso...

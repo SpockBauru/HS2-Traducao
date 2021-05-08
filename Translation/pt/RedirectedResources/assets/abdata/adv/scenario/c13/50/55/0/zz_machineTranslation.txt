@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ふふ、うふふ……結婚、ですね……♪　何も言わなくて大丈夫です……あなたの意思は全て理解できました……♪=Hihihi-hehe... Casamento, sim ♪ Você não precisa dizer nada ♪ Eu entendo tudo o que você quer ♪
 指輪も婚姻届も必要ありません……♪　私があなたを愛していて……あなたが私を愛している……それだけで充分です……♪=Não preciso de anel ou certidão de casamento ♪ Eu te amo... E você me ama... E isso é o suficiente ♪
 他の誰が何と言おうが私達は正式に結ばれました……♪　さあ、誓いのセックスをしましょう……♪=Não me importa o que os outros dizem, estamos oficialmente empatados ♪ Venha, vamos fazer sexo com votos ♪

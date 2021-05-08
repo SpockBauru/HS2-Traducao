@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 あ～、エロい話してたらムラ―っとしてきちゃったっすねぇ……ここは一発、ぱーっと犯してもらいますかー♪=Ah, quando eu falava de coisas eróticas, eu ficava com tesão... Quer que eu dê essa chance?
 はい！　エロ話だけじゃなんなんでー、実践、いっちゃいますかー♪=Sim! Não podemos falar apenas de pornografia, então vamos praticar.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あのー、ムラってないっすか？　ムラってるっすよね？　私とセックス、したくなっちゃってるっすよね？=Você está se sentindo irregular? Você está com tesão, certo? Você quer transar comigo, não quer?
 さて、エロ話もいいっすけど、私はそろそろ身体の方がほしいんすよねー？　ね、いいっすよね？=Bem, é bom falar de erotismo, mas eu quero ser físico, você não? Não é verdade?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 んふふ、なーに前かがみになってるんすか？　あんな話で興奮しちゃったんすか？　んもーしょーがないっすねー♪=Hihihi, por que você está inclinado? Você ficou excitado com essa história? Não posso evitá-lo...
 あの、なんか我慢汁臭くないっすか？　なーんかソッチの方から臭うんすけどー？　どーゆーことっすかねー……♪=Hum, não cheira a suco de paciência? Cheira como se estivesse vindo de seu lado? O que você quer dizer?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ、こんなんでエロい気分になっちゃうなんて……責任、取ってくださいよー？=Huh, não acredito que estou com um humor erótico como este... Por favor, assuma a responsabilidade, está bem?
 えーっと話は終わりっすか？　それじゃ、いつもどーりさっさとしちゃってくださいっす。=Bem, já terminamos aqui? Bem, então, por favor, continue como sempre.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 で、今話してたエロい事を私にぶちまけてくれるんすよね？　いや、ぶちまけてもらう以外ありえないっすよ？=Então, você vai me contar todas essas coisas eróticas das quais você tem falado, certo? Não, não há outra maneira a não ser você me dizer, certo?
 あー駄目っす、ムズムズとろとろ止まんないっすわー……ちょっとあなたので、栓してもらっていいっすか？=Eu não consigo parar de latejar... Você pode ligar isso para mim?

@@ -3,7 +3,7 @@
 //***********************************************************************
 
 実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=Na verdade, você sabe, eu me sinto mais confortável em seu quarto... Posso vir aqui mais vezes a partir de agora?
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 やっぱり、お前と一緒の時間が一番きもちいいぜ……なんか、照れちまうな、アハハ……=Afinal, me sinto o melhor quando estou com você... Sinto-me tão envergonhada...
 このままずっと一緒にいたい……なんて、わけにはいかねぇよな……我儘はいわねぇよ。=Não é que eu queira ficar com você para sempre... Não vou ser egoísta.
 ありがとな、すげぇ嬉しかった。これ以上いたら帰りたくなくなっちまうから……じゃあ、またな。=Obrigado, cara. Isso foi muito legal. Se eu ficar mais tempo, não vou querer ir embora... Então nos vemos mais tarde.

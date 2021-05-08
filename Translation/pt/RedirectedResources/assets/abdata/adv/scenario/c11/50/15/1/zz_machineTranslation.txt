@@ -3,13 +3,13 @@
 //***********************************************************************
 
 貴方のことが恋しくなりまして……突然訪ねてしまい、申し訳ございません。=Senti sua falta... E sinto muito pela visita repentina.
-好意50_汎用{0}=Favors 50_ Genéricos {0}
+//好意50_汎用{0}=Favors 50_ Genéricos {0}
 少しの間だけ、貴方の傍にいても宜しいでしょうか？=Posso ficar com você por um tempo?
 お時間が宜しければ、少々お話でも致しませんか？=Se você tiver um momento, podemos ter uma pequena conversa.
 失礼致します。貴方のお部屋を尋ねる際は、いつも胸が高鳴ってしまいます。=Desculpe-me. Sempre fico entusiasmado quando peço seu quarto.
-好意50続き{0}=Favores 50 continuou {0}
+//好意50続き{0}=Favores 50 continuou {0}
 我儘を聞いて頂き、誠に有難うございます。それでは……さようなら。=Muito obrigado por ouvir o meu pedido. Então... Adeus.
 あまり長居をしてはご迷惑になりますね。名残惜しいですがお暇させて頂きます。=Não quero incomodá-lo se eu ficar muito tempo. Sinto muito por sair, mas vou sair agora.
 分かれる間際はいつも寂しくなります。また、お部屋を訪ねても宜しいでしょうか？=Sempre me sinto solitário quando tenho que partir. Posso visitar seu quarto novamente?
 失礼致します。その……貴方の温もりを感じたくなりまして……=Desculpe-me. Eu só... Queria sentir o seu calor...
-好意80_汎用{0}=Favores 80_ Genéricos {0}
+//好意80_汎用{0}=Favores 80_ Genéricos {0}

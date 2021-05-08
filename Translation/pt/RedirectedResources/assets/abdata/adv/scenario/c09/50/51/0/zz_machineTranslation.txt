@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 エッチな道具がいっぱいですねー。今日はそういうプレイをしたいんですかー？=Você tem um monte de ferramentas maliciosas! Você quer jogar assim hoje?
 えへへ、それなら任せてください。あなたさんの為にたくさん勉強しましたから、期待していいですよっ。=Deixe isso comigo então. Eu estudei muito para você, portanto, pode contar comigo.
 まずは、あなたさんを縛っちゃいますね。ぜーんぶ、わたしがしちゃいますっ。=Antes de mais nada, vou amarrá-lo. Vou fazer tudo sozinho.

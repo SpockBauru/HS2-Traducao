@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 身動きが取れないんですのね？　どうして差し上げようかしら？=Você está preso, não está? O que posso fazer por você?
 あなたも、興奮しているようですわね。=Você parece muito entusiasmado com isso também.
 よろしいですわ……私が、悶えさせて差し上げます。=Muito bem, eu o farei escrever.

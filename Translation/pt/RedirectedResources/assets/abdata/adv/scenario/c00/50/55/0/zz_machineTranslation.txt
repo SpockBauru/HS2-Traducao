@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 ごっこで済まさず、今すぐこの場で永遠の愛をあなたと誓いたいのですが……それはいけませんね。=Não quero brincar com você, quero jurar-lhe meu eterno amor aqui e agora... Mas não devo.
 婚姻届の提出、新居への引っ越し、式の日取り、産まれてくる子供の名前……色々と準備が必要ですから。=Você precisa se preparar para muitas coisas, como apresentar a certidão de casamento, mudar para uma nova casa, a data da cerimônia, o nome da criança a ser nascida, etc.
 焦らずゆっくりと、私達のペースで進んでいきましょう。=Vamos com calma e vamos em nosso próprio ritmo.

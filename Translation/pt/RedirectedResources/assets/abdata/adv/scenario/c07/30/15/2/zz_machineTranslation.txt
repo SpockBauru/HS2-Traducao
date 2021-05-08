@@ -3,7 +3,7 @@
 //***********************************************************************
 
 泊まり込みでするってのは、気が楽でいいな。これからも、ちょくちょく利用させてもらうぞ。=É agradável e fácil fazer uma estada de uma noite. A partir de agora vou usar este lugar.
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 あぁ、オマエのベッドは寝心地がいい。このまま住み着いてやろうか？=Oh, sua cama é tão confortável. Você quer que eu vá morar com você?
 同棲ってのは、こういう感じなのかもな。悪くない気分だ。本気で考えてみるか？=Talvez seja isso que é viver juntos. Não é um mau pressentimento. Você quer seriamente pensar sobre isso?
 帰るのが面倒くさくなっちまったな。もう一晩泊って、またヤリまくるってのはどうだ？=Estou ficando cansado de ir para casa, não estou? Que tal ficarmos mais uma noite e sermos fodidos novamente?

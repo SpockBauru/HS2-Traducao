@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ふぅ……複数でのセックスは、とても刺激が強いですね。=Hmm... Sexo com mais de uma pessoa é muito estimulante.
 またこの様なセックスをしてみたいものです。=Eu adoraria transar assim novamente.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 他の方に裸体を見られるのは抵抗がありましたが……あなたの喜ぶ姿で、そんな気持ちは忘れてしまいました。=Fiquei desconfortável com a idéia de outras pessoas verem meu corpo nu... Mas a visão de seu prazer me fez esquecer esses sentimentos.
 あなたがお望みだからこそ、この様なセックスもお付き合い出来るのですよ？=E podemos fazer sexo assim com você porque você o quer, certo?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 さて、襲ったのはあなた方でしょうか？　それとも、私の方でしょうか……？=Agora, foi você quem me atacou? Ou era eu?
 至る所に精液が……ご満足いただけたようで、嬉しい限りです。=Sémen em toda parte... Fico feliz em saber que você está satisfeito.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ふぅ、数の暴力とはまさにこの事でしょうね。=Huh, acho que é disso que se trata a violência dos números.
 ……皆さんはさぞご満足でしょうね。=... Tenho certeza de que todos vocês ficarão muito satisfeitos.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 射精したりない方はいませんか？　遠慮なさらず、仰ってくださいね。=Há alguém que não queira ejacular? Por favor, não hesite em nos dizer.
 皆さん、私の身体の具合はどうでしたか？　スッキリ射精をされていると良いのですが。=O que todos vocês acharam do meu corpo? Espero que você tenha tido uma ejaculação refrescante.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 射精していただき、ありがとうございます。……しかし人が増えてしまうと、あなたへのご奉仕が疎かになっていけませんね。=Obrigado por sua ejaculação... Mas à medida que o número de pessoas aumenta, não podemos negligenciar nosso serviço a você.
 私が犯されている事であなたが興奮してくださるなら、何人でもお相手して差し上げます。=Se você está animado com o fato de eu ser fodida, vou te dar quantos você quiser.

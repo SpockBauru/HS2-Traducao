@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 元に戻るも何も今の私が真実ですわ、お互いに溶け合うようなセックスを楽しみましょう……♪=Não vou voltar a ser como era, sou a verdade agora, vamos aproveitar o sexo enquanto nos fundimos um no outro ♪
 私が怖いのですねぇ、でも心配なさらないで……あなたもすぐに虜にしてみせますわぁ……♪=Você está com medo de mim, mas não se preocupe, eu o terei viciado em pouco tempo...
-Home{0}=Home{0}
+//Home{0}=Home{0}
 まあ……私ったら、少々羽目を外し過ぎてしまいましたか？　反省いたしますわ……=Bem... Eu me deixei levar um pouco demais? Sinto muito...
 少し露骨すぎたかもしれませんわね……正直に仰って頂き、感謝いたしますわ……♪=Talvez eu tenha sido um pouco brusco demais... Mas aprecio sua honestidade...

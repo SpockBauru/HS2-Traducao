@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 まあ……そうなのですか？　あら、こんにちは。=Bem... É verdade? Olá.
 その様な事が……あ、どうも。=Isso é... Oh, olá.
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 納得のいく理由ですね……ぁ……うふふ、お会いできて嬉しく存じます。=É um motivo convincente... Ah... Hihihi, é um prazer conhecê-lo.
 成程……ん？　貴方もいらしていたのですね。=Eu vejo... Hmm? Você também está aqui, não está?
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 それはそれは……うふふ、こんにちは。=É isso... Hihihi, olá.
 少数派であろうと意見は……あら？　こんにちは。=Mesmo que você esteja na minoria, sua opinião é... Oh? Olá.
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 ……意図的に無視をしていたのですが、伝わりませんでしたか？=... Eu estava deliberadamente ignorando você. Você não recebeu a mensagem?
 ……私と彼女の会話を邪魔しないで頂けませんか？=... Você se importaria de não interromper minha conversa com ela?
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 確かにお仰る通りです……あ、直ぐにご挨拶できず、失礼致しました。=Você está absolutamente certo... Peço desculpas por não cumprimentá-lo mais cedo.
 その様な意見があるのですね……あら？　貴方の気配に気づかないとは……不覚です。=Essa é a opinião de alguns... Oh? Sinto muito não ter notado sua presença.

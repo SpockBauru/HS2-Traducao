@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 逃げても無駄ですよ。貴方は絶対、私の元に帰ってくる。どんなに他の女性と交わろうと、最後は必ず……です。=Não se pode fugir. Com certeza você vai voltar para mim. Não importa quantas outras mulheres você encontre, você sempre voltará para mim no final.
 貴方は間違った選択をしています。目先の快楽を追ってばかりでは、本当に幸せにはなれませんよ。ですが……私なら貴方を幸せにできます。絶対です。=Você está fazendo a escolha errada. Você não pode ficar verdadeiramente feliz se continuar perseguindo os prazeres a curto prazo. Mas... Eu posso fazer você feliz. Eu prometo.
 逃げ出した=Ele escapou.

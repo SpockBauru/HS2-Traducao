@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ようやく……触手から解放されました。=Finalmente... Livre de tentáculos.
 あなたが望んだ、いやらしい私の姿……しっかりと目に焼き付けていただけましたか？=Espero que você tenha tido a oportunidade de olhar bem para mim e espero que tenha tido a oportunidade de olhar bem para mim.
 あのねっとりと絡みつく感触が忘れられません……=Nunca esquecerei essa sensação pegajosa e emaranhada...

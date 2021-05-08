@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 本当は気持ちいいのが一番なんすけどー最近は痛いのにも慣れたきちゃったんすよねー。=O melhor é se sentir bem, mas ultimamente tenho me acostumado com a dor.
 あなたが何度も酷いことするんで身体が慣れちゃったっすよー、慣れって恐ろしいもんすねー。=Seu corpo se acostumou porque você já fez coisas terríveis com ele tantas vezes.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 痛いのとか苦しいのに慣れてきたんでーも少し回数増やしてもいいすよー。=Estou me acostumando com a dor e o sofrimento, então não faz mal se eu fizer isso um pouco mais vezes.
 痛いのとか苦しいのとかは嫌いすけど、あなたのことは好きなんで受け入れることにしたっすー。=Eu não gosto de dor e sofrimento, mas gosto de você, por isso decidi aceitá-lo.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 今日なんすけど痛い系は一旦封印しないすか～？　痛いのに慣れてきてるんでマズいかなーってー。=Eu sei que é hoje, mas será que podemos parar as coisas dolorosas por um tempo? Estou me acostumando à dor, então pensei que poderia ser uma má idéia.
 痛め付けプレイに慣れてきたんであなたにもーと思ったんすけど、ヤる専門ぽいすよね～。=Estou acostumado a brincar com a dor, por isso pensei em fazer o mesmo por você, mas você parece ser especializado em foder.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 そういやなんすけど、あなたが散々いためつけてくれたお陰で耐性ついちゃったんすよー。=Bem, acho que desenvolvi uma tolerância graças a toda a provocação que vocês me deram.
 あなたがあんまりにも私を乱雑に扱うんで、痛いのに慣れちゃったんすけどー？=Você tem me tratado tão mal que eu me acostumei à dor, sabe?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 今日も目いっぱい痛くしてくれるっすか～？　Mっ気があったみたいでーよくなってきちゃったんすよ～♪=Você vai me fazer sofrer como louco novamente hoje? Ela tem um lado um pouco selvagem... E está ficando melhor.
 エロって奥が、やー業が深いなーと思うんすけどー痛いのが逆に気持ちよくなってきたんすよね～♪=Acho que o erotismo é profundo, mas a dor está se tornando mais agradável...

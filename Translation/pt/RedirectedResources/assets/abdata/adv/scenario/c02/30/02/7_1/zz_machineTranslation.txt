@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+//なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 私達はもう少しお話していますので。=Porque estamos falando um pouco mais.
 では、またの機会にでも。=Bem, talvez em outro momento.
-なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+//なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
 それでは、また後で会いましょう。=Então, até logo.
 次はまた、時間がある時にでも……=Talvez na próxima vez, quando eu tiver mais tempo...
-なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+//なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
 それでは、またあなたの話の続きでもしていますかね。=Então, acho que estamos de volta à sua história.
 こんな機会を逃して勿体ないですね……まぁ、いいですけど。=É uma pena perder uma oportunidade como esta... Bem, tudo bem.
-なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+//なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
 さ、私達も行きましょう……=Vamos lá, vamos...
 何もなくてよかったです、ほんと……=Estou feliz que não há nada de errado, realmente...
-なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+//なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
 少し期待しましたが……残念です。=Eu estava um pouco esperançoso... Mas estou desapontado.
 では、私達は猥談の続きでもしていますね。=Bem, acho que vamos continuar nossa conversa obscena.

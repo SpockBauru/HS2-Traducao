@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-セリフ{0}=Serif {0}
+//セリフ{0}=Serif {0}
 あなたさんに抱いてもらえる幸せは、何物にも代えがたい宝物です。だから……今日もよろしくお願いしますね。=A felicidade que você me tem é um tesouro que não pode ser substituído por nada mais. Portanto... Por favor, cuide de mim também hoje.
 二人の愛を確かめる行為……それをあなたさんと出来ることが何よりも幸せです。わたしのこと、たくさん可愛がってください。=O ato de confirmar o amor entre duas pessoas... Estou mais do que feliz em poder fazer isso com você. Por favor, me ame muito.
 大好きなあなたさんと一緒に気持ち良くなれるなんて……本当に素敵です。最後まで、いっぱいいっぱい感じ合いましょうね。=É realmente maravilhoso poder me sentir bem com você, meu favorito... Vamos nos sentir uns aos outros até o fim.

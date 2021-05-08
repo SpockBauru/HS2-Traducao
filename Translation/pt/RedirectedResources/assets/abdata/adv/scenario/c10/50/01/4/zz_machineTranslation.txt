@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 元に戻る？　ぁ、分かりました……もっと原始的に、強く求め合おうということですね？　いいですよ、そういうのも楽しそうです。=De volta ao normal? Ah, eu entendo... Você está dizendo que devemos ir mais primitiva e fortemente um para o outro? Tudo bem. Esse tipo de coisa também soa divertido.
 またよく分からないことを言って、私をからかっていますね？　そういう子供っぽい悪戯をすると……少し意地悪なエッチをしてしまいますよ？=Você está mexendo comigo de novo, dizendo coisas que eu não entendo, não é mesmo? Quando você brinca com brincadeiras infantis como essa... Faz um pouco de sexo desagradável, não é?
-Home{0}=Home{0}
+//Home{0}=Home{0}
 ぇ……あ、えぇと、私は……なんだか、ずっと頭にモヤがかかったような……色々とご迷惑をかけまして、大変申し訳ございません。=Sim... Uh, eu... Eu... Eu... Eu... Eu sinto muito por todos os problemas que lhe causei.
 はぁ、私は、一体なにをしていたのでしょうか……もうずっと、貴方のことしか考えていなかった気がします。きっと、少し変になっていたのですね。=Não sei o que eu estava fazendo... Sinto que tudo em que tenho pensado é em você. Tenho certeza de ter enlouquecido um pouco.

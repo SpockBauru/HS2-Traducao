@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+//HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 おおっ、ストレートですね！　ではわたしもストレートに！　ＯＫですよー！=Oh, você é heterossexual! Então eu também serei reto! Está tudo bem!
 ふぁ……な、なんかちょっと照れますけど……もちろんいいですよ、えへへ。=Estou um pouco envergonhado, mas... É claro que não faz mal, ehehe.
-HしようA好意{0}=Eu lhe farei um favor.
+//HしようA好意{0}=Eu lhe farei um favor.
 わわ、ありがとうございます。わたしも……したいです……あはは。=Muito obrigado. Eu também quero fazer isso... Haha.
 一緒にっていうのは……ちょっとドキドキしますけど……それもまた悪くないですね、えへへ。=Estou um pouco nervoso por estarmos juntos, mas... Isso também não é tão ruim assim.
-HしようA享楽{0}=Vamos fazer isso.
+//HしようA享楽{0}=Vamos fazer isso.
 もー、あなたさんたらー、一緒に相手したいって思っちゃったんですか？　エッチー。=Você... Você... Você queria brincar comigo? Ecchi.
 ふふっ、いーですよー。そーいうエッチ、興味ありますし……この娘さえ良ければぜひ！=Está tudo bem. Estou interessado nesse tipo de sexo... Desde que esta garota não se importe com isso!
-HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+//HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
 まぁ、あなたさんなら、そーなるんでしょーね……はぁぁ、仕方ない……やるかぁ……=Bem, acho que é isso que você faria... Huh, eu vou fazer...
 はいはい、最初から分かってましたからいーですよ。受け入れればいーんでしょ、受け入れれば。=Sim, sim, eu sabia disso desde o início, então está tudo bem. Se você o aceita, certo? Se você o aceita.
-HしようA隷属{0}=Vamos sexo Um escravo {0}
+//HしようA隷属{0}=Vamos sexo Um escravo {0}
 なるほどなるほど……この娘と一緒にたくさんご奉仕させてくれるわけですね。一生懸命頑張りますから、期待してくださいませー！=Estou vendo, estou vendo... Então você vai me deixar servi-lo muito com essa garota, não vai? Farei o meu melhor, por isso, por favor, não tenha muitas esperanças!
 わぁ、あなたさんが誘ってくれたー。もちろん、わたしの身体だったら好きにしてくれていーですよ。あとはこの娘次第ですけど……=Uau, você me convidou. É claro, se for meu corpo, você pode fazer o que quiser com ele. O resto é com ela, mas...

@@ -2,24 +2,24 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 女性、ですか……まぁ、何とかなるんじゃないですか？=Mulheres, huh... Bem, você pode lidar com isso, não pode?
 はぁ、そういうプレイも経験しろって事ですか、まったく……=Huh, então você quer que eu experimente esse tipo de brincadeira também?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 まぁ、私は相手が女性でも、別に構いませんから。=Bem, não me importo se a outra pessoa for uma mulher.
 男の人、じゃないんですね……まぁ、これはこれで望み通りではあるんですけど。=Cara, você não é... Bem, isto é o que você quer.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ふぅん……まぁ、女の子同士、とりあえず楽しみましょう？=Hmm... Bem, garotas, vamos nos divertir um pouco por enquanto, vamos?
 私、例え相手が女性でも容赦はしませんから。=Eu não mostrarei misericórdia, mesmo que seja uma mulher.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ、わざわざ同性とするなんて……=Huh, saindo do seu caminho para fazê-lo com o mesmo sexo...
 男だろうと女だろうと、嫌なものは嫌なんですけど……しなきゃ駄目ですか？=Se você é homem ou mulher, não gosto do que faz... Mas eu tenho que fazer?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 なるほど、女性同士ならお互いの弱点がわかりやすいって事ですか……=Entendo. Assim, é mais fácil para as mulheres entenderem as fraquezas umas das outras.
 別に女性でも構いませんよ……私を気持ちよくしてくれるのなら。=Não me importa se você é uma mulher... Desde que me faça sentir bem.
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 ………………=...
 はぃ……ぇっち、するんですね……=Huh... Você está fazendo isso...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 あなたが女性だろうと、互いに愛し合う事に変わりはありませんから……=Não me importa se você é mulher, nós ainda nos amamos, então...
 女性同士でも繋がりあえる事……私が証明してみせますので。=Vou lhe provar que as mulheres podem se conectar umas com as outras.

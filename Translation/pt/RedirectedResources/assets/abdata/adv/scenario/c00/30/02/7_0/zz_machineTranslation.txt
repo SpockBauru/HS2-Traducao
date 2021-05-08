@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
+//なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 そうなのですか？=É verdade?
 見かけたので、声をかけてくださった、ということでしょうか。=Você me viu, então você me chamou, eu acho.
-なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
+//なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
 何かご用事かと思いましたが、勘違いでしたか。=Pensei que você tinha algo para mim, mas devo ter me enganado.
 てっきりお話でもあるのかと……=Pensei que você tinha uma história para contar...
-なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
+//なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
 3Pに誘おうとしたけど怖気づいた……当たっていますか？=Eu tentei colocá-lo em um trio, mas ele se assustou... Estou certo?
 3Pのお誘いだと思っていたのですが、残念です。=Eu esperava que fosse um convite para uma ménage à trois, mas sinto muito.
-なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
+//なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
 ただの冷やかしですか？=Você só está se acalmando?
 挨拶に来られたのですか？　その様な配慮は無用です。=Você veio dizer olá? Não há necessidade de tal consideração.
-なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
+//なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
 3Pの気分ではなかったのでしょうか？=Você não estava com disposição para uma ménage à trois?
 これから犯していただけると期待していたのですが、違ったのですね。=Eu esperava que você fosse capaz de me foder de agora em diante, mas você estava errado.

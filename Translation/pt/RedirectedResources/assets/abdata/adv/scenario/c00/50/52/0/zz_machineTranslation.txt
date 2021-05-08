@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 すみません、離れていただきたいのですが。至近距離にあなたがいるのは、不愉快極まりません。=Sinto muito, senhor, mas vou ter que pedir-lhe que se afaste. É extremamente desconfortável tê-lo próximo a você.
 ……余計なものまで硬くさせて、この状況に興奮しているのですか？=... Você está me tornando difícil a ponto de ser supérfluo, e você está entusiasmado com esta situação?
 っ……なるほど、初めから痴漢が目的だったのですね。=Hmm... Entendo, você tem tentado me molestar desde o início.

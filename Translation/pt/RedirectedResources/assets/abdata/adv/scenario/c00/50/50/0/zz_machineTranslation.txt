@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 この様な雰囲気のある場所であなたとお酒を飲むとなると、この後のことを期待してしまいます。=Quando tomo uma bebida com você em um lugar com uma atmosfera como esta, espero ver mais de você depois.
 初めからそのつもりで誘って下さったのですよね？　とぼけても無駄ですよ？=Foi por isso que você me convidou para sair, não foi? Não adianta fazer-se de bobo, não é mesmo?
 本日はどの様なセックスをして下さるのですか？　期待しています。=Que tipo de sexo você terá comigo hoje? Estou ansioso por isso.

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 え、えっと……気持ち良かった……ですか？=Bem, um... Foi bom?
 さ、誘ってくれて……ありがとうございました。=Bem, obrigado... Por me ter convidado.
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 こ、こういうエッチも……悪くないですね。=Este tipo de sexo... Não é tão ruim assim.
 なんだか……い、いつもよりも弾けちゃったような気がします……恥ずかしい……=Sinto que... Bem, sinto que joguei mais que o normal... Embaraçoso...
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 皆さんの乱れ方を見ながら……私も……淫らになってしまいました……=Ver todos vocês ficarem tão selvagens... Me fez... Lascivo...
 い、いつも以上に開放的な気分のエッチでした……えへへ。=Sim, foi o sexo que se sentiu mais aberto do que de costume... Ehehe.
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 な、なんだか倫理的に……い、いえっ、あなたが満足してくれたのならっ、それでっ……=Não sei, é meio antiético... Não, não, se você está feliz com isso, então...
 こ、こんなエッチを続けてたら……へ、変になっちゃいそうです……うぅぅ……=Se continuarmos a fazer sexo assim, vou enlouquecer...
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 たまにはこういうエッチも楽しいですね。=É divertido fazer sexo desta maneira de vez em quando.
 エッチの最中……私、ずーっと興奮しっぱなしでした……=Durante o sexo, eu estava tão excitada o tempo todo...

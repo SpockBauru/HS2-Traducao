@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 うふふ、私とこちらの部屋に来たという事は……そういう事で宜しいのですね？=Então, se você veio a esta sala comigo... Então é isso que você veio fazer, é isso?
 では、遠慮などせずに、貴方のことを責めさせて頂きます。=Então, sem reservas, eu o punirei.
 ここから先は、私にお任せ下さい。貴方はじっとしているだけで、気持ちよくなれますから……=A partir daqui, eu assumo. Tudo o que você precisa fazer é ficar quieto e se sentir melhor...

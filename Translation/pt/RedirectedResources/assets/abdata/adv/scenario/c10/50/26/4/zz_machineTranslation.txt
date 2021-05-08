@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 少しくらいなら痛くしても構いませんよ。好んでしたいわけではありませんが……見苦しい姿はお見せしないようにしますので……=Não me importo se isso dói um pouco. Não que eu gostasse, mas... Tentaremos não fazer você parecer desconfortável, então...
 痛くされるのは今でも怖いです。でも、少しは慣れたと思いますので……してみたいのでしたら……どうぞ。=Ainda tenho medo de ser feito para magoar. Mas eu acho que estou um pouco mais acostumado... Então se você quiser... Vá em frente.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 本当は貴方に思い切りしてもらいたいのですが……少し慣れたとはいえ、やはりどうしても怖さが抜けません……=Eu realmente quero que você me dê tudo o que tem, mas apesar de ter me acostumado, ainda estou assustado...
 貴方が望むなら、痛くされても我慢します。本当は痛くされて悦ぶくらいがいいのでしょうが……まだ、そこまでは難しいです……許してください。=Se você quiser, eu suportarei mesmo que isso doa. Na verdade, seria melhor ficar satisfeito com a dor... Mas ainda é difícil ir tão longe... Por favor, me perdoe.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 痛さに慣れると快楽に変わる……という理屈は分かりました。ですが全て受け入れられるかと言われると、疑問が残りますね……=Eu entendo a teoria de que uma vez que você se acostuma com a dor, ela se transforma em prazer. Mas se você me perguntar se eu posso aceitar tudo isso, tenho minhas dúvidas...
 痛くされるのにも少し慣れましたが……気持ちよくして頂けるのが大前提ですよ？　そこを忘れないでくださいね？=Eu me acostumei um pouco a ser ferido, mas... O principal é fazer você se sentir bem, certo? Não se esqueça disso, por favor.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ……どうせ乱暴にするのですよね？　それで早く終わるのであれば構いませんよ。慣れたくもないのに、慣れてしまいましたから……=Huh... Você vai espancá-los de qualquer maneira, não vai? Se isso o faz andar mais rápido, eu não me importo. Não quero nem me acostumar, mas já me acostumei...
 なんとなく、痛みで感じるという感覚は分かってきましたが……それを率先してやろうとする、貴方の考えは分かりません。=De alguma forma, cheguei a entender como é sentir dor... Mas não entendo sua idéia de tomar a iniciativa de fazê-lo.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 私、どんどん変態になっている気がします。最初からそうだと言われると否定できませんが……今はより強く感じます……=Sinto que estou ficando cada vez mais pervertido. Não posso negar quando você diz que sou assim desde o início... Mas agora sinto-o mais fortemente...
 ふふ、今日はどのように苛めて頂けるのですか？　普通にするのではお互い満足できませんよね？いいですよ。私、もう大分慣れましたから。=Hehe, como você vai me atormentar hoje? Não podemos satisfazer um ao outro fazendo isso normalmente, podemos? Tudo bem. Já me acostumei a isso.

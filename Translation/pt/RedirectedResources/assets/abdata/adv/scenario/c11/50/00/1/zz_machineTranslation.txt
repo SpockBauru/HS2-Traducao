@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 会話は不得手なのですが、畏まりました。=Eu não sou muito bom em conversas, mas estou admirado.
 ご満足頂けるかは分かりませんが、努力致します。=Não temos certeza se você ficará satisfeito, mas vamos tentar.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 でしたら、恋のお話でも……いえ、何でもありません。=Então é uma história de amor... Não, não é nada.
 話し手は得意ではないのですが、聞き手でしたらお任せ下さい。=Não sou um bom orador, mas posso ser um bom ouvinte.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 想像したご用向きとは違いましたが、畏まりました。=Não era o recado que eu imaginava que seria, mas estou admirado.
 畏まりました。お話というと……猥談をされるのでしょうか？=Estou admirado. Quando você diz "falar", você quer dizer... Obscenidades?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 親しい間柄でもないのに、お話をしなければならないのですか……=Não estou nem perto de você, mas tenho que falar com você...
 ……お互い後悔することになりそうですが、分かりました。=... Ambos vamos nos arrepender, mas eu entendo.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 はい。貴方にご満足頂ける様に、尽力致します。=Sim. Faremos o nosso melhor para satisfazê-lo.
 はい、盛り上げ役として頑張ります。=Sim, farei o meu melhor para torná-lo emocionante.

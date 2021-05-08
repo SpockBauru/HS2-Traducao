@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ありがとう、ございます……その……気持ちのいい時間でした。=Obrigado, obrigado... Que... Que... Foi um momento agradável.
 また誘ってくれると嬉しいですけど……それはあなた次第ですよね。=Eu adoraria se você me convidasse de volta... Mas isso depende de você.
 ……楽しいと思っていたのは、私だけではないですよね？　一人だけ浮かれていた、なんてこと……ないですよね？=... Não fui o único que achou divertido, fui eu? Eu não era o único que estava se divertindo, era?

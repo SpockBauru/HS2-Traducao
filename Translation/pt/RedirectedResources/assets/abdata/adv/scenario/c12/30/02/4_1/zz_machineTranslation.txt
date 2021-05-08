@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後B普通{0}=Posto de Conversação B Normal {0}
+//会話事後B普通{0}=Posto de Conversação B Normal {0}
 ありがとな、答えてくれて。=Obrigado, cara, por responder.
 お前に話してみて良かったぜ。=Estou feliz por ter falado com você.
-会話事後B好意{0}=Posto de Conversação B Favor {0}
+//会話事後B好意{0}=Posto de Conversação B Favor {0}
 お前の意見が聞けて、嬉しかったぜ。=Foi bom ouvir sua opinião.
 なんか、少しだけお前のことが分かったみたいで、嬉しいぜ。=Não sei, só estou feliz por conhecê-lo um pouco melhor.
-会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
+//会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
 お前と話してみるのも、たまには悪くないな。=Não é tão ruim às vezes falar com você.
 いいね、色んな考え方があって、楽しくなってくるぜ。=Ótimo, tantas maneiras diferentes de pensar sobre isso, vai ser divertido.
-会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
+//会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
 ……もう話す事ないだろ？=... Não há mais nada a dizer, não é mesmo?
 話、終わってもいいよな？=Podemos terminar nossa conversa, por favor?
-会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
+//会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
 お前の意見、中々参考になったぜ。=Sua opinião é muito útil.
 お前の考え方、何となく俺が思ってた通りだな。=Sua maneira de pensar, é mais ou menos o que eu pensava que era.

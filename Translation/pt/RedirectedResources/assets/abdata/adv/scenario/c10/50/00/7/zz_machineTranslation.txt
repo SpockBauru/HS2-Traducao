@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 まぁっ、そんなことまで……刺激的ですね……=Ohhh, isso é... Isso é tão excitante...
 えっと、趣味は人それぞれですから……=Bem, cada um tem seus próprios passatempos, então...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 そういうのが、お好きなんですね……覚えておきます。=Esse é o tipo de coisa que você gosta... Vou ter isso em mente.
 だ、大胆ですね……少し、憧れてしまいます。=Isso é ousado... Admiro um pouco.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 はぁ、なんだか身体が、熱くなってきました。=Huh, eu sinto que meu corpo está ficando quente.
 ふふ、とても楽しそうに話すのですね。=Hehe, você fala muito alegremente.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 そういう話しかできないのですか？　正直に言って、不快です。=É só sobre isso que você pode falar? Sinceramente, é ofensivo.
 盛り上がっているところ悪いですが……この話、いつまで続きますか？=Desculpe por estourar sua bolha, mas... Quanto tempo esta história vai durar?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 凄いですね。私も見習いたいです。=Isso é ótimo. Eu também quero aprender com você.
 なんと言うか……は、恥ずかしくなってきました。=O que posso dizer... Ha, estou ficando envergonhado.

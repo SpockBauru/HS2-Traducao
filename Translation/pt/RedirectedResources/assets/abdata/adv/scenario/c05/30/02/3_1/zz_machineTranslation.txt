@@ -2,33 +2,33 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-返答肯定2普通{0}=Responder afirmativo 2 normal {0}
+//返答肯定2普通{0}=Responder afirmativo 2 normal {0}
 あ……あなたも同じ意見でしたか。=Oh... Você tinha a mesma opinião?
 や、やっぱり……そう思いますよね。=Sim, eu sabia... Você pensaria assim.
-返答肯定2好意{0}=Responder afirmação 2 favor {0}
+//返答肯定2好意{0}=Responder afirmação 2 favor {0}
 ふふっ、同じ考えでした、嬉しいですっ。=Estou contente por termos tido a mesma idéia.
 よ、良かった……あなたも私と同意見ですね。=Bom, bom... Você concorda comigo, não concorda?
-返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
+//返答肯定2享楽{0}=Responder afirmação 2 divertir-se {0}
 あ……ふふっ、私の考えがあなたに似ていて良かったです……=Oh... Phew, estou feliz por meus pensamentos serem similares aos seus...
 もしかしたら……私、あなたと感受性が近いのかもしれません……えへへ。=Talvez... Talvez eu esteja perto de você em sensibilidade... Ehehe.
-返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
+//返答肯定2嫌悪{0}=Responder afirmativo 2 repugnância {0}
 そ、そうですか……あなたも同じ意見なんですね……=Bem, vejo... Que você concorda comigo...
 わ、私なんかと同じ意見で……嫌じゃないですか……？=Você não odeia que você compartilhe minha opinião?
-返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
+//返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
 あなたも同じことを思ってくれていたなんて……嬉しい……=Fico feliz que você sinta o mesmo... Sobre mim...
 やっぱりそういう意見になりますよね……私も同じです、えへへ。=Eu sabia que você teria essa opinião... Eu sou da mesma maneira, eh?
-返答否定2普通{0}=Responder negativo 2 normal {0}
+//返答否定2普通{0}=Responder negativo 2 normal {0}
 あ……そ、そういう考え方もあるんですね。=Oh... Então essa é uma maneira de pensar sobre isso.
 な、なるほど……貴重なご意見、勉強になります……=Ah, vejo... Sua valiosa opinião, estou aprendendo...
-返答否定2好意{0}=Negação de resposta 2 favor {0}
+//返答否定2好意{0}=Negação de resposta 2 favor {0}
 あ……わ、私とは違う意見なんですね……なるほど……=Ah, então você tem uma opinião diferente da minha. Estou vendo.
 あっ、た、確かに……その意見も一理ありますよね。=Ah, tem razão... Essa opinião tem algum sentido, não tem?
-返答否定2享楽{0}=Negação de resposta 2 gozo {0}
+//返答否定2享楽{0}=Negação de resposta 2 gozo {0}
 私とは違う意見ですけど……でも、多様性があった方が楽しいですもんね。=Sei que essa não é minha opinião... Mas é mais divertido ter diversidade.
 ふふっ、考え方が違うからこそ、惹かれあうのかも……なんて。=Hehe, talvez seja porque pensamos diferente que nos sentimos atraídos um pelo outro...
-返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
+//返答否定2嫌悪{0}=Resposta Negar 2 Ódio {0}
 そ、そうですね……私なんかとは違う意見ですよね……=Bem, você sabe... Você tem uma opinião diferente da minha...
 き、きっと……あなたの意見の方が普通です……わ、私が人とずれているのは分かっていますから……=Tenho certeza... Sua opinião é mais normal do que a minha... Porque sei que estou fora de contato...
-返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
+//返答否定2隷属{0}=Negação de resposta 2 escravidão {0}
 な、なるほど……あなたがそういう考え方なのでしたら……私も自分の意見を改めてみようかな……=Bem, se é assim que você vê as coisas, então acho que terei que mudar minha opinião...
 その意見、すごく参考になります……やっぱりあなたにも聞いて良かった……=Essa opinião é tão útil... Eu sabia que era bom ouvir de você também...

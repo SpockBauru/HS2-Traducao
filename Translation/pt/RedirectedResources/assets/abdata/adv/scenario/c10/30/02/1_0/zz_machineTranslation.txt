@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 あ……丁度貴方のお話をしていたところです。どこかで聞いていたのですか？=Ah... Estávamos falando de você. Você ouviu isso em algum lugar?
 どうも。貴方も仲間に入りますか？　ふふ、遠慮することはありませんよ。=Hi. Você gostaria de se juntar a nós? Hehe, não seja tímido.
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 どうやら、思いが通じたみたいですね。ここに貴方がいたら、絶対楽しいのにと……思っていたところです。=Bem, parece que o sentimento é mútuo. Eu estava pensando o quanto seria divertido ter você aqui.
 ふふ、私達のお話に混ざりに来たのですか？　貴方なら大歓迎ですよ♪=Hehe, você veio se juntar a nós para uma conversa? Você é mais do que bem-vindo.
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 二人で固まっていれば、絶対に来ると思いました。貴方の女性好きは有名ですから。=Eu sabia que se ficássemos juntos, com certeza você viria. Você é famoso por seu amor às mulheres.
 少し、目がギラついていますよ？　私達、品定めされてしまっていますか？=Seus olhos estão um pouco vidrados, não estão? Estamos sendo julgados?
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 はぁ、少しでも女性が固まってるいると、すぐ来るのですね。まるでハイエナです。=Huh, se uma mulher for mesmo um pouco endurecida, ela virá logo em seguida. Eles são como hienas.
 んぅ……楽しい一時が台無しです。貴方が来たからですよ。分かっていますか？=Mmm... Você está estragando minha diversão. É porque você está aqui. Você sabe disso, não sabe?
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 あ、えぇと、私達二人だけでは、会話が詰まりがちだったので……来て頂けて助かりました。=Uh, bem, foi fácil entupir a conversa só com nós dois, então... Foi bom ter vindo.
 あの、私達とお話しませんか？　貴方は私より、お話が上手ですから。きっと楽しい時間になると思います。=Hum, você gostaria de falar conosco? Você é um contador de histórias melhor do que eu. Tenho certeza de que vamos nos divertir muito.

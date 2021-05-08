@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ありがとう、楽しい話だったわ。=Obrigado, essa foi uma história divertida.
 あなたとのおしゃべり、すごく楽しかったわ。=Eu realmente gostei muito de conversar com você.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 ありがとう、本当に楽しい時間だったわ。=Obrigado, foi um momento realmente divertido.
 こんなに素敵なお話、聞かせてくれてありがとう。=Obrigado por compartilhar conosco uma história tão maravilhosa.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 お話だけでこんなに盛り上がるなんて、あなたって最高ね。=Você é o melhor, você é tão divertido só para conversar.
 あなたとのお話、最高に盛り上がったわ、ちょっと感じちゃったかも。=Eu tinha a melhor história com você. Acho que a senti um pouco.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 話してくれてありがとう、それじゃあね。=Obrigado por falar comigo. Tchau.
 それなりにいい話だったわ、それじゃあまたね。=Foi uma boa história por direito próprio. Vejo vocês então.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ありがとう、こんなに話してもらえるなんて幸せよ。=Obrigado. Tenho muita sorte em ter você falando tanto comigo.
 あなたの話しならいつでも聞くから、好きな時に声をかけてね。=Estou sempre aqui para ouvir se você quiser falar, então me dê um grito quando você quiser.

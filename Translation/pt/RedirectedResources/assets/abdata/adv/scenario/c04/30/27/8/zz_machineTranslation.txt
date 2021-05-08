@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 は？　どゆこと？　意味不なんですけどっ！=O quê? O que você quer dizer? Eu não entendo!
 え、こマ？　アンタ、どんだけ意気地なしなの？=O quê, Koma? Quanto você é um boceta?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あー、マジ萎えた。アタシ、ヒトを見る目はあるつもりだったんだけどなー。=Oh, estou realmente deflacionado. Achei que tinha um bom olho para as pessoas, mas...
 え、まさか本気で終わり？　うっわ、サイテー。期待したアタシが馬鹿だったわ。=Oh, você ainda não terminou a sério? Ugh, isso é terrível. Foi estúpido da minha parte ter esperanças.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あんさー、こーいう時間の無駄が、アタシ一番嫌いなわけ。このイライラ、どーしてくれんの？=Sabe, este tipo de perda de tempo é o que eu mais odeio. O que você vai fazer a respeito dessa frustração?
 アンタ、なにしに来たの？　アタシに嫌がらせ？　そーいうの、お呼びじゃないから。=O que você está fazendo aqui? Você está me assediando? Não é para isso que estou aqui.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 アハッ、アンタなかなか分かってるじゃん♪　そーそ、なんもしないがせーかいだから♪=Você sabe o que está fazendo. Você sabe o que está fazendo. Você sabe o que está fazendo.
 へぇ～、いざとなったら怖くなったってやつ？　キモくてビビりとか、救えないね。=Ah, é mesmo? Você é que se assustou quando se tratou disso? Você está assustado e assustado. Você não pode se salvar.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 えぇ……流石に萎えるんですけどぉ……アタシのこの火照りは、どーしてくれんの？=É que eu estou ficando um pouco tonto... O que você vai fazer com a minha queima?
 うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=Ugh, isso é uma droga... Quem poderia ter previsto que eles não fariam nada?
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 なに？　チョーシ悪かった？　そーいうのはさ、先に言ってくれないと困るんですけどー……=O quê? Foi ruim? Se você não me disser primeiro, eu terei que...
 アンタさー、なんか勘違いしてない？　アンタのやる気とかカンケーないから。アタシを気持ちよくしないで、他に何すんの？=Você está cometendo um erro, não está? Não quero saber de sua motivação. Se você não me faz sentir bem, o que mais você vai fazer?

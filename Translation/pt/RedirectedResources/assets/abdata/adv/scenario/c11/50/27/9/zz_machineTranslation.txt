@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 も、もぉ……力が入りまへん……=Eu não posso... Eu não posso...
 貴方の元気ぃ付いへいけじゅ……しゅみません……=Desculpe, não consigo acompanhar o seu entusiasmo...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 もっろ……貴方ぃ尽くしらいのれすが……力が及ばじゅ、しゅみません……=Sei que fiz o meu melhor por você... Mas não posso ajudá-lo...
 あらゆる意味れ……貴方ぃ骨抜きれす……=Em todos os sentidos da palavra... Você está desossado.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 貴方ぃ……負けへ……しまいまひた……=Você... Perdeu... O...
 あぁ……こぇが……快楽ろ……果てなのれひょうか……=Isto... É... O... Fim... Do... Prazer.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 もぉ……放っておいれくらしゃい……=Apenas... Deixe-me em paz...
 ここまれ……しなくへも……=Aqui... Ou não.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 しゅご過ぎて……言葉に出来ましぇん……=É simplesmente incrível demais... Para palavras.
 まだ……絶頂しへる気がしましゅ……=Eu ainda me sinto como se estivesse prestes a atingir o clímax...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 こえが……貴方の愛の……かたひなのれすね……=Então este é o som... De seu amor...
 あ……貴方の本気……うふふ……=Você está tão sério...

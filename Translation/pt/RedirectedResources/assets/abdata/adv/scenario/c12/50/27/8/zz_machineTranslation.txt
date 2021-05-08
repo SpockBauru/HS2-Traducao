@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ん？　なんだよ、何にもしないのか？=Hmm? O quê, você não vai fazer nada?
 何だよ……意味がわかんねぇ。=Que diabos... Não entendo.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 もしかして、体調悪いのか？　大丈夫なのかよ。=Por acaso você não está se sentindo bem? Você está bem?
 どうした？　なんか別の用事でもあったのか？=O que está acontecendo? Você tinha algo mais em mente?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ちょっと待て？！　なんでなんにもしねぇんだよ、おい！=Espere um minuto! Por que você não está fazendo nada? Ei!
 ここまで来といて、何にもしないなんて、意味分かんねぇだろ。=Você não sabe o que é vir até aqui e depois não fazer nada.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 何にもしないんだな？　じゃあ、俺帰るわ。=Você não vai fazer nada, vai? Bem, estou indo embora.
 何なんだよ、一体？　用がないなら帰るからな。=Mas que diabos? Se você não precisa de mim, eu vou embora.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 もう終わりなのか……もしかして、疲れでも溜まってるのか？=Você já terminou... Ou talvez você esteja apenas cansado?
 おいおい、焦らすつもりなら、次はもっとうまくやってくれよ？=Oh, vamos lá, se você vai me apressar, vai ter que fazer melhor da próxima vez, certo?
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 いいぜ、たまにはこういう焦らしもわるくない。=Não faz mal ser impaciente assim de vez em quando.
 まぁ、したくないならしょうがない……=Bem, se não quiser, não sei...

@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話{0}=Conversação {0}
+//会話{0}=Conversação {0}
 あら、照れていらっしゃるの？　そういう所もお可愛らしくて、襲ってしまいたいですわぁ……♪=Oh, você está envergonhado? Essa parte de você também é tão fofa que eu quero atacá-la ♪
 では、ふたりでいやらしいつがいとなりましょう、激しく、艶めかしく……うふふふ♪=Então, vamos ser um par de companheiros excitados, duros e lascivos.

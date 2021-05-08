@@ -3,13 +3,13 @@
 //***********************************************************************
 
 悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=Desculpe-me por ter acabado de aparecer do nada, mas você se importaria de ficar comigo por um tempo?
-好意50_汎用{0}=Favors 50_ Genéricos {0}
+//好意50_汎用{0}=Favors 50_ Genéricos {0}
 気が付いたらお前の部屋まで来てたんだよなぁ……ちょっとだけ邪魔してもいいか？=Acabei de descobrir que estava subindo ao seu quarto... Posso interrompê-lo por um segundo?
 忙しい所悪いな……なんか、急にお前の顔が見たくなっちまって……=Desculpe incomodá-lo, mas de repente eu queria ver seu rosto.
 お前の傍にいると、なんか安心するんだよ……今日も一緒にいてくれるか？=Eu me sinto meio seguro quando estou perto de você... Você vai ficar comigo hoje?
-好意50続き{0}=Favores 50 continuou {0}
+//好意50続き{0}=Favores 50 continuou {0}
 ありがとな……それじゃ、俺はこれで帰るよ。=Obrigado... Por isso, vou andando.
 もうこんな時間かよ……悪いな、長居しちまって……それじゃ、ありがとな。=Não posso acreditar que já seja tão tarde... Desculpe por ter ficado tanto tempo... Obrigado por isso.
 やっぱ、お前と一緒にいられるのが一番楽しいな……それじゃ、またな。=Afinal, é o mais divertido que posso ter com você... Por isso, até logo.
 なんか、ちょっとお前が何してんのかなぁって思って……押しかけちまったぜ。=Eu estava me perguntando o que você estava fazendo... Então eu entrei.
-好意80_汎用{0}=Favores 80_ Genéricos {0}
+//好意80_汎用{0}=Favores 80_ Genéricos {0}

@@ -2,20 +2,20 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 も、もぉ……んんっ、身体い力あ……入いましぇんわぁ……=Não consigo... Não consigo... Não consigo entrar no meu corpo...
 女ろ性おなんはるはを……あ、う……教え込んれ頂いまひはわぁ……=Sou uma mulher, e sou um homem, e sou uma mulher, e sou um homem, e sou uma mulher, e sou um homem.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 沢山、愛ひへ頂ひ……はぁ、はぁ……有難う、ごあいあふぅ……=Muito obrigado, amor... Hahahaha... Muito obrigado, amor...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 ヘックスい……はぁ、飲い込あえへ……ひまいまひはぁ……♪=Hex... Haha, beba... Himimaimaahihaha...
 はぁ、はぁ……私の、んんっ、負へ、れふわぁ……♪=Huh, huh... Meu, hmm, negativo, esquerdista ♪
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 もう二度ろ……、呼あらいれ……くらはいまひぃ……=Vou fazer de novo...
 あらはあ……さ、最低、れふ……=Oh, meu... Bem, isso é uma droga, Rafe...
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 もっろ……んん、はぁ、もっろ私い……快楽、を、教えへくらはいぃ……=Por favor, me ensine como me satisfazer...
 こんら……はぁ、はぁ、ふしあらな私を……ゆ、許ひへくらはいまひぃ……=Bem, eu não vou decepcioná-lo. Assim... Me perdoe, estou aqui...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 んふ……こんら刺激的あヘックフ……んふふ、最高れすわぁ……♪=Mmmm... Isto é tão emocionante... Hihihi... Isto é tão bom...
 ん、んふ、んふふふ……壊れるまれ……ひへふらはっへも……宜ひはっはろれふよぉ……？=Hihihi... Estou quebrada... Hihefurahhemo... Yihiharorefuyo?

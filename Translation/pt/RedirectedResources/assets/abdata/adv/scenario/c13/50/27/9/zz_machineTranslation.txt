@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ん、はぁ……もう、動けないです……=Huh, eu não posso mais me mover...
 はぁ、はぁ……こんなになるまでするなんて……思いませんでした……=Huh, huh... Não pensei que chegaria tão longe...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 体力を使い果たすまであなたを感じられて……私、幸せです……=Estou tão feliz de poder sentir você até que eu tenha esgotado todas as minhas forças.
 あなたの愛情を一身に浴びすぎて、はぁ、はぁ、疲れきっちゃいました……=Tive tanto do seu amor, ha, ha, estou exausto...
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 うふふ、はぁ、はぁ、もう動けないです……エッチって本当に楽しいですね……=Hihihi, ha, ha, eu não posso mais me mover... Sexo é realmente divertido...
 んん……感じすぎて疲れ果てちゃいました、うふふ……=Mmm... Estou exausto de sentir tanto. Hihihi...
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 はぁ、はぁ、もう、許してください……身体が言うこと聞かないです……=Huh, huh, por favor me perdoe... Meu corpo não me ouve...
 この程度で疲れちゃう自分も……嫌いです……=Eu me odeio... Por estar tão cansado.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 エッチで疲れ切った私はどうですか……？　従順さを感じますか……？=O que você sente por mim, exausto do sexo? Você se sente submisso?
 もう疲れちゃいました……頭の中があなたと快感でいっぱいです……=Estou tão cansado... Minha cabeça está cheia de você e prazer...
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 もう身体も心もボロボロです……うふふふ、ふふ……♪=Meu corpo e minha mente já estão naufragados... Hihihi, hihihi... Hihihi
 見てください、疲れ切って動けなくなっちゃいました……うふふ、好き放題ですよ……♪=Olhe para mim, estou tão exausto que não posso me mover... Hihihi, posso fazer o que eu quiser ♪

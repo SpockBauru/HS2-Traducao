@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-前フリA普通{0}=Prelúdio A Normal {0}
+//前フリA普通{0}=Prelúdio A Normal {0}
 よお。なんだ、オレらの邪魔をしに来たのか？=Ei, cara. O quê, você está aqui para se meter conosco?
 ハッ、予想通りだ。女二人でいたら、絶対寄って来ると思ったよ。=Ha, como esperado. Eu sabia que você apareceria se houvesse duas mulheres.
-前フリA好意{0}=Prelúdio A Favor {0}
+//前フリA好意{0}=Prelúdio A Favor {0}
 おい、二人でオマエのことを待っててやったんだ。感謝しろよ。=Olá, estávamos esperando por você. Você deve ser grato.
 ほう、丁度オマエの話をしてたところだ。地獄耳ってやつか？=Bem, nós estávamos falando de você. Orelhas do inferno, hein?
-前フリA享楽{0}=Prelúdio A Kyouraku {0}
+//前フリA享楽{0}=Prelúdio A Kyouraku {0}
 ほら来たぞ。女に飢えた、卑しい豚が。=Aí vem ele. Um porco faminto de mulher, desprezível.
 何しに来た？　欲望がダダ漏れで気持ち悪ぃぞ？=O que você está fazendo aqui? Para que toda essa luxúria? É nojenta.
-前フリA嫌悪{0}=Prelúdio A Disgust {0}
+//前フリA嫌悪{0}=Prelúdio A Disgust {0}
 なんで寄って来た？　お呼びじゃねぇぞ？=Por que você apareceu? Você não é procurado aqui.
 女同士で楽しんでるところにたかってきやがって、オマエはハエか？=O que você é, uma mosca na pomada?
-前フリA隷属{0}=Prelúdio Um Escravo {0}
+//前フリA隷属{0}=Prelúdio Um Escravo {0}
 ハッ、二人いれば、どっちかは引っかけられると思ったか？=Huh, você pensou que se houvesse dois de vocês, um de vocês poderia engatar?
 おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa. Você quer se juntar a ele?

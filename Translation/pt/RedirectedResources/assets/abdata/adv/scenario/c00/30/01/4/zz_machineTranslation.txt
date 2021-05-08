@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 仰っていることが分かりかねます。そんなことより、セックスです。=Eu não entendo do que você está falando. Não se trata disso, trata-se de sexo.
 元に……？　よく意味は分かりませんが、きっとセックスをすれば丸く収まるのではないでしょうか？=Original? Eu não sei realmente o que isso significa, mas certamente que fazer sexo vai arredondar as coisas...
-Home{0}=Home{0}
+//Home{0}=Home{0}
 ……すみません、興奮のあまり気が急いていた様です。=... Desculpe, devo ter tido pressa com toda essa excitação.
 ……我を忘れていました、すみません。=... Esqueci de mim mesmo, sinto muito.

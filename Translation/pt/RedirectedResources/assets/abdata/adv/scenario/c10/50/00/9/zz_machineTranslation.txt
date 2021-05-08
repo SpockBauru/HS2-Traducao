@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 その……この後、まだお時間はありますか？　よろしければ……お話以外でも、貴方のことを教えてください。=Bem... Você ainda tem algum tempo depois disso? Se você não se importa... Por favor, me fale mais sobre você.
 えぇと、いきなりこんなことを言うのは、はしたないと思われてしまうかもですが……この後、シませんか？=Bem, sei que pode parecer imodesto dizer algo assim do nada, mas... Você gostaria de transar comigo depois?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あ、貴方さえよければなのですが。これでお別れは寂しいので……できれば、二人で気持ちよくなりながら、お話の続き……しませんか？=Oh, se não se importar. Estou triste por dizer adeus agora, então se você pudesse, por que não continuamos nossa conversa enquanto ambos nos sentimos bem?
 あの……お話だけで帰ってしまわれるのですか？　身体の方は、もうすっかり準備できていますから……貴方ともっと、一緒にいさせてください。=Hum... Você está saindo só para conversar? Meu corpo já está pronto... Então, por favor, deixe-me passar mais tempo com você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 折角、会話でいい雰囲気にしたのに……このまま帰ってしまうのは勿体なくありませんか？　私なら……きっと貴方を満足させられますよ？=Seria uma pena para você ir para casa depois de termos tido uma conversa tão boa, não seria? Tenho certeza de que posso satisfazê-lo.
 すみません……実はお話をしながら、ずっと疼いてしまっていて……少しだけでもいいので、鎮めるのを手伝って頂けませんか？=Desculpe... Na verdade estou sempre formigando enquanto falamos... Você pode me ajudar a acalmar, mesmo que seja só por um minuto?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 貴方のつまらない話に付き合わされて、私はストレスが溜まってしまいました……ですので、今度は私のストレス解消に付き合ってもらいます。=Eu tenho sido estressado por suas histórias chatas... Então agora você vai me ajudar a aliviar meu estresse.
 意外と臆病者なのですね。お話だけして終わりなんて……ここでは相手を馬鹿にしているのと同じですよ？=Você é surpreendentemente tímido, não é mesmo? Falar com eles e acabar com isso... É o mesmo que gozar com eles aqui, não é?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 素敵なお話のお礼に……私にご奉仕させて頂けませんか？　絶対に、気持ちよくいたしますから。=Como agradecimento por sua maravilhosa história... Você vai me deixar servi-lo? Definitivamente vou fazer você se sentir bem.
 私……きっと上手くお話できていなかったと思うので。その、身体を使ってなら、少しは埋め合わせもできるかと思うのですが……=Tenho certeza de que não estava falando bem. Bem, se você usar seu corpo, acho que posso compensar um pouco...

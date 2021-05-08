@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 火照った身体がすぐ冷える感じは悪くねぇな……=Não é ruim sentir seu corpo esfriar depois de um longo dia...
 冷えすぎたらまたヤればいいだけだしな。わりと使える場所なんじゃねぇか？=E se ficar muito frio, podemos simplesmente foder tudo de novo. É um lugar bastante útil, não é?
 プールの中でするってのは、不思議な感覚だな。=É uma sensação estranha, fazer isso em uma piscina.

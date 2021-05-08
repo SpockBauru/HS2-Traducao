@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ……痴漢は犯罪です。それはどこであろうと変わりません。=... O furto é um crime. Isso não muda, não importa onde você esteja.
 裁かれるその時を震えて待てば良いのです。=Você pode esperar com tremor por esse momento em que será julgado.
 ……貴方は人の風上にも置けない下劣な人間です。=... Você é um ser humano vil que não merece melhor.

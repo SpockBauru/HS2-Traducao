@@ -2,20 +2,20 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 むふふー、女の子が２倍なら興奮も２割増しっすかー？=Hihihi... Se houver o dobro de garotas, há 20% a mais de excitação, certo?
 ハーレムの醍醐味ーちゃんと感じられたっすかー？=Você sentiu a verdadeira alegria do harém?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 なんだかあなたの取り合いをしてるみたいで燃えちゃったっすー♪=É como se estivéssemos lutando por você.
 あなたを射精に導けたのも嬉しいんすけどー女の子同士に芽生える戦友感も心地いいっすー。=Estou feliz por ter podido levá-lo à ejaculação, mas também estou confortável com o senso de camaradagem que se desenvolve entre as garotas.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 どっちがあなたを気持ちよくできるか競争はー引き分けっすねー。=A corrida para ver quem pode fazer você se sentir melhor é um empate.
 私が世界一スケベだと思ってたっすけどーいいライバルができちゃったみたいっすねー。=Pensei que eu era o cara mais skanki do mundo, mas parece que eu tenho um bom rival.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 ハーレムをこれでもかってぐらい楽しんでたっすねー。=Ele estava desfrutando do harém o máximo que podia.
 まーふたりがかりならこんなもんすねー。お疲れさんっすー。=Bem, isso é o que duas pessoas podem fazer. Bom trabalho.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 ２人で精液を搾り取るのって超絶スケベっすね～♪=Duas pessoas espremendo o sêmen uma da outra é super erótico ~ ♪
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 女の子と一緒にセックスするとこんなこともしていいんだって、勉強になります♪=Você aprende que não há problema em fazer isso quando você faz sexo com uma garota.
 女の子にも私の痴態を見られちゃいました……穴があったら入りたい、です……=Até as garotas me viram em ação... Se eu tivesse um buraco, eu entraria...

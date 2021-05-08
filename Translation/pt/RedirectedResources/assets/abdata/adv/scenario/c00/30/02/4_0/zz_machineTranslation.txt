@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 それでは、失礼させていただきます。=Agora, se me dão licença.
 私たちはこれで失礼します。=Deixaremos você com isso.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 機会がありましたら、またお話にお付き合いいただけると嬉しいです。=Se você tiver uma chance, espero que se junte a nós para outra história.
 今度二人きりでゆっくりお話ししたいものです。=Gostaria de falar com você a sós da próxima vez.
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 このまま三人でセックスをと思いましたが、そういった雰囲気ではありませんね。では、私は失礼します。=Eu pensava que nós três íamos fazer sexo, mas não estou com disposição. Agora, se me dão licença.
 三人でお話するのも楽しいものですね。機会がありましたら、またお付き合いください。=É divertido para nós três conversarmos. Se você tiver uma chance, por favor, volte e junte-se a nós.
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 では、私はこれで失礼します。=Agora, se me dão licença, eu tenho que ir.
 これ以上話すことはないので、私は失礼させていただきます。=Não tenho mais nada a dizer, portanto, vou deixá-los a seu critério.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 それでは、私たちはこれで失礼致します。=Agora, se nos derem licença, temos alguns negócios a tratar.
 次回はお話だけでなく、セックスもしませんか？=Da próxima vez, por que não falamos apenas, mas também fazemos sexo?

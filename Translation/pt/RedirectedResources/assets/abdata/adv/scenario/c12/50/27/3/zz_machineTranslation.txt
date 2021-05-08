@@ -2,21 +2,21 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 痛いだろ、バカ。もうちょっと手加減しろよ。=Você está me machucando, idiota. Tenha um pouco mais de calma comigo.
 あんなに痛いのは勘弁して欲しいぜ、まったく。=Eu não quero que doa assim, cara. Não quero que doa nada.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 お前、あれで興奮してたのか？　しようがねぇなぁ、まったく。=Você ficou entusiasmado com isso? Não posso de forma alguma evitar.
 お前が喜んでたのはいいんだけどさ……結構、キツかったんだぜ。=Quero dizer, estou feliz que você esteja feliz com isso, mas... Foi muito difícil para você.
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 痛かったけど、気持ち良くなれるならなんだっていいかな。=Dói, mas acho que qualquer coisa que me faça sentir melhor é boa.
 俺、痛いのより、気持ちいいの方が好きなんだけどな。=Eu gosto mais quando me sinto bem do que quando dói.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 あんなの痛いだけだろ、何の意味があるんだよ。=Essa coisa só dói, cara. Qual é o objetivo?
 ふざけんなよ……ただ痛かっただけじゃねぇか。=Não seja tolo... Só doeu, não foi?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 中々の苦痛だったよ……悪くないな。=Foi muito doloroso... Nada mal.
 あぁいうプレイが趣味なのか？　だったら、とことん付き合うけどね。=É esse o tipo de jogo em que você está envolvido? Se for esse o caso, eu alinharei com ele.
-依存{0}=Depende (0)
+//依存{0}=Depende (0)
 どんな苦痛だって、お前が望むなら全部受け入れるぞ。=Seja qual for a dor que você queira, eu vou levar tudo.
 こんな苦痛、全部受け止められるのは、俺ぐらいなものだぞ。=Eu sou o único que pode aguentar toda essa dor.

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なにしてたのA普通{0}=O que você estava fazendo?
+//なにしてたのA普通{0}=O que você estava fazendo?
 この施設について話し合ってたんすよー。=Estávamos discutindo esta facilidade!
 結局のところ、男性はエロい女性が好きなのかーって話をしてたんすよー。=Afinal, estávamos falando sobre se os homens gostam de mulheres eróticas.
-なにしてたのA好意{0}=O que você estava fazendo?
+//なにしてたのA好意{0}=O que você estava fazendo?
 身体の関係から始まる恋はあるのかーってそういう話っすよー。=É uma história sobre se existe amor que começa com uma relação física.
 好きな人とセックスをすると気持ちいいすよねーって話をしてたんす。=Estávamos falando sobre como é bom transar com alguém de quem se gosta.
-なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
+//なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 セックスの時の話なんすけどー攻めるのって超楽しいっすよねーって話っすー。=Estou falando de quando fazemos sexo... Estou falando de como é divertido atacar.
 //フェラってヤる方は相手の反応で気持ち良くなってるって話をしてたんすよー。=Estávamos falando sobre como os boquetes fazem com que a pessoa se sinta melhor por causa da maneira como a outra pessoa reage.
-なにしてたのA嫌悪{0}=O que você estava fazendo?
+//なにしてたのA嫌悪{0}=O que você estava fazendo?
 セックスって好きな人とヤるのが最高すよねーって話をしてたんすよー。=Estávamos falando sobre como o sexo é melhor quando é com alguém que você ama.
 最近、けっこー虚無なときがあるよねーって話っすー。=Estou falando do tempo em que me sinto muito vazio hoje em dia.
-なにしてたのA隷属{0}=O que você fez, A-slave {0}
+//なにしてたのA隷属{0}=O que você fez, A-slave {0}
 やっぱセックスは相手の好きなようにヤラれたいって話っすー。=Estou falando de querer ser fodido da maneira que eles querem ser fodidos.
 襲われるのってアリかナシかーって話してたんすよー。=Estávamos falando sobre se é possível ser atacado ou não.

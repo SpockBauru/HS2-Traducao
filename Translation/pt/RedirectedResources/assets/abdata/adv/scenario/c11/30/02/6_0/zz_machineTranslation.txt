@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後A普通{0}=Sexo posterior A normal {0}
+//H事後A普通{0}=Sexo posterior A normal {0}
 破廉恥な行為でしたが、喜んで頂けたのなら幸いです。=Foi um ato vergonhoso, mas estou feliz que você tenha ficado satisfeito com isso.
 背徳的だからこそ、興奮してしまったのでしょうね……=É imoral, e acho que foi por isso que fiquei tão excitado...
-H事後A好意{0}=Sexo posterior A favor {0}
+//H事後A好意{0}=Sexo posterior A favor {0}
 ……偶にでしたら、こういった行為も悪くないかもしれません。=... Se for apenas de vez em quando, este tipo de ação pode não ser tão ruim assim.
 その……私だけでは、もう貴方を絶頂まで導けないのでしょうか……？=Bem... Não posso mais levá-lo ao clímax por mim mesmo?
-H事後A享楽{0}=Sexo poste A diversão {0}
+//H事後A享楽{0}=Sexo poste A diversão {0}
 三人での行為に、興奮を隠しきれませんでした。=Eu não podia esconder minha excitação com o que nós três estávamos fazendo.
 全員の仲が深まった気が致しませんか？=Você não sente que estamos todos nos conhecendo melhor?
-H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
+//H事後A嫌悪{0}=Sexo posterior Uma aversão {0}
 この様な機会が、もう訪れないことを祈っております。=Espero que tal oportunidade nunca mais venha.
 だらけきった顔で私達を見ないで下さい。=Não olhe para nós com sua cara de queixo solto.
-H事後A隷属{0}=Sexo posterior Uma subjugação {0}
+//H事後A隷属{0}=Sexo posterior Uma subjugação {0}
 さんぴぃ……とても破廉恥でしたね。=Sampy... Isso foi muito vergonhoso.
 次の機会までに、さんぴぃの技術を磨いてまいります。=Eu vou polir minhas habilidades sanitárias antes da próxima oportunidade.

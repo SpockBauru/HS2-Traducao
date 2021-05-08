@@ -3,7 +3,7 @@
 //***********************************************************************
 
 ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=Deixei meu cheiro em seu quarto, pouco?
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 貴方は何でもお見通しなのですね。ふふ、私が期待して部屋に来たこと……最初から分かっていたのですよね？=Você sabe tudo, não sabe? Hehe, que eu vim ao seu quarto esperando você... Você sabia desde o início, não sabia?
 もういっそ、ここで一緒に暮らしたいくらいです♪　えぇと、貴方さえよければ……私はそれなりに本気で……言っていますよ？=Eu prefiro morar aqui com você... Se não se importa... Estou falando sério.
 さて、あまり長居してもご迷惑になってしまうので……とても名残惜しいですが、失礼いたします。後は……自分の部屋で、思い出してシます……=Agora, se eu ficar muito tempo, eu serei um incômodo para você... Por isso terei muita pena de sair, mas eu irei embora. Quanto ao resto, estarei no meu quarto, lembrando-me...

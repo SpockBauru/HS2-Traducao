@@ -2,13 +2,13 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 俺を探しにきてたのか？　わざわざありがとな。=Você veio à minha procura? Obrigado por ter vindo até aqui.
 やっぱり、俺たちってお互いに求め合ってるんだろうな。=Acho que afinal nos queremos um ao outro.
 会いたいと思ったら、お前に会えるなんて……これってやっぱり運命だよな。=Se eu quisesse vê-lo, eu poderia vê-lo... Afinal de contas, isto é o destino.
-風呂{0}=Banho {0}
+//風呂{0}=Banho {0}
 よぉ……！　わざわざ風呂まで俺を探しにきてくれたんだな。嬉しいぜ。=Yo! Você veio até o banho para me encontrar. Estou feliz.
 風呂で出会えるなんて、一緒に入るのが決まりみたいだな。=Não acredito que nos conhecemos no banho. É como se tivéssemos que entrar juntos.
-用件{0}=Negócios {0}
+//用件{0}=Negócios {0}
 用件はわかってるよ。俺とセックスをするためなんだよな？=Eu sei o que você quer. É para transar comigo, não é?
 一応聞いておくけど、俺とのセックス以外に何か用があるのか？=Só por curiosidade, o que você quer além de transar comigo?

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 悪くないと思うわ、その話。=Eu não acho que seja uma má idéia, essa história.
 いいわね、私この話、大好きよ。=Ótimo, eu adoro esta história.
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 あなたと、この話ができるなんて、すごく嬉しいわ。=É tão bom poder falar sobre isto com você.
 こんなに楽しくおしゃべりができるなんて、相手があなただからかしら？=Será que é porque é com você que eu estou me divertindo tanto na conversa?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 いいわね、おしゃべりしてるだけで、なんだか身体が火照ってくるわ。=Isso é bom. Só conversar com você me faz sentir como se eu estivesse em chamas.
 おしゃべりも楽しいけど、私、気持ちいい事も大好きよ。=Eu adoro conversar, mas também adoro me sentir bem.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 あなたの話も、退屈しのぎにはなりそうね。=Acho que sua história vai me manter ocupado.
 この話、正直あんまりよくわからないのよね。=Sinceramente, não sei muito sobre esta história.
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 あなたとこんな事お話できるなんて、私本当に幸せだわ。=Estou tão feliz em poder falar sobre tudo isso com você.
 楽しいわね……あなたのお話、もっと聞きたいわ。=Tanta diversão... Mal posso esperar para ouvir mais de suas histórias.

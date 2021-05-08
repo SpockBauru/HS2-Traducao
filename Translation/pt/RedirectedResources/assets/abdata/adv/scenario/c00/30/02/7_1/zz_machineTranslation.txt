@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+//なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 私たちに何かありましたら、またお声がけください。=Se houver algo que possamos fazer por você, por favor nos ligue novamente.
 では、お暇なときはお話でもしましょう。=Então, quando você estiver livre, vamos conversar.
-なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+//なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
 本当に良いのですか？　ご用の際は遠慮なく仰ってくださいね。=Você tem certeza de que quer fazer isso? Se você precisar de alguma coisa, não hesite em pedir.
 またいつでもお声がけください。=Por favor, sinta-se à vontade para nos contatar novamente a qualquer momento.
-なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+//なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
 お話も3Pも喜んでお付き合い致しますので、お暇な時にお誘いください。=Terei prazer em conversar e ter trios com você, portanto, convide-me quando você estiver livre.
 何でもない？　……ああ、本調子じゃなかったのですね。失礼いたしました。=Nada? Oh, você não estava na melhor forma, estava? Minhas desculpas.
-なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+//なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
 ただ邪魔しに来ただけなのですね。=Você está aqui apenas para interromper.
 嫌がらせのために話しかけられたのですね。=Falaram com você a fim de me assediar.
-なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+//なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
 もう少々ご一緒したかったのですが、お忙しいなら致し方ありません。=Eu gostaria de ter me juntado a você por um pouco mais de tempo, mas se você estiver ocupado, não há nada que eu possa fazer.
 次は是非、3Pをしましょう。=Da próxima vez, vamos fazer uma ménage à trois.

@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 ほえー、なるほどなるほど……本当にそんなことまでしちゃうんですねー！=Huh, estou vendo, estou vendo... Você realmente vai tão longe!
 えーっと……それはさすがに……わたしの想像を超えているというかー……あははーっ。=Bem... Isso está de fato... Além da minha imaginação... Hahaha...
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 おおお、そんなエッチなことがっ……それは聞き捨てなりませんねー！=Oh, isso é tão levado... Isso não é bom de se ouvir!
 もしかして……みんなそーなんですか？　だとしたら、わたしもエッチに対する認識を改めないと！=É possível que... Todos sejam assim? Se for esse o caso, então eu preciso mudar minha percepção do sexo!
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 あなたさんもそーいう感じなんですか？　ふむー……でしたらわたしも色々勉強しないといけませんね。=Você também é assim? Se for esse o caso, preciso saber mais sobre isso.
 そ、そんなことが好きなんですか？　ほえー、意外です……でも……ちょっと興味ありますよ、えへへ。=Então, você gosta desse tipo de coisa? Uau, isso é inesperado... Mas... Eu estou meio interessado, ehehe.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 あのー……その話って、今ここでしなきゃいけないことですかー？=Hum... É algo sobre o qual precisamos falar aqui e agora?
 ふむー、なんですぐにそーいう話したがっちゃいますかね？=Hmmm... Por que você quer falar sobre isso agora mesmo?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 そ、そんなにエッチなことがっ……でも……そーですね……あなたさんが相手だったら平気な気もします、えへへ。=Isso é tão safadinho... Mas... Bem... Me sinto bem se for com você, eh.
 そーいうこと、どーしてもしてみたいって言われたら……うーん、受け入れちゃうかなー。だってわたし、そーいう性格ですしー！=Se você dissesse que queria fazer algo assim... Bem, acho que eu aceitaria. Porque eu sou esse tipo de pessoa!

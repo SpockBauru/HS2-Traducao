@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 それじゃ、解散でいいな？　オレはもう行くぞ？=Então, estamos nos separando, certo? Eu vou, está bem?
 よし、こんなところだろ。ずっと話してても、飽きるだけだしな。=Ok, é o seguinte. Se continuarmos falando sobre isso, vamos ficar entediados.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 話は終わりだ。ほら、解散するぞ。=Fim da história. Vamos lá, vamos acabar com isso.
 さて、一度終わりにするか。また話したくなったら、集まればいい。=Bem, vamos lá acabar com isto. Se você quiser conversar novamente, podemos nos encontrar.
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 それじゃあ、終わりでいいな？　これ以上は、眠くなってきそうだ。=Então estamos conversados, certo? Mais disto e vou começar a ficar com sono.
 まぁまぁ楽しめた。終わるなら、今が丁度いいだろうな。=Estava tudo bem, eu gostei. Se isso vai acabar, agora seria um momento tão bom quanto qualquer outro.
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 もう解散でいいな？　オマエと同じ空気を吸うのが、嫌になってきた。=Podemos nos separar agora? Estou ficando farto e cansado de respirar o mesmo ar que você.
 さぁ、解散だ。これ以上は本気で無駄な時間になるからな。=Agora, separem tudo. Porque tudo isso é uma séria perda de tempo.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 さて、解散するか。ダラダラ話してても、仕方ねぇしな。=Bem, vamos nos separar. É inútil falar sobre isso.
 さぁ、終わりだ終わり。一度区切らねぇと、いつまでも話が続きそうだからな。=Agora, o fim, o fim. Se não acabarmos com isso uma vez, a história continuará para sempre.

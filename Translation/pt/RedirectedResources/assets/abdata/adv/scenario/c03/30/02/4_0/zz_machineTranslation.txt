@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-会話事後A普通{0}=Posto de Conversação A Normal {0}
+//会話事後A普通{0}=Posto de Conversação A Normal {0}
 それじゃ、そろそろ解散しよっか。楽しかったね♪=Bem, então vamos nos separar em breve. Isso foi divertido.
 うん、皆で話すと面白いね。またそのうち集まろ？=Sim, é divertido conversar com todos. Vamos nos reunir novamente um dia destes.
-会話事後A好意{0}=Um favor após a conversa {0}
+//会話事後A好意{0}=Um favor após a conversa {0}
 さて、それじゃあこの辺で。あんまり話し込むと、それぞれの時間がなくなっちゃうしね。=Bem, por enquanto é tudo. Se falarmos demais, não teremos tempo um para o outro.
 よっし、ではかいさーん！　あ、話を続けたい人は、そのまま残ってもいいよ？=Muito bem, então! Oh, se você quiser continuar falando, você pode ficar aqui, ok?
-会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
+//会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
 ほいほい、こんなもんかな？　じゃ、皆まったね～♪=Então é isso, hein? Vejo todos vocês mais tarde.
 とりあえずまとまった感じかな？　まぁ続きは、またそのうちってことで。=Acho que, por enquanto, tudo está se unindo. Bem, eu lhes direi o resto em breve.
-会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
+//会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
 じゃあ、これで終わりでいい？　結構な時間使っちゃたし、私はもう行くね？=Bem, podemos simplesmente acabar com isto? Passamos muito tempo juntos. Eu vou, está bem?
 はい、それじゃ終わり。まだ何かあるなら、私抜きでお願いね。=Pronto, já chega. Se houver mais alguma coisa, por favor, faça-o sem mim.
-会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
+//会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
 それじゃ、二人ともありがとね。話ができて楽しかった。=Bem, obrigado, aos dois. Foi divertido conversar com você.
 じゃあ解散しますか。二人とも、風邪引かないようにね。=Então vamos nos separar. Vocês dois, não se resfriem.

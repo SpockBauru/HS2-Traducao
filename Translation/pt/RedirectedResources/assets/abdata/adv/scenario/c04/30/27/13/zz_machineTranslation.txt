@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 ぅっ……ちょ、待った……なんかヤバイ……身体が熱くて……これ以上したらヤバイ感じ……=Oh... Espere... Isso não é bom... Meu corpo está tão quente... Parece que se eu fizer mais alguma coisa...
 うぅ……アンタ……アタシを壊す気……？　んく、はぁっ、息が上手く……出来ないんですけど……=Você está... Você está tentando me destruir? Não consigo... Respirar bem, mas...

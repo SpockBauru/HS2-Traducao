@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 へぇ、そういう趣味があったんだ……=Não sabia que você tinha esse tipo de gosto...
 うそ、そんなことまでしちゃうの？=Ohhh. Você faria isso?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 えっと……もうちょっと詳しく聞かせて？=Um... Você pode ser um pouco mais específico?
 うーん……ちょっと変態っぽくない？=Hmm... Um pouco pervertido, você não acha?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 それ分かる。ほら、私も性欲バカだし……=Eu sei o que você quer dizer. Veja, eu também sou um idiota sexual, então...
 なるほどね、お前はそっち系が好きなわけだ？=Estou vendo. Então você gosta desse tipo de coisa, não é?
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 お前さぁ……下ネタしか話せないの？=Você sabe... Tudo o que você pode falar é sobre o resultado final?
 これさぁ……セクハラってやつじゃないの？=Isto não é... Assédio sexual?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 いっつも下ネタばっかり……でも、嬉しいな……=Você está sempre falando mal de mim... Mas fico feliz...
 えっぐ……そこまでは私も流石に……=Não tenho certeza se eu iria tão longe...

@@ -2,13 +2,13 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-汎用{0}=Objetivo Geral {0}
+//汎用{0}=Objetivo Geral {0}
 うふふ、本日もお元気そうで何よりでございます。=Ummm... Estou feliz de ver que você está indo bem hoje.
 精巣の調子はいかがでしょうか？=Como estão seus testículos?
 私が会いたいと焦がれていたのが、伝わったのでしょうか……お会いできて、大変嬉しく存じます。=Será que você poderia dizer que eu estava impaciente para vê-lo... Estou muito feliz em vê-lo.
-風呂{0}=Banho {0}
+//風呂{0}=Banho {0}
 お風呂場でお会いできるなんて、昂ってしまいます。=Estou tão entusiasmada em vê-lo no banheiro.
 私を求めて、お風呂場まで？　大変嬉しいです。=Você me queria e foi ao banheiro? Estou muito feliz.
-用件{0}=Negócios {0}
+//用件{0}=Negócios {0}
 では、こちらへ……早速、子種を注いで下さいませ。=Agora, venha aqui... E derrame sua semente o mais rápido possível.
 善は急げと申しますので、子作り致しましょう。=A melhor coisa a fazer é se apressar, então vamos fazer um bebê.

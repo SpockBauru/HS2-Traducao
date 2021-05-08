@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-普通{0}=Normal {0}
+//普通{0}=Normal {0}
 あー、なんていうかアレだね……ムラムラしてきた的な？　アンタもそうじゃない？=Sabe, eu estou meio... Excitado, sabe? Não é isso que você é?
 ねぇ……これから時間ある？　ちょっと軽くでもいいから、気持ちいことしない？=Ei... Você tem um minuto? Você quer fazer algo leve, algo que se sinta bem?
-好意{0}=Favores {0}
+//好意{0}=Favores {0}
 話してたら、なんか身体疼いてきちゃったかも。アンタだって、そのつもりで話しかけて来たんでしょ？=Acho que estou começando a ter uma sensação dolorosa quando falo com você. Foi por isso que você veio falar comigo, não foi?
 あーごめ、アタシ……ちょっと欲求不満かも？　アンタも気持ちよくしてあげるからさ、相手してくれる？=Sinto muito, estou... Um pouco frustrado. Também vou fazer você se sentir bem. Você vai brincar comigo?
-享楽{0}=Prazer {0}
+//享楽{0}=Prazer {0}
 まさか、話だけで終わりってことは無いっしょ？　話してる間ソワソワしてたの、分かってんだかんね？=Você não vai apenas falar sobre isso, vai? Você sabe como eu estava nervoso enquanto estávamos conversando, certo?
 んふ、しゃーない。アタシから誘ったげる♪　エッチしよ？　もうまどろっこしいトークとかはいいから。=Não é de se admirar. Vou convidá-la para sair... Vamos fazer sexo? Não preciso mais da sua conversa descuidada.
-嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Repugnância {0}
 なんか癪だけど、もうアンタでいーや。ムラムラしてきたから、ちょっと相手して。=Não sei o que há de errado comigo, mas não quero mais ser você. Estou ficando excitado, por isso preciso de uma pequena companhia.
 めっちゃ必死に話してるから、ちょっとだけチャンスあげる。アタシの性欲解消に付き合って？=Você está falando muito duro, então vou lhe dar uma chance. Você virá comigo para aliviar a minha libido?
-隷属{0}=Escravidão {0}
+//隷属{0}=Escravidão {0}
 トークも楽しかったけど……もっと楽しいこともあるじゃん？　今度はそっちしない？=Falar foi divertido, mas... Há mais coisas divertidas a fazer, certo? Por que não fazemos isso da próxima vez?
 ねぇ、アタシの予想が正しければ……今すぐシたいと思ってるのはアタシだけじゃ無い筈なんだけど……どう？=Ei, se eu estiver certo, não sou o único que quer fazer isso agora... O que você acha?

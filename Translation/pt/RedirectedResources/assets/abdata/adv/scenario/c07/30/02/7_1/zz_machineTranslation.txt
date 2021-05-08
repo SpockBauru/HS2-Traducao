@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
+//なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 ったく、意味分かんねぇやつだな。=Eu não sei de que diabos você está falando.
 結局オマエは、何がしたかったんだ？=Afinal de contas, o que você queria?
-なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
+//なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
 オマエ、意味不明なことばっかしてると、誰からも相手されなくなるぞ？=Sabe, se você continuar fazendo coisas que não fazem sentido, não será levado a sério por ninguém.
 はいはい、ただの構ってちゃんだな。めんどくさいやつめ。=Sim, sim, sim. Você é apenas um homenzinho atencioso. Você é um chato.
-なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
+//なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
 なに遠慮してんだ？　つまんねぇことしてんじゃねぇぞ？=De que você está esperando? Não seja um idiota, está bem?
 そうか、だったらオレらも用はねぇぞ？=Tudo bem, então não precisamos de você, não é mesmo?
-なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
+//なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
 いちいちオレらの空気を微妙にしに来たのか？　本気で迷惑なやつだな。=Você veio para nos arejar delicadamente todas as vezes? Você é um verdadeiro chato.
 なら、今すぐオレらの前から消えろ。目障りだ。=Então, saia de perto de nós agora mesmo. Você é um olhar desagradável.
-なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
+//なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
 オレらが仲良くしてるのが羨ましかったのか？　寂しいやつだな。=Você está com ciúmes de como estamos nos saindo? Você é um cara solitário.
 甘えてんじゃねぇぞ？　オレらに何かして欲しいなら、はっきり言え。=Não seja ingênuo, está bem? Se você quiser que façamos algo, basta dizer.

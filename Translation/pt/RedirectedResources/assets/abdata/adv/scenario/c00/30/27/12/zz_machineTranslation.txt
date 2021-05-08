@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrado {0}
 はぁ……気持ち、よくてぇ……いっぱい……幸せれすぅぅ……=É uma sensação tão boa... Tão boa... Tão cheia de... Felicidade...
 ぁぁ……熱い……身体……おしゃまらない……=Ohhh... Quente... Corpo... Sem chupeta...
 もっと……もっと……気持ひよく……してほしいれす……=Eu quero que você... Me faça... Sentir... Melhor.

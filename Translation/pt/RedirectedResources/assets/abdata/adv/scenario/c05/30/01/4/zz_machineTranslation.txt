@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 元々エッチしたいって思ってたんですから、これが元通りですよぉ……さぁ、ご主人様、いっぱいエッチしましょうっ。=Eu originalmente queria fazer sexo com você, então isto é o que eu tenho de volta... Vamos lá, Mestre, vamos fazer muito sexo.
 私をこんな風に躾けたのはご主人様ですよぉ……だから、どうか最後まできちんと面倒みてください……ほら、雌犬まんこもそう言ってますからぁ……=Quem me disciplinou assim é meu mestre... Então, por favor, cuide de mim até o final... Veja, isso é o que diz minha puta de cadela...
-Home{0}=Home{0}
+//Home{0}=Home{0}
 え……あ、あれ……私、何か変なことを言ってましたか……？=Eh... Ah, isso... Eu disse algo estranho?
 な、なんだか……気持ちが膨らみ過ぎて……見境無くなっていたような気がします……=Sinto que... Meus sentimentos estavam tão inflados... Que perdi todo o senso de direção...

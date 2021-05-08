@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようB普通{0}=Vamos sexo B normal {0}
+//HしようB普通{0}=Vamos sexo B normal {0}
 私も構いませんわ、３人で性のお勉強を致しましょう。=Eu também não me importo. Nós três vamos aprender sobre sexo.
 ３人で性のお勉強ができるなんて、またとない機会ですわ。宜しくお願い致します。=É uma oportunidade única para nós três aprendermos sobre sexo. Estou ansioso para trabalhar com você.
-HしようB好意{0}=Vamos fazer um favor a B {0}
+//HしようB好意{0}=Vamos fazer um favor a B {0}
 私も是非……３人で気持ちよくなれたらいいと思います……=Eu adoraria... Poder fazer com que nós três nos sentíssemos melhor...
 少し緊張してしまいますが、おふたりがそう仰るなら私もしてみたいですわ。=Estou um pouco nervoso, mas se vocês dois o dizem, eu também gostaria de fazê-lo.
-HしようB享楽{0}=Vamos caminhar!
+//HしようB享楽{0}=Vamos caminhar!
 私もおふたりの仲間に混ぜて頂きますわ……♪=Eu gostaria de me juntar a vocês dois ♪
 少し緊張いたしますが、私も大賛成ですわ……♪=Estou um pouco nervoso, mas sou a favor disso ♪
-HしようB嫌悪{0}=Vamos sexo B repugnância {0}
+//HしようB嫌悪{0}=Vamos sexo B repugnância {0}
 仕方ありませんわね……=Eu não o culpo...
 拒否権がないのでしたら……=Se você não quiser vetá-lo...
-HしようB隷属{0}=Vamos lá escravo B {0}
+//HしようB隷属{0}=Vamos lá escravo B {0}
 私も是非宜しくお願い致します。=Estou ansioso para trabalhar com você.
 この３人でしたら、気を置けないセックスができるかと思います。=Eu acho que nós três podemos transar desconfortável.

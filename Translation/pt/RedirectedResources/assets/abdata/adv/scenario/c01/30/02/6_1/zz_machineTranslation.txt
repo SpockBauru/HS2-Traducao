@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H事後B普通{0}=Sexo posterior B normal {0}
+//H事後B普通{0}=Sexo posterior B normal {0}
 良かったわ、それじゃあ、また。=Ótimo, nos vemos então.
 いい時間だったわ、ありがとう。=Foi um bom momento, obrigado.
-H事後B好意{0}=Sexo posterior B favor {0}
+//H事後B好意{0}=Sexo posterior B favor {0}
 また、あなたと一緒に過ごしたいわ。=Adoraria estar novamente com você.
 一緒に過ごせて楽しかったわ、ありがとう。=Foi um prazer passar tempo com você, obrigado.
-H事後B享楽{0}=Sexo poste B gozo {0}
+//H事後B享楽{0}=Sexo poste B gozo {0}
 気持ちのいい時間だったわ、それじゃあ、またね。=Foi um momento agradável. Vejo vocês então.
 最高にいい時間だったわ、ありがとうね。=Tive o melhor momento, obrigado.
-H事後B嫌悪{0}=Aversão sexo posterior B {0}
+//H事後B嫌悪{0}=Aversão sexo posterior B {0}
 それじゃあ、これで。=Bem, aqui vamos nós então.
 終わったなら、もう行くから。=Se você já terminou, vou embora.
-H事後B隷属{0}=Subjugação sexo posterior B {0}
+//H事後B隷属{0}=Subjugação sexo posterior B {0}
 あなたと素敵な時間が過ごせて、良かったわ。=Estou feliz por ter passado um tempo tão maravilhoso com você.
 あなたが望んでくれるなら、いつだってお相手するわ。=Estou sempre aqui para você, se é isso que você quer.

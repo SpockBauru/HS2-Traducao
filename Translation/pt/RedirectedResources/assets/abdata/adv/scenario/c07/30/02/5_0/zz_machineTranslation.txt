@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+//HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 オレはいいが。もう一人聞かなきゃいけない相手がいるんじゃねぇか？=Não para mim. Há mais uma pessoa que você precisa perguntar, não há?
 ハッ、欲張りなやつだ。いいだろう、オレは乗ってやる。=Sacana ganancioso. Tudo bem, eu estou dentro.
-HしようA好意{0}=Eu lhe farei um favor.
+//HしようA好意{0}=Eu lhe farei um favor.
 三人でするってことだな。オマエ、恥をかいても知らないぞ？=Portanto, seremos nós três. Omae, não quero envergonhá-lo, está bem?
 そう来ると思ってたよ。まったく、どこまでも分かりやすいやつだ。=Eu sabia que você viria. Você é um cara tão fácil de entender.
-HしようA享楽{0}=Vamos fazer isso.
+//HしようA享楽{0}=Vamos fazer isso.
 ハッ、やっぱりそうなるか。いいぞ、みんなで楽しもうじゃねぇか。=Ha, eu sabia que isso iria acontecer. Muito bem, vamos todos nos divertir juntos, certo?
 命拾いしたな。ビビッて帰りそうになったら、オレらで襲おうかと思ってたとこだ。=Você salvou minha vida. Estávamos prestes a atacá-lo quando ele ficou assustado e tentou sair.
-HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+//HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
 調子に乗りやがって。分かった、恥かかせてやるよ。=Você está se deixando levar. Muito bem, vou humilhá-lo.
 おい、イキり過ぎじゃねぇか？　痛い目見ねぇと分かんねぇか？=Ei, você está se entusiasmando um pouco, não está? Você não entende até doer?
-HしようA隷属{0}=Vamos sexo Um escravo {0}
+//HしようA隷属{0}=Vamos sexo Um escravo {0}
 いい提案だ。三人なら、出来ることも増えるしな。=Essa é uma boa sugestão. Com três de nós, há mais o que podemos fazer.
 本当にいいのか？　女二人の性欲は、かなり強烈だぞ？=Você tem certeza disso? A libido de duas mulheres pode ser bastante intensa, certo?

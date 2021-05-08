@@ -2,18 +2,18 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
+//HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 エッチするの？　私は別にいいけど。=Você vai fazer sexo? Estou bem com isso.
 いいわよ、あなたのお誘いですもの。=Está bem, você me convidou.
-HしようA好意{0}=Eu lhe farei um favor.
+//HしようA好意{0}=Eu lhe farei um favor.
 エッチに誘ってくれるなんて嬉しいわ。=Estou tão feliz que você me tenha pedido para fazer sexo com você.
 勿論いいわよ。=Claro, com certeza.
-HしようA享楽{0}=Vamos fazer isso.
+//HしようA享楽{0}=Vamos fazer isso.
 私もあなたとエッチしたいと思ってたのよ。=Eu sempre quis transar com você também.
 きっとそう言うと思ってわ……たくさんエッチしましょう。=Eu sabia que você diria isso, então... Vamos ter muito sexo.
-HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
+//HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
 そう来ると思ったわ、別にいいけど。=Eu sabia que você viria. Eu não me importo.
 他にすることないのかしら。=Eu não sei mais o que fazer.
-HしようA隷属{0}=Vamos sexo Um escravo {0}
+//HしようA隷属{0}=Vamos sexo Um escravo {0}
 あなたが望むなら、私はいつでもエッチＯＫよ。=Estou sempre disposto a fazer sexo, se é isso que você quer.
 せっかくなんだからエッチしないと勿体ないわよね。=Seria uma vergonha se não fizéssemos sexo, já que estamos saindo do nosso caminho.

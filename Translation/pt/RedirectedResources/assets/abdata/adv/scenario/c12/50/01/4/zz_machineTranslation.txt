@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-H{0}=Sexo{0}
+//H{0}=Sexo{0}
 いいから、早速始めようぜ。俺とお前がそろったらやることは一つだろ？=Muito bem, vamos continuar com isso. Quando você e eu nos encontramos, só há uma coisa a fazer, certo?
 とにかくエッチしようぜ。お前と一緒ならエッチしないと始まらないんだからさ。=De qualquer forma, vamos fazer sexo. Se eu estou com você, não posso começar sem fazer sexo.
-Home{0}=Home{0}
+//Home{0}=Home{0}
 う～ん……なんか、興奮しすぎて、ちょっとおかしくなってたのかなぁ。=Hmmm... Acho que eu estava um pouco louco por estar tão excitado.
 ……悪いな、熱くなりすぎて、我を忘れてたみたいだ。=... Desculpe, acho que fiquei muito quente e me esqueci de mim mesmo.
