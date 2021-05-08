@@ -9,7 +9,7 @@
 あー、アタシもいまーす。お邪魔してるよー。=Oh, eu também estou aqui. Desculpe incomodá-lo.
 んふ、今アタシら見比べてたっしょ？　どっちが好み？=Estávamos apenas olhando um para o outro, não estávamos? Qual você gosta mais?
 前フリB享楽{0}=Prelúdio B Kyouraku {0}
-どーも。気持ちいことが大好きなアタシもいますよ～。=Olá. Há também uma garota que adora se sentir bem!
+//どーも。気持ちいことが大好きなアタシもいますよ～。=Olá. Há também uma garota que adora se sentir bem!
 あは、女子がいっぱいいると寄ってくるとか、アンタって分かりやすっ。=Haha, você é tão fácil de entender, como você vem até mim quando há muitas garotas por perto.
 前フリB嫌悪{0}=Prelúdio B Disgust {0}
 あーこれ、解散の流れでいい？=Isto é um processo de ruptura?

@@ -22,8 +22,8 @@
 //こーいう時ってさ、普通男がリードすると思うんだけど……=
 //アンタ、トロそうだしアタシに任せてくんない？　悪いようにはしないからさ♪=
 //享楽より80～100{0}=
-//会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=
-//ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=
+会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=Desculpe por esse encontro as pressas, mas você quer ser meu escravo?
+ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=Vou fazer você se sentir bem, certo? O que você diz? Não é um mau negócio, não é?
 あーあ、アタシを選んじゃったか。ごしゅーしょーさま。アタシ、ちょっと性欲ヤバたんだから。アンタにも、それなりに頑張ってもらうかんね？=Ah, então você me escolheu. Sr. Patrocinador. Minha libido está um pouco ruim. Então você também vai ter que fazer o seu melhor, né?
 //嫌悪より20～49{0}=
 //え、マジ？　アンタみたいのが相手なの？　ガン萎え……これ、チェンジできない系？=

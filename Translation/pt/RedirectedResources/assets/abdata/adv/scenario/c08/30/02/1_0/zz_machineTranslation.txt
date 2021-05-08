@@ -9,8 +9,8 @@
 なんだかんだ無視できない話っすよねー……おっ、噂をすれば～。=É uma história que não pode ser ignorada por algum motivo...
 いやーこれは大事な話っすよー……っとー主役の登場っすねー。=Bem, esta é uma história importante... O personagem principal está aqui...
 前フリA享楽{0}=Prelúdio A Kyouraku {0}
-もう性癖の問題っすよねー……あっ、いいところも来たっすねー。=Já é uma questão de sexualidade... Oh, você também veio ao lugar certo.
-ちょっと話題が過激すぎたっすかねー？　ありゃ、こんなところまでどうしたんすかー？=O tema foi um pouco extremo demais? O que há de errado com você?
+//もう性癖の問題っすよねー……あっ、いいところも来たっすねー。=Já é uma questão de sexualidade... Oh, você também veio ao lugar certo.
+//ちょっと話題が過激すぎたっすかねー？　ありゃ、こんなところまでどうしたんすかー？=O tema foi um pouco extremo demais? O que há de errado com você?
 前フリA嫌悪{0}=Prelúdio A Disgust {0}
 あんま考えたくないすけどー……あー……こんちはーっす。=Eu realmente não quero pensar sobre isso, mas... Uh... Olá.
 コメントしづらいんすけどー……おっと……っすー。=Estou tendo dificuldade em comentar isso... Oops... Soooo...

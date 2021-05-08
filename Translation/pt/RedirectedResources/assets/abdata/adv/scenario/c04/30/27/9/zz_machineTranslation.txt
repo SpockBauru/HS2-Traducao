@@ -3,7 +3,7 @@
 //***********************************************************************
 
 普通{0}=Normal {0}
-ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Espere um minuto... Hah, não consigo respirar... Oh não... É hora de ir...
+//ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Espere um minuto... Hah, não consigo respirar... Oh não... É hora de ir...
 んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=Hmm... Não consigo colocar nenhuma força em meu corpo... Hmm ~ você tem que ficar lá até que eu possa me mudar. Você entendeu?
 好意{0}=Favores {0}
 あは……アンタやっぱ凄いわ……はぁっ、マジ気に入った。もー手放したくないかも♪=Você é tão fantástico... Eu realmente gosto de você. Eu não sei se quero desistir.

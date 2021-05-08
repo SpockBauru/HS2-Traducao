@@ -5,7 +5,7 @@
 普通{0}=Normal {0}
 あー気持ち良かった♪　とか言っとけば、アンタも嬉しーっしょ？=Se você disser: "Isso soube bem", você ficará feliz, certo?
 //あーあ、イカされちゃった。ま、アンタもイったし、あおいこってことで。=Oh, não, ele me fez gozar. Bem, você também veio, então eu vou chamá-lo de cabra.
-どーよ、アンタのことイカせてやったし。アタシ？　こら、アタシのことはいーの、余計なこと言わない。=Vamos lá, eu te fiz gozar. Eu? Ei, não diga nada sobre mim.
+//どーよ、アンタのことイカせてやったし。アタシ？　こら、アタシのことはいーの、余計なこと言わない。=Vamos lá, eu te fiz gozar. Eu? Ei, não diga nada sobre mim.
 好意より50～79{0}=50-79{0} de favor.
 ちゃけば、どだった？　アタシの体、気に入った？=Como foi, Chakeba? Você gosta do meu corpo?
 うーん、ナシよりのアリ……だと思ってたけどー。アンタ、アリよりのアリだったわ♪=Hmm, eu pensava que você era mais formiga do que pêra. Você é mais formiga do que formiga.
@@ -15,9 +15,9 @@
 アッハ、アンタとするの、マジ気持ちいーんですけど。アタシ、ハマっちゃいそーかも♪=Ahaha, é muito bom fazer isso com você. Acho que posso estar viciado...
 ねーね、次もご指名、期待してるかんね？　他の女とか選んだら、ショーチしないから。=Ei, ei, estou ansioso pelo seu próximo encontro também, ok? Se você escolher outra garota ou algo assim, eu não apareço.
 享楽より50～79{0}=De 50 a 79{0}
-はー、この終わった後の現実に戻される感じ……マジつらたんだわー。ずっと気持ちいーことだけしてたーい。=Haha, essa sensação de ser trazido de volta à realidade depois... É realmente dolorosa. Eu só quero fazer algo que se sinta bem o tempo todo.
-アンタの喘ぎ声、マジウケたんですけど♪　苛め甲斐があるって感じ？=Gostei muito do som de seus gemidos. Vale a pena atormentar?
-アンタ、ドレーの素質あるんじゃない？　んふ、アタシがチョーキョーしてあげよっか？=Acho que você tem as marcas de um drapeador. Você quer que eu lhe dê um chokyo?
+//はー、この終わった後の現実に戻される感じ……マジつらたんだわー。ずっと気持ちいーことだけしてたーい。=Haha, essa sensação de ser trazido de volta à realidade depois... É realmente dolorosa. Eu só quero fazer algo que se sinta bem o tempo todo.
+//アンタの喘ぎ声、マジウケたんですけど♪　苛め甲斐があるって感じ？=Gostei muito do som de seus gemidos. Vale a pena atormentar?
+//アンタ、ドレーの素質あるんじゃない？　んふ、アタシがチョーキョーしてあげよっか？=Acho que você tem as marcas de um drapeador. Você quer que eu lhe dê um chokyo?
 享楽より80～100{0}=De 80-100{0}
 はー、ヤったヤッた……もースッキリって感じ♪　アンタもスッキリしたっしょ？　微妙とか言ったら、またおしおきだかんね？=Eu fiz, eu fiz, eu fiz... E me senti bem. Se você disser que é muito sutil, você vai levar outra surra, certo?
 アハッ、予想以上に楽しかったわ♪　アンタのイキ顔、マジ情けなくてゾクゾクしたし♪=Foi mais divertido do que eu pensava... E seu rosto quando você gozou foi tão impiedoso que me deu arrepios.

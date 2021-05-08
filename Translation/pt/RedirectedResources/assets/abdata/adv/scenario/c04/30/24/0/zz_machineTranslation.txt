@@ -23,8 +23,8 @@
 こーいう時ってさ、普通男がリードすると思うんだけど……=Em uma situação como esta, o cara geralmente assume a liderança, mas...
 アンタ、トロそうだしアタシに任せてくんない？　悪いようにはしないからさ♪=Você parece lento. Por que não me deixa lidar com isso? Não vou deixar que nada aconteça com você.
 享楽より80～100{0}=De 80-100{0}
-会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=Lamento conhecê-lo tão de repente, mas você quer ser meu escravo?
-ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=Vou fazer você se sentir bem, certo? O que você diz? Não é um mau negócio, não é?
+//会っていきなりで悪いんだけどさ、アタシの奴隷になる気はない？=Lamento conhecê-lo tão de repente, mas você quer ser meu escravo?
+//ちゃんと気持ちいいことはしたげるよ？　どうする？　悪い条件じゃなくない？=Vou fazer você se sentir bem, certo? O que você diz? Não é um mau negócio, não é?
 //あーあ、アタシを選んじゃったか。ごしゅーしょーさま。アタシ、ちょっと性欲ヤバたんだから。アンタにも、それなりに頑張ってもらうかんね？=Ah, então você me escolheu. Goshou-sama. Eu tenho um pouco de desejo sexual baixo. Você vai ter que trabalhar um pouco mais do que isso, não é mesmo?
 嫌悪より20～49{0}=De repugnância 20-49{0}
 え、マジ？　アンタみたいのが相手なの？　ガン萎え……これ、チェンジできない系？=Ah, realmente? Você está lidando com alguém como você? É este o tipo de coisa que você não pode mudar?
