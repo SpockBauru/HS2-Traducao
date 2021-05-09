@@ -15,8 +15,8 @@
 ちょっとアンタ……ヤリ過ぎだから……はぁ、マジ疲れた……もう付き合ってらんないっつーの。=Você... Você está transando demais... Haha, estou muito cansado... Não quero mais sair com você.
 キモイくせに、スタミナだけはあんのね……んぅ……唯一の才能ってやつ？=Você é assustador, mas tem resistência... Hmm... É esse seu único talento?
 //隷属{0}=Escravidão {0}
-あー、もうダメ……全然動けない……今なら、なんでもヤリほーだいだよ？　なんてね♪=Oh, não, eu não posso... Me mover... E agora você pode foder o que quiser, ok? Ohhh.
-これこれ……このヤリ切った感が好きなんだよね～。やっぱさー、ヤルならとことんっしょ♪=É isso... Adoro a sensação de ser fodida. Afinal, se você vai foder, fode com força ♪
+//あー、もうダメ……全然動けない……今なら、なんでもヤリほーだいだよ？　なんてね♪=Oh, não, eu não posso... Me mover... E agora você pode foder o que quiser, ok? Ohhh.
+//これこれ……このヤリ切った感が好きなんだよね～。やっぱさー、ヤルならとことんっしょ♪=É isso... Adoro a sensação de ser fodida. Afinal, se você vai foder, fode com força ♪
 //依存{0}=Depende (0)
 あーこれヤバ……絶対癖になるやつ……こーいう限界までヤっちゃう感じ、好きだな～♪=Ah, isso é perigoso... Este é o tipo de coisa que definitivamente se tornará um hábito... Eu gosto deste tipo de coisa, onde você fode até o limite ~ ♪
 あっは……流石のアタシも限界だわ～……アンタも頑張ったじゃん……少し見直した♪=Ah... Estou no meu limite... Você fez um ótimo trabalho... Estou impressionada ♪

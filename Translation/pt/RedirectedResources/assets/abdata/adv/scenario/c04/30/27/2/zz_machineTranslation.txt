@@ -3,16 +3,16 @@
 //***********************************************************************
 
 //普通{0}=Normal {0}
-ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou tão satisfeito. Aha!
-ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Por hoje estou acabado, certo? Eu cuidarei de você novamente.
+//ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou tão satisfeito. Aha!
+//ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Por hoje estou acabado, certo? Eu cuidarei de você novamente.
 //はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, sim... Boa noite, boa noite, boa noite...
 //{0}={0}
 う～ん、アタシ的にはもーいっかな～。ほら、あんまダラダラやっても仕方ないっしょ？=Hmmm, eu acho que estou bem com isso. Veja, não adianta ser muito preguiçoso, certo?
 ね、次はちゃんとイカせてあげるからさ。そんな萎えぽよな顔しないでって。=Da próxima vez, vou fazer você gozar. Não fique tão deflacionado.
 ほーらー、もう終わるよ～。いつまでウジウジしてんの？　次またすればいーじゃん。=Veja, acabou! Por quanto tempo você vai se deter sobre isso? Por que você não faz isso de novo da próxima vez?
 //享楽{0}=Prazer {0}
-なに？　アンタイケなかったん？　うっそ、ごしゅーしょーさま。残念だったね♪=O quê? Você não conseguiu um tamanduá? Ugh, Goshuusho-sama. Sinto muito em ouvir isso.
-イケなかったのはさー、アンタのせいもあんだかんね？　アタシ、けっこー頑張ってあげたし……=A culpa é sua que eu não consegui levantá-lo, não é? Eu me esforcei tanto para fazer você...
+//なに？　アンタイケなかったん？　うっそ、ごしゅーしょーさま。残念だったね♪=O quê? Você não conseguiu um tamanduá? Ugh, Goshuusho-sama. Sinto muito em ouvir isso.
+//イケなかったのはさー、アンタのせいもあんだかんね？　アタシ、けっこー頑張ってあげたし……=A culpa é sua que eu não consegui levantá-lo, não é? Eu me esforcei tanto para fazer você...
 プッ、拗ねてんの？　拗ねぽよ？　うっわ、きゃわたんかよ♪　次は絶対イカせてあげるからさ～。機嫌直しなって、ね？=Pfft, você está amuado? Você está amuado? Definitivamente farei você gozar na próxima vez. Da próxima vez farei você ejacular.
 //嫌悪{0}=Repugnância {0}
 別に、アンタがイってないとかアタシにはカンケーないし。不満なら一人でしたら？　アタシは帰るけど。=Não me importa se você não sai ou não sai. Se você não está feliz, por que não vai se foder? Vou para casa.
