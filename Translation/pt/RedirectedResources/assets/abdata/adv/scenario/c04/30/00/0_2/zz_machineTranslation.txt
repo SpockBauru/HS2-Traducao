@@ -30,5 +30,5 @@
 おおっと、アタシと一緒にお風呂に入りに来たとか？　んふ、裸の付き合いしちゃいますぅ？=Oh, você está aqui para tomar um banho comigo? Vamos ficar nus juntos?
 アタシは匂いが濃いのとかもイケるタイプだけど。普通は清潔にしてた方が好まれるよね～。=Eu sou o tipo de pessoa que consegue lidar com um cheiro forte. Geralmente é melhor estar limpo, não é?
 //風呂隷属用件{0}=A escravidão no banho importa {0}
-これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=É esta uma tendência que eu posso esperar ver muito? Ou isto é apenas um recado normal?
-んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?
+//これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=É esta uma tendência que eu posso esperar ver muito? Ou isto é apenas um recado normal?
+//んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?

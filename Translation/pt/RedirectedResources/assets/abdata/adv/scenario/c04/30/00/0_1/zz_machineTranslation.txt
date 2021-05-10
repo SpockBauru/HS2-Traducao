@@ -31,9 +31,9 @@
 アタシに何か用なの？　何もないならさっさと消えて。=O que você quer de mim? Se você não tem nada para mim, desapareça daqui.
 ボーっと突っ立ってないで、何か用事があるならさっさと言って。=Não fique aí parado num aturdir. Se você tem algo a fazer, basta dizer.
 //汎用隷属{0}=Escravidão de Propósito Geral {0}
-お、会いにきてくれたん？　嬉しみ～♪=Oh, você veio me ver? Estou tão feliz.
+//お、会いにきてくれたん？　嬉しみ～♪=Oh, você veio me ver? Estou tão feliz.
 いたいた。アンタがいるって言うから、探してたんだ～♪=Ai. Você disse que estava aqui, então eu estava procurando por você.
-おー会えた～♪　マジ、この出会いに感謝♪=Estou muito feliz em vê-lo. Muito obrigado por se encontrar comigo.
+//おー会えた～♪　マジ、この出会いに感謝♪=Estou muito feliz em vê-lo. Muito obrigado por se encontrar comigo.
 //汎用隷属用件{0}=Uso Geral da Escravatura {0}
-これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=É esta uma tendência que eu posso esperar ver muito? Ou isto é apenas um recado normal?
-んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?
+//これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=É esta uma tendência que eu posso esperar ver muito? Ou isto é apenas um recado normal?
+//んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?

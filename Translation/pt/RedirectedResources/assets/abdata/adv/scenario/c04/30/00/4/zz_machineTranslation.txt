@@ -16,4 +16,4 @@
 あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Oh, passe... Por que eu tenho que falar com você assim?
 //隷属{0}=Escravidão {0}
 ……へぇ、そういう考え方もあるんだ。=... Uau, essa é uma maneira de pensar sobre isso.
-……それってさ、アタシに気があるってこと？=Isso significa que você está interessado em mim?
+//……それってさ、アタシに気があるってこと？=Isso significa que você está interessado em mim?

@@ -15,5 +15,5 @@
 話し終わり？　だったら即サリ決めさせてもらうけど。=Você já acabou de falar? Se for esse o caso, eu decidirei imediatamente.
 はぁ、無駄な時間だった。なんでこんなやつの話聞いちゃったんだろ。=Huh, isso foi uma perda de tempo. Não sei por que escutei este cara.
 //隷属{0}=Escravidão {0}
-あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Já terminamos de falar? Terei o maior prazer em fazer-lhe companhia.
+//あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Já terminamos de falar? Terei o maior prazer em fazer-lhe companhia.
 色々話せて楽しかったわ。またトークのお誘い歓迎って感じ♪=Foi divertido conversar com você sobre tudo. Sinto que sou bem-vindo para falar com você novamente.

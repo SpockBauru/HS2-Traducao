@@ -15,5 +15,5 @@
 はぁ？　なにそれ……他の人じゃダメなの？　マジめんどくさ……=O que é isso? Por que não pode ser outra pessoa? Isso é realmente irritante...
 だと思った。アンタってもう、それしか考えてないんでしょ？=Isso foi o que eu pensei. É só nisso que você pensa, não é mais?
 //隷属{0}=Escravidão {0}
-はいキター！　ご指名頂きました～♪　んふ、マジテンアゲ♪=Aí vem ela! Você foi selecionado ♪ Oh, estou tão entusiasmado ♪
-あはっ、そういうストレートなお誘い大好き♪　むしろ、言われなかったらアタシから誘ってた的な？=Adoro convites simples como esse... Se você não tivesse me perguntado, eu teria perguntado a você.
+//はいキター！　ご指名頂きました～♪　んふ、マジテンアゲ♪=Aí vem ela! Você foi selecionado ♪ Oh, estou tão entusiasmado ♪
+//あはっ、そういうストレートなお誘い大好き♪　むしろ、言われなかったらアタシから誘ってた的な？=Adoro convites simples como esse... Se você não tivesse me perguntado, eu teria perguntado a você.

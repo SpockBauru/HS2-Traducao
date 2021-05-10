@@ -15,5 +15,5 @@
 あーこれ、解散の流れでいい？=Isto é um processo de ruptura?
 はぁ……来ちゃったか。めんどくさいやつに限って、自分が人気者と勘違いしてるんだよねぇ。=Huh... Você está aqui. Somente as pessoas mais irritantes pensam que são populares.
 //前フリB隷属{0}=Prelúdio B Escravo {0}
-楽しそうな雰囲気に混ざりたくなったん？　寂しんぼちゃんかよ～。=Você queria se misturar com o ambiente divertido? Você é uma garotinha tão solitária!
+//楽しそうな雰囲気に混ざりたくなったん？　寂しんぼちゃんかよ～。=Você queria se misturar com o ambiente divertido? Você é uma garotinha tão solitária!
 あ、なんか混ざりに来た。気を付けて～、あれはケダモノの目だよ～♪=Oh, algo veio para se misturar. Cuidado, são os olhos da Besta...

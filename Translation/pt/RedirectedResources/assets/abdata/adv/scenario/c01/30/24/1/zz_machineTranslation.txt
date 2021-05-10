@@ -18,7 +18,7 @@
 なんでもあなたの思い通りにしてあげるわ。楽しみにしていて。=Eu farei o que você quiser que eu faça. Aguardem ansiosamente.
 私、初めてだけど、あなたの好きにしていいのよ。=Eu sou novo nisso, mas você pode fazer o que quiser.
 //壊れ{0}=Quebrado {0}
-………………=...
+//………………=...
 いいのよぉ、私どうなってもいいのぉ……だからぁ、エッチなことたくさんしましょう=Está tudo bem, não me importa o que me aconteça... Então vamos fazer muitas coisas maliciosas.
 //依存{0}=Depende (0)
 わかってるでしょ？　あなたには私が必要なのよ。そして私にもあなたが必要なの。=Você sabe o que quero dizer. Você precisa de mim. E eu preciso de você.

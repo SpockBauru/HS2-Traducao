@@ -38,7 +38,7 @@
 初めてだってこと忘れるくらい、思いっきり感じさせて。=Deixe-me senti-lo tanto que esqueço que é a minha primeira vez.
 私、初めてだからわからないの。あなたに全部お任せするわ。=Não sei. Sou novo nisto. Vou deixar tudo por sua conta.
 //壊れ{0}=Quebrado {0}
-………………=...
+//………………=...
 いいのよぉ、私どうなってもいいのぉ……だからぁ、エッチなことたくさんしましょう。=Está tudo bem, não importa o que aconteça comigo... Então vamos fazer muitas coisas maliciosas.
 //依存{0}=Depende (0)
 いいのよ、あなたと一つになりたいの。初めてだからって気にしないでね。=Tudo bem, eu quero ser um com você. Não se preocupe se é sua primeira vez.

@@ -16,7 +16,7 @@
 //隷属{0}=
 //ほら、何でも話してみろ。寂しいオマエの話を聞いてやるよ。=
 //おい、オマエ待ちだぞ？　オレからは特に話すことは無いからな。=
-CHOICE:親身になって話す=Falar intimamente
+CHOICE:親身になって話す=Falar amigavelmente
 CHOICE:積極的に話す=Falar positivamente
 CHOICE:受け身になって話す=Falar passivamente
 CHOICE:エッチな話でも=Contar história erótica

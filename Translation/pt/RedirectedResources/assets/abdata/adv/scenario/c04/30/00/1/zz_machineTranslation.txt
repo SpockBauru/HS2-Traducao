@@ -15,5 +15,5 @@
 はいはい、テキトーに話してて。一応聞いててあげるから。=Sim, sim, vá em frente e fale com ele. Vou ouvi-lo.
 はぁ、アンタ暇なの？　話相手がいない寂しんぼちゃん？　で、何の話よ？=Você está entediado? Você é uma garota solitária que não tem ninguém com quem conversar? Então, do que você está falando?
 //隷属{0}=Escravidão {0}
-お話タイムね。いーよー、いくらでも付き合う。=É a hora da história. Está bem, eu fico o tempo que você quiser.
-アタシに何か話したいことがあるん？　最近いいことあったとか？=Há alguma coisa que você queira me dizer? Algo de bom aconteceu com você ultimamente?
+//お話タイムね。いーよー、いくらでも付き合う。=É a hora da história. Está bem, eu fico o tempo que você quiser.
+//アタシに何か話したいことがあるん？　最近いいことあったとか？=Há alguma coisa que você queira me dizer? Algo de bom aconteceu com você ultimamente?
