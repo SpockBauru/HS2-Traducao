@@ -3,5 +3,5 @@
 //***********************************************************************
 
 //セリフ{0}=Serif {0}
-よろしい♪　ちゃんとアタシを気持ちくできたら、今回のことは無かったことにしたげる♪=Ótimo. Se você puder me fazer sentir melhor, vou fingir que isso nunca aconteceu.
+//よろしい♪　ちゃんとアタシを気持ちくできたら、今回のことは無かったことにしたげる♪=Ótimo. Se você puder me fazer sentir melhor, vou fingir que isso nunca aconteceu.
 そう、それでオケ。自分の立場がよく分かってんじゃん♪=Sim, é isso mesmo. Você sabe exatamente o que está fazendo.
