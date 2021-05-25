@@ -2,4 +2,4 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-くすっ、私の方が気持ちよかったですよね……？=Droga, eu me senti melhor do que isso, não foi?
+//くすっ、私の方が気持ちよかったですよね……？=Droga, eu me senti melhor do que isso, não foi?

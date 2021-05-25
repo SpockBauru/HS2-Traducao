@@ -9,8 +9,8 @@
 どっちに用があって来たんだ？　オレか？　そっちか？=Qual de vocês dois veio aqui por mim? Eu? Você?
 オレらの邪魔をしに来たんなら、それなりに面白いことをしろよ？=Se você está aqui para interferir conosco, por que não faz algo interessante?
 //前フリB享楽{0}=Prelúdio B Kyouraku {0}
-二人一気に相手しようってか？　それは無謀ってもんだな。=Você quer enfrentar dois caras ao mesmo tempo? Isso é imprudente, não é?
-オレらに嬲られに来たのか？　クソマゾだな。=Você veio aqui para ser torturado por nós? Você é um maldito masoquista.
+//二人一気に相手しようってか？　それは無謀ってもんだな。=Você quer enfrentar dois caras ao mesmo tempo? Isso é imprudente, não é?
+//オレらに嬲られに来たのか？　クソマゾだな。=Você veio aqui para ser torturado por nós? Você é um maldito masoquista.
 //前フリB嫌悪{0}=Prelúdio B Disgust {0}
 おい、オマエのせいで雰囲気が悪くなっただろうが。どうしてくれんだ？=Ei, você arruinou o clima, cara. O que você vai fazer a respeito disso?
 オマエは仲間にいれてやらねぇぞ？　一人で寂しくしてろ。=Você não vai ser um de nós, vai? Você estará sozinho e solitário.
