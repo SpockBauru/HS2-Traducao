@@ -3,7 +3,7 @@
 //
 //セリフ{0}=
 //???=
-//あの人が助けに来てくれたら……運命、なんて……=
+あの人が助けに来てくれたら……運命、なんて……=Se aquele homem tivesse vindo para me salvar... O destino...
 //その、だれかいませんか……？=
 //どこからか声が聞こえる・・・=
 CHOICE:探してみる=Procurar
