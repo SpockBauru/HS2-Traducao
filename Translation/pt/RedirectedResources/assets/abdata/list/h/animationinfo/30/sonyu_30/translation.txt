@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 立位=Prensada na Parede
-バスタブ背面座位=Banheiro Sendada Atrás
+バスタブ背面座位=Banheiro Sentada
 和式トイレ後背位=Cavalg Banh Japonês
 洋式トイレ対面座位=Cachor no Banheiro
 縄拘束挿入=Amarrada por Trás
