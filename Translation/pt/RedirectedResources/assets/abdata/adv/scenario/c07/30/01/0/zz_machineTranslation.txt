@@ -3,9 +3,9 @@
 //***********************************************************************
 
 //汎用{0}=Objetivo Geral {0}
-よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Onde você estava? Você deve estar sempre à minha vista, certo?
-よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Certo, eu encontrei. Você não deve me deixar por um tempo. Isso está claro?
-ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=Droga, onde diabos você tem andado por aí? Quando eu o chamo, você vem imediatamente.
+//よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Onde você estava? Você deve estar sempre à minha vista, certo?
+//よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Certo, eu encontrei. Você não deve me deixar por um tempo. Isso está claro?
+//ったく、どこウロチョロしてやがった。オレが呼んだらすぐに来い。=Droga, onde diabos você tem andado por aí? Quando eu o chamo, você vem imediatamente.
 //風呂{0}=Banho {0}
 風呂に入りたかったのか？　一緒に入ってやってもいいぞ？=Você queria tomar um banho? Eu poderia entrar com você se você quiser.
 おい、オレの身体を洗わせてやろうか？　光栄だろ？=Ei, você quer que eu te lave? Você ficaria honrado?
