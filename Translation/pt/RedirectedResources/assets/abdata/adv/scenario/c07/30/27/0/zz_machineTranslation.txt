@@ -35,7 +35,7 @@
 さて、やり過ぎてもアレだからな。今日はこの辺にしておいてやる。また次の機会を、楽しみにしておけよ？=Bem, não exagere. Vou deixar isso por hoje. Aguarde a próxima vez.
 これは、思わぬ収穫ってやつか？　オマエをオレのものにしたくなってきた。ハッ、覚悟しとけよ？=Esta é uma colheita inesperada, não é? Estou começando a querer torná-lo meu. Prepare-se para isso, hein?
 //隷属より80～100{0}=80-100{0} da servidão.
-悪くなかったな。いや、むしろ良かった。喜べ、オレにここまで言わせるやつは、なかなかいないぞ。=Isso não foi ruim. Não, foi bom. Você deveria estar contente. Não é todos os dias que você me faz dizer isso.
+//悪くなかったな。いや、むしろ良かった。喜べ、オレにここまで言わせるやつは、なかなかいないぞ。=Isso não foi ruim. Não, foi bom. Você deveria estar contente. Não é todos os dias que você me faz dizer isso.
 オマエは遠慮がなくていいな。口だけでいざという時ビビる奴とは違う。そこがいい。=Eu gosto que você não se contenha. Você não é como aqueles caras que só falam e ficam assustados quando chega a hora. É isso que eu gosto em você.
 どうだった？　正直に言ってやる、オレは良かったぞ。オマエだってイったんだ、悪い気はしてねぇよな。=Como foi? Vou ser honesto com você, eu gostei. Você também veio, então tenho certeza de que não está se sentindo muito mal.
 //依存{0}=Depende (0)

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-おい、何も出来ないんなら、オレからするぞ？=Ei, se você não pode fazer algo, por que eu não faço algo?
+//おい、何も出来ないんなら、オレからするぞ？=Ei, se você não pode fazer algo, por que eu não faço algo?
 ん？　どうした？　今更なに恥ずかしがってんだ？=Hmm? O que está acontecendo? Você está envergonhado agora?
 んぁっ、くぅっ、来やがったなぁっ……！=Ah, porra, você está aqui...
 んぁあっ、入って、来たぁっ……！=Oh, está entrando!
@@ -18,8 +18,8 @@
 いいぞ、ゆっくり馴染ませろ……オレの中から水をかき出して、オマエのモノだけにするんだっ……=Muito bem, quero que você se aclimate lentamente... Para que possa me drenar e me deixar sozinho com você.
 ひぅっ、水圧のせいか？　締まりが良くなっちまってるみたいだ……その分感度も良くなる……=Oh, é a pressão da água? Está me tornando mais apertado... E mais sensível...
 そんなちゃぷちゃぷしてるだけでいいのか？　チンポギンギンにしてんのは、分かってんだぞっ……=Você tem certeza de que quer fazer isso? Sei que você tem a sua pica numa funda...
-あぁあっ、いいぞっ、その感じだっ！　もっとがっついて来い！=Ah, sim, é isso. É isso! Vá lá, você está me matando!
-ふぁあっ、これは、悪くないっ！　やれば出来るじゃねぇかっ！=Huh, isto não é tão ruim assim! Você pode fazer isso, você sabe!
+//あぁあっ、いいぞっ、その感じだっ！　もっとがっついて来い！=Ah, sim, é isso. É isso! Vá lá, você está me matando!
+//ふぁあっ、これは、悪くないっ！　やれば出来るじゃねぇかっ！=Huh, isto não é tão ruim assim! Você pode fazer isso, você sabe!
 はぁっ、そうだ、必死に腰を動かせっ、んっ、水の中じゃ、抵抗が半端ねぇだろ？=Huh, sim, mova seus quadris freneticamente. Hmm, não há muita resistência na água, há?
 あっ、ふぅっ、なかなか頑張ってくれるじゃねぇが、悪くない気分だ……=Ah, ufa, você está fazendo um ótimo trabalho, mas eu não estou de mau humor...
 んくっ、顔が赤くなってるぞ？　射精我慢しながらプールで腰振るのは大変かっ？=Mmm, seu rosto está ficando vermelho. Quão difícil é agitar os quadris na piscina enquanto se retém a ejaculação?
