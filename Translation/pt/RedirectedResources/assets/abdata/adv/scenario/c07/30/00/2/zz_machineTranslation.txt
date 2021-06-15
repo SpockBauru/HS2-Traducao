@@ -10,7 +10,7 @@
 顔を真っ赤にしてお誘いか？　断ったら泣いちまいそうだな。=Você está me convidando para sair com seu rosto todo vermelho? Eu acho que choraria se recusasse.
 //享楽{0}=Prazer {0}
 ああ、分かった。欲望に素直なやつは嫌いじゃない。=Sim, eu entendo. Eu não me importo com um cara que seja honesto sobre seus desejos.
-ハッ、またストレートに来たな。まぁ、オレも面倒なのは嫌いだから助かるが。=Ha, você está vindo direto para mim novamente. É bom que eu também não goste de coisas problemáticas.
+//ハッ、またストレートに来たな。まぁ、オレも面倒なのは嫌いだから助かるが。=Ha, você está vindo direto para mim novamente. É bom que eu também não goste de coisas problemáticas.
 //嫌悪{0}=Repugnância {0}
 チッ、もう少しムードを大事にできねぇのか？　だからオマエは、モテないんだよ。=Droga, você não consegue manter o clima um pouco mais importante? É por isso que você não é popular.
 結局それか。最早、ヤルことしか考えてないサルだな。=Portanto, é a isso que se resume. Você é um macaco que só pensa em transar.
