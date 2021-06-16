@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なにしてたのA普通{0}=
-//あ？　なんでいちいちオマエには言わねえといけねぇんだ？=
+あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Por que tenho que lhe dizer sempre o que quero?
 //教えねぇよ。女子同士の秘密ってやつだ。=
 //なにしてたのA好意{0}=
 //そういう詮索をいちいちするから、モテねぇんだよ。=

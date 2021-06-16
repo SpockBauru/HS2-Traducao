@@ -3,7 +3,7 @@
 //***********************************************************************
 
 //なにしてたのA普通{0}=O que você estava fazendo?
-あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Por que tenho que lhe dizer cada vez que o vejo?
+//あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Por que tenho que lhe dizer cada vez que o vejo?
 教えねぇよ。女子同士の秘密ってやつだ。=Não vou contar. É um segredo entre as garotas.
 //なにしてたのA好意{0}=O que você estava fazendo?
 そういう詮索をいちいちするから、モテねぇんだよ。=É por isso que você não é popular.
