@@ -5,7 +5,7 @@
 妖精の羽=Asas de Fada
 ネコリュック=Mochila com Gato
 ミニリュック=Mini Mochila
-商人カバン=Mochila de Mercador
+商人カバン=Mochilão de Mercador
 小悪魔の翼右用=Asa Direita de Diabinha
 小悪魔の翼左用=Asa Esquerda de Diabinha
 小天使の翼右用=Asa Direita de Anjinha

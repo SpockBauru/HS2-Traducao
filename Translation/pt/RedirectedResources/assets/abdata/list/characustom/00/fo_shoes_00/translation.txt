@@ -8,9 +8,9 @@
 パンプス=Sapato Feminino Social
 ベルトパンプス=Sapato com Fivela
 ランニングシューズ=Tênis de Corrida
-スニーカー=Tênis Casual
+スニーカー=Tênis
 メッシュシューズ=Tênis de Marca
-カフシューズ=Sapato de Cano Alto
+カフシューズ=Tênis de Cano Alto
 トレッキング=Tênis de Caminhada
 マリンシューズ=Sapato de Borracha
 上履き=Sapatinha
