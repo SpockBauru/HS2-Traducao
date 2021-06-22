@@ -1,0 +1,49 @@
+//************************************************************
+// Traduções para o plugin Runtime Unity Editor
+//************************************************************
+
+//************************************************************
+// Menu de Depuração (F12)
+//************************************************************
+Scene Browser - RuntimeUnityEditor v{{A}}=Navegador de Cena - RuntimeUnityEditor v{{A}}
+
+//Menu pesquisa (topo)
+Search scene=Pesquisar Cena
+Deep scene=Cena profunda
+Search static=Pesquisa estática
+
+//Menu do meio
+Time=Tempo
+Dump=Extrair
+
+//Console (em baixo)
+Clear log=Limpa log
+Autostart=Ini. auto
+History=Histórico
+Run=Roda
+Run in bg=Rodar Atrás
+Mouse inspect=Inspetor de Mouse
+Clear Bundle Cache=Limpar Cache
+
+Show selection=Mostrar seleção
+When closed=Quando fechado
+No object selected=Nenhum objeto selecionado
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Geral
+Enable Mouse Inspector=Ativar inspetor do mouse
+Open/close runtime editor=Abrir/Fechar Runtime Editor
+Show REPL console=Mostrar console REPL
+
+//Inspetor
+Inspector=Inspetor
+
+Optional dnSpy arguments=Argumentos opcionais do dnSpy
+Additional parameters that are added to the end of each call to dnSpy.=Parâmetros adicionais adicionados ao final de cada chamada para o dnSpy.
+
+
+Path to dnSpy.exe=Caminho para o dnSpy.exe
+Full path to dnSpy that will enable integration with Inspector. When correctly configured, you will see a new ^ buttons that will open the members in dnSpy.=Caminho completo para dnSpy que permitirá a integração com o inspetor. Quando configurado corretamente, você verá um novo botão ^ que abrirá os membros no dnSpy.

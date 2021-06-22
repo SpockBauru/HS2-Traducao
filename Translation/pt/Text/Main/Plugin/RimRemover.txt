@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin Rim Remover
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Disable Rim Light=Desativar a borda de luz
+Turn off rim light visible around the outline of characters and items.\nGives the game a more flat-shaded look. It can make some mods from KK look better in EC.\nReload the character or scene to apply changes.=Desative o arco de luz visível no contorno de personagens e itens.\nDá ao jogo uma aparência mais plana. Pode fazer alguns mods de KK parecerem melhores no criador.\nRecarregue o personagem ou a cena para aplicar alterações.

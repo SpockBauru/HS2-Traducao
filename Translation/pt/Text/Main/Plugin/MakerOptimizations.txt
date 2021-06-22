@@ -1,0 +1,47 @@
+//************************************************************
+// Traduções para o Plugin Maker Optimizations
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Criador de Personagens
+Maker item lists=Criador de Personagens
+
+Disable NEW indicator=Desativar indicador de NOVO
+Turn off the New! mark on items in character maker that weren't used yet.\nChanges take effect after maker restart.=Desligue o indicador Novo! em intens do criador de personagem que ainda não foram usados.\nAlterações entram em vigor após a reinicialização.
+
+Disable NEW indicator animation=Desativar a animação do indicador NOVO
+Performance improvement in maker if there are many new items.\nChanges take effect after maker restart.=Melhora o desempenho no criador se houverem muitos novos itens.\nAlterações entram em vigor após a reinicialização.
+
+Scroll to selected items automatically=Vá até o item selecionado automaticamente
+Automatically scroll maker lists to show their selected items in view (usually after loading a character card).\nRequires 'Virtualize maker lists' to be enabled.=Rolar automaticamente listas para exibir o item selecionado (geralmente após carregar uma carta de personagem).\nRequer que "Virtualizar listas do criador" seja ativada.
+
+Virtualize maker lists=Virtualizar listas do criador
+Major load time reduction and performance improvement in character maker. Eliminates lag when switching tabs.\nCan cause some compatibility issues with other plugins.\nChanges take effect after game restart.=Grande redução do tempo de carregamento e melhoria de desempenho no criador. Elimina atraso ao alternar as guias.\nPode causar problemas de compatibilidade com outros plugins.\nMudanças entram em vigor após o reinício do jogo.
+
+Width of maker item lists=Largura das listas de itens do criador
+How many items fit horizontally in a single row of the item lists in character maker.\n Changes require a restart of character maker.=Quantos itens se encaixam horizontalmente em uma única linha das listas de itens no criador de personagem.\n Alterações entram em vigor após a reinicialização.
+
+//Ajustes
+
+Tweaks=Ajustes
+
+Disable character name box in maker=Desativar a caixa do nome do personagem
+Hides the name box in the bottom right part of the maker, giving you a clearer look at the character.=Esconde a caixa de nome na parte inferior direita do criador, dando-lhe uma vista mais clara no personagem.
+
+Disable hidden tabs in maker=Desativar guias ocultas no criador
+Major performance improvement in chara maker.\nRecommended to be used together with list virtualization, otherwise switching between tabs becomes slower.\nChanges take effect after maker restart.=Grande melhoria de desempenho no criador de personagem.\nRecomendado para ser usado junto com a Virtualizar listas, caso contrário alternar entre as guias se torna mais lento.\nAlterações entram em vigor após a reinicialização.
+
+Disable IK in maker=Desativar IK no criador
+
+This setting prevents the character's limbs from being readjusted to match body proportions. It can fix weirdly bent limbs on characters that use ABMX sliders, but will break Stiletto if it's installed.\nWarning: This setting will get reset to false if Stiletto is installed to avoid issues!\nChanges take effect after game restart.=Essa configuração impede que os membros do personagem sejam reajustados para combinar as proporções do corpo. Pode consertar membros estranhamente dobrados em personagens que usam sliders ABMX, mas vão quebrar o Stiletto se estiver instalado.\nAviso: Esta configuração será redefinida para falso se o Stiletto estiver instalado para evitar problemas!\nMudanças entram em vigor após o reinício do jogo.
+
+//Honey Select 2
+Manage cursor in maker=Gerenciar o cursor no criador
+Lock and hide the cursor when moving the camera in maker.=Trave e esconda o cursor ao mover a câmera no Criador de Personagens.
+
+
+
+

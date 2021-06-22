@@ -1,0 +1,79 @@
+//************************************************************
+// Traduções para o plugin Pushup
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+//--------------------------------------------------
+//Menu Roupas
+//--------------------------------------------------
+
+//Roupas -> Puxar
+Pushup=Aperto do Sutã
+Type=Tipo
+Bra=Sutiã
+Firmness=Firmeza
+Lift=Elevar
+Push Together=Empurrar Ambos
+Squeeze=Espremer
+Center Nipples=Centro dos Mamilos
+Flatten Nipples=Achatar Mamilos
+
+Advanced Mode=Modo Avançado
+Copy Body To Advanced=Copie Corpo para Avançado
+Copy Basic To Advanced=Copie Básico para Avançado
+
+Size=Tamanho
+Vertical Position=Posição Vertical
+Horizontal Angle=Ângulo Horizontal
+Horizontal Position=Posição Horizontal
+Vertical Angle=Ângulo Vertical
+Depth=Profundidade
+Softness=Suavidade
+Areola Depth=Profundidade da Aréola
+Nipple Width=Largura do Mamilo
+Nipple Depth=Profundidade do Mamilo
+
+Copy To Coordinate=Copiar para Carta de Roupas
+Plain=Simples
+Bathing=Banho
+Pajamas=Pijamas
+Swim=Nadar
+
+Data To Copy=Dados para Copiar
+Basic and Advanced=Básico e Avançado
+Advanced=Avançado
+Basic=Básico
+
+Copy=Copiar
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Enable Pushup By Default=Ativar Aperto do Sutã por padrão
+Whether the pushup effect is enabled by default when a bra is worn.=Se o efeito de aperto é ativado por padrão quando um sutiã é usado.
+
+Firmness Default Value=Valor padrão de firmeza
+Firmness of the breasts. More firm means less bounce.=Firmeza dos seios. Mais firme significa pular menos.
+
+Lift Default Value=Valor padrão de elevar
+Lift of the breasts. Lift is the minimum height position of the breasts when a bra is worn.=Eleva os seios. Eleva a posição mínima de altura dos seios quando um sutiã é usado.
+
+Push Together Default Value=Valor padrão de empurrar ambos
+How much the breasts will be pushed together when a bra is worn, if they are set far apart.=Quanto os seios serão apertados juntos quando um sutiã é usado, se eles estiverem distantes.
+
+Squeeze Default Value=Valor padrão de espremer
+Long breasts will be flattened by this amount.=Os seios longos serão achatados por esse valor.
+
+Nipple Centering Default Value=Valor padrão de centro dos mamilos
+If the nipples point up or down, wearing a bra will make them point forwards.=Se os mamilos apontam para cima ou para baixo, vestindo um sutiã os fará apontados para a frente.
+
+Flatten Nipples Default=Padrão de achatar mamilos
+Flatten nipples while a bra is worn.=Aplainar mamilos enquanto um sutiã é usado.
+
+Advanced Mode Slider Minimum=Mínimo do slide no modo avançado
+Minimum value of advanced mode sliders.=Valor mínimo dos sliders do modo avançado.
+
+Advanced Mode Slider Maximum=Máximo do slide no modo avançado
+Maximum value of advanced mode sliders.=Valor máximo dos sliders do modo avançado.

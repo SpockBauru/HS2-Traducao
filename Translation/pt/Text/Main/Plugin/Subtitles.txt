@@ -1,0 +1,62 @@
+//************************************************************
+// Traduções para o Plugin Subtitles (Legendas)
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Subtitles {{A}}\n...=Legendas {{A}}\n...
+Subtitles {{A}}=Legendas {{A}}
+//Config
+Show Subtitles=Mostre Legendas
+Enable or disable showing subtitles.=Ativar ou desativar a exibição de legendas.
+
+Subtitle Directory=Pasta das Legendas
+Directory containing subtitle xml info, relative to the BepInEx folder.=Pasta contendo informações da legenda em .xml em relação à pasta Bepinex.
+
+Font Size=Tamanho da Fonte
+Font size of subtitles.=Tamanho da fonte das legendas.
+
+//Estilo da Fonte
+Font Style=Estilo da Fonte
+Font style of subtitles, i.e. bold, italic, etc.=Estilo de fonte de legendas, ou seja, negrito, itálico, etc.
+
+Bold=Negrito
+Italic=Itálico
+Bold And Italic=Negrito e Itálico
+
+//Alinhamento do Texto
+Text Align=Alinhamento de Texto
+Text alignment of subtitles.=Alinhamento de texto de legendas.
+
+Upper Left=Superior Esquerdo
+Upper Center=Superior Central
+Upper Right=Superior Direito
+Middle Left=Centro Esquerdo
+Middle Center=Centro
+Middle Right=Centro Direito
+Lower Left=Inferior Esquerdo
+Lower Center=Inferior Central
+Lower Right=Inferior Direito
+
+Text Horizontal Offset=Ajuste de Texto Horizontal
+Distance from left and right edges of the screen.=Distância das bordas esquerda e direita da tela.
+
+Text Vertical Offset=Ajuste de Texto Vertigal
+Distance from top and bottom edges of the screen.=Distância das bordas superior e inferior da tela.
+
+Outline Thickness=Espessura do Contorno
+Outline thickness for subtitle text.=Espessura do contorno no texto da legenda.
+
+Text Color=Cor do Texto
+Subtitle text color.=Cor de texto da legenda.
+
+Outline Color=Cor do Contorno
+Subtitle text outline color.=Cor de contorno do texto da legenda.
+
+//VR
+VR Text Offset=Deslocamento em Realidade Virtual
+Subtitle text position in VR.=Posição de texto de legenda em Realidade Virtual
+
+VR Text {{A}} Offset=Deslocamento em Realidade Virtual {{A}}
+Subtitle text position in VR. For {{A}}P when two subtitles may be displayed at once.=Posição de texto de legenda em VR. Para posições com {{A}} pessoas quando duas legendas podem ser exibidas de uma só vez.

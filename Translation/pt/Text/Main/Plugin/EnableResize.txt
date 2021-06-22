@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o Plugin Enable Resize
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Enable Resize=Ativar Redimensionamento
+Whether to allow the game window to be resized. Requires game restart to take effect.=Permitir que a janela do jogo seja redimensionada. Requer reinício do jogo para entrar em vigor.

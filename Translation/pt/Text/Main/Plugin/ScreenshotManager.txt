@@ -1,0 +1,149 @@
+//************************************************************
+// Traduções para o plugin Screenshot Manager
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+// 360 Screenshots
+{{A}} Screenshots=Captura de tela {{A}}
+
+{{A}} screenshot resolution=Resolução da captura de tela {{A}}
+Horizontal resolution (width) of {{A}} degree/panorama screenshots. Decrease if you have issues. WARNING: Memory usage can get VERY high - {{B}} needs around {{C}}GB of free RAM/VRAM to create, {{D}} will need much more.=Resolução horizontal (largura) de fotos em Panorama {{A}}. Diminua se você tiver problemas. AVISO: O uso de memória pode ficar MUITO alto - {{B}} precisa de {{C}}GB de RAM/VRAM livres para criar, {{D}} precisará de muito mais.
+
+//Configurações 3D 
+{{A}}D Settings=Configurações {{A}}D
+
+{{A}}D screenshot eye separation=Separação dos olhos da Captura de Tela {{A}}D
+Distance between the two captured stereoscopic screenshots in arbitrary units.=Distância entre as duas capturas estereoscópicas em unidades arbitrárias.
+
+{{A}}D screenshot image separation offset=Deslocamento da separação de imagem {{A}}D
+Move images in stereoscopic screenshots closer together by this percentage (discards overlapping parts). Useful for viewing with crossed eyes. Does not affect {{A}} stereoscopic screenshots.=Aproxime as imagens em capturas estereoscópicas por esta porcentagem (descarte as partes sobrepostas). Útil para visualização com olhos cruzados. Não afeta as capturas de tela {{A}} estereoscópicas.
+
+Quality of .jpg files=Qualidade de arquivos .jpg
+Lower quality %3D lower file sizes. Even {{A}} is worse than a .png file.=Menor qualidade %3D menor tamanho do arquivo. Mesmo em {{A}} a qualidade é pior que um arquivo .png.
+
+//Geral
+Screenshot filename format=Formato do nome do arquivo
+Screenshots will be saved with names of the selected format. Name stands for the current game name (CharaStudio, Koikatu, etc.)=Capturas serão salvas com nomes no formato selecionado. Nome significa o nome do jogo atual (Charastudio, Koikatu, etc.)
+Name Date Type=Nome Data Tipo
+Date=Data
+Type Name Date=Tipo Nome Data
+Type Date=Tipo Data
+Name Type Date=Nome Tipo Data
+Name Date=Nome Data
+
+//Avançado
+Screenshot filename Name override=Substituir nome da captura de tela
+Forces the Name part of the filename to always be this instead of varying depending on the name of the current game. Use "Koikatsu" to get the old filename behaviour.=Força a parte do nome do arquivo a ser sempre este em vez de variar dependendo do nome do jogo atual. Use "Koikatsu" para obter o antigo comportamento do nome do arquivo.
+
+
+Show messages on screen=Mostrar mensagens na tela
+Whether screenshot messages will be displayed on screen. Messages will still be written to the log.=Se as mensagens captura serão exibidas na tela. As mensagens ainda serão gravadas no log.
+
+//Configurações de JPG
+JPG Settings=Configurações do JPG
+
+Save screenshots as .jpg instead of .png=Salve capturas como .jpg em vez de .png
+Save screenshots in lower quality in return for smaller file sizes. Transparency is NOT supported in .jpg screenshots. Strongly consider not using this option if you want to share your work.=Salve capturas em menor qualidade em troca de tamanhos de arquivos menores. A transparência não é suportada em capturas .jpg. Considere fortemente não usar essa opção se você quiser compartilhar seu trabalho.
+
+//Resolução da Renderização
+Render Output Resolution=Resolução da Renderização
+
+Allow extreme resolutions=Permitir resoluções extremas
+Raise maximum rendered screenshot resolution cap to {{A}}k. Trying to take a screenshot too high above {{B}}k WILL CRASH YOUR GAME. ALWAYS SAVE BEFORE ATTEMPTING A SCREENSHOT AND MONITOR RAM USAGE AT ALL TIMES. Changes take effect after restarting the game.=Aumentr o limite máximo de renderização da tela para {{A}}k. Tentar tirar uma captura de tela muito alta acima de {{B}}k VAI TRAVAR SEU JOGO. SEMPRE SALVE ANTES DE TENTAR UMA CAPTURA E MONITORE O USO DE RAM TODO O TEMPO. Mudanças entram em vigor depois de reiniciar o jogo.
+
+Horizontal size (width) of rendered screenshots in pixels. Doesn't affect UI and {{A}} screenshots.=Tamanho horizontal (largura) de capturas de tela em pixels. Não afeta as capturas de Interface de Usuário e {{A}}.
+
+Vertical size (height) of rendered screenshots in pixels. Doesn't affect UI and {{A}} screenshots.=Tamanho vertical (altura) de capturas de tela em pixels. Não afeta as capturas de tela Interface de Usuário e {{A}}.
+
+//Configurações do Renderizador
+Render Settings=Configurações do Renderizador
+
+Card image upsampling ratio=Aumento da resolução da carta
+Capture character card images in a higher resolution and then downscale them to desired size. Prevents aliasing, perserves small details and gives a smoother result, but takes longer to create.=Capture as imagens da carta de personagem em uma resolução maior e depois baixe-a para o tamanho desejado. Impede o serrilhamento, perserva pequenos detalhes e dá um resultado mais suave, mas demora mais para criar.
+
+Screenshot upsampling ratio=Aumento da resolução da captura de tela
+Capture screenshots in a higher resolution and then downscale them to desired size. Prevents aliasing, perserves small details and gives a smoother result, but takes longer to create.=Capture capturas de tela em uma resolução mais alta e depois baixe-a para o tamanho desejado. Impede o serrilhamento, perserva pequenos detalhes e dá um resultado mais suave, mas demora mais para criar.
+
+Transparency in rendered screenshots=Transparência em capturas de tela
+Replaces background with transparency in rendered image. Works only if there are no {{A}}D objects covering the background (e.g. the map). Works well in character creator and studio.=Substitui o fundo com uma transparência na imagem renderizada. Funciona somente se não houver objetos {{A}}D cobrindo o plano de fundo (por exemplo, o mapa). Funciona bem no criador de personagens e no estúdio.
+
+
+//Avançado - UI Screenshots
+UI Screenshots=Captura da Interface de Usuário
+Screenshot resolution multiplier=Multiplicador de resolução da captura de tela
+Multiplies the UI screenshot resolution from the current game resolution by this amount.\nWarning: Some elements will still be rendered at the original resolution (most notably the interface).=Multiplica a resolução da tela da interface do usuário da resolução atual do jogo por esse valor.\nAviso: Alguns elementos ainda serão renderizados na resolução original (mais notavelmente a interface).
+
+
+//Atalhos de Teclado
+
+Open settings window=Abrir janela de configurações
+Open a quick access window with the most common settings.=Abrir uma janela de acesso rápido com as configurações mais comuns.
+
+Take {{A}} {{B}}D screenshot=Captura de tela {{A}} {{B}}D
+Captures a {{A}} screenshot around current camera in stereoscopic {{B}}D ({{C}} captures for each eye in one image). These images can be viewed by image viewers supporting {{D}}D stereo format (e.g. VR Media Player - {{E}}° Viewer).=Captura uma imagem {{A}} em torno da câmera atual em {{B}}D estereoscópico ({{C}} capturas para cada olho em uma única imagem). Essas imagens podem ser visualizadas por visualizadores de imagem suportando o formato {{D}}D Stereo  (por exemplo, o VR Media Player - {{E}}° Viewer).
+
+Take {{A}} screenshot=Captura de tela {{A}}
+Captures a {{A}} screenshot around current camera. The created image is in equirectangular format and can be viewed by most {{B}} image viewers (e.g. Google Cardboard).=Captura uma imagem {{A}} em torno da câmera atual. A imagem criada é no formato equirectangular e pode ser visualizada pela maioria dos visualizadores de imagem {{B}} (por exemplo, Google Cardboard).
+
+Take rendered {{A}}D screenshot=Captura de tela renderizada {{A}}D
+Capture a high quality screenshot without UI in stereoscopic {{A}}D ({{B}} captures for each eye in one image). These images can be viewed by crossing your eyes or any stereoscopic image viewer.=Capture uma captura de tela de alta qualidade sem interface do usuário em {{A}}d estereoscópico ({{B}} capturas para cada olho em uma única imagem). Essas imagens podem ser vistas atravessando os olhos ou em qualquer visualizador de imagem estereoscópico.
+
+Take rendered screenshot=Captura de tela renderizada
+Take a screenshot with no interface. Can be configured by other settings to increase quality and turn on transparency.=Faça uma captura de tela sem interface. Pode ser configurado por outras configurações para aumentar a qualidade e ativar a transparência.
+
+Take UI screenshot=Capturar a Interface de Usuário
+Capture a simple "as you see it" screenshot of the game. Not affected by settings for rendered screenshots.=Capture uma simples tela do jogo "como você vê". Não afetado por configurações para capturas de tela renderizadas.
+
+
+//Honey Select 2
+Hotkeys=Atalhos
+Capture normal screenshot=Captura de tela normal
+Capture a screenshot "as you see it". Includes interface and such.=Capture uma tela "Como você vê". Inclui interface e tal.
+
+Capture rendered screenshot=Captura de tela renderizada
+Capture a rendered screenshot with no interface. Controlled by other settings.=Captura de tela renderizada sem interface. Controlado por outras configurações.
+
+//Renderizadas
+Rendered screenshots=Capturas de tela renderizados
+
+When capturing the screenshot make the background transparent. Only works if the background is a {{A}}D image, not a {{B}}D object like a map.=Ao capturar a captura de tela, torna o fundo transparente. Só funciona se o plano de fundo é uma imagem {{A}}D, não um objeto {{B}}D como um mapa.
+
+Disable AO=Desativar AO
+When capturing screenshots, upsampling can cause ambient occlusion to start banding and produce weird effects on the end image. Change this setting to disable AO when capturing the screenshot.=Ao capturar uma tela, a sobreamostragem pode fazer com que a oclusão do ambiente produza efeitos estranhos na imagem final. Altere esta configuração para desativar o AO ao capturar a tela.
+When Upsampling=Em superamostragens
+Never=Nunca
+Always=Sempre
+
+Screenshot height=Altura da captura
+Screenshot height in pixels=Altura da captura em pixels
+
+
+Screenshot width=Largura da captura
+Screenshot width in pixels=Largura da captura em pixels
+
+
+Shadow cascade override=Substituição da cascata de sombras
+When capturing screenshots, different shadow cascade values may look better. Override it or keep the current value.=Ao capturar telas, diferentes valores de cascata de sombras podem parecer melhores. Substitua-a ou mantenha o valor atual.
+Zero=Zero
+Two=Dois
+Four=Quatro
+
+Shadow resolution override=Substituição de resolução de sombra
+By default, shadow map resolution is computed from its importance on screen. Setting this to a value greater than zero will override that behavior. Please note that the shadow map resolution will still be capped by memory and hardware limits.=Por padrão, a resolução do mapa de sombra é calculada por sua importância na tela. Definir isso para um valor maior que zero substituirá esse comportamento. Por favor, note que a resolução do mapa de sombra ainda será limitada por limites de memória e hardware.
+
+
+Upsampling ratio=Proporção da amostragem
+Render the scene in x times larger resolution, then downscale it to the correct size. Improves screenshot quality at cost of more RAM usage and longer capture times.\n\nBE CAREFUL, SETTING THIS TOO HIGH CAN AND WILL CRASH THE GAME BY RUNNING OUT OF RAM.=Renderize a cena em resolução x vezes maior, depois reduza-a para o tamanho correto. Melhora a qualidade da captura de tela ao custo de mais uso de RAM e maior tempo de captura.\nCUIDADO, DEFINININDO ESTA OPÇÃO MUITO ALTA PODE TRAVAR O JOGO POR FALTA DE RAM.
+
+
+
+
+
+
+
+
+
+

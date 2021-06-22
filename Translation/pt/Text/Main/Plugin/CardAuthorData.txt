@@ -1,0 +1,12 @@
+//************************************************************
+// Traduções para o Plugin Card Author Data que fica dentro do KKSAPI
+//************************************************************
+
+//Menu Perfil -> Personagem
+sr:"^Author history: (.*)$"=Histórico de Autores: $1
+[Empty]=[Vazio]
+[Anonymous]=[Anônimo]
+Anonymous=Anônimo
+[Unknown]=[Desconhecido]
+Your nickname=Seu Apelido
+Your nickname will be saved to the card and used in the card's filename. This setting is global.=Seu apelido será salvo na imagem e usado no nome de arquivo da imagem. Esta configuração é global.

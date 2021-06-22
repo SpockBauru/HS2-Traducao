@@ -371,7 +371,7 @@ Y位置=Eixo Y
 読込み=Carregar
 
 システム=Sistema
-状態設定表示=Mostrar janela de "Configurações"
+状態設定表示=Mostrar janela de "Opções"
 ウィンドウ配置の初期化=Resetar posições de janelas
 スライダーホイール操作=Roda do mouse nos Sliders
 
@@ -969,6 +969,8 @@ SE音量=Volume dos Sons
 // Opções -> Nome / Aniversário
 //------------------------------------------------------------
 //Nome#
+Enter name...=Digite o nome...
+No Name=Sem Nome
 ランダム=Aleatório
 誕生日=Aniversário
 

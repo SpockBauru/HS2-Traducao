@@ -1,0 +1,145 @@
+//************************************************************
+// Traduções para o Plugin Material Editor
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Usado em Vários Lugares
+//--------------------------------------------------
+Text=Texto
+
+//--------------------------------------------------
+// Menu Rosto
+//--------------------------------------------------
+Rosto -> Geral
+Material Editor (All)=Material Editor (Tudo)
+Material Editor (Face)=Material Editor (Rosto)
+Material Editor (Body)=Material Editor (Corpo)
+
+//--------------------------------------------------
+// Menu Corpo
+//--------------------------------------------------
+//Honey Select 2
+Corpo -> Geral
+Material Editor (Head)=Material Editor (Cabeça)
+
+//--------------------------------------------------
+// Menu Cabelo
+//--------------------------------------------------
+Material Editor (Back)=Material Editor (Traseiro)
+Material Editor (Front)=Material Editor (Franja)
+Material Editor (Side)=Material Editor (Lateral)
+Material Editor (Extension)=Material Editor (Estensões)
+
+//--------------------------------------------------
+// Menu Roupas
+//--------------------------------------------------
+Material Editor (Top)=Material Editor (Superior)
+Material Editor (Bottom)=Material Editor (Inferior)
+Material Editor (Bra)=Material Editor (Superior Interno)
+Material Editor (Underwear)=Material Editor (Inferior Interno)
+Material Editor (Gloves)=Material Editor (Luvas)
+Material Editor (Pantyhose)=Material Editor (Meia Calça)
+Material Editor (Socks)=Material Editor (Meias)
+Material Editor (Shoes)=Material Editor (Sapatos)
+
+//--------------------------------------------------
+// Janela do Material Editor
+//--------------------------------------------------
+
+//Botões
+Export UV Map=Exportar Mapa UV
+Export .obj=Exportar .obj
+Copy Edits=Copiar Edição
+Paste Edits=Colar Edição
+Copy Material=Copiar Material
+Export Texture=Exportar Textura
+Import Texture=Importar Textura
+No Texture=Sem Textura
+
+//Parâmetros
+r:"^Color([0-9]{0,1}):$"=Cor$1:
+body=corpo
+Filter=Filtro
+
+Enabled:=Habilitar:
+Enabled:*=Habilitar:*
+Offset X=Ajuste X
+
+Shadow Casting Mode:=Modo de projeção de sombra:
+Shadow Casting Mode:*=Modo de projeção de sombra:*
+Shadows Only=Somente Sombras
+Two Sided=Dois Lados
+
+Receive Shadows:=Receber Sombras:
+Receive Shadows:*=Receber Sombras:*
+
+Render Queue:=Fila do Render:
+Render Queue:*=Fila do Render:*
+
+shadowcolor:=Cor Sombras:
+shadowcolor:*=Cor Sombras:*
+ShadowColor:=Cor Sombras:
+ShadowColor:*=Cor Sombras:*
+
+MainTex:=Textura Principal:
+
+r:"^rotation([0-9]{0,1}):$"=rotação$1:
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Configurações
+UI Width=Largura da Interface do Usuário
+Controls the size of the window.=Controla o tamanho da janela
+
+UI Scale=Escala da Interface do Usuário
+
+UI Height=Altura da Interface do Usuário
+
+Watch File Changes=Verificar Alterações de Arquivo
+Watch for file changes and reload textures on change. Can be toggled in the UI.=Verificar mudanças de arquivo e recarregar as texturas em caso de mudança. Pode ser alternado na interface do usuário.
+
+Convert Normal Maps=Converter Normal Maps
+Convert grey normal maps to red normal maps for compatibility with Koikatsu mods.=Converta mapas normais cinza para mapas normais vermelhos para compatibilidade com mods de Koikatsu.
+
+Export Baked Mesh=Incorporar no Polígono ao Exportar
+When enabled, skinned meshes will be exported in their current state with all customization applied as well as in the current pose.=Quando habilitado, os polígonos sem textura serão exportadas em seu estado atual com todas as personalizações aplicadas, bem como na pose atual.
+
+Export Path Override=Substituir Pasta de Exportação
+r:"^Textures and models will be exported to this folder. If empty, exports to (.*)$"=Texturas e modelos serão exportados para esta pasta. Se vazio, exporta-se para: $1
+
+Shader Optimization=Otimização de Shader
+Replaces every loaded shader with the MaterialEditor copy of the shader. Reduces the number of copies of shaders loaded which reduces RAM usage and improves performance.=Substitui cada shader carregado pela cópia do shader no MaterialEditor. Reduz o número de cópias de shader carregados, o que reduz o uso de RAM e melhora o desempenho.
+
+//Modo Avançado
+Remove Rim Lighting=Remova a Borda de Luz
+Remove rim lighting for all characters clothes, hair, accessories, etc. Will save modified values to the card.\n\nUse with caution as it cannot be undone except by manually resetting all the changes.=Remova a iluminação da borda para todas as roupas, cabelos, acessórios, etc. Salvará os valores modificados na carta.\nUtilize com cautela, pois ele não pode ser desfeito a não ser reiniciando manualmente todas as mudanças.
+
+//Atalhos de teclado
+Keyboard Shortcuts=Atalhos de Teclado
+
+Disable ReceiveShadows=Desativar Recebimento de Sombras
+Disable ReceiveShadows for all selected items and their child items in Studio=Desativar o Recebimento de Sombras para todos os itens selecionados e seus itens filhos no estúdio
+
+Disable ShadowCasting=Desativar Projeção de Sombras
+Disable ShadowCasting for all selected items and their child items in Studio=Desativar Projeção de Sombras para todos os itens selecionados e seus itens filhos no Studio
+
+Enable ReceiveShadows=Ativar Recebimento de Sombras
+Enable ReceiveShadows for all selected items and their child items in Studio=Ativar Recebimento de Sombras para todos os itens selecionados e seus itens filho no estúdio
+
+Enable ShadowCasting=Ativar Projeção de Sombras
+Enable ShadowCasting for all selected items and their child items in Studio=Ative a Projeção de Sombras para todos os itens selecionados e seus itens filho no Studio
+
+//Colar Edição
+Paste any copied edits for all selected items and their child items in Studio=Cole quaisquer edições copiadas para todos os itens selecionados e seus itens filho no estúdio
+
+Reset ReceiveShadows=Redefinir Recebimento de Sombras
+Reset ReceiveShadows for all selected items and their child items in Studio=Redefinir Recebimento de Sombras para todos os itens selecionados e seus itens filho no estúdio
+
+Reset ShadowCasting=Redefinir Projeção de Sombras
+Reset ShadowCasting for all selected items and their child items in Studio=Redefinir Projeção de Sombras para todos os itens selecionados e seus itens filho no Studio

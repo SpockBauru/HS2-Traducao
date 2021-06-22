@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin Message Center
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Show messages in UI=Mostrar mensagens na interface do usuário
+Allow plugins to show on screen messages=Permitir que os plugins mostrem mensagens na tela

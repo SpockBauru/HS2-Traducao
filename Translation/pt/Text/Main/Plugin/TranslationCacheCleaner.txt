@@ -1,0 +1,15 @@
+//************************************************************
+// Traduções para o Plugin Translation Cache Cleaner
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Clean Cache Hotkey=Tecla de atalho para limpar o cache
+Pressing this will attempt to clean your auto-translation cache.=Pressionando isto, você tentará limpar seu cache de tradução automática.
+
+Attempting to clean translation cache, please be patient...=Tentando limpar o cache de tradução, por favor, seja paciente...
+
+Attempting to clean translation cache, please be patient...\r\nDone. Removed {{A}} entries from cache. Reloading translations.=Tentando limpar o cache de tradução, por favor, seja paciente...\r\nFeito. {{A}} entradas removidas do cache. Recarregando as traduções.
+
+Attempting to clean translation cache, please be patient...\r\nDone. No changes made. Restoring/reloading translations=Tentando limpar o cache de tradução, por favor, seja paciente...\r\nFeito. Nenhuma alteração feita. Restaurando / recarregando traduções

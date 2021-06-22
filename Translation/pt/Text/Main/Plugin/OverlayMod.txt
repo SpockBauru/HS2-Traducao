@@ -1,0 +1,98 @@
+//************************************************************
+// Traduções para o Plugin Overlay Mod
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Menu Rosto
+//--------------------------------------------------
+Iris Overlays=Sobreposições de Íris
+Get iris underlay template=Obter modelo de subcamada de íris
+
+//Rosto -> Substituit Iris
+Get iris overlay template=Exportar modelo de sobreposição de íris
+Watch last loaded texture file for changes=Verifique alterações do último arquivo de textura carragado.
+Use different overlays per outfit=Use sobreposições diferentes por roupa
+When off, there is a single set of overlays for all outfits. When on, each outfit has its own set of skin overlays.=Se desligado, há um único conjunto de sobreposições para todas as roupas. Se ligado, cada roupa tem seu próprio conjunto de sobreposições.
+
+
+Eye to edit=Editar Olho:
+Iris overlay texture (On top of original iris)=Textura de sobreposição de íris (Por cima da íris original)
+Load new texture=Carreguar nova textura
+Clear texture=Limpar Textura
+Export current texture=Exportar textura atual
+
+Iris underlay texture (Before coloring and effects)=Textura de subcamada de íris (Antes de colorir e efeitos)
+
+//--------------------------------------------------
+// Menu Corpo
+//--------------------------------------------------
+Skin Overlays=Sobreposição de pele
+
+//Corpo -> Sobreposição de Pele
+Get face overlay template=Exportar modelo de sobreposição de rosto
+Get body overlay template=Exportar modelo de sobreposição de corpo
+
+Face overlay texture (On top of almost everything)=Textura de sobreposição de face (Por cima de quase tudo)
+Body overlay texture (On top of almost everything)=Textura de sobreposição de corpo (Por cima de quase tudo)
+Face underlay texture (Under tattoos, blushes, etc.)=Textura de subcamada de face (Sob tatuagens, blushes, etc.)
+Body underlay texture (Under tattoos, blushes, etc.)=Textura de subcamada de corpo (Sob tatuagens, blushes, etc.)
+
+
+//--------------------------------------------------
+// Menu Roupas
+//--------------------------------------------------
+Shoes=Sapatos
+Socks=Meias
+Pantyhose=Meia calça
+Gloves=Luvas
+Inner Bottom=Inferior Interno
+Inner Top=Superior Interno
+Bottom=Inferior
+Top=Superior
+
+//Roupas -> Superior
+Clothes Overlays=Texturas das Roupas
+Overlay textures=Texturas de sobreposição
+Dump original texture=Exportar textura original
+Hide base texture=Esconder textura de base
+Load new overlay texture=Carregar nova textura de sobreposição
+Clear overlay texture=Limpar Textura de sobreposição
+Export overlay texture=Exportar textura de sobreposição
+
+Body alpha mask=Máscara alfa do corpo
+Load new override texture=Carregar nova textura de substituição
+Clear override texture=Limpar Textura de substituição
+Export override texture=Exportar Textura de substituição
+
+Inner clothes alpha mask=Máscara alpha das roupas internas
+
+Bra alpha mask=Máscara alfa do sutiã
+
+//Roupas Superiores com várias peças
+Overlay textures (Piece 1)=Texturas de sobreposição (peça 1)
+Overlay textures (Piece 2)=Texturas de sobreposição (peça 2)
+Overlay textures (Piece 3)=Texturas de sobreposição (peça 3)
+
+//--------------------------------------------------
+// Menu Arquivo
+//--------------------------------------------------
+Clothes overlays=Sobreposição\nde Roupas
+Skin/eye overlays=Sobreposição\nde Pele/Olhos
+
+
+************************************************************
+//Janela de Configurações de Plugins (F1)
+************************************************************
+
+Compress overlay textures in RAM=Comprimir texturas de sobreposição na RAM
+Reduces RAM usage to about {{A}}th at the cost of lower quality. Use when loading lots of characters with overlays if you're running out of memory.=Reduz o uso de RAM em cerca de {{A}} ao custo de menor qualidade. Use ao carregar muitos personagens com sobreposições se você estiver ficando sem memória.
+
+Overlay export/open folder=Pasta de exportar/abrir sobreposições
+
+The value needs to be a valid full path to an existing folder. Default folder will be used if the value is invalid. Exported overlays will be saved there, and by default open overlay dialog will show this directory.=O valor precisa ser um caminho completo válido para uma pasta existente. A pasta padrão será usada se o valor for inválido. As sobreposições exportadas serão salvas aqui e, por padrão, a caixa de diálogo Abrir Sobreposição mostrará essa pasta.
+
+Watch loaded texture for changes=Verifique alterações da textura carragada

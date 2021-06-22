@@ -1,0 +1,22 @@
+//************************************************************
+// Traduções para o Plugin Clothing Unlocker
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+//Menu Roupas
+//--------------------------------------------------
+//Roupas -> Configurações
+Settings=Configurações
+
+Clothing Unlock=Desbloquear Roupas
+Unlock bras with all tops, bottoms with all tops, and underwear with all bras=Desbloquear sutiãs com roupa superior, Roupa inferior com roupa superior e roupas íntimas com os sutiãs para ambos os gêneros
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Enable clothing for either gender=Ativar roupas para ambos os gêneros
+Allows any clothing to be worn by either gender.=Permite que qualquer roupa seja usada por qualquer gênero.

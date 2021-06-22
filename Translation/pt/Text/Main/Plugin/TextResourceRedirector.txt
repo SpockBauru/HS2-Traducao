@@ -1,0 +1,29 @@
+//************************************************************
+// Traduções para o Plugin Text Resource Redirector
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+AchievementInfoDataHandler=Tratar Informações de Conquistas
+Use translation stored in AchievementInfoData assets if possible=Use a tradução armazenada AchievementInfoData, se possível
+
+Use Translation from Asset=Use a tradução de "RedirectedResources"
+
+BGMNameInfoHandler=Tratar Informações da Música de Fundo
+Use translation stored in BGMNameInfo assets if possible=Use a tradução armazenada em BGMNameInfo, se possível
+
+EventContentInfoDataHandler=Tratar Informações dos Eventos
+Use translation stored in EventContentInfoData assets if possible=Use a tradução armazenada em EventContentInFodata, se possível
+
+ParameterNameInfoHandler=Tratar Infomações dos nomes dos parâmetros
+Use translation stored in ParameterNameInfo assets if possible=Use a tradução armazenada em ParameterNameInfo, se possível
+
+PlanNameInfoHandler=Tratar Infomações dos Serviços
+Use translation stored in PlanNameInfo assets if possible=Use a tradução armazenada em PlanNameInfo, se possível
+
+Text Formatter=Formatar Texto
+
+Alternate Text Reflow=Redirecionamento de texto alternativo
+Use whitespace based text reflow for non-Japanese languages.=Use o redirecionamento de texto baseado no espaço em branco para idiomas não japoneses.

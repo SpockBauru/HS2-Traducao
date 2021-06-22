@@ -1,0 +1,41 @@
+//************************************************************
+// Traduções para o Plugin Graphics Settings
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Geral
+Optimize in background=Otimizar em segundo plano
+Optimize the game when it is the background and unfocused. Settings such as anti-aliasing will be turned off or reduced in this state.=Otimize o jogo quando ele está em segundo plano. Configurações como o anti-aliasing serão desativadas ou reduzidas neste estado.
+
+Run in background=Executar em segundo plano
+Should the game be running when it is in the background (when the window is not focused)?\n=O jogo deve estar funcionando quando estiver em segundo plano (quando a janela não estiver selecionada)?\n
+
+//Renderização
+Rendering=Renderização
+
+Display mode=Modo de exibição
+Fullscreen=Tela cheia
+Windowed=Janela
+Borderless fullscreen=Janela sem bordas em tela cheia 
+
+Resolution=Resolução
+Dummy setting for the custom drawer. Resolution is saved automatically by the game after clicking apply.=Configuração temporária para o menu personalizado. A resolução é mostrada automaticamente pelo jogo após a aplicação.
+Apply=Aplicar
+
+Selected monitor=Selecionar Monitor
+
+VSync synchronizes the output video of the graphics card to the refresh rate of the monitor. This prevents tearing and produces a smoother video output.\nHalf vsync synchronizes the output to half the refresh rate of your monitor.=O VSync sincroniza o vídeo de saída da placa de vídeo para a taxa de atualização do monitor. Isso impede cortes no meio da imagem e produz uma saída de vídeo mais suave.\nMeio VSync sincroniza a saída para metade da taxa de atualização do seu monitor.
+
+Framerate limit=Limitar taxa de quadros
+Limits your framerate to whatever value is set. -{{A}} equals unlocked framerate.\nVSync has to be disabled for this setting to take effect.=Limita a taxa de quadros para qualquer valor é definido. -{{A}} significa taxa desbloqueada.\nO VSync deve ser desativado para esta configuração entrar em vigor.
+
+Anisotropic filtering=Filtragem anisotrópica
+Improves distant textures when they are being viewer from indirect angles.=Melhora as texturas distantes quando estão sendo vistas por ângulos inclinados.
+
+Force Enable=Force para Habilitar
+
+Anti-aliasing multiplier=Multiplicador anti serrilhado
+Smooths out jagged edges on objects.=Suaviza bordas serrilhadas em objetos.

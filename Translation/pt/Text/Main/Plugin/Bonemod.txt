@@ -1,0 +1,314 @@
+//************************************************************
+// Traduções para o Plugin Bonemod (ABMX)
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Usado em Vários Lugares
+//--------------------------------------------------
+Side to edit=Lado para Editar
+Both=Ambos
+Left=Esquerda
+Right=Direita
+Reset=Reset
+
+//--------------------------------------------------
+// Barra Lateral Direita
+//--------------------------------------------------
+Split XYZ scale sliders=Separar sliders de escala em XYZ
+Advanced Bonemod Window=Janela Avançada do Bonemod
+
+//--------------------------------------------------
+// Menu Rosto
+//--------------------------------------------------
+Head=Cabeça
+Upper Eyelashes=Cílios Sup.
+Lower Eyelashes=Cílios Inf.
+
+Eyes 2=Olhos 2
+Mouth 2=Boca 2
+
+//Rosto -> Cabeça
+r:"^Head Scale( *[A-Z]*)$"=Escala Cabeça$1
+Head Position=Posição Cabeça
+r:"^Head \+ Neck Scale([0-9 A-Z]*)$"=Escala Pescoço e Cabeça$1
+r:"^Upper Head Scale([0-9 A-Z]*)$"=Escala Cabeça Superior$1
+r:"^Upper Front Head Scale([0-9 A-Z]*)$"=Escala Cabeça Sup. Frontal$1
+r:"^Lower Head Scale([0-9 A-Z]*)$"=Escala Cabeça Inf.$1
+r:"^Head Collision Scale([0-9 A-Z]*)$"=Caixa Colisão da Cabeça$1
+
+//Rosto -> Orelha
+r:"^Ear Scale([0-9 A-Z]*)$"=Escala Orelhas$1
+Ear Offset=Ajuste Orelhas
+r:"^Upper Ear Scale([0-9 A-Z]*)$"=Escala Orelha Superior$1
+r:"^Lower Ear Scale([0-9 A-Z]*)$"=Escala Orelha Inferior$1
+
+//Rosto -> Queixo
+r:"^Jaw Scale([0-9 A-Z]*)$"=Escala Queixo$1
+r:"^Chin Scale([0-9 A-Z]*)$"=Escala Papada$1
+r:"^Chin Tip Scale([0-9 A-Z]*)$"=Escala Ponta$1
+r:"^Mouth Cavity Scale([0-9 A-Z]*)$"=Escala Cavidade Bocal$1
+Jaw Offset=Deslocamento do Queixo
+
+//Rosto -> Bochechas
+r:"^Cheek Scale([0-9 A-Z]*)$"=Escala Bochchas$1
+r:"^Cheekbone Scale([0-9 A-Z]*)$"=Escala Maçãs$1
+r:"^Upper Cheek Scale([0-9 A-Z]*)$"=Escala Bochcha Superior$1
+r:"^Lower Cheek Scale([0-9 A-Z]*)$"=Escala Bochecha Inferior$1
+r:"^Lower Head Cheek Scale([0-9 A-Z]*)$"=Escala da Bochcha Inferior$1
+Cheek Offset=Deslocamento da Bochcha
+
+//Rosto -> Sobrancelhas
+r:"^Eyebrow Scale([0-9 A-Z]*)$"=Escala Sobrancelha$1
+r:"^Inner Eyebrow Scale([0-9 A-Z]*)$"=Escala Sobrancelha Interior$1
+r:"^Outer Eyebrow Scale([0-9 A-Z]*)$"=Escala Sobrancelha Superior$1
+
+//Rosto -> Cílios Superiores
+r:"^Inner Eyelashes Scale([0-9 A-Z]*)$"=Escala Interna dos Cílios$1
+r:"^Upper Eyelashes Scale([0-9 A-Z]*)$"=Escala Cílios Sup.$1
+
+//Rosto -> Cílios Inferiores
+r:"^Outer Eyelashes Scale([0-9 A-Z]*)$"=Escala Externa dos Cílios$1
+r:"^Lower Eyelashes Scale([0-9 A-Z]*)$"=Escala Cílios Inf.$1
+
+//Rosto -> Olhos 2
+r:"^Eye Scale([0-9 A-Z]*)$"=Escala do Olho$1
+r:"^Both Eyeballs Scale([0-9 A-Z]*)$"=Escala de Ambos os Olhos$1
+r:"^Eyeball Scale([0-9 A-Z]*)$"=Escala Olho$1
+
+
+//Rosto -> Nariz
+r:"^Nose + Bridge Scale([0-9 A-Z]*)$"=Escala Nariz+Gabela$1
+Nose Tip Offset=Deslocamento da Ponta do Nariz
+r:"^Nose Scale([0-9 A-Z]*)$"=Escala Nariz$1
+r:"^Nose Tip Scale([0-9 A-Z]*)$"=Escala Ponta do Nariz$1
+r:"^Nose Bridge Scale([0-9 A-Z]*)$"=Escala da Gabela$1
+r:"^Nose \+ Bridge Scale([0-9 A-Z]*)$"=Escala da Gabela$1
+r:"^Glasses Accessory Scale([0-9 A-Z]*)$"=Escala Acessório Óculos$1
+
+//Rosto -> Boca 2
+r:"^Mouth Scale([0-9 A-Z]*)$"=Escala Boca$1
+r:"^Mouth Side Scale([0-9 A-Z]*)$"=Escala Lateral dos Lábios$1
+r:"^Lips Scale([0-9 A-Z]*)$"=Escala dos Lábios$1
+r:"^Upper Lip Scale([0-9 A-Z]*)$"=Escala Lábio Superior$1
+r:"^Lower Lip Scale([0-9 A-Z]*)$"=Escala Lábio Inferior$1
+
+//--------------------------------------------------
+// Menu Corpo
+//--------------------------------------------------
+Chest 2=Peitos 2
+Nipples=Mamilos //São polêmicos
+Upper Body 2=Tronco Sup. 2
+Lower Body 2=Tronco Inf. 2
+Arms 2=Braços 2
+Forearms=Antebraços
+Hands=Mãos
+Thighs=Coxas
+Feet & Calves=Pés e Panturrilhas
+Genitals=Genitálias
+
+//Corpo -> Geral
+r:"^Body Scale([0-9 A-Z]*)$"=Escala do Corpo$1
+
+//Corpo -> Peitos 2
+r:"^Breast Scale([0-9 A-Z]*)$"=Escala Seios$1
+r:"^Extra Breast Scale([0-9 A-Z]*)$"=Escala Seios Extra$1
+r:"^Breast Collision Scale([0-9 A-Z]*)$"=Escala Colisão Seios$1
+r:"^Breast Tip Scale([0-9 A-Z]*)$"=Escala da Ponta dos Seios$1
+
+Nipple Scale=Escala dos Mamilos
+Nipple Tip Scale=Escala da Ponta dos Mamilos
+Breast Collision Scale=Escala da Colisão dos Seios
+
+//Corpo -> Mamilos 2
+r:"^Areola Scale([0-9 A-Z]*)$"=Escala Aréola$1
+Areola Protrusion=Saliência da Aréola
+r:"^Nipple Scale([0-9 A-Z]*)$"=Escala Mamilos$1
+r:"^Nipple Tip Scale([0-9 A-Z]*)$"=Escala Ponta dos Mamilos$1
+r:"^Nipple Accessory Scale([0-9 A-Z]*)$"=Escala Acessórios Mamilos$1
+
+//Corpo -> Tronco Superior
+r:"^Neck Scale([0-9 A-Z]*)$"=Escala Pescoço$1
+r:"^Shoulder Scale([0-9 A-Z]*)$"=Escala Ombros$1
+Shoulder Shape=Formato Ombros
+r:"^Shoulder Collision Scale([0-9 A-Z]*)$"=Colisão dos Ombros$1
+
+//Corpo -> Tronco Superior 2
+r:"^Upper Torso Scale([0-9 A-Z]*)$"=Escala Busto Superior$1
+r:"^Middle Torso Scale([0-9 A-Z]*)$"=Escala Busto Médio$1
+r:"^Spine Curve([0-9 A-Z]*)$"=Curva da Coluna$1
+r:"^Lower Torso Scale([0-9 A-Z]*)$"=Escala Busto Inferior$1
+r:"^Upper Torso Collision Scale([0-9 A-Z]*)$"=Colisão Busto Superior$1
+r:"^Lower Torso Collision Scale([0-9 A-Z]*)$"=Colisão Busto Inferior$1
+
+//Corpo -> Tronco Inferior
+r:"^Ass Scale([0-9 A-Z]*)$"=Escala da Bunda$1
+Ass Position=Posição da Bunda
+r:"^Ass Collision Scale([0-9 A-Z]*)$"=Colisão da Bunda$1
+r:"^Pelvis Scale([0-9 A-Z]*)$"=Escala da Cintura$1
+
+//Corpo -> Tronco Inferior 2
+r:"^Upper Waist Scale([0-9 A-Z]*)$"=Escala Cintura Superior$1
+Upper Waist Position=Posição Cintura Superior
+r:"^Lower Waist Scale([0-9 A-Z]*)$"=Escala Cintura Inferior$1
+Lower Waist Position=Posição Cintura Inferior
+r:"^Waist & Leg Scale([0-9 A-Z]*)$"=Escala Cintura e Perna$1
+Belly Collision Scale X=Colisão Barriga em X
+Belly Collision Scale Z=Colisão Barriga em Z
+Waist Collision Scale X=Colisão Cintura em X
+Waist Collision Scale Z=Colisão Cintura em Z
+r:"^Spine([0-9 A-Z]*)Offset$"=Ajuste da Coluna$1
+r:"^Hips Scale([0-9 A-Z]*)$"=Escala do Quadril$1
+
+//Corpo -> Braços 2
+r:"^Whole Arm Scale([0-9 A-Z]*)$"=Tamanho dos Braços$1
+Arm Offset=Deslocamento dos Braços
+r:"^Upper Arm Deltoids Scale([0-9 A-Z]*)$"=Músculo do Ombro$1
+r:"^Upper Arm Triceps Scale([0-9 A-Z]*)$"=Bíceps e Tríceps$1
+r:"^Upper Arm Lower Scale([0-9 A-Z]*)$"=Escala do Meio do Braço$1
+r:"^Shoulder & Arm Scale([0-9 A-Z]*)$"=Escala Ombros e Braços$1
+r:"^Arm Scale([0-9 A-Z]*)$"=Escala Braços$1
+Arm Spacing=Espaçamento entre Braços
+r:"^Upper Arm Thickness([0-9 A-Z]*)$"=Grossura Braços Superior$1
+r:"^Elbow Scale([0-9 A-Z]*)$"=Frente do Cotovelo$1
+r:"^Elbow Cap Scale([0-9 A-Z]*)$"=Cotovelo$1
+
+//Corpo -> Antebraços
+r:"^Forearm Scale([0-9 A-Z]*)$"=Escala Antebraços$1
+r:"^Forearm Thickness([0-9 A-Z]*)$"=Grossura Antebraços$1
+r:"^Forearm Upper Scale([0-9 A-Z]*)$"=Antebraço Superior$1
+r:"^Forearm Lower Scale([0-9 A-Z]*)$"=Antebraço Inferior$1
+
+//Corpo -> Mãos
+r:"^Wrist Scale([0-9 A-Z]*)$"=Escala dos Pulsos$1
+r:"^Hand Scale([0-9 A-Z]*)$"=Escala Mão$1
+r:"^Hand Collision Scale([0-9 A-Z]*)$"=Escala Colisão das Mãos$1
+
+Hand=Mão
+Finger=Dedo
+Segment=Falange
+r:"^Scale([0-9 A-Z]*)$"=Escala$1
+
+All=Tudo
+//Base=
+Center=Centro
+Tip=Ponta
+
+//Corpo -> Pernas
+r:"^Whole Leg Scale([0-9 A-Z]*)$"=Escala das Pernas$1
+Leg Offset=Deslocamento das Pernas
+r:"^Kneecap Scale([0-9 A-Z]*)$"=Escala do Joelho$1
+r:"^Kneecap Back Scale([0-9 A-Z]*)$"=Escala de Trás do Joelho$1
+
+//Corpo -> Coxas
+r:"^Outer Upper Thigh Scale([0-9 A-Z]*)$"=Coxa Superior Externa$1
+r:"^Thigh & Leg Scale([0-9 A-Z]*)$"=Escala Coxa e Perna$1
+Leg Spacing=Espaçamento entre Pernas
+r:"^Upper Thigh Scale([0-9 A-Z]*)$"=Excala Coxa Superior$1
+Upper Thigh Spacing=Espaçamento Coxas Superiores
+r:"^Center Thigh Scale([0-9 A-Z]*)$"=Escala Centro da Coxa$1
+Center Thigh Spacing=Espaçamento Centro das Coxas
+r:"^Lower Thigh Scale([0-9 A-Z]*)$"=Escala Coxa Inferior$1
+Lower Thigh Spacing=Espaçamento Coxas Inferiores
+Upper Thigh Collision Scale Z=Colisão Coxas Superiores em Z
+Lower Thigh Collision Scale Z=Colisão Coxas Inferiores em Z
+
+
+
+//Corpo -> Pés e Panturrilhas
+r:"^Lower Leg Scale([0-9 A-Z]*)$"=Escala Perna Inferior$1
+r:"^Upper Calve Scale([0-9 A-Z]*)$"=Escala Panturrilha Sup.$1
+r:"^Lower Calve Scale([0-9 A-Z]*)$"=Escala Panturrilha Inf.$1
+r:"^Center Calve Scale([0-9 A-Z]*)$"=Escala da Panturrilha Central$1
+
+r:"^Ankle Scale([0-9 A-Z]*)$"=Escala Tornozelo$1
+r:"^Foot Scale([0-9 A-Z]*)$"=Escala Pé 1$1
+Ankle Height=Altura Tornozelo
+r:"^Foot Toes Scale([0-9 A-Z]*)$"=Escala Dedos dos Pés$1
+Foot Toes Length=Comprimento Dedos dos Pés
+Foot Toes Offset=Deslocamento dos Dedos dos Pés
+r:"^Pelvis & Legs Scale([0-9 A-Z]*)$"=Escala da Cintura e Pernas$1
+r:"^Hips & Legs Scale([0-9 A-Z]*)$"=Escala do Quadril e Pernas$1
+
+
+//Corpo -> Genitálias
+r:"^Genital Area Scale([0-9 A-Z]*)$"=Escala Área Genital$1
+Genital Area Length=Comprimento Área Genital
+r:"^Pubic Mound Scale([0-9 A-Z]*)$"=Escala Monte Púbico$1
+r:"^Penis Scale([0-9 A-Z]*)$"=Escala Pênis$1
+r:"^Penis Tip Scale([0-9 A-Z]*)$"=Escala Glande$1
+r:"^Testicles Scale([0-9 A-Z]*)$"=Escala Testículos$1
+r:"^Anus Scale([0-9 A-Z]*)$"=Escala Ânus$1
+
+
+//--------------------------------------------------
+// Menu Roupas
+//--------------------------------------------------
+Skirt Scale=Escala Saia
+
+//Roupas -> Escala Saia
+r:"^Whole Skirt Scale([0-9 A-Z]*)$"=Escala Total da Saia$1
+Whole Skirt Offset=Ajuste Total da Saia
+r:"^Skirt Front Scale([0-9 A-Z]*)$"=Escala Frontal da Saia$1
+Skirt Front Offset=Ajuste Frontal da Saia
+r:"^Skirt Front Sides Scale([0-9 A-Z]*)$"=Escala Frontal Lateral da Saia$1
+Skirt Front Sides Offset=Ajuste Frontal Lateral da Saia
+r:"^Skirt Sides Scale([0-9 A-Z]*)$"=Escala Lados da Saia$1
+Skirt Sides Offset=Ajuste Lados da Saia
+r:"^Skirt Back Sides Scale([0-9 A-Z]*)$"=Escala Traseira Lateral da Saia$1
+Skirt Back Sides Offset=Ajuste Traseira Lateral da Saia
+r:"^Skirt Back Scale([0-9 A-Z]*)$"=Escala Traseira da Saia$1
+Skirt Back Offset=Ajuste Traseira da Saia
+
+//--------------------------------------------------
+// Menu Arquivo
+//--------------------------------------------------
+Body Bonemod=Bonemod do Corpo
+Face Bonemod=Bonemod do Rosto
+
+//--------------------------------------------------
+// Janela Avançada do Bonemod
+//--------------------------------------------------
+r:"^Advanced Bone Sliders(.*)$"=Sliders avançados do Bonemod$1
+
+//Menu superior
+Search:=Procurar:
+Add new=Novo
+Revert=Revert
+Only new=Só novos
+Only per coordinate=Apenas coordenadas
+Increment:=Incremento:
+
+//Janela Inferior
+No bone modifiers to show. You can add new modifiers by using the search box above, or by using the yellow in-game sliders in maker.=Nenhuma opção para mostrar. Você pode adicionar novas opções usando a caixa de pesquisa acima ou usando os sliders amarelos no Editor.
+
+No bone modifiers were found. Change your search parameters or add a new bone above.=Nenhuma opção foi encontrada. Altere seus parâmetros de pesquisa ou adicione uma nova acima.
+
+Per coordinate=Por Grupo
+Length:=Compr.
+Offset=Ajuste
+Tilt=Girar
+
+Link R/L bones=Ligar Esq./Dir.
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Make advanced window transparent=Faça janela avançada transparente
+If false, the window has a solid background, else it's see-through=Se Falso, a janela tem fundo opaco, caso contrário é transparente
+
+Open bonemod editor=Abrir editor do Bonemod
+Opens advanced bonemod window if there is a character that can be edited.=Abre a janela avançada do Bonemod se houver um atalho configurado.
+
+Not set=Não configurado
+Maker=Criador
+
+Increase slider limits {{A}}x=Aumentar os limites dos sliders {{A}}x
+
+Maximum values of all sliders in maker are increased twofold. Can cause even more horrifying results. Recommended to only enable when working on furries and superdeformed charas.\n\nThe setting takes effect after maker restart.=Os valores máximos de todos os sliders do criador são duplicados. Pode causar resultados ainda mais horríveis. Recomendado apenas habilitar ao trabalhar em furries e personagens superdeformados.\n\nEntra em efeito após a reinicialização do criador de personagens.
+
+Use XYZ scale sliders=Use sliders de escala xyz
+When enabled, all scale sliders in maker are split into XYZ sliders (one for each direction). Cards made with this option will automatically enable it for relevant sliders.\n\nNote that using uneven scaling on some parts can skew the model in some animations, especially in H mode.\n\nThe setting takes effect immediately while inside maker.=Quando ativado, todos os Sliders de escala do criador são divididos em xyz (um para cada direção). As cartas feitas com esta opção irão ativá-lo automaticamente para sliders relevantes.\n\nNote que o uso de dimensões desiguais pode distorcer o modelo em algumas animações, especialmente em cenas de sexo.\n\nA configuração é ativada imediatamente dentro do criador.

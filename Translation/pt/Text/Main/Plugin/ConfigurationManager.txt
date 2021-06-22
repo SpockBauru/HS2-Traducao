@@ -1,0 +1,29 @@
+//************************************************************
+// Traduções para o Configuration Manager
+//************************************************************
+
+Plugin / mod settings=Configurações de Plugins/Mods
+
+//Barra Superior
+Show: =Ver: 
+Normal settings=Config. normais
+Keyboard shortcuts=Atalhos de teclado
+Advanced settings=Config. avançadas
+Debug mode=Modo depuração
+
+//Barra de Busca
+Search settings: =Busca: 
+Clear=Limpa
+
+//Barra Expandir/Retrair
+Tip: Click plugin names to expand. Click setting and group names to see their descriptions.=Dica: Clique nos nomes para expandir. Clique em "Modo depuração" para ver descrições
+
+Expand=Expanda
+Collapse=Retraia
+
+//Janela de Plugins
+Disabled=Desativado
+Enabled=Ativo
+General=Geral
+
+r:"^Plugins with no options available: (.*)$"=Plugins sem opções disponíveis: $1

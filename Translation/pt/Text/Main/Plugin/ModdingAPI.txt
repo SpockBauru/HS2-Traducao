@@ -1,0 +1,11 @@
+//************************************************************
+// Traduções para o plugin Modding API
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Show debug messages=Mostrar mensagens de depuração
+Enables display of additional log messages when certain events are triggered within KKAPI. Useful for plugin devs to understand when controller messages are fired. Changes take effect after game restart.=Permite a exibição de mensagens de log adicionais quando certos eventos são acionados no KKAPI. Útil para o desenvolvedores entender quando as mensagens do controlador são disparadas. Mudanças entram em vigor após o reinício do jogo.
+
+Debug=Depurar

@@ -1,0 +1,27 @@
+//************************************************************
+// Traduções para o plugin Autosave
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+r:"^Autosaving in ([0-9]+)$"=Salvando em $1
+Saving...=Salvando...
+Saved!=Salvo!
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Autosave Enabled=Ativar Salvamento Automático
+Whether to do autosaves=Se deve-se ou não fazer salvamentos automáticos
+
+Autosave Interval=Intervalo do Salvamento
+Minutes between autosaves=Minutos entre salvamentos
+
+Autosave Countdown=Contagem Regressiva Autosave
+Seconds of countdown before autosaving=Segundos de contagem regressiva antes dos salvamentos
+
+Autosave File Limit=Limite de arquivos
+Number of autosaves to keep, older ones will be deleted=Número de salvamentos para manter, os mais antigos serão excluídos

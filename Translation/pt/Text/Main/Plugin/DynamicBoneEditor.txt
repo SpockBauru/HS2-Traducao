@@ -1,0 +1,22 @@
+//************************************************************
+// Traduções para o Plugin Dynamic Bone Editor
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+//Menu Itens
+//--------------------------------------------------
+//Itens -> Janela do item
+Dynamic Bone Editor=Editor de Esqueleto Dinâmico
+
+Dynamic Bone=Osso Dinâmico
+Freeze Axis=Congelar Eixos
+Weight=Peso
+Damping=Amortecimento
+Elasticity=Elasticidade
+Stiffness=Rigidez
+Inertia=Inércia
+Radius=Raio

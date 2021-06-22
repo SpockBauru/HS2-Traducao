@@ -1,0 +1,14 @@
+//************************************************************
+// Traduções para o Plugin FixationalEyeMovement
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Options=Opções
+ChangeTime=Mudar Tempo
+Adjusting the time it takes for eyes to move.=Ajuste o tempo que leva para os olhos se mover.
+
+Range=Alcance
+Adjusting the width of eye movement.=Ajuste o alcance do movimento ocular.

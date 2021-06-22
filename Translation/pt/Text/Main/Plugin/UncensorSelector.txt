@@ -1,0 +1,82 @@
+//************************************************************
+// Traduções para o Plugin Uncensor Selector
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Menu Corpo
+//--------------------------------------------------
+
+//Corpo -> Geral
+Body=Corpo
+Default=Padrão
+[Male] Default Body M=[Masculino] Corpo Padrão M
+[Female] Default Body F=[Feminino] Corpo Padrão F
+
+Penis=Pênis
+None=Nenhum
+Mosaic Penis=Pênis de Mosaico
+
+Balls=Bolas
+Mosaic Balls=Bolas de Mosaico
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Config
+Random=Aleatório
+Genderbender Allowed=Permitir troca de gênero
+Whether or not genderbender characters are allowed. When disabled, girls will always have a female body with no penis, boys will always have a male body and a penis. Genderbender characters will still load in Studio for scene compatibility.=Se trocar o gênero dos personagens é ou não permitido. Quando desativado, as mulheres sempre terão um corpo feminino sem pênis, os homens sempre terão um corpo masculino e um pênis. Os personagens de gênero trocado ainda carregarão no estúdio para compatibilidade com cena.
+
+Default Male Body=Corpo Masculino Padrão
+Body to use if the character does not have one set. The censored body will not be selected randomly if there are any alternatives.=Corpo para usar se o personagem não tiver um selecionado. O corpo censurado não será selecionado aleatoriamente se houver alternativas.
+
+Default Male Penis=Pênis Masculino Padrão
+Penis to use if the character does not have one set. The mosaic penis will not be selected randomly if there are any alternatives.=Pênis para usar se o personagem não tiver um selecionado. O pênis de mosaico não será selecionado aleatoriamente se houver alternativas.
+
+Default Male Balls=Bolas Masculinas Padrão
+Balls to use if the character does not have one set. The mosaic balls will not be selected randomly if there are any alternatives.=Bolas para usar se o personagem não tiver um selecionado. As bolas de mosaico não serão selecionadas aleatoriamente se houver alternativas.
+
+Default Female Body=Corpo Feminino Padrão
+
+Default Female Penis=Penis Feminino Padrão
+
+Default Female Balls=Bolas Femininas Padrão
+
+Default Female Balls Display=Exibir Bolas Femininas Padrão
+Whether balls will be displayed on females if not otherwise configured.=Se as bolas serão exibidas nas mulheres se não estiver configurado de outra forma.
+
+//Excluir da Escolha Aleatória
+Random Excluded=Excluir da Escolha Aleatória
+Done=Feito
+
+Male Body=Corpo Masculino
+Configure uncensors to exclude for Male Body=Configure para excluir corpo masculino
+Body uncensors to exclude from random selection for males=Opções de corpo para excluir da seleção aleatória para homens
+
+Male Penis=Pênis Masculino
+Configure uncensors to exclude for Male Penis=Configue para excluir pênis masculino
+Penis uncensors to exclude from random selection for males=Opções de pênis para excluir de seleção aleatória para homens
+
+Male Balls=Bolas Masculino
+Configure uncensors to exclude for Male Balls=Configure para excluir bolas masculinas
+Balls uncensors to exclude from random selection for males=Opções de bolas para excluir de seleção aleatória para homens
+
+Female Body=Corpo Feminino
+Configure uncensors to exclude for Female Body=Configure para excluir corpo feminino
+Body uncensors to exclude from random selection for females=Opções de corpo para excluir da seleção aleatória para mulheres
+
+Female Penis=Pênis Feminino
+Configure uncensors to exclude for Female Penis=Configure para excluir pênis feminino
+Penis uncensors to exclude from random selection for females=Opções de pênis para excluir da seleção aleatória para mulheres
+
+Female Balls=Bolas Feminino
+Configure uncensors to exclude for Female Balls=Configure para excluir bolas femininas
+Balls uncensors to exclude from random selection for females=Opções de bolas para excluir da seleção aleatória para mulheres
+
+//Menu de Seleção
+Select uncensors to exclude from random selection=Selecione para excluir da seleção aleatória

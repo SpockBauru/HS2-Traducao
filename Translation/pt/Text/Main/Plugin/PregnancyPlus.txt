@@ -1,0 +1,177 @@
+//************************************************************
+// Traduções para o Plugin Pregnancy+
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+//--------------------------------------------------
+//Menu Personagem
+//--------------------------------------------------
+
+Pregnancy+=Gravidez+
+Pregnancy +=Gravidez +
+
+Enable Pregnancy+=Habilitar Gravidez+
+If disabled, you won't see any pregnant effects.=Se desativado, você não verá nenhum efeito de gravidez.
+
+Inflation Size=Tamanho da Barriga
+The equivalent to number of weeks pregnant for Pregnancy+.=O Equivalente ao número de semanas de Gravidez.
+
+Inflation Multiplier=Multiplicador de Tamanho
+Multiplies the base inflation size by this value.=Multiplica o tamanho por esse valor.
+
+Roundness=Arredondamento
+Make the front of the belly more or less round=Faça a frente da barriga mais ou menos redonda
+
+Move Y=Mover em Y
+Moves the belly sphere up and down.=Move a barriga pra cima e pra baixo.
+Move Z=Mover em Z
+Moves the belly sphere forward and back.=Move a barriga pra trás e pra frente.
+
+Stretch X=Esticar em X
+Stretch the belly wider in the X direction.=Estica a barriga pros lados no eixo X
+Stretch Y=Esticar em Y
+Stretch the belly taller in the Y direction.=Estica a barriga pra cima no eixo Y
+
+Shift Y=Deslocar em Y
+Shift the front of the belly up and down.=Desloca a frente da barriga pra cima e pra baixo.
+Shift Z=Deslocar em Z
+Shift the front of the belly forward and back.=Desloca a frente da barriga pra traz e pra frente.
+
+Taper Y=Afunilar em Y
+Taper the sides of the belly in at the top and out at the bottom.  Makes an egg like shape.=Afunila os lados da barriga pra dentro em cima e pra fora em baixo. Faz uma forma oval.
+Taper Z=Afunilar em Z
+Taper the front of the belly in at the top and out at the bottom.  Gives the belly an angle at the front.=Afunila a frente da barriga pra dentro em cima e pra fora em baixo.  Faz um ângulo na frente da barriga.
+
+Drop=Caída
+Give the belly the 'Dropped' effect=Dê a barriga o efeito 'caída'
+
+Cloth Offset=Ajuste de roupas
+Control the distance between each clothing layer.  Will help reduce clipping.=Controla a distância entre cada camada de roupas. Ajuda a reduzir defeitos.
+
+Fat Fold=Dobra de Gordura
+Control the size of the fat fold on the characters belly.  0 for none.  Use the 'Inflation Size' slider first.=Controle o tamanho da dobra de gordura na barriga do personagem. 0 para nenhum. Use o slider "Tamanho da Barriga" primeiro.
+
+Fat Fold Height=Altura da Dobra de Gordura
+Control the vertical position of the fat fold crease.  0 for default.=Controle a posição vertical da dobra de gordura. 0 por padrão.
+
+Clothing Offset Version=Versão do ajuste de roupas
+The Clothing Offset version will determine how clothing sits on the belly.  V2 retains the cloth thickness.  V1 (pre v1.28) is very flat with more clipping.=A versão do ajuste de roupas determinará como a roupa se encaixa na barriga. V2 retém a espessura de pano. V1 (pré v1.28) é muito plano e pode passar através.
+
+Reset All=Reiniciar tudo
+Will reset all Pregnancy+ sliders to their default value=Redefinir todos os sliders do gravidez+ para o seus valores padrão
+
+Restore Last Shape=Restaurar a última forma
+Restores the last set belly shape.  Even across characters.=Restaura a última forma de barriga. Mesmo entre os personagens.
+
+Belly Mesh Smoothing=Suavização de malha de barriga
+Applies smoothing to the mesh near the belly.  It will take a few seconds.  Resets on changes and character load.=Aplica suavização para a grade perto da barriga. Levará alguns segundos. Redefine em alterações e carregamento de Personagens.
+
+Include cloth when smoothing=Incluir roupa ao suavizar
+If enabled, will include clothing in the smoohting calculation above, to help reduce clipping for skin tight clothes.=Se ativado, incluirá roupas no cálculo de suavização acima, para ajudar a reduzir o atravessamento de roupas apertadas pela pele.
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Depurar
+Balloon mode (Debug mode)=Modo de balão (modo de depuração)
+Debug mesh mode, disable to go back to normal.  This will disable some Preg+ sliders temporarily.=Modo de depuração da grade, desative para voltar ao normal. Isso desabilitará alguns sliders temporariamente.
+
+
+//Depurar -> Avançados
+Refresh X Ticks (Debug mode)=Atualizar X tiques (Modo de depuração)
+Will force update the belly shape every x ticks to help debug belly shape during animations.  Don't leave enabled.=Vai forçar a atualização da forma de barriga a cada x tiques para ajudar a depurar a forma de barriga durante animações. Não deixe habilitado.
+
+Entire Mesh Debugging (Debug mode)=Depuração da grade inteira (Modo de depuração)
+Will cause all mesh verticies to be affected by sliders so I can narrow down which meshes are behaving, and which are not.  Don't leave enabled=Fará com que todos os verticis da grade sejam afetados por sliders para que eu possa diminuir quais grades estão se comportando e quais não são. Não deixe habilitado
+
+Enable Debug Logging (Debug mode)=Ativar o registro de depuração (Modo de depuração)
+Will log lots of Preg+ details to the console, but will condiserably slow down the game.  Don't leave enabled=Vai registrar muitos detalhes do Gravidez+ para o console, mas deixará o jogo consideravelmente mais lento. Não deixe habilitado
+
+Enable Debug Logging of calculations (Debug mode)=Ativar registro de depuração de cálculos (Modo de depuração)
+Will log lots of Preg+ belly calculations to the console, but will condiserably slow down the game.  Don't leave enabled=Vai registrar muitos cálculos de barriga do Gravidez. para o console, mas irá deixar o jogo mais lento. Não deixe habilitado
+
+//Depurar
+Allow male=Permitir homens
+When enabled, the sliders will work on male characters as well.=Quando ativado, os sliders também funcionarão nos personagens masculinos.
+
+//Integração do gravidez+
+KK_Pregnancy Integration=Integração do Gravidez+
+
+Max additional belly size=Tamanho do ventre máximo adicional
+The maximum additional belly size/shape that this plugin will add to the original KK_Pregnancy belly. The character must be pregnant or inflated.\r\n{{A}} will result in the original KK_Pregnancy belly, while {{B}} will be the original + the full Preg+ size/shape.=O tamanho/forma máxima de barriga adicional que este plug-in irá adicionar à barriga do gravidez+ original. A personagem deve estar grávida ou inflada.\r\n{{A}} resultará na barriga original do gravidez+, enquanto {{B}} será o original + o tamanho/forma completa do gravidez+.
+
+//Atalhos de inflação ao vivo
+Live Inflation Shortcuts=Atalhos de inflação ao vivo
+
+Inflation + Key=Tecla de Inflar +
+Allows you to increase the belly InflationSize in Story/Main-Game Mode\r\n\r\nCan be CPU heavy with many characters=Permite que você aumente a inflação da barriga no modo história/principal\r\n\r\nPode ser pesado para a CPU se tiver muitos personagens
+Press any key combination=Pressione uma combinação de teclas
+Cancel=Cancelar
+
+Inflation - Key=Tecla de Inflar -
+Allows you to decrease the belly InflationSize in Story/Main-Game Mode\r\n\r\nCan be CPU heavy with many characters=Permite que você diminua a inflação da barriga no modo história/principal\r\n\r\nPode ser pesado para a CPU se tiver muitos personagens
+
+Inflation reset Key=Tecla de reset de inflação
+Allows you to reset the belly InflationSize in Story/Main-Game Mode\r\n\r\nCan be CPU heavy with many characters=Permite que você redefina a inflação da barriga no modo de história/principal\r\n\r\nPode ser pesado para a CPU se tiver muitos personagens
+
+//Modo História /Jogo Principal
+Story/Main-Game Mode=Modo História/Jogo Principal
+
+Gameplay Enabled=Ativar duranto o jogo
+Whether or not Preg+ is enabled in Main Game mode=Ativar ou não o gravidez+ no modo de jogo principal
+
+Global Multiplier Adjustment=Ajuste de multiplicador global
+Allows you to increase or decrease the 'Multiplier' amount in story mode for all pregnant characters=Permite que você aumente ou diminua o valor do 'multiplicador' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Multiplier' amount in story mode=Permite que você aumente ou diminua o valor do 'multiplicador' no modo de história
+
+Global Roundness Adjustment=Ajuste de arredondamento global
+Allows you to increase or decrease the 'Roundness' amount in story mode for for all pregnant characters=Permite que você aumente ou diminua a quantidade de "arredondamento" no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Roundness' amount in story mode for=Permite que você aumente ou diminua a quantidade de "arredondamento" no modo de história para
+
+Global Move Y Adjustment=Ajuste de movimento global em Y
+Allows you to increase or decrease the 'Move Y' amount in story mode for for all pregnant characters=Permite que você aumente ou diminua o valor 'Mover em Y' no modo de história para todas oa personagens grávidas
+Allows you to increase or decrease the 'Move Y' amount in story mode for=Permite que você aumente ou diminua o valor do 'Mover em Y' no modo de história para
+
+Global Move Z Adjustment=Ajuste de movimento global em Z
+Allows you to increase or decrease the 'Move Z' amount in story mode for for all pregnant characters=Permite que você aumente ou diminua o valor 'Mover em Z' no modo de história para todas oa personagens grávidas
+Allows you to increase or decrease the 'Move Z' amount in story mode for=Permite que você aumente ou diminua o valor 'Mover em Z' no modo de história para
+
+Global Stretch X Adjustment=Ajuste do Esticamento Global em X
+Allows you to increase or decrease the 'Stretch X' amount in story mode for for all pregnant characters=Permite aumentar ou diminuir o valor de 'Esticar em X' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Stretch X' amount in story mode for=Permite que você aumente ou diminua o valor de 'Esticar em X' no modo de história para
+
+Global Stretch Y Adjustment=Ajuste do Esticamento Global em Y
+Allows you to increase or decrease the 'Stretch Y' amount in story mode for for all pregnant characters=Permite aumentar ou diminuir o valor de 'Esticar em Y' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Stretch Y' amount in story mode for=Permite que você aumente ou diminua o valor 'Esticar em Y' no modo de história para
+
+Global Shift Y Adjustment=Ajuste do Deslocamento Global em Y
+Allows you to increase or decrease the 'Shift Y' amount in story mode for for all pregnant characters=Permite que você aumente ou diminua o valor de 'Deslocar em Y' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Shift Y' amount in story mode for=Permite que você aumente ou diminua o valor de 'Deslocar em Y' no modo de história para
+
+Global Shift Z Adjustment=Ajuste do Deslocamento Global em Z
+Allows you to increase or decrease the 'Shift Z' amount in story mode for for all pregnant characters=Permite que você aumente ou diminua o valor de 'Deslocar em Z' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Shift Z' amount in story mode for=Permite que você aumente ou diminua o valor 'Deslocar em Z' no modo de história para
+
+Global Taper Y Adjustment=Ajuste de Afunilamento Global em Y
+Allows you to increase or decrease the 'Taper Y' amount in story mode for for all pregnant characters=Permite aumentar ou diminuir o valor de 'Afunilar em Y' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Taper Y' amount in story mode for=Permite que você aumente ou diminua o valor de 'Afunilar em Y' no modo de história para
+
+Global Taper Z Adjustment=Ajuste de Afunilamento Global em Z
+Allows you to increase or decrease the 'Taper Z' amount in story mode for for all pregnant characters=Permite aumentar ou diminuir o valor de 'Afunilar em Z' no modo de história para todas as personagens grávidas
+Allows you to increase or decrease the 'Taper Z' amount in story mode for=Permite que você aumente ou diminua o valor de 'Afunilar em Z' no modo de história para
+
+Global Drop Adjustment=Ajuste global de caída
+Allows you to increase the 'Drop' amount in story mode for for all pregnant characters=Permite que você aumente o valor da 'caída' no modo de história para todas as personagens grávidas
+Allows you to increase the 'Drop' amount in story mode for=Permite que você aumente o valor da 'caída' no modo de história para
+
+Global Cloth Offset Adjustment=Ajuste de roupas global
+Allows you to increase or decrease the cloth layer distance to reduce clipping=Permite que você aumente ou diminua a distância entre camadas de roupas para que não se atravessem
+
+Global Fat Fold Adjustment=Ajuste global de dobra de gordura
+Allows you to increase or decrease the fat fold size, {{A}} for none=Permite aumentar ou diminuir o tamanho da dobra de gordura, {{A}} para nenhum
+
+Global Fat Fold Height Adjustment=Ajuste global de altura da dobra de gordura
+Allows you to raise or lower the fat fold crease position, {{A}} is default=Permite que você aumente ou abaixe a posição da dobra de gordura, {{A}} é o padrão

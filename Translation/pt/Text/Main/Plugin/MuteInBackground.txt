@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin Mute In Background
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Mute In Background=Mudo em segundo plano
+Whether to mute the game when in the background, i.e. alt-tabbed.=Se deve silenciar o jogo quando estiver em segundo plano, ou seja, alt+tab.

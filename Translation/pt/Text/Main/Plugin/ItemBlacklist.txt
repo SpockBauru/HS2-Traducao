@@ -1,0 +1,21 @@
+//************************************************************
+// Traduções para o Plugin Item Blacklist
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+//Menu Roupas
+//--------------------------------------------------
+Hide this item=Ocultar este item
+Unhide this item=Mostrar este item
+Hide all items from this mod=Ocultar itens deste mod
+Unhide all items from this mod=Mostrar todos os itens deste mod
+Print item info=Exibir informações do item
+
+Displaying:=Exibindo:
+Filtered List=Lista filtrada
+All Items=Todos os itens
+Hidden Items=Itens ocultos

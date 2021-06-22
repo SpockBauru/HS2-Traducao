@@ -1,0 +1,17 @@
+//************************************************************
+// Traduções para o plugin SliderHighlight
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Maker Highlights=Destaques do criador
+
+Accessory Highlights=Destaques dos acessórios
+Enable showing highlights when hovering over accessory slots in character maker.=Ativar exibição de destaques ao pairar sobre os slots acessórios no criador de personagens.
+
+Color of the highlight. Avoid using transparent colors.=Cor do destaque. Evite usar cores transparentes.
+
+Slider Highlights=Destaques dos sliders
+Enable showing highlights when hovering over sliders in character maker.=Ativar exibição de destaques ao pairar sobre os sliders no criador de personagens.

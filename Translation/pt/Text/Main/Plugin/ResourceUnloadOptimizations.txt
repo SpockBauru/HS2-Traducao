@@ -1,0 +1,15 @@
+//************************************************************
+// Traduções para o plugin Resource Unload Optimizations
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Optimize Memory Usage=Otimize o uso da memória.
+Use more memory (if available) in order to load the game faster and reduce random stutter.=Use mais memória (se disponível) a fim de carregar o jogo mais rápido e reduzir engasgos aleatórios.
+
+//Avançado
+Disable Resource Unload=Desativar Descarga de Recursos
+Disables all resource unloading. Requires large amounts of RAM or will likely crash your game.=Desativa todo o descarregamento de recursos. Exige grandes quantidades de RAM ou provavelmente irá travar seu jogo.
+

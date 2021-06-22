@@ -1,0 +1,13 @@
+//************************************************************
+// Traduções para o plugin Slider Unlocker
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Slider Limits=Limites dos sliders
+Maximum slider value=Valor máximo do slider
+Minimum slider value=Valor mínimo do slider
+
+Changes will take effect next time the editor is loaded or a character is loaded.=As alterações entrarão em vigor na próxima vez que o editor for carregado ou um personagem for carregado.

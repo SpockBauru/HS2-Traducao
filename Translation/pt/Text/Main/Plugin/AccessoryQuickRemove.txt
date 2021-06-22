@@ -1,0 +1,9 @@
+//************************************************************
+// Traduções para o plugin Accessory Quick Remove
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Remove Hotkey=Atalho para Remover
+Key which removes selected accessories when pressed in the character maker=Tecla que remove acessórios selecionados quando pressionado no criador de personagens

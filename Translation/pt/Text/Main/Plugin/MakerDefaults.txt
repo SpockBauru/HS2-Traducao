@@ -1,0 +1,145 @@
+//************************************************************
+// Traduções para o plugin Maker Defaults
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Default Clothing State=Estado padrão das roupas
+Default clothing state=Estado padrão das roupas
+Automatic=Automático
+Clothed=Vestido
+Underwear=Íntimas
+Naked=Nu
+
+Default Eyebrow Pattern=Estado padrão da sobrancelha
+Default eyebrow pattern=Estado padrão da sobrancelha
+Bored=Tédio
+Worried=Preocupado
+Angry=Raiva
+Doubt L=Dúvida Esq.
+Doubt R=Dúvida Dir.
+Thinking L=Pensando Esq.
+Thinking R=Pensando Dir.
+Furious L=Bravo Esq.
+Furious R=Bravo Dir.
+Serious=Sério
+Anxious=Ansioso
+Surprised=Surpresa
+Disappointed=Decepção
+Smug=Convencido
+Winking L=Piscar Esq.
+Winking R=Piscar Dir.
+
+Default Eye Pattern=Estado padrão de olho
+Default eye pattern=Estado padrão de olho
+Vertical Line=Linha vertical
+Cartoony Wink=Piscada de desenho
+Fiery Eyes=Fogo nos olhos
+Heart Pupils=Pupilas com coração
+Star Pupils=Pupilas com estrela
+Spiral Eyes=Olhos em espiral
+Circle Eyes{{A}}=Olhos Redondos{{A}}.
+Impatient=Impaciente
+Sad=Triste
+Thinking=Pensando
+Hate=Ódio
+Awkward=Envergonhado
+Bashful=Tímido
+Pained=Dolorido
+Happy=Feliz
+Smiling=Sorrir
+Cartoony Closed=Fechado de Desenho
+Horizontal Line=Linha horizontal
+Cartoony Crying=Choro de Desenho
+Crying=Chorando
+Happy Closed=Sorrir com Olhos Fechados
+Closed=Olhos Fechados
+
+Default Eye Openness=Abertura dos olhos padrão
+Default eye openness=Abertura dos olhos padrão
+
+Default Disable Blinking=Desativar piscada
+Default disable blinking state=Desativar piscada
+
+Default Mouth Pattern=Estado padrão da boca
+Default mouth pattern=Estado padrão da boca
+Happy Broad=Feliz (Grande)
+Happy Moderate=Feliz (Moderado)
+Happy Slight=Feliz (Leve)
+Excited Broad=Excitado (Grande)
+Excited Moderate=Excitado (Moderado)
+Excited Slight=Excitado (Leve)
+Angry{{A}}=Zangado{{A}}.
+Serious{{A}}=Sério{{A}}.
+Lonely=Solitário
+Dissatisfied=Insatisfeito
+Amazed=Surpreso
+Surprised Moderate=Surpreso (Moderado)
+Playful=Brincalhão
+Eating=Comendo
+Hold In Mouth=Segurar na boca
+Kiss=Beijo
+Tongue Out=Língua de fora
+Small A=Pequeno A
+Big A=Grande A
+Small I=Pequeno I
+Big I=Grande I
+Small U=Pequeno U
+Big U=Grande U
+Small E=Pequeno E
+Big E=Big E
+Small O=Pequeno O
+Big O=Grande O
+Small N=Pequeno N
+Big N=Grande N
+Catlike=Como Gato
+Triangle=Triângulo
+Cartoony Smile=Sorriso de desenho
+
+Default Mouth Openness=Abertura da boca padrão
+Default mouth openness=Abertura da boca padrão
+
+Default Gaze Direction=Direção padrão do olhar
+Default gaze direction=Direção padrão do olhar
+Camera=Câmera
+Forward=Frente
+At Camera=Câmera
+Upward=Acima
+Right And Up=Superior direito
+Down And Right=Inferior direito
+Downward=Inferior
+Down And Left=Inferior esquerdo
+Up And Left=Superior esquerdo
+Avert Gaze=Desviar olhar
+
+Default Gaze Direction Rate=Taxa de direção do olhar padrão
+Default gaze direction rate=Taxa de direção do olhar padrão
+
+Default Head Direction=Direção de cabeça padrão
+Default head direction=Direção de cabeça padrão
+From Animation=Da animação
+
+Default Head Direction Rate=Taxa de direção da cabeça padrão
+
+Default Pose=Pose padrão
+Default pose=Pose padrão
+Default pose, number corresponds to the index of the pose in the dropdown list=Pose padrão, número corresponde ao índice da pose na lista
+
+Default Background=Fundo padrão
+Default background type=Tipo de fundo padrão
+Image=Imagem
+Color=Cor
+
+//Honey Select 2
+Default Pause=Pausa Padrão
+Default pause state=Estado de pausa padrão
+
+
+
+
+
+
+
+

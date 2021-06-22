@@ -1,0 +1,15 @@
+//************************************************************
+// Traduções para o Plugin Color Filter Remover
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Post Processing Settings=Configurações de pós-processamento
+
+Bloom strength=Força do Bloom
+Strength of the bloom filter. Not active in Studio, control bloom settings through the in game Scene Effects menu.=Força do filtro de Bloom. Não ativo no Studio, controle as configuraões de Bloom através do menu do jogo Efeitos de Cena.
+
+Enable saturation filter=Ativar filtro de saturação
+Whether default saturation filter will be applied to the game. This setting has no effect in Studio.=Se o filtro de saturação padrão será aplicado ao jogo. Esta configuração não tem efeito no estúdio.

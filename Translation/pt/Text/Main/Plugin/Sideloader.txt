@@ -1,0 +1,31 @@
+//************************************************************
+// Traduções para o Plugin Sideloader
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+//Geral
+Additional mods directory=Pasta de mods adicional
+Additional directory to load zipmods from.=Pasta adicional para carregar zipmods.
+
+Keep missing accessories=Manter acessórios faltando
+Missing accessories will be replaced by a default item with color and position information intact when loaded in the character maker.=Os acessórios em falta serão substituídos por um item padrão com informações de cor e posição intactas quando carregados no criador do personagem.
+
+Migration enabled=Ativar migração
+Attempt to change the GUID and/or ID of mods based on the data configured in the manifest.xml. Helps keep backwards compatibility when updating mods.=Tentar alterar o GUID e/ou ID dos mods com base nos dados configurados em manifest.xml. Ajuda a manter a compatibilidade com versões anteriores ao atualizar os mods.
+
+//Registro
+Logging=Registro
+
+Debug logging=Registro de depuração
+Enable additional logging useful for debugging issues with Sideloader and sideloader mods.\nWarning: Will increase load and save times noticeably and will result in very large log sizes.=Permitir registro adicional. Útil para depurar problemas no Sideloader e nos mods do sideloader.\nAtenção: Aumentará o tempo de carregamento notoriamente e resultará em registros de tamanho muito grande.
+
+Debug mod loading logging=Registrar carregamento de mods
+Enable verbose logging when loading mods.=Ativar registro detalhado ao carregar mods.
+
+Debug resolve info logging=Registrar informações do Debug resolver
+Enable verbose logging for debugging issues with Sideloader and sideloader mods.\nWarning: Will increase game start up time and will result in very large log sizes.=Habilitar o registro detalhado para problemas de depuração com os mods Sideloader e sideloader.\nAtenção: Aumentará o tempo de início do jogo e resultará em registros de tamanho muito grande.
+
+Show missing mod warnings=Mostrar aviso de mods faltando
+Whether missing mod warnings will be displayed on screen. Messages will still be written to the log.=Exibir mensagens de mods faltando. As mensagens ainds serão escritas no registro.

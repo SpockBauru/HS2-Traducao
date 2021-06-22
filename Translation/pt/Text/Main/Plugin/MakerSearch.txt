@@ -1,0 +1,31 @@
+//************************************************************
+// Traduções para o Plugin MakerSearch
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Usado em Vários Lugares
+//--------------------------------------------------
+Search=Procurar
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Case sensitive=Diferenciar Maiúsculas e minúsculas
+
+Search by=Procurar pelo
+Name=Nome
+Asset Bundle=Pacote de recursos
+
+Search text memory=Memória da pesquisa de texto
+Separate=Separado
+
+Global - search text is same for all boxes, \nSeparate - different for each box, \nNone - reset after search=Global - texto de pesquisa é o mesmo para todas as caixas,\nSeparado - diferente para cada caixa,\nNenhum - redefinir após a pesquisa
+
+Global - search text is same for all boxes, \nSeparate - different for each box/category, \nNone - reset after search=Global - Texto de pesquisa é o mesmo para todas as caixas,\nSeparado - diferente para cada caixa/categoria,\nNenhum - redefinir após a pesquisa
+
+Search translated cache=Pesquisar no cache de traduções
+Search in translated cache, if nonexistant then translate. Only works when search includes name=Pesquisar no cache traduzido, se não existir então traduzir. Só funciona quando a pesquisa inclui nome

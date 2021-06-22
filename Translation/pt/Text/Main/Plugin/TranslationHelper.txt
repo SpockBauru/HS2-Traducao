@@ -1,0 +1,43 @@
+//************************************************************
+// Traduções para o Plugin Translation Helper
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//Janela Plugins
+Save with translated names=Salvar com nomes traduzidos
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+
+Save Translated Names=Salvar nomes traduzidos
+When enabled translated names will be saved with cards in maker, otherwise unmodified names will be restored=Quando ativado, os nomes traduzidos serão salvos nas cartas de personagem, caso contrário, os nomes não modificados serão restaurados.
+
+Translate Card Name Modes=Modos de tradução das cartas de personagem
+
+MainGame=Jogo principal
+Attempt to translate card names when they are loaded in MainGame=Tentar traduzir os nomes das cartas quando são carregadas no jogo principal
+Cache Only=Apenas Cache
+Fully Enabled=Totalmente Habilitado
+
+Attempt to translate card names when they are loaded in Maker=Tentar traduzir nomes de cartas quando eles são carregados no criador de personagem
+
+Attempt to translate card names when they are loaded in Studio=Tentar traduzir nomes de cartas quando estiverem carregados no Studio
+
+Translate Card Name Options=Opções de tradução para nomes das cartas
+
+Characters to Trim=Personagens para cortar
+Characters to trim from returned translations=Personagens para tirar de traduções devolvidas
+
+Register Active Characters=Registrar personagens ativos
+Register active character names as replacements with translator=Registre os nomes de personagems ativos como substituições com o tradutor
+
+Split Names Before Translate=Dividir Nomes Antes de Traduzir
+Split on space and translate names by sections=Dividir nomes por espaço e traduzir por partes
+
+Use Suffix=Use sufixo
+Append suffix to names before translating to send hint they are names=Acrescentar sufixo aos nomes antes de traduzir para enviar a dica de que são nomes

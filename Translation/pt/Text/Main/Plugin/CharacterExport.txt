@@ -1,0 +1,13 @@
+//************************************************************
+// Traduções para o plugin Character Export
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Open Folder After Export=Abrir Pasta Após Exportação
+Whether to open the folder after exporting characters.=Se deseja abrir a pasta após exportar personagens.
+
+Export Characters=Exportar Personagens
+Export all currently loaded characters in the game.=Exporte todos os personagens atualmente carregados no jogo.
