@@ -14,5 +14,5 @@
 //なんで寄って来た？　お呼びじゃねぇぞ？=
 //女同士で楽しんでるところにたかってきやがって、オマエはハエか？=
 //前フリA隷属{0}=
-//ハッ、二人いれば、どっちかは引っかけられると思ったか？=
-//おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=
+ハッ、二人いれば、どっちかは引っかけられると思ったか？=Ha, você pensou que se houvesse duas de nós, poderia se engraçar com pelo menos uma?
+おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Whoa, você vê aquele cara solitário olhando para você?　Você quer se juntar a ele?

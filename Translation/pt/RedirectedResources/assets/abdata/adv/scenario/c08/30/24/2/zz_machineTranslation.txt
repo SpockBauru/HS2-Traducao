@@ -13,7 +13,7 @@
 //享楽{0}=Prazer {0}
 あ～～、セックスって超楽しいすねー。=Ahhhh, sexo é super fácil, não é?
 あーでもー、あなたとだったからっすよねー、また誘ってほしいっす～♪=Mas isso é porque foi com você... Quero que me convide novamente...
-う～、もう終わりすかー、なんだか自分のスキル不足を感じたっすー。=Ummm, já acabou... Senti que me faltavam habilidades.
+//う～、もう終わりすかー、なんだか自分のスキル不足を感じたっすー。=Ummm, já acabou... Senti que me faltavam habilidades.
 次はもっとうまくヤれると思うんでー長期的な関係として受け入れてほしいっす～♪=Acho que posso fazer melhor da próxima vez, então espero que você aceite isto como um relacionamento de longo prazo.
 //嫌悪{0}=Repugnância {0}
 えーとー……うん……いやー、すごかったすねー。=Um... Sim... Não, isso foi incrível.

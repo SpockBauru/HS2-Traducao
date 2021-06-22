@@ -15,5 +15,5 @@
 なんで寄って来た？　お呼びじゃねぇぞ？=Por que você apareceu? Você não é procurado aqui.
 女同士で楽しんでるところにたかってきやがって、オマエはハエか？=O que você é, uma mosca na pomada?
 //前フリA隷属{0}=Prelúdio Um Escravo {0}
-ハッ、二人いれば、どっちかは引っかけられると思ったか？=Huh, você pensou que se houvesse dois de vocês, um de vocês poderia engatar?
-おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa. Você quer se juntar a ele?
+//ハッ、二人いれば、どっちかは引っかけられると思ったか？=Huh, você pensou que se houvesse dois de vocês, um de vocês poderia engatar?
+//おっと、寂しそうなやつが、こっちを見てるぞ？　仲間にいれてやるか？=Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa. Você quer se juntar a ele?

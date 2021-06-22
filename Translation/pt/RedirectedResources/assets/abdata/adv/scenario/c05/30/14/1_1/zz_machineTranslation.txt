@@ -2,4 +2,4 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-んちゅっ、れるっ、そのまま気にせず……ぇるるっ、れるっ、きもひよふなっへふははいへ。=Tenho certeza que você ficará feliz em saber que não sou o único que é fã de seu trabalho.
+//んちゅっ、れるっ、そのまま気にせず……ぇるるっ、れるっ、きもひよふなっへふははいへ。=Tenho certeza que você ficará feliz em saber que não sou o único que é fã de seu trabalho.

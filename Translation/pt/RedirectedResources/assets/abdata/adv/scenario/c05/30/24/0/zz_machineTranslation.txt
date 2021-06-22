@@ -3,8 +3,8 @@
 //***********************************************************************
 
 //普通{0}=Normal {0}
-え、えっと、本当に私でいいんですか？=Bem, você tem certeza de que sou eu?
-あ、いえっ、こういうとこは初めてなので、緊張してて……すみません……=Sim, nunca estive em um lugar como este antes, então estou nervoso... Desculpe...
+//え、えっと、本当に私でいいんですか？=Bem, você tem certeza de que sou eu?
+//あ、いえっ、こういうとこは初めてなので、緊張してて……すみません……=Sim, nunca estive em um lugar como este antes, então estou nervoso... Desculpe...
 い、今からここであなたと、その……す、するんですよね？=Eu vou estar aqui com você agora, não vou?
 わわっ、ち、違いますよ？　嫌なわけじゃないんです……ただ、ちょっと怖くて……=Nossa, não é? Eu não gosto disso... Mas estou um pouco assustado...
 こういうことって、こういう雰囲気でするものなんでしょうか……？=É este o tipo de coisa que você faz neste tipo de atmosfera?
