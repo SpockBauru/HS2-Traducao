@@ -1,0 +1,69 @@
+//************************************************************
+// Traduções para o plugin Cheat Tools
+//************************************************************
+
+//--------------------------------------------------
+//Janela do RuntimeUnityEditor
+//--------------------------------------------------
+Unable to edit character stats on this screen. Start an H scene or enter the lobby.=Não é possível editar o estado de personagens nesta tela. Comece uma cena de sexo ou vá para a recepção.
+
+Speed=Velocidade
+
+Character status editor=Editor de status de personagem
+Select a character to edit their stats=Selecione uma personagem para editar seu estado
+
+r:"^Selected heroine name: (.*)$"=Nome da heroína selecionada: $1
+Current state: Blank=Estado atual: Vazio
+Current state: Favor=Estado atual: Amor
+Current state: Enjoyment=Estado atual: Excitada
+Current state: Aversion=Estado atual: Ódio
+Current state: Slavery=Estado atual: Submissa
+Current state: Broken=Estado atual: Quebrada
+Current state: Dependence=Estado atual: Viciada
+Blank=Vazio
+Favor=Amor
+Enjoyment=Excitada
+Aversion=Ódio
+Slavery=Submissa
+Broken=Quebrada
+Dependence=Viciada
+
+Statistics:=Estatisticas:
+Favor: {{A}}=Amor: {{A}}
+Enjoyment: {{A}}=Excitada: {{A}}
+Aversion: {{A}}=Ódio: {{A}}
+Slavery: {{A}}=Submissa: {{A}}
+Broken: {{A}}=Quebrada: {{A}}
+Dependence: {{A}}=Dependência: {{A}}
+Dirty: {{A}}=Sujeira: {{A}}
+Tiredness: {{A}}=Cansaço: {{A}}
+Toilet: {{A}}=Banheiro: {{A}}
+Libido: {{A}}=Libido: {{A}}
+hCount: =Vezes que transou: 
+
+View more stats and flags=Ver mais estatísticas e flags
+Navigate to Heroine's GameObject=Navegue até GameObject da heroína
+Open Heroine in inspector=Abrir heroína no inspetor
+Inspect extended data=Inspecione dados estendidos
+
+Danger zone! These cheats are permanent and can't be undone without resetting the save.=PERIGO! Esses cheats são permanentes e não podem ser desfeitas sem reiniciar o seu save.
+Get all achievements=Obter todas as conquistas
+Unlock all perks=Obter todos os desbloqueáveis
+Heroine list=Lista de heroínas
+
+Open in inspector=Abrir no inspetor
+
+//Cena de sexo
+H scene controls=Controles de cena de sexo
+Male Gauge: {{A}}=Medidor Masculino: {{A}}
+Female Gauge: {{A}}=Medidor Feminino: {{A}}
+Pain Gauge: {{A}}=Medidor de dor: {{A}}
+Open HScene Flags in inspector=Flags de cena abertas no inspetor
+
+r:"^Select #{{A}} - (.*)$"=Selecione #{{A}} - $1
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Toggle cheat window=Ativar janela de cheats

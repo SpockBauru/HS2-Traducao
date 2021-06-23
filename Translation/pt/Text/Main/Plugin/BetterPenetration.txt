@@ -1,0 +1,85 @@
+//************************************************************
+// Traduções para o plugin BetterPenetration
+//************************************************************
+
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Opções para Mulheres
+Female Options=Opções para Mulheres
+Clipping Depth=Profundidade de recorte
+Set how close to body surface to limit penis for clipping purposes. Smaller values will result in more clipping through the body, larger values will make the shaft wander further away from the intended penetration point.=Defina o quão perto da superfície do corpo para limitar o pênis para fins de recorte. Valores menores resultarão em mais recolhimento através do corpo, valores maiores farão o pênis se afastar mais do ponto de penetração pretendido.
+
+Clipping Offset: Back Collision {{A}}=Deslocamento de recorte: Colisão traseira {{A}}
+Individual offset on colision point, to improve clipping=Deslocamento individual no ponto de colisão, para melhorar o recorte
+
+Clipping Offset: Front Collision {{A}}=Deslocamento de recorte: Colisão frontal {{A}}
+
+Joint Adjustment: Missionary Correction=Ajuste conjunto: Correção missionária
+NOTE: There is an Illusion bug that causes the vagina to appear sunken in certain missionary positions.  It is best to use Advanced Bonemod and adjust your female character's cf_J_Kokan Offset Y to {{A}}.  If you don't do that, enabling this option will attempt to fix the problem by guessing where the bone should be=Nota: Há um bug da Illusion que faz com que a vagina pareça afundada em certas posições missionárias. É melhor usar o Advanced Bonemod e ajustar o cf_J_Kokan do seu personagem feminino para {{A}}. Se você não fizer isso, habilitar esta opção tenta consertar o problema adivinhando onde o osso deve ser
+
+Joint Adjustment: Missionary Position Y=Ajuste conjunto: Posição missionária Y
+Amount to adjust the Vagina bone position Y for certain Missionary positions to correct its appearance=Quantidade para ajustar a posição dos ossos da vagina em Y para certas posições missionárias para corrigir sua aparência
+
+Joint Adjustment: Missionary Position Z=Ajuste conjunto: Posição missionária Z
+Amount to adjust the Vagina bone position Z for certain Missionary positions to correct its appearance=Quantidade para ajustar a posição dos ossos da vagina em Z para certas posições missionárias para corrigir sua aparência
+
+Joint Adjustment: Missionary Rotation X=Ajuste conjunto: Rotação missionária X
+Amount to adjust the Vagina bone rotation X for certain Missionary positions to correct its appearance=Quantidade para ajustar a rotação dos ossos da vagina em X para certas posições missionárias para corrigir sua aparência
+
+Target Offset: Inner Mouth Target=Deslocamento do alvo: Alvo da boca interna
+Offset of the simplified inner mouth target=Deslocamento simplificado do alvo no interior da boca
+
+Target Offset: Inner Vagina Target=Deslocamento do alvo: Alvo da vagina interna
+Offset of the simplified inner vagina target=Deslocamento simplificado do alvo no interior da vagina
+
+Target Offset: Mouth Target=Deslocamento do alvo: Alvo da boca
+Offset of the mouth target=Deslocamento do alvo da boca
+
+Target Offset: Vagina Target=Deslocamento do alvo: Alvo da vagina
+Offset of the vagina target=Deslocamento do alvo da vagina
+
+//Opções para Homens
+Male {{A}} Options=Opções para Homens {{A}}
+Finger Collider: Enable=Colisores de Dedos: Ativar
+Use finger colliders=Use colisores de dedo
+
+Finger Collider: Length=Colisores de Dedos: Comprimento
+Lenght of the finger colliders.=Comprimento dos colisores de dedos.
+
+Finger Collider: Radius=Colisores de Dedos: Raio
+Radius of the finger colliders.=Raio dos colisores de dedo.
+
+Penis Collider: Length of Head=Colisores de Pênis: Comprimento da cabeça
+Distance from the center of the head bone to the tip, used for collision purposes.=Distância do centro do osso da cabeça até a ponta, usada para fins de colisão.
+
+Penis Collider: Radius of Shaft=Colisores de Pênis: Raio de eixo
+Radius of the shaft collider.=Raio do eixo do colisor.
+
+Penis Collider: Vertical Center=Colisores de Pênis: Centro vertical
+Vertical Center of the shaft collider=Centro vertical do eixo de colisão
+
+Penis: Squish Girth Factor=Penis: Compressão da circunferência
+How much the girth of the penis squishes after it has passed the squish threshold=Quanto a circunferência do pênis se esmaga depois de ter passado o limiar de compressão
+
+Penis: Squish Length Factor=Pênis: Compressão do comprimento
+How much the length of the penis squishes after it has passed the squish threshold=Quanto o comprimento do pênis esmaga depois que passou o limiar de compressão
+
+
+Penis: Squish Oral Girth=Pênis: Compressão do círculo oral
+Allows the penis to squish (increase girth) during oral.=Permite que o pênis comprima (aumente a circunferência) durante o oral.
+
+Penis: Squish Threshold=Pênis: Limite de compressão
+Allows the penis to begin squishing (shorten length increase girth) after this amount of the penis has penetrated.=Permite que o pênis comece a comprimir (encurtar o perímetro do aumento do comprimento) após esta quantidade do pênis ter penetrado.
+
+Rotate Balls with Shaft=Gire as bolas com eixo
+If enabled, the base of the balls will be locked to the base of the shaft=Se ativado, a base das bolas será bloqueada na base do eixo
+
+Simplify Oral Calculation=Simplifique o cálculo oral
+Simplifys oral penetration calclation by always having it target the same internal point.  Only valid for BP penis uncensors.=Simplifica o cálculo da penetração oral, tendo sempre como alvo o mesmo ponto interno. Válido somente para pênis tipo BP.
+
+Simplify Penetration Calculation=Simplifique o cálculo da penetração
+Simplifys penetration calclation by always having it target the same internal point.  Only valid for BP penis uncensors.=Simplifica o cálculo da penetração, tendo sempre como alvo o mesmo ponto interno. Válido somente para pênis tipo BP.
+

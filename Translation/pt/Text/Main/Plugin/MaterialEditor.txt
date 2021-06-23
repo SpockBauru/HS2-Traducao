@@ -67,7 +67,7 @@ Filter=Filtro
 
 Enabled:=Habilitar:
 Enabled:*=Habilitar:*
-Offset X=Ajuste X
+Offset X=Deslocamento em X
 
 Shadow Casting Mode:=Modo de projeção de sombra:
 Shadow Casting Mode:*=Modo de projeção de sombra:*

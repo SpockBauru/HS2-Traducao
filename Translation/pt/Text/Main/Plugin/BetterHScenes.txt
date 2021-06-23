@@ -1,0 +1,206 @@
+//************************************************************
+// Traduções para o plugin BetterHScenes
+//************************************************************
+
+//--------------------------------------------------
+//Cenas de sexo
+//--------------------------------------------------
+
+//Interface de Slideres de Personagem
+Character Dragger UI=Interface de Slideres de Personagem
+Whole Body=Todo o Corpo
+Left Hand=Mão Esquerda
+Right Hand=Mão Direita
+Left Foot=Pé Esquerdo
+Right Foot=Pé Direito
+Heel Offset: =Deslocamento do Calcanhar: 
+Position X=Posição X
+Position Y=Posição Y
+Position Z=Posição Z
+Rotation X=Rotação X
+Rotation Y=Rotação Y
+Rotation Z=Rotação Z
+Paste=Colar
+Reload=Recarregar
+Save This=Salve Isso
+
+//Interface de Seleção de Animação
+Animation Selection UI=Interface de Seleção de Animação
+Idle=Parado
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+// Animações> Sliders
+Animations > Draggers=Animações > Sliders
+Apply saved offsets=Aplicar descolamentos salvos
+Apply previously saved character offsets for character pair / position during H=Aplicar deslocamentos de personagens salvos anteriormente para pares / posições dos personagens durante o sexo
+
+Body Slider min/max position=Posição min/máx do slider de corpo
+Maximum limits of the body position slider bars.=Limites máximos dos sliders de posição do corpo.
+
+Body Slider min/max rotation=Rotação min/máx do slider de corpo
+Maximum limits of the body rotation slider bars.=Limites máximos dos sliders de rotação do corpo.
+
+Hint Slider min/max position=Posição min/máx do slider de doca
+Maximum limits of the hint position slider bars.=Limites máximos dos sliders da posição de dicas.
+
+Legacy Offset File Path=Caminho do arquivo de deslocamento antigo
+Path of the legacy offset file card on disk, will be converted to new offset file on startup.=O caminho da carta de deslocamento antiga no disco, será convertido para um novo arquivo de deslocamento na inicialização.
+
+Limb Slider min/max position=Posição min/máx de sliders de membros
+Maximum limits of the limb position slider bars.=Limites máximos dos sliders da posição dos membros.
+
+Limb Slider min/max rotation=Rotação min/máx de sliders de membros
+Maximum limits of the limb rotation slider bars.=LLimites máximos dos sliders de rotação dos membros.
+
+Offset File Path V{{A}}=Caminho do arquivo de deslocamento v{{A}}
+Path of the offset file card on disk.=Caminho da carta de arquivo de deslocamento no disco.
+
+Show animation UI=Mostrar Interface de Animação
+Displays a UI that can be used to change the current animation motion.  Intended to be used with draggers UI to make adjustments.  May break the flow of an HScene so use with caution.=Exibe uma interface do usuário que pode ser usada para alterar o movimento da animação atual. Destinado a ser usado com a UI de sliders para fazer ajustes. Pode quebrar o fluxo de uma cena de sexo então use com cautela.
+
+Show draggers UI=Mostrar Interface de Sliders
+
+Use one offset for all motions=Use um desloc. para todos movimentos
+If disabled, the Save button in the UI will only save the offsets for the current motion of the position.  A Default button will be added to save it for all motions of that position that don't already have an offset.=Se desativado, o botão Salvar na interface do usuário só salvará os deslocamentos para o movimento atual da posição. Um botão "Padrão" será adicionado para salvá-lo para todos os movimentos dessa posição que ainda não têm deslocamento.
+
+
+// Animações> Soluções
+Animations > Solver=Animações > Soluções
+Enable Animation Fixer=Ativar soluções de animação
+Corrects most animations by using the other characters solutions if available. No other solver options will work without this enabled.=Corrige a maioria das animações usando soluções de outros personagens, se disponível. Nenhuma outra opção de solução funcionará sem isso ativado.
+
+Fix broken Animation Tables=Corrigir tabelas de animação quebradas
+Corrects certain animations by attaching certain IK points to the correct location instead of leaving them dangling in air.=Corrige certas animações anexando certos pontos de IK para o local correto, em vez de deixá-los pendurados no ar.
+
+Fix broken Effectors=Corrigir efeitos quebrados
+Allows limb movement on certain positions by fixing their effector weights.=Permite o movimento do membro em certas posições fixando seus pesos de efeito.
+
+Fix Kiss Animations=Corrigir animações de beijo
+Apply an offset to the male character to align kiss animations=Aplique um deslocamento para o personagem masculino para alinhar animações de beijo
+
+Joint Correction Default=Padrão de correção de juntas
+Default enable/disable state of joint corrections in Slider UI=Ativar/desativar o estado de correções de juntas no slider da interface
+
+Kiss Offset=Deslocamento de beijo
+Offset applied to the target location for kiss alignment=Deslocamento aplicado ao local de destino para o alinhamento do beijo
+
+Solve Independent Animations First=Resolver animações independentes primeiro
+Re-orders animation solving.  If the male animation is dependent on the female animation, the female animation will be solved first.  Some animations have both male and female dependencies.  These ones will run females first, so female dependencies will be broken.  This can be fixed by using last frame (see below)=Reordenar a resolução de animação. Se a animação masculina depende da animação feminina, a animação feminina será resolvida primeiro. Algumas animações têm dependências masculinas e femininas. Esses irão correr primeiro as mulheres, então as dependências femininas serão quebradas. Isso pode ser corrigido usando o último quadro (veja abaixo)
+
+Use Last Frame Solutions for Females=Use solução de último quadro para mulheres
+Use Last Frame's result as input to next frame.  This can fix problems when the female animations are solved before the male animations but are dependent on the male animations.  It will add a framerate dependent amount of jitter to the animations, which can be a good thing if your fps is high, or a bad thing if your fps is low.=Use o resultado do último quadro como entrada para o próximo quadro. Isso pode corrigir problemas quando as animações femininas são resolvidas antes das animações masculinas, mas dependem das animações masculinas. Ele acrescentará uma quantidade dependente de framerate do jitter às animações, que pode ser uma coisa boa se seu fps for alto, ou uma coisa ruim se seu fps for baixo.
+
+Use Last Frame Solutions for Males=UUse solução de último quadro para homens
+Use Last Frame's result as input to next frame.  This can fix problems when the male animations are solved before the female animatiosn but are dependent on the male animations.  It will add a framerate dependent amount of jitter to the animations, which can be a good thing if your fps is high, or a bad thing if your fps is low.=Use o resultado do último quadro como entrada para o próximo quadro. Isso pode corrigir problemas quando as animações masculinas são resolvidas antes das animações femininas, mas dependem das animações masculinas. Ele acrescentará uma quantidade dependente de framerate do jitter às animações, que pode ser uma coisa boa se seu fps for alto, ou uma coisa ruim se seu fps for baixo.
+
+
+//Qol> Roupas
+QoL > Clothes=QoL > Roupas
+Prevent default animationchange strip=Impedir animação padrão de despir
+Prevent default animation change clothes strip (pants, panties, top half state)=Impedir a animação padrão de despir (calças, calcinhas, metade superior)
+
+Should strip female clothes=Quando tirar roupas femininas
+Should strip female clothes during H=Quando tirar roupas femininas durante o sexo
+On H Start=No início da cena
+On Anim Change=Na mudança de animação
+
+Should strip male clothes=Quando tirar roupas masculinas
+Should strip male clothes during H=Quando tirar roupas masculinas durante o sexo
+
+Strip female bottom=Despir inferior das mulheres
+Strip female bottom during H=Despir inferior das mulheres durante o sexo
+Half=Metade
+
+Strip female bra=Despir sutiã das mulheres
+Strip female bra during H=Despir sutiã das mulheres durante o sexo
+
+Strip female gloves=Despir luvas das mulheres
+Strip female gloves during H=Despir luvas das mulheres durante o sexo
+
+Strip female panties=Despir calcinha das mulheres
+Strip female panties during H=Despir calcinha das mulheres durante o sexo
+
+Strip female pantyhose=Despir meia-calça das mulheres
+Strip female pantyhose during H=Despir meia-calça das mulheres durante o sexo
+
+Strip female shoes=Despir sapatos das mulheres
+Strip female shoes during H=Despir sapatos das mulheres durante o sexo
+
+Strip female socks=Despir meias das mulheres
+Strip female socks during H=Despir meias das mulheres durante o sexo
+
+Strip female top=Despir superior das mulheres
+Strip female top during H=Despir superior das mulheres durante o sexo
+
+Strip male bottom=Despir inferior dos homens
+Strip male bottom during H=Despir inferior dos homens durante o sexo
+
+Strip male bra=Despir sutiã dos homens
+Strip male (futa) bra during H=Despir sutiã de homens (mulher com pinto) durante o sexo
+
+Strip male gloves=Despir luvas dos homens
+Strip male gloves during H=Despir luvas dos homens durante o sexo
+
+Strip male panties=Despir calcinha dos homens
+Strip male (futa) panties during H=Despir calcinha de homens (mulher com pinto) durante o sexo
+
+Strip male pantyhose=Despir meia-calça dos homens
+Strip male (futa) pantyhose during H=Despir meia-calça de homens (mulher com pinto) durante o sexo
+
+Strip male shoes=Despir sapatos dos homens
+Strip male shoes during H=Despir sapatos dos homens durante o sexo
+
+Strip male socks=Despir meias dos homens
+Strip male (futa) socks during H=Despir meias de homens (mulher com pinto) durante o sexo
+
+Strip male top=Despir superior dos homens
+Strip male top during H=Despir superior dos homens durante o sexo
+
+
+//Qol> Clímax
+QoL > Cum=QoL > Clímax
+Auto finish=Finalizar automaticamente
+Automatically finish inside when both gauges reach max=Finalizar automaticamente dentro quando ambos os medidores chegam ao máx
+Service Only=Apenas serviços
+Insert Only=Apenas sexo
+
+Detailed Cum Update Mode=Modo de atualização do sêmen
+Update method for detailed cum, use LateUpdate for best framerate=Método de atualização para sêmen detalhado, use o LateUpdate para melhor fps
+
+Preferred auto insert finish=Auto finalização de sexo preferida
+Preferred auto finish type. Will fall back to any available option if selected is not available=Tipo de finalização automática preferida. Vai voltar a qualquer opção disponível se a seleção não estiver disponível
+Inside=Dentro
+Outside=Fora
+Same=Juntos
+
+Preferred auto service finish=Auto finalização de serviço preferido
+Drink=Beber
+Spit=Cuspir
+
+
+//Qol > Geral
+QoL > General=QoL > Geral
+Unlock camera movement=Desbloquear o movimento da câmera
+Unlock camera zoom out / distance limit during H=Desbloquear o limite de zoom out / distância durante o sexo
+
+
+//Qol > Exaustão
+QoL > Weakness=QoL > Exaustão
+Always hit gauge heart=Sempre acertar o coração do medidor
+Always hit gauge heart. Will cause progress to increase without having to scroll specific amount=Sempre acerte o coração do medidor. Causará progresso para aumentar sem ter que rolar uma quantidade específica no mouse
+Weakness Only=Apenas na exaustão
+
+Force close eyes=Forçar fechamento dos olhos
+Close girl eyes=Fechar os olhos da mulher
+
+Force show tears=Forcar mostrar lágrimas
+Make girl cry=Fazer a garota chorar
+
+Force stop blinking=Forçar parar de piscar
+Stop blinking=Parar de piscar
+
+Orgasm count until weakness=Contagem de orgasmos até a exaustão
+How many times does the girl have to orgasm to reach weakness=Quantos orgasmos a mulher tem que ter antes de ficar exausta

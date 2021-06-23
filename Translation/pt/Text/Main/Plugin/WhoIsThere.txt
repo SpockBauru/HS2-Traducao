@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin Who Is There?
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Toggle showing who is in room=Mostrar quem está no quarto
+Display name of character in surprise events=Exibir nome do personagem em eventos surpresa

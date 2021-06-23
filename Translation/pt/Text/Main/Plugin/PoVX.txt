@@ -1,0 +1,80 @@
+//************************************************************
+// Traduções para o plugin PoV X
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Animação
+Animation=Animação
+Max Eye Pitch (Up/Down)=Max rot. vert. dos olhos (Cima/Baixo)
+Highest upward/downward angle the eyes can rotate.=Maior ângulo que os olhos podem girar para cima/baixo.
+
+Max Eye Yaw (Left/Right)=Max rot. horiz. dos olhos (Esquerda/Direita)
+The farthest the eyes can rotate left/right=Maior ângulo que os olhos podem girar para esquerda/direita.
+
+Max Head Pitch (Up/Down)=Max rot. vert. da cabeça (Cima/Baixo)
+Highest upward/downward angle the head can rotate.=Maior ângulo que a cabeça pode girar para cima/baixo.
+
+Max Head Yaw (Left/Right)=Max rot. horiz. da cabeça (Esquerda/Direita)
+The farthest the head can rotate left/right=Maior ângulo que a cabeça pode girar para esquerda/direita.
+
+//Camera
+Camera Location=Localização da câmera
+
+Right Eye=Olho Direito
+Left Eye=Olho Esquerdo
+
+Camera Near Clip Plane=Câmera perto do plano de clipe
+
+Camera Sensitivity=Sensibilidade da câmera
+
+Field of View=Campo de visão
+
+Normalize Camera Z-Axis=Normalizar câmera no eixo Z
+Stops the camera from tilting. Always enabled when locked-on.=Impede a câmera de se inclinar. Sempre ativada quando fixada.
+
+Sideway offset from the character's eyes.=Deslocamento lateral dos olhos do personagem.
+
+Offset Y=Deslocamento em Y
+Vertical offset from the character's eyes.=Deslocamento vertical dos olhos do personagem.
+
+Offset Z=Deslocamento em Z
+Forward offset from the character's eyes.=Deslocamento frontal dos olhos do personagem.
+
+Zoom Field of View=Campo de visão do zoom
+
+
+//Geral
+Automatically Lock Head During H Scenes=Bloquear cabeça durante cenas de sexo
+During PoV mode in HScenes, automatically lock/unlock the characters head to the default animation position depending on position.=Durante o modo PoV em cenas de sexo, automaticamente bloqueie/desbloqueie a cabeça dos personagens para a posição de animação padrão, dependendo da posição.
+
+Hide Head=Ocultar a cabeça
+Should the head be invisible when in PoV mode? Head is always invisible during H scenes or situations where the player can't move.=A cabeça deve ser invisível quando no modo PoV? A cabeça é sempre invisível durante cenas de sexo ou situações em que o jogador não pode se mover.
+
+Hide Head Scale Z=Esconder escala de cabeça em Z
+Amount to scale Z when hiding head.=Quantidade da escala Z ao esconder a cabeça.
+
+Lock Cursor During H Scenes=Bloquear cursor durante cenas de sexo
+Should the cursor be locked during H scenes? Use the 'Cursor Release Key' to reveal the cursor. This also include situations where the focus is not the player.=O cursor deve ser bloqueado durante as cenas de sexo? Use a "Tecla para ativar cursor" para revelar o cursor. Isso também inclui situações em que o foco não é o jogador.
+
+//Atalhos de teclado
+Camera Drag Key=Tecla para arrastar a camera
+During PoV mode, holding down this key will move the camera if the mouse isn't locked.=Durante o modo PoV, manter pressionado esta tecla moverá a câmera se o mouse não estiver bloqueado.
+
+Character Cycle Key=Tecla para trocar de personagem
+Switch between characters during PoV mode.=Alternar entre os personagens durante o modo PoV.
+
+Cursor Toggle Key=Tecla para ativar cursor
+Pressing this key will force the cursor to be revealed in any scenes. Press the key again to turn off.=Pressionar esta tecla vai forçar o cursor a ser revelado em qualquer cena. Pressione a tecla novamente para desligar.
+
+Lock Head Key=Tecla para bloquear cabeça
+During PoV mode in HScenes, pressing this key will lock/unlock the characters head to the default animation position.=Durante o modo PoV em cenas de sexo, pressionar esta tecla bloqueará/desbloqueará a cabeça dos personagens para a posição de animação padrão.
+
+Lock-On Key=Tecla de fixar
+Lock-on to any of the other characters during PoV mode. Press again to cycle between characters or exit lock-on mode.=Fixe em qualquer um dos outros personagens durante o modo PoV. Pressione novamente para alternar entre personagens ou sair do modo de fixar.
+
+PoV Toggle Key=Tecla para ativar PoV
+
+Zoom Key=Tecla de zoom

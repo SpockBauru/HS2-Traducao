@@ -1,0 +1,12 @@
+//************************************************************
+// Traduções para o plugin Autostart
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Automatic start mode=Modo de início automático.
+Choose which mode to start automatically when launching the game.\nHold esc or F{{A}} during startup to cancel automatic behaviour or hold another shortcut to use that instead.\nYou can create game shortcuts that automatically load a specific mode after startup, check readme for details.=Escolha qual modo iniciar automaticamente ao iniciar o jogo.\nPressione ESC ou F{{A}} durante a inicialização para cancelar o comportamento automático ou selecione outro atalho para usar isso.\nVocê pode criar atalhos no jogo que carrega automaticamente um modo específico após a inicialização, verifique o Readme para detalhes.
+Male maker=Editor masculino
+Female maker=Editor feminino

@@ -1,0 +1,23 @@
+//************************************************************
+// Traduções para o plugin Character Replacer
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Default Female Card Replacement=Substituir carta padrão feminina
+Whether to replace selected cards.=Se deve substituir cartas selecionadas.
+
+Browse for Default Female Replacement=Navegue até a carta padrão feminina
+Browse for a card.=Navegue até uma carta.
+
+Default Female Card Path=Caminho da carta padrão feminina
+Path of the replacement card on disk.=Caminho a carta de substituição no disco.
+
+Default Male Card Replacement=Substituir carta padrão masculina
+
+Browse for Default Male Replacement=Navegue até a carta padrão masculina
+
+Default Male Card Path=CCaminho da carta padrão masculina
+
