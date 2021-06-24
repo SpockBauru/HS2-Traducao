@@ -1,0 +1,88 @@
+//************************************************************
+// Traduções para o plugin Additional Accessory Controls
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+Coordinate Visibility Rules=Regras de visibilidade de Cartas de Roupas
+
+//Janela do Additional Accessory Controls
+r:"^Visibility Rules for Slot: (.*)$"=Regras de visibilidade para slot: $1
+Suppress Slot States - Any slot states selected will not show/hide accessories=Suprimir estado do slot: Slot selecionados não mostram/ocultam acessórios
+
+TOP ALL=SUPERIOR TUDO
+TOP ON=SUPERIOR ON
+TOP HALF=SUPERIOR METADE
+TOP OFF=SUPERIOR OFF
+
+BOT ALL=INFERIOR TUDO
+BOT ON=INFERIOR ON
+BOT HALF=INFERIOR METADE
+BOT OFF=INFERIOR OFF
+
+
+INNER TOP ALL=SUP. INTERNO TUDO
+INNER TOP ON=SUP. INTERNO ON
+INNER TOP HALF=SUP. INTERNO METADE
+INNER TOP OFF=SUP. INTERNO OFF
+
+INNER BOT ALL=INF. INTERNO TUDO
+INNER BOT ON=INF. INTERNO ON
+INNER BOT HALF=INF. INTERNO METADE
+INNER BOT OFF=INF. INTERNO OFF
+
+PANTYHOSE ALL=MEIA-CALÇA TUDO
+PANTYHOSE ON=MEIA-CALÇA ON
+PANTYHOSE HALF=MEIA-CALÇA METADE
+PANTYHOSE OFF=MEIA-CALÇA OFF
+
+GLOVES ALL=LUVAS TUDO
+GLOVES ON=LUVAS ON
+GLOVES OFF=LUVAS OFF
+
+SOCKS ALL=MEIAS TUDO
+SOCKS ON=MEIAS ON
+SOCKS OFF=MEIAS OFF
+
+SHOES ALL=SAPATOS TUDO
+SHOES ON=SAPATOS ON
+SHOES OFF=SAPATOS OFF
+
+
+//Substituições de slot
+Slot Overrides - Allows slots on this coordinate to count as other slots for purposes of accessory visibility rules.=Substituições de slot: Permite slots dessa carta contarem como outros slots, para visibilidade de acessórios
+
+All rules count as wildcards, they match any state. Overriding a slot to a different slot means it no longer counts as the original slot. If you want to it to still count as it's original slot, override each of the states of the slot to themselves.=Todas as regras contam como curingas, elas correspondem a qualquer estado. Substituir um slot para um slot diferente significa que ele não conta mais como o slot original. Se você quiser ainda contar como o slot original, substitua cada um dos estados do slot para si.
+
+Active Override Rules=Regra de subst. ativa
+
+Create Override Rule=Criar regra subst.
+
+TOP=SUPERIOR
+BOT=INFERIOR
+INNER TOP=SUPERIOR INTERNO
+INNER BOT=INFERIOR INTERNO
+PANYTHOSE=MEIA-CALÇA
+GLOVES=LUVAS
+SOCKS=MEIAS
+SHOES=SAPATOS
+
+HALF=METADE
+
+Count as: = Vai ser:
+
+
+//Menu Acessórios
+Character Accessory=Acessório de Personagem
+Match Hair Color on Coord Load=Combinar Cor do Cabelo ao Carregar Carta de Roupas
+
+Visibility Rules=Regras de Visibilidade
+Show=Mostrar
+Hide=Esconder
+ 
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Trim More Accessory Slots=Cortar mais slots de acessórios
+Extra Accessory Slots Past Actual Accessories Removed on Save=Slots de acessórios extras além dos acessórios reais removidos no save

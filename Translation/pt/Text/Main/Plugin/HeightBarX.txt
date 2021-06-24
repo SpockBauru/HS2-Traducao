@@ -1,0 +1,27 @@
+//************************************************************
+// Traduções para o plugin HeightBarX
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+Show height measure bar=Mostrar barra de medida de altura
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Appearance=Aparência
+
+Opacity of the floor bar=Opacidade da barra do chão
+
+Opacity of the measuring bar=Opacidade da barra de medição
+
+Show floor bar at character`s feet=Mostrar a barra do chão nos pés do personagem
+Shows the position of the floor. Helps prevent floating characters when using yellow sliders.=Mostra a posição do chão. Ajuda a evitar personagens flutuantes ao usar sliders amarelos.
+
+Toggle height measure bar=Alternar a barra de medida de altura
+Hotkey to toggle the height measurement bar in maker.=Tecla de atalho para ativar a barra de medição de altura no criador de personagens.
+
+Use freedom units=Use unidades retardadas
+A foot to the face.=Um pé para o rosto.

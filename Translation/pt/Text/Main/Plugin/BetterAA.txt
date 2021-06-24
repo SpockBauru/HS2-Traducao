@@ -1,0 +1,17 @@
+//************************************************************
+// Traduções para o plugin BetterAA
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Enable TAA=Ativar TAA
+Turn the custom anti aliasing algorithm on or off.=Ligue ou desligue o algoritmo de antiliasing personalizado.
+
+Adaptive Enhance=Aprimoramento adaptável
+Hdr Response=Resposta de HDR
+Micro Shimmer Reduction=Redução de micro cintilação
+Static Stability Power=Força da estabilidade estática
+Temporal Jitter Scale=Escala de vibração temporal
+Temporal Stability=Estabilidade temporal

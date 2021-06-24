@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin ColorPanelX
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+ShowColorPanelOptions=MostrarOpçõesPainelDeCor
+Set visibility of color panel options in Maker=Definir visibilidade de opções do painel de cores no criador de personagens

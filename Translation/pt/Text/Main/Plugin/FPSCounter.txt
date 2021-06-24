@@ -1,0 +1,33 @@
+//************************************************************
+// Traduções para o plugin FPS Counter
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Enable=Habilitar
+Monitor performance statistics and show them on the screen. When disabled the plugin has no effect on performance.=Monitore as estatísticas do desempenho e mostre-os na tela. Quando desativado, o plugin não tem efeito no desempenho.
+
+Enable monitoring plugins=Ativar plugins de monitoramento
+Count time each plugin takes every frame to execute. Only detects MonoBehaviour event methods, so results might be lower than expected. Has a small performance penalty.=Conta o tempo que cada plugin leva para executar em cada quadro. Detecta apenas métodos MonoBehaviour, portanto os resultados podem ser menores do que o esperado. Tem uma pequena penalidade de desempenho.
+
+Show detailed frame stats=Mostrar estatísticas detalhadas do quadro
+Show how much time was spent by Unity in each part of the frame, for example how long it took to run all Update methods.=Mostre quanto tempo foi gasto pelo Unity em cada parte do quadro, por exemplo, quanto tempo demorou para executar todos os métodos Update.
+
+Show memory and GC stats=Mostrar estatísticas de memória e gráficos
+Show memory usage of the process, free available physical memory and garbage collector statistics (if available).=Mostrar uso de memória do processo, memória física livre e estatísticas de coletor de lixo (se disponível).
+
+Toggle counter and reset stats=Alternar contador e redefinir estatísticas
+Key to enable and disable the plugin.=Botão para ativar e desativar o plug-in.
+
+
+///Interface
+Color of the text=Cor do texto
+Color of the displayed stats. Outline has a performance hit but it always easy to see.=Cor das estatísticas exibidas. O contorno tem uma queda de desempenho, mas é sempre mais fácil de ver.
+White=Branco
+Black=Preto
+Outline=Contorno
+
+Screen position=Posição da tela
+Which corner of the screen to display the statistics in.=Qual canto da tela para exibir as estatísticas.

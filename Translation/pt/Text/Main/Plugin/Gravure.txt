@@ -1,0 +1,30 @@
+//************************************************************
+// Traduções para o plugin Gravure
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//Menu Roupas
+Set all colors=Definir todas as cores
+
+//Menu arquivo -> Salvar
+Save (Keep Card)=Salvar (manter carta)
+
+//Painel Gravura
+Gravure\n=Gravura\n
+
+On=On
+Inner Bot=Inferior Interno
+
+← Animation →=← Animação →
+Wetness=Umidade
+Blush=Corar
+Skin Gloss=Brilho da pele
+Tears=Lágrimas
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Show gravure panel=Mostrar painel de gravura

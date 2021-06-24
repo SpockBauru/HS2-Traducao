@@ -1,0 +1,38 @@
+//************************************************************
+// Traduções para o plugin Browser Folders
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//Menu Arquivo
+Select character folder=Pastas de personagems
+Select clothes folder=Pastas de roupas
+Refresh thumbnails=Atualizar Miniaturas
+Current folder=Pasta atual
+Screenshot folder=Pasta de capturas de tela
+Main game folder=Pasta do jogo principal
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Studio
+Enable folder browser in character browser=Pastas no navegador de personagens
+Changes take effect on game restart=Mudanças entram em vigor após reiniciar o jogo
+
+Enable folder browser in scene browser=Ativar navegador de pastas nas cenas
+
+Save scenes to current folder=Salvar cenas para pasta atual
+When you select a custom folder to load a scene from, newly saved scenes will be saved to this folder.\nIf disabled, scenes are always saved to default folder (studio/scene).=Quando você seleciona uma pasta personalizada para carregar uma cena, cenas recém-salvas serão salvas nessa pasta.\nSe desativado, as cenas são sempre salvas na pasta padrão (studio/scene).
+
+//Jogo Principal
+Main game=Jogo principal
+
+Enable character folder browser in main game=Pastas de personagens no jogo principal
+NOTE: This will patch the game to allow nested folder paths in the save file. If you turn this feature off or remove this plugin, any cards that are in subfolders will be removed from your game save (the cards themselves will not be affected, you will just have to readd them to your groups). Changes take effect on game restart=Nota: Isso mudará o jogo para permitir caminhos de pasta no arquivo de save. Se você desativar este recurso ou remover este plugin, quaisquer cartas que estão nas subpastas serão removidos do seu save (As cartas não serão afetados, você só terá que reordená-las em seus grupos). Mudanças entram em vigor após reiniciar o jogo
+
+Enable character folder browser in maker=Pastas de personagens no criador
+
+Enable clothes folder browser in maker=Pastas de roupas no criador de personagens

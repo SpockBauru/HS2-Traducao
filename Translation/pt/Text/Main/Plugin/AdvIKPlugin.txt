@@ -1,0 +1,26 @@
+
+
+Breathe in Main Game=Respire no jogo principal
+Characters in the Main Game will Breathe=Personagens no jogo principal vão respirar
+
+Main Game Breath Size Scale=Escala de tamanho de respiração do jogo principal
+Multiplier applied to default breath sizing=Multiplicador aplicado ao tamanho de respiração padrão
+
+Main Game Breath Rate Scale=Escala de taxa de respiração do jogo principal
+Multiplier applied to default breath rate (BPM)=Multiplicador aplicado à taxa de respiração padrão (BPM)
+
+HScene Size Adjustment=Ajuste de tamanho na cena de sexo
+Multiplier applied (on top of above option) in HScenes to breath size=Multiplicador aplicado (por cima da opção acima) em cenas de sexo para o tamanho da respiração
+
+HScene Rate Adjustment=Ajuste da taxa na cena de sexo
+Multiplier applied (on top of above option) in HScenes to breath rate=Multiplicador aplicado (por cima da opção acima) em cenas de sexo para a taxa de respiração
+
+Breathe in Maker=Respirar no Criador de Personagens
+Characters in the Maker will Breathe=Personagens no criador vão respirar
+
+Maker Breath Scale=Escala de respiração no criador
+
+Maker Breath Rate Scale=Escala da taxa de respiração do criador
+
+Studio - Auto Resize on Reload=Studio - Redimensionar auto. ao recarregar
+Automatically Apply Configured IK Adjustment on Reloading Characters=Aplicar automaticamente o ajuste de IK configurado quando carregar personagens

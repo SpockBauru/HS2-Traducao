@@ -1,0 +1,11 @@
+//************************************************************
+// Traduções para o plugin MakerAdditions
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+Lock Cameralight=Travar a luz de câmera
+Toggle Backlight=Ligar luz de fundo
+Toggle Blinking=Ligar piscada

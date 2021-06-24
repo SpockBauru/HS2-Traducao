@@ -1,0 +1,21 @@
+//************************************************************
+// Traduções para o plugin UnlockPlayerHeight
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+H Scene=Cenas de sexo
+
+Custom height=Altura personalizada
+If 'Height from card' is off, use this value instead'=Se a "altura da carta" estiver desligada, use este valor
+
+Custom height {{A}}nd={{A}}ª altura personalizada 
+If 'Height from card' is off, use this value instead for {{A}}nd male=Se "altura da carta" estiver desligada, use este valor para o {{A}}º homem
+
+Height from card=Altura da carta
+Set players height according to the value in the card=Definir altura dos jogadores de acordo com o valor na carta
+
+Height from card {{A}}nd={{A}}ª altura da carta
+Set players height according to the value in the card for {{A}}nd male=Definir altura dos jogadores de acordo com o valor na carta para o {{A}}º homem

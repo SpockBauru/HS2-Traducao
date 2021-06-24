@@ -7,6 +7,7 @@
 //--------------------------------------------------
 
 AchievementInfoDataHandler=Tratar Informações de Conquistas
+Register as Translations=Registrar como traduções
 Use translation stored in AchievementInfoData assets if possible=Use a tradução armazenada AchievementInfoData, se possível
 
 Use Translation from Asset=Use a tradução de "RedirectedResources"
@@ -14,8 +15,14 @@ Use Translation from Asset=Use a tradução de "RedirectedResources"
 BGMNameInfoHandler=Tratar Informações da Música de Fundo
 Use translation stored in BGMNameInfo assets if possible=Use a tradução armazenada em BGMNameInfo, se possível
 
+ChaListDataHandler=Tratar informações da lista de personagens
+
 EventContentInfoDataHandler=Tratar Informações dos Eventos
 Use translation stored in EventContentInfoData assets if possible=Use a tradução armazenada em EventContentInFodata, se possível
+
+ExcelDataHandler=Tratar dados do Excel
+
+MapInfoHandler=Tratar informações de mapa
 
 ParameterNameInfoHandler=Tratar Infomações dos nomes dos parâmetros
 Use translation stored in ParameterNameInfo assets if possible=Use a tradução armazenada em ParameterNameInfo, se possível
@@ -23,7 +30,13 @@ Use translation stored in ParameterNameInfo assets if possible=Use a tradução 
 PlanNameInfoHandler=Tratar Infomações dos Serviços
 Use translation stored in PlanNameInfo assets if possible=Use a tradução armazenada em PlanNameInfo, se possível
 
+ScenarioDataHandler=Tratar informações de cenário
+
 Text Formatter=Formatar Texto
 
 Alternate Text Reflow=Redirecionamento de texto alternativo
 Use whitespace based text reflow for non-Japanese languages.=Use o redirecionamento de texto baseado no espaço em branco para idiomas não japoneses.
+
+TextAssetTableHandler=Tratar tabela de recursos
+
+VoiceInfoHandler=Tratar informção de voz

@@ -1,0 +1,10 @@
+//************************************************************
+// Traduções para o plugin Drag & Drop
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Show scene overwrite warnings=Mostrar avisos ao sobrescrever a cena
+Show a confirmation dialog box when loading the dropped scene would result in losing data in the currently loaded scene.=Mostrar uma caixa de diálogo de confirmação ao carregar a cena ao soltar que resultaria na perda de dados da cena atualmente carregada.

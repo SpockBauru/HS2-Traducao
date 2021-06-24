@@ -1,0 +1,29 @@
+//************************************************************
+// Traduções para o plugin HLightControl
+//************************************************************
+
+//************************************************************
+// Cenas de Sexo
+//************************************************************
+
+Lock Camlight=Fixar Luz da Câmera
+Lower Shadow Resolution=Diminuir Resolução das Sombras
+Backlight=Luz de Fundo
+
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Defaults=Padrões
+
+Auxiliary Light=Luz auxiliar
+
+Backlight=Luz de fundo
+
+Lock Camlight=Travar luz da câmera
+
+Lower Shadow Resolution=Reduzir resolução da sombra
+
+Shadow resolution target=Resolução de sombra alvo
+What resolution to apply when clicking 'Lower shadow resolution'=Que resolução será aplicada ao clicar em "Reduzir resolução da sombra"

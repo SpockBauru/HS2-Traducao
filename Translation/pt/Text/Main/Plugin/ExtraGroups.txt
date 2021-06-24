@@ -1,0 +1,12 @@
+//************************************************************
+// Traduções para o plugin ExtraGroups
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Requires restart! Modifies save!=Requer reinicialização! Modifica o save!
+Girls Count=Numero de Mulheres
+Requires a restart to apply.=Precisa reiniciar o jogo para aplicar.
+
+Groups Count=Número de Homens

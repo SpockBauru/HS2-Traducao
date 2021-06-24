@@ -1,0 +1,13 @@
+//************************************************************
+// Traduções para o plugin Heelz
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Load Developer XML=Carregar XML do desenvolvedor
+Make Heelz Plugin load heel_manifest.xml file from game root folder. Useful for developing heels. Useless for most of users.=Faça plugin Heelz abrir o arquivo heel_manifest.xml da pasta raiz do jogo. Útil para o desenvolvimento de saltos. Inútil para a maioria dos usuários.
+
+Verbose Mode=Modo detalhado
+Print Everything=Imprima tudo
