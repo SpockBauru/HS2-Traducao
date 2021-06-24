@@ -3,7 +3,7 @@
 //***********************************************************************
 
 //普通{0}=Normal {0}
-私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Você gostou de transar comigo? Será que eu? Bem, foi... Ok, não foi ótimo, certo?
+//私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Você gostou de transar comigo? Será que eu? Bem, foi... Ok, não foi ótimo, certo?
 とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=Foi um momento muito gratificante. Sinto que poderia ter um bom relacionamento com você.
 //好意{0}=Favores {0}
 何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Você teve alguma reclamação? Gostaríamos de ouvir sua opinião honesta.
@@ -16,7 +16,7 @@
 ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... Não posso negar a incompatibilidade de nossos corpos, mas não de nossas mentes. Acho que seria melhor convidar outras pessoas a partir de agora.
 //隷属{0}=Escravidão {0}
 ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Hmmm... Desculpe, parece que depois de apenas um encontro de pele com pele, eu me tornei um prisioneiro de sexo com você.
-セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=Você acabou de fazer sexo e já está à procura de outra oportunidade. Ficarei esperando seu convite.
+//セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=Você acabou de fazer sexo e já está à procura de outra oportunidade. Ficarei esperando seu convite.
 //壊れ{0}=Quebrado {0}
 あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Eu quero viver...
 ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Bem... Ser assustador é muito legal, não é?

@@ -11,7 +11,7 @@
 って、なんでつっかかってるんだろ私、ごめんね、ちょっと緊張してるだけだから、とりあえずシよっか。=Desculpe, estou apenas um pouco nervoso, então vamos fazer isso.
 どもー……って、なんかいいやつそうじゃん、ってなんでエラそうなんだろう私。=Não sei porque estou sendo tão eloquente, mas você parece ser um cara legal.
 ごめんね、緊張してるだけだから気にしないで、それから私って女っぽくないっていうか……=Desculpe, só estou nervosa. Não se preocupe com isso. E não sou muito feminina, então...
-男の友達の方が多いタイプだから付き合いやすいとは思うよ。とりあえず、してみる？=Eu sou o tipo de cara que tem mais amigos, então tenho certeza de que será mais fácil sair com você. De qualquer forma, você quer tentar?
+//男の友達の方が多いタイプだから付き合いやすいとは思うよ。とりあえず、してみる？=Eu sou o tipo de cara que tem mais amigos, então tenho certeza de que será mais fácil sair com você. De qualquer forma, você quer tentar?
 //好意{0}=Favores {0}
 あのさ、今日誘ってくれたのって……そりゃ……エッチ、するため、だよね？=Você sabe, a razão pela qual você me convidou para sair hoje foi... Para transar comigo, certo?
 な、なにさ……好きだからするに決まってんじゃん、逆に断られると思った？=Claro que faço isso porque te amo. Você achou que eu diria não?
