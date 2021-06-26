@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 で、では……始めてください。いつでも構いませんよ……=Portanto, então... Por favor, comece. Sempre que você estiver pronto...
 なんだか……凄く緊張してきました。貴方はどうですか？=Estou começando a ficar... Muito nervoso. E você?
 こんなの……本当はよくない事だと思うのですが……=Eu não acho isso... É realmente uma boa idéia, mas...

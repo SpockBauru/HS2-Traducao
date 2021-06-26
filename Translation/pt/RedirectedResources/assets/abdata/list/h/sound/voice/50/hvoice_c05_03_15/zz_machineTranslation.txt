@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたに悦んでもらえそうなこと……考えなきゃ……=Tenho que pensar em algo que o faça feliz.
 い、色んなこと……試してみたいな……=Eu gostaria de tentar algumas coisas...
 はぁっ、あぁぅっ、んっ、そこっ……感じちゃいますっ……=Ahh, ah, ah, ali, ali... É tão bom...

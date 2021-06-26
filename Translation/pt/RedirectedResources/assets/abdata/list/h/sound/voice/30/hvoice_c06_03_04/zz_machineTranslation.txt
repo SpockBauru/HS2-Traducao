@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ひとりでするときのやり方なんて……あん、恥ずかしいですわ……=A maneira como você faz isso quando está sozinho... É embaraçoso...
 お勉強のためとはいえ、あんっ、これは……はぁ、はぁ……=Mesmo que seja para estudo, isto é... Haha, haha...
 その……申し訳ございません、私……緊張してしまって……=Estou... Desculpe, estou apenas... Nervoso.

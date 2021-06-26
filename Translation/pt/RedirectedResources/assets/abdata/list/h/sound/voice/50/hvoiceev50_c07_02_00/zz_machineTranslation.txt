@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, o que foi, cara? Você não sabe como fazer isso, sabe?
 ビビってんじゃねぇよ。オレを退屈させるな。=Não se assuste. Você está me aborrecendo.
 んっ、弱っちい腰使いだな……少しはまぁ、感じるが……=Mmm, você está um pouco sensível nos quadris... Mas eu posso senti-lo... Um pouco.

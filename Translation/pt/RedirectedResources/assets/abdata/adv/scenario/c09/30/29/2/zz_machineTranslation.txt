@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ……こんなところに……もしかしてわたしのことを待ってたんですか？=Você está me esperando aqui, por acaso?
 わぁ、お待たせしてすみませんー！=Uau, desculpe por tê-lo feito esperar!
 あれあれー、もしかして……妄想してたりしませんでしたかー？　なんちゃって♪=Ei, ei, ei... Você está... Você está tendo uma fantasia? Eu não sei...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 一番見られたくない方に、見つかるとは……みっともない姿をお見せして申し訳ございません。=Lamento mostrar-lhes minha aparência vergonhosa... A ser encontrada pela pessoa que não quer mais ser vista.
 っ……こんな時にもよおすとは……恥の上塗りです……=É uma pena que você esteja se contorcendo em um momento como este...
 ……間抜けな姿になっていることは充分自覚しておりますので、あまり見ないでいただけると助かります。=... Estou plenamente consciente de que pareço burra, por isso agradecia que não olhassem muito para mim.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 遅くなりました、すいません。=Desculpe, estou atrasado.
 待っててくれて、ありがとうございます……=Obrigado por esperar por mim...
 お待たせしました、それで、今日は何をしましょうか？=Aqui está. Então, o que posso fazer por você hoje?

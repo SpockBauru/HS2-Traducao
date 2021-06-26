@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら？　どうしたのかしら？　何もしないなんて…=Oh, não. O que está acontecendo? Não posso acreditar que você não fez nada.
 私、このまま放置されるのかしら？=Vou ser deixado de fora ao frio?
 この動き、とても気持ちがいいですわ=Este movimento é tão bom.

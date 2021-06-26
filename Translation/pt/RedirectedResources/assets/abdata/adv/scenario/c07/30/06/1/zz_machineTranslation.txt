@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まさか、覗きがバレないとでも思ってたのか？　それは流石に、都合よく考え過ぎだろ。=Não me diga que você não pensou que seria pego espreitando? Isso é muito conveniente.
 まったく、オマエにそういう趣味があるのは構わねぇが。もう少し節度ってやつを持て。=Não me importo que você tenha um hobby assim, mas... Mas você deve ter um pouco mais de moderação.
 おい、見てるだけで良かったのか？　もっと近くで、匂いとか嗅がせてやっても良かったんだぞ？=Ei, tudo o que você tinha que fazer era assistir, hein? Você poderia estar mais perto, deixe-me sentir seu cheiro ou algo assim, sabe?

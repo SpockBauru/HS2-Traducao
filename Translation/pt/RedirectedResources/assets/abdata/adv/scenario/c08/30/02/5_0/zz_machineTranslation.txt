@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 おっ、３Ｐっすね～？　私はいいすけどーどうっすかー？　大丈夫すかー？=Oh, é um trio, não é? Estou bem, mas o que acha? Você está bem?
 もちろん喜んでっす～！　あ……いいっすかねー？　３人でやることになっちゃうっすけどー。=É claro que eu ficaria feliz em fazê-lo! Ah... Está tudo bem? Mas seremos nós os três.

@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 続けるのね？　構わないわよ=Você vai continuar fazendo isso, não vai? Eu não me importo.
 嬉しいわ、私も続けたかったのよ=Fico feliz em ouvir isso. Eu queria continuar.

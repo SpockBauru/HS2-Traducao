@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 きゃっ……こんなところで会っちゃうのは、少し恥ずかしいです……=Kya... É um pouco embaraçoso encontrá-lo aqui...
 えっと、あなたも汗を流しにきたんですね……=Hum, você também está aqui para suar...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どう？　焦れてきた？　んふ、すぐシないのもテクだから♪=O que você acha? Você está ficando impaciente? Uma coisa é não vir logo ♪
 アハッ、期待した目しちゃって、マジきゃわたんかよ♪=Aha, você tem os olhos que eu esperava. Você é realmente bonito ♪
 ねぇ、ぺぉぺぉされうと、やっぱきもひいい……？（ペロペロされると、やっぱ気持ちいい？）=(É bom ser picado e picado?

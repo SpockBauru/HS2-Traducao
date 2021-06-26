@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 畏まりました。……それにしても、直球な物言いをなさるのですね。=Pavor, senhor... E ainda assim, você é tão direto em seu discurso.
 は、はいっ。では、直ぐに準備を致します。=Sim, senhor. Então, vou me preparar imediatamente.

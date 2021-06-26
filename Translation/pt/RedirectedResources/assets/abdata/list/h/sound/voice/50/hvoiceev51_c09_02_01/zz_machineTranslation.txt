@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 慌てずじっくり……時間をかけて楽しみましょー！=Leve seu tempo... Leve seu tempo e aproveite!
 あなたさんってー、こーいう風に焦らされるのも好きなんですよね？=Você... Você gosta de ser apressado assim, não é mesmo?
 ふぁぁんっ……=Hmmm...

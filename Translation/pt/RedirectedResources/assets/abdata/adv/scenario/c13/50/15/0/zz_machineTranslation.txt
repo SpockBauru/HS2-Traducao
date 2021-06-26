@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私です、あなたに会いたくて来ちゃいました……=Sou eu. Estou aqui para vê-lo...
 ……うふふ、わかりました、また今度にしますね……=... Ok, até a próxima...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぅ……間に合った……危ない危ない……っと。=Hmm... Mesmo a tempo... Cuidado...
 はふ……危うくお漏らししちゃうとこでしたー！=Huh... Eu quase mijei nas calças!
 ふんふんふふん♪　ふんふんほにゃらら〜♪=Fufufu-fu-fu-fu-fu-fu-fu-fu-fu-diversão

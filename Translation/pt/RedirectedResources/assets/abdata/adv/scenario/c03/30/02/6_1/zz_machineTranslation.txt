@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 はぁ……やり切った。私も結構頑張ったと思うよ？　ふたりに圧倒されっぱなしだったけど、一応はね。=Huh... Eu consegui passar. Eu também acho que me saí muito bem, sabe? Eu fiquei impressionado com vocês dois, mas pelo menos eu fiquei.
 ３人だと、単純になんか忙しいね。今はもう、頭がボーっとしちゃってる。=Nós três estamos simplesmente muito ocupados. Minha mente está um pouco enevoada no momento.

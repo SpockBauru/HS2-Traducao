@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いやー、あなたのお部屋ってどんなもんかと思ってー施設の人に場所を聞いて来たってわけっすよー。=Bem, eu estava me perguntando como era seu quarto, então perguntei ao pessoal das instalações onde ele estava.
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 通い妻がまた来たっすよー。=Minha esposa está aqui novamente!

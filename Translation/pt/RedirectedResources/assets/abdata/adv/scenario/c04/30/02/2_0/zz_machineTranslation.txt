@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 ん？　教えて欲しい？　どーしよっかな～♪=Hmm? Você quer que eu lhe diga? Eu não sei...
 まー世間話的な？　女子の会話に内容を求めちゃいけないって。=Bem, como conversa fiada? Ele disse que não devemos procurar conteúdo nas conversas das garotas.

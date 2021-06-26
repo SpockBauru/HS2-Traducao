@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 あはは……なんか凄かったね……一人増えるだけで全然違うや……ふぅ……=Hahaha... Isso foi meio incrível... Só mais uma pessoa faz toda a diferença... Phew...
 予想以上に乱れちゃったかも……ちょっと恥ずかしいから、三人だけの秘密ね？=É um pouco embaraçoso, por isso é um segredo entre nós três.

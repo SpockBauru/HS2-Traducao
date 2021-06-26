@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 よし、それでいい。素直が一番だ。=Ok, isso é bom. A honestidade é o melhor.
 よし、オレはもう行く。世話になったな、本当に助かった。このお礼はまた今度な。=Está bem, vou andando. Obrigado por tudo. Você tem sido ótimo. Agradeço-lhe em outra ocasião.
 オレは助かったが、本当にこれで終わりでいいのか？　まぁ、この埋め合わせは、後できちんとしてやるよ。=Estou salvo, mas você tem certeza de que isto é o melhor que pode fazer? Bem, eu o recompensarei mais tarde.

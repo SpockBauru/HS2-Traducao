@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ひ、一つ弁明をさせて下さい。この縄は決して私の趣味ではございません。=Olá, deixe-me dar uma desculpa. Esta corda nunca é meu hobby.
 んんっ……す、すみませんっ。事情は明かせないのですが……助けていただけないでしょうか？=Mmm... Sinto muito. Não posso contar o que aconteceu, mas... Você pode me ajudar?
 その、見事に絡まってしまいまして……無様な私をご覧になって、貴方は何を思うのでしょう？=O que você pensa quando me vê em tal confusão?

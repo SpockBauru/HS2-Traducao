@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 //え、えっと、本当に私でいいんですか？=Bem, você tem certeza de que sou eu?
 //あ、いえっ、こういうとこは初めてなので、緊張してて……すみません……=Sim, nunca estive em um lugar como este antes, então estou nervoso... Desculpe...

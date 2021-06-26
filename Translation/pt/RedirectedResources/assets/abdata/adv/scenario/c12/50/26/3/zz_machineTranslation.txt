@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 なんだか、ずっと尻を弄られていたせいか、大分慣れてきたみたいだ。=Não sei, talvez seja porque eu tenha brincado com meu rabo por tanto tempo que me acostumei.
 お前のせいで、尻が気持ち良くなってきてるんだ。責任取ってくれよな。=Você está me fazendo sentir melhor. Você vai ter que assumir a responsabilidade por isso.

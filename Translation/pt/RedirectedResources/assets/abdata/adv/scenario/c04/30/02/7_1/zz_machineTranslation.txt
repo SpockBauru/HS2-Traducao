@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 あー、どっちかに用事があったとか？　別にアタシら気にしないよ？=Um de vocês tinha negócios? Nós não nos importamos, não é mesmo?
 なんかよくわかんないけど……アンタがそれでいいんなら、じゃあね？=Não sei o que é, mas... Se você estiver de acordo com isso, então...

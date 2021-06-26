@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 くぁ、これは反則だろ……少し震えるだけで、こんなにっ……=Ahhh, isto é uma loucura... Só um pouco de tremor, e é como...
 んんぅっ……拘束しなくても、オレは逃げたりしねぇぞ……？=Mmm... Mesmo que você não me amarre, eu não vou fugir...
 ふぁあっ、こいつは強すぎるっ！　んんっ、半端ねぇなっ！=Huh, isto é muito forte! Mmm, é tão forte!

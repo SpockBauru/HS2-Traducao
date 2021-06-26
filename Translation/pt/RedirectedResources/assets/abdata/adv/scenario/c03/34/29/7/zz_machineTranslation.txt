@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ、もしかして私を待っててくれたの？　それとも覗き……？　もしそうなら、殴るからね。=Ei, será que você está esperando por mim? Ou você está espreitando? Se for, eu vou bater em você.
 あ……偶然？　待ってた？　どっちにしても……会えて嬉しいな……今、綺麗な身体だよ……？=Oh... Coincidência? Você estava esperando por mim? De qualquer forma... É bom ver você... E você tem um belo corpo agora mesmo?
 あれ、覗くより妄想が好きなタイプ？　うそうそ、冗談。お前は紳士で偉いなぁ♪=Oh, você é do tipo que gosta de fantasiar mais do que espreitar? Oh, não, estou brincando. Você é um grande cavalheiro.

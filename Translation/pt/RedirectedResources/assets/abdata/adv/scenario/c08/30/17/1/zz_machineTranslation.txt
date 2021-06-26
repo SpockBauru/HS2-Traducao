@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、こんちはっすー。私のこの状況見て～なんかヤりたくなることないっすか～？=Oh, boa tarde. Veja a minha situação... Você não quer me foder?
 ていうか今ーすごくおしっこしたくってー。しかもこの状況でってかなりヤバいじゃないすかー♪=Quero dizer, eu realmente preciso fazer xixi agora mesmo. E nesta situação, é muito ruim, não é?
 //なぞなぞなんすけど～、壁の穴にハマっちゃってるっすけどー私の穴にはなんにもハマってないすよ～？=É um enigma, mas você está preso em um buraco na parede, mas nada está preso no meu buraco.

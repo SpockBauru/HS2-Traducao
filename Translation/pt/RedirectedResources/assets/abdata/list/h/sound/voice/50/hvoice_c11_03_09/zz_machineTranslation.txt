@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んっ……不自由なまま、玩具(がんぐ)が突き刺さっています……=Hmmm... Um brinquedo está me deixando de fora enquanto eu estou aleijado...
 あぁ……この様な恰好でなんて……破廉恥です……=É... É uma pena estar vestido desta maneira.
 はぁん！　振動で、私まで震えてしまいそうですっ……=Huh! As vibrações estão me fazendo tremer também...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 長々と話し込んでしまいましたね。では、これで失礼します。=Já falamos sobre isso há muito tempo, não é mesmo? Agora, se me dão licença.
 色々お話できて楽しかったです。それでは。=Foi divertido conversar com você. Por tanto tempo.

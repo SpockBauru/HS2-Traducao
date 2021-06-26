@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 結構いい部屋じゃねぇか。まぁ、すぐに散らかすんだけどな。=É um quarto muito bonito. Bem, fica desarrumado facilmente.
 ありがとな、部屋に入れてくれて……ここがそうなんだな。=Obrigado por me deixar entrar em seu quarto... É aqui, não é?
 ここがお前の部屋かぁ。よぉし、さっそくエロ本探しから始めるか？=Portanto, este é o seu quarto. Muito bem, vamos começar procurando livros eróticos, vamos?

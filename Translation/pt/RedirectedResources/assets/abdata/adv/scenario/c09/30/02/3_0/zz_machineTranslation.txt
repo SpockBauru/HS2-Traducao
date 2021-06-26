@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定1普通{0}=Responder afirmativo 1 normal {0}
 あはっ、気が合いますねー！　うれしーですよ！=Haha, nós somos espíritos afins! Estou tão feliz!
 でーすーよーねー！　あなたさんも同じで良かった！=Eu sei, certo? Fico feliz que você seja do mesmo jeito!

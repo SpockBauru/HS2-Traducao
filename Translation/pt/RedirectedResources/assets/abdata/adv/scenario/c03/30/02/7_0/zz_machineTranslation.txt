@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 ん？　なんかひっかかる言い方だね？　私だけでも、話聞こっか？=Hmm? Isso é um pouco embaraçoso, não é? Você quer falar comigo a sós?
 え？　それだと、何しに来たのしか言えないよ？　何でもないなら、まぁいいけどさ……=O que é isso? Isso é tudo que você pode dizer, o que você está fazendo aqui? Se não é nada, bem...

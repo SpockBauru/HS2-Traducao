@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、先ほどは……じゃありませんでした……えっと、いいお湯でしたよ……=Oh, eu não estava... Mais cedo... Er, foi um belo banho quente...
 すっきり……というより、さっぱりしました、うふふ……=Sinto-me refrescado... Mais como refrescado, hihihi...

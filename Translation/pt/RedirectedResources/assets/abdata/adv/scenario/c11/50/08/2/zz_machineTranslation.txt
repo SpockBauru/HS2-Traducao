@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私のさぁびすにご満足頂けましたら幸いです。=Espero que vocês fiquem satisfeitos com minha Saabis.
 爽やかな心地になれたでしょうか？　お役に立てたのでしたら何よりです。=Espero que você se sinta refrescado e confortável. Estamos felizes de poder ajudá-los.
 湯浴みをされる際は、遠慮為さらずお声がけ下さい。何時でも本日の様なお世話を致しますので。=Quando tomar banho, por favor, não hesite em nos perguntar. Nós sempre cuidaremos de você como fizemos hoje.

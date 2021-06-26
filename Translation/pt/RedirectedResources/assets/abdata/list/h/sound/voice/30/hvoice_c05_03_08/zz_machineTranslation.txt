@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んはぁぅっ！　こ、これっ……なんだかすごいですぅっ……=Aaah! Isto é... Meio incrível...
 あっ、くぅっ、やだっ……気持ちいいっ、ですよぉっ……=Oh, não... Isso é tão bom...
 あっ、あっ、ああぁっ！　あそこがっ、変になっちゃうぅっ！=Aah, aah, aah! Estou ficando louco por lá!

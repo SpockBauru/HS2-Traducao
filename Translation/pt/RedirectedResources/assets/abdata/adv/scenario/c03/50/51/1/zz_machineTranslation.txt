@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //享楽{0}=Prazer {0}
 どう、楽しかった？　私は結構盛り上がったよ。=Como foi? Você se divertiu? Eu me diverti muito.
 こういうのだったら、また付き合ってもいいけどね。=Se é algo assim, eu não me importaria de sair com você novamente.

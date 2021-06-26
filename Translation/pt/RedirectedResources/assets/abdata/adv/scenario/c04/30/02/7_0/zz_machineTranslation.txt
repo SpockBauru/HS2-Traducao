@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 へ？　アタシら二人とも用無し？　流石にそれは無くない？=O que é isso? Você não tem utilidade para nenhum de nós? Isso não é pedir muito?
 あーうん。ならまぁいいけど……アンタなんで来たん？=Ah, sim. Bem, tudo bem, mas... Por que você está aqui?

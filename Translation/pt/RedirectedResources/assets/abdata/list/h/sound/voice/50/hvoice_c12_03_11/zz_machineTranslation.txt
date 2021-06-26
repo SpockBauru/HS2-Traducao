@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうした？　いつでも初めていいぜ=O que está acontecendo? Você pode começar a qualquer momento que quiser.
 どうするか考えてるのか？　何したっていいぜ=Você tem alguma idéia do que está fazendo? Não me importa o que você faça.
 んぁっ……これくらいなら、行けそうだ……=Mmm... Isso é o mais longe que posso ir...

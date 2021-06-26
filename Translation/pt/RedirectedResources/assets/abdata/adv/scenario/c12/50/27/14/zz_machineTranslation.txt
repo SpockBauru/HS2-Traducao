@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 分かった。やっぱり俺には……お前が絶対に必要なんだ。絶対にな……=Eu entendo. Eu ainda... Preciso absolutamente de você. Eu absolutamente...
 セックス、お前じゃないとだめかも知れない……いや、お前じゃないとダメなんだ。=Sexo, talvez tenha que ser você... Não, tem que ser você.

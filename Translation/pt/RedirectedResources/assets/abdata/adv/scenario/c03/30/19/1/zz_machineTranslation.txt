@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぅ、恥ずかしい姿を見せちゃったなぁ……ちょっと腰が抜けちゃってね。動けないの。=Ugh, estou tão envergonhada de mostrar isso... Mas estou um pouco presa no cinto. Eu não posso me mover.
 えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=Bem, se você vai nos ajudar ou nos deixar em paz... Você pode, por favor, decidir o mais rápido possível?
 いやー、何で動けないのかって感じだよね？　もし助けてくれたら、たっぷりお礼してあげるよ♪=Oh não, você é como, por que não posso me mudar? Se você me ajudar, eu lhe pagarei de volta em espadas. ♪

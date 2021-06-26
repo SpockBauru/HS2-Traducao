@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ……助けてくれるんですね、さっすがあなたさんですー！=Oh... Você vai me ajudar... É você!
 あと少し遅かったら大変なことになるところでしたっ！　このお礼はまた後日に！　ではーっ！=Um pouco mais tarde e estaríamos em grandes apuros! Agradeço-lhe por isso mais tarde! Tchau!
 ありがとうございますっ、あなたさんのこと……大好きっ！=Muito obrigado, eu te amo... Tanto!

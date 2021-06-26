@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はい、アタシらの勝ち～！二人もいれば、流石に楽勝だよね～♪=Sim, nós ganhamos! Se formos dois, será uma vitória fácil, certo?
 んふ、アンタも結構頑張った方だと思うけど。やっぱ二人相手は分が悪かったみたいだね～♪=Bem, eu acho que você também se saiu muito bem. Mas parece que você teve um mau momento contra nós dois.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 この縄をー、なんとなく触ってたらー、こんなことになっちゃってー、わぁ、本当ですよー！=Eu só estava tocando nesta corda, e depois aconteceu isto... Uau, é verdade!
 あっ……な、なんか突然……お……おトイレな気分に……=De repente sinto que estou indo para o banheiro.
 えっと……言い訳はしませんけどー……そのー……そーいうプレイの練習をですね……しようと思ったらー……うぅ……=Bem, eu não vou dar desculpas, mas... Bem... Quando eu quis praticar esse tipo de jogo... Ugh...

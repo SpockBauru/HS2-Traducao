@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 あなたの意見も聞けてよかったです、ありがとうございます……=É bom ouvir sua opinião também, obrigado...
 今日話したこと……あなたとの関係に活かしたいです……=O que falamos hoje quero aplicar ao meu relacionamento com vocês...

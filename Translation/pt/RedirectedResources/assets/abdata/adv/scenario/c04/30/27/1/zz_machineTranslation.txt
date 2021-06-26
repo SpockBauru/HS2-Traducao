@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 は？　マジで終わりにする気？　アタシ、まだイってないんですけど～！=O quê? Você vai mesmo acabar com isso? Eu ainda não gozei!
 あのさー、自分だけイって終わりとか、流石にどーかと思うよ？=Sabe, não creio que seja correto que você acabe vindo sozinho.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ほう、これがオマエの部屋か。やっぱ匂いが違うな。本人にはよく分かんねぇだろうが。=Ah, então este é o seu quarto. Afinal de contas, o cheiro é diferente. Você provavelmente não sabe o que é, mas...
 オマエの部屋でするんだ。リードは任せたからな？　不甲斐ない姿は見せるなよ？=Nós o faremos em seu quarto. Eu tenho sua pista, certo? Não me faça parecer ingrato, está bem?
 とうとうオマエの巣に連れ込まれちまったか。それで、これからオレはどうなるんだ？　ん？=Finalmente estou sendo trazido para o seu ninho. Então, o que vai acontecer comigo agora? Hmm?

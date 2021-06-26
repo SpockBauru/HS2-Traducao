@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 三人だと、ヤリきった感が凄いな。いい感じの疲労感だ。=Com três de nós, é uma ótima sensação de estarmos fodidos. É um bom tipo de exaustão.
 上手く組み合わせりゃ、三人でずっとできそうだが。流石にそろそろやめとくか。=Se os combinarmos bem, nós três poderemos fazer isso para sempre. Acho que é hora de desistir.

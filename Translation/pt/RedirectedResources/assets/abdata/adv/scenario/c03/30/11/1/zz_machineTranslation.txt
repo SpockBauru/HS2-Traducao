@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふふーん、隙あり！　なんちゃって♪　ねぇ、エッチなことしてあげよっか？=Há uma chance! Ei, você quer que eu faça algo malicioso por você?
 あ、えっと、ほら……お前の便器になりに来たっていうか……じょ、冗談じゃないから……=Estou aqui para ser seu urinol... Não brinca...
 ハァイ♪　トイレだからって、油断大敵だから♪=Ei, só porque você está no banheiro não significa que não possa ter cuidado.

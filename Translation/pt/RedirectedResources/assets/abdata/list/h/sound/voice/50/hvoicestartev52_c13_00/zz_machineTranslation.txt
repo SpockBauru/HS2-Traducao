@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 え……？　冗談ですよね……？=Huh? Você está brincando, certo?
 まだするんですか？　嘘だと、言ってください……=Você ainda faz isso? Por favor, me diga que está mentindo...

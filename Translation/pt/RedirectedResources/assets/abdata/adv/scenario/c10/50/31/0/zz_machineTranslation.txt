@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 す、すみません。大変申し上げにくいのですが……その、少々お手洗いに寄らせて頂いても……よろしいでしょうか？=Sinto muito. Lamento muito dizer isto, mas... Bem, posso parar no banheiro por um momento?
 あ、あの……こんな事を言ったら、引かれてしまうかもしれないのですが……お、お手洗いに、行かせてください……=Oh, um... Eu sei que provavelmente vou ter algum flack por dizer isto, mas... Por favor deixe-me ir ao banheiro...
 ん……少し、催してしまったようです。気分が高まっているからですかね……少々お手洗いが近くて……困りましたね。=Bem... Acho que já tive um pouco. Talvez seja porque estou de bom humor... Estou um pouco perto do banheiro... Isso é um problema.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうしたんですか……？=O que está acontecendo?
 何か問題でも……？=Há algum problema?
 んあぁ……尖った部分が、めりこんで……=Oh, ahhh... A parte pontiaguda está cavando em...

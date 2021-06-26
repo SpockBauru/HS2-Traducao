@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、あのー……わたし、忘れられちゃったんでしょうか？=Oh, um... Eu fui esquecido?
 あなたさんからも何か言ってくれませんか？　放置は辛いですよぉ=Você não pode dizer algo também? É difícil ser deixado sozinho.
 ふぁぁ……わたしのこと、じっくり味わってるみたいですぅ……=É como se ele estivesse demorando a me provar...

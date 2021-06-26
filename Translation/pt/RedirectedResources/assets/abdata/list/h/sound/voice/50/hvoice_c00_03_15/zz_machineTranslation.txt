@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 愉しんでいただけるように、努力致します=Faremos o nosso melhor para que você desfrute!
 悦んでもらえる攻め方を考えるのは、中々楽しいものです=É muito divertido pensar em uma forma de ataque que lhe dará prazer!
 んんっ、んん……いいところに……来ています……=Mmm... Mmm... Bem visto... Vindo...

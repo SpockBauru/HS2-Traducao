@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=... É isso mesmo. Acho que é bom receber favores das pessoas, a menos que você as odeie tanto.
 ――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=-- Eu também costumava ser uma garota crua, por isso tenho experiências amargas de amor. É uma boa memória da qual posso rir agora, no entanto.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 は、はじめまして……この度はご指名頂きありがとうございます。貴方の期待に応えられるよう、努力いたします。=É um prazer conhecê-lo... Obrigado por me escolher. Farei todos os esforços para atender às suas expectativas.
 えぇと、本当に私でいいのですか？　ここには他にも魅力的な方がたくさん……いえ、何でもありません。精一杯頑張らせて頂きます！=Bem, você tem certeza de que sou eu? Há muitas outras pessoas atraentes aqui... Não, não é nada. Farei o meu melhor!

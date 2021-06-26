@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 な、何だよ？　待てって言ってんだろ？=O quê? Eu disse, espere.
 す、すぐ戻るって言っただろ？　どうするつもりだよ。=Eu lhe disse que voltaria logo, não disse? O que você vai fazer?
 なんだよ、行かせない気か？！　ロクな事考えないな、お前。=O quê, você não vai me deixar ir? Você não está pensando direito, está?

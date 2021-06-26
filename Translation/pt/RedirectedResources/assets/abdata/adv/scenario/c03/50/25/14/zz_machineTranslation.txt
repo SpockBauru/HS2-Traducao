@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こんな場所……一体どこから出てきたわけ？=Este lugar... De onde diabos ele veio?
 こんな場所あったんだ……ふぅん、静かでいいじゃん♪=Eu não sabia que este lugar existia... Hmm, é agradável e tranquilo...
 こんな所で何して遊ぶの？　まぁ、わかってるんだけどね♪=O que você está fazendo aqui? Bem, eu sei ♪

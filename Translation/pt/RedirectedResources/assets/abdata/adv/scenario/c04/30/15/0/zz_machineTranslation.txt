@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おーい。いるー？　ちょっと開けてくんなーい？=Ei, aí. Você está aí? Você pode abrir a porta para mim?
 なんだ、居ないのか……マジ無駄足……だる……=O quê, você não está aqui... Você está realmente perdendo seu tempo...

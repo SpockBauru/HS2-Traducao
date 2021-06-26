@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んふ～、放置プレイ中です♪　どう？　焦れてきた？=Mmm-hmm. Vou deixar isso em paz. ♪ Como vai isso? Você está ficando impaciente?
 なんか目が潤んできてない？　なに、泣いちゃうの？=Seus olhos não estão ficando todos úmidos? O quê, você vai chorar?
 //んぁっ、そこ好きっ……んんっ、もっと強くしちゃっていーよ♪=Mmm, eu gosto de lá... Mmm, você pode tornar mais forte ♪

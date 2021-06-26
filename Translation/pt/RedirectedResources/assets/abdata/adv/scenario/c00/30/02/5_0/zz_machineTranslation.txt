@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 勿論、私は喜んでお付き合い致します。=É claro que fico feliz em obrigar.
 三人でというのも愉しめそうですね。=Eu acho que seria divertido para nós três.

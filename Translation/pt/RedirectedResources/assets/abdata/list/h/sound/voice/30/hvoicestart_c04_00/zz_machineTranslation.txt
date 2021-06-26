@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 とりま、最初は優しくね？　そんくらい分かってんしょ？=De qualquer forma, seja simpático no início, certo? Você sabe disso, certo?
 あは、息荒くしちゃって……もう待ち切れないって感じ？=Oh, você está respirando tão forte... Como se não pudesse esperar mais?
 痛いだけとか嫌だかんね？　ちゃんと気持ちよくしてよ？=Não quero que isso só doa, certo? Faça-me sentir bem, está bem?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 これからお風呂ですか？　ちょうど空いたところですよ。=Você está tomando banho agora? Está quase vazio.
 もう少し私が遅く来ていれば、一緒に入れたのですが……残念です。=Se eu tivesse vindo um pouco mais tarde, eu poderia ter me juntado a vocês... Infelizmente.
 ああ、覗きですか。着替えも持たずにお風呂場にいらっしゃるのですから、自白している様なものですよ。=Ah, você quer dizer espreitar. Você está no banheiro sem uma muda de roupa, então é como se estivesse confessando.

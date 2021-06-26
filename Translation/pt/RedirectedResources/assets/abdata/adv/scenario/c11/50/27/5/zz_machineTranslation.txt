@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 申し訳ございません……私には少々荷が重かったのか、ふらふら致します……=Desculpe... Se estou um pouco sobrecarregado, estou cambaleante...
 貴方一人でしたら問題ございませんが、二人となると……少々身体を鍛え直さなければならない様です。=Se for só você, não será um problema, mas se forem dois de vocês... Você terá que treinar um pouco mais o seu corpo.

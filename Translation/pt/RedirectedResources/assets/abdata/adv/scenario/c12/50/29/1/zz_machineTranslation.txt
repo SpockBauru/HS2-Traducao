@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 風呂覗いてたんだな……ある意味、健全っちゃ、健全だな。=Você tem espreitado no banho... De certa forma, é saudável, não é?
 覗きなんかしなくても、言ってくれれば一緒に入ったんだぜ？=Você não precisava espreitar. Você poderia ter me dito e eu teria entrado com você.
 いやぁ、覗かれながら入る風呂も、なかなか悪くなかったぜ。=Bem, não foi tão ruim tomar um banho enquanto estava sendo observado.

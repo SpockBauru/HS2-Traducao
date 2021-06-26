@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 もう終わりでいいのか？　お前がそういうなら別にいいけどさ……=Você tem certeza de que acabou? Se é isso que você quer...
 俺だけいっちゃったみたいだけど……お前はこれで良かったのか？=Parece que eu sou o único que saiu... Mas você está bem com isso?

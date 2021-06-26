@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ん……悪ぃな。まさかオマエを満足させられないとか……我ながら情けない話だ。=Sinto muito. Achei que não seria capaz de satisfazê-lo... É patético da minha parte.
 どうした？　オマエはまだイってないだろう？　オレに気を使って、終わりにしようとしてるのか？=O que está acontecendo? Você ainda não se veio, não é mesmo? Você só está tentando me fazer terminar, não é mesmo?

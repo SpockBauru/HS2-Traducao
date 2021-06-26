@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……失望、されたのですね……この汚名は必ず返上してみせます。=... Você ficou desapontado... Eu vou me livrar deste estigma.
 この展開は予想外です……=Eu não esperava isto...
 ……貴方に少しでも期待をした私が馬鹿でした。=... Fui um tolo por ter qualquer expectativa em relação a você.

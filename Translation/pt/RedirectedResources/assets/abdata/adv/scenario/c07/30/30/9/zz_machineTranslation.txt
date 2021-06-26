@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 もうどうなっても知らねぇぞ？　オマエが招いたことだ……何が起きても、全部受け止めろ。=Não me importa o que acontece agora. Você trouxe isso a si mesmo... Não importa o que aconteça, você tem que aceitar tudo isso.
 はぁ……こうなっちまったら仕方ねぇ。オレも覚悟を決めるが……オマエもそれなりに覚悟しとけよ？=Huh... Não há nada que possa ser feito se chegar a este ponto. Eu estarei preparado, mas... Você também deve estar preparado, certo?
 そうか、オマエはオレと同じ……気持ちよければ何でもいい、変態ってやつだったな。=Bem, você é como eu... Um pervertido que não se importa com nada, desde que se sinta bem.

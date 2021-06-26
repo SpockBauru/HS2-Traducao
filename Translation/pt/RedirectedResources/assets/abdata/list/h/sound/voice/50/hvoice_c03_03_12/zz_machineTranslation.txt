@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 放してってば！　なんなんだよ、これぇ……=Deixe-me ir! Que diabos é isto...
 なんなのコイツ？　私をどうする気ぃ？=Que diabos é isto? O que você está fazendo comigo?
 やめ、て…変な所に、潜り込まないで……=Não... Não... Não... Não entre em meu...

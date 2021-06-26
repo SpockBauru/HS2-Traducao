@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、あの……今のエッチ、私だけ……はうぅ……すみません……=Oh, um... Esse sexo, sou só eu... Haha... Desculpe...
 ほ、本当ならあなたも気持ち良くなれなきゃいけないのに……なんだか申し訳ないです……=Sabe, se for verdade, você deve poder se sentir bem também... Mas eu sinto muito...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 ふぉぉ、とっても大人な場所なのでテンションが上がっちゃいますよー！　大人なわたしはプールには目もくれず、お酒をたくさん飲んじゃいますっ。=Uau, este é um lugar muito adulto e estou tão animado! Como adulto, eu nem sequer olho para a piscina, eu apenas bebo muito álcool.
 あれ？　あなたさんはプールが好きなんですか？　まだまだお子様ですねー。=O que é isso? Você gosta de piscinas, não é mesmo? Você ainda é uma criança!

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 あなたのこと……ずぅっとずぅっと……待ってましたよ……♪=Tenho esperado por você... Por tanto tempo... Por tanto tempo...
 今まではあなたの自由な時間……これからは私とあなただけの自由な時間、です……♪=Tem sido seu tempo livre... E agora é só você e eu, tempo livre...

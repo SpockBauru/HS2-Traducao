@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お手柔らかにお願いいたします……。=Por favor, seja gentil comigo...
 ゆっくりしてくださいますか……？=Você poderia, por favor, desacelerar?
 あのう、あまり無理はなさらないでくださいまし……=Por favor, não seja muito duro consigo mesmo...

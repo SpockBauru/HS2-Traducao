@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 本日は有難うございました、それでは失礼いたします。=Obrigado por seu tempo hoje. Agora, se me derem licença.
 またお話を聞かせてくださいましね、またお会い致しましょう。=Por favor, conte-nos sua história novamente, nós o veremos em breve.

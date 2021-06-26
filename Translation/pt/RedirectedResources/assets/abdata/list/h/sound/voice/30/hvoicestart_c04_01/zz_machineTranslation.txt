@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 さて、どーやって気持ちよくしてくれんの？　期待してるから♪=Agora, como você vai me fazer sentir? Conto com você ♪
 ほら、早くシて？　もうマジ、待ち切れなくてさぁ……=Vamos, apressem-se e façam isso. Mal posso esperar para...
 んふふ♪　じゃ、お手並み拝見ってことで♪=Vamos ver o que você pode fazer ♪

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 ここであなたさんとお会い出来るなんて……やっぱり愛の力は偉大なんですね。=Não acredito que estou encontrando você aqui... O poder do amor é tão grande, afinal de contas.
 ふふっ、こんなところでお会い出来ることこそ、二人が運命で結ばれてる証ですよ。=Hehe, o fato de podermos nos encontrar em um lugar como este é a prova de que nós dois estamos ligados pelo destino.

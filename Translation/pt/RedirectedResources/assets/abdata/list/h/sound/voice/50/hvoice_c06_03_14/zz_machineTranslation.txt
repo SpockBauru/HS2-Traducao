@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 その、なかなかに、恥ずかしい格好ですわね……=Bem, isso é uma roupa muito embaraçosa.
 どのように動けば宜しいでしょうか……=Como posso ajudá-los...
 んん、少々恥ずかしいですが、んあ、これもお勉強ですわね……=Hmm, estou um pouco envergonhado, mas acho que isso faz parte do aprendizado...

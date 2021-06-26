@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……あっ、そ、その、スる前にゲームでもする？　やろうと思えばカラオケもできるし……それからお菓子もあるし……=Você quer jogar um jogo antes de irmos? Podemos fazer karaoke, se quisermos, e temos lanches.
 あ……や……お前の目、真剣だね……うん、シよっか……=Oh... Seus olhos estão tão sérios... Sim, vamos fazer isso...
 ど、どう？　ここが一応……私の部屋なんだけど。=O que você acha? Este é... O meu quarto, caso você estivesse se perguntando.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 待って、今は、無理だから……=Espere, agora, eu não posso...
 だめよ、今は、ちょっと用事があるんだから。=Não, não, não, não, não. Estou no meio de algo neste momento.
 困ったわね……どこに連れて行くつもりなの？=Você está em apuros... Para onde está me levando?

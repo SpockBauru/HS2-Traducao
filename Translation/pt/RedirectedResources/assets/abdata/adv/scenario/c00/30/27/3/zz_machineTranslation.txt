@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 もう少々、手心を加えていただきたく存じます。=Gostaríamos que você acrescentasse mais alguns toques.
 痛みを伴うプレイは状況によって相手の気分を害してしまいます、お気をつけを。=O jogo doloroso pode ofender seu parceiro dependendo da situação, portanto, tenha cuidado.

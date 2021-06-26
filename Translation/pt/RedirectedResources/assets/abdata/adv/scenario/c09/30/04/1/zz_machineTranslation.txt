@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まさかあなたさんがのぞき魔だったなんて！　だったなんてーっ！=Não posso acreditar que você é um túmulo espreitador! Eu não posso acreditar!
 そこまでして見たいって思ってもらえるのは……まぁ、悪い気はしませんけど……えへへ。=O fato de você querer tanto ver... Bem, eu não me sinto mal por isso... Ehehe.
 もぉ、覗きながらムラムラしちゃったんじゃないですかー？　あなたさんって、そーいうとこありますもんね、ふふっ。=Oh, você ficou excitado enquanto espreitava, não foi? Você tem esse tipo de coisa, não tem?

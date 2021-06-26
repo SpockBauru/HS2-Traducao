@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 今日もお手柔らかにお願いしますね……ごめんなさい、まだ少しだけ怖いんです……=Por favor, seja gentil comigo hoje... Desculpe, eu ainda estou um pouco assustado...
 まだ慣れていないので失礼があるかもしれませんが……一生懸命頑張ります……=Ainda não estou acostumado a isso, então posso ser rude... Mas farei o meu melhor...

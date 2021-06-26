@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリB普通{0}=Prelúdio B normal {0}
 私達に何か？=Alguma coisa para nós?
 それで、何か用ですか？=Então, o que posso fazer por você?

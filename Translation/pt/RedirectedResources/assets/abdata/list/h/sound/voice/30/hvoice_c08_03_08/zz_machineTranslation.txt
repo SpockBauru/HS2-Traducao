@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁっ、まだバイブは、んんっ、慣れてない、すね～……はぁっ=Ahh, ainda não estou acostumado com o vibrador...
 んっ、まだ少しだけ、んあっ、い、痛いっす～、はあ、んああっ=Nn, ainda um pouco, nn, ouch, dói~, haaa, nn!
 あ、あ、んあぁ～～っ、痛気持ちいいっす～～=Aah, aah, ahhh, isso é tão bom~!

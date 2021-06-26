@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふふっ、たまにはこういうサプライズもいいと思いませんか？=Phew, você não acha bom ter uma surpresa como esta de vez em quando?
 あぁ……今、あなたの無防備な姿を見られてるんですね……ドキドキしちゃいます……=Ah... Agora eles estão vendo sua forma vulnerável... Isso me deixa nervoso...
 わ、私はご主人様のペットですからっ……どんな時でも一緒にいたいんです。=Wah, eu sou o animal de estimação do Mestre... Quero estar com ele o tempo todo.

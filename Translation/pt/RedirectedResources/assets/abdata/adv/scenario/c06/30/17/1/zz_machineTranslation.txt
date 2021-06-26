@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まあ！　私、今あなたに助けてほしいと願った所でしたの、きっと願いが叶ったのですわ……=Oh! Estava prestes a pedir-lhe que me ajudasse e estou certo de que meu desejo se realizou...
 お手数をおかけいたしますが……はぁ、はぁ、た、助けてくださいませんか……？=Desculpe incomodá-lo, mas... Haha, haha, você pode me ajudar?
 まあ、大変な方に見つかってしまいましたわ……♪　きっと、ただでは助けてもらえないのでしょう……？=Bem, lamento que você tenha tido que descobrir ♪ Tenho certeza que não o ajudarão de graça?

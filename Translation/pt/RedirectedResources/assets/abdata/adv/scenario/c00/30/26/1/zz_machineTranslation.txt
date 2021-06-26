@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 さて、今日もセックスに励みましょうか。=Bem, vamos continuar com o sexo hoje, certo?
 肩肘張らずに行きましょう。気を張っていては、素直に感じられませんから。=Vamos sem ficar nervosos. Se você estiver nervoso, não será capaz de senti-lo honestamente.

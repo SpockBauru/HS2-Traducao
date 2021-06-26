@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 ちょ、直球なんですね……=Espere, você é direto...
 も、もちろんっ……嫌じゃない……ですけど……ちょっと恥ずかしいです……=Claro, não me importo... Mas estou um pouco envergonhado...

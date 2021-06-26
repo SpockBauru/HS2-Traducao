@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話{0}=Conversação {0}
 ……貴方がその様な事を仰るはずがないので、今のは聞き間違いですね。さぁ、存分に私を抱いて下さい。=... Devo ter ouvido mal, porque você nunca diria tal coisa. Agora, abrace-me ao seu gosto.
 ……ああ、正直に「したい」と口にするのが、照れくさいのですね。直ぐに察することが出来ず、申し訳ございません。=... Oh, você tem vergonha de dizer honestamente que quer. Peço desculpas por não poder adivinhar de imediato.

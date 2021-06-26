@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 私たちに何かありましたら、またお声がけください。=Se houver algo que possamos fazer por você, por favor nos ligue novamente.
 では、お暇なときはお話でもしましょう。=Então, quando você estiver livre, vamos conversar.

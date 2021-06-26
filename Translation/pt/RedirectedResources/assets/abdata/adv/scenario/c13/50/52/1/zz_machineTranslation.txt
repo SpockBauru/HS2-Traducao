@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 もう終わりでいんですね……わかりました……=Então acabou agora... Ok...
 汚してしまった箇所は、後で掃除しておきます……=Limparei as áreas manchadas mais tarde...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 誰かの意思を尊重して行動するのって、私に合ってると思いますか……？=Você acha correto que eu aja por respeito aos desejos de outra pessoa?
 その人に自分のすべてをかけて尽くす生き方、ですよね……え？　重くとらえすぎですか……？=É um modo de vida onde você dedica tudo o que tem a essa pessoa... Certo? Estou levando isso muito a sério?

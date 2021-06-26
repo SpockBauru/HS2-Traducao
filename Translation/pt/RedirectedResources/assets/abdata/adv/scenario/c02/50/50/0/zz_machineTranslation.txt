@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 えっと……お酒に酔わせて無理やり……ってわけでは、ないですよね？=Bem... Não é como se você o tivesse embebedado e forçado a fazê-lo, não é?
 ま、まぁ……あなたになら、そういうことされてもいいんですけど……いえ、何でもないです、気にしないでください。=Bem, bem... Está tudo bem se você fizer isso comigo... Não, não é nada, não se preocupe com isso.

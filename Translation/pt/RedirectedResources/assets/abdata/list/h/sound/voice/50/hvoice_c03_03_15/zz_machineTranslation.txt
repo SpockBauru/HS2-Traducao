@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えっと……どうすればいい……？=Bem... O que eu devo fazer?
 いや、変な間作るなって……気まずい、というか、照れるだろ……=Não, não faça uma pausa estranha... É embaraçoso, é embaraçoso...
 はぁ、はぁ、まだ恥ずかしいけど……んん、もう痛くないから……=Huh, huh, ainda é embaraçoso, mas... Mmm, não dói mais, então...

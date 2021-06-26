@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ほら、焦れるだろ？　オマエのその顔が、俺は大好きなんだ。=Vê como sou impaciente? Eu adoro esse olhar em seu rosto.
 情けなくおねだりしてみたらどうだ？　聞くだけ聞いてやるぞ。=Por que você não tenta me implorar por misericórdia? Vou apenas ouvi-lo.
 //くぉっ！　もっと、奥まで……！=Foda-se! Mais fundo...

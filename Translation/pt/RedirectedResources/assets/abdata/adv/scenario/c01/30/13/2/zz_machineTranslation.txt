@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうせ起きるなら、気持ちいい方が良かったでしょ？=Se você fosse se levantar, você poderia muito bem ter se sentido bem, certo?
 朝からお互いに気持ち良くなれたわね、うふふ。=Fizemos um ao outro se sentir tão bem pela manhã.

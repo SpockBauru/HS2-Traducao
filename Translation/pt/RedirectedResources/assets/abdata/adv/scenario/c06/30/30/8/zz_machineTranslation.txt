@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 え、あの、おトイレが……ああ、待ってくださいまし……！=Tenho que ir ao banheiro...
 い、急いでいるだなんて、さっきは一度も……そんな、あの、お願いですから……！=Eu nunca disse que estava com pressa antes... Isso é um pedido!
 あら、私を辱めるおつもりですか……？　エッチな方……うふふ……♪=Oh, você está tentando me humilhar? Seu safado... Hihihi ♪

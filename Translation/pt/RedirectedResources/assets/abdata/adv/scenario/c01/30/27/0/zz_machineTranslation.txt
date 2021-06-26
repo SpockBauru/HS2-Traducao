@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 どうだった、私とのエッチは？　私はすごく気持ちよかったわ。=Como foi? Como foi o sexo comigo? Eu me senti muito bem.
 すごく感じちゃったわ。とってもいい時間だったわね。=Foi uma sensação tão boa. Foi um momento muito bom, não foi?

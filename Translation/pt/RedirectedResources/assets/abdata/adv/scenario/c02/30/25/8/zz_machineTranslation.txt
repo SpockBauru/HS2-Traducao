@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私を酔わせてどうする気ですか？　……結局、酔わなくてもするんでしょう？=O que você vai fazer, me deixar bêbado? Afinal, você o faria mesmo que não estivesse bêbado, certo?
 ほろ酔い気分でなし崩しに……まぁ、合意であれば何でもいいですよね？=Eu estava bêbado e quebrado... Bem, tudo é possível desde que seja consensual, certo?
 お酒よりも酔わせてあげますよ、私の身体で……=Vou deixá-lo mais bêbado que o álcool, com o meu corpo.

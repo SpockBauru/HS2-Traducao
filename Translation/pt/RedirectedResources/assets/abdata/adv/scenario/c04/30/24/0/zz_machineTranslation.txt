@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ふーん、アンタがアタシの相手ってわけね。うーん……ナシよりのアリかなぁ。=Então, você é meu parceiro. Hmmm... Prefiro ter você do que não.
 ま、お互い気持ちよくなれればいーわけだし？　とりまよろ♪=Bem, desde que ambos nos sintamos bem, certo? De qualquer forma, por favor...

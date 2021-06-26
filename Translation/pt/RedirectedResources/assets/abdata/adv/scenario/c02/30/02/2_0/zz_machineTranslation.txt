@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 ちょっとここの施設の在り方について、ですかね。=Eu gostaria de falar sobre o estado das instalações aqui.
 他愛のない話です。前からと後ろから、どちらが好きなのか、と。=É uma história altruísta. Eu estava me perguntando de qual você gosta mais, de frente ou de trás.

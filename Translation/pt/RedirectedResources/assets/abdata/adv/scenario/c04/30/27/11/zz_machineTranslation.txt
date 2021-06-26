@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 アンタともけっこーヤったよね？　流石にアタシも、慣れてきたかな～♪=Tive muito sexo com você, não tive? Acho que já estou me acostumando...
 やっぱ慣れって大事だよね～。最近さ、どんどん感度上がってる気がする♪=É importante se acostumar às coisas, não é? Ultimamente, sinto que estou ficando cada vez mais sensível.

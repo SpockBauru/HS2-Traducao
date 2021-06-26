@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 エッチするの？　私は別にいいけど。=Você vai fazer sexo? Estou bem com isso.
 いいわよ、あなたのお誘いですもの。=Está bem, você me convidou.

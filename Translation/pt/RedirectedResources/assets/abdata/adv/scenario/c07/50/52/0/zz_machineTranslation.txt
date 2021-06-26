@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 クソが……周りに人がいたらオレが抵抗しないとか思ってんだろ？=Você acha que eu não vou lutar se houver pessoas por perto, não acha?
 まぁ実際、他のヤツらに迷惑はかけたくないからな……少しの間はじっとしててやる。=Bem, na verdade, eu não quero incomodar os outros caras... Então eu vou ficar sentado por um tempo.

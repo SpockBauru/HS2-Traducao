@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 うふふ、本日もお元気そうで何よりでございます。=Ummm... Estou feliz de ver que você está indo bem hoje.
 精巣の調子はいかがでしょうか？=Como estão seus testículos?

@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ロビーでは、現在設定されておりますグループ内のパートナーを呼び出し、お好きな場所へ赴き、行為へと及ぶ事が出来ます。=Na recepção, você pode ligar para os parceiros do grupo atualmente definido, ir para o seu lugar escolhido e iniciar o ato.
 場所についてこちらも本サポート中に限り、予めご用意した場所を使用して頂きます。=Sobre o local, por favor, use o local preparado com antecedência apenas durante este suporte.

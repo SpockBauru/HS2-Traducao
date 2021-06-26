@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 私……上手くできていたでしょうか？　なんだかもうドキドキし過ぎて、よく分からなくて。よろしければその……またお相手お願いします。=Será que eu... Eu me saí bem? Estou tão nervoso que não sei o que está acontecendo. Se você não se importa, gostaria de tê-lo como parceiro novamente.
 あの……お恥ずかしい姿を色々見せたかと思いますが……初対面ということで、どうか許してください。=Um... Tenho certeza de que já lhe mostrei todo tipo de coisas embaraçosas, mas... Como nunca nos encontramos antes, por favor, me perdoe.

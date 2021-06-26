@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 た、たくさん出して頂けのは嬉しいのですが……私、ベトベトにされてしまいましたね。ぁはは……嫌ではありませんが、凄いなぁと……=Estou feliz que você esteja me dando tanto, mas... Você me deixou todo pegajoso. Não é que eu não goste, mas é incrível...
 これは、その……喜ぶべきですよね……これだけ出して頂けたということは、私が上手く出来た証拠ですから……=Isto é... Bem... Você deve estar satisfeito... O fato de ter me dado tanto é a prova de que eu me saí bem...

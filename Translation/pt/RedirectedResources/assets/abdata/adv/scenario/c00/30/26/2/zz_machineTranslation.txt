@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 今日は何回絶頂することを目標にしましょうか？=Quantas vezes devemos visar o clímax hoje?
 さぁ、性に爛れた一日を共に過ごしましょう。=Vamos passar juntos um dia sexualmente carregado.

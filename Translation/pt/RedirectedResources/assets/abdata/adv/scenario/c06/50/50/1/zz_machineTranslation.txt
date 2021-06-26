@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 とても素晴らしい時間でした……あなたがいてくれたおかげですわね。=Foi um momento tão maravilhoso... E tudo graças a você.
 また、誘っていただきたいですわ。=Espero que você me convide de volta.

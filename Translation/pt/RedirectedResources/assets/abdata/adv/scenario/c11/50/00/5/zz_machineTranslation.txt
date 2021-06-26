@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 へ？　それは誠のお話なのですか？　驚きです……=Heh? Isso é uma história sincera? Estou surpreso...
 ……人それぞれですね。私にはない発想でした。=... Para cada um, eu acho. Não era uma idéia que eu tivesse.

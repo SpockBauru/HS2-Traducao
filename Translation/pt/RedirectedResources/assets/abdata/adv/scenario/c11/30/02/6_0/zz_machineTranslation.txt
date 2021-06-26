@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 破廉恥な行為でしたが、喜んで頂けたのなら幸いです。=Foi um ato vergonhoso, mas estou feliz que você tenha ficado satisfeito com isso.
 背徳的だからこそ、興奮してしまったのでしょうね……=É imoral, e acho que foi por isso que fiquei tão excitado...

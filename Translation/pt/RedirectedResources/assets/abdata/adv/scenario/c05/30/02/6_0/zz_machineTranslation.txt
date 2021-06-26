@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 え、えっと……気持ち良かった……ですか？=Bem, um... Foi bom?
 さ、誘ってくれて……ありがとうございました。=Bem, obrigado... Por me ter convidado.

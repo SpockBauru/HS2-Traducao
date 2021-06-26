@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 あ……あなたの考えていること……分かりました……あの触手に……犯されてくればいいんですね？=Oh... O que você está pensando... Ok... Esse tentáculo... Deveria me foder, não é mesmo?
 あなたの為なら、全然怖くないですよ……むしろ……あなたが悦んでくれると思うと、嬉しくなってきます……=Para você, não tenho medo nenhum... Na verdade... A idéia de você me agradar me faz feliz...

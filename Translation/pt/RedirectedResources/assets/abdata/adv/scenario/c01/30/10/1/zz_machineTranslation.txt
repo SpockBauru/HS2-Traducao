@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ねぇ、驚いた？　たまにはこういうのもいいでしょ。=Você está surpreso? É bom ter algo assim de vez em quando.
 溜まってるんでしょ？　私が一緒に全部出し切ってあげるわ。=Eu sei que você tem muito em que pensar. Vou tirar tudo isso com você.
 あなたと密室に入りたくて、一緒についてきちゃったわ、うふふ。=Eu queria estar em uma sala secreta com você, então eu o segui. Hihihi.

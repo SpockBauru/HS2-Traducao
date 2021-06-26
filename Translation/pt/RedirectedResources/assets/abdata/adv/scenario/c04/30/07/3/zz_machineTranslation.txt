@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えぇっ！？　うっそ……夜這いってやつ？　アンタ、度胸あり過ぎでしょ……=Ohhh! Oh, não. Um rastejamento noturno? Você tem um pouco de coragem.
 あーあー、ヤられちゃった♪　なーんか気持ちーなーと思ってたんだよねぇ。=Aaaaah, eu fui fodido ♪ Eu estava pensando como isso é bom ♪
 あはっ、やるじゃん♪　まさかアンタに、これほど勇気があるとはね～。少し見直したわ～♪=Não achei que você tivesse coragem de fazer isso. Estou impressionado...

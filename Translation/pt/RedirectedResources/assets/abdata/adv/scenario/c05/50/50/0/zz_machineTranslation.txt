@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 え、えっと……本当に、誘う相手は私で良かったんですか？　すごく、場違いな気がします……=Bem, hum... Você tem certeza de que quer me convidar para sair? Eu me sinto tão deslocado...
 あなたの気持ちは、嬉しいんですけど……緊張しすぎて、お酒の味、よく分からなかったです……=Ainda bem que você se sente assim... Mas eu estava tão nervoso que não conseguia sentir o gosto do álcool...

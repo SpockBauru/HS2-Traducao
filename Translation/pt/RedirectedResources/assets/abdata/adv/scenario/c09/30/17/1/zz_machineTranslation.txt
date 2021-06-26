@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、あなたさんっ、ちょうどいいところにっ！　色々あって、今こんな感じになっちゃって……もしよろしければお助けをー！=Oh, você, você está no lugar certo! Já passei por muita coisa, e agora estou assim... Se você pudesse me ajudar!
 あっ……な、なんか突然……お……おトイレな気分に……=De repente sinto que estou indo para o banheiro.
 ほら、この穴、なんか気になるじゃないですかー？　なんだろーなーと思ってたら、こー、すぽっといっちゃって！=Veja, este buraco está incomodando você, não está? Eu estava me perguntando o que era, e então, aqui, simplesmente caiu!

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えっとぉ……何で放置されてるんでしょう？=Bem... Por que está abandonado?
 なにもされないのは、流石に不気味ですよぉ……=É um pouco assustador que eles não façam nada...
 あっ、はぁん……中ぁ、広がっちゃいそうですぅ……=Oh, não... Vai se espalhar por dentro...

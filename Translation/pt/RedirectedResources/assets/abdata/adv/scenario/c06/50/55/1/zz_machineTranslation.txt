@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 新婚初夜って、やはり素晴らしいものでしたね……=A primeira noite de lua-de-mel deles ainda foi uma coisa maravilhosa.
 これで私は身も心も、完全にあなたのものになりましたわ。=Agora eu sou completamente seu, de corpo e alma.

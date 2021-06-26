@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=Pronto, aí está você. Eu só queria ver você. Sem ressentimentos, certo?
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 よう、また来てやったぞ。嬉しいだろ？=Ei, estou aqui novamente. Você não está feliz em me ver?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 それじゃまた、次の機会にー！=Nos vemos na próxima vez!
 またお話してくださいねー！=Espero que você fale comigo novamente!

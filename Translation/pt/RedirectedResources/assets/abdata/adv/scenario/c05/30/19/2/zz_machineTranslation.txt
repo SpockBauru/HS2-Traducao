@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えっ、本当に助けてくれるんですか？=O quê, você realmente vai me ajudar?
 え、えっと……お手洗いギリギリだったから……本当に助かりましたっ……では失礼しますっ。=Bem, eu estava prestes a usar o banheiro, então eu realmente aprecio sua ajuda.
 あ、ありがとうございます……出会えたのがあなたで良かったですっ……=Oh, obrigado... Estou tão feliz por tê-lo conhecido...

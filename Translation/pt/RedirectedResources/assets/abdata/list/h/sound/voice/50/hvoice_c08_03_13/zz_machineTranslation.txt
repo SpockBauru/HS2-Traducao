@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私、このまま放置されちゃうんすか？=Vou ser deixado assim?
 絡みついただけで…何にもしないんすか？=Apenas emaranhado... E não fazendo nada a respeito?
 やばいっす…すっごいヌルヌルしてるっす=Oh não... É tão escorregadio.

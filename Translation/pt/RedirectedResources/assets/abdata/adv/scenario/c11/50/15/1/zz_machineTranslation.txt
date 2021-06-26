@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 貴方のことが恋しくなりまして……突然訪ねてしまい、申し訳ございません。=Senti sua falta... E sinto muito pela visita repentina.
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 少しの間だけ、貴方の傍にいても宜しいでしょうか？=Posso ficar com você por um tempo?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ここが私がお借りしているお部屋ですわ。そんな場所であなたとひとつになると思うと……お顔が熱くなってくるのを感じます……=Este é o quarto que estou alugando. Quando penso em estar unido a você em tal lugar posso sentir meu rosto esquentando...
 ようこそおいでくださいました、どうぞご自分のお部屋だと思ってくつろいでくださいましね。=Bem-vindo a bordo, e por favor sinta-se em casa.
 ちょうど私の好きな茶葉が届いた所でしたの、準備いたしますので少々……=Minhas folhas de chá favoritas acabam de chegar, por isso as terei prontas para você em um momento...

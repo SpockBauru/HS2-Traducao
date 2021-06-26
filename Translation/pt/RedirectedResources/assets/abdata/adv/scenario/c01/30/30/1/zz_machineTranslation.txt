@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 トイレを覗くなんて、何考えてるの、まったく。=Em que você estava pensando, espreitando no banheiro, de jeito nenhum?
 もう、トイレを覗かれてたなんて、すごく恥ずかしいわ。=Já estou tão envergonhada que alguém me espiou no banheiro.
 覗くくらいなら、声をかけてくれればいいのに。=Por que você não me disse algo em vez de espreitar?

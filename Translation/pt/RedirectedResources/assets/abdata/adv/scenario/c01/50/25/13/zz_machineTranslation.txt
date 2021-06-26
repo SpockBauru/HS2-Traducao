@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 何なのこれ？！　何か動いてるわよ。=Que diabos é isso? Algo está se movendo.
 そのうねうねしてる物って、一体なんなの？=Que diabos é essa coisa de perspicácia?
 なんだか、すごいものがいるんだけど……それって本物なの？=Há algo incrível lá dentro... Mas será real?

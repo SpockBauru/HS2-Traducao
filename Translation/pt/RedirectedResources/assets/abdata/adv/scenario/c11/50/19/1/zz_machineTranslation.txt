@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お、お恥ずかしい限りなのですが、腰を抜かしてしまいまして……=Estou tão envergonhado. Estou tão envergonhado. Estou tão envergonhado.
 んんっ……す、すみませんっ。事情は明かせないのですが……助けていただけないでしょうか？=Mmm... Sinto muito. Não posso contar o que aconteceu, mas... Você pode me ajudar?
 疲れが溜まっていた所為か、ご覧の有様で……もし、貴方になにかをされても、抵抗することが出来ません。=Eu estava tão cansado que nem consegui resistir se você tentasse fazer algo comigo.

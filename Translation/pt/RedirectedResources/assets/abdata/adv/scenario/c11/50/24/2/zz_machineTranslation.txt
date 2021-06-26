@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 貴方のお相手を務めることが出来たでしょうか？　ご不満がございましたら、次の機会までに改善致しますので、お申しつけください。=Espero ter podido servi-lo bem. Se você tiver alguma reclamação, por favor nos avise para que possamos melhorar antes da próxima vez.
 お疲れ様です。体力を消費する行為ですから、しっかりお体を休めて下さいね。=Obrigado por seu trabalho árduo. É uma atividade que consome muita energia física, portanto, por favor, certifique-se de descansar um pouco.

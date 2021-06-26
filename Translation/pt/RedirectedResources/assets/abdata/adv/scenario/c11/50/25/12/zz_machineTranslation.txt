@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まるで本物の電車の様ですね。ここで致すとなると、少し妙な気分になってしまいそうです……=É como um trem de verdade. Sentir-me-ia um pouco estranho se o encontrasse aqui...
 杞憂かもしれませんが……電車に乗った際に、本日のことを思い出して疼いてしまいそうで心配です……=Meus medos podem ser infundados... Mas temo que estarei formigando com memórias de hoje, quando entrar no trem...
 まさか、本物なのですか？　需要があるからこそ、作られたものかと思いますが……世の中には変わった方がいらっしゃるのですね。=De jeito nenhum, isso é real? Eu acho que foi feito porque há uma demanda por ele, mas... Há algumas pessoas estranhas no mundo, não há?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 チッ、なんて時に入ってきやがる……オマエ、絶対覗いてたな？　分かってて入ってきただろう？=Droga, que hora de entrar... Você estava definitivamente espreitando, não estava? Você sabia que eu estava entrando, não sabia?
 オマエ……どこから見てた？　偶然入ってきたってことはないよな？　正直に言ってみろ。=Você... De onde você estava assistindo? Você não entrou aqui por acaso, não é mesmo? Seja honesto comigo.
 あ？　最悪なタイミングで入ってきやがったな……いや、これは逆に最高なのか？　こういうことは、二人の方が捗るからな。=Oh? Você chegou na pior hora possível... Ou isto é o oposto do melhor? Porque estas coisas progridem melhor quando há dois de nós.

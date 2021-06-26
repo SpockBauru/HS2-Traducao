@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたのペースでやればいいんじゃないでしょうか。=Você pode fazer isso em seu próprio ritmo.
 迷っているなら、相談してくれてもいいんですよ。=Se você não tem certeza do que fazer, pode falar comigo sobre isso.
 焦らした方が長く楽しめるようになると聞いたもので……=Ouvi dizer que quanto mais você se apressar, mais tempo você poderá desfrutar...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 すみません、お待たせしました。=Desculpem, desculpem por fazê-los esperar.
 ごめんなさい、もう大丈夫です。=Desculpe. Agora está tudo bem.
 何やら視線を感じた気がしますが……気の所為ですかね？=Acho que senti algo olhando para mim, mas... Foi apenas minha imaginação?

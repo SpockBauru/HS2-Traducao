@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 よし、間に合ったか……最悪だけは回避できたな……=Ok, você conseguiu... Você simplesmente evitou o pior...
 ふーんふふーん♪　ふふーふふーん♪=Mmm-hmmm ♪ Mmm-hmmm ♪
 はぁ……疲れが取れるな……=Huh... Isso tira a vantagem...

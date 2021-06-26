@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、あはは……ちょっとこれ、恥ずかしくない……？=Ah, haha... Isto não é um pouco embaraçoso?
 ま、まだ慣れてないんだから、その……優しくしてよ……？=Bem, ainda estou gozando, então, você sabe... Seja gentil?
 バカ、エッチにも限度ってものがあるだろ、バカ……！=Há um limite para o sexo que você pode ter, seu idiota.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ああ、ただでさえ恥ずかしいのに、でも、３人でするってそういうことだもんね……=Sim, sei que é embaraçoso apenas fazê-lo, mas é o que três pessoas fazem...
 あー顔熱い……気持ちよかったけど、この子の前であそこまですることないじゃん……=Oh, seu rosto está quente... Soube bem, mas você não precisa ir tão longe na frente dessa garota...

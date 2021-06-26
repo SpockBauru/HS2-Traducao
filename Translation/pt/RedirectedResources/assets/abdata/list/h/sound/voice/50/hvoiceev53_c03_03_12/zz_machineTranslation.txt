@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ？　何？　何にもしないわけ？=O que é isso? O quê? Você não vai fazer nada?
 ねぇ、絡みついてるだけでお仕舞なの？=Ei, você já acabou com o emaranhado?
 なんだか…ヌルヌルして、中、気持ちいいかも…=É meio... Escorregadio, e é bom por dentro...

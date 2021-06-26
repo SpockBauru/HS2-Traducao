@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 色々なところを犯されて、頭が馬鹿になってしまいそうでした。=Eu ia ser fodido em tantos lugares que ia perder a cabeça.
 人が増えた分、快感も増してましたね。さらに人数が増えたら……どうなってしまうのでしょう？=Quanto mais gente havia, mais prazer havia. Se houver ainda mais pessoas... O que acontecerá?

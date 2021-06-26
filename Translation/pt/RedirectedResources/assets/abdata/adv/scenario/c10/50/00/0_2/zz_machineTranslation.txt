@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 貴方もお風呂ですか？　清潔感は大事ですからね。常に気を付けたいものです。=Você também está tomando banho? A limpeza é importante, não é? Quero ser sempre cuidadoso.
 お散歩するのもいいですが、理由もなくここにいると……ふふ、覗きを疑われてしまいますよ？=Você pode dar um passeio, mas se você estiver aqui sem motivo... Hehe... Você será suspeito de espiar, não é mesmo?

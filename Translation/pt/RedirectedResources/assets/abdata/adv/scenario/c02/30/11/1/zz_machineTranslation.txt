@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふふっ、この状況なら逃げられませんよね……？=Hehe, você não pode fugir nesta situação... Certo?
 その、今なら無防備な姿でいるはずだと思ったので……=Achei que estaria muito vulnerável neste momento, então...
 何してるんですか？　ちゃんと私という便器に注いでください……=O que você está fazendo? Por favor, despeje-a na bacia do vaso sanitário que sou eu...

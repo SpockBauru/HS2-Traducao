@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ……？　私は何を……？　どうも記憶が曖昧です……=Mas o que? O que eu? Minha memória está um pouco enevoada.
 貴方……？　何かとても破廉恥な夢を見ていた気がしたのですが、気のせいでしょうか……？=Você? Eu sentia que estava tendo um sonho muito vergonhoso... Ou era a minha imaginação?
 不思議な心地でした……貴方も一度味わってみたらいかがでしょう？=Foi uma sensação estranha... Por que você não experimenta?

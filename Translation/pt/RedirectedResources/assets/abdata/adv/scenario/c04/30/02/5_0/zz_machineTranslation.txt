@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 あはは……やっぱそーなる？　アタシは別にいーけど♪=É isso que você pensa? Eu não me importo...
 うわ、三人で？　アンタも大胆だねぇ……♪=Uau, vocês os três? Você é tão ousado ♪

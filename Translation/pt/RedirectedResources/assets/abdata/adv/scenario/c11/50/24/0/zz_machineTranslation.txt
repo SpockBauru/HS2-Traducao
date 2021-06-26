@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 初めまして。何かと至らない点があるかと思いますが、ご容赦頂けますと幸いです。=Prazer em conhecê-lo. Espero que você me perdoe por quaisquer inadequações que eu possa ter.
 初対面の殿方と破廉恥な事をする……あ、改めて言葉にすると些か恥ずかしいですね。=Vou fazer algo vergonhoso com um cavalheiro que nunca conheci... Ah, é um pouco embaraçoso colocá-lo novamente em palavras.

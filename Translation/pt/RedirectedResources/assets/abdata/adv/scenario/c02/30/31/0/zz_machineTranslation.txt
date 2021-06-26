@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ……すみません、先にトイレを済ませておきたいので……=Uh... Com licença, preciso usar primeiro o banheiro, então...
 あの……少しだけ、お時間もらっていいですか……？=Um... Posso ter um momento do seu tempo?
 ちょっとトイレに行ってきますね、待っててください。=Vou para o banheiro. Espere por mim, por favor.

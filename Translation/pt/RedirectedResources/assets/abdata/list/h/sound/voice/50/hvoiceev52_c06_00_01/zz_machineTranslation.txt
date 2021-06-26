@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お待ちを…そんな所、触らないで下さいまし…=Por favor, não me toque dessa maneira...
 ダメですわ…こんな所で、そんな…=Você não pode... Você não pode simplesmente...
 だめです…変な所を…触らないで下さいまし=Não... Não... Me toque de nenhuma... Maneira estranha.

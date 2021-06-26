@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、当たり前だけど……やっぱりこっ恥ずかしいね……あ、あはは……=Oh, claro... Mas ainda é embaraçoso... Haha...
 ほら、終わったら帰る！　エッチの基本……かどうか知らないけど、め、目見れないから……！=Vamos, voltarei quando você terminar. Não sei se esta é uma regra básica do sexo, mas não posso te olhar nos olhos, então...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 こんなに射精してくれて嬉しいです……気持ちよかったんですね……=Estou feliz que você ejaculou tanto... Soube tão bem...
 量もそうですけど、においがすごいです……でも、嫌いじゃないですよ……=O cheiro é incrível, assim como a quantidade... Mas eu não odeio...

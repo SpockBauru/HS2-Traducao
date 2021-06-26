@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 うぅ、アンタら……寄ってたかって出し過ぎ……ほんと、群れるとすぐ調子に乗り過ぎるんだから……=Ugh, vocês... Vocês estão por toda parte... Vocês realmente se deixam levar quando estão em grupo...
 んぅ……精液も二人分だから、すっごい匂い。こんなん嗅がされたら、なんか頭おかしくなりそう……=Há sêmen suficiente para nós dois, então o cheiro é incrível. Acho que vou enlouquecer se tiver que cheirar isto...

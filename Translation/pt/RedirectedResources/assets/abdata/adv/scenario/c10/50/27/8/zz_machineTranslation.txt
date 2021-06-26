@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 え？　終わりですか？　いえ、無理してする事でもないのですが……何かその、私がいけない事をしてしまったのかなと。=O quê? Você está pronto? Não, não é algo que eu vá me forçar a fazer, mas... Bem, não tenho certeza se fiz algo que não deveria ter feito.
 まぁ……こういう日もありますよね。気が乗らなかったり、体調が優れなかったり。ふふ、私は気にしていませんから。=Bem... Há dias como este, não há? Você não sente vontade ou não está se sentindo bem. Hehe, eu não me importo.

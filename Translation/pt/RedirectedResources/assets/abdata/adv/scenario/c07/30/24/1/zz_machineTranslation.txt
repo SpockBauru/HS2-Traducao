@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ん？　女同士か……オマエ、面白い趣味してるな。この場合は、オレが攻めか？　まあ、その辺りはヤればすぐ分かるだろ。=Hmm? De mulher para mulher... Você tem um gosto interessante. Eu sou o agressor neste caso? Bem, você vai descobrir em breve.
 おっと、まさか女同士とは、恐れ入ったな。安心しろ。別に悪い気はしてねえさ。オマエの趣味を否定するつもりもない。=Whoa, eu não esperava que vocês fossem mulheres. Não se preocupe. Eu não me sinto mal com isso. Não vou negar seu gosto.

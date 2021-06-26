@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 その息遣いに、私も昂ります=A maneira como você respira, me deixa excitada.
 まだまだ未熟物ですが、よろしくお願い致します=Ainda sou uma novata, mas estou ansioso para trabalhar com você!
 ……本当にこの様なプレイをするのですか？=... Você realmente joga assim?

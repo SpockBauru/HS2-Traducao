@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どう攻めていただけるのか、楽しみです=Estou ansioso para ver como vocês o atacam!
 下半身の怒張に、私も期待で胸が膨らみます=A fúria na metade inferior do meu corpo faz meu coração inchar com antecipação também!
 私の肢体、お召し上がりください=Meus membros, por favor, comam-nos.

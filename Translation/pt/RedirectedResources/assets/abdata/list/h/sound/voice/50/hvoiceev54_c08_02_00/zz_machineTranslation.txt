@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 う……おま、んこ……=Oh... Meu... Meu... Boceta.
 は……入っ、て……=Estou... Em, uh...
 あ……うぁ……=Uh... Uh...

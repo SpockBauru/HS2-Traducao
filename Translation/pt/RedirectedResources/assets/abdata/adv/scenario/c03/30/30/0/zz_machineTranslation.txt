@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あーちょっと……お手洗いに、行ってきてもいい？=Uh, posso... Ir ao banheiro, por favor?
 ごめん。雰囲気ぶち壊しなんだけどさ……おトイレ……行ってくるね……！=Desculpe. Eu sei que estou arruinando o clima, mas vou ao banheiro.
 おっと、ちょっとムズムズしてきちゃったかな。ふふ、おトイレって意味ね、エッチな事じゃないよ？=Oops, eu acho que estou ficando um pouco mole. Huh, eu quis dizer o banheiro, não a coisa do sexo, está bem?

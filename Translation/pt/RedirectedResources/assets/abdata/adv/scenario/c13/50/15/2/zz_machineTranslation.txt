@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うふふ、１００年後もこうして愛し合いたいです……そのあともずっと仲良しで、お似合いのふたりって言われて……=Quero que ainda façamos amor assim daqui a 100 anos... E depois disso, seremos sempre bons amigos, e as pessoas dirão que somos o par perfeito...
 //汎用{0}=Objetivo Geral {0}
 好きな人のお部屋に来たら、いつの間にかエッチしてたって……素敵ですよね、うふふ……=Quando você chega ao quarto da pessoa que ama e antes que você perceba, você está fazendo sexo... Não é maravilhoso?

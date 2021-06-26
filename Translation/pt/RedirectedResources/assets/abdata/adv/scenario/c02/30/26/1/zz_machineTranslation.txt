@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まったく、私なんかを求めるなんて……物好きな方ですね。=Você é um homem muito curioso... Em me querer.
 私とあなたはただのセフレだという事、忘れないで下さいね？=Não se esqueça que você e eu somos apenas amigos, certo?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まさか…こんな所で、入れてしまうなんて…=Eu não pensei... Que alguma vez o deixaria entrar aqui.
 ダメですわ…抜いて、下さいませ=Não, você não pode... Você tem que tirá-lo.
 こんな所で、こんな事、しないで下さいませ…=Por favor, não faça isso comigo, num lugar como este...

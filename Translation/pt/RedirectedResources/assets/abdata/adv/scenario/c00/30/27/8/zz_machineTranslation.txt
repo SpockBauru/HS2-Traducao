@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……気分が変わったのですか？=... Você mudou de idéia?
 何の為に始めたのか……理解に苦しみますね。=Não sei por que você começou isto... É difícil de entender.

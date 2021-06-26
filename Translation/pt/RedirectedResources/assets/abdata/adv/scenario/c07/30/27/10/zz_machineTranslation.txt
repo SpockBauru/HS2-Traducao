@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まったく、なんて量をかけやがる。しばらく匂いがこびりつきそうだ。=Ohhh, quanto eles derramaram? O cheiro vai ficar comigo por um tempo.
 オマエ、いくらなんでも出し過ぎだろう？　しかもこんなにかけやがって、オレを真っ白にしたかったのか？=Você está colocando muita coisa para fora, não está? Você realmente queria que eu ficasse branco?

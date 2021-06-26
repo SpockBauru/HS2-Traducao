@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 は、恥ずかしながら、不浄の門が快楽を求めていまして……可愛がって頂けないでしょうか……？=Ha, tenho vergonha de admitir, mas o Portal da Impureza está em busca de prazer... Você pode por favor adorá-lo?
 お尻で感じることは普通ではないのですよね？　あぁ……もう祖母に顔向けできません……=Não é normal sentir as coisas no meu traseiro, não é? Oh, não consigo encarar minha avó...

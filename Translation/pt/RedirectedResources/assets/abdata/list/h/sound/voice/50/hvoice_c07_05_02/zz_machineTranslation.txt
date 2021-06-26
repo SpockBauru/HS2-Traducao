@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
 少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
 ろうら？　こぇくぁいらら、さすがりいらくはらいらろ……？（どうだ？　これくらいなら、流石に痛くはないだろ？）=(O que você acha? Isso não vai machucar as pedras, certo?

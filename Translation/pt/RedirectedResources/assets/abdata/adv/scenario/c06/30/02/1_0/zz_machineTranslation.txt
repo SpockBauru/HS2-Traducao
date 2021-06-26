@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリA普通{0}=Prelúdio A Normal {0}
 ええ、わかりますわ……あら、ご機嫌よう。=Sim, posso ver que... Oh, bom dia para você.
 とても興味深いお話ですわね……まあ、こんにちは。=Essa é uma história muito interessante... Bem, olá.

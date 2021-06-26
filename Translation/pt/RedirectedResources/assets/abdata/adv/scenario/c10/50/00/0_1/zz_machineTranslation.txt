@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用普通{0}=Objetivo Geral Normal {0}
 こんにちは。今日のお相手は、もう決まっているのですか？=Olá. Você já decidiu com quem vai se encontrar hoje?
 どうも。今はお一人ですか？=Hi. Você está sozinho agora?

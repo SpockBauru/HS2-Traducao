@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ふぅ……まぁ、イけてよかったんじゃないですか？=Hmm... Bem, você não está feliz por ter vindo?
 とりあえず、お疲れさまでした。=De qualquer forma, obrigado pelo seu tempo.

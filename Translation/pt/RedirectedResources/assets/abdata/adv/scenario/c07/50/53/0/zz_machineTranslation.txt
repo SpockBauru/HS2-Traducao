@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 おいおい、こんな気持ち悪いやつとヤれって言うのか？=Oh, vamos lá. Você quer que eu foda esse cara assustador?
 流石にオレでも引くレベルだぞ……普通の女なら悲鳴あげてるだろうな。=É um nível que até eu acharia perturbador... Uma mulher normal estaria gritando.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようB普通{0}=Vamos sexo B normal {0}
 ったく、ここで断ったら、オレだけビビッてるみてぇじゃねぇか。=Bem, se eu recusar neste ponto, parece que sou o único que está assustado.
 仕方ねぇな、オレも付き合ってやるよ。=Não posso evitá-lo. Irei com você.

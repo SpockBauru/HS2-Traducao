@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 あぁ……どうして時を止められないんでしょう……=Oh... Por que não posso parar o tempo...
 この幸せな感情を頂いたまま、一生過ごしていたいです……=Quero passar o resto da minha vida com este sentimento de felicidade que tenho.

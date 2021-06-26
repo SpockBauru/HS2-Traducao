@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まぁ、こういう場所のお風呂ですから……するのは当然、って事ですね……=Bem, é um banho em um lugar como este, então... É natural...
 夫婦なら、ここで「お背中流しますね」となるんでしょうね。　……私達も、いつか……=Se fôssemos um casal, aqui provavelmente diríamos: "Deixe-me lavar suas costas"... Nós também, um dia...
 お風呂でなら汚し放題、という事ですか？　なら、好きなだけ汚させてもらいますかね。=Você está dizendo que eu posso me sujar o quanto eu quiser no banho? Se for esse o caso, vou deixá-lo sujar o quanto quiser.

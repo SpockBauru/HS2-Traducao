@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 え、なに？　私なんか悪いことした？　調子悪かったとか……？=O quê? Eu fiz algo errado? Eu estava de mau humor?
 え、も、もう終わり……？　だって、色々準備とか……あ、なな、なんでもない！=O que, você já terminou? Porque há muita preparação e... Oh, não, nada!

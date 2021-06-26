@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用普通{0}=Objetivo Geral Normal {0}
 ふぉぉ、どーもですー！=Uau, uau, uau!
 これはこれは、あなたさんではないですかー！=Ora, ora, ora, não é você!

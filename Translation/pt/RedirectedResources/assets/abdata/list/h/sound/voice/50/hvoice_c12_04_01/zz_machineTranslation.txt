@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ん……なんか、すげぇ吸い付いてくるぜ…=Hmm... Está realmente sugando em mim...
 んぁ……これ、気持ちいいんだよな……？=Mmm... Isto é bom, não sabe?
 んぁ……吸い付いてるの、わかるか……？=Mmm... Você pode sentir isso sugando em você?

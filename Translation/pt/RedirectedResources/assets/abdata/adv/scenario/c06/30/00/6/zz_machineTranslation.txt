@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 この前、母と話しているときに古風な女性についての話になったのですが―――=Eu estava conversando com minha mãe no outro dia e entramos em uma conversa sobre mulheres antiquadas...
 私が性のお勉強をするのは、将来の夢が良妻賢母だからですわ、そのためにも―――=Eu estudo sexologia porque meu sonho é ser uma boa esposa e uma mãe sábia e por isso...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ？　どうしたんすか？　なんかエロいことが始まるんじゃないんすか=O que é isso? O que está acontecendo? Não vai acontecer algo erótico?
 私、このまま無視されちゃうんすか？=Vou ser simplesmente ignorado?
 この動き、エロくて最高っすね=Eu adoro este movimento. É tão erótico.

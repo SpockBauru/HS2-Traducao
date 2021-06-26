@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んぁぅ……外してくれよ……これ……=Uhhh... Tire isto... Isto...
 ぁぁ……拘束なんか……必要ないだろ……=Oh... Você não... Precisa... De... Restrições...
 んぁっ、それは、強くし過ぎだっ=Mmm, isso foi muito difícil.

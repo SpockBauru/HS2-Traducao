@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁ……穴があったら入りたい気分です……=Se eu tivesse um buraco, entraria nele...
 禍を転じて福と為す、とは少々違う気も致しますが、貴方にお楽しみ頂けて何よりです。=Estou feliz que você tenha gostado, embora eu ache que é um pouco diferente de transformar o infortúnio em fortuna.
 得も言われぬ背徳感を感じておりました……=Senti uma inexplicável sensação de imoralidade.

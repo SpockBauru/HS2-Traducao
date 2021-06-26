@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 わぁ、いーじゃないですかー。誰かに好かれるってことは素敵なことですよー！=Uau, não é legal? É bom ser apreciado por alguém!
 まぁ、好意にも色々ありますからね。そーいうのも悪いことじゃないですよ！=Bem, há muitos tipos de favores, não há? Isso não é uma coisa ruim!

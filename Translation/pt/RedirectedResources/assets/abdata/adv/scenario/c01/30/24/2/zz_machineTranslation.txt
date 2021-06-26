@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 こんな感じで良かったのかしら？　あんまり自信がないわね。=É assim que deve ser? Não tenho tanta certeza.
 私、変な所なかったかしら？　おかしかったら遠慮なく言ってね。=Há algo de errado comigo? Não hesite em me dizer se algo está errado.

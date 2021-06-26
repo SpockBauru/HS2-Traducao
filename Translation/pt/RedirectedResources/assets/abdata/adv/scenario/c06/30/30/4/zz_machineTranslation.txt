@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お待たせして申し訳……え？　お顔が赤い、ですか？　そ、その……あのう……そう、でしょうか……=Sinto muito por tê-los feito esperar... Seu rosto está vermelho? Bem, um... Um... É isso?
 ふふ、私の排尿はいかがでしたか……？　あら、やっぱり覗いてらしたんですのね、うふふ……♪=Hehe, como foi minha micção? Oh, eu sabia que você estava me espiando, não sabia?

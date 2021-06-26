@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 痛いだろ、バカ。もうちょっと手加減しろよ。=Você está me machucando, idiota. Tenha um pouco mais de calma comigo.
 あんなに痛いのは勘弁して欲しいぜ、まったく。=Eu não quero que doa assim, cara. Não quero que doa nada.

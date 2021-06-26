@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 漏らすってなんだよ、お前が悪いんだからな、このバカ。=Como assim, você está me enganando? Você é que está se enganando, seu estúpido.
 なんか、礼を言っていいのかどうか分かんねぇな。=Não sei se devo ou não agradecer-lhe.
 恥ずかしかったのに、なんかすげぇぞくぞくした。新しい扉でも開いたかな。=Fiquei tão envergonhado, mas fiquei tão entusiasmado. Acho que abri uma nova porta.

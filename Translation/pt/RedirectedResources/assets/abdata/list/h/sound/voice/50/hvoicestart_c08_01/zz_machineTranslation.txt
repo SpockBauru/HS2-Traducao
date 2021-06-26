@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こんな物、良く見つけてきたっすね？=Como você encontrou todas essas coisas?
 こんな所に触手があるなんて、ちょっと驚きっすね=Estou um pouco surpreso por encontrar tentáculos neste lugar.
 うにょうにょ動いてて、かなり面白そうっすね=Parece ser muito divertido!

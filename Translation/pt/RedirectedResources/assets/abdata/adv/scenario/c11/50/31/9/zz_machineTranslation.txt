@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こ、このままでは漏れてしまいます……貴方はそれで宜しいのですか……？=Se continuarmos assim, vai vazar... Você está de acordo com isso?
 今更遅いですが、はっきりとお手洗いに寄りたいと、お伝えするべきでした……=Eu sei que é um pouco tarde para isso, mas eu deveria ter dito em termos inequívocos que precisava parar no banheiro feminino...
 私の状況を分かった上での行動で宜しいのですよね？　では、私も我慢は致しませんので。=Você está ciente da minha situação, não está? Então, eu também não vou tolerar isso.

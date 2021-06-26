@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えぇと……そろそろ始めても構いませんか？=Hum... Podemos começar?
 その、休憩は十分頂きましたので……いつでも始められますよ？=Bem, você já teve seu intervalo, então... Você pode começar quando estiver pronto.
 んっ……焦らずゆっくり……気持ちよくなってください……=Mmm... Por favor, leve seu tempo... E sinta-se bem...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、あんなの、イかない方がおかしいじゃないですか……っ=Oh, seria estranho se eu não me viesse assim.
 我慢なんて無理ですよ、あんな風に感じさせられたら……っ=É impossível para mim aguentar, se você me faz sentir assim...

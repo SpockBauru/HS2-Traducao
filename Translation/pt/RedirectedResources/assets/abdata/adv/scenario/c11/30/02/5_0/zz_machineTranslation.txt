@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 それは……三人でということ、でしょうか？　私は問題ありませんが……=Isso significa... Que nós três? Não tenho nenhum problema com isso, mas...
 えっと……私の方は、問題ございません。=Hum... Não há problema para mim.

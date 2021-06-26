@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 えっと、結局なんだったの？　バイバイ……でいいのかな？=Bem, de que se tratava tudo isso? Adeusinho... Está bem assim?
 そんな気後れすることないのに。また今度、話せるときに話そ。=Você não precisa estar tão consciente de si mesmo. Vamos conversar novamente algum dia, quando pudermos.

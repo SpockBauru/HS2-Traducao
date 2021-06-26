@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、どうも……また貴方の相手を務められるなんて光栄です。今回も期待に応えられるように、頑張りますね=Olá... É uma honra ser seu parceiro novamente. Farei o meu melhor para corresponder às suas expectativas também desta vez.
 私のこと、気に入って頂けたのですか？　その……少しだけ、自信がついたかもしれません。貴方のおかげです。ありがとうございます♪=Você gostou de mim? Bem... Talvez eu tenha ganho um pouco de confiança. É graças a você. Muito obrigado.

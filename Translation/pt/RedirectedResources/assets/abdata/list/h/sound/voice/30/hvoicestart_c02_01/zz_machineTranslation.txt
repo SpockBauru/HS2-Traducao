@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 さて、今回はどんな風に楽しませてくれるんですか？=Então, como você vai nos entreter desta vez?
 今回もあなたの好きにして構いませんよ。そういう関係ですし。=Desta vez, você também pode fazer o que quiser. Esse é o tipo de relacionamento que temos.
 私のことならお構いなく。適度に楽しみますから。=Se for eu, não se preocupe. Desfrutarei disso com moderação.

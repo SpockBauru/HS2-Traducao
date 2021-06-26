@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=Desculpe-me por ter acabado de aparecer do nada, mas você se importaria de ficar comigo por um tempo?
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 気が付いたらお前の部屋まで来てたんだよなぁ……ちょっとだけ邪魔してもいいか？=Acabei de descobrir que estava subindo ao seu quarto... Posso interrompê-lo por um segundo?

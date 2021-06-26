@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 それでは私たちはこれで。=Bem, vamos deixá-lo com isso.
 で、では……また。=Então... Nos vemos por aí.

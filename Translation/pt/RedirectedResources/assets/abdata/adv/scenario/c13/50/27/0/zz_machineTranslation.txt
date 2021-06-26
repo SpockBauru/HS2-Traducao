@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 うふふ、私の身体は気持ちよかったですか……？　私はとっても気持ちよかったですよ……=Ummm... Meu corpo se sentiu bem? Eu me senti muito bem...
 ふたりともビクビクと震えて……相変わらず私たちってお似合いですよね……=Estamos ambos tremendo de medo... Como sempre, somos perfeitos um para o outro...

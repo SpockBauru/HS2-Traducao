@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 その……覗かれるのは、恥ずかしいです……=Quero dizer, é... É embaraçoso ser espreitado...
 私を覗くのが好きなんですよね……うふふ、興奮しましたか……？=Você gosta de me espiar... Hihihi, isso o excitou?
 あなたならきっと覗いてくれると思ってました……お湯が滴る裸って、普通の裸とは違うよさがありますよね……=Eu sabia que você daria uma olhada... Há algo diferente em estar nu com água quente pingando em você...

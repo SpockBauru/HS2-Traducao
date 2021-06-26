@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 ああ、言うと思った……よりにもよって３人のときに誘ってくるなんて……まあ、断らないけどね。=Sim, eu sabia que você diria isso... Que me convidaria para sair quando éramos só nós três, de todas as pessoas... Bem, eu não diria não.
 ……私はいいよ、お前に話しかけられた時点で覚悟はしてたし。=... Estou bem, estava preparado para isso quando você falou comigo.

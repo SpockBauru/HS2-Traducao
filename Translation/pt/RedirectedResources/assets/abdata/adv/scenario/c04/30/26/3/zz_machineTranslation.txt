@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 //ねぇ、今日はお尻使ってもいーよ？　むしろ使って欲しい的な？　期待してるかんね？=Ei, posso usar meu traseiro hoje? Como você prefere que eu faça? Você está esperando isso, certo?
 //ん～、なんかさ～お尻がムズムズするんだよね～。ちょっと触って、確かめてみてくんない？=Hmmm... Sinto que meu traseiro está ficando todo mole... Por que você não toca nele e vê se está tudo bem?

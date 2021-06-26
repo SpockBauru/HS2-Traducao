@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あー……あのさ、会っていきなりするのって普通ありえないっていうか、恥ずかしくない？=Um... Você sabe, não é normal encontrar alguém e fazer isso do nada, não é embaraçoso?
 あ、言っておくけどするのが嫌ってわけじゃないよ？　ただ、私の言ってることおかしくないよね……？=Oh, só para que você saiba, não é que eu não queira fazer isso, ok? É que eu não sou louco pelo que estou dizendo, certo?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 焦ることは無いと思いますが……そろそろ始めますか？=Acho que não há pressa... Mas devemos começar?
 戸惑う気持ちは分かります。もう少しゆっくりしましょうか？=Eu entendo sua confusão. Devemos ir um pouco mais devagar?
 ぁんっ……かぁらがどんろん、あつくなっれきれすよ……(身体がどんどん、熱くなってきてますよ)=(Seu corpo está ficando cada vez mais quente)

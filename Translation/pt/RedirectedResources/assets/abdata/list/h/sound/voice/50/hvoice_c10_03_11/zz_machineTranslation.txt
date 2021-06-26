@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 疲れたのなら素直に休憩しましょう。無理はよくありませんよ。=Se você estiver cansado, faça uma pausa. Não é bom forçar a si mesmo.
 どうされました？　体調が優れないのなら、やめておきますか？=Como posso ajudá-los? Se você não está se sentindo bem, você quer parar?
 ふぁぐっ……これで感じろと言われても、無理があります……=Huh... É impossível para mim pedir-lhe para sentir isto...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 当店のデラックスプランをご購入頂き、誠にありがとうございます。=Muito obrigado por adquirir nosso plano de luxo.
 こちら、お客様へよりよいリビドーをご提供させて頂く為の特別なサービスとなっております。=Este é um serviço especial para lhe proporcionar uma melhor libido.
 ただし、こちらはお客様との仲を深めたパートナーのみ受けられるものとなっております。=No entanto, isto só está disponível para os parceiros que o conheceram.

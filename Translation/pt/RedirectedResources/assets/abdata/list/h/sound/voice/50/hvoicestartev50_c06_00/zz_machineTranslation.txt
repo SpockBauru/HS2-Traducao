@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 続けますか？　大丈夫ですわ=Você gostaria de continuar? Eu estou bem.
 ええ、もう一度致しましょう=Sim, vamos fazer isso novamente.

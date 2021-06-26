@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 見たまんまの部屋だな……あんまり無茶苦茶するなよな。=A sala é exatamente como você a vê... Não seja muito imprudente.
 お前ってこういう感じのが好きなのか……まぁ、お前が喜ぶなら、付き合ってやってもいいけどな。=Você gosta deste tipo de coisa... Bem, se isso o faz feliz, eu saio com você.
 うおぉ、すごいなこの部屋？！　完全に目的決まってるじゃん、お手柔らかに頼むぜ！=Ohhh, o que é esta sala? Eu sei exatamente o que estou fazendo aqui. Vá com calma!

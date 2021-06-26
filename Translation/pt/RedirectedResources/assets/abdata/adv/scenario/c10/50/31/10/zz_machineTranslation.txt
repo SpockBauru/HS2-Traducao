@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 気持ちよかったのは確かですが……もう少し自重してくださいね？=Tenho certeza que foi bom, mas... Um pouco mais de autocontenção, por favor...
 トイレの中だと、貴方との距離が近くて……こういうのもいいかなと、少し思ってしまいました。=Quando eu estava no banheiro, eu estava perto de você... E pensei um pouco que seria bom fazer algo assim.
 今度は私が、貴方のトイレ中に現れるかもしれませんよ？　ふふ、悪戯好きなのは貴方だけではありませんから。=Talvez eu apareça no seu banheiro desta vez, hein? Hehe, você não é o único que gosta de pregar partidas.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 あらあら、私を探しに来てくださったの？　それとも偶然ですかぁ？　まあ、どちらにせよ……うふふ♪=Ohhh, você veio me procurar? Ou foi apenas uma coincidência? Bem, de qualquer forma... Hihihi...
 うふふ、なんだか私を見て身構えたように思えましたけど、私の気のせいでしょうかぁ……？=Será que é minha imaginação?

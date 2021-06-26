@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 あれ、あなたさんもお風呂？　いーですねー、やっぱりお風呂は大切ですもんねー！=Oh, você também está tomando banho? Sim, é muito importante tomar um banho, não é?
 ここにいるってことはお風呂に入るんですよね？=Se você está aqui, isso significa que você está tomando banho, certo?

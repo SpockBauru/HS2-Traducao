@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 おい、ちゃんと身体は綺麗にしてきたか？　臭ぇやつを抱く趣味は無いからな。そこんとこは頼むぜ？=Ei, você já se limpou? Eu não gosto de segurar pessoas malcheirosas. Eu trato disso, está bem?
 オマエ、まだ緊張してんのか？　ったく、情けねぇやつだ。オレを萎えさせるようなことだけはすんなよ？=Você ainda está nervoso, hein? Maldição, você é patético. Não faça nada que me faça desmaiar, está bem?

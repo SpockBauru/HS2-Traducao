@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 そうなのか？　まぁいいけど。=É verdade? Está bem.
 なんか、他に用事があったのか？=O quê, você tinha algo mais a fazer?

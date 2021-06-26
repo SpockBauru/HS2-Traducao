@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ……はい……うふふ、はっきり誘われると、照れちゃいます……=Fico envergonhado quando as pessoas me convidam para sair tão claramente...
 はい……その、お手柔らかにお願いしますね……=Sim... Bem, por favor, seja gentil comigo...

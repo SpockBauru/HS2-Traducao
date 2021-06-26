@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話{0}=Conversação {0}
 はい♪　どんなプレイでも構いません、お好きにお使いください♪=Sim. ♪ Não me importa como você o joga, use-o como quiser ♪
 勿論です。　あなたに使われる事が、私の喜びですから……♪=É claro. Porque tenho o prazer de ser usado por vocês ♪

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁっ、すっご……アタシの、めっちゃ絡み付いてるっ……=Ahhh... Você está tão embrulhado em mim.
 んんっ、当たり前だけど……やっぱ形違うんだね……=Hmm, é óbvio, mas... É uma forma diferente, não é...
 んぁっ、そんなっ、あぁっ、くちゅくちゅ音して、はずかしっ……=Bem, isso é, ah, eu estou com medo, e sinto muito...

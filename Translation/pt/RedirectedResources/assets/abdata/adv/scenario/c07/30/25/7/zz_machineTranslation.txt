@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 へぇ、雅な雰囲気ってやつか？　オマエにこんな気が使えるとは、少し驚いた。まぁ、落ち着いてするにはいいかもな。=Oh, você quer dizer a atmosfera elegante? Estou um pouco surpreso que você seja capaz de fazer isso. Bem, é uma boa maneira de acalmar.
 和風か……悪くねぇな。こういう風に、ムードから整えられるやつは嫌いじゃねぇ。=Estilo japonês... Nada mal. Eu não me importo com pessoas que possam definir o clima desta maneira.
 和室でしっぽりってか？　オマエにしては粋なことを考えるじゃねぇか。=Relaxar em uma sala em estilo japonês? Isso é uma coisa legal para você pensar.

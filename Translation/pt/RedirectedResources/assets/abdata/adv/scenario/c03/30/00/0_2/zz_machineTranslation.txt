@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 やっほー……なんて気軽に挨拶できるか！　あっち行けーーっ！=Yoo-hoo... Que maneira casual de dizer olá! Fique longe de mim!
 も、もしかしてエッチのお誘い？　それなら、まずは、か、身体！　身体洗ってよ？=Você está me pedindo para transar com você? Então vamos começar com seu corpo. Por que você não lava seu corpo?

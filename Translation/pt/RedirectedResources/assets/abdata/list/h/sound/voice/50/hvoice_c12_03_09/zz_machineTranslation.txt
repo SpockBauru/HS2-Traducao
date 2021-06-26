@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぁぁ……こんなの、悶えちゃってしかたねぇよ……=Não posso evitá-lo, estou em agonia...
 んんっ、痺れが…頭に響いてくる…ぁん、ん……=Mmm, a dormência... Ecoando na minha cabeça... Mmm...
 これっ、あんっ、感じるだけで、何もできねぇぜっ、んぁっ=Não posso fazer nada além de sentir isto, não posso fazer nada além de sentir isto.

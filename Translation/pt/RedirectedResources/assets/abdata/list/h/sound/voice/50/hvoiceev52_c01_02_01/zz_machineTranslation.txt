@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 そんな…こんな所で、入れちゃうなんて…=Não posso acreditar que estou fazendo isto aqui dentro.
 ダメよ…こんなの…抜いて、頂戴=Não... Não... Não faça isso.
 こんな所で、こんな事、するなんて…=Não posso acreditar que estou fazendo isto aqui.

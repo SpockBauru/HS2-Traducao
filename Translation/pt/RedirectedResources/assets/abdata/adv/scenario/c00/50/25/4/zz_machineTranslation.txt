@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あまり過激すぎるものは困りますが……判断はお任せします。=Não queremos nada extremo demais, mas... Deixaremos isso para você julgar.
 こういった場所でのプレイも、あなたが望むのであれば全力でお答え致しましょう。=Se você quiser jogar nestes lugares, faremos o melhor para responder a você.
 分かりました、ここであなたを責めたてるのですね。……違うのですか？　残念です。=Eu entendo. Estou acusando vocês aqui... Não? Sinto muito.

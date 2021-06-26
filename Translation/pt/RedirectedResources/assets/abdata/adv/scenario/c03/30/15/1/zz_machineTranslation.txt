@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あーいたいた♪　良かった、ちょっと話がしたくてさ。んじゃ、あがらせてもらうねぇ～♪=Ah, aí está... Ótimo, eu só queria falar com você. Vou deixá-lo em paz agora...
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 お邪魔しまーす♪　うん、この部屋、やっぱ好き。友達の部屋ってこんな感じだよねぇ、えへへ♪=Eu gosto muito desta sala. Este é o aspecto do quarto de um amigo, certo?

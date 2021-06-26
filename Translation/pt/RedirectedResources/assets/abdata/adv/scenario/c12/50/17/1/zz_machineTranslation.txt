@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お、お前、こんな所に……？！　いや、それより、ちょっと手を貸してくれないか？=Oh, você está aqui? Não, é mais como, você pode me dar uma mão aqui?
 う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=Não posso acreditar que sinto a necessidade de fazer xixi em uma hora como esta.
 いやぁ……間抜けで済まねぇ……できればちょっとだけ助けてくれるとありがたいんだけど……=Bem... Desculpe-me por ser um idiota... Mas eu realmente apreciaria um pouco de ajuda se você pudesse...

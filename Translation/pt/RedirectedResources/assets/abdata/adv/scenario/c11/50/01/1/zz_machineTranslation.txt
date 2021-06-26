@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話{0}=Conversação {0}
 私達二人の子供とお話されたいのでしょうか？　それでしたら、先ずは子供を授からないといけませんね。=Você quer falar com nossos dois filhos? Se for esse o caso, teremos que ter filhos primeiro.
 ええ。私が身重になった際は、お腹の子へ存分に語り掛けて下さい。=Sim. Quando eu for peso morto, você pode falar com meu bebê de acordo com o seu coração.

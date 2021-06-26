@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 このところ、少しずつ……い、痛いのとか、苦しいのとかも……もしかしたら気持ちいいのかも……なんて思うようになりました……=Hoje em dia, pouco a pouco, cheguei a pensar que... Sim, até mesmo a dor e o sofrimento... Poderiam possivelmente sentir-se bem...
 あ、あまり激しいのは嫌ですけど……でも……少しくらいなら……痛いのも苦しいのも……受け入れられるかもしれないです……はぅぅ……=Oh, não quero que seja muito intenso... Mas... Se for apenas um pouco... Doloroso e sofredor... Talvez eu possa aceitá-lo... Huh...

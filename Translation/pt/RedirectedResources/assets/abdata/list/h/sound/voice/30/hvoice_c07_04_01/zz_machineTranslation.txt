@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んっ、こんなもんじゃ物足りねぇか？　欲張りなやつめ……=Hmm, isto não é suficiente para você? Seu bastardo ganancioso...
 はぁっ……早速腰が震えてるぞ……？　大丈夫か……？=Huh... Seus quadris estão tremendo imediatamente? Você está bem?
 んぅっ、いい具合に擦れてるぞ……その調子だ……！=Mmm, está esfregando muito bem... É isso...

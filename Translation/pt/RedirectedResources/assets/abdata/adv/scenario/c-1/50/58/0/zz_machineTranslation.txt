@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……少々お待ちください。=... Por favor, aguarde um momento.
 先輩……？　どうしてこちらに。=Veterana? Por quê você está aqui?
 私もお手伝いに来たんです……うふふ。=Eu estou aqui para ajudar... Hihihi.

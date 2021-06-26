@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 最低です……後先考えず本能だけで行動するなんて、獣と同じですよ？=É nojento... Agir por instinto sem pensar é como uma besta, não é?
 むしろ、獣の方がもう少し考えて動くでしょうね。貴方は最早獣以下です……=Se alguma coisa, uma fera pensaria um pouco mais. Você não é melhor que uma besta...

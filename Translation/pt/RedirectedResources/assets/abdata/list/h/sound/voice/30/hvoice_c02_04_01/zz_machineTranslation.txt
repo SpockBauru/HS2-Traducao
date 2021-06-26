@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ん、ふ……滑りが良くなってきましたね……=Hmm, hmm... Está a ficar escorregadio...
 あ、ん……これ、どっちの愛液かわかりませんね……=Oh, hmm... É difícil dizer de quem é este suco de amor...
 ん、ふぁ……私の弱いところ、まさか、研究して……？=Você não está estudando meus pontos sensíveis, está?

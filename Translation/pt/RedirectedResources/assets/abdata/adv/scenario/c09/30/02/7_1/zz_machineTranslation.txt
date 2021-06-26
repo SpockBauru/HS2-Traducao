@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 ゆっくりお話できると嬉しかったんですがー……=Eu esperava que pudéssemos conversar um pouco, mas...
 うーん、残念オブ残念ですよー！=Bem, é uma vergonha!

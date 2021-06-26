@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 うふふ、ご満足頂けたようで何よりですわ。=Fico feliz em saber que você está satisfeito.
 私の身体で気持ちよくなってくださるのは嬉しいのですけれど、やはり恥ずかしいですわ。=Fico feliz que você se sinta confortável com meu corpo, mas ainda me sinto envergonhado.

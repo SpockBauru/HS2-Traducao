@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ウソだろ…こんな所で、入れて来るなよ=Oh, ahhh... Você não pode entrar aqui assim.
 ばか…やめろ…もう抜いてくれ=Grande... Pare... Remova-me
 ふ、ふざけんな…こんな所、見られたら…=Fu, Fuma... Se você puder ver este lugar...

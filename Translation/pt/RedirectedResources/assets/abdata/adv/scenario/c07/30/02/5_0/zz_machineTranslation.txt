@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 オレはいいが。もう一人聞かなきゃいけない相手がいるんじゃねぇか？=Não para mim. Há mais uma pessoa que você precisa perguntar, não há?
 ハッ、欲張りなやつだ。いいだろう、オレは乗ってやる。=Sacana ganancioso. Tudo bem, eu estou dentro.

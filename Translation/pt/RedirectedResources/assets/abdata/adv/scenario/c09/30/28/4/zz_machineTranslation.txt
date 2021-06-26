@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 わわっ、あなたさんっ、どーしてここにっ！？　えっ、あっ、いえいえっ、別に慌ててなんていませんよーっ！？=Uau, você, por que está aqui? O quê? Oh, não, não estou com pressa!
 あなたさんがいてくれるなら……もっと気持ちいいことも出来たのにー……=Se você estivesse aqui... Poderíamos ter feito algo mais agradável...

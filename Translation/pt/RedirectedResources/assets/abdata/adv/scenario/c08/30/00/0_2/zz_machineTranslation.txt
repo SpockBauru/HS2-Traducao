@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 どもー、あなたもサッパリしに来たんすねー。それとも既にーサッパリした後っすかー？=Olá, você também veio para se limpar, não é mesmo? Ou você já o fez?
 あなたも裸のお付き合いをしにきたんすかー？　素っ裸っていいすよねー。=Você também veio aqui para socializar pelado? É bom estar pelado, não é?

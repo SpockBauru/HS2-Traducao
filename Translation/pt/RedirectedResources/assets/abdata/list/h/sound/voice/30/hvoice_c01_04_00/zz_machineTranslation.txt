@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、ぁぁ……いい感じに、擦れてるわねっ……=Está esfregando tão bem...
 んっ……ここは、気持ちいいかしら……？=Sente-se bem aqui?
 あっ、ぁぁ……気持ちいい……かも……=Ah, sim... Isso é bom... Talvez...

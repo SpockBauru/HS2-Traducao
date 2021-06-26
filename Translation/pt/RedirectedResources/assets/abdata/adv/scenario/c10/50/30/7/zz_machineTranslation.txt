@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えぇと……匂いなど、残っていませんよね？　もし、臭かったりしたら、遠慮せず言ってください。=Bem... Já não há cheiro, não é mesmo? Se houver algum cheiro, por favor, não hesite em me dizer.
 はぁ……すみません。こういうことは、貴方と会う前にすませておくべきでした……次からは気を付けます。=Huh... Desculpe. Eu deveria ter feito essas coisas antes de conhecê-lo... Terei cuidado na próxima vez.
 貴方なら何かしてくるかと思いましたが、こう大人しく待たれてしまうと……ふふ、何だが逆に、私が恥ずかしくなってしまいますね。=Eu estava esperando que você fizesse alguma coisa, mas estou envergonhado.

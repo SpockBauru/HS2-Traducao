@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んんっ、心なしか……勢いがいいような……=Hmm... Parece ter um bom impulso...
 あぁあ……我慢し過ぎて……変な声が出てしまいました……=Eu estava me atrasando tanto... Que fiz um barulho esquisito...
 ふんふふんふーん♪　あぁ、いい気持ち……=Mmm-hmmm. ♪ Oh, eu me sinto tão bem ♪

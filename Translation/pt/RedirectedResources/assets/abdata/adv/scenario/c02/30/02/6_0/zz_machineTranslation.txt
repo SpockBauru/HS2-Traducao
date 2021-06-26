@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 ふぅ、これで満足ですか？=Você está feliz agora?
 二人を相手して、どうでしたかね？=Como isso foi contra vocês dois?

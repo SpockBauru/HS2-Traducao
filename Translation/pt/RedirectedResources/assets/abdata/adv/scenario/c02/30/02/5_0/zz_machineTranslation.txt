@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 私達と、ですか？　こちらは構いませんが……=Conosco, senhor? Eu não me importo, mas...
 えっと、二人を相手にって事ですよね？=Hum, você quer dizer contra duas pessoas, certo?

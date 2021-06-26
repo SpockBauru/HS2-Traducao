@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 まー仕方ないっすねー。また気軽に話しかけてほしいっすー。=Bem, acho que não há nada que possa ser feito. Espero que você se sinta livre para falar comigo novamente.
 次こそは３Ｐに誘ってほしいっすー。約束っすよー。=Quero que você me convide para uma trio da próxima vez. Isso é uma promessa.

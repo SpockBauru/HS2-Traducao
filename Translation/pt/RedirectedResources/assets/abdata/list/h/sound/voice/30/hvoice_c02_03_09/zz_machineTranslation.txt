@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あん……振動がっ……だんだんクセになってきました……=As vibrações... Elas estão ficando viciantes.
 んんっ……私、今、辱めを受けているんですね……=Mmm... Estou sendo humilhado agora...
 あんっ、あっ、オモチャの方が自由だなんて、そんなっ=Não, não, não, não. Um brinquedo é mais livre.

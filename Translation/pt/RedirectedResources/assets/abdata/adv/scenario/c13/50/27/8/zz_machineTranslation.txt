@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あの……今度は一緒に気持ちよくなってほしいです……=Um... Agora quero que você se sinta bem comigo...
 嫌われてしまいましたか……？=Você me odeia?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 子供は何人欲しいですか？　あなたが望むだけ、子作りに励みましょう……♪=Quantos filhos você gostaria de ter? Vamos procriar o quanto você quiser ♪
 それとも子供はまだ作らずに、二人きりの時間を過ごしますか……？　うふふ、私はどちらでも大丈夫ですよ……♪=Ou você quer passar algum tempo sozinho sem ter filhos ainda? Ummm, estou bem com qualquer um dos dois ♪

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いい雰囲気の店じゃん。飲みすぎて起たなくなっても知らねぇぞ。=Este lugar tem uma atmosfera agradável. Não me importa se você bebe demais e não se levanta.
 こんな所連れてきてくれるなんて、なんかすげぇ嬉しいぜ……なんか恋人っポイよな、なぁんて……=Estou tão feliz que você me trouxe aqui... Porque eu estou meio apaixonado por você, sabe?
 もしかして、酒の勢いを借りて、盛り上がろうってのか？　楽しめるなら、なんでもいいけどな。=Talvez você esteja apenas tentando tirar a bebida do alcoolismo? Não me interessa o que é, desde que seja divertido.

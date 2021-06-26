@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁ、良かった……これで一安心です……=Huh, que bom... Isso é um alívio...
 ま、間に合って良かった……さすがにもう大人だもんね。=Bem, estou feliz por ter chegado a tempo... Como era de se esperar, agora sou um adulto.
 ふんふんふーん♪　ふふふーん♪=Mmm-hmmm ♪ Mmm-hmmm ♪

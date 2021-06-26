@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたをお訪ねして、抱いて頂けるなんて……通い妻になったようで、ドキドキいたします……=Estou tão emocionada por poder visitá-lo e abraçá-lo... Como se eu fosse sua esposa pendurada...
 //汎用{0}=Objetivo Geral {0}
 身体を重ねた後もこんな風を過ごせるなんて……この時間がずっと続けばと願わずにはいられません。=Não posso deixar de desejar que possamos ter este tipo de tempo para sempre, mesmo depois que nossos corpos estiverem juntos.

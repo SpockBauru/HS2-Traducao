@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 終わり、なのでしょうか？　……いえ、何でもございません。=É o fim? Não, não é nada.
 ……貴方にご満足頂けたなら、何よりです。=... Espero que você esteja satisfeito com nosso serviço.

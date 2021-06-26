@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 さ、三人でするというのも……新鮮でいいかもしれませんね。なんだか、新しい世界が見えそうです。=Bem, nós três fazendo isso juntos... Talvez seja uma idéia nova. Sinto que vou ver um novo mundo.
 こういうことも、また経験ですね。折角ここで会った三人ですから……縁は大事にしていきたいです。=Este tipo de coisa também é uma experiência. Desde que nós três nos conhecemos aqui... Quero acarinhar nosso relacionamento.

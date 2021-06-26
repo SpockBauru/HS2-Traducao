@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //おい、何も出来ないんなら、オレからするぞ？=Ei, se você não pode fazer algo, por que eu não faço algo?
 ん？　どうした？　今更なに恥ずかしがってんだ？=Hmm? O que está acontecendo? Você está envergonhado agora?
 んぁっ、くぅっ、来やがったなぁっ……！=Ah, porra, você está aqui...

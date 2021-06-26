@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 なんだ、風呂に入りに来たのか？=O quê, você veio para tomar banho?
 風呂は良いよな、身体があったまって疲れが取れるからな。=Um banho é bom, pois aquece o corpo e remove a fadiga.

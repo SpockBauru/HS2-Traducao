@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 さて、今日はどういたしましょうか。もちろんエッチなことをするわけですが……まずは貴方のお好みで、して頂いて構いませんよ。=Bem, o que devemos fazer hoje? É claro que vamos fazer algo malicioso, mas... Você pode fazer o que quiser primeiro.
 ふふ、期待されているのですか？　心なしか顔が赤いような気がしますよ？私は逃げたりしませんから、ゆっくり楽しみましょう。=Hehe, você está me esperando? Acho que seu rosto está um pouco vermelho, não acha? Não vou fugir, por isso vamos aproveitar nosso tempo e desfrutar.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 私が学びたいのは女の性であって、先ほどのようなことを学ぶつもりはございませんわ……=O que eu quero aprender é sexualidade feminina, não o que você acabou de dizer...
 私が嫌だと申し上げたのに、どうしてやめてくださらなかったのですか……？=Por que você não parou quando eu lhe disse que não queria?

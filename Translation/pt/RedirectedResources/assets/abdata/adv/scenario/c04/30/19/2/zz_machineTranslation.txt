@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あんがと♪　なんか悪戯されるかと思ったけど、普通に助けてくれるとか、アンタ紳士だね♪=Obrigado... Eu pensei que você ia me pregar uma peça, mas você é um cavalheiro...
 とりま、アタシもう行くね？　ちょっと色々限界だから！=De qualquer forma, eu vou, está bem? Estou no limite da minha capacidade!
 で、どしよっか？　お礼とか、一応したいんだけど……=Então, o que você quer fazer? Gostaria de agradecer a vocês...

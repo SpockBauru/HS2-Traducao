@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=É a hora da história, obrigado. Então, você está feliz? Queria falar sobre mais alguma coisa?
 ふぅ、何気に結構話し込んじゃったね。=Huh, falamos um pouco sem razão aparente.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 //ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou tão satisfeito. Aha!
 //ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Por hoje estou acabado, certo? Eu cuidarei de você novamente.

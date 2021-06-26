@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 だから言ったんだよ……どうなってもしらねぇぞって。=É por isso que eu disse... Não importa o que aconteça, não me importo.
 あんな所、見られるなんて、すげぇ恥ずかしいじゃねぇかよ、バカ。=É tão embaraçoso ser visto assim, seu idiota.
 なんだか緊張感と開放感を同時に味わえて、良かったぜ。=Foi um pouco tenso e libertador ao mesmo tempo, o que foi agradável.

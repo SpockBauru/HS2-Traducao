@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あなたが喜ぶなら、私は良いと思うわ。=Se isso o faz feliz, acho que é bom.
 この話題なら、私も楽しめると思うわ。=Acho que eu apreciaria este tópico.

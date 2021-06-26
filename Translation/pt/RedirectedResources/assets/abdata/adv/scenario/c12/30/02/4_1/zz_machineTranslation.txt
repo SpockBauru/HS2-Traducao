@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 ありがとな、答えてくれて。=Obrigado, cara, por responder.
 お前に話してみて良かったぜ。=Estou feliz por ter falado com você.

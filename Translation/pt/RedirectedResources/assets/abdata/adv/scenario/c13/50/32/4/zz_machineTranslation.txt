@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……び、びっくりしました……そういうプレイ、ですか……？=... Fiquei surpreso... É assim que você joga?
 うふふ、いわゆる夜這いというものですね……起きてしまったのがもったいないぐらい嬉しいです……=Ummm, é o que se chama um rastejamento noturno... Estou tão feliz que acordei que é uma pena...
 うふふ、今度お返しにいきますね……楽しみにしていてください……=Ummm... Eu lhe pagarei de volta algum dia... Por favor, aguarde ansiosamente...

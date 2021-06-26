@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 お疲れさまでした。　まぁ、気持ちよかったんじゃないですか？=Obrigado por sua ajuda. Bem, soube bem, não foi?
 まぁ、あなたとするエッチは……悪くないんじゃないですか？=Bem, o sexo que tenho com você... Não é tão ruim assim, é?

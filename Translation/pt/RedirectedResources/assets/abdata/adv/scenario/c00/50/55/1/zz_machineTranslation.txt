@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 この施設で婚姻届を受理していただけるなら、今すぐ提出に行く所でした。=Se esta instalação tivesse aceitado minha licença de casamento, eu teria ido lá agora mesmo para apresentá-la.
 やはり私には、あなたしかいない様です。これからもよろしくお願いします。=Parece que você é o único para mim, afinal de contas. Por favor, continue a trabalhar comigo.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 今からでも、婚姻届を書いて出しに行きませんか？　私の欄は、もう記入済みです。=Por que você não vai escrever sua certidão de casamento e a apresenta agora? Minha seção já foi preenchida.
 あ……でも、証人の欄は私達だけじゃ埋められませんね……残念です。=Ah... Mas não podemos preencher o quadro de testemunhas sozinhos... Infelizmente.

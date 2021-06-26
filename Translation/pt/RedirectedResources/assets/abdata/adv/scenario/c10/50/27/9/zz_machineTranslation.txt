@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 んぅ……流石に疲れました……貴方は凄いれすね……はぁ……私はもう、くたくたです……=Estou tão cansado... Você é incrível... Huh... Estou exausto...
 はぁぁ……力が、入りましぇん……んぅぅ、これは少し……回復まで時間がかかりそうれすね……=Não consigo recuperar minhas forças... Mmm... Isto vai levar algum tempo para recuperar...

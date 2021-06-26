@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 そのう、あなたがあまりにも痛くするものですからそのような愉しみにも目覚めてしまいましたわ。=Bem, você tornou isso tão doloroso que eu até comecei a ter prazer nisso.
 一応ご報告いたしますけれど、痛みや苦しみが少しずつ平気になってきてしまいましたの……=Só para que você saiba, a dor e o sofrimento têm se tornado cada vez menos...

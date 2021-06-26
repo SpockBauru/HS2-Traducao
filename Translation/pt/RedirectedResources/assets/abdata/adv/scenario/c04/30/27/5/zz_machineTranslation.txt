@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はーっ、ちょっともう……しばらく動きたくないかも。二対一はやっぱ反則でしょ。気持ちかったけど……なんかもうそれ以上に疲れた。=Hmm... Talvez eu não queira me mover por um tempo. Dois contra um é um jogo sujo. Senti-me bem, mas... Estou mais cansado do que isso.
 あー、イカされたぁ。てか、二人も相手にしてイカない方が無理っしょ？　どんだけアンタら下手なのってことなになっちゃうよ？=Ah, eu fui obrigado a gozar. Bem, é impossível não gozar com dois caras, certo? Quero dizer, quão ruim vocês podem ser nisto?

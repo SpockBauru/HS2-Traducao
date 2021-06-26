@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 酒の勢いってのは感心しねぇが。まぁ、何もできないよりはマシか。=No entanto, não estou impressionado com o impulso do álcool. Bem, é melhor do que não poder fazer nada.
 オレを酔わせてどうする気だ？　まさか、オマエに酔えなんて、キザったらしいことを言うつもりじゃねぇだろうな？=O que você está tentando fazer, me deixar bêbado? Você não vai me dizer para deixá-lo bêbado, vai?
 酒と女とセックスってか？　よく馬鹿の代表みたいに語られる話だが、別に間違っちゃいねぇ。本質ってのは、案外そういうもんだ。=Bebidas, mulheres e sexo? É uma história de que se fala frequentemente como se fosse representativa de estupidez, mas não está errada. A verdadeira natureza é assim.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 女性同士……ですか。いえ、嫌ではありませんよ。ただ少し、驚いてしまって。その……仲良くして頂けると、嬉しいです。=De mulher para mulher? Não, não é que eu não goste. Estou apenas um pouco surpreso. Bem, eu ficaria feliz se pudéssemos ser amigos.
 同性なら変な気兼ねもいりませんし……きっと上手くいくと思います。ふふ、よろしくお願いいたしますね。=Se você é do mesmo sexo, não precisa se preocupar com nada de estranho... E tenho certeza de que vai dar certo. Hehe, estou ansioso para trabalhar com você.

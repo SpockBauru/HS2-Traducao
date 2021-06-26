@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ここが、教会っすか……なかなか荘厳な感じっすね。=Então esta é a igreja... É bastante majestosa.
 私も、あなたと教会に来たかったんすよ。=Eu também queria ir à igreja com você.
 教会なんかに連れて来て、どういうつもりなんすか？=O que você acha que está fazendo, me trazendo para uma igreja?

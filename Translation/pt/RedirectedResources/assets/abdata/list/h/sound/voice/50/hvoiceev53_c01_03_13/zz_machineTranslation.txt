@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら？　止まったままなの？　何もしないのかしら=Oh? Está apenas ali parado? Eles não vão fazer nada.
 ねぇ、私、このまま放っておかれちゃうの？=Ei, vou ser deixado sozinho desta maneira?
 この動き、最高に気持ちいいわ=Adoro este movimento. É uma sensação fantástica.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //はぁっ、いい感じっしょ？　ゆっくり形、合わせてこーねっ♪=É bom, não é? Vamos colocá-lo em forma ♪
 //んんぅ……もっと可愛い声、出しちゃってもいーんだよぉ？=Tudo bem se você fizer barulhos mais bonitos, certo?
 //んんっ、やばっ、めっちゃ甘えた声っ、出ちゃいそ……=Ahhh, essa voz é tão doce, está saindo...

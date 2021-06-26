@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 まー、なんだかんだで気持ち良かったね♪　とりま、皆ハッピーってことでいーんじゃない？=Bem, afinal de contas, soube bem... De qualquer forma, acho que todos estão felizes, certo?
 最初はどーなるかと思ったけど、終わりよければってやつじゃん？=A princípio eu pensava que ia acabar mal, mas tudo acaba bem, certo?

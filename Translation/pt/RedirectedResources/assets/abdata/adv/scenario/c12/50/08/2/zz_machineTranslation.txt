@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お前のおかげで、身体の奥までホカホカだぜ。=Você está me fazendo sentir todo quente e felpudo por dentro.
 風呂で喘ぎ声がこだまして、余計に盛り上がったな。=Você teve um chute extra do chiado no banho.
 熱くなりすぎて、のぼせそうだよ、まったく。=Estou ficando muito quente. Vou desmaiar, totalmente.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 わ、わざわざ覗く価値のあるものでは無いかと思います……=Uau, acho que não vale a pena o trabalho de dar uma olhada...
 うぅ……ほ、他の方にしてはいけませんよ？=Ugh... Ho, não faça isso a mais ninguém, ok?
 覗くだけで何もなさらないとは……意地悪なお方です。=Você é uma pessoa desagradável para apenas espreitar e não fazer nada...

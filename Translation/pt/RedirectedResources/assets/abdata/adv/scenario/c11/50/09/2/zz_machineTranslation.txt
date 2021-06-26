@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うふふ、いい汗を掛けましたね。私もさっぱり致しました。=Você suou bem, não foi? Também me sinto refrescado.
 貴方も私が入っている所へ襲いに来て下さいね。=Você deveria vir e me atacar onde eu estou.
 汗を流すつもりが、汁を流してしまいましたね。=Você ia suar, mas conseguiu que os sucos fluissem.

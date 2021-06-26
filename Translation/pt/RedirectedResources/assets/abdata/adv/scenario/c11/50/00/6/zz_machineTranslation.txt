@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……私の場合、ですか？　怖くて、声をかけるのがやっとだと思います。=... No meu caso, você quer dizer... Acho que estou tão assustada que mal consigo falar com ele.
 踏み出すことは、とてつもない勇気が必要ですよね。私も、よく分かります……=É preciso uma tremenda coragem para sair de sua zona de conforto. Eu sei exatamente o que você quer dizer...

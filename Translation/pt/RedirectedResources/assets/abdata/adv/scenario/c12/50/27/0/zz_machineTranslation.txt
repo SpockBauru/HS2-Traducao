@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 楽しかったか？　だったら問題ないぜ。=Você se divertiu? Se assim for, não há problema.
 気持ち良かったな……お前も楽しめたみたいだし、満足だよな。=Isso soube bem... E fico feliz em saber que você também gostou.

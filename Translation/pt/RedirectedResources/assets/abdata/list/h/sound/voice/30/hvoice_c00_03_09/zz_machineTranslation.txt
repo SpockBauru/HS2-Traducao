@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぁぁ……身悶えることしか、出来ません……=Eu não posso fazer nada além de escrever...
 んんっ、徐々に、痺れて……ぁん、ん……=Mmm, está ficando entorpecido... Mmm...
 これっ、あんっ、感じる事しかっ、んんっ、できませんっ、んぁっ=Isto é, sinto que sinto, não posso fazer isso, não posso

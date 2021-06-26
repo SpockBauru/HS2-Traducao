@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 また、こうやって囲まれたい時には声をかけてみてください。=Além disso, se você quiser ser cercado desta maneira, dê-nos um grito.
 それでは、私達も一息入れてきますね。=Bem, então, também vamos respirar um pouco.

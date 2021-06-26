@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうか、もう、放して下さい=Por favor, deixe-me ir, por favor.
 私を、一体どうするつもりかしら？=O que diabos você acha que está fazendo comigo?
 待って、そんな所に、入り込んではダメよ=Espere, você não pode entrar ali assim.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 やっほ、来ちゃった♪　背中でもなんでも、洗ってあげるよっかー？=Ei, eu estou aqui... Você quer que eu lave suas costas ou algo assim?
 おっすー！　お背中流しサービスでーす！　まー他にも、色々サービスしたげてもいーよー？=Whoo! Serviço de esfoliação de costas! Bem, eu também posso lhe oferecer muitos outros serviços.
 どもども。いやー、丁度アタシもお風呂入りたくてさぁ。邪魔はしないよ？　気持ちくはしてあげたいけど……=Olá. Bem, eu só queria tomar um banho também. Não vou incomodar você. Eu quero fazer você se sentir melhor, mas...

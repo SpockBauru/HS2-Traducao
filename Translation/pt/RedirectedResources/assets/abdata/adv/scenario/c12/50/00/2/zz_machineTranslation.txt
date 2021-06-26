@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 いいぜ、俺もそうしたいと思ってたんだ。=Tudo bem, cara, já há algum tempo que eu queria fazer isso.
 いいに決まってるだろ。一緒に楽しもうぜ。=É claro que é bom. Vamos nos divertir um pouco juntos.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 汗を流して、また汗をかいて、忙しいこった。これでまた汗を流しにいったら、ループの発生か？=Suar, suar de novo, ocupado como o inferno. Agora, se eu for suar novamente, isso é o começo de um loop?
 汗を流すのもいいが、オマエとするのもなかなかサッパリするな。気分的にはこっちの方が上かもしれねぇ。=É bom trabalhar com suor, mas também é refrescante fazer isso com você. Acho que isto pode ser melhor para o meu humor.
 さて、また汗をかいちまったわけだが……しかも、下半身がぐしょぐしょだ。これはまた、身体を綺麗にしにいかねぇとな。=Bem, tenho suado novamente... E minha parte inferior do corpo está encharcada. Terei que ir me limpar novamente.

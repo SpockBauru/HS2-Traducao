@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……何故そこまでお急ぎになるのですか？=... Por que você está com tanta pressa?
 従いますので、手荒なことは止めていただけませんか？=Estou lhe obedecendo. Você pode parar de ser tão duro?
 私を失禁させるおつもりなのですね。=Você vai me fazer incontinente, não vai?

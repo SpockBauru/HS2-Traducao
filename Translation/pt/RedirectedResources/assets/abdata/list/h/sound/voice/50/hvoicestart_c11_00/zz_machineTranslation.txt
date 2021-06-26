@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 不束者ですが、よろしくお願い申し上げます=Sei que não sou muito bom nisto, mas obrigado pelo seu tempo.
 やはり、ドキドキ致します……=Ainda estou muito nervoso...
 ……ほ、本当にするのですか？=... Ho, você tem certeza de que quer fazer isso?

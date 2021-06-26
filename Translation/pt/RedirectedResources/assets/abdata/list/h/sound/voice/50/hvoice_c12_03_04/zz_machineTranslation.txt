@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、あぁ……いい……=Oh... Oh... Bom...
 んっ、あぁ……この感じで……=Mmm, oh... Assim sem mais nem menos...
 んっ、んん……ちゃんと……撮れてるのかよ？=Mmm, mmm... Você está... Você está recebendo?

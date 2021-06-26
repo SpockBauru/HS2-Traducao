@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 おう、また会ったな。なんだ、オレのことが気に入っちまったのか？　まぁ、悪い気はしねぇがな。=Oh, nos encontramos novamente. O quê, você gosta de mim agora? Bem, sem ofensa, mas...
 オマエも懲りねぇな。自分で言うのもなんだが、オレを何回も呼ぶってのは、相当変わりもんなんじゃねぇか？=Você nunca aprende, não é mesmo? Não acredito que estou dizendo isso, mas se você me ligar várias vezes, você deve ser muito estranho, certo?

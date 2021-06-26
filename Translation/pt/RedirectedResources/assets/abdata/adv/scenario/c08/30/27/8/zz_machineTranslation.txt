@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 えー、この世の中で最も気持ちいい行為「セックス」をお預けにされたらお先真っ暗っすよ～。=Bem, se você é forçado a deixar o ato mais prazeroso do mundo, "sexo", seu futuro é sombrio!
 …………えっ？　本当にやめちゃうんすかー？　てっきり高度なギャグなのかと～。=... O quê? Você realmente vai parar? Pensei que fosse uma mordaça avançada.

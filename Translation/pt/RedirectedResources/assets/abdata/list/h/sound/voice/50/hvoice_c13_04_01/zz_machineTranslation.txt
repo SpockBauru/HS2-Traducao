@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んん……これで……どうでしょうか……？=Hmm... E que tal isto?
 ぁぁ……悪くは、ないと思いますけど……=Oh... Não é ruim, eu acho...
 あぁ……ヌメヌメしますね……=Oh... É tão escorregadio...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ふは……身体中がどろどろですぅ……しばらく感触が残りそうですよー。=Huh... Meu corpo está tão escorregadio... Que a sensação vai ficar comigo por um tempo!
 かけてもらったところ、全部熱いです……はぁぁ、すごい……=Já me despejaram em cima e está tudo quente... Hahaha, ótimo...

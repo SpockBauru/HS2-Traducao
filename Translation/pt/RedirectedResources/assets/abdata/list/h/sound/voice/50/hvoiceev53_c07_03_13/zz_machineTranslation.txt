@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうした？　まさか、ヒトの身体はどう攻めていいか分かんねぇとかか？=O que está acontecendo? Não me diga que você não sabe como atacar um corpo humano?
 おい、コイツ寝てんのか？　目も顔もねぇから判断できねぇぞ……=Ei, ele está dormindo? Sem olhos, sem rosto, então não posso julgar...
 あぁっ、いい感じだ……上手く気持ちいいところを擦ってきやがる……=Ahh, isso é bom... Esfregar bem o meu bom lugar...

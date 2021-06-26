@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //セリフ{0}=Serif {0}
 ???=????
 こ、これは……ちょっと困ったことになってしまいました……はぅぅ……=Isto é... Isto é um pouco um problema... Haha...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 その……この後、まだお時間はありますか？　よろしければ……お話以外でも、貴方のことを教えてください。=Bem... Você ainda tem algum tempo depois disso? Se você não se importa... Por favor, me fale mais sobre você.
 えぇと、いきなりこんなことを言うのは、はしたないと思われてしまうかもですが……この後、シませんか？=Bem, sei que pode parecer imodesto dizer algo assim do nada, mas... Você gostaria de transar comigo depois?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んぷ、ぢゅっ…くひにちかぁがはいんらいっれ……（口に力が入らないって）=Ele não tem força na boca.
 ふむっ……あらしを……あんらのペットりゃ……ないんらからぁ……（アタシはアンタのペットじゃないんだから）=Eu não sou seu animal de estimação.
 はぶっ、んんっ、くひんなか、あんらのれいっぱいれっ……いぎっ、ぐぅじっ……（口ん中、アンタのでいっぱいで息苦しい）=Não consigo respirar com você na minha boca.

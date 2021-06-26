@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 こ、このようなところでご主人様にお会い出来るなんてっ……=Não acredito que estou encontrando meu mestre em um lugar como este.
 ご主人様っ……もしかして私を探してくれてたんですかっ……？=Mestre... Poderia ser que você esteja me procurando?

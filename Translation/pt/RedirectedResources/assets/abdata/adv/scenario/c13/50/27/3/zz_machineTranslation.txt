@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あの、女の子をイジメるプレイが好きなんですか……？=Hum, você gosta de brincar de atormentar as garotas?
 うう、もう少し優しくしてくれても……あ、いえ、なんでもないです、嫌いにならないでください……=Ugh, você poderia ser um pouco mais agradável para mim... Oh, não, não é nada, por favor não me odeie...

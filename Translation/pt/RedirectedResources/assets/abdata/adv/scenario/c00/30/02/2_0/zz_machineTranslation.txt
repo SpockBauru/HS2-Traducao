@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 上手な自撮りの撮影方法について、教えを乞いていたところです。=Eu estava apenas pedindo algumas instruções sobre como tomar uma boa fotografia de si mesmo.
 効果的なダイエットの方法を語り合っていました。=Estávamos discutindo formas eficazes de perder peso.

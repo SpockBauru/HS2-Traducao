@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、あの、ちょっと……？　どこへ行くんですか……っ=Oh, um, ei? Aonde você vai?
 あ……仕方ないですね、もう少しこの状況を楽しみますか……=Ah... Não há nada que possa ser feito. Vamos apenas aproveitar esta situação um pouco mais...
 っ……本っ当に不快な人ですね……っ=Você é uma pessoa realmente desagradável...

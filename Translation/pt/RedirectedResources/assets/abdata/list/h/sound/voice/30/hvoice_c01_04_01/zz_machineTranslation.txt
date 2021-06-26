@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こすれて……ん、気持ちいいでしょ？=Esfrega... É bom, não é mesmo?
 ぬるぬるして……ぁぁ……滑りやすいわ……=É viscoso e... Ahh... Escorregadio...
 そこぉ……あぁ、いい所に、当たってるわ……=Oh, aí... Oh, esse é um bom lugar...

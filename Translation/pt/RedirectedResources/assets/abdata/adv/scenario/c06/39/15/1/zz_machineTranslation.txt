@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたにお会いしたくなってしまいまして……宜しければ、少しお話いたしませんか……？=Gostaria de conhecê-lo e, se não se importa, gostaria de ter uma pequena conversa com você.
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 何度もお訪ねしてしまい申し訳ございません、あなたの側を片時も離れたくなくて……=Desculpe-me por continuar vindo até você, mas não queria deixar seu lado nem por um momento...

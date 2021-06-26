@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 あそこで蠢いている触手……今にも、私に絡みついてきそうですね……=Aquele tentáculo que se agita ali... Parece que está prestes a se enrolar em torno de mim...
 肢体にまとわりついて、破廉恥に責め立てて来て、私はなすすべもなく感じてしまうのです……=Agarram-se aos meus membros, acusando-me de falta de vergonha, e eu me sinto impotente...

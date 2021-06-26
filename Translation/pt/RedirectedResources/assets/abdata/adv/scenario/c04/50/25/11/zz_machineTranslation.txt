@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふーん、アンタってこっち系の趣味だったんだ？　ま、別にアタシはいーよー♪=Então, você tem esse tipo de hobby? Eu não sei, estou bem.
 ぅわ……これ、どっちを求められてんの？　アタシはアンタに合わせるよ？=Qual deles você quer que eu seja? Eu vou com você, está bem?
 あは、いいねいいね♪　ヤルからにはとことんてスタイル、嫌いじゃないよ♪=Eu não me importo com seu estilo de ir até o fim quando se trata de transar.

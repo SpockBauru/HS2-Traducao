@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 ふふ、貴方なら絶対ここにいると思いました。私は何でもお見通しですよ♪=Hehe, eu sabia que você estaria aqui. Eu sei tudo a seu respeito.
 ほら、会えました。特に意識もしていないのに会ってしまうのは、私達が運命のパートナーだという証拠ですね。=Veja, nós nos conhecemos. O fato de nos encontrarmos, embora não estejamos particularmente conscientes disso, é prova de que somos parceiros no destino.

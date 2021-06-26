@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 抜け出したいのに……これでは……=Eu estou tentando sair, mas... Isto não é...
 ぅ……私を助けてはくれないんですか……？=Você não vai me ajudar?
 んんっ……奥まで、入ってこないで、ください……=Mmm... Por favor, não entrem tão fundo...

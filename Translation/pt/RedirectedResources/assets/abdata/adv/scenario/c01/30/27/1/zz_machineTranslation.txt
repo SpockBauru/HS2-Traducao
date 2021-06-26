@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あなたが気持ち良かったなら、それで十分だわ。=Se isso fez você se sentir bem, isso é bom o suficiente para mim.
 あなたに喜んでもらえたなら、私もうれしいわ。=Fico feliz que isso o tenha feito feliz.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 もぉ、トイレくらい普通にさせてください……=Por favor, deixe-me ao menos ir ao banheiro como uma pessoa normal...
 いくらなんでも、流石に趣味が悪いですよ……=Não importa quantas vezes você o diga, é de mau gosto...
 まぁ、こういったアブノーマルなプレイに興奮するのはわからなくもないですけどね。=Bem, não sei se fico entusiasmado com este tipo de brincadeira anormal.

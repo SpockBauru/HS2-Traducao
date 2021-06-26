@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こうやって焦らされるのも好きなくせに……=Você gosta de ser apressado assim...
 おや、震えてきましたね。続けて欲しいんですか？=Oh, você está começando a tremer. Você quer que eu continue?
 んんっ、いい……です……！=Mmm... Está bem...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 それでは、失礼させていただきます。=Agora, se me dão licença.
 私たちはこれで失礼します。=Deixaremos você com isso.

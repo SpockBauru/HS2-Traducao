@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 もちろんOKっすよー。というかこんな改まって誘うなんてエラいっすねー。=É claro que está tudo bem. É muito gentil da sua parte me convidar de uma forma tão formal.
 むふふーなんか言わせちゃったっすかねー？　そんなことないすよねー？=Eu o obriguei a dizer alguma coisa? Não, você não fez, fez?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 三人で、上手くできるか心配でしたが……私もそれなりに頑張れたと思います。ふふ、気持ち……良かったです。=Nós três, eu estava preocupado que não conseguíssemos fazer direito... Mas acho que fiz o melhor que pude. Hehe, a sensação... Foi boa.
 なんと言うか、色々新しい発見があって……とにかく凄かったです。上手く言葉では、言えないのですが……=Não sei como dizer isto, mas descobri muitas coisas novas... E foi simplesmente incrível. Eu não posso realmente colocar isso em palavras, mas...

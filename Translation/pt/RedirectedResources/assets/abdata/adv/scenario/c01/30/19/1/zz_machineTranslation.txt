@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 よくわからないけど……腰に、力が入らないのよね。=Não sei o que é, mas... Minhas costas, não são suficientemente fortes.
 ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Ei, eu preciso ir ao banheiro... Você tem me escondido.
 なんだか、腰をやっちゃったみたいなの。動け、ないのよね。=Acho que estou com uma lesão nas costas. Eu não posso me mover, sabe?

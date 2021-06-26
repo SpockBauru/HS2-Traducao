@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //事後{0}=Após o fato {0}
 素敵なひと時でしたね。お客様……ご満足、いただけましたか？=Foi um momento maravilhoso. Cliente... Você ficou satisfeito?
 気持ち良くなっていただけましたか？　それなら私も満足です。=Isso fez você se sentir bem? Então eu também estou satisfeito.

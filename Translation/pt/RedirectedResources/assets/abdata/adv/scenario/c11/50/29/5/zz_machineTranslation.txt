@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 きゃっ……い、今から致すのですか……？=Você vai fazer isso agora?
 ひゃっ……せ、せめて身体を綺麗にしたいのですが……=Olá... Pelo menos quero limpar meu corpo...
 うふふ、貴方なら来て下さると信じておりました。=Hihihi, eu sabia que você viria.

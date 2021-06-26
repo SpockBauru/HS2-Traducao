@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私には縁遠い場所でして……お手数ですが、こちらのお店の作法をご教示頂きたく存じます。=É um lugar que não estou familiarizado... Gostaria que você me dissesse a etiqueta deste restaurante.
 たくさんのお酒があっても、私が酔うのは貴方ただ一人だけです。=Pode haver muitas bebidas, mas você é o único com quem eu posso me embebedar.
 ほろ酔いで情事に臨むのも、ぷれいの一環として楽しめそうですね。=Seria divertido ficar bêbado e ter um caso como parte de um presépio.

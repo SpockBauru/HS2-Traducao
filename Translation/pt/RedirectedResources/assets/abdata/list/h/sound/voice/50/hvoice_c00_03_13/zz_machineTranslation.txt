@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 放してくれる気配は……ありませんね……=Não há... Nenhum sinal dele... Deixando-o ir...
 いつまで、このままなのでしょうか？=Por quanto tempo vai ser assim?
 ん……不思議な、気持ち良さです……=Mmm... É uma sensação estranha...

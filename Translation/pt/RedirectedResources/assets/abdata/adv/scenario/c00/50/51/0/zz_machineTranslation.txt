@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //享楽{0}=Prazer {0}
 これは……私があなたを好きにして良いのでしょうか？=É isto... É isto que estou autorizado a fazer com você?
 では、あなたの望みを叶える為に、一肌脱がさせていただきます。=Agora, vou dar uma facada para lhe dar o que você quer.

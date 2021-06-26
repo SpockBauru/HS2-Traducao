@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 座学として女の性を学んだ教室で実技も学べるなんて、不思議な気持ちです。=É uma sensação estranha poder aprender habilidades práticas em uma sala de aula onde aprendi sobre a sexualidade feminina como uma sala de aula.
 保健体育の成績は優秀でしたけれど、実践ではいかがでしょう？　試してみてくださいますか……？=Você se destacou em Saúde e Educação Física, mas e na prática? Você gostaria de tentar?
 あなたにとって、教室とはどのような場所ですか？=Como é uma sala de aula para você?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 宇宙人について話してたんです！　信じるか信じないか、みたいなー！=Estávamos falando de alienígenas! Acredite ou não!
 ちょーど男同士の恋愛について語ってました！　ＢＬです、ＢＬ！=Ele estava falando de um pequeno romance de homem com homem! É BL, BL!

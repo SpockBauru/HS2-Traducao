@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぇっ！？　ちょっとアンタ！　馬鹿なんじゃないのっ！　てか、バレてるのに堂々と見るなし！　さっさと出てって！=Mas que diabos? Ei, você! Você é um idiota! E não olhe para mim quando eu souber que você está aqui! Desapareça daqui!
 ひゃう！？　はぁービビったぁ……アンタじゃなかったら、熱湯ぶっかけてたわ。で？　いつまでそこにいる気なん？=Mas que diabos? Se não fosse por você, eu teria jogado água fervente sobre você. Então? Quanto tempo você vai ficar lá?
 ねぇ、ひょっとしてバレてないとか思ってる？　アンタがどーすんのかなーって、こっちは結構期待してたんだけど。はぁ……流石に待ちくたびれた。=Você acha que eles não sabem? Eu estava me perguntando o que você iria fazer e fiquei bastante entusiasmado com isso. Estou tão cansado de esperar.

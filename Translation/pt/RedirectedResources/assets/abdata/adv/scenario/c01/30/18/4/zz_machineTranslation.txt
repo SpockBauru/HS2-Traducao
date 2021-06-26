@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 そのまま行っちゃうのね？　どうすればいいのよ。=Você vai simplesmente embora, não vai? O que eu devo fazer?
 ちょっと、このまま放置するつもりなの？　それは、それでいいけど。=Espere, você vai deixar as coisas assim? É disso que estou falando.
 ちょっと、助けてくれないのね？　どういうつもりなのよ。=Ei, você não vai me ajudar, vai? Eu não sei o que você pensa que está fazendo.

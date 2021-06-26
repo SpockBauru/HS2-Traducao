@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょ、ちょっと？！　どうしてこんな所に入ってくるのよ。=Ei, ei, ei! Por que você está entrando aqui assim?
 え、なに？！　どうしたの？　何かあったの？=Ohhh! O que está acontecendo? O que está acontecendo?
 あら、何かしら？　もしかして一緒に入りたいの？=Oh, o que é isso? Você quer entrar comigo?

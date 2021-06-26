@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁ、ちゃんと鍵、かけておくべきでした……=Eu deveria ter trancado a porta...
 せ、せめてノックしてください……そしたら、ちゃんと応じますから……=Ao menos bata e eu respondo.
 オナニー……あなたを釣るいい餌ですね。=Masturbação... É uma boa isca para pegar você.

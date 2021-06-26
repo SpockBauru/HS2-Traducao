@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 これなんなんすか？　うねうね動いてるっすよ？=O que é isso? Está balançando.
 うわ……なかなか変わった生き物っすね……どっから生えてきてるんすか？=Uau... Essa é uma criatura bastante incomum... De onde ela cresce?
 うぉ、触手じゃないっすか？　こんなのどっから持って来たんすか。=Uau, esses não são tentáculos? De onde você tirou isso?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 大分、こういうことにも慣れてきたな。おい、次からはもっと色々試していくぞ？　お互い遠慮はなしだ。=Estou me acostumando muito a estas coisas. Tentaremos mais coisas da próxima vez, certo? Não há barreiras.
 よし、流石に初心者は卒業ってところか？　オマエには、それなりに感謝してるよ。=Ok, acho que estou acabado de ser um iniciante, não é? Sabe, sou grato por isso.

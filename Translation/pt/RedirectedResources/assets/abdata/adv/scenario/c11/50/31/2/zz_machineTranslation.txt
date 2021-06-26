@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お待たせして、申し訳ございません。=Sinto muito por tê-los feito esperar.
 申し訳ございません、次からはこの様なことが無いように注意致します。=Pedimos desculpas pelo inconveniente e tomaremos cuidado para não fazer isto novamente.
 お待たせ致しました。……貴方の視線を感じた気がしたのですが、気のせいでしょうか？=Desculpe por tê-lo feito esperar... Eu pensei ter sentido seus olhos em mim... Ou era minha imaginação?

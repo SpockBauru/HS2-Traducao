@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定2普通{0}=Responder afirmativo 2 normal {0}
 やはりそうですよね、同じ意見で嬉しいです。=Eu sabia que você estava certo, e estou feliz por estarmos na mesma página.
 私も同意見です。=Eu concordo com você.

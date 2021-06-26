@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 待て、オレはイってねぇぞ？　こういうのは、お互い気持ちよくなんねぇとダメだろうが。=Espere, eu não gozei, gozei? Este tipo de coisa só é bom se nos faz sentir bem a ambos.
 おい、自分だけイって終わりか？　あんまりオレを失望させるなよ？=O quê, você vai simplesmente se deixar levar? Não me decepcione muito, está bem?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 なんなの？　このまま放って置くつもりぃ？=O que é isso? Você vai me deixar aqui assim?
 ねぇ、こんな状態で放って置かれても困るんだけどー？=Ei, não quero ser deixado assim sozinho, mas...
 あぁ、奥まで……来てるよぉ……=Oh, está entrando...

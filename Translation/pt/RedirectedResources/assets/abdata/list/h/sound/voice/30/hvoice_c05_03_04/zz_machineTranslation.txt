@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁっ、んっ、あぁぁ……じ、自分でするの……恥ずかしいです……=Ah, eu sou... Sinto muito... Eu estou embaraçoso...
 はふ、ん……あ、あぁ、自分の指なのに……興奮しちゃう……あぅぅ……=Huh, hmm... Oh, é o meu dedo... Mas estou tão excitado... Ahhh...
 あっ、んんっ、こ、こんな姿……撮られちゃうなんて……んんっ！=Ah, mmm, não posso acreditar que estou sendo filmado assim... Mmm!

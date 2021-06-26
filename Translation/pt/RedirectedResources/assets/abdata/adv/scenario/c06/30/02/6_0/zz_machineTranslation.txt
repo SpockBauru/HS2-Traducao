@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後A普通{0}=Sexo posterior A normal {0}
 やはり３人ですると、刺激的ですわね……=É muito mais emocionante quando somos só nós três...
 いつもとは違うお勉強ができたと思います。=Acho que pude aprender algo diferente do habitual.

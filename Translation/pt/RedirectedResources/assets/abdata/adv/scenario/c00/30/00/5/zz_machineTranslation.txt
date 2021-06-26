@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 最近楽しみにしていること……セックス以外にはないですね。つまらない女ですみません。=O que eu tenho esperado ultimamente... Nada além de sexo. Sinto muito, sou uma mulher entediante.
 ……そう、ですね……。受け、責め……自分がどちらかはあまり意識したことがありません。=... Sim, acho que... Recebendo, punindo... Nunca tive realmente consciência do que sou.

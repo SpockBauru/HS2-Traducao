@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はじめまして、あなたが私のパートナーになってくださる方ですか？=Prazer em conhecê-lo. Você é o único que será meu parceiro?
 ああ、よかった……私、こちらには女としての性を学ぶために参りました。お会いして早々不躾ではございますが、男女の営みをお願いしても宜しいでしょうか？=Ainda bem... Estou aqui para aprender sobre a sexualidade feminina. Lamento conhecê-lo tão cedo, mas posso pedir-lhe que tenha sexo comigo?

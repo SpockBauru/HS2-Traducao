@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どの様に攻めれば宜しいですか？=Como eu devo atacar?
 早く貴方に気持ちよくなって頂きたいです……=Mal posso esperar para fazer você se sentir melhor...
 んん、孕むまで離しません……=Não vou deixá-lo ir até que esteja grávida...

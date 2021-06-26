@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたなの？　ちょっと待って……縄が、絡まってるのよ。=É você? Espere um minuto... A corda, ela está emaranhado.
 ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Ei, eu preciso ir ao banheiro... Você tem me escondido.
 あのね……色々試してたら絡まっちゃってすごく困ってるのよ。=Sabe... Tenho tentado muitas coisas diferentes e estou realmente emaranhado e com problemas.

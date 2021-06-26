@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 さて、今日も、一緒に楽しもうか。=Bem, hoje vamos nos divertir um pouco juntos.
 緊張しないで、楽に行こうぜ、お互いにな。=Não fique nervoso, vamos com calma, nós dois.

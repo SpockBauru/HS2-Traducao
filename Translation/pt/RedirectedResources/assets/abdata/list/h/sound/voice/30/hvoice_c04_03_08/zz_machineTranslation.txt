@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょっ、えっ、これっ、中で震えてっ、はぁっ、変な感じぃっ！=Espere, o quê? Está tremendo dentro de mim, é tão esquisito!
 あぁっ、動けないしブルブルだし、おかしくなりそっ……！=Não consigo me mexer, estou tremendo, estou ficando louco...
 あっ、ぐっ、せめてっ、動けるようにしてぇっ！　んぁあっ！=Ah, cara, me ponha em movimento! Ahh!

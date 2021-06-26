@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
 なんだ？　人数が一人増えただけでビビってんのか？=O que é isso? Mais uma pessoa e você se passa?
 おい、ただ邪魔しに来ただけか？　クソ悪趣味だな。=Ei, você veio me interromper? É de mau gosto, porra.

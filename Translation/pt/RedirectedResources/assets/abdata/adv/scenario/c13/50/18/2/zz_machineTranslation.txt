@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //ありがとうございます……嫌いにならないでくれますか……？=Obrigado... E por favor não me odeie?
 あなたの前でしてしまったら嫌われてしまうので、本当にありがとうございました……じゃあ、トイレに行ってきますね……=Se eu fizesse isso na sua frente, você não iria gostar. Muito obrigado... Bem, eu vou ao banheiro...
 //うふふ……あの状況で助けてくれるなんて……本気で愛されているんですね、私……=Ufufu... Que você me ajudaria nessa situação... Você deve me amar seriamente, eu...

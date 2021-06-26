@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はぁあ、凄い匂いです……濃すぎてクラクラします。これが……二人分の精液の匂い。しばらく、身体に染み付いてしまいそうですね。=Huh, tem um cheiro incrível... Tão espesso que me deixa tonto. Este... É o cheiro do sêmen de duas pessoas. Acho que vai se infiltrar no meu corpo por um tempo.
 お二人とも、大分たくさん出しましたね。ふふ、私が上手くできた証拠……でしょうか。お役に立てたようで、何よりです。=Ambos deram muito de si. Hehe, prova de que eu me saí bem... Acho eu. Estou feliz por ter podido ajudá-los.

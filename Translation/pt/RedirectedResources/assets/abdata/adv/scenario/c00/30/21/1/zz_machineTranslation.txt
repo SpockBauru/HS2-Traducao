@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //セリフ{0}=Serif {0}
 ありがとうございます。……他の方のことなど、直ぐに忘れさせてみせます。=Muito obrigado... Farei você esquecer os outros em pouco tempo.
 誠に嬉しい限りです。ここから先は、私とセックスすることだけをお考えになってください。=É para mim um prazer sincero. Daqui em diante, por favor, pense apenas em fazer sexo comigo.

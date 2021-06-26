@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょ、ちょっと……こんな時に入ってくるなんて。=Ei, ei... Você não pode simplesmente entrar aqui em um momento como este.
 待って？！　こんな事してる時に来るなんて。=Espere, espere, espere! Não posso acreditar que você está aqui quando estou fazendo isto.
 やだ、見てたのね……興奮してきちゃうかも。=Oh não, você tem me observado... E eu acho que estou ficando excitado.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 うふふ、お酒を飲んでいたら、身体が火照ってしまいました。=Ummm, eu estava bebendo e meu corpo estava pegando fogo.
 貴方も同じではありませんか？　お顔、赤くなっていますよ。=Não é a mesma coisa com você? Seu rosto está ficando vermelho.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリA普通{0}=Prelúdio A Normal {0}
 そ、そうなんですね……あ……=Ah, estou vendo... Uh...
 私もおっかなびっくりなんですけど……あ、こんにちは……=Eu também estou um pouco assustado, mas... Oh, olá...

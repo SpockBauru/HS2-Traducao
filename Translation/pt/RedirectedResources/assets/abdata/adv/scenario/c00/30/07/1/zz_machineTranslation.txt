@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 すぅ……すぅ……んぅ……？=Mmm-hmm?
 んぅ……ずっと……お傍に……=Mmm. Fique comigo.
 すぅ……すぅ……ふふ……=Mmm. Mmm. Mmm. Hihihi.

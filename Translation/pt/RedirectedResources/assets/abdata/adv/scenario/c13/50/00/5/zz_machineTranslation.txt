@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 その……最近、ムラムラすることが多くなったような気がして……たとえば……=Quero dizer... Ultimamente, tenho me sentido cada vez mais excitado... Como...
 いまの私には、正直レベルの高い過ぎる話です……少しずつステップアップしていければいいんですけど……=Para ser honesto, é um nível muito alto para mim neste momento... Espero poder subir pouco a pouco...

@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 たくはん……あしょびまひょぉ……(たくさん遊びましょう)=(Vamos jogar muito)
 きもぉひいこほを……いっはいひまひょう……(気持ちいいことをいっぱいしましょう)=(Vamos fazer muitas coisas agradáveis)

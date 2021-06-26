@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 結婚式の次にすることは、お分かりですか？=Você sabe o que vai fazer a seguir após o casamento?
 結婚と言えば、初夜のちぎりですわ。=Falando em casamento, é minha noite de núpcias, Chigiri.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぁっ！？　なんで今っ！　ちょっと……最悪っ！　あーもう、恥ずかし過ぎっ！　早く出てってよぅ……！=Uau! Por que agora? Ohhh! Estou tão envergonhada! Apenas saia daqui!
 えぇっ！？　うそっ！　まさか、覗いてたのっ！？　ど、どこから見てた？　正直に言えー！=Ohhh! Oh, não! Você estava me espionando? Onde você estava procurando? Diga-me!
 んひゃっ！？　お前……もー、一人で楽しんでたんだから、ふたりになっちゃだめだってー♪=O quê? Você estava se divertindo sozinho, você não pode ficar sozinho comigo...

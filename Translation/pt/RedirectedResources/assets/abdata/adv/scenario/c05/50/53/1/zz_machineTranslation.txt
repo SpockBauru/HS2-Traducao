@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 あぁ……絡みつかれてた箇所が……まだ熱いです……=Oh... A parte onde eu me enredei... Ainda está quente...
 こ、これ……癖になっちゃったら……どうしましょう……？　心配です……=O que devo fazer se isto... Se tornar um hábito? Estou preocupada...

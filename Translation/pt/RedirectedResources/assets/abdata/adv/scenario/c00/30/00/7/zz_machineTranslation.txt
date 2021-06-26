@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……なるほど、それは凄いですね。精力剤には懐疑的な立場でしたが、考えを改める必要がありそうです。=... Estou vendo, isso é ótimo. Sempre fui cético em relação aos comprimidos de energia, mas acho que preciso mudar de idéia.
 お気に入りのローターは肌身離さず持ち歩いています。手元にないと、何だか不安になってしまうんです。=Eu carrego meu rotor favorito comigo. Se eu não o tenho comigo, fico meio ansioso.

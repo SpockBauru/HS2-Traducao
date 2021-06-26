@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ぁ……この様なみっともない姿をお見せして、申し訳ございません。=Ah... Sinto muito em mostrar-lhe uma visão tão vergonhosa.
 んんっ……す、すみませんっ。事情は明かせないのですが……助けていただけないでしょうか？=Mmm... Sinto muito. Não posso contar o que aconteceu, mas... Você pode me ajudar?
 この様な姿で失礼致します。……そのお顔は、何か企んでいらっしゃいますか？=Peço desculpas por minha aparência... O que é esse olhar em seu rosto, você planeja fazer?

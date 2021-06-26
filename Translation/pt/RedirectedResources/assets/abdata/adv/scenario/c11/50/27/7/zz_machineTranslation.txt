@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 人数の差を物ともしないとは……流石です。=Estou impressionado que você possa lidar com a diferença em números.
 他の女性の前で絶頂してしまうなんて……顔が赤くなってしまいます……=A idéia de clímax diante de outra mulher... Me faz corar...

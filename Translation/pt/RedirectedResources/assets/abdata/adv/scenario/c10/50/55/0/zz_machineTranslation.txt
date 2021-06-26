@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 もしかして、私を永遠のパートナーにと考えてもらえているのですか？=Poderia ser que você esteja pensando em mim como seu parceiro eterno?
 なら、そのお気持ちには全力でお応えしなければいけませんね……=Então, devo fazer o meu melhor para retribuir o seu sentimento.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 本当に、触手を相手にしなければならないのですか？=Você realmente tem que lidar com tentáculos?
 触手の相手など、気乗りがしません=Não tenho vontade de lidar com um tentáculo.
 年甲斐もなく、胸が高鳴っています=Meu coração está batendo do peito para a minha idade!

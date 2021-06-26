@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたのペースでやればいいんじゃないでしょうか。=Você pode fazer isso em seu próprio ritmo.
 迷っているなら、相談してくれてもいいんですよ。=Se você não tem certeza do que fazer, pode falar comigo sobre isso.
 あ、あっ、これはっ……く、大事なところが、裂け、ますねっ……=Oh, não, isto é... Está cavando numa parte muito importante...

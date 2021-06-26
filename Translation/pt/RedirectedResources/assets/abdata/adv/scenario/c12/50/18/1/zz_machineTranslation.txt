@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いや、ちょっと試したいことがあったから…そしたらこんがらがっちゃって。=Não, eu só queria experimentar algo, e depois fiquei confuso.
 う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=Não posso acreditar que sinto a necessidade de fazer xixi em uma hora como esta.
 悪い、とりあえず助けてくれるとありがたいんだけど……=Desculpe, eu realmente apreciaria se pudesse me ajudar de qualquer maneira...

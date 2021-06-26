@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、あぁっ、んんっ、中でっ……すごいっ、動いてますぅっ……=Oh, oh, oh, oh, está dentro... Está se movendo tão rápido...
 あぁんっ、身体動かないのにっ……びくびくしちゃいますっ……=Aaah, eu nem consigo mexer meu corpo... Mas estou tão nervoso...
 んっくぅぅっ！　あぁっ！　中ぁっ、めちゃくちゃ擦れてますぅっ！=Unh! Unh! Ahh! Por dentro, está esfregando com tanta força!

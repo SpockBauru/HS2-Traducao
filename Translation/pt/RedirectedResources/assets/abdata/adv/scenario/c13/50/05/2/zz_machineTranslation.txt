@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ……よかった、あなたにならどの角度から見られても大丈夫だったので……=Ótimo, porque eu estava bem com você me olhando de qualquer ângulo...
 目の前でさせるのと、こっそり覗くのはまた別ですよね、うふふ……=Uma coisa é deixá-los fazer isso na sua frente, outra é dar uma olhada, hihihi...

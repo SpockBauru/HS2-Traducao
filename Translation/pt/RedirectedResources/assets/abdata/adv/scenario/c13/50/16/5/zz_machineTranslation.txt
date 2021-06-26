@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 もう許してください……これ以上、私につきまとうのはやめてください……=Por favor, me perdoe... E não me siga mais por aí...
 帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

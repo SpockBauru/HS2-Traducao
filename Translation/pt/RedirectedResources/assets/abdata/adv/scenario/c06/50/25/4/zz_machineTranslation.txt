@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 懐かしいですわ、私も小さい頃は悪いことをするとお仕置き部屋に閉じ込められてしまったものです。=Quando eu era pequeno, eu costumava ficar trancado na sala de punição se fizesse algo errado.
 ……え、そういうお部屋ではないんですの？　では、何も知らない私に色々と教えてくださいますか？=... Bem, não é esse o tipo de quarto que você está procurando? Então, você vai me ensinar muitas coisas sobre as quais eu não sei nada?
 あのう……仲睦まじい夫婦には似つかわしくないお部屋のように感じられるのですが……=Um... Esta sala parece deslocada para um casal que está tão perto...

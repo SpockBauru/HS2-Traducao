@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 うん、結構色々話せたんじゃない。楽しかったよ♪=Sim, nós falamos de muitas coisas, não falamos? Foi divertido. ♪
 よっし、お話終了！　有意義な時間でしたっ♪=Muito bem, já terminei de falar. Foi um bom momento.

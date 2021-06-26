@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 え、ちょ、どこへ連れてく気ですか……っ！？=O quê? Espere, para onde você está me levando?
 え、あの、話聞いてましたか……？　ちょっと……っ=Hum, você ouviu o que eu disse? Espere...
 あら、こんな状態の私を連れ回す気ですか……？=Oh, você está me levando neste estado?

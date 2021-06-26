@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁ……自分で、慰めるなんて……=Eu não acredito que estou me consolando.
 あっ、んん……ゆっくりでも……気持ちいい……=Ah, mmm... Lento mas... Agradável...
 あっ、んん……せめて……綺麗に撮って下さいませ……=Oh, mmm... Pelo menos... Tire uma bela foto...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……そ、そうですね……好きな方に喜んでもらえるのなら……わ、私はいいと思いますけど……=... Bem, sim... Se isso faz a pessoa que você gosta feliz... Uau, eu acho que é bom...
 ……え、えっと……こうやってお話する時間も……そ、そういうことに含まれるんだと思います……=... Bem, hum... O tempo que passamos falando assim... Bem, acho que isso faz parte...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ま、まだ少し緊張しますけど……私も色々経験したいので……よろしくお願いします……はぅぅ……=Bem, ainda estou um pouco nervoso... Mas também quero experimentar muitas coisas... Então, por favor, cuide de mim... Haha...
 は、初めての時よりはずいぶん勇気が出せますけど……でも……やっぱりドキドキします……=Sou muito mais corajoso do que era da primeira vez, mas ainda estou nervoso...

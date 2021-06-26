@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 頭、おかしいって……=Você é louco...
 ちょっと…抜いてって…=Você pode simplesmente... Retirá-lo?
 こんな所、誰かに見られたら…=Se alguém gozar aqui...

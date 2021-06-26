@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……女性の方とは、思いもよりませんでした。ですが問題ございません。共に快楽を求めることに変わりはありませんから。=... Eu não tinha idéia de que era uma mulher. Mas não é problema. Ambos queremos o mesmo prazer.
 乙女の柔肌を重ね合う……既に淫靡な雰囲気が漂っている気がします。=A pele macia da donzela está empilhada uma em cima da outra... Sinto que já existe uma atmosfera lasciva no ar.

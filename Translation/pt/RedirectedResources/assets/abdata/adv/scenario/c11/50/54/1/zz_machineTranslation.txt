@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //壊れ{0}=Quebrado {0}
 あん……あんあん……あん……=Ana... Ana Ana... Ana...
 わぁくしは……あにゃはのかぃいぬれす……=Eu... Sou... A... A...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //享楽{0}=Prazer {0}
 どう、でした……？　私の責め方で……悦んでもらえましたか……？=Você gostou? O meu método de tortura... Lhe deu prazer?
 あなたが満足するまで……私は責め続けたいです……=Até estar satisfeito, quero continuar punindo...

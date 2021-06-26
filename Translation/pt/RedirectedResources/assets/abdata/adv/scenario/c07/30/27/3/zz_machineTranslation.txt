@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 結局、痛い方が強かったぞ？　こういうことは、もっと上手く出来るようになってからしろ。=Afinal de contas, a dor era mais forte. Você terá que aprender a fazer estas coisas melhor.
 オレを痛めつけて楽しかったか？　自己満足も大概にしろよ。=Você gostou de me torturar? Não seja tão egocêntrico.

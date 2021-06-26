@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 この電車、どこにつながってるんだ？=Aonde este trem leva?
 こんな所に電車が走ってたんだな……知らなかったぜ。=Eu não sabia que havia um trem correndo aqui... Não sabia disso.
 電車なんかに乗って、どこに行くつもりだ？=Aonde você pensa que vai, entrar em um trem?

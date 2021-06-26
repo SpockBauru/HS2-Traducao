@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぅ、不気味です……=Isso é assustador...
 この触手……外して頂けませんか……？=Você poderia por favor remover este tentáculo?
 あっ、ぁぁ……感じて、しまいます……=Oh, não posso deixar de sentir...

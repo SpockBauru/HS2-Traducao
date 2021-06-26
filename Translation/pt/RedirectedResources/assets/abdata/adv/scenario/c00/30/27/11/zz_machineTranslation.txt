@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 何度も肌を重ねたからか、以前より深く繋がれた気がします。=Talvez seja porque já fomos pele a pele tantas vezes, mas sinto que nos conectamos mais profundamente do que nunca.
 私たち、身体の相性がさらに良くなったのでしょうか？　今日はいつも以上に楽しいセックスでした。=Tornamo-nos ainda mais compatíveis fisicamente um com o outro? O sexo de hoje era ainda mais agradável do que o normal.

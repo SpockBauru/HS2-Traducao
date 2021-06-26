@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あの……攻めても構いませんか？=Um... Você se importa se eu atacar?
 ご不満がありましたら、仰っていただけると……=Se você tiver alguma reclamação, por favor nos avise...
 とへも……なぇがいがありまふ……(とても舐め甲斐があります)=(É muito lambível)

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うく……こんな所で挿れちゃうなんて……ぁあっ、どんだけ常識ないの……？=Não acredito que estou prestes a ficar preso num lugar como este... Ahh, quão incomum isso é?
 信じらんない……なんでこんな大きくしてんの……時と場所とかいうレベルじゃないっしょ……=Não posso acreditar... Por que você está fazendo isso tão grande... Não é a hora nem o lugar...
 ぁあっ、別に感じてるわけじゃないけど……奥突かれると声出そうにっ……=Não é que eu não esteja sentindo, mas... Quando você me empurra para dentro de mim, eu quase gritei.

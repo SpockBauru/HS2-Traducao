@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あなたの趣味というか……性癖がわかってきたら、急にエッチが身近に感じられたんです……どうしてでしょうね……？=Quando comecei a entender seus hobbies... Ou melhor, seus hábitos sexuais, de repente me senti mais próximo do sexo... Pergunto-me por que?
 あのう……もしかして私たち、仲良くなったんでしょうか……今日のエッチ、とっても気持ちよかったんです……=Um... Poderia ser que nos tenhamos tornado amigos... O sexo de hoje soube muito bem...

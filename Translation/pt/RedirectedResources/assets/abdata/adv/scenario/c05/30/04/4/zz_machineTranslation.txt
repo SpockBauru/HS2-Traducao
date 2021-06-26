@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ひゃっ、あっ……うそっ……どうしてあなたがっ……？=Por que o senhor?
 えぇっ、い、いつから見てたんですかっ？=Oh, há quanto tempo você está observando isso?
 ひゃんっ！　み、見られてたかと思うとっ……余計に興奮しちゃいますっ……=Aah! Pensar que você estava me observando me deixa ainda mais animado...

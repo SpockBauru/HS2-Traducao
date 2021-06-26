@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 さぁ、始めましょうか。こちらの準備は整っていますので。=Ok, vamos começar. Estamos prontos para você.
 いつでも始めてください。貴方の期待に応えてみせます。=Você pode começar a qualquer momento. Vamos ao encontro de suas expectativas.
 それでは……不束者ながら、お相手させて頂きます。=Bem, então... Embora eu não seja muito bom nisso, gostaria de brincar com você.

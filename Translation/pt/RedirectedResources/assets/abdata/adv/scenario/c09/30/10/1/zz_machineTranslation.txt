@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふっふっふ、まさかわたしが乱入するとは思ってなかったでしょー？=Você não pensou que eu fosse invadir, não é mesmo?
 少しでもあなたさんのお手伝いがしたくて来たんですがー……あれ、照れちゃってますか？=Eu vim aqui para ajudá-lo de todas as maneiras que posso, mas... Oh, você está envergonhado?
 あなたさんがおトイレしている姿、どうしても見たくなっちゃいました……だって愛してるんですもん。=Eu queria muito ver você ir ao banheiro... Porque eu te amo.

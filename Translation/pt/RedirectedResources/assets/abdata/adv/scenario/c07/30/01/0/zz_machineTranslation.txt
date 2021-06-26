@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 //よお、どこにいたんだ？　オマエは常にオレの視界に入ってなきゃダメだろ？=Onde você estava? Você deve estar sempre à minha vista, certo?
 //よし、見つけた。しばらくオレから離れることを禁止する。分かったな？=Certo, eu encontrei. Você não deve me deixar por um tempo. Isso está claro?

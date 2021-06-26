@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……触手との意思疎通は難しそうです……=Vai ser difícil comunicar com os tentáculos.
 えっと……どうして、攻めてこないんでしょう……？=Bem... Por que eles não estão nos atacando?
 あぁ……中々、悪くないです……=Oh... Não é tão ruim assim...

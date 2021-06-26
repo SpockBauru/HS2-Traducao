@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 この時間も、とても愛おしく感じます=Desta vez também estou adorando!
 お疲れでしたら、休憩時間に致しましょう=Se você estiver cansado, podemos fazer uma pausa.
 ああっ、ずぶずぶと、奥まで……=Está a entrar e a sair...

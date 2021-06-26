@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 色々お話できて楽しかったですね♪　意見の交換は、やはり大事です。=Foi divertido falar sobre várias coisas... É importante trocar opiniões.
 貴方のおかげで、また違った見かたができそうです。お話できて良かったです。=Graças a você, serei capaz de ver as coisas de maneira diferente. Estou feliz por termos conversado.

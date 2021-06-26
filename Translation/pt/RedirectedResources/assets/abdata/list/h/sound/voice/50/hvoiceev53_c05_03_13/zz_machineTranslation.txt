@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 は、早く……滅茶苦茶にしてほしいです……=Ha, mal posso esperar que você... Estrague tudo...
 ど、どうして何もしてこないんでしょう……？　疲れて、いるとか……？=Por que ele não faz nada? Você está cansado?
 あぁ……そこ、そこです……気持ちいい……=Oh... Aí mesmo, aí mesmo... Isso é bom...

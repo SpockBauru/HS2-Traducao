@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あー、つまりなんだ……本格的にしようってことか？　オレの身体をオマエ好みにしようってんなら、それなりの覚悟が必要だぞ？=Oh, você quer dizer... Você quer ficar sério? Se você vai fazer meu corpo do jeito que você quer, terá que estar preparado para isso, certo?
 オレを調教しようってか？　それだけオレは気に入られたってわけか？　いいだろう、オマエの好きなようにやってみろ。=Você quer me treinar? É assim que você gosta de mim? Tudo bem, você faz o que quer.
 これはまた、大層なところに連れてこられたな。面白そうなもんがたくさん並んでやがる。=Este é outro grande lugar para o qual fomos trazidos. Há tantas coisas interessantes alinhadas.

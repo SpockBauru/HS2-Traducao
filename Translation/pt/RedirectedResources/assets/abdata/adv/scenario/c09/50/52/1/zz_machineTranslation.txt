@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 もう……わたしはあなたさんの傍にはいたくないですよ……=Não quero mais estar perto de você...
 どうしてわたしなんですか？　わたしじゃないといけないんですかぁ？=Por que eu? Tem que ser eu?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、良かった……えへへ、少しだけお話しませんか？=Ah, bom... Ehehe, por que não conversamos um pouco?
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 またお話聞いて欲しくて来ちゃいました。=Eu vim aqui porque queria falar com você novamente.

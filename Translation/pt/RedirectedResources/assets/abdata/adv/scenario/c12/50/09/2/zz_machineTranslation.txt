@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 やっぱり一緒にシャワー浴びるのって……恋人同士みたいで悪くないよな、うん。=Afinal de contas, tomar banho juntos... Não é tão ruim como os amantes, certo?
 どうだ、一緒に浴びた方が色々と気持ち良かっただろ、な？=Deve ter sido muito mais agradável tomar banho juntos, não é?
 お前とのシャワー、気持ち良かったぜ……また、よろしくな。=Foi bom tomar banho com você... Novamente.

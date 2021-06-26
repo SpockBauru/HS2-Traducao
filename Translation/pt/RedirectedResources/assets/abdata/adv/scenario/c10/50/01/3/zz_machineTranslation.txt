@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話{0}=Conversação {0}
 ふふ、面白い冗談です。私と貴方が会った……なら、することは一つ。貴方に拒否権なんて無いのですよ？=Hehe, piada engraçada. Quando você e eu nos encontramos, só há uma coisa a fazer. Você não tem o direito de recusar.
 あら、おかしなことを言うのですね。今日は調子が悪いのですか？　なら……ゆっくりスることにいたしましょう。=Oh, você é louco, não é? Você não está se sentindo bem hoje? Então... Vamos com calma.

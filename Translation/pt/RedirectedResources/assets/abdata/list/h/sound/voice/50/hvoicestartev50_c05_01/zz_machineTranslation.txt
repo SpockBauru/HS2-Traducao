@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はい……あなたが満足するまで……今夜はしましょう……=Sim... Até que você esteja satisfeito... O que faremos hoje à noite...
 わ、私は……朝までしても……大丈夫です……=Ficarei... Bem... Até de manhã...

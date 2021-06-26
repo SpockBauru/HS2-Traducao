@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=Na verdade, você sabe, eu me sinto mais confortável em seu quarto... Posso vir aqui mais vezes a partir de agora?
 //汎用{0}=Objetivo Geral {0}
 やっぱり、お前と一緒の時間が一番きもちいいぜ……なんか、照れちまうな、アハハ……=Afinal, me sinto o melhor quando estou com você... Sinto-me tão envergonhada...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……お預けされると、おかしくなってしまいそうです=... Acho que vou enlouquecer se você me deixar aqui.
 私、あまり我慢強い方ではないので……始めても宜しいでしょうか？=Eu não sou uma pessoa muito paciente, então... Posso começar?
 あんっ、お待ちしておりました……=Ah, eu estava esperando por você...

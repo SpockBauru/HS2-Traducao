@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 風呂でするのか……まぁ悪くない。好き放題に汚せるっていうのは、何かと便利そうだしな。=Fazer isso no banho... Bem, isso não é tão ruim assim. O fato de que você pode sujar o quanto quiser parece ser útil.
 お互いのぼせちまいそうだな。風呂に普通に入るってわけじゃねぇんだしよ。=Acho que estamos ambos ficando um pouco quentes. Não é como se fôssemos tomar um banho normal.
 風呂でするのはいいが、足を滑らせるなよ？　お互い色々と、滑りやすくなるもんを出すことになるだろうからな。=Você pode fazê-lo na banheira, mas não escorregue, certo? Ambos colocaremos para fora todo tipo de coisas que o tornarão escorregadio.

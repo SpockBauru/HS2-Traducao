@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あは、たくさんかけてくれたねぇ……別に嫌じゃないけどさ。匂いが濃すぎ。=Haha, você derramou muito sobre mim... Não que eu não goste. O cheiro é muito espesso.
 冷静になると、これだけ出せるって凄くない？　まぁ、かけ過ぎだとは思うけど。少し見直しちゃった。=Se você não se importa com isso, não é incrível que você consiga tirar tanto dela? Bem, eu acho que é demais. Estou repensando um pouco.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁ……私の身体……もしかして探られてしまっていますか？=Huh... Meu corpo... É possível que eu tenha sido explorado?
 あの……まさか絡み付かれるだけで終わり……ですか？=Hum... Não me diga que você só vai ficar emaranhado e pronto?
 んんぅっ……締め付けてあげたら、触手も気持ちいいのでしょうか？=Mmmm... Seria bom para os tentáculos se eu os apertasse?

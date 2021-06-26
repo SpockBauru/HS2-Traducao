@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 初めてのご来店のお客様へ、当店の概要やご利用方法をご説明させて頂くサービスがございますが、如何致しましょうか？=Temos um serviço que explicará o perfil e a utilização do nosso estabelecimento aos clientes que a visitam pela primeira vez. O que devemos fazer?
 畏まりました。　では、まずは当店のご説明をさせて頂きます。=Entendido. Então, em primeiro lugar, explicarei nosso estabelecimento.
 当店は、お客様の理想のパートナーを見つけて頂く場となっております。=Nosso estabelecimento é um lugar onde você pode encontrar seu parceiro ideal.

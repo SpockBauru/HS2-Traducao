@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 もっとはっきりと、あなたにお伝えすべきでした。=Eu deveria ter sido mais claro com você.
 この様なみっともない姿をあなたに見せたくはありませんでした。=Não queria que você me visse em um estado tão vergonhoso.
 お愉しみいただけたのでしたら、何よりでございます。=Esperamos que tenha gostado de sua estadia conosco.

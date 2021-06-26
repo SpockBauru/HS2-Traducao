@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 とても楽しみです=Estou muito entusiasmado.
 どの様に攻めて下さるのでしょうか？=Como você nos atacará?
 いつ始めて頂いても、問題ございません=Não importa quando você começa.

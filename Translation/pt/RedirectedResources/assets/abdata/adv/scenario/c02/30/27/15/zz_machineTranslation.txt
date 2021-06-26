@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ん……まだ、くらくらしていますが……もう、大丈夫ですから……=Bem, ainda estou um pouco tonto, mas agora estou bem.
 あの……私、恥ずかしい事していませんでしたか……？　ちょっと、記憶が飛んでいて……=Hum... Eu fiz algo embaraçoso? Estou tendo um pequeno lapso de memória...
 はぁ……やっぱり何事もほどほどに、って事ですね……=Acho que tudo deve ser feito com moderação...

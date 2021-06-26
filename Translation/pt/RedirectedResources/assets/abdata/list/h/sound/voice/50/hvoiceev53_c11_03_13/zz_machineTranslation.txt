@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁ……触手にまで、お預けされてしまっているのですね……=Ah... Até os tentáculos o deixaram no comando...
 私……品定めをされているのでしょうか……？=Eu estou... Sendo julgado?
 あぁ、ゆっくりと、中をかき混ぜられて、おります……=Está sendo mexido lentamente por dentro...

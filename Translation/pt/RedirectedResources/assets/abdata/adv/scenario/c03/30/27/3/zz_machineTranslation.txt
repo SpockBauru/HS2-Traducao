@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 いった……まだなんか痛みが残ってる。お前さ、少しは考えなよ、ほんと……=Ainda estou com dores. Você sabe, você deveria realmente pensar nisso...
 あのさ、一応忠告しておくけど……こんなの続けてたら、誰も相手してくれなくなるよ？=Ei, só um conselho... Se você continuar fazendo isso, ninguém vai levá-lo a sério, está bem?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 最低な人間だとは常々思っていましたが、ここまでとは……=Sempre achei que você era uma pessoa horrível, mas nunca pensei que fosse tão longe...
 しばらく顔も見たくありません。消えてください。=Não quero nem mesmo ver seu rosto por um tempo. Por favor, vá embora.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 私、初めてなんだけど大丈夫かしら……？　優しく、お願いね。=Eu nunca fiz isso antes, mas espero que não haja problema. Seja gentil, por favor.
 初めての相手があなただなんて、なんだかちょっと緊張しちゃうわね。=É um bocado nervoso estar com você pela primeira vez, não é?

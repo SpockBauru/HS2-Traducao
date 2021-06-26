@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 //あぁ、この世で一番身体の相性がいいヤツ、見ぃつけたぁ♪=Ah, encontrei o cara mais compatível do mundo...
 ヤバ……お前見た瞬間、身体が……じゃなくて、子宮がドクンって言った……喉乾いたってさぁ♪=No momento em que te vi, meu corpo... Não meu ventre... Fiquei com sede.

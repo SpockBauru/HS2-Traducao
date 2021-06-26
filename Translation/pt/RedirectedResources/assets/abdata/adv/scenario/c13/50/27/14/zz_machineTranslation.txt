@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 私、ようやくわかったんです……♪　私が一体どんな人間で、あなたとどうなりたいのか……うふふ……♪=Finalmente descobri ♪ quem realmente sou e o que quero ser com vocês ♪ hihihi ♪
 うふふ、後悔しないでくださいね……♪　あなたが私をこんな風にしたんですよ……♪=Hihihi, não se arrependa ♪ Você me fez desta maneira ♪

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなただったのね……ちょっと助けて欲しいの。穴にはまっちゃって……=Oh, é você, preciso de sua ajuda. Estou preso em um buraco e...
 ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Ei, eu preciso ir ao banheiro... Você tem me escondido.
 ちょっと困ってるのよ……穴から抜けれなくなっちゃって。=Estou tendo um pequeno problema... Para sair do meu buraco.

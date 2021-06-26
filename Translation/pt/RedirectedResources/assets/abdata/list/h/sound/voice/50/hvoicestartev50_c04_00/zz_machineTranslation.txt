@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いいよ、折角ナイトプールにいるんだし……とことん楽しまなきゃ損っしょ♪=Estamos em uma piscina noturna e temos que nos divertir ♪
 あは、アンタもノってきたみたいだね……身体ふやけても知らないよ？=Não me importa se você ficar com bolhas, certo?

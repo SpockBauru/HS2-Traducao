@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、ふぁぁっ……いっぱい擦れてるの、わかりますかー？=Aah, uau... Você pode sentir isso esfregando muito?
 あぁんっ、んっ、あそこがっ……にゅるにゅるしてますー！=Ahhh, mmmm, aí está... Mmmm!
 あぁぁっ、んんっ、あそこっ、ひくひくしちゃいますっ……=Ohhhh, mmm, aí, está formigando...

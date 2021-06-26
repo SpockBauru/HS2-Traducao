@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ、来てたん？　やば、めっちゃ寝てた……ごめん！=Oh, você está aqui? Oh não, eu estava dormindo... Desculpe!
 うわ、来てたんならノックでもなんでもして起こしてくれれば良かったのに。アタシ、別に起こされても怒ったりしないよ？=Ugh, se você estivesse aqui, você deveria ter batido ou algo para me acordar. Eu não vou ficar bravo se você me acordar.
 え？　そこでずっと待ってたの？　マジかぁ……折角来てくれたんなら、夜這いくらい許してあげたのにぃ。=O quê? Você tem estado esperando lá? A sério... Se você tivesse vindo até aqui, eu teria permitido que você rastejasse durante a noite.

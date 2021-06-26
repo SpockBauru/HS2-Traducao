@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 んふ、アンタのこと、凄く気に入っちゃったかも♪　もちろん、気持ちいーことするための、オモチャとしてだけど♪=Acho que gosto muito de você... Claro, você é apenas um brinquedo para me fazer sentir bem...
 うん、今決めた。アンタの全部はアタシのモノ♪　他の女と一緒に居るの見たら、おこだかんね？=Sim, eu acabei de decidir. Se eu o vir com outra mulher, ficarei muito zangado, certo?

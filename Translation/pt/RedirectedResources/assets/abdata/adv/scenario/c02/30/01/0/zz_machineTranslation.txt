@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 あぁ……あなたから会いに来てくれたなんて……=Não posso acreditar que você veio me ver.
 あなたに会いたいという願い、通じたようですね。=Parece que meu desejo de vê-lo foi atendido.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H{0}=Sexo{0}
 元に？　いやいや、今更なんとかっすーみたいな態度は無理ですよ……あなたに、恋してるんです。=Meu eu original? Não, não posso ter uma atitude dessas agora... Estou apaixonada por você.
 ま、前の私はああいう風に振る舞って自分を守ってただけなんです……駄目ですか？=Bem, antes, eu só estava me protegendo agindo assim... Não?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 そろそろ切なくなってきたのでは？　私を求めていいのですよ？=Acho que está na hora de você começar a ficar triste, não é mesmo? Você pode perguntar por mim, não pode?
 今更恥ずかしがっているのですか？　ふふ、本当に可愛い人……=Você está envergonhado agora, não está? Um cara muito bonitinho...
 んんぅっ……貴方の舌使い……とってもいい感じですよ……=Mmm... Sua língua... É tão boa...

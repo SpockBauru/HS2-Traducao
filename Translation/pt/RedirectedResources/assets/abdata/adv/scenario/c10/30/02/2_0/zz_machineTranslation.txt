@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 本はやはり紙で読むのが一番ではないか、という話をしていました。=Estávamos falando sobre como os livros ainda são melhor lidos no papel.
 最近、新聞を読む人が減っているという話ですね……実際、ネットで十分なところはありますし……=Ouvi dizer que cada vez menos pessoas lêem jornais hoje em dia... Na verdade, a internet é boa o suficiente para alguns...

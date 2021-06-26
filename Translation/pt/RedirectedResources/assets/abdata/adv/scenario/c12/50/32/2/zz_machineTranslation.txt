@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、おはよう。なんだ、部屋の前で待っててくれたのか？　嬉しいな。=Oh, bom dia. O quê, você estava esperando por mim em frente ao meu quarto? Isso é muito gentil da sua parte.
 おはよう！　来てたんなら、起こしてくれても良かったんだぜ。=Bom dia! Se você estivesse aqui, poderia ter me despertado.
 お、なんだよ……俺が起きるの待ってたのか？　嬉しいぜ、それじゃ、今日も一緒に楽しもうか。=Oh, o que... Você estava esperando por mim para acordar? Então, estou feliz que você esteja aqui. Vamos nos divertir juntos hoje.

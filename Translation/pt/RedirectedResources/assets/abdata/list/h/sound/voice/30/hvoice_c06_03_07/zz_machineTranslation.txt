@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私のことは気にせず、ゆっくり考えてくださいまし……=Não se preocupe comigo. Leve seu tempo e pense em...
 急いては事を仕損じると申しますからね……=A pressa faz desperdício...
 うう、私は、遊園地のメリーゴーラウンドの方が好みですわ……=Ugh, prefiro o carrossel no parque de diversões.

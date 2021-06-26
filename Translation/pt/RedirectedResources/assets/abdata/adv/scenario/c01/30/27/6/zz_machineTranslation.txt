@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 他の女の子がいるなんて、なんだか不思議な感覚だったわ。=Foi meio estranho ter outra garota por perto.
 女の子に囲まれて、あなたも興奮したんじゃないの？=Aposto que você também se divertiu por estar rodeado de garotas, não é?

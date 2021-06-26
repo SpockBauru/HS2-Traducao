@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリA普通{0}=Prelúdio A Normal {0}
 あ……丁度貴方のお話をしていたところです。どこかで聞いていたのですか？=Ah... Estávamos falando de você. Você ouviu isso em algum lugar?
 どうも。貴方も仲間に入りますか？　ふふ、遠慮することはありませんよ。=Hi. Você gostaria de se juntar a nós? Hehe, não seja tímido.

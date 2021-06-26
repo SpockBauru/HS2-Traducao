@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぁもうっ、こんな状態でしたら……私、どうなってしまうか……絶対に我慢なんて無理です。粗相をしても、怒らないでくださいね？=Ahhh, não sei o que vou fazer se estou assim... Definitivamente não posso me conter. Por favor, não se zangue se eu fizer uma bagunça, está bem?
 つまり、私がするところを……見たいということですか？　冗談ではなく、本当にきっと……も、漏れてしまいますよ？=Então você está dizendo que quer... Me ver fazer isso? Não estou brincando, tenho certeza que você realmente... Vazaria, não é mesmo?
 まったく、貴方もいい趣味をしていますね。ふふ、引いているわけではありませんよ？　むしろ楽しみです。我慢していた分、そう簡単には止まりませんよ？=Você realmente tem bom gosto, não tem? Não é que eu esteja em baixo de você, você sabe. Na verdade, estou ansioso por isso. Eu tenho me contido, e isso não vai parar tão facilmente.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ハッ、無様なもんだな。二人も一気に相手したいなんてイキがるから、そうなるんだ。=Huh, isso não é muito agradável. É o que acontece quando se quer enfrentar duas pessoas ao mesmo tempo.
 よし、オレらの勝ちだな。まぁ、勝負にすらなってなかったってところか？=Pronto, ganhamos. Bem, não foi nem um concurso, foi?

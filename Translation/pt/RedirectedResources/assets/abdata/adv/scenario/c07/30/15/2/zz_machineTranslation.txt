@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 泊まり込みでするってのは、気が楽でいいな。これからも、ちょくちょく利用させてもらうぞ。=É agradável e fácil fazer uma estada de uma noite. A partir de agora vou usar este lugar.
 //汎用{0}=Objetivo Geral {0}
 あぁ、オマエのベッドは寝心地がいい。このまま住み着いてやろうか？=Oh, sua cama é tão confortável. Você quer que eu vá morar com você?

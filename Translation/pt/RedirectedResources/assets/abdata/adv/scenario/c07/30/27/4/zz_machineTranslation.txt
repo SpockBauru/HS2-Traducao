@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ったく、なんてやつらだ。二人がかりでやりたい放題しやがって。=Ohhh. Foram necessários dois deles para fazer o que queriam.
 二人分の精液となると、流石に匂いがキツイな。ずっと嗅いでたら、オレでも変になりそうだ。=O cheiro do sêmen de duas pessoas é simplesmente exagerado. Até eu ficaria louco se continuasse a sentir o cheiro.

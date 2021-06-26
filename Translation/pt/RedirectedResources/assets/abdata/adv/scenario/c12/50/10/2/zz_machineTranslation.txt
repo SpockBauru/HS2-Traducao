@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 どうだ、スッキリしたか？　やっぱりトイレに入ったらスッキリしないとな。=O que você acha? Sente-se melhor? Eu sabia que tinha que desanuviar quando entrei no banheiro.
 溜まってたもの、気持ち良く出せたのか？　俺のサポートも悪くなかっただろ？=Você se sentiu bem em tirar tudo isso de seu sistema? Meu apoio não foi ruim, foi?
 二人でちょうどいい広さだったな……密着できて嬉しかったぜ。=Foi a quantidade certa de espaço para nós dois... E estou feliz por termos ficado juntos.

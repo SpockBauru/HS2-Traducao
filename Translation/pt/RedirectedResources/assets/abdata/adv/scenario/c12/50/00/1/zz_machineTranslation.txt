@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 俺と話？　なんの話かわかんないけど、別にいいぜ。=Você está falando comigo? Não sei do que está falando, mas está tudo bem.
 分かった。おしゃべりでもなんでも付き合うぜ。=Muito bem. Ficarei para uma conversa, o que for.

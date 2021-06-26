@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 いいわよ……エッチしましょう。=Muito bem... Vamos fazer sexo.
 いきなりだけど……別に問題ないわ。=Eu sei que é do nada, mas... Não é problema.

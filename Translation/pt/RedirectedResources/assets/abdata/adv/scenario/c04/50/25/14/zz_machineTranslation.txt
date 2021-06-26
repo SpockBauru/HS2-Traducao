@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 野外かぁ……まぁ夜なのが救いだけど……なんか緊張してきた……=Ao ar livre... Bem, ginda bem é de noite... Mas eu estou ficando nervoso...
 んふ、所構わずってのは、それだけ愛されてる証拠だと思っとこうかな～♪=Acho que vou tomar isso como prova de que você me ama tanto que é tão descuidado...
 はいはいはい、把握……えーヤバ、どの辺りがいいかな？　迷うね？=Sim, sim, sim, eu sei... Uh, yuck, qual é o melhor lugar? Eu estou perdido, não estou?

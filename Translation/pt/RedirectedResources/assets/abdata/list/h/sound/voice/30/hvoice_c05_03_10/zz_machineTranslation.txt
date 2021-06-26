@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ど、どうしたんですか……？=O que há de errado com você?
 私……何か変なことでもしましたか……？=Será que eu... Fiz algo estranho?
 んあっ、あぁっ……んあぁぁっ、いっ、痛いっ……ですよぉっ……=Ahh, ah... Ah, dói... Ah...

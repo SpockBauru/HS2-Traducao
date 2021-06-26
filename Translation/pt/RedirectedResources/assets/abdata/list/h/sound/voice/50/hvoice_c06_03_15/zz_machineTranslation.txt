@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 さあ、いかがいたしましょう……？=Agora, o que posso fazer por você?
 覚悟はできておりますわ……=Estou pronto...
 はぁ、はぁ、激しくして頂けたら……んん、嬉しいですわ……=Huh, huh, eu adoraria se você pudesse... Mmm, eu adoraria...

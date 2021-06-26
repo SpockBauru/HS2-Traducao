@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 意味わかんねぇよ…このまま放っとくつもりか？=Eu não entendo... Você vai simplesmente deixar passar?
 このままで、どうするつもりなんだよ！=O que você vai fazer com tudo isso? !
 なんか、ぬるぬるして…変な感じだ=É meio viscoso e... Esquisito.

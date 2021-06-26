@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 今日は何回ぐらいイキたいんだ？=Quantas vezes você vai gozar hoje?
 さぁて、一緒に気持ち良くなろうぜ。=Vamos, vamos ficar confortáveis juntos.

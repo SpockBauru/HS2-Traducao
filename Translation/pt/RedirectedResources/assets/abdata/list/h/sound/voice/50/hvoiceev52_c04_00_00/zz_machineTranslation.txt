@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょ、音は立てないでよ？　こっちが声我慢してる意味なくなるから……=Ei, não faça barulho, está bem? Vai arruinar todo o meu objetivo de segurar minha voz.
 こらっ……んっ、指は、もっと浅いとこまで……奥はマジでヤバイからっ……=Alguns... Hmm, o dedo é mais raso... A parte de trás é realmente sério e Yabai...
 あぁっ、濡れたら匂いでバレそうだし……でも濡れないと痛いし……もうマジめんどい……=Ahh, se eu me molhar, o cheiro vai me dar... Mas se eu não me molhar, vai doer... É realmente irritante...

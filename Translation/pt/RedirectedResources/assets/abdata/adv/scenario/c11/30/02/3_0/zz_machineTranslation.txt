@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定1普通{0}=Responder afirmativo 1 normal {0}
 貴方もそうなのですか？　同じ考えで嬉しく存じます。=Você é um deles? Estou feliz por estarmos na mesma página.
 まあ、貴方も同じなのですね。=Bem, você é o mesmo, não é?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょっとこれ？！　一体なんなのかしら？=Ei, o que é isso? Que diabos é isto?
 何よ…変な物が、うごめいてるんだけど=Há... Há algo estranho zumbindo por aqui.
 何かしらこれ？　なんだか面白そうな生き物ね=O que é isso? Parece ser uma criatura interessante.

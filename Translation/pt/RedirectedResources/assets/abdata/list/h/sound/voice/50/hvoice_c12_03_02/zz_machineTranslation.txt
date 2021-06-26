@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぅ……間に合って良かったぜ=Bem... Ainda bem que você pôde vir.
 ふん、ふん、ふふ～ん=Mmm-hmm. Mmm-hmm.
 はぁ～……気持ちいいぜぇ……=Isso é tão bom...

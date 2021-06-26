@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 あ……あなたもお風呂ですか？=Oh... Você também está tomando banho?
 こ、こんなところで……たまたま通りがかっただけですか？=Você está apenas... Apenas de passagem?

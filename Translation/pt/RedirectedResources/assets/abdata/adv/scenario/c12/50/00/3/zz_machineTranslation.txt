@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 そうか、わかった。またなんかあったら声かけてくれよ。=Está bem, está bem. Se você precisar de mais alguma coisa, basta me ligar.
 何でもないのか。なんかあるんじゃないのか？　まぁ、別にいいけど。=Não é nada. Não está acontecendo algo? Bem, eu não me importo.

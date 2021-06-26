@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 貴方のお陰で、破廉恥な技術に一段と磨きがかかりました。これからも宜しくお願い致しますね。=Graças a você, minhas habilidades sem vergonha foram ainda mais refinadas. Estou ansioso para trabalhar com você no futuro.
 本日は普段より貴方と深く繋がれた気が致します。……慣れてきたのでしょうか？=Sinto que hoje consegui me conectar com você mais profundamente do que o normal... Você já se acostumou?

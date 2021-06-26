@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ああぁっ、す、すごいっ……中でっ、動いてますぅっ……=Oh, ahhh... Está se movendo dentro de mim...
 あっ、あっ、ふぁぁっ、こ、こんなに動いちゃうんですかっ……？=Aah, aah, uau, você está se movendo tanto?
 ふああぁっ！　あっ、ああぁっ、どんどん強くなってますぅっ！=Ahh! Oh, oh, está ficando mais forte!

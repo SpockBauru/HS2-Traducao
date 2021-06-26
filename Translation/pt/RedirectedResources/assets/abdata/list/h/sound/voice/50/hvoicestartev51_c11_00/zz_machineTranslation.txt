@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まだまだ、責めさせて頂きます=Eu ainda vou puní-lo.
 立たなくなるまで、致しましょう=Faremos isso até não conseguirmos mais nos levantar.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んぶっ、くぁえるらけれ、ひほくろぉら……(咥えるだけでも、一苦労だ)=(Só sugá-lo é um desafio)
 ふぅぶっ、おぇをいぬあちゅかいしれ、たのひいか……(オレを犬扱いして楽しいか)=(Você gosta de me tratar como um cachorro?)
 えぐっ、おぇをペットあちゅかいしはいなぁ、やはひくしろっ……(オレをペット扱いしたいなら、優しくしろ)=(Se você quiser me tratar como um animal de estimação, seja gentil)

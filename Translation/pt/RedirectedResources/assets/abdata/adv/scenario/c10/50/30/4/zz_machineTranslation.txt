@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 す、すみません……少し、待たせ過ぎでしまいましたね。えぇと、その……色々ありまして……も、もう大丈夫ですから！　ご心配なく……=Desculpe... Eu o fiz esperar um pouco demais. Bem, é que... Tem havido muita coisa acontecendo... Mas eu estou bem agora! Não se preocupe...
 貴方……もじもじしていませんか？　ふふ、もしかして私がトイレで何かいやらしい事をしていたと……妄想しているのですか？=Você está... Você está se contorcendo? Você está fantasiando que eu tenho feito algo desagradável no banheiro?

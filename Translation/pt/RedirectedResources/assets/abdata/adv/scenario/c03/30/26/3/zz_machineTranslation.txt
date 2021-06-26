@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あの、さ、お前……今日はお尻でシたいって気分じゃない？　なんていうか……勿体ないじゃん？=Ei, você sabe... Você não está com disposição para bunda hoje, está? É uma espécie de... Um desperdício, sabe?
 えっと、お尻で感じるって、やっぱり変……？　と、友達の話なんだけどね！？　あは、あはは……=Hum, é realmente estranho senti-lo no meu traseiro? E eu estou falando de meu amigo! Ha-ha-ha...

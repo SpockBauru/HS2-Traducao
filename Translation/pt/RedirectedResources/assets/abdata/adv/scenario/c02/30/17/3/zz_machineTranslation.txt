@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 そ、そんな、こんな状況なのに……っ=Oh, não, não nesta situação...
 ふふっ、そうですよね、あなたならこんなチャンス、逃しませんよね？=Hehe, sim, você não perderia uma oportunidade como esta, perderia?
 くっ、そう来ると思ってましたよ、えぇ……=Droga, eu sabia que você viria por aí. Sim...

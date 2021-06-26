@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=Deixei meu cheiro em seu quarto, pouco?
 //汎用{0}=Objetivo Geral {0}
 貴方は何でもお見通しなのですね。ふふ、私が期待して部屋に来たこと……最初から分かっていたのですよね？=Você sabe tudo, não sabe? Hehe, que eu vim ao seu quarto esperando você... Você sabia desde o início, não sabia?

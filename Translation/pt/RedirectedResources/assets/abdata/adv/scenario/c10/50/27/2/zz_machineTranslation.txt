@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 すみません……私、何と言ったら……つ、次は絶対、貴方にも満足して頂けるように頑張ります……=Desculpe, não sei o que dizer... Mas da próxima vez, definitivamente farei o meu melhor para satisfazê-lo também...
 その……怒っていますか？　もし、挽回の機会を頂けるなら……次こそは……なんて……甘え過ぎですよね、私……=Quero dizer... Você está com raiva de mim? Se eu pudesse ter uma chance de compensar você... Talvez da próxima vez... Você esteja sendo muito brando comigo, eu...

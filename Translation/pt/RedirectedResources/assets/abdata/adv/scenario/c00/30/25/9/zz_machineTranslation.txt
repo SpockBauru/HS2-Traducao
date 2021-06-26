@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 イメージプレイには最適なお部屋ですね。妄想が膨らんでしまいます。=É a sala perfeita para o jogo da imagem. Isso faz sua imaginação disparar.
 今からあなたに告白されるみたいで、心が浮ついてしまっています。あなたはどうでしょうか？=É como se ele estivesse prestes a confessar seu amor a você, e meu coração está flutuando. E você?
 教師と生徒、教師と保護者、用務員と生徒……色々なシチュエーションが思い浮かびますが、どの様なプレイがお望みでしょうか？=Professor e aluno, professor e pai, zelador e aluno... Há muitas situações que lhe vêm à mente, mas que tipo de brincadeira você quer?

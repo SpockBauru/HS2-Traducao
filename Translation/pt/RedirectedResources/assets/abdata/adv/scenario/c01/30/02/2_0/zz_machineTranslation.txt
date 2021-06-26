@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 この間見たドラマの話をしてたんだけど……=Estávamos falando de um drama que vimos na outra noite...
 最近、何にはまってるかお話してたのよ。=Eu estava contando o que tenho feito ultimamente.

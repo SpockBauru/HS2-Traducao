@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はー、気持ちよかったっすー。でも、私だけイッて終わりでよかったんすかー？=Haha, isso soube bem. Mas, não havia problema se eu apenas viesse e pronto?
 セックスは持ちつ持たれつっすからー代わりに私が頑張っちゃうっすよ～♪=O sexo é uma via de mão dupla, portanto farei o meu melhor em troca.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……この触手と、するんですか……？=Com estes tentáculos, você vai?
 私は……あなたとしたいんですが……=Eu... Gostaria de fazer isso com você, mas...
 あぁ……ねっとりと、絡みつかれてしまいました……=Oh... É tão úmido e emaranhado...

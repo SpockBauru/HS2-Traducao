@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まぁまぁ良かったな。慣れればもう少しはマシになるだろ。そのうち、また相手を頼むかもな。=Bem, tudo bem. Você vai se acostumar, você vai se acostumar. Sabe, talvez eu lhe peça para fazer isso novamente algum dia.
 まぁ、最初はこんなもんだろ。オレを嫌な気分にさせなかっただけで十分だ。オマエがまたシたいってなら、付き合ってやってもいい。=Bem, é um começo. Já é suficiente que você não me fez sentir mal. Se você quiser fazer isso novamente, eu sairei com você.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 なんか……お前とエッチするのも、悪くないかも。誰かさんが頑張ってくれたおかげだね……=Sinto que... Transar com você pode não ser tão ruim assim. É graças ao trabalho duro de alguém...
 慣れてきた証拠かな、お前と裸になってしたいこと、増えてきちゃった……=Talvez seja um sinal de que estou me acostumando a isso. Quero me despir cada vez mais com você...

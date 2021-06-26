@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 とても破廉恥な行為でした……=Foi um ato muito vergonhoso...
 私達のご奉仕で、身も心も満たされたのであれば嬉しく思います。=Esperamos que nosso serviço tenha enchido seu corpo e sua alma de alegria.

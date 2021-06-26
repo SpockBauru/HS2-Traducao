@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 もしかしてー話しかける相手を間違えたってやつすかー？=Pode ser que você esteja falando com a pessoa errada?
 もー、セックスできるかもーって期待しちゃったじゃないすかー、まあー自業自得すけどー。=Eu esperava que pudéssemos transar... Bem, eu mereci, mas...

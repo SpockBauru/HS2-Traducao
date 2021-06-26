@@ -1,12 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぅ、まさか腰を抜かすとはな。オレとしたことがやっちまった。すまねぇが、少し助けてくれないか？=Eu nunca pensei que estaria sentado. Sinto muito por isso. Sinto muito, mas preciso de sua ajuda.
 一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=Há uma coisa que eu esqueci de dizer. Quando você me ajudar... Não me agarre com muita força. Está bem? Eu o avisei, não avisei?
 よく来たな。見ての通り腰が動かねぇんだ。少しばかり、オレに恩を売ってみるってのはどうだ？=Estou feliz por você estar aqui. Como você pode ver, eu não consigo mover meus quadris. Por que você não me faz um pequeno favor?
 そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=Sim, eu lhe darei um conselho. Não brinque muito com minha parte inferior do corpo. Será ruim para mim, mas será ainda pior para você.
 まぁ、誰も来ないよりはマシか……ボサっとしてねぇで、オレを起こせ。それくらい出来るだろう？=Bem, é melhor do que ninguém aparecer... Não fique sentado, me acorde. Você pode fazer isso, não pode?
 いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=Está bem? Nunca toque no meu abdômen inferior. Não me interessa o que acontece.
-よし、オマエなら来てくれると思ってた。腰をやっちまってな……少し起こすだけでもいい。手を貸せ。=Certo, eu esperava que você viesse. Eu tenho as costas ruins, então... Se você pudesse me ajudar a levantar. Dê-me uma mãozinha.
+//よし、オマエなら来てくれると思ってた。腰をやっちまってな……少し起こすだけでもいい。手を貸せ。=Certo, eu esperava que você viesse. Eu tenho as costas ruins, então... Se você pudesse me ajudar a levantar. Dê-me uma mãozinha.
 なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=Sabe, eu estou meio que no momento estou um pouco desesperado. Se é nisso que você está envolvido, não vou impedi-lo, mas pense nisso, está bem?

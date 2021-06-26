@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いや、見てるだけじゃん……してほしいこと言えって……=Não, você só está olhando para mim... E me dizendo o que você quer que eu faça...
 こっちは恥ずかしいの我慢してるんだからさ、早く指示しろよ……！=Estou suportando seu embaraço, então se apresse e me diga o que fazer!
 んん、なんか、お前のって、独特な味がするよね……=Hmm... Não sei, o seu tem um gosto muito distinto...

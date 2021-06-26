@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ど、どういうことから始めようかな……=Eu não sei por onde começar...
 あの……もしよろしければご要望を言ってもらえた方が……=Hum... Se você não se importa, eu estava pensando se você poderia me dizer o que você quer...
 はぁっ、はぁっ、こ、こんな感じでっ……いいっ、ですかっ……？=Huh, huh, posso fazer assim?

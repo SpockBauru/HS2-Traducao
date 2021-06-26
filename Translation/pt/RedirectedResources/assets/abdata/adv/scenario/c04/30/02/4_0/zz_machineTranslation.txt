@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 んじゃ、そろそろお開きでいーのかな？　またね～♪=Bem, acho que está na hora de dar a noite por terminada, não é? Até a próxima...
 さて、じゃあ解散しよっか？　じゃーね～♪=Bem, então devemos nos separar? Até a próxima.

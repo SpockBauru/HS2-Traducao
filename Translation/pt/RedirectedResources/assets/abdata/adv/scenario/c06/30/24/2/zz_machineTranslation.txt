@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 本日は私と身体を重ねて頂き、誠に有難う御座いました。とっても素敵なひと時でしたわ、これからもどうぞ宜しくお願い申し上げます。=Muito obrigado por compartilhar seu corpo comigo hoje. Foi um momento muito agradável. Por favor, continue a trabalhar comigo.
 ああ、まだ心臓がドキドキして……これが女としての性を享受することなのですね。=Oh, meu coração ainda bate... E isto é o que você gosta como mulher, não é?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 うぅ、お前ら……ちょっと張り切り過ぎ……=Ugh, vocês... Estão ficando um pouco zelosos demais...
 これがふたり分の射精かぁ……べ、別に、エロいこと考えてたんじゃないよ！？=Isto é a ejaculação de duas pessoas... Eu não estava pensando em nada erótico!

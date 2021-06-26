@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 あれ、お風呂？　モテたいなら、身体は綺麗にしときなよー♪=Isso é um banho? Se você quer ser popular, deve manter seu corpo limpo.
 あー、絶対覗きに来たでしょ？　もう目がエロいもん♪=Oh, você definitivamente veio aqui para espiar, não foi? Seus olhos são tão sexy.

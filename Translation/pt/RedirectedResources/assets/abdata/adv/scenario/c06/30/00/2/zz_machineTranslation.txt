@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まあ、今日も性のお勉強に付き合って頂けるのですね、喜んでお受けいたしますわ……=Fico feliz que esteja aqui para me ajudar a aprender sobre sexo hoje. Aceito de bom grado...
 はい、しっかりと励みましょう……=Sim, vamos nos certificar de encorajar...

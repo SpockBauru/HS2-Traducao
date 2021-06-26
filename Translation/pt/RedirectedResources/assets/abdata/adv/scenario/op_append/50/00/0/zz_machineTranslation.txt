@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 彼女は本プランの担当者、シトリーにございます。=Essa é a responsável por estes serviços, Sitri.
 此処から先のご案内は、こちらのシトリーに引き継がせていただきます。=As informações daqui em diante serão repassadas para Sitri.
 私は一般施設の管理業務がありますので、先輩、後はよろしくお願いします。=Estou encarregada de gerenciar instalações gerais, portanto, estou ansiosa para trabalhar com você.

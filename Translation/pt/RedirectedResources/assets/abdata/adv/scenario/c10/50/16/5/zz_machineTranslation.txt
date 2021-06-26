@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 もう、貴方の顔も見たくありません！　今日という今日は本気ですよ！　金輪際、私とは関わらないでください！=Eu nem quero mais ver seu rosto! Hoje, hoje, estou falando sério! Eu não quero que você tenha nada a ver comigo!
 帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

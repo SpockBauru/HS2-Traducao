@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 とっても素敵な時間でした……次はいつ会いますか？　決めておかないとなんだか不安で……=Foi um momento muito agradável... Quando você quer se encontrar novamente? Fico meio nervoso se não decidir...
 私のこと、軽蔑してないですよね……？　嘘はつかないでくださいね、私すぐにわかるので……=Você não me despreza, não é? Por favor, não me minta. Descobrirei logo...

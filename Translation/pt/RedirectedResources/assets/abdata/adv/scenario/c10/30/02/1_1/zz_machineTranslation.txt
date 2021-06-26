@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリB普通{0}=Prelúdio B normal {0}
 えぇと……私もまだ、ご一緒させて頂いてよろしいですか？　なんだか楽しくなりそうなので。=Bem... Ainda posso me juntar a vocês? Vai ser meio divertido.
 ふふ、貴方が来ると、場が明るくなりますね。最早、一つの才能だと思います。=Quando você vem, o lugar se torna mais brilhante. Acho que é um de seus talentos.

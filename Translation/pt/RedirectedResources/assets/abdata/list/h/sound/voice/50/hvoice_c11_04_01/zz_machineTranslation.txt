@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ……じっくり……感じ合いましょう……=Vamos... Levar nosso tempo... E nos sentirmos uns aos outros...
 あぁ……攻めた分だけ……私も気持ちよくなっております……=Oh, quanto mais você me ataca, melhor me sinto.
 ん……ゆったりとした動きだと……繊細に伝わる気が致します……=Bem... Quanto mais lento você se move... Mais delicadamente ele se depara...

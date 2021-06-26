@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ぅくっ、調子に乗り過ぎだ……バレて捕まるのはオマエの方なんだからな？=Você está se deixando levar... E é você quem vai ser pego.
 こら、音を立てるな……普通はしない音なんだ……すぐに怪しまれるぞ……=Ei, não faça um som... Não é um som normal... Fará você parecer suspeito num piscar de olhos...
 オマエは最低だ……んっ、こんな周りの力まで借りて、オレを辱めやがって……=Você é um idiota... E me humilhou com toda essa ajuda...

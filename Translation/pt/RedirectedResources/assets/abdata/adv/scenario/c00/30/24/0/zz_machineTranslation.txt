@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 緊張されているのですか？　そんなに構えなくても大丈夫ですよ。本能の赴くまま、二人で楽しみましょう？=Você está nervoso? Não há necessidade de estar tão preparado. Vamos apenas seguir nossos instintos e nos divertirmos juntos, certo?
 あなたが私を抱いてくださるのですか？　……どんなセックスをなさるのか、とても楽しみです。=Você vai me abraçar? Estou muito entusiasmado para ver que tipo de sexo você terá comigo.

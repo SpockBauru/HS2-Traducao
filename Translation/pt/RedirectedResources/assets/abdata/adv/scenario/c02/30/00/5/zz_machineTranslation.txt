@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 こういった人生です、楽しんだ者勝ちですよね結局は。=Esta é a vida, e aqueles que a desfrutam vencem no final.
 ―――その楽しみ方は私も知りませんでしたね……=---Eu também não sabia como desfrutar disso...

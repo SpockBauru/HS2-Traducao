@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 //ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Espere um minuto... Hah, não consigo respirar... Oh não... É hora de ir...
 んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=Hmm... Não consigo colocar nenhuma força em meu corpo... Hmm ~ você tem que ficar lá até que eu possa me mudar. Você entendeu?

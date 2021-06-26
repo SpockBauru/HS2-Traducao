@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //セリフ{0}=Serif {0}
 嬉しいわ、たっぷり気持ち良くしてあげるから。=Estou feliz por você estar aqui. Vou fazer você se sentir muito melhor.
 そうよね……私とエッチしたかったのよね？　私もわかってたわ、うふふ。=Eu sei... Você queria transar comigo, certo? Eu também sabia.

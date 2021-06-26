@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 //すご……正直ちょっと舐めてたかも……触手くんガチでヤバいわ……=Uau... Para ser honesto, eu poderia ter sido um pouco ingênuo... Mas Tentacle-kun é realmente perigoso...
 //どーしよ……コレって絶対ハマっちゃマズいやつだよね……でもなぁ……=Não sei... Isto definitivamente não é uma boa idéia... Mas...

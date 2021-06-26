@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 その、エッチなことをもっと知る方法を教えてもらってました……=Estavam me ensinando como aprender mais sobre sexo...
 えっと、アブノーマルなエッチについて、話し合ってたんです……=Bem, estávamos discutindo sexo anormal...

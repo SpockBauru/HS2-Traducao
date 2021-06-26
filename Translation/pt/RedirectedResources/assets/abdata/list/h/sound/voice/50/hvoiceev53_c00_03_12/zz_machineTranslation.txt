@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……触手に放置プレイをされてしまうとは=Ser deixado sozinho por tentáculos...
 この触手は、どこから責めようかと悩んでいるのでしょうか？=Onde você acha que esses tentáculos estão se perguntando por onde começar a punir?
 あぁ……あなたとは違った、快感です……=É uma sensação diferente da sua.

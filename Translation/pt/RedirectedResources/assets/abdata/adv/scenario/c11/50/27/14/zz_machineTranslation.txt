@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 うふふ、次回はいつに致しましょう？　私はいつでも問題ございません。貴方の子を孕む準備は出来ておりますので。=Hihihi-hehe, quando faremos isso na próxima vez? A qualquer momento está bem para mim. Estou pronto para conceber seu filho.
 貴方の子を孕みたいと子宮が訴えてきています。これが本当の恋なのでしょうか？=Meu ventre está me dizendo que quer conceber seu filho. Isto é amor verdadeiro?

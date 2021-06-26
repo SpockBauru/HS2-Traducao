@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふっふっふ、どんなことしちゃいましょーかねー=Pfft, o que devo fazer?
 あなたさんが喜びそうなこと、色々考えなきゃ=Tenho que pensar em algo que o faça feliz.
 んっ、ふぅっ……はぁ……わたし、上手にできてますかぁ……？=Estou gozando bem?

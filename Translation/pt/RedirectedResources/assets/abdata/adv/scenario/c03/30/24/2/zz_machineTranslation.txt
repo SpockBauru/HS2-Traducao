@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ま、まさか本当にしちゃうなんてねー、あはは……。というか、全然現実感ないんだけど……これ後から恥ずかしくて死にそうになるやつじゃん。=Eu nunca pensei que realmente o faria... Haha... Eu não sei, eu realmente não sinto nada... Este é o tipo de coisa que me faz sentir como se eu fosse morrer de vergonha depois.
 //ヤバい……終わった後の方が恥ずかしいんだけど……。も～、これからパートナーになるってのに、勘弁してよ～……。=Oh não... Depois fico mais envergonhado... Oh não... Vamos ser parceiros agora... Dê-me um tempo...

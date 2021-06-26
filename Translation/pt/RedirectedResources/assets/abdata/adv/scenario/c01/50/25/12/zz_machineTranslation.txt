@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こんな所にまで電車が繋がってるなんて、すごいわ。=É incrível a distância que o trem se conecta a este lugar.
 この電車、どこに向かっているのかしら？=Para onde este trem está indo?
 一緒に電車に乗るなんて、なんだか楽しみね。=Estou tão entusiasmado por estar no trem com você.

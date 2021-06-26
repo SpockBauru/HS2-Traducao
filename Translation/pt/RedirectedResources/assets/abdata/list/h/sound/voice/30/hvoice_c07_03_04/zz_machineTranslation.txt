@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んっ、はぁっ……変に弄られるよりは……一人の方が楽だな。=Mmm, huh... É mais fácil estar sozinho... Do que ser jogado de uma maneira estranha.
 んんぅっ……少し、見過ぎだろ……そんなに珍しいか？=Mmm... Você tem procurado um pouco demais... Isso é tão incomum?
 んんぅ……その撮ったものを見て、オマエも一人でするのか？=Mmm... Você vai olhar para essa foto e vai fazer tudo sozinho?

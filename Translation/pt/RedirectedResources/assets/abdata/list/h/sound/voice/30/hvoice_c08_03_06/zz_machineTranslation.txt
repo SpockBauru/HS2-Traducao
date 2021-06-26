@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私の身体をどうやってならすか考え中っすかー？=Você está tentando descobrir como me fazer sentir melhor?
 Hな妄想を私にぶつけていいんすよー=Você pode me contar sobre suas fantasias.
 ひぃっ、い、痛いっすよ～=Heee, isso dói!

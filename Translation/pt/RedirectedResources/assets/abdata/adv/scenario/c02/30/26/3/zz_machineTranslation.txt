@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 またお尻ですね？　わかってますから、早くしてください。=É o meu traseiro de novo, não é? Eu sei, eu sei. Apenas seja rápido.
 あ、あなたのせいでお尻が変になっちゃったんです。　責任取ってくださいっ！=Oh, você fez meu traseiro parecer tão estranho. Por favor, assuma a responsabilidade!

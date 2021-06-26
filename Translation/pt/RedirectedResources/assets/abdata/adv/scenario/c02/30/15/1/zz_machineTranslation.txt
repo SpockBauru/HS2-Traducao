@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ……すいません、お邪魔します。=Oh... Desculpe-me, desculpe incomodá-lo.
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 それでは、失礼します。=Agora, se me dão licença.

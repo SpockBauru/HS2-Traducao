@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ただただ、痛いだけです……=Isso dói tanto...
 その……苦痛を伴う行為は、此れっきりに致しませんか？=Você gostaria de acabar de uma vez por todas com seu... Comportamento doloroso?

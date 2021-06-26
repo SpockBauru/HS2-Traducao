@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私から何かした方がいいかしら？=Devo fazer algo por você?
 何か要望はあるの？=Você tem algum pedido?
 はぁ……それ、いいわぁ……=Huh... Essa é boa...

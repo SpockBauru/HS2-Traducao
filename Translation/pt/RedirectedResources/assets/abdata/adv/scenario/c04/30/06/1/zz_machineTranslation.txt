@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぅ……アンタって、そっち系の趣味があったんだ……=Eu não sabia que você tinha um hobby assim...
 覗くならさぁ……せめてバレないように頑張りなよ……まったく、こっちが恥ずかしくなるじゃん。=Se você vai me espiar... Pelo menos tente não ser pego... É embaraçoso para mim.
 もうバレてたんだから、開き直って色々すればよかったのに。紙で拭いてくれたり、それ以上のこととかもさぁ……=Você deveria tê-lo reaberto e feito coisas já que você já sabia. Você poderia ter me limpado com papel e mais...

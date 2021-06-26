@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 湯上りの時より、身体がポカポカしている気がします。ふふ、湯冷めの心配は……特になさそうですね。=Sinto que meu corpo está mais quente do que quando tomei um banho quente. Hehe, acho que não há necessidade de se preocupar em ficar frio.
 貴方に綺麗な身体を見て頂けて良かったです。やはり見て欲しい人がいると、お手入れも気合の入り方が違いますから。=Estou feliz que você tenha visto meu belo corpo. Afinal, quando há alguém que quer que você veja, você ficará mais entusiasmado em cuidar disso.
 体温が高いと、やはり感じやすくなるようですね。はぁっ、まだ体の芯が火照っているようで……もう一度、汗を流さないといけないかもしれません。=Parece que quando minha temperatura corporal está alta, eu ainda a sinto mais facilmente. Huh, meu núcleo ainda parece estar em chamas... Talvez eu tenha que suar de novo.

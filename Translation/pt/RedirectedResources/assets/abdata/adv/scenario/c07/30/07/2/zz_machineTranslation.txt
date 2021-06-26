@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁっ、ぁっ……ぁつい……んぅぅ……んく……=Ahh... Ah... Ah... Ah... Ah... Ah...
 あぁ……よかった……んぅ……さいこうだ……はぁ……んっ……=Oh... Isso... Isso... Isso... Isso... Isso... Isso... Isso é bom.
 んぅ……あっ……ふぅあ……（ここまで喘いでも……気付かないか？　この鈍感め）……んぅく……あぁっ……=Oh... Oh... Oh... Oh... (Estou ofegando tanto... Você não percebe? Você é chato) Nnngh... Ahhhh...

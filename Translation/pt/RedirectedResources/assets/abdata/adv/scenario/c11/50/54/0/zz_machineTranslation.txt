@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //壊れ{0}=Quebrado {0}
 ここれ、するんれすれ……かいこまりまひらぁ……=Aqui estou eu, aqui estou eu, aqui estou eu
 ろんらこぉしへくらはぅか、たのひみれすぅ……=Estou tão feliz por você estar aqui.

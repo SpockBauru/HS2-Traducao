@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 次はゆっくりお話ししましょう。=Vamos falar devagar da próxima vez.
 何かあったらいつでも声をかけてね。=Se você precisar de alguma coisa, pode sempre recorrer a mim.

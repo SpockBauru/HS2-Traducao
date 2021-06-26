@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 い、いつもしてるわけじゃないんですよっ！？　今日はたまたまっ……たまたまっ、むらむらでっ！=Não é como se eu fizesse isso o tempo todo! Acontece que hoje... Eu estava com tesão!
 い、今のはほら……なんか興奮しちゃってっ……えーっと、分かってくれます……よね？=Bem, isso foi apenas... Fiquei entusiasmado... Hum... Você entende, certo?

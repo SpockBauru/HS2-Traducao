@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 わぁ、ありがとー！　ほんともう、命の恩人！大袈裟じゃなくて、それくらい不安だったんだから。=Uau, obrigado! Você realmente salvou minha vida! Não estou exagerando. É o quanto eu estava ansioso.
 えっと、実は今……新たな危機に瀕していたりして。後でちゃんとお礼はするから、今は黙って見送って！=Bem, na verdade, agora... Estamos à beira de uma nova crise ou algo assim. Não deixarei de lhe agradecer mais tarde, então por enquanto, cale-se e deixe-me ir!
 ありがとう……実はちょっとエッチなことされるかなとか思ってたけど、これはこれで、嬉しいな……=Obrigado... Na verdade eu estava me perguntando se eles iriam ser um pouco safados ou algo assim, mas estou feliz que eles sejam...

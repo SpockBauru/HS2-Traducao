@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ね、ねぇ、この拘束は、んんっ、外してもいいんじゃ……=Ei, ei, você pode tirar essas amarras se quiser...
 というか、そういうおもちゃ、んあっ、な、慣れてないからぁ……=Não estou acostumado a brinquedos assim, então...
 い、痛い痛いっ……！　もっとゆっくりしてよぉ……！=Ow, ow, ow... Você tem que ir mais devagar.

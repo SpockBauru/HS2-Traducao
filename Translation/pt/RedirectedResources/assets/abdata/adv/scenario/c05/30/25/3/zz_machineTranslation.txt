@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 じ、自分の部屋に人が来るなんて……それだけでちょっと変な感じがします……恥ずかしい……=É um pouco estranho ter alguém vindo ao meu quarto... É embaraçoso...
 な、なんだか私の全てが見られてるみたいです……よ、余計に感じちゃいそう……=É como se eles estivessem observando tudo o que eu faço... Acho que vou me sentir ainda mais...
 私の部屋……どうでしょうか……？　ここでこれから……私のことをめちゃくちゃにしてくれるんですよね？　ふふっ。=Meu quarto... O que você acha? É aqui que você vai... Me confundir de agora em diante, não é? Hehe.

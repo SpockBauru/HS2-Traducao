@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あー、助かったー。　アンタ、マジ救世主！　腰抜けちゃって動けなくてさぁ……とりま、起こしてくんない？=Oh, ginda bem! Você é um verdadeiro salva-vidas! Não posso me mexer porque estou muito fraco... De qualquer forma, você pode me ajudar a levantar?
 あ、あんまし激しく動かすのは無しね？　ちょっと色々やばいんだわ……うん、色々……=Oh, não mexa com muita força, ok? É uma bagunça... Sim, é uma bagunça...
 おぉ、助けに来てくれたん？　ナイスぅ！　ちょっと腰やっちゃってさぁ……抱っことかして、運んでくんない？　ほら、どこ触ってもいいからさ♪=Oh, você está aqui para me ajudar? Legal! Tenho uma pequena lesão nas costas, então... Talvez você possa me carregar ou algo assim. Vamos lá, você pode me tocar onde quiser.

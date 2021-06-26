@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ―――なるほど、そういった受け取り方もされるんですね。=---Vejo, é assim que é recebido.
 どうしてそんな面倒な事に自分から足を踏み入れるんですかね……？=Por que você se daria a tanto trabalho?

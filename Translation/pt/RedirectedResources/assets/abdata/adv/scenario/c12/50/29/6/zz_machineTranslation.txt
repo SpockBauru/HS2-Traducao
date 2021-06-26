@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 わぁ、びっくりするだろ？！　なんだよ、手伝ってくれるのか？=Uau, você ficaria surpreso! O quê, você vai me ajudar?
 な、何だよお前？！　えっと、まぁ……そういう事だよ、何か文句あるか？=Que porra é essa, cara? É disso que estou falando.
 おぉっ！？　ちょうどいいところに来たじゃねか。もちろん、手伝ってくれるんだよな。=Ooh! Você veio ao lugar certo. É claro que você vai me ajudar, certo?

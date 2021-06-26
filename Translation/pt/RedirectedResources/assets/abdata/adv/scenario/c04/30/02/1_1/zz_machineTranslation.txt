@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリB普通{0}=Prelúdio B normal {0}
 お、アンタいたんだ。どもども～、アタシもいるよ～。=Oh, você está aqui. Olá ~ também estou aqui ~
 どーもー。アタシもいるかんね～。忘れないでね～。=Olá. Eu também estou aqui. Não se esqueça de mim ~

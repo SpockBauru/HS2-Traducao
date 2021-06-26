@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 私達、結婚式を上げたんだから、次のステップに進みましょ。=Já tivemos nosso casamento, agora vamos seguir em frente.
 分かってるでしょ？　結婚と言えば、初夜よ、初夜！=Você sabe o que quero dizer. Falando em casamento, é sua noite de núpcias. Sua noite de núpcias!

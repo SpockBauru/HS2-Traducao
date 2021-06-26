@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ここロビーだぜ？！　ここでやろうって考えるんだから……お前ってすごいな。=Este é o lobby! É incrível que você até pense em fazer isso...
 お、お前、こんな所でするつもりなのかよ？　恥ずかしいとかそういう問題じゃなくて、あぁもう、わかったよ。=Oh, você, você vai fazer isso aqui? Não se trata de constrangimento ou algo assim. Oh, não, eu entendo.
 お前の露出趣味に付き合ってやるんだ……思いっきり盛り上がろうぜ！=Vamos satisfazer o seu gosto pela exposição... E vamos nos divertir muito!

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ……アンタもお風呂？　んふふっ、もしや……アタシを追いかけてきたとか？=Você está tomando um banho também? Hehe... Você está me seguindo?
 うわ、いたんなら言ってよ。アンタとなら、一緒に入ってあげても良かったのに♪=Ugh, me diga se você estava lá. Eu poderia ter entrado com você.
 へぇ、こんなところで偶然じゃん！　なんて……どうせ覗いてたんしょぉ？　正直に言ってみなー？=Bem, que coincidência! Você só estava espreitando, não é mesmo? Por que você não me diz a verdade?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 うぅ……この触手は、何を待ってるんでしょう？=Ugh... O que estes tentáculos estão esperando?
 何もしてこないのも、気味が悪いですぅ……=É um pouco assustador como eles não fazem nada...
 んあ……じわじわと、中を責めてきてますぅ……=Ele está trabalhando lentamente para dentro...

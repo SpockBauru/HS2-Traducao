@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おい、いるか？　いたら返事をしろ。=Ei, você está aí? Responda-me se você estiver.
 チッ、いねぇのか……ったく、無駄足踏ませやがって……=Maldição, você não está aqui... Você me fez perder meu tempo...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 えぇと、ゆっくりするのもいいですよね？　私は好きですよ。=Eh, é bom abrandar, não é? Eu gosto disso.
 あの……私、何か気に障るようなことをしてしまいましたか？=Um... Fiz algo que o aborreceu?
 ふぁぅっ、奥まで拡がっていきます……=Woohoo, está se espalhando profundamente por dentro...

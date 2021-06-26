@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 なんてこった。オレらが二人がかりで、オマエに負けたってのか？　ハッ、参ったな。=Ohhh. Foi preciso dois de nós para vencê-lo? Diabos me levem.
 すげぇなオマエ。正直みくびってた。まさか二人ともイカせちまうなんて、少し見直したぞ。=Você é incrível. Para ser honesto, eu o subestimei. Não pensei que você fosse capaz de nos fazer ejacular aos dois.

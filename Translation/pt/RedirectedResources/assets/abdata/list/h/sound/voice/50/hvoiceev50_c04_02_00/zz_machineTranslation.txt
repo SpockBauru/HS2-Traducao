@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //どしたん？　ヤる前から萎えぽよとか、勘弁だかんね？=O que está acontecendo? Eu não quero ser um covarde antes mesmo de transar, você quer?
 //まさか、キンチョーしてる？　とりま、好きにヤってみなって。=Você está nervoso? Basta ir em frente e fazer o que quiser.
 //あっ、ふぁっ……んっ、けっこー、いい感じかも……♪=Oh, algo, Keko, pode ser bom ♪

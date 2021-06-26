@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ……何故、触手は何もしてこないんですかね……？=... Por que os tentáculos não me fazem nada?
 触手も……私の相手は嫌だと言ってるんじゃないですか？=E os tentáculos... Eles não querem lidar comigo, querem?
 んあぁ……少しだけ……気持ちいい様な……=Parece... Um pouco... Agradável...

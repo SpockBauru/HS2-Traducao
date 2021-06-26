@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 返答は当然イエスですよ。=A resposta é sim, é claro.
 断る理由はありません、お付き合い致します。=Não há motivo para dizer não. Nós iremos com você.

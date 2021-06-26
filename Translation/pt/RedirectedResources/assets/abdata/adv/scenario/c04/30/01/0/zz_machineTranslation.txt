@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 んふ、いたいた♪　アタシに話しかけてくるのが遅いんじゃない？=Mmm, você me pegou ♪ É tarde demais para falar comigo, não é?
 お、来たね。他の女に寄り道しないで、ちゃんとまっすぐアタシのとこに来た？=Ah, aí está você. Você veio direto para mim em vez de parar em outras mulheres?

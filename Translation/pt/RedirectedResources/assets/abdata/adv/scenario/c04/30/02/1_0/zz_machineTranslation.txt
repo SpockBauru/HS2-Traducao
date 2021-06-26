@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリA普通{0}=Prelúdio A Normal {0}
 おっすー。今日は二人でお出迎えだよ。=Whoa. Estamos ambos aqui para lhe dar as boas-vindas hoje.
 じゃーん。なんと、今日は特別ゲスト付きです。=Ta-da! Que surpresa, temos hoje um convidado especial.

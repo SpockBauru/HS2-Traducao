@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……好きな人になら何をされても嬉しい、という考えにはあまり賛同できません。=... Não concordo muito com a idéia de que se você ama alguém, você é feliz, não importa o que ele faça com você.
 ……そうですね……個人的には嫌いではありませんが……人を選ぶプレイですから、きちんと確認は取るべきかと。=... Bem... Eu pessoalmente não desgosto disso... Mas é uma peça que escolhe seu povo, então eu acho que uma confirmação adequada deve ser obtida.

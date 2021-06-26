@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 私だけしかイってないけど、大丈夫なの？=Eu sou o único que veio. Está bem assim?
 これで終わりでいいの？　私しかイってないけど。=Você tem certeza de que é assim que você quer acabar com isso? Eu sou o único que veio.

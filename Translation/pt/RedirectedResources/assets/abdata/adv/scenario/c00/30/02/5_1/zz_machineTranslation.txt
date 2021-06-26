@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようB普通{0}=Vamos sexo B normal {0}
 問題ございません、それでは早速致しましょうか。=Não há problema, vamos direto ao assunto.
 私もご一緒してよろしいのですか？　ではお言葉に甘えさせていただきます。=Você tem certeza de que não quer que eu me junte a você? Então, eu acreditarei em sua palavra.

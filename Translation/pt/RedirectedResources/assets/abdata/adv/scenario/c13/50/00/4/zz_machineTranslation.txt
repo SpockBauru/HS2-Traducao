@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 誰かを心から好きになったことってありますか……？　貴方のことをもっと知りたいです……=Você já se apaixonou por alguém de todo o seu coração? Quero saber mais sobre você...
 大恋愛に憧れるんです……その、夢見がちなことは分かってるんですけど……=Estou ansioso por um grande romance... Sei que estou sonhando, mas...

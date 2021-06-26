@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 悪い、待たせたな。……どうかしたのか？　息が上がってるけど？=Desculpe, eu o fiz esperar. O que... O que há de errado com você? Você está respirando com um pouco de força.
 お待たせ……悪いな、一人にしちまって。=Desculpe por tê-lo feito esperar... Desculpe por tê-lo deixado sozinho.
 待っててくれたのか、ありがとな。　覗いてたりは、してないのか？=Você estava me esperando. Obrigado, cara. Você não está bisbilhotando nem nada, está?

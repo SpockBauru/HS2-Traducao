@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まぁ、とりあえず二人ともイケたんだ。それだけで十分だろう。=Bem, nós dois conseguimos de qualquer forma. Acho que isso é o suficiente.
 オマエとするのは悪くないかもしれないな。身体の相性ってやつか？　そういうのがいい気がする。=Talvez não seja uma má idéia fazer isso com você. É isso que você chama de físico-química? Sinto que isso é uma coisa boa.

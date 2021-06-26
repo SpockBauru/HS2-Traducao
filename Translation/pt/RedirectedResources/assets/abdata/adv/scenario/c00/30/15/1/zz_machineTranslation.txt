@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=Desculpe incomodá-lo tão repentinamente. Você se importaria de passar um pouco de tempo comigo?
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
 無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=Inconscientemente, estávamos caminhando perto da sala. Espero que hoje você possa ficar conosco por um tempo.

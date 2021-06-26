@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 何処からでも、お好きなように攻めて下さい=Você pode me atacar de qualquer lugar, da maneira que quiser.
 ……もしかして、緊張されているのでしょうか？=... Você está nervoso, talvez?
 んっ……これは身体に、堪えます……=Mmm... Isto é realmente difícil para o meu corpo.

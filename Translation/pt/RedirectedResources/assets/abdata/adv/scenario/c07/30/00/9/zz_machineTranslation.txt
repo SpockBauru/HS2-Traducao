@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 それで、本当に話しだけでいいのか？　身体が疼いてんじゃねぇか？=Então, você tem certeza de que quer apenas conversar? Seu corpo está doendo, não está?
 おい、我慢すんな。どうせ話してる間も、ムラムラしてたんだろ？=Ei, não se retraia. Você estava muito excitado enquanto estávamos conversando, não é mesmo?

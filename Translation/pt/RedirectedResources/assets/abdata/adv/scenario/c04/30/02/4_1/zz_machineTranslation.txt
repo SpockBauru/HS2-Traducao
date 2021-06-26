@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 あーね、そういう考えもあるよね。参考になった。=Ah, sim, essa é uma maneira de pensar sobre isso. Isso foi útil.
 まぁほら、こーやって話すことが大事的なね？　そういう感じっしょ？=Bem, você sabe, é importante falar assim, certo? Sabe, assim?

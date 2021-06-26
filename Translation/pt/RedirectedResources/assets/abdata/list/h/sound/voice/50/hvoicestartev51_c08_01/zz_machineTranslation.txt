@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 私がまだまだ気持ち良くしてあげるっす=Eu ainda farei você se sentir bem.
 全て、私に委ねるっすよ～=Eu cuidarei de tudo.

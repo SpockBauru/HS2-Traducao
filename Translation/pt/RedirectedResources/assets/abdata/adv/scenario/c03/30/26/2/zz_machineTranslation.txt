@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 なーに、また溜まっちゃった？　私が発散させてあげてもいいけど……みんなには内緒だからね？=O quê, você construiu novamente? Eu posso ajudá-lo a liberá-lo... Mas não diga a ninguém, está bem?
 な、なんか既に鼻息荒くない？　私がもじもじしてるからって暴走するのは禁止！=Ei, você já não está chorando? Só porque eu estou me contorcendo não significa que você tenha que fugir!

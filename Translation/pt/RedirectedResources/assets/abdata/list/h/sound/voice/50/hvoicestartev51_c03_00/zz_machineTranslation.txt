@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 それじゃあ、もっと続けようか=Bem, então, vamos continuar.
 まだまだ、続けよっか=Vamos continuar.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定2普通{0}=Responder afirmativo 2 normal {0}
 そうそれ！　やった、分かってくれる人がいた♪=É isso aí! Eu encontrei alguém que me entende.
 でしょでしょ？　やっぱそーだよね♪=Não é? Tenho certeza que sim.

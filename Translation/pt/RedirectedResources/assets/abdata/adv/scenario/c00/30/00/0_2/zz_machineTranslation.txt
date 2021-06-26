@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //風呂普通{0}=Banho normal {0}
 散歩でしたら、場所を移した方が良いかと思いますが。=Se for um passeio, acho que é melhor mudar o local de lugar.
 身体を清潔に保つのは、素晴らしいことだと思います。=Acho que é ótimo manter seu corpo limpo.

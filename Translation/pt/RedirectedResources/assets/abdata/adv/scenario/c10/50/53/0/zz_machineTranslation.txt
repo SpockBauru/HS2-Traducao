@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 えぇと、あの触手は……本物というか、生きているのですよね？=Bem, esses tentáculos... Eles são reais, ou estão vivos, não são?
 だ、大丈夫なのでしょうか……きちんと意思の疎通はできますか？=Você tem certeza de que pode se comunicar com ele adequadamente?

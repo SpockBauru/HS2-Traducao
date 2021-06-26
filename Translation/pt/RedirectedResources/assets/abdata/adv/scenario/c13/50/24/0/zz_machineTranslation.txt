@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あなたみたいな人とお会いできるだけじゃなくて、エッチまでできるなんてとっても素敵です……=É tão bom poder não só conhecer alguém como você, mas também transar com você...
 ふふふ、あなたみたいな人と深い関係になれるなんて、運命ですよね……あなたは運命ってあると思いますか？=Hehe... É o destino que eu posso ter um relacionamento profundo com alguém como você... Você acha que o destino existe?

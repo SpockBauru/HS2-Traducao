@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んんっ……なんか、止まらない……=Eu não posso parar...
 あぁ……声が、出ちゃう=Ahhh, não consigo ouvi-lo.
 あ、あはは……なんか、んん……笑けてきちゃう……=Oh, haha... É que... É tão engraçado...

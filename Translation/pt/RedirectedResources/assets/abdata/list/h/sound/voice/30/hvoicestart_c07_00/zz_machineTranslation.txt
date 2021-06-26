@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 いいか？　一応オレも女だ。そこんとこ、忘れるんじゃねーぞ？=Sabe de uma coisa? Eu também sou mulher. Não se esqueça disso, está bem?
 おい、ハァハァ言い過ぎだろ。どこまで飢えてんだ？=Ei, você está bufando e inchando demais. Quão faminto você está?
 おい、あんま調子に乗るなよ？　分かってんな？=Ei, não se deixe levar, está bem? Você entende o que quero dizer?

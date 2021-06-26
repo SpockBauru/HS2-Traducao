@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 い、色々考え中なのでちょっと待ってください！=Espere um minuto, estou pensando em algo!
 こういうのは焦ると良くないんです！　落ち着いてっ……次は……=Não é bom apressar estas coisas! Acalme-se... Da próxima vez...
 んんっ……気持ちいい……ですか……？=Sente-se bem?

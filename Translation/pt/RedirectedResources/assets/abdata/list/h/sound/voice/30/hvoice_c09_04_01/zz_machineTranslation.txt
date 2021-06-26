@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁっ、んんっ、擦れるのっ、気持ちいいですーっ……=Huh, mmm, esfregar é tão bom...
 あっ、んっ、くちゃくちゃいってるのっ……聞こえますかー？=Ah, mmm, você está fazendo barulho... Você consegue me ouvir?
 はぁっ、あっ、あなたの動きっ……好きですぅっ……=Adoro seus movimentos...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ぇ……嘘ですよね？　ま、待ってください！　本当に私、困っているのです！　お礼は何でもしますから！=Sim... Você está mentindo, certo? Espere, espere, espere! Estou realmente em apuros! Farei tudo para lhe retribuir!
 せめてその、色々してからなら分かりますが……流石に何もせず放置は……酷過ぎませんか？=Quero dizer, posso entender se você fez muito trabalho, mas deixá-lo lá sem fazer nada... Não é demais?
 できれば、誰か他の方を呼んできてください。期待はしていませんが……=Se você puder, por favor, vá buscar outra pessoa. Eu não vou prender a respiração, mas...

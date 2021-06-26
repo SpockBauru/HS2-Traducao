@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用普通{0}=Objetivo Geral Normal {0}
 こんにちは……会えて嬉しいです……=Olá... Prazer em conhecê-lo...
 うふふ……今日も元気そうですね……=Hihihi... Você está com bom aspecto hoje...

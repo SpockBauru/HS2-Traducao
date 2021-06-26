@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 え、ちょっと待って？　これ……外でするってこと？　あー、なかなかアブノーマルな趣味をお持ちで……=O quê? Espere um minuto? Você quer dizer... Você quer fazer isso lá fora? Oh, você tem um gosto bastante anormal...
 あのさ、いくらここがそういう場所だからって外でするのは、流石にやり過ぎじゃない？=Sabe, não importa o quanto este lugar seja assim, não é um pouco demais fazer isso lá fora?
 お前とするのが嫌なわけじゃないんだよ？　たださ、外はやっぱり……恥ずかしいかなぁ……=Não é que eu não goste de fazer isso com você, está bem? É que... É meio embaraçoso lá fora.

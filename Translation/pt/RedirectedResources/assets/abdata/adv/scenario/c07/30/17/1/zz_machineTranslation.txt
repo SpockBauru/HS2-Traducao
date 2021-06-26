@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 よお、なんとなくオマエが来る気がしてたぜ。意味分かんねぇ状況だと思うが、とりあえず助けてくれ。=Ei, eu tinha um pressentimento de que você estava vindo. Sei que esta situação não faz nenhum sentido, mas preciso de sua ajuda.
 一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=Há uma coisa que eu esqueci de dizer. Quando você me ajudar... Não me agarre com muita força. Está bem? Eu o avisei, não avisei?
 ハッ、笑っちまうだろ？　俺も少しの間は笑ってた。だけどな……流石に飽きた。とにかくオレを抜いてくれ。=Ha, você está rindo, certo? Eu também ri por um tempo. Mas depois eu me cansei disso. De qualquer forma, você pode me puxar para fora.

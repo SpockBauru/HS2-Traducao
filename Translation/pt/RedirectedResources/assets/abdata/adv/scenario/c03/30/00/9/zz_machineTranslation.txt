@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 えーとさ……折角だから、このままエッチしない？=Bem... Já que estamos na mesma página, por que não fazemos apenas sexo?
 あー……お前も私と同じ気持ち？　なら……しちゃう？=Uh... Você sente o mesmo por mim? Você... Faria isso?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 コイツ、やる気ないみたいだぞ？　楽しんでるのはオマエだけだな。=Este cara não parece que vai fazer isso, está bem? Você é o único que está se divertindo.
 おい、コイツもオマエの趣味に付き合うのはメンドクセーってよ。=Ei, ele diz que é muito difícil acompanhar o seu hobby.
 んく……奥ばっかしつこく突きやがって……それ以上は入んねぇぞ？=Não consigo entrar mais, sabe.

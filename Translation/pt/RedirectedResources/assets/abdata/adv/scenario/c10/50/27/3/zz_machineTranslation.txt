@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 やはり……痛いのは少々苦手ですね。できれば次は、普通にお願いします。私はそれで、十分満足できますので……=Afinal... Estou um pouco desconfortável com a dor. Da próxima vez, se possível, por favor, faça-o normalmente. Vou ficar bastante satisfeito com isso...
 うぅ、まだ痛みが残っています……そのうち、大きな怪我をしてしまいそうで、なんだか少し、怖いです。=Ugh, ainda estou com dores... Estou meio, meio assustado de que um dia destes vou ter uma grande lesão.

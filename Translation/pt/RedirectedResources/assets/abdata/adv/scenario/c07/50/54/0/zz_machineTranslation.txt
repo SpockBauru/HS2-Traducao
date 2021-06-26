@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //壊れ{0}=Quebrado {0}
 おぃ、おぇをどうしゅるつもりら？　どうしぇこぇは、たらのさんぽじゃないんらろ？=Ei, o que você vai fazer comigo? Qual é o seu problema? Você não é um tigre, é?
 すぅなら、はぁくしろ……じらしゃれるろはしゅきじゃないんら……=Se você vai fazer isso, vai ter que fazê-lo... Porque não é a coisa certa a fazer...

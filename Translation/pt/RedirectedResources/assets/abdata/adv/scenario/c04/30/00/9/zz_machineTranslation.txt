@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あー、なんていうかアレだね……ムラムラしてきた的な？　アンタもそうじゃない？=Sabe, eu estou meio... Excitado, sabe? Não é isso que você é?
 ねぇ……これから時間ある？　ちょっと軽くでもいいから、気持ちいことしない？=Ei... Você tem um minuto? Você quer fazer algo leve, algo que se sinta bem?

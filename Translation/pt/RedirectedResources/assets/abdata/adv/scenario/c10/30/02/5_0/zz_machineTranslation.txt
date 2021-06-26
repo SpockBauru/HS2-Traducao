@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 え……それはえぇと、この三人でということですよね？　わ、私は構いませんが……少し、ドキドキしますね。=Bem... Isso significa, uh, nós três, certo? Eu não me importo, mas estou um pouco nervoso, você não está?
 また、唐突ですね……いつもそういうことばかり考えているのですか？　ふふ、仕方のない人です。=Além disso, é abrupto... Você sempre pensa nesse tipo de coisa? Huh, não posso evitá-lo.

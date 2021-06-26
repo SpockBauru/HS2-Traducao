@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたさんが一番嬉しいって思ってくれること、してあげたいな=Eu gostaria de fazer o que o deixaria mais feliz.
 わたしの気持ち……きちんとあなたさんに届くかな……？=Será que meus sentimentos chegarão a você corretamente?
 ふぁぁ、温かいですぅ……=Whoa, está quente...

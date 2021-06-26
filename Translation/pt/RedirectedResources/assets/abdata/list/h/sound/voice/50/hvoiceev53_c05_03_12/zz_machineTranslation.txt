@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ど、どうしたんでしょう……？=O que está acontecendo?
 えっと……私を犯さないんですか……？=Um... Você não vai me foder?
 あぁ……中でうねうねと……気持ちいいです……=Oh, é tão bom...

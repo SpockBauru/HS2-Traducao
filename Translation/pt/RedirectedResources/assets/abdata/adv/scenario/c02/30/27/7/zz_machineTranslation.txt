@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 人数差なんて関係ないって顔してますね……ふんっ。=Parece que você não se importa com a diferença em números... Hmmm.
 お見逸れしました……とでも言うと思ったんですか？=Você pensou que eu ia dizer: "Sinto muito por ter sentido sua falta..."?

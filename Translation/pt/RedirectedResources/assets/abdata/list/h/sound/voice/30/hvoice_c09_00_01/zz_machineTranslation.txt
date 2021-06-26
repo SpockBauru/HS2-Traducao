@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 これって……わたし、焦らされちゃってるのかなー？=Isto é... Estou sendo apressado?
 こーいうドキドキ感……嫌いじゃないですよー=Este tipo de excitação... Não me importo!
 ふっふっふ、どんなことしちゃいましょーかねー=Pfft, o que devo fazer?

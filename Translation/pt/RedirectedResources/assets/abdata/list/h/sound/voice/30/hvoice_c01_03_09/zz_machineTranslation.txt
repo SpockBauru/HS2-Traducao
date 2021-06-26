@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、ぁぁ……振動、すごく響いてるぅ……=Ah, sim... As vibrações são realmente fortes...
 んあっ……こんな格好で……しちゃうなんて……=Não acredito que estou fazendo isto com este traje...
 はぁん！　おもちゃの振動から、逃げられないわ=Huh! Você não pode escapar das vibrações de um brinquedo.

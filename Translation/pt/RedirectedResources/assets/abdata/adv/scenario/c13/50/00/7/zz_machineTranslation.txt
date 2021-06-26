@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 その……エッチなことって、どういう風に調べたらいいかわからなくて……教えてもらっても、いいですか……？=Bem, eu não sei como descobrir sobre sexo, então... Você pode me dizer?
 私の身体、セックスに向いているか不安で……だからここに来たんですけど……=Eu não tinha certeza se meu corpo estava pronto para o sexo... E por isso vim aqui, mas...

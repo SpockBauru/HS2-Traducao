@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 まぁ、私はいい友達で終わりやすいからなぁ……=Bem, eu tendo a acabar sendo um bom amigo, então...
 え、もしかして……恋の話ですか？=O quê, você... Você está falando de amor?

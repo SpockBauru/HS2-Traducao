@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 さ、最近、好きになったキャラクターグッズについて……話してたんです……=Bem, estávamos falando de alguns bens de caráter pelos quais me apaixonei recentemente...
 せ、先日観たドラマのことを話してたんですけど……=Estava a contar-lhe um drama que vi no outro dia...

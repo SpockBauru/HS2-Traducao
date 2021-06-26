@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はじめまして、あなたが私のお相手ですか。　……まぁ、別に誰でもいいんですけど。　ほら、さっさと始めて下さい。=Prazer em conhecê-lo. Você é meu parceiro? Bem, não importa quem eu sou. Aqui, por favor, comece.
 よろしくお願いします。　お互い、身体だけの関係と割り切ってエッチしていきましょう。=Estou ansioso para trabalhar com você. Vamos fazer sexo um com o outro, dividindo-o apenas em uma relação física.

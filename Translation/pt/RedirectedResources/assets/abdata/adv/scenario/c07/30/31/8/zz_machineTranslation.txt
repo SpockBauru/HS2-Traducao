@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おい待て……オレの話を聞いてなかったのか？　今はまずいって言ったよな？=Ei, espere... Você não ouviu o que eu acabei de dizer? Eu não acabei de dizer que era uma má idéia?
 おい、くだらねぇことをしてんじゃねぇ。オマエのためにも、オレを自由にしろ。今すぐだ。=Ei, não faça nada estúpido. Para o seu próprio bem, você vai me libertar. Agora mesmo.
 あーあ、オレは知らねぇぞ？　オマエのちょっとした悪戯心が、後で大変なことになるんだからな？=Oh, eu não sei, não é mesmo? Sua pequena brincadeira vai lhe trazer muitos problemas depois, certo?

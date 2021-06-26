@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 今度は何かお話したいです、楽しみにしてますね……=Gostaria de falar com você sobre algo da próxima vez. Estou ansioso para...
 エッチのお誘いかと思ってドキドキしちゃいました……ま、また今度お願いします……=Eu estava tão nervosa que você ia me pedir para fazer sexo com você... Mas, por favor, em outra ocasião...

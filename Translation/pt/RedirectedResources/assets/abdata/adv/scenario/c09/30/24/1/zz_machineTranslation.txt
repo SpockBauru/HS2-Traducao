@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はえー、エッチって女の子同士でも出来ちゃうんですねー、それはそれで興味あるですよー。=Huh, sexo pode ser feito entre garotas, isso é algo em que estou interessado.
 ふふっ、今日は初めましてですけど……女の子同士、これからずっとずっと仲良くしていきましょうねー。=Esta é a primeira vez que nos encontramos hoje, mas... Vamos ser amigas, garotas, por um longo tempo ainda.

@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 さぁ、もう流石に寝惚けてはいませんよね？　貴方は気持ちよく起きられて、私も気持ちよくて……ふふ、こんなに素晴らしいことはありません。=Agora, você não está adormecendo, está? Você acorda se sentindo bem e eu me sinto bem... Hehe, é uma coisa tão maravilhosa.
 まだ、お元気そうですが……起きたばかりの貴方を、また寝込ませるわけにもいきませんから。このあたりで自重しておく事にします。=Você ainda parece bem, mas não posso deixá-lo adormecer novamente depois de ter acabado de acordar. Eu vou manter meu peso baixo por aqui.

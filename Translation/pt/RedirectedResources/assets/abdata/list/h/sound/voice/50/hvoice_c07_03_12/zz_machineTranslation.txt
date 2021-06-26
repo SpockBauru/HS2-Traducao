@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おい、動かねぇぞコイツ……死んだのか？=Ei, não está se movendo, está... Está morto?
 何もしないくせに拘束は緩めねぇ……何がしたいんだコイツは……=Você não vai fazer nada, mas não vai soltar as amarras... O que ele quer...
 んっ、くそっ、そこは人間様の大事なとこだぞっ=Mmm, porra, essa é uma parte importante do corpo humano.

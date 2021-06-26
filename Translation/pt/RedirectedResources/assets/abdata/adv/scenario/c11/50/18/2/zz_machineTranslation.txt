@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お手数をおかけしてすみません……=Desculpe incomodá-lo...
 ま、誠に有難うございます。簡素なお礼で大変申し訳ございませんが、失礼致しますっ。=Muito obrigado. Sinto muito por este simples agradecimento, mas por favor me desculpem.
 誠に有難うございます、やはり貴方は素敵なお方です。=Muito obrigado, você é uma pessoa maravilhosa.

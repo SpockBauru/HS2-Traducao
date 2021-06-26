@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ちょっと……こんな意味不明な状態で放置とか……マジ勘弁して……=Apenas... Não me deixe em um estado que não faz sentido como este... A sério...
 こいつ……放置してたら勝手に襲ってきたりとか……しないよね？=Esta coisa... Não vai nos atacar por conta própria se a deixarmos em paz... Não é?
 あっ、やめっ……そこ、大事なとこだかんね？　分かってる？=Oh, não... Essa é uma parte importante, está bem? Você entendeu?

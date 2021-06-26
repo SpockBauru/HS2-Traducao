@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なにしてたのA普通{0}=O que você estava fazendo?
 はい、この施設について話し合っていました。=Sim, nós estávamos discutindo estas instalações.
 性のお勉強は必要か否か、というお話をしておりましたの。=Estávamos falando sobre se a educação sexual é necessária ou não.

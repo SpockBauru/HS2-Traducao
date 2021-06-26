@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなたが悦んでくれる顔……早く見たいです……=Mal posso esperar para ver o seu rosto como você me dá prazer...
 ふふっ、今日はどんなことして欲しいですか？=Hmm, o que você gostaria que eu fizesse hoje?
 んんっ、この感じぃ……=Mmm, esta sensação...

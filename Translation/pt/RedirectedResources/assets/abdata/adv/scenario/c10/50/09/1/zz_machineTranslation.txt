@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら？　奇遇ですね。私も丁度、汗を流したくて……きっとこれから、たくさん汗をかいてしまうと思うので……=Oh? Que coincidência. Eu só queria suar também... E tenho certeza que vou suar muito de agora em diante, então...
 折角シャワーを浴びるのなら、二人でもう少し汗をかいてからにしませんか？　その方が絶対気持ちいいと思いますよ？=Se você vai tomar um banho, por que não espera até que ambos tenham suado? Acho que isso definitivamente seria melhor, você não acha?
 ふふ、いきなり入ってきて驚きました？　貴方の姿が見えたので、つい悪戯心が……私もたまには積極的になるのですよ。=Você está surpreso que eu tenha vindo do nada? Eu podia ver você, então me apetecia pregar uma partida... às vezes sou agressivo.

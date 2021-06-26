@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ほ、他の女の子がいると……私はちょっと緊張しましたけど……あなたはさすがです……=As outras garotas... Me deixaram um pouco nervosa... Mas você é tão boa...
 他の女の子も一緒に相手しちゃうなんて……あなたって本当に逞しいんですね……=Não posso acreditar que você enfrentaria outra garota com você... Você é tão duro...

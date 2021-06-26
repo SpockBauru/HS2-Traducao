@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 はぁ……こんなにベトベトになるなんて……その……す、すごいんですね……=Huh... Ser tão viscoso... Bem... É... Incrível...
 身体中から……精液の匂いがします……こ、これ……ちょっと恥ずかしいですよぉ……=Posso sentir o cheiro do sêmen em todo o meu corpo... Isto é... Um pouco embaraçoso...

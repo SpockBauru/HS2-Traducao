@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 どっちかが満足したら終わりっていうのはわかるっすけど、生殺しっすよ～ムラムラっす～。=Sei que deve terminar quando um de nós estiver satisfeito, mas está me matando vivo - estou tão excitado!
 まー、スッキリしちゃったもんは仕方ないすよねー。大人しく諦めるっすー。=Bem, não há nada que possa ser feito agora que foi esclarecido, não é mesmo? Eu desistirei em silêncio.

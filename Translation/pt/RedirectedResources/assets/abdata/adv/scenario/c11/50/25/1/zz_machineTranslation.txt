@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 場所を移さず、ここで致すのですか？　こ、心の準備が……=Você vai deixá-lo morrer aqui em vez de mudar-se para outro lugar? Não tenho certeza se estou pronto...
 しゅ、羞恥心はございますが……貴方へのご奉仕する気持ちの方が勝っていますので、問題ございません。=Tenho vergonha de mim mesmo, mas meu desejo de servi-lo é maior do que minha vergonha, portanto não há problema.
 うふふ、人の往来が多い場所で、破廉恥な姿を曝してしまうのですね。=Ummm... Você se expõe a muitas pessoas em um lugar com muito trânsito.

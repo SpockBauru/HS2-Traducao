@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ～……ふわぁあぁ……いつからいたんすかー？　もしかして、待っててくれたんすかねー？=Huh ~ Uau ~ Você veio algum dia? Será que você estava esperando por mim?
 おっとびっくりー、出待ちっすかー？　えー、いつからいたんすかーかなり嬉しいんすけどー。=Estou surpreso, você está esperando por mim? Fico muito feliz em ouvir isso.
 あれ、もしかして待っててくれたんすかー？　寝込みを襲ってくれてもよかったんすけどねー。=Oh, você estava esperando por mim, não estava? Mas teria sido bom se você tivesse me atacado durante o sono.

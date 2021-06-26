@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=Espere, eu tenho alguns negócios a tratar. Vou fazer um pequeno desvio, mas não quero que se intrometam em meus negócios.
 ん……少し寄りたいところが出来た。オマエはここで待ってろ。ついてくんじゃねぇぞ？=Tenho uma coisinha para passar por aqui. Você espera aqui. Não me siga, está bem?
 あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=É isso mesmo... Preciso usar o banheiro. Vou fazer você esperar um pouco, mas não se preocupe com isso.

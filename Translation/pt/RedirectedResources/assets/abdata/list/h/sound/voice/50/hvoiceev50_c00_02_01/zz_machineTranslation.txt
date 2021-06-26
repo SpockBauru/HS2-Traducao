@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 待つ時間も愛おしく感じます=Estou adorando a espera.
 ……どうしてでしょう？　無性に胸が高まります=... Por que isso acontece? Meu coração está doendo por nada.
 んんっ、この瞬間、好きです……=Mmm, eu amo este momento...

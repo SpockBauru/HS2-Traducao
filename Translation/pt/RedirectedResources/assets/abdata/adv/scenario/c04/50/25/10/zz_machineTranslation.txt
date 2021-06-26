@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おおー、ナイトプールとか……アタシの好みよく分かってんじゃん♪=Ah, piscinas noturnas... Você sabe exatamente do que eu gosto.
 あは、マジヤバたん♪　アンタとナイトプールとかアガり過ぎておかしくなりそ♪=Vou ficar louco na piscina noturna com você.
 へぇ～、いいとこ知ってんじゃん♪　あーヤバ、もう疼いてきた……=Oh, você conhece um bom lugar... Oh, não, eu já estou formigando...

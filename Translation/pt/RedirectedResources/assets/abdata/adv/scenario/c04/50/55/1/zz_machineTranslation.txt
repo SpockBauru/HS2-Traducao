@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //依存{0}=Depende (0)
 アンタがアタシの虜なのはもう分かるってるし、急かしはしないけど……=Eu já sei que você é louco por mim e não vou apressá-lo, mas...
 フツー教会はヤルための場所じゃないかんね？　アタシにハメるもの、ちゃんと準備しといてよ？=Uma igreja não deveria ser um lugar para se transar? Certifique-se de que você tem algo para me foder.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //好意{0}=Favores {0}
 疲れた状態でお酒を飲むのは、あまりオススメできませんので……=Não é recomendado beber álcool quando se está cansado, então...
 少しゆっくりと……二人の時間を楽しみましょうか……=Vamos apenas abrandar um pouco... E aproveitar algum tempo juntos...

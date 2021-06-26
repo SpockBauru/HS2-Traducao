@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 まら……あしょぶんれすれ……(まだ、遊ぶんですね)=(Você ainda joga, não é mesmo?)
 いっはい……やしゅみはいれす……(一回休みたいです)=(Quero fazer uma pausa)

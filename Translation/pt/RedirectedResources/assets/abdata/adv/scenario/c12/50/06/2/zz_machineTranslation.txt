@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ち、ちが……これは違うんだ……ちょっと、気分が、盛り上がってだな……=Só estou com vontade de um pouco...
 なんだよ、ばれてたんなら、手伝ってくれたらよかったのに。=Que diabos, se você soubesse, você deveria ter me ajudado.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 私もあなたとおしゃべりしかったんです……どんなお話にしますか……？=Tenho querido conversar com você... Sobre o que você gostaria de falar?
 改めて誘われるとちょっと緊張しちゃいます……でも、とっても嬉しいです……=Estou um pouco nervoso para ser convidado a sair novamente... Mas estou muito feliz...

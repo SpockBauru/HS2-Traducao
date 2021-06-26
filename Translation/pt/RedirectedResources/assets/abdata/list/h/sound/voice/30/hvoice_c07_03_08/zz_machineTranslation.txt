@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んぁっ、なんだそれは……はぁっ、反則だろっ……！=Não, isso é... Isso é... Isso é... Isso é ilegal!
 くぅっ、動けなくしてまで……そんなものを使うなっ……！=Oh, não se atreva a usar essa... Coisa... Em mim.
 くぅあっ！　強すぎるっ！　んぉっ、こんなの、無理だっ……！=Aah! É muito forte! Oh, eu não posso fazer isso...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 オマエの意見も参考にはなった。あくまで参考程度だがな。=Sua opinião também foi útil. É apenas para referência, porém.
 まぁ結局は、人それぞれってやつだな。=Bem, no final das contas, é tudo sobre o indivíduo, não é?

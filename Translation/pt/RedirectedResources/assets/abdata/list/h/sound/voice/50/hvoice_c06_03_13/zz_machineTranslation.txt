@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ねぇ、私…このまま何をされるのかしら？=Ei, eu... O que eles vão fazer comigo?
 何もしないのなら、解放して欲しいのですけど…=Se você não vai fazer nada, preciso que me deixe ir...
 なんだか…ヌルヌルしていますわ=É meio... Escorregadio.

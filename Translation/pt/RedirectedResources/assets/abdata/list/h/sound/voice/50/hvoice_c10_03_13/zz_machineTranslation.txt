@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 やはりやめませんか？　こんな生き物、絶対普通ではありせんよ……=Por que não paramos? Estas criaturas definitivamente não são normais...
 じっとしていたら……貴方も絡み付かれるのでは？=Se você ficar parado... Você também vai ficar enredado nele, não vai?
 あぁっ、そんな奥まで、入ってこようとしないでください……=Oh, por favor, não tente entrar tão fundo...

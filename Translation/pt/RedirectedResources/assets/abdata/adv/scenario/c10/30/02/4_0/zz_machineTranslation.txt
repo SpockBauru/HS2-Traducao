@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
 それでは、お話はこの辺で。またいつか、三人でお話がしたいですね。=Bem, por enquanto é tudo. Gostaria de falar com vocês três novamente um dia destes.
 三人で話していると、時間があっという間に経ってしまいますね。そろそろ、お開きにしましょうか。=O tempo voa quando nós os três estamos conversando, não é mesmo? Acho que é hora de dar a noite por terminada.

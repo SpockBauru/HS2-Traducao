@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ん……今日はどんなこと……しちゃいますか……？=Hmm... O que você vai fazer hoje?
 あ……ん……ジッとしてるだけでもドキドキします……=Ah... Hmm... Mesmo sentado ainda me deixa nervoso...
 ああぁっ、入って……来ましたぁ……=Ahhh, está em... Está em...

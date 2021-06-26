@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こんな所にまで電車が来てるなんて、すごいっすねー。=É incrível que o trem chegue até aqui!
 この電車、何線っていうんすかねー？=Qual é o nome da linha deste trem?
 あなたと一緒に電車に乗るのも、悪くないっすね～。=Andar de trem com você não é uma má idéia!

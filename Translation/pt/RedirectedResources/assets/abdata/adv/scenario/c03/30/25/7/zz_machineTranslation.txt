@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 なんか和室って、妙にかしこまっちゃうよね？　そんなことない？　緊張というか……=As salas em estilo japonês podem ser muito formais, não podem? Você nunca se sente assim? Estou nervoso...
 おぉ……なんか雰囲気あっていいね。和室でしっぽりって感じ？　こういうの私好きかも。=Oh... Tem uma atmosfera agradável. É como relaxar em uma sala em estilo japonês. Eu acho que gosto deste tipo de coisa.
 ほー、和室ですかー。いい趣味してるねぇ。何て言うか、このねっとりした感じが、ソソるよね？=Oh, uma sala no estilo japonês? Você tem bom gosto. Não sei o que dizer, mas esta sensação pegajosa é muito reconfortante, não é?

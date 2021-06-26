@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 その……お恥ずかしい限りなのですが、貴方のお話で高揚しまして……良かったら、このまま致しませんか？=Bem, tenho vergonha de dizê-lo, mas sua história me animou... E eu gostaria de mantê-la assim, se não se importa.
 せ、折角というのも変な話ですが、宜しければこのまま……いかがでしょうか？=Se você não se importa, eu gostaria de manter assim... O que acha?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ふぅ、マーキングにしては少々出しすぎのような気もしますが……=Hmm, parece um pouco excessivo para marcações...
 このまま放っておいたら、精液の匂いが染みついてしまいそうですね。=Se eu o deixar assim, o cheiro do sêmen se infiltrará.

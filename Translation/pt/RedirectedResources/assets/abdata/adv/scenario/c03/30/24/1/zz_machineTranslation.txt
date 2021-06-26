@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 えっ、女！？　いやいやごめんごめん、驚いただけで嫌ってわけじゃないからね！？=O quê? Uma mulher! Não, não, não, desculpe, desculpe, só estou surpreso, isso não significa que eu odeio você!
 でも、女とエッチするなんて、ちょっと照れるね。あ、あはは、緊張してるけど、よろしくねー？=Mas é um pouco embaraçoso ter relações sexuais com uma mulher. Ah, haha, estou nervoso, mas é um prazer conhecê-lo, certo?

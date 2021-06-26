@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 夜なので人に見つかる心配は少なそうですが、スリルも減ってしまうのではありませんか？=É noite, então parece haver menos preocupação com as pessoas encontrando você, mas isso também não reduz a emoção?
 夜は肌寒いですね、くっついて身体を温め合いましょう。=Está frio à noite, vamos ficar juntos e aquecer o corpo um do outro.
 昼は子供の為の場所も、夜には姿を変えてしまう……なんとも背徳的ですね。=Um lugar para as crianças de dia muda sua forma durante a noite... Que imoral!

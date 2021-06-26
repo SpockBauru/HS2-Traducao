@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 おひんひん…おいひいれ（おちんちん、美味しいぜ）=Seu pau é delicioso.
 こえ…もっほほひいれ（これ、もっとほしいぜ）=Eu quero mais disto.
 おいひい…しゅげぇおいひい（美味しい、すげぇ美味しい）=(delicioso, tão delicioso)

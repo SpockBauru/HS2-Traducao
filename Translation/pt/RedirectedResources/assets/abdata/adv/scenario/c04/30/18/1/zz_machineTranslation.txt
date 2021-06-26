@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あっ、いいところに来てくれじゃん！　これ解いて？　変な悪戯とかしなくていーかんね？　普通に解くだけだよ？=Oh, você veio ao lugar certo! Você pode me desamarrar? Você não precisa pregar nenhuma peça em mim, precisa? Basta resolvê-lo como de costume.
 あ、あんまし激しく動かすのは無しね？　ちょっと色々やばいんだわ……うん、色々……=Oh, não mexa com muita força, ok? É uma bagunça... Sim, é uma bagunça...
 あー良かったー。アンタが来てくれて……とりま、これ解いてくんない？　お礼は後でちゃんとするからさ～♪=Oh, ginda bem. Estou feliz por você estar aqui... De qualquer forma, você pode desamarrar isto para mim? Agradeço-lhe mais tarde.

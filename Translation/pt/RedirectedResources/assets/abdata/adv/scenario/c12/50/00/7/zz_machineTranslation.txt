@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ……へぇ、精力剤ってそんなに効くのか？　まぁ、こっちは飲んでもあんまり意味ないけどな。=... Uau, os comprimidos de energia realmente funcionam assim tão bem? No entanto, não há muito sentido em assumi-los aqui.
 ……エログッズとか結構持ってるのか？　俺は、まぁちょこっと持ってるけどな。=... Você tem muitos produtos eróticos? Eu tenho, bem, um pouco de tudo.

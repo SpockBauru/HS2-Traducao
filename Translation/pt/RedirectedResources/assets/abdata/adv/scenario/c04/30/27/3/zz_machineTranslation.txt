@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ねぇ、ちょっと乱暴過ぎじゃなかった？　アンタってあーいうのが好きなん？=Ei, isso foi um pouco duro, não foi? Você gosta desse tipo de coisa?
 //いった……まだちょっと痛いんですけど。傷とか残ったら、どーしてくれんの？=Ainda está um pouco dorido. O que você vai fazer se isso deixar uma cicatriz ou algo assim?

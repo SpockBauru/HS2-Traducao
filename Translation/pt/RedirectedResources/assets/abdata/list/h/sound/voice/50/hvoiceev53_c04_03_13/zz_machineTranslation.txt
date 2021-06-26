@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 触手くんどした？　まさか緊張とかするタイプ？　あは、ウケる♪=O que está errado, Tentáculo? Você é do tipo nervoso? Oh, isso é engraçado ♪
 あーれ？　もっとめちゃくちゃにされるかと思ってたけど……違うの？=Uh-oh? Pensei que você estaria mais fodido do que isso, mas... Você não está?
 //あふっ、これやば……んっ、マジ深いとこまで入ってこようとしてる……=Ahhh, está indo muito fundo...

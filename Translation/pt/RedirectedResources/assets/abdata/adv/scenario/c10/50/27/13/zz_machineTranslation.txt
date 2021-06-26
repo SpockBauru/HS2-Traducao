@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //壊れ{0}=Quebrado {0}
 んぅぅ……ありゃまが……へんれしゅぅ……もっろぉ……きもひくしれくらら……なぉりましゅかれぇ……？=Ohhh, você é tãtão estranho... Você é tão estranho... Você é tão estranho...
 んぁあん……もっろえっちしまひょ～……めにょまぇが……きぁきらしゅるくぁいぃ……ん～……えっちぃ、もっろえっちぃ……ぅぅうん……=Eu vou me divertir muito com você... Você é tão fofo, tão fofo...

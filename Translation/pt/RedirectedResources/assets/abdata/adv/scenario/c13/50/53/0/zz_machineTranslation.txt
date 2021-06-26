@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //隷属{0}=Escravidão {0}
 今日はあの変な触手が私の相手なんですね……=Então, esse tentáculo estranho é meu parceiro hoje.
 あなたじゃないのは残念ですけど……あなたがしたいことを叶えるのが性奴隷の役目です……=Lamento que não seja você, mas... É o trabalho do escravo sexual garantir que você consiga o que quer...

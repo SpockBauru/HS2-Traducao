@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ん、はぁ……あまり、しすぎるのも……考えものですね……=Bem, você sabe... Nunca se pode ter muito... Disso...
 ふぅ……お先にどうぞ……私は、もう少しここで休んでいきますから……=Hmm... Depois de você... Vou descansar aqui por um pouco mais de tempo...

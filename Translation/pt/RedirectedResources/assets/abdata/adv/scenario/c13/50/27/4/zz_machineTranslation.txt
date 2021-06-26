@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 エッチって、ふたりきりじゃなくてもできるんですね、すごいです……=Não é preciso estar sozinho para transar. É incrível...
 なんだか心がざわざわした気がしたんですけど、刺激が強すぎたからかもしれませんね……=Senti que minha mente estava zumbindo, mas talvez isso fosse porque eu estava superestimado...

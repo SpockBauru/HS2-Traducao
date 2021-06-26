@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お風呂後だからでしょうか、すぐに身体が火照ってしまいました……はふ……=Talvez fosse porque foi depois do banho, mas meu corpo imediatamente começou a queimar... Haha...
 身体を洗った後の匂いは好きですが……それ以上に、あなたに付けてもらった匂いの方が私は好き、です……=Gosto da maneira como você cheira depois de me lavar... Mas gosto da maneira como você me faz cheirar ainda melhor...
 はぁ、身体、きれいにしておいてよかったです。……それとも、汚れたままの方がお好みだったりしちゃいますか……？=Huh, estou feliz por ter limpo meu corpo... Ou você prefere ficar sujo?

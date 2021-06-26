@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、来た。私のこと気に入ってくれちゃったんだ？　なーんて、実はその逆だったりぃ……してね？=Oh, aqui está ele. Então você gosta de mim, hein? Bem, na verdade, é o contrário, não é?
 お前とスるのも、最初よりは慣れたかなぁ……って、心臓ドキドキさせながら言うことじゃないか。=Acho que me acostumei a brincar com você melhor do que da primeira vez... E isso é dizer algo com um coração palpitante.

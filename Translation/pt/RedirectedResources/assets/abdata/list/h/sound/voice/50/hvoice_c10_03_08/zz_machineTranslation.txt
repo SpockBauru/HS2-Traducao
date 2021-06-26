@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んんぅっ、別に……拘束する必要は、ないのでは？=Mmm, não há necessidade de... Restringi-la, há?
 んく……自由に動けないと……それだけで変な気分に……=Hmm... Se eu não posso me mover livremente... Isso me faz sentir estranho...
 んぁぐっ、身体がっ、あっ、あっ、動きたいのに動けなくてっ……=Ohhh, meu corpo! Eu quero me mover, mas não posso...

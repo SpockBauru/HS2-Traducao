@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //嫌悪{0}=Repugnância {0}
 まったく、あなたには困った物ね。=Você é um verdadeiro chato, sabia disso?
 あんな事するなら、二度と一緒に電車なんか乗らないから。=Se você fizer algo assim, eu nunca mais entrarei em um trem com você.

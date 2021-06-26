@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 んっ……この様な擦り方は、いかがでしょうか？=Hmm... E que tal este tipo de fricção?
 あぁ……貴方の声を、聴かせて頂きたいです……=Oxalá eu pudesse ouvir minha voz.
 あん……敏感な箇所に……刺激がきております……=Suas... áreas sensíveis estão sendo estimuladas.

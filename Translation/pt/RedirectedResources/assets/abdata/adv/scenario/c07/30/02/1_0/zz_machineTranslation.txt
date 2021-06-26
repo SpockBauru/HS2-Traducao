@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリA普通{0}=Prelúdio A Normal {0}
 よお。なんだ、オレらの邪魔をしに来たのか？=Ei, cara. O quê, você está aqui para se meter conosco?
 ハッ、予想通りだ。女二人でいたら、絶対寄って来ると思ったよ。=Ha, como esperado. Eu sabia que você apareceria se houvesse duas mulheres.

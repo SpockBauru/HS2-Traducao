@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お前が見たいなら、ずっと……あっでも、恥ずかしいんだからな！？=Se você quiser ver, pode ficar... Oh, mas estou envergonhada!
 それは、私のことが好きっていう眼差しでいいんだよな？　な？=Esse é um olhar que diz que você gosta de mim, certo? Certo?
 お、大きすぎぃ……=Oh, é muito grande...

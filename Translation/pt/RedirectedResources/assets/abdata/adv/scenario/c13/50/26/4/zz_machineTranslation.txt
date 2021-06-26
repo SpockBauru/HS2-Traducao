@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あの、私……あなたの暴力に慣れてしまったみたいで……でも痛いものは痛いので、やめてほしいです……=Um, eu... Acho que me acostumei à sua violência... Mas o que dói, então, por favor, não...
 今日も私を痛めつけるんですか……？　それがあなたの性の形なら、受け入れたいんですけど……たぶん無理です……=Você vai me fazer sofrer novamente hoje? Se essa é sua forma de sexo, eu gostaria de aceitá-la, mas... Provavelmente não...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定1普通{0}=Responder afirmativo 1 normal {0}
 やっぱそうだよな、俺も同じだよ。=Eu sabia. Eu sou do mesmo jeito.
 俺も同じ意見だ。=Eu sou da mesma opinião.

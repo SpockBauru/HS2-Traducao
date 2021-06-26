@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あれ、こんな所でどうしたんですか？=Ei, o que está acontecendo aqui?
 どうしました？　まさか……覗いてたりしてませんよね……？=O que está acontecendo? Você não está... Espreitando para mim, está?
 えっと……まぁ、何をしていたかは聞かない事にしてあげますけど、どうしましたか？=Bem... Bem, não vou lhe perguntar o que você estava fazendo, mas o que aconteceu?

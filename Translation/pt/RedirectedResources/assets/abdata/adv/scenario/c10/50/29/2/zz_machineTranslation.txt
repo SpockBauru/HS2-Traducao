@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら、貴方も来ていたのですね……ふふ、汗を流すのはいいですよね。心も体もリフレッシュできて。=Oh, você também está aqui... Hehe, é bom trabalhar para suar, não é? Ele refresca o corpo e a mente.
 まぁ、貴方がいると分かっていれば、もう少し早く出て来たのですが……貴方なら、いつでも声をかけてくださって大丈夫ですよ。=Bem, se eu soubesse que você estava lá, eu teria saído um pouco mais cedo... Mas você sempre pode me chamar.
 あ……丁度今、身体を綺麗にしたばかりなので……待ってくださっていたのなら申し訳ないのですが。汗をかくようなことは、少しだけお預けです。=Oh... Acabei de me limpar, então... Desculpe se você tem estado me esperando. Vou deixá-lo suar um pouco.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ありがとうございます、本当に助かります。=Obrigado, isso é de grande ajuda.
 本当はまだまだお礼の言葉を述べたいのですが……すみません、失礼します。=Na verdade, gostaria de agradecer ainda mais... Desculpe-me, com licença.
 一層あなたのことを好きになりました。改めてお礼を言わせてください、ありがとうございます。=Eu gosto ainda mais de você agora. Por favor, deixe-me agradecer novamente, obrigado.

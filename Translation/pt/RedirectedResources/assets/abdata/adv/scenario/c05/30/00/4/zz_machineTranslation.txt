@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 え、ええ……そんな風に気持ちが変わることは……あると思いますよ。=Bem, sim... É possível... Mudar de idéia dessa maneira, acho eu.
 ……た、確かに……あ、相手によってドキドキの種類は違います……=Há diferentes tipos de emoções para diferentes pessoas...

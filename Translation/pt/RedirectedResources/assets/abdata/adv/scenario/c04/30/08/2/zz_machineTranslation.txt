@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふー、スッキリしたぁ。やっぱお風呂っていーね♪=Uau, eu me sinto refrescado. Afinal, um banho é bom...
 んふ、ちょっとサービスし過ぎちゃったかなぁ♪　ま、お風呂だし、そこはお湯に流すってことで～♪=Acho que dei muito... Bem, é um banho, por isso vou deixar que siga seu curso...
 お風呂ですると、後片付けが楽でいーね♪　その分、思いっきりできるし。わりとアリっしょ？=Se você fizer isso no banho, é fácil de limpar depois. É uma boa idéia, não é?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あ、あはは……なんか……ハマっちゃってさぁ。助けに来てくれたんでしょ？　抜いてくれる？=Oh, haha... É só... É só uma coisa em que eu me meti. Você está aqui para me ajudar, certo? Você pode puxá-lo para fora para mim?
 えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=Bem, se você vai nos ajudar ou nos deixar em paz... Você pode, por favor, decidir o mais rápido possível?
 あは……どっかのエロ漫画みたいな展開でしょ？　いやー、現実にあるなんて……=Haha... É como uma manga erótica, certo? Não... Não posso acreditar que seja real...

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 なんだか、いけない事をしている気分になりますね。こんな、普通はお勉強をするところでなんて……=Sinto que estou fazendo algo que não deveria. Não acredito que estamos em um lugar como este, onde normalmente estudamos...
 せ、青春って感じですね？　貴方となら、甘酸っぱい気分に浸るのも悪くないかもしれません。=É como a juventude, não é? Se estiver com você, pode não ser uma má idéia mergulhar num clima agridoce e doce.
 ここで、イケナイお勉強をしたいのですね？　ふふ、ではでは……気持ちいい保健体育を始めましょうか。=Você quer estudar algo malicioso aqui, não é mesmo? Hehe, então... Vamos começar com uma aula de saúde agradável, vamos?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 待たせてわりぃな。匂いとか残ってるか？　あぁいや、やっぱり嗅がなくていい。=Desculpe por tê-lo feito esperar. Está sentindo este cheiro? Ah, você não precisa sentir o cheiro.
 まぁあれだ。これでオマエも、気兼ねなくトイレに行けるだろ？　お互い妙な気遣いは無用ってことだ。=Bem, você sabe. Agora você pode ir ao banheiro sem se preocupar, certo? Não há necessidade de se preocupar um com o outro.
 まさか、大人しく待ってるとはな。いや、別に悪いことじゃねぇが、少し予想外だっただけだ。=Não esperava que você esperasse em silêncio. Não, não é uma coisa ruim, é apenas um pouco inesperada.

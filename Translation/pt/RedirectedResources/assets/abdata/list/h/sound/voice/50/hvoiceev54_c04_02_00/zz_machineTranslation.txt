@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あぐっ、はいっれ……ぐひっ！（入って）=(Entre)
 ひぅっ、もっ、らめぇぇっ……！（だめ）=(Não)
 ぉ……ぅ……むり……はぁ……あしょこ……こわぇぅ……（むり、アソコ壊れる）=Eu não posso. Vou quebrar minha vagina.

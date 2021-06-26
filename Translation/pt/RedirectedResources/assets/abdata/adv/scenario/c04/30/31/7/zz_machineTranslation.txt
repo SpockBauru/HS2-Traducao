@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お待たせ。ちゃんと待っててくれたんだ。あんがと♪=Ei, aí. Você tem estado esperando por mim. Obrigado.
 おぉ、こういうの待てるやつはポイント高いよ～♪　アタシの好感度が、グーンとアップしたかも？=Oh, esse tipo de cara que espera tem um ponto alto ~ ♪ Talvez você tenha ganhado alguns pontos comigo.
 ごめ、この埋め合わせは後でちゃんとするからさ。んふ、アンタが大好きな、エロいことでもいーよー♪=Desculpe, eu o compensarei mais tarde. Mais tarde, vou compensá-lo com todas as coisas eróticas que você gosta de fazer.

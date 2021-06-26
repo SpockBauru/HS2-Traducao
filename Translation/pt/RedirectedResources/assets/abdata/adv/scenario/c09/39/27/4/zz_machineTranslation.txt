@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 こーいう普通じゃないエッチをすると……なんかやっぱり緊張しちゃいますね、あはは。=Quando tenho sexo incomum como este... Fico nervoso, haha.
 エッチ自体は嫌いじゃないから、今回みたいなのも悪くはないですけど……わたし、ちょっと乱れすぎじゃなかったですか？=Eu não me importo com sexo, então algo assim não é ruim, mas... Eu não era um pouco selvagem demais?

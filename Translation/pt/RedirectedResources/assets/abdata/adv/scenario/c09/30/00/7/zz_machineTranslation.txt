@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ほえー、なるほどなるほど……本当にそんなことまでしちゃうんですねー！=Huh, estou vendo, estou vendo... Você realmente vai tão longe!
 えーっと……それはさすがに……わたしの想像を超えているというかー……あははーっ。=Bem... Isso está de fato... Além da minha imaginação... Hahaha...

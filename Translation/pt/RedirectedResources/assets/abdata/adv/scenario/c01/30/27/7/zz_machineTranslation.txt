@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 他の子がいる前でイっちゃうなんて……すごく感じちゃったみたい。=Não acredito que cheguei na frente de todas aquelas outras garotas... Soube tão bem.
 私が、あんなになっちゃうなんて……他の子がいて、興奮しちゃったのかしら。=Não posso acreditar que vou ficar assim... Todo excitado por causa de outra garota.

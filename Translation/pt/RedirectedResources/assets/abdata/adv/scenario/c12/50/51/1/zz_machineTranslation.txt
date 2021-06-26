@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //享楽{0}=Prazer {0}
 どうだ興奮したか？　俺はたっぷり楽しんだぜ。=O que você acha? Você está animado? Eu me diverti muito, cara.
 こういう遊びなら、またいつでも付き合ってやるからな。=Se você quiser jogar assim, vou sair com você novamente a qualquer momento.

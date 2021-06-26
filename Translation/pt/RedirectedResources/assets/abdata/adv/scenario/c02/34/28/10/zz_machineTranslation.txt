@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ふぅ……それでは、もう一度入ってきますかね……=Hmm... Então eu acho que vou voltar para dentro...
 これはまた入り直しですかね…………一緒に入りますか？　……なんて。=Acho que vou ter que voltar para isto... Você quer voltar para dentro comigo? Oh meu.
 お風呂とセックスじゃ気持ちよさのベクトルが違いますが……両方ともイイ、ですね。=O banho e o sexo são dois vetores diferentes de prazer... Mas ambos são bons.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら、こんな素敵な場所あったのね。=Oh, eu não sabia que havia um lugar tão bonito.
 あなたってこんな所も知ってるのね……素敵だわ。=Você sabe que tudo isso... É legal.
 いいわね、なかなかいい雰囲気だわ、うふふ。=Isso é bom. É uma ótima vibração.

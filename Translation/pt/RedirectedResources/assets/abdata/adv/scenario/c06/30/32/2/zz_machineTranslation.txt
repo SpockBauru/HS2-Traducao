@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あら……私が寝ている間にいらっしゃっていたのですね、お待たせして申し訳ございません。=Oh... Você estava aqui enquanto eu dormia. Sinto muito por tê-lo feito esperar.
 ああ、私を起こさないように待っていてくださったのですね、ありがとうございます……=Você esperou por mim para não me acordar, obrigado...
 あら……あなたが待っていてくださるなんて……うふふ、紳士な方でしたのね……♪=Oh meu... Você tem esperado por mim... Hihihi, você é um cavalheiro ♪

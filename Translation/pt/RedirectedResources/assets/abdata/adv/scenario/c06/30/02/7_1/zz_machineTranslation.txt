@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
 それでは、また今度お話いたしましょう。=Falarei com você mais tarde.
 また性のお勉強を致しましょうね、さようなら。=Vamos aprender novamente sobre sexo. Adeus.

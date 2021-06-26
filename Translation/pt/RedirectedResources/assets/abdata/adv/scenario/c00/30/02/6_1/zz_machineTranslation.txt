@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //H事後B普通{0}=Sexo posterior B normal {0}
 ここでお開きですか？　それではまた。=Já terminamos aqui? Nos vemos mais tarde.
 また三人でするのも、悪くなさそうです。=Não é uma má idéia para nós três fazermos isso novamente.

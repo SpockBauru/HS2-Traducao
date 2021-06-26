@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ねぇ、私…このままにされちゃうのかしら？=Ei, eu... Eu vou ficar assim?
 何もしないなら、このまま放して欲しんだけど…=Se você não vai fazer nada, eu só quero que você deixe isso pra lá...
 なんだか…すごくヌルヌルしてるわ=É que... É tão escorregadio.

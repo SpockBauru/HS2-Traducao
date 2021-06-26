@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 あ、あのさ……お前、私を苦しめたり、痛いことするの好き、だよね？　あれ、本当に迷惑だから、その……絶対にやらないでね……？=Oh, você sabe... Você gosta de me fazer sofrer, não é mesmo? Isso é realmente irritante, então... Nunca faça isso... Certo?
 お前って、あまり友達に紹介できないタイプだよね。ほら、だってあの『痛い』趣味があるじゃん……？=Você é o tipo de cara que eu não posso realmente apresentar aos meus amigos. Sabe, porque você tem aquele hobby "doloroso"?

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようB普通{0}=Vamos sexo B normal {0}
 まぁいつもしている事と変わりはないですし……しちゃいますか。=Bem, não é diferente do que eu sempre fiz, então... Vamos fazer isso.
 これもプレイの一環として、大人しく受けましょうか。=Vamos apenas aceitar isto como parte da peça e ser maduros a respeito.

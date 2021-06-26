@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁっ、くちゅくちゅきもちい……=Ahh, é tão bom...
 ぁぁ……ここを……こうして……あぁっ……=Oh... Coloque... Assim... Oh...
 はぁあっ、アタシ……自分でいじって、感じちゃってるぅ♪=Ah, eu... Eu sinto que estou brincando com isso eu mesma ♪

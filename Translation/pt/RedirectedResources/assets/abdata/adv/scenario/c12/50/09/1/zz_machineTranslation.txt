@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 一緒にシャワー浴びてもいいか？　お前と一緒に浴びたい気分なんだ。=Você se importa se eu tomar um banho com você? Estou com vontade de tomar um banho com você.
 一人でシャワーなんて許さねぇからな。俺がたっぷり手伝ってやるよ。=Não vou deixá-lo tomar banho sozinho. Eu o ajudarei muito.
 俺も一緒に浴びてもいいよな？　お前のシャワーを浴びさせてくれよ。=Você não se importa se eu tomar um banho com você, não é mesmo? Deixe-me tomar um banho com você.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 え、ここってけっこー人通るよ？　なに、見せつけたい系？　アンタどんだけ自信過剰なの？=Sabe, este lugar fica muito lotado. O quê, você quer se exibir? Você está muito confiante?
 うっそ、ココでするのは正直予想外……アンタ、露出趣味ってやつ？　うーん、選ぶ相手間違えたかなぁ……=Uau, eu não esperava que você fizesse isso aqui... Você tem um gosto pela exposição? Bem, acho que escolhi o cara errado...
 あー分かった、アタシを試そうってわけね？　だから、こんな所にわざわざ来たんしょ？=Ah, entendi. Você está me testando, não está? Foi por isso que você veio até aqui, não foi?

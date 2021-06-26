@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
 もともと２人で話し合ってたことっすけどーあなたの意見が聞けてよかったっすー。=É algo que temos discutido juntos, mas fico feliz em ouvir sua opinião.
 ガールズトークで意見言うなんて酷なことさせちゃったっすねー、本当に助かったっすー。=Lamento tê-la feito fazer uma coisa tão horrível, expressando sua opinião em conversa de garota... Agradeço muito sua ajuda.

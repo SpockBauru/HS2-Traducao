@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //返答肯定2普通{0}=Responder afirmativo 2 normal {0}
 分かる。分かりみ。=Eu entendo. Eu entendo.
 それな、ほんとそれな。=É isso aí. É isso aí, realmente.

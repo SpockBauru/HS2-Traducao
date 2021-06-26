@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 は、初めまして……えっと、お、女の子同士でこういうことって、やっぱり緊張しますね……あはは……=Bem, é um prazer conhecê-lo... Bem, acho que estou nervoso em fazer esse tipo de coisa com outras garotas... Haha...
 わ、私、同性が相手でも、じょ、上手に話せなくて……=Não sou muito bom em falar com pessoas de meu próprio sexo, então...

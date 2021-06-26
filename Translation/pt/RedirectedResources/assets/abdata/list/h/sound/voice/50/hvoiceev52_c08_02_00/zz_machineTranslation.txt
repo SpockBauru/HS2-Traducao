@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 何してんすか…こんな所で、入れる気なんすか…=O que você está fazendo... Você vai deixá-los entrar aqui...
 こんなの…やばいっす…抜いて、欲しいっす=Eu não gosto disto... Mas quero que você o tire.
 こんな所で、押し付けないで、欲しいっす…=Não me empurrem para aqui. Eu quero...

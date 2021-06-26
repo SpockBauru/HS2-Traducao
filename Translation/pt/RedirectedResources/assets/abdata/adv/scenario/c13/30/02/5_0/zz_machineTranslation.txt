@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
 えっ、私たちとですか……？　その、私は大丈夫ですけど……=O quê, você está conosco? Quero dizer, eu estou bem, mas...
 エッチって……3人でですか……？　す、すごく刺激的ですね……=Sexo... Com vocês os três? Isso é muito emocionante...

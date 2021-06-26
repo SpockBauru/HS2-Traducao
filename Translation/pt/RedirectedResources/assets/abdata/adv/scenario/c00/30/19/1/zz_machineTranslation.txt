@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 急に腰が抜けてしまいまして……だらしなくて、すみません。=Desculpe-me, de repente estou tão moderno e desleixado.
 っ……こんな時にもよおすとは……恥の上塗りです……=É uma pena que você esteja se contorcendo em um momento como este...
 ……日頃から腰を振っていたせいでしょうか。まったく力が入りません。=... É porque eu tenho sacudido meus quadris diariamente? Estou sem forças.

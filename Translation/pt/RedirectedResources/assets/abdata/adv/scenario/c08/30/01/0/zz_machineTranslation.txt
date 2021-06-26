@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //汎用{0}=Objetivo Geral {0}
 あの、こんにちは。もしかして会いに来てくれたんですか？　私もちょうどあなたとセッ、あ、えと……=Um olá. Você veio me ver por acaso? Eu estava prestes a fazer sexo com você, e...
 まさか私と……え、Hしに来てくれたんですか？　実は私ももうアソコが……それとも、お話ですか？=Você não veio aqui para fazer sexo comigo, veio? Na verdade, eu já tenho uma vagina... Ou você está falando comigo?

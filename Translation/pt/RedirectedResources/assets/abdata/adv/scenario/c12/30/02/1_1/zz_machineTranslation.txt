@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //前フリB普通{0}=Prelúdio B normal {0}
 どうしたんだ？　誰か探してんのか？=Qual é o seu problema? Você está procurando por alguém?
 俺たちに何か用でもあるのか？=O que você quer de nós?

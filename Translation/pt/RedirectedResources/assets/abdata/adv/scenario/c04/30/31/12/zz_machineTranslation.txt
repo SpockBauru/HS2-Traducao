@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あーあ、だからあんだけヤバイって言ったのに……フリとかじゃないって、これで分かったっしょ？=Eu lhe disse que era uma má idéia... Mas agora você sabe que eu não estou fingindo nem nada, certo?
 まぁほら、そういう趣味もあるってことは知ってるしさ……むしろ、ここまでしちゃたら、アンタがそういう趣味になってくれないと困る。=Bem, olhe, eu sei que você tem esse tipo de hobby... Na verdade, se você foi tão longe, eu preferiria que você não tivesse esse tipo de hobby.
 うぅ、おもらしガチ勢おそるべしだわぁ……まぁ、我慢して出すと気持ちいいのは基本だよね……=Ugh, tenho tanto medo de mijar nas calças... Bem, é basicamente uma boa sensação quando você se retrai e deixa sair...

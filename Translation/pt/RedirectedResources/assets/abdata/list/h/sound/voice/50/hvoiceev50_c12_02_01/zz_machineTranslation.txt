@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 お前が動かないなら、俺も待ってるぜ=Se você não se mexer, eu esperarei por você.
 なんだよ…何、止まってんだよ…なんか恥ずかしいだろ=O que... O que você está parando por... Você está me envergonhando.
 んんっ、この瞬間が、気持ちいいんだ……=Mmm, neste momento, é tão bom...

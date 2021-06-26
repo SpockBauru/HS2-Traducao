@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ご鑑賞に堪える身体でしょうか……？=Será que seu corpo será capaz de aguentar vê-lo?
 私の身体はあなただけのもの……じっくりと楽しんでくださいまし……=Meu corpo é só seu... Por favor, tome seu tempo para apreciá-lo...
 素敵ですわ……=É legal...

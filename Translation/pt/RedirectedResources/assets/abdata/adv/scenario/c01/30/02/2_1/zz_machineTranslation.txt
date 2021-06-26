@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 あなただったらどうなの？=E se fosse você?
 あなたならどう思うの？=O que você pensaria?
 あなたの考えも気になるわ。=Estou curioso para saber o que você pensa também.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 ひゃうっ！？　もーばかっ！　早く出てけぇっ……！=Mas que diabos? Seu idiota! Saiam daqui!
 うぇっ！？　いつから？　あーえっと……と、とにかく覗きはダメぇっ……！=Ew! Quando isso aconteceu? Bem, sem espreitar...
 わぁっ！？　びっくりさせないでよ……ふふ、それでぇ……どの辺が見たいのかなぁ？=Uau! Não me assuste... Hehe... Então... Que parte você quer ver?

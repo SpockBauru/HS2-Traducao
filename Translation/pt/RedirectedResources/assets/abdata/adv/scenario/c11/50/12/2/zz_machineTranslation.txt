@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 夢の中でも気持ちよくなって頂けたでしょうか？=Espero que você se sinta melhor em seus sonhos.
 無防備な姿を見たら、我慢が出来なくなってしまって……お恥ずかしい限りです。=Quando o vi indefeso, não pude resistir... E fiquei tão envergonhado.

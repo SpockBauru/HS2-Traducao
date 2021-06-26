@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 続けたいなら……どうぞ……=Se você quiser continuar... Vá em frente...
 したがってるあなたを拒む理由なんて……私にはありませんよ……=Não vejo nenhuma razão para que eu deva recusá-lo... Quando você está me cobiçando.

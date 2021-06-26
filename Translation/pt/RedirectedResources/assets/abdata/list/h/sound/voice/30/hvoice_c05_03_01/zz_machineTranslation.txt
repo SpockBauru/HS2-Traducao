@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こういう時間……心臓が弾けちゃいそうです……=Tempos como este... Meu coração só quer estourar...
 こ、こうやって待たされると……緊張しちゃいます……=Fico tão nervoso quando tenho que esperar assim...
 あなたに悦んでもらえそうなこと……考えなきゃ……=Tenho que pensar em algo que o faça feliz.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 やっ、あっ、ああぁっ！　待ってっ、待ってっ……あああぁんっ！=Não, não, não, não, não! Espere, espere, espere... Aahhh!
 ふぁぁっ！　こんなっ……無理矢理っ……あっ、やっ、んんんっ！=Família! Tal... Há uma chegada impossível... Lá, grita!
 んあっ！　あっ、んくぅっ！　もぉっ、真っ白になっちゃいますぅっ！=Ah! Ahh, não! Oh, estou ficando branco!

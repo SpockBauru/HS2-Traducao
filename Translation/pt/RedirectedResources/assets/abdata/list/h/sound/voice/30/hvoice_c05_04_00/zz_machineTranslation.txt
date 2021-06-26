@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 はぁっ、あぁ……お互いのあそこが擦れあってます……=Huh, oh... Eles estão se esfregando um no outro...
 んんっ、こ、こういう風に合わせればいいのかな……？=Hmmm... Será que eu deveria igualá-lo assim?
 あっ、んんっ、うそっ、気持ちいいっ……=Oh, não, não, não, não, não, não, não, isso é bom.

@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 こーゆーあるあるなシチュエーションってーやっぱグッとくるんすよ。=São situações como esta que realmente me afetam.
 やっぱ私たちって似た者同士～スケベ同士～っすよね～かなり興奮したっす～。=Afinal, somos como um ao outro - somos ambos pessoas obscenas - não somos?
 ここはスッキリサッパリするところなんでーお互いに正しい使い方してるっすよね～？=Este é um lugar para limpar e refrescar, então estamos ambos usando-o corretamente, certo?

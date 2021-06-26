@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 話しだけってのも、まぁまぁ楽しめたな。=Eu gostei do fato de você só ter falado sobre isso.
 退屈はしなかったな。また話してやってもいい。=Você não me aborreceu. Terei o maior prazer em falar com você novamente.

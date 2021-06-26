@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //普通{0}=Normal {0}
 ふぁ……私、ちょっとイキ過ぎたかも……ふたり相手だと、どうしても、そうなっちゃうよね……=Acho que posso ter ejaculado um pouco demais... Mas acho que é isso que acontece quando se está com duas pessoas...
 うーん、二人同時は卑怯だって……こんなの、普通の女ならイカないわけないし……=Bem, não é justo para nós dois ao mesmo tempo... Porque nenhuma mulher normal jamais ejacularia dessa maneira...

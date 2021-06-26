@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 やめ…ろ…バカ、変な所、触るな…=Não... Seu... Idiota, não toque no meu...
 何、してるんだよ…こんな所で、やめろ=O que você está fazendo... Aqui dentro, pare.
 そこは…触るな…この、変態=Não... Toque... Essa... Essa... Coisa... Você... Pervertido.

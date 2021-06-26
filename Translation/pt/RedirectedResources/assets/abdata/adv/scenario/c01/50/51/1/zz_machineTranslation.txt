@@ -1,7 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-
 //享楽{0}=Prazer {0}
 どう、なかなか興奮したんじゃない？　私は、とっても楽しかったわ。=Bem, isso foi muito emocionante, não foi? Eu me diverti muito.
 またこういう風に遊びたかったら、いつでも言ってね、うふふ。=Se você quiser jogar assim novamente, é só me avisar a qualquer momento.
