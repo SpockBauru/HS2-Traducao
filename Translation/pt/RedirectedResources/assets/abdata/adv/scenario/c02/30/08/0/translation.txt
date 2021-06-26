@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//汗を流そうか=
+汗を流そうか=Vamos lavar o suor.
 CHOICE:入る=Entrar
 CHOICE:入らない=Não Entrar
