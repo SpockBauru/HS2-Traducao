@@ -11,6 +11,8 @@ Set all colors=Definir todas as cores
 
 //Menu arquivo -> Salvar
 Save (Keep Card)=Salvar (manter carta)
+Save character with this card?=Salvar personagem com esta carta?
+Overwrite=Substituir
 
 //Painel Gravura
 Gravure\n=Gravura\n

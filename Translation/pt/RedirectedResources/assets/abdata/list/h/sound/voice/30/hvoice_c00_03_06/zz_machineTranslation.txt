@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 
-どうされました？=Como posso ajudá-los?
+//どうされました？=Como posso ajudá-los?
 ……どこから攻めるか、お考え中なのでしょうか=Você está tentando descobrir por onde começar o ataque?
 んっつっ、やはり、痛いだけです……=Hmph, ainda assim, só dói...
 くぅっ……楽しい、ですか……？=É divertido?

@@ -20,6 +20,8 @@ Tip: Click plugin names to expand. Click setting and group names to see their de
 
 Expand=Expanda
 Collapse=Retraia
+Yes=Sim
+No=Não
 
 //Janela de Plugins
 Disabled=Desativado

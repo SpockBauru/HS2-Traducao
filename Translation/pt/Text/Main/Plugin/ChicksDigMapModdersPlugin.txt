@@ -1,0 +1,19 @@
+//************************************************************
+// Traduções para o plugin ChicksDigMapModdersPlugin
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Enable Debug Logging=Ativar registro de depuração
+Waste HD Space=Desperdício de espaço HD.
+
+Use Modded Maps For All Events=Use mapas de mods para todos os eventos
+Not Recommended...Really Not Recommended, Crashes Possible, Weirdity Guaranteed=Não recomendado... Realmente não recomendado, possíveis travamentos, esquisitices garantidas
+
+Use Modded Maps For First Time girls=Use mapas de mods para a primeira vez
+Modded Maps are Selectable From Lobby for a First Meeting=Mapas de mods são selecionáveis ​​na recepção para o primeiro encontro
+
+Use Modded Maps For Safe Events=Use mapas de mods para eventos seguros
+Girls Will Show Up In Modded Maps for Standard Events=As mulheres aparecerão em mapas de mods para eventos padrão

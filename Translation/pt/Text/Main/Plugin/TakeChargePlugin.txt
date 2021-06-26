@@ -1,0 +1,93 @@
+//************************************************************
+// Traduções para o plugin TakeChargePlugin
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+//Atalhos
+Enable Auto Mode=Ativar o modo automático
+
+Enable Take Charge Mode=Ativar o modo de assumir o controle
+
+Manual H-Anim Visual Speed (Decrease)=Diminuição manual da vel. de animações
+Note: Controls VISUAL H-Anim speed, stacks with mousewheel speed.=Nota: Controla a velocidade VISUAL das animações, não a velocidade da roda do mouse.
+
+Manual H-Anim Visual Speed (Increase)=Aumento manual da vel. de animações
+
+Manual H-Anim Visual Speed (Reset)=Resetar manual da vel. de animações
+
+Stop Female Arousal=Pare a excitação feminina
+
+Stop Male Arousal=Pare a excitação masculina
+
+//Opções
+Anim Rules File=Arquivo de regras de animação
+Rules File Location=Localização do arquivo de regras
+
+Auto Mode - Ignore Location Animation Limits=Modo Automático - Ignore os limites de animação de localização
+Some Animations Won't Fit the Location...=Algumas animações não se encaixam na localização...
+
+Enable Auto Speed Override=Ativar a substituição de velocidade automática
+Override normal speed control/limits in auto mode=Substituir o controle/limites de velocidade normal no modo automático
+
+Manual H-Anim Visual Speed Increment=Incremento manual de velocidade de animações
+How much to increase/decrease visual h-anim speed per hotkey press=Quanto aumentar/diminuir a velocidade visual das animações por aperto da tecla de atalho
+
+Reset Arousal Meters on Pos Change=Reiniciar medidor de excitação após mudança
+Reset arousal gauge when changing positions=Reiniciar medidor de excitação ao alterar as posições
+
+Reset to Idle on Pos Change=Redefinir para ocioso após clímax
+Reset to Idle loop animation when changing positions=Redefinir a animação em loop para ocioso ao alterar as posições
+
+Speed Override All Modes=Substituir velocidade de todos os modos
+Override normal speed control/limits in all modes=Substituir o controle/limites da velocidade normal em todos os modos
+
+//Tempos
+Timings=Tempos
+% Chance to Pull Out=% De chance de colocar pra fora
+Percentage chance to pull out after finish (Doesn't effect finish type selection). Applies only if inserted. [Change Requires Restart]=Percentagem de chance de retirar após o final (não afeta a seleção do tipo de finalização). Aplica-se somente se inserido. [Mudança requer reinício]
+
+
+% Chance to Pull Out When Not Inserted=% De chance de retirar quando não inserido
+<facepalm> - Apparently a position can have a Pull Out animation even when not inserted. % chance to play that if relevant. [Change Requires Restart]=<facepalm> - Aparentemente, uma posição pode ter uma animação retirada mesmo quando não inserida. % de chance de jogar se for relevante. [Mudança requer reinício]
+
+% Position Change=% De mudança de posição
+Percentage chance to change positions after finish [Change Requires Restart]=Percentual de chance de mudar de posição após o finalizar [Mudança requer reinício]
+
+Loop Change Wait Max=Espera máxima para trocar de ciclos
+Maximum Time (Seconds) before switching Loops (Slow->Fast or Fast->Slow) [Change Requires Restart]=Tempo máximo (segundos) antes de trocar loops (lento-> rápido ou rápido-> lento) [Mudança requer reinício]
+
+Loop Change Wait Min=Espera mínima para trocar de ciclos
+Minimum Time (Seconds) before switching Loops (Slow->Fast or Fast->Slow) [Change Requires Restart]=Tempo mínimo (segundos) antes de trocar loops (lento-> rápido ou rápido-> lento) [Mudança requer reinício]
+
+Position Change Wait Max=Espera máxima para trocar de posição
+Maximum Time (Seconds) before switching Positions (different H Scene) [Change Requires Restart]=Tempo máximo (segundos) antes de alternar posições (cenas de sexo diferentes) [Mudança requer reinício]
+
+Position Change Wait Min=Espera minima para trocar de posição
+Minimum Time (Seconds) before switching Positions (different H Scene) [Change Requires Restart]=Tempo mínimo (segundos) antes de trocar posições (cenas de sexo diferentes) [Mudança requer reinício]
+
+Pullout Wait Max=Espera máxima para colocar pra fora
+Maximum Time (Seconds) wait before pullout out after finish (if relevant). [Change Requires Restart]=Tempo máximo (segundos) Espere antes de colocar para fora após o final (se relevante). [Mudança requer reinício]
+
+Pullout Wait Min=Espera mínima para colocar pra fora
+Minimum Time (Seconds) wait before pulling out after finish (if relevant). [Change Requires Restart]=Tempo mínimo (segundos) Espere antes de colocar para for após o final (se relevante). [Mudança requer reinício]
+
+Restart Wait Max=Espera máxima para reiniciar
+Maximum Time (Seconds) to Wait before Restartign Position [Change Requires Restart]=Tempo máximo (segundos) para aguardar antes de reiniciar posição [Mudança requer reinício]
+
+Restart Wait Min=Espera mínima para reiniciar
+Minimum Time (Seconds) to Wait before Restarting Position [Change Requires Restart]=Tempo mínimo (segundos) para aguardar antes de reiniciar a posição [Mudança requer reinício]
+
+Spanking Wait Max=Espera máxima para bater
+Maximum Time (Seconds) between spanks [Change Requires Restart]=Tempo máximo (segundos) entre as batidas [Mudança requer reinício]
+
+Spanking Wait Min=Espera mínima para bater
+Minimum Time (Seconds) between spanks [Change Requires Restart]=Tempo mínimo (segundos) entre as batidas [Mudança requer reinício]
+
+Start Wait Max=Espera máxima para começar
+Maximum Time (Seconds) to Wait at Start of Position [Change Requires Restart]=Tempo máximo (segundos) para esperar no início da posição [Mudança requer reinício]
+
+Start Wait Min=Espera mínima para começar
+Minimum Time (Seconds) to Wait at Start of Position [Change Requires Restart]=Tempo mínimo (segundos) para esperar no início da posição [Mudança requer reinício]

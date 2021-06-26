@@ -4,7 +4,7 @@
 
 //普通{0}=Normal {0}
 今日も私を痛めつけるのでしょうか？　いえ、ただの確認で深い意味はありません。=Você vai me machucar novamente hoje? Não, apenas uma confirmação, nenhum significado mais profundo.
-幸か不幸か……振るわれる暴力に慣れてしまいました。=Felizmente ou infelizmente... Nos acostumamos à violência que é exercida.
+//幸か不幸か……振るわれる暴力に慣れてしまいました。=Felizmente ou infelizmente... Nos acostumamos à violência que é exercida.
 //好意{0}=Favores {0}
 あなたのご要望には可能な限りお応えします。たとえそれが、痛みを伴うことでも……=Faremos tudo o que for possível para atender às suas necessidades. Mesmo que isso signifique passar pela dor de...
 私を痛めつけることで、あなたが満たされるのであれば……私は耐えてみせます。=Se isso o enche para me fazer sofrer, eu vou aguentar.
