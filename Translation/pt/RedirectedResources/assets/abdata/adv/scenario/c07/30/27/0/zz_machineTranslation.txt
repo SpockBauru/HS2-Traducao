@@ -11,7 +11,7 @@
 まぁまぁだったな。だいたいはクソみてぇなことしかねぇんだ、まぁまぁでも十分だろ？=Estava tudo bem. Na maioria das vezes, é só um monte de porcaria. Assim é bom o suficiente para você, certo?
 //好意より80～100{0}=80 a 100{0} mais do que favor.
 なんだ……オマエが少し、良く見えるな。おい、オレに何かしたのか？=Você sabe... Você está com uma aparência um pouco melhor. Ei, o que você fez comigo?
-よし、今決めた。またオマエとしてやる。欲求不満になったら、すぐにオレを呼べ。分かったな？=Pronto, já tomei minha decisão. Vou fazer com você novamente. Sempre que você fica frustrado, você me liga. Isso está claro?
+//よし、今決めた。またオマエとしてやる。欲求不満になったら、すぐにオレを呼べ。分かったな？=Pronto, já tomei minha decisão. Vou fazer com você novamente. Sempre que você fica frustrado, você me liga. Isso está claro?
 おい、生きてるか？　ヤった後ってのは、お互いボーっとしてるからな。気を付けて帰れよ？=Ei, você está vivo? Sabe, depois de foder, estamos os dois um pouco confusos. Tenha uma viagem segura para casa.
 //享楽より50～79{0}=De 50 a 79{0}
 ハッ、上出来だ。オレだけじゃねぇ、オマエもちゃんとイった。そうじゃなきゃ、こういうことは意味がねぇんだ。=Muito bem feito. Não sou só eu, você também veio. Se você não fizer isso, não adianta fazer isso.
