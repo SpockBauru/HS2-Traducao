@@ -3,20 +3,24 @@
 //================================================
 // Search Conditions Window
 //================================================
-CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_HorizontalOverflow(overflow)
-CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/Skin/Toggle/tglSkin2/Label=ChangeFontSizeByPercentage(0.9)
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=UGUI_VerticalOverflow(overflow)
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem=ChangeFontSizeByPercentage(0.89)
+CharaSearch/SearchControl/CanvasSearch/SearchWindow/SearchItem/SkinColor=UGUI_HorizontalOverflow(overflow)
 
 //================================================
 // Girl Match Window
 //================================================
-CharaSearch/SearchControl/CanvasSub/DefaultWin/SertchFemale=ChangeFontSizeByPercentage(0.95)
+CharaSearch/SearchControl/CanvasSub/DefaultWin/SertchFemale=UGUI_HorizontalOverflow(overflow)
 
 //================================================
 // Settings Window
 //================================================
-CharaSearch/SearchControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.85)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
 CharaSearch/SearchControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
 
 //Settings Window -> Options -> Eyebrows
-CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_HorizontalOverflow(overflow)
-CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow/textTitle=ChangeFontSizeByPercentage(0.65)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_VerticalOverflow(overflow)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_ChangeLineSpacingByPercentage(0.7)
+//Settings Window -> Options -> Neck
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/necklook=UGUI_VerticalOverflow(overflow)
+CharaSearch/SearchControl/CanvasDraw/DrawWindow/dwChara/necklook=UGUI_ChangeLineSpacingByPercentage(0.7)

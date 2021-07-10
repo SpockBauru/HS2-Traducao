@@ -2,13 +2,15 @@
 
 待ち合わせ=Recepção
 
-欲求行動=Necessidade
+欲求行動=Necessida\nde
+性格=Personali\ndade
+特性=Caracterís\nticas
 状態=Estado
 おもらし=Mijando
 
 
-発汗剤=Sudorífico\n(Suor)
-媚薬=Afrodisíaco\n(Tesão)
+発汗剤=Sudorí\nfico\n(Suor)
+媚薬=Afrodisí\naco\n(Tesão)
 睡眠薬=Sedativo\n(Sono)
 利尿剤=Diurético\n(Mijar)
 

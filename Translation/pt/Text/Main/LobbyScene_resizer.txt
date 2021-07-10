@@ -9,9 +9,11 @@ LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=ChangeFontSizeByP
 LobbyScene/Canvas/Panel/Select/StatusChange/Item/ItemMask/Item=UGUI_ChangeLineSpacing(0.7)
 LobbyScene/Canvas/Panel/Parameter/param=IgnoreFontSize()
 
-// top left character status
+// top right character status
 
-LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_HorizontalOverflow(overflow)
-LobbyScene/Canvas/Panel/Parameter/param/imgParamBack/imgPara/Dependence=ChangeFontSizeByPercentage(0.9)
+LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_VerticalOverflow(overflow)
+//LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_HorizontalOverflow(overflow)
+LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=UGUI_ChangeLineSpacing(0.6)
+LobbyScene/Canvas/Panel/Parameter/param/imgParamBack=ChangeFontSizeByPercentage(0.9)
 
 LobbyScene/Canvas/Panel/Select/Select/SelectView/btnChange=ChangeFontSizeByPercentage(0.9)

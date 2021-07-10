@@ -3,22 +3,23 @@
 //General
 HomeScene/Canvas/Panel=ChangeFontSizeByPercentage(0.9)
 
+// Exit Room
+HomeScene/Canvas/Panel/LeaveTheRoom/Title=ChangeFontSizeByPercentage(0.8)
+
+// Call for Fur
+HomeScene/Canvas/Panel/Concierge/Main=ChangeFontSizeByPercentage(0.8)
+
 // Walk in the Hall
 HomeScene/Canvas/Panel/MapSelect/panel/MapSelect=ChangeFontSizeByPercentage(0.8)
 
 // Achievements
 
-HomeScene/Canvas/Panel/Concierge/Achievement/Title=ChangeFontSizeByPercentage(0.85)
-
 HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Title=UGUI_HorizontalOverflow(overflow)
-
-HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
-
 HomeScene/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
 
+HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
+HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=ChangeFontSizeByPercentage(0.7)
 HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
-HomeScene/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Text=ChangeFontSizeByPercentage(0.8)
-
 
 // Edit Chars
 

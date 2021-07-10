@@ -68,15 +68,10 @@
 // Personalidades dos Personagens
 性格=Personalidade
 
-//Personalidade na Recepção
-#set level 8
-性格=Personali.
-#unset level 8
-
 // Cabeçalho dos personagens
 メンタル=Mentalidade
-特性=Caracte\nrísticas
-心情=Sentimen\ntos
+特性=Características
+心情=Sentimentos
 H属性=Fetiches
 
 // Status dos personagens

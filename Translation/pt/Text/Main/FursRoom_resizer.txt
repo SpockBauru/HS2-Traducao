@@ -1,17 +1,16 @@
 #set level 9
 
 //General
-FursRoom/Canvas/Panel=ChangeFontSizeByPercentage(0.9)
+FursRoom/Canvas/Panel=ChangeFontSizeByPercentage(0.8)
+
+//Buttoms
+FursRoom/Canvas/Panel/Concierge/Main/imgMenuBack/Menu/tglConciergeCustom=ChangeFontSizeByPercentage(0.73)
 
 // Achievements
 
-FursRoom/Canvas/Panel/Concierge/Achievement/Title=ChangeFontSizeByPercentage(0.85)
-
 FursRoom/Canvas/Panel/Concierge/Achievement/Achievement/Title=UGUI_HorizontalOverflow(overflow)
-
-FursRoom/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
-
 FursRoom/Canvas/Panel/Concierge/Achievement/Achievement/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
 
+FursRoom/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=UGUI_HorizontalOverflow(overflow)
+FursRoom/Canvas/Panel/Concierge/Achievement/AchievementExchange/Title=ChangeFontSizeByPercentage(0.7)
 FursRoom/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.95)
-FursRoom/Canvas/Panel/Concierge/Achievement/AchievementExchange/Scroll View/Text=ChangeFontSizeByPercentage(0.8)
