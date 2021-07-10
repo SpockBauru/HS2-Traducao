@@ -40,10 +40,6 @@ CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Se
 //Right Window -> Accesories -> Adjust
 CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting05=ChangeFontSizeByPercentage(0.83)
 
-//Right Window -> Options -> Name / Birthday
-//Month / Day text
-CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(0.73)
-
 //================================================
 // Settings Window
 //================================================
@@ -51,9 +47,11 @@ CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
 CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
 
 //Settings Window -> Options -> Eyebrows
-CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow/textTitle=ChangeFontSizeByPercentage(0.54)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=UGUI_ChangeLineSpacingByPercentage(0.7)
 //Settings Window -> Options -> Neck
-CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/necklook/textTitle=ChangeFontSizeByPercentage(0.7)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/necklook=UGUI_VerticalOverflow(overflow)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/necklook=UGUI_ChangeLineSpacingByPercentage(0.7)
 
 //================================================
 // Shoot Window
@@ -62,5 +60,3 @@ CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/necklook/textTitle=Chang
 CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/coorde/clothes/items/tgl01=ChangeFontSizeByPercentage(0.75)
 //Left Window -> Frame -> Show
 CharaCustom/CustomControl/CanvasCapture/CaptureMenu/menuTop/frame/frontframe/items/tglOn/text=ChangeFontSizeByPercentage(0.85)
-
-

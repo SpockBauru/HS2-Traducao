@@ -1,0 +1,27 @@
+//************************************************************
+// Traduções para o plugin Chara Measurements
+//************************************************************
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+//Menu Corpo -> Modificações -> Medidas
+Measurements=Medidas
+
+r:"^Height: (.*$)"=Altura: $1
+r:"^Bra Size: (.*$)"=Tamanho do Sutiã: $1
+r:"^Bust: (.*$)"=Busto: $1
+r:"^Waist: (.*$)"=Cintura: $1
+r:"^Hips: (.*$)"=Quadril: $1
+r:"^Waist-to-Hips: (.*$)"=Relação Cintura-Quadril: $1
+
+Refresh=Atualizar
+Region=Região
+Europe=Europa
+Use metric units=Usar unidades métricas
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Use metric measurements=Use o sistema métrico de unidades
