@@ -1,0 +1,15 @@
+//************************************************************
+// Traduções para o plugin Positionselector
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+Option=Opções
+
+Edit mode=Modo de edição
+Toggle to switch to edit mode and start hidding some animation.=Botão para entrar no modo de edição e começar a esconder algumas animações.
+
+Unlock everything=Desbloquear tudo
+Show all animations regardless of personality=Mostrar todas as animações, independentemente da personalidade

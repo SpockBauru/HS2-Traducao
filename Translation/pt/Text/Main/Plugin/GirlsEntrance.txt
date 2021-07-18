@@ -1,0 +1,26 @@
+//************************************************************
+// Traduções para o plugin HS2_GirlsEntrance
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+
+When make an entrance=Quando fazer uma entrada
+When the entrance animation plays=Quando ativar a animação de enentrada
+
+On Girl's First Time=Na Primeira Vez da Mulher
+Every Time=Toda Vez
+
+Where play the animation=Onde ativar a animação
+Which place do you want to play the animation=Qual lugar você quer ativar a animação?
+
+Before Map Select=Antes de Selecionar o Mapa
+When Select a Girl=Quando Selecionar uma Mulher
+
+
+//--------------------------------------------------
+//Lobby
+//--------------------------------------------------
+
+Wait the Girl Enter=Espera a Garota Entrar
