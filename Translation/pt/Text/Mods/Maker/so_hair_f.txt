@@ -6,19 +6,19 @@
 普通の前髪=Franja Normal
 
 // chara/sio/so_hair_f_hane2.unity3d
-//はねっ毛2=
+はねっ毛2=Repicada 2
 
 // chara/sio/so_hair_f_hane3.unity3d
-//はねっ毛3=
+はねっ毛3=Repicada 3
 
 // chara/sio/so_hair_f_hime2.unity3d
-//姫カット2=
+姫カット2=Princesa Japonesa 2
 
 // chara/sio/so_hair_f_hime3.unity3d
-//姫カット3=
+姫カット3=Princesa Japonesa 3
 
 // chara/sio/so_hair_f_hime4.unity3d
-//姫カット4=
+姫カット4=Princesa Japonesa 4
 
 // chara/ljlsdq_kuangsan_hair.unity3d
-kuangsan=Kurumi
+kuangsan=[ljlsdq] Kurumi

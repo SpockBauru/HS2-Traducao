@@ -3,7 +3,7 @@
 //
 
 // chara/kkkk1111/hs_hotel_slippers_male.unity3d
-//HS 酒店拖鞋=
+HS 酒店拖鞋=HS Chinelos de Hotel
 
 // chara/kkkk1111/hs_sneakers_male.unity3d
 HS 板鞋(变色)=Tênis HS (Colorível)
@@ -13,20 +13,20 @@ HS 板鞋(绿)=Tênis HS (Verde)
 HS 板鞋(黑)=Tênis HS (Preto)
 
 // chara/sena_mod/sena_efsf_uni.unity3d
-//[SENA]ロングブーツG1=
-//[SENA]ロングブーツG2=
-//[SENA]ミリタリーブーツG3=
+[SENA]ロングブーツG1=[SENA] Botas Acima do Joelho G1
+[SENA]ロングブーツG2=[SENA] Botas Acima do Joelho G2
+[SENA]ミリタリーブーツG3=[SENA] Botas Acima do Joelho G3
 
 // chara/sena_mod/sena_Lkuno1.unity3d
-//[SENA]忍者草鞋=
+[SENA]忍者草鞋=[SENA] Sandálias Ninja
 
 // chara/sena_mod/sena_mJersey.unity3d
-//[SENA]陸上スパイク(A1)=
+[SENA]陸上スパイク(A1)=[SENA] Chuteira (A1)
 
 // chara/sena_mod/sena_various01.unity3d
-//[SENA]靴下=
-//[SENA]サンダル1=
-//[SENA]サンダル2=
+[SENA]靴下=[SENA] Meias
+[SENA]サンダル1=[SENA] Sandálias 1
+[SENA]サンダル2=[SENA] Sandálias 2
 
 // chara/sena_mod/sena_ym2199.unity3d
-//[SENA]YMパイロットブーツ=
+[SENA]YMパイロットブーツ=[SENA] Botas de Piloto YM

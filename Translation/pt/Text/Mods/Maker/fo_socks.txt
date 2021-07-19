@@ -90,7 +90,7 @@ kunoichi_socks=Garota Ninja socks
 [SENA]TFショートソックス=[SENA] Meias Baixas TF
 
 // chara/sena_mod/sena_vb01.unity3d
-[SENA]ハイソックス長=[SENA] 
+[SENA]ハイソックス長=[SENA] Meias Altas
 ｢SENA｣ソックス+レッグスリーブ=[SENA] Meias + Manga de Perna
 ｢SENA｣ソックス+レッグスリーブ左=[SENA] Meias + Manga da Perna Direita
 ｢SENA｣ソックス+レッグスリーブ右=[SENA] Meias + Manga da Perna Esquerda

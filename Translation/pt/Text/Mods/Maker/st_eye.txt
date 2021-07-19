@@ -3,7 +3,7 @@
 //
 
 // chara/00/st_eye_00.unity3d
-//タイプ9_p=
+タイプ9_p=Tipo 9 p
 タイプ18=Tipo 18
 タイプ19=Tipo 19
 タイプ20=Tipo 20

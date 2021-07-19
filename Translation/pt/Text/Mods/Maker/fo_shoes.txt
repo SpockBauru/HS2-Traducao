@@ -173,7 +173,7 @@ kuangsan=Kurumi
 [SENA]サンダル2=[SENA] Sandálias 2
 
 // chara/sena_mod/sena_vb01.unity3d
-[SENA]バレーボールシューズ=[SENA] 
+[SENA]バレーボールシューズ=[SENA] Tênis de Vôley
 
 // chara/sena_mod/sena_ym2199.unity3d
 [SENA]YMブーツS=[SENA] Botas YM S

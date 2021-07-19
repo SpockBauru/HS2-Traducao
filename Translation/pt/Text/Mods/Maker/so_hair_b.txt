@@ -3,13 +3,13 @@
 //
 
 // chara/sio/bigtwin.unity3d
-//超ボリュームツイン=
+超ボリュームツイン=Maria Chiquinha Super Volumosa
 
 // chara/cuzkuz/cuzkuzhair_01.unity3d
 カールおさげ=Rabo de Cavalo Enrolado
 
 // chara/cuzkuz/cuzkuz_12.unity3d
-//犬姫ロング=
+犬姫ロング=Longo da Princesa de Moonbrook
 
 // DLMEX/DLTD1/dlhairtd1.unity3d
 大力-TD沧海烟霞-发型=[DALI] TD Névoa do Mar - Cabelo
@@ -63,10 +63,10 @@
 大力-赞助发型06=[DALI] Penteado Patrocinado 06
 
 // DLMEX/DLSX/tf.unity3d
-//大力-圣秀-作者Q3344929957=
+大力-圣秀-作者Q3344929957=[DALI] Santa da Espada - Author Q3344929957
 
 // DLMEX/DLSX/tf2.unity3d
-//大力-圣秀-去侧发-作者Q3344929957=
+大力-圣秀-去侧发-作者Q3344929957=[DALI] Santa da Espada Sem Lateral - Author Q3344929957
 
 // DLM/hair/tf1.unity3d
 大力-发型分享B1Q3344929957=[DALI] Penteado de compartilhamento B1 Q3344929957
@@ -75,27 +75,27 @@
 ボリュームポニー=Rabo de Cavalo
 
 // chara/sio/okappa.unity3d
-オカッパ=Bob reto
+オカッパ=Bob Reto
 
 // chara/ymd/ym06_hairArrange.unity3d
-//ストレートロング[arrange]=
-//ぱっつんロング[arrange]=
-//ボリュームポニー[notail]=
-//細ツインテール[notail]=
-//ツイン前おさげ[notail]=
-//後ろおさげ[notail]=
-//ツーサイドアップ[notail]=
-//横おさげ[notail]=
-サイドテール(左)[notail]=Rabo Lateral (Esquerda) [notail]
-サイドテール(右)[notail]=Rabo Lateral (Direita) [notail]
+ストレートロング[arrange]=Longo e Reto [Arrange]
+ぱっつんロング[arrange]=Longo Arredondado [Arrange]
+ボリュームポニー[notail]=Rabo de Cavalo [Sem rabo]
+細ツインテール[notail]=Maria Chiquinha Curto [Sem rabo]
+ツイン前おさげ[notail]=Maria Chiquinha pra Frente [Sem rabo]
+後ろおさげ[notail]=Rabo de Cavalo Baixo [Sem rabo]
+ツーサイドアップ[notail]=Longo com Maria Chiquinha [Sem rabo]
+横おさげ[notail]=Rabo de Cavalo Lateral [Sem rabo]
+サイドテール(左)[notail]=Rabo Lateral (Esquerda) [Sem rabo]
+サイドテール(右)[notail]=Rabo Lateral (Direita) [Sem rabo]
 
 // chara/ymd/ym11_hairPortM.unity3d
-//HS ショート=
-//HS スマートショート=
-//HS テンショウ=
-//HS ツーブロック=
-//HS ミディアム=
-//HS シャギー=
-//HS オールバック=
-//HS セミロング=
-//HS バンダナ=
+HS ショート=HS Curto
+HS スマートショート=HS Curto Esperto
+HS テンショウ=HS Era Tenshou
+HS ツーブロック=HS Lateral
+HS ミディアム=HS Médio
+HS シャギー=HS Desgrenhado
+HS オールバック=HS Para Trás
+HS セミロング=HS Acima dos Ombros
+HS バンダナ=HS Bandana

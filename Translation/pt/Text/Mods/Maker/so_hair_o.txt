@@ -136,4 +136,4 @@
 サイドロングラフバング=Lado Longo com Mecha Sobre Olho
 
 // chara/ymd/ym11_hairPortM.unity3d
-//HS バンダナ=
+HS バンダナ=HS Bandana

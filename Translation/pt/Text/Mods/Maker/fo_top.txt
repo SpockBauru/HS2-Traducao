@@ -260,7 +260,7 @@ TシャツBig=Camiseta Grande
 [SENA]バレーシャツM3=[SENA] Camisa de Vôlei M3
 
 // chara/sena_mod/sena_vb01b.unity3d
-[SENA]バレーシャツM4=[SENA] 
+[SENA]バレーシャツM4=[SENA] [SENA] Camisa de Vôlei M4
 [SENA]バレーシャツM5(長袖)=[SENA] Camisa de vôlei M5 (mangas compridas)
 [SENA]バレーシャツM5(袖捲り)=[SENA] Camisa de vôlei M5 (Manga enrolada)
 [SENA]バレーシャツM6(長袖)=[SENA] Camisa de vôlei M6 (manga comprida)
@@ -272,11 +272,11 @@ TシャツBig=Camiseta Grande
 [SENA]ジャージ前開け=[SENA] Moletom Aberto
 
 // chara/sena_mod/sena_ym2199.unity3d
-[SENA]YM制服一般=[SENA] 
-[SENA]YM制服衛生士=[SENA] 
+[SENA]YM制服一般=[SENA] Uniforme de General YM
+[SENA]YM制服衛生士=[SENA] Uniforme de Médico YM
 
 // chara/sena_mod/sena_ym2199_k.unity3d
-[SENA]YMパイロットスーツ=[SENA] 
+[SENA]YMパイロットスーツ=[SENA] Roupa de Piloto YM
 
 // chara/sio/tanktop.unity3d
 タンクトップ=Regata Curta

@@ -57,7 +57,7 @@
 [SENA]AMブレスレット=[SENA] Bracelete AM
 
 // chara/sena_mod/sena_hb_item.unity3d
-[SENA]HBジャイロ=[SENA] 
+[SENA]HBジャイロ=[SENA] Giroscópio HB
 [SENA]HBカタナ(斬）=[SENA] HB Katana (Lâmina)
 [SENA]HBカタナ(銃）=[SENA] HB Katana (Arma)
 

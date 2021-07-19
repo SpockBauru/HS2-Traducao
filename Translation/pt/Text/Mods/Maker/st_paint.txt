@@ -3,21 +3,23 @@
 //
 
 // chara/donkeyrock-bodypaint-01.unity3d
-//ほくろ1(mole_clear)=
-//ほくろ2(mole_blur)=
-//ほくろ3(mole_gradation)=
-//愛(love)=
-//奴(slave)=
-//牝(bitch)=
-//穴(hole)=
-//肉(flesh)=
-//淫(nympho)=
+ほくろ1(mole_clear)=Pinta 1 (Pinta Clara)
+ほくろ2(mole_blur)=Pinta 2 (Pinta Desfocada)
+ほくろ3(mole_gradation)=Pinta 1 (Pinta com Gradiente)
+
+//O significado fica entre parênteses
+愛(love)=愛 (amor)
+奴(slave)=奴 (escravo)
+牝(bitch)=牝 (vadia)
+穴(hole)=穴 (buraco)
+肉(flesh)=肉 (carne)
+淫(nympho)=淫 (ninfomaníaca)
 
 // chara/donkeyrock-bodypaint-03.unity3d
-//奸(adultery)=
-//毒(poison)=
-//狂(mad)=
-//卑(humble)=
-//屄(cunt)=
-//獄(jail)=
-//色(lust)=
+奸(adultery)=奸 (adultério)
+毒(poison)=毒 (veneno)
+狂(mad)=狂 (louco)
+卑(humble)=卑 (humilde)
+屄(cunt)=屄 (boceta)
+獄(jail)=獄 (prisão)
+色(lust)=色 (luxúria)
