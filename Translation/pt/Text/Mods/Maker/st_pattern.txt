@@ -1,0 +1,48 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/00/53332818.unity3d
+pattern96=Estampa 96
+pattern95=Estampa 95
+pattern94=Estampa 94
+pattern93=Estampa 93
+pattern92=Estampa 92
+pattern91=Estampa 91
+pattern90=Estampa 90
+pattern89=Estampa 89
+pattern88=Estampa 88
+pattern87=Estampa 87
+pattern86=Estampa 86
+pattern85=Estampa 85
+pattern84=Estampa 84
+pattern83=Estampa 83
+pattern82=Estampa 82
+pattern81=Estampa 81
+pattern80=Estampa 80
+pattern79=Estampa 79
+pattern78=Estampa 78
+pattern77=Estampa 77
+pattern76=Estampa 76
+pattern75=Estampa 75
+pattern74=Estampa 74
+pattern73=Estampa 73
+pattern72=Estampa 72
+pattern71=Estampa 71
+pattern70=Estampa 70
+pattern69=Estampa 69
+pattern68=Estampa 68
+pattern67=Estampa 67
+pattern66=Estampa 66
+pattern65=Estampa 65
+pattern64=Estampa 64
+pattern63=Estampa 63
+pattern62=Estampa 62
+
+// chara/00/cur_st_pattern_01.unity3d
+単線(縦)=Linha Simples (vertical)
+単線(横)=Linha Simples (horiz.)
+単線2(横)=Linha Simples 2 (horiz.)
+
+// chara/sfmphs2/st_pattern_sfmphs2.unity3d
+例の壁=Parede Exemplo

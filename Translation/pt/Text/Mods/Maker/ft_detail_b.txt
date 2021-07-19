@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/stinger722/ft_detail_b_00puffy.unity3d
+//普通(puffy)=
+//ムキムキ(puffy)=
+//ポッチャリ(puffy)=
+//スレンダー(puffy)=
+
+// chara/sdtcroc/ft_detail_b_sdtcroc.unity3d
+丰满=Gordinho

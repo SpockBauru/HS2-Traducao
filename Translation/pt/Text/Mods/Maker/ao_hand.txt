@@ -1,0 +1,85 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/d3mod/d3_bar.unity3d
+[d3mod]バールのような物=[d3mod] Alguma Espécie de Barra Indescritível
+
+// chara/d3mod/d3_spikebat.unity3d
+[d3mod]釘バット=[d3mod] Taco com Pregos
+
+// chara/d3mod/d3_metalbat.unity3d
+[d3mod]金属バット=[d3mod] Taco de Metal
+
+// chara/d3mod/d3_debablade.unity3d
+[d3mod]出刃ブレード=[d3mod] Faca
+
+// chara/d3mod/d3_moonstick.unity3d
+[d3mod]月スティック=[d3mod] Bastão Lunar
+
+// chara/d3mod/d3_moonstick2.unity3d
+[d3mod]月スティック（水晶）=[d3mod] Bastão Lunar (Cristal)
+
+// chara/d3mod/d3_stick_mars.unity3d
+[d3mod]星スティック（火）=[d3mod] Bastão de Poder da Estrela (Fogo)
+
+// chara/d3mod/d3_stick_marc.unity3d
+[d3mod]星スティック（水）=[d3mod] Bastão de Poder da Estrela (Água)
+
+// chara/d3mod/d3_stick_jupiter.unity3d
+[d3mod]星スティック（木）=[d3mod] Bastão de Poder da Estrela (Madeira)
+
+// chara/d3mod/d3_stick_venus.unity3d
+[d3mod]星スティック（金）=[d3mod] Bastão de Poder da Estrela (Ouro)
+
+// DLMEX/L/dl_hand_lo1.unity3d
+大力-镰刀-作者q3344929957=[DALI] Foice - Autor q3344929957
+
+// DLMEX/L/dl_hand_lo1h.unity3d
+大力-镰刀-紫火-作者q3344929957=[DALI] Foice de Fogo Roxo - Autor q3344929957
+
+// DLMEX/L/dl_hand_lo1h2.unity3d
+大力-镰刀-火-作者q3344929957=[DALI] Foice de Fogo - Autor q3344929957
+
+// DLM/DVA/qiang.unity3d
+大力-分享DVA-Q3344929957=[DALI] Compartilhamento - D.VA - Q3344929957
+
+// DLMEX/DLTD1/dl_hand_dltd1.unity3d
+大力_古剑=[DALI] Espada Antiga
+
+// chara/hs2_alady/ao_hand_psychogun.unity3d
+サイコガン=Arma Psiônica
+
+// chara/hs2_chunli/ao_hand_chunli.unity3d
+格闘用ブレスレット=Pulseira de Luta
+
+// chara/sena_mod/sena_anna_i.unity3d
+[SENA]AMブレスレット=[SENA] Bracelete AM
+
+// chara/sena_mod/sena_hb_item.unity3d
+[SENA]HBジャイロ=[SENA] 
+[SENA]HBカタナ(斬）=[SENA] HB Katana (Lâmina)
+[SENA]HBカタナ(銃）=[SENA] HB Katana (Arma)
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ腕輪1=[SENA] Pulseira EVA RQ 1
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]小太刀(抜刀）=[SENA] Espada Pequena (Espada)
+
+// chara/sena_mod/sena_nintou.unity3d
+[SENA]忍刀(抜刀）=[SENA] Espada de Ninja (Espada)
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfレイピア=[SENA] Espadim DElf
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]警棒（収納）=[SENA] Bastão (Retraído)
+[SENA]警棒（伸長）=[SENA] Bastão (Extendido)
+
+// chara/sena_mod/sena_pm_item02.unity3d
+[SENA]デジタル腕時計=[SENA] Relógio Digital
+
+// chara/sena_mod/sena_various03.unity3d
+[SENA]グローブ（左）=[SENA] Luvas (Direita)
+[SENA]グローブ（右）=[SENA] Luvas (Esquerda)

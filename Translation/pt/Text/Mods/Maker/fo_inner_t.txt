@@ -1,0 +1,177 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/sio/batu.unity3d
+ばってん=Cruz de Proibido
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=Colete HS2
+
+// chara/cuzkuz/cuzkuz_top_19.unity3d
+大正義チューブトップ=Top Líder de Torcida Yomiuri Giants
+
+// chara/d3mod/hestia1pce.unity3d
+[d3mod]乳神ワンピ=[d3mod] Vestido da Deusa Peituda
+
+// chara/d3mod/hestia1pce_nrsk.unity3d
+[d3mod]乳神ワンピ（透け）=[d3mod] Vestido da Deusa Peituda (Molhado)
+
+// DLM/DOA1/DLDOAB.unity3d
+大力-免费分享-DOA-A=[DALI] Compartilhamento Livre - DOA-A
+
+// chara/ddaa33_anaaki/ddaa33_anaaki.unity3d
+ddaa33_穴開きスク水=ddaa33 Maiô Aberto
+
+// chara/ddaa33_anaaki_D4/ddaa33_anaaki_D4.unity3d
+穴開きスク水(D4)=Maiô Aberto (D4)
+
+// chara/DMC/fo_inner_t_00nips.unity3d
+ノーマル [nonip]=Padrão [Sem Mamilos]
+リボンレース [nonip]=Meia Taça de Renda com Lacinho [Sem Mamilos]
+アダルティレース [nonip]=Meia Taça de Renda [Sem Mamilos]
+ハーフレース [nonip]=Balconê de Renda [Sem Mamilos]
+フルレース [nonip]=Cobertura Total de Renda [Sem Mamilos]
+スポーツ [nonip]=Esportivo [Sem Mamilos]
+ストラップレス [nonip]=Tomara que Caia [Sem Mamilos]
+バンド [nonip]=Mini Tubo [Sem Mamilos]
+
+// chara/mat/mat_inner_t_01.unity3d
+マイクロレース 紐ピン=Micro Biquíni de Renda com Fio Desanexado
+マイクロビキニ 紐ピン=Micro Biquíni com Fio Desanexado
+
+// chara/sio/micro.unity3d
+マイクロビキニトップ=Top Micro Biquíni
+
+// chara/re_bigger_jacket.unity3d
+TシャツBig=Camiseta Grande
+ミニＴBig=Camiseta Curta Grande
+チビＴBig=Underbob Grande
+ブラウス襟開きBig=Camisa Social com Decote V Grande
+裸パーカーBig=Blusa com Touca Aberta Grande
+スポーツウェアBig=Regata com Ziper Grande
+裸カーディガンBig=Cardigan Aberto Grande
+ボディーハーネスBig=Arnês de Couro Grande
+セーラー服Big=Uniforme de Marinheiro Grande
+リボンキャミソールBig=Top de Laço Grande
+ノースリーブラウスBig=Camisa Social sem Mangas Grande
+魔女のネグリジェBig=Lingerie de Bruxa Grande
+クリスマスポンチョBig=Poncho de Natal Grande
+オープンショルダーBig=Blusa Decote Ombro a Ombro Grande
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Arnês de Couro Grande 2
+
+// chara/02/fo_top_02.unity3d
+艦長ジャケット=Top da Capitã
+
+// chara/10/fo_top_10.unity3d
+狐巫女装束=Vestido de Sacerdotiza Raposa
+
+// chara/03/fo_top_03.unity3d
+タクティカルベスト=Top Tático
+
+// chara/00/fo_top_00.unity3d
+ワンピース=Vestido
+Tシャツ=Camiseta
+ミニＴ=Camiseta Curta
+グダミニＴ=Camiseta de Ombro Caído
+チビＴ=Underbob
+ブラウス=Camisa Social Longa
+ブラウス襟開き=Camisa Social com Decote V
+シャツワンピース=Camisa Folgada com Decote V
+サロペット=Macacão Jeans
+裸サロペット=Macacão Jeans sem Blusinha
+スポーツウェア=Regata com Zíper
+ロングパレオ=Vestido Pareô
+南国ベアトップフリル=Tomara que Caia com Babado
+南国キャミソール=Blusa de Alcinha com Decote
+タイトドレス=Vestido Justo
+フレアシャツ=Blusinha Larga
+ノースリーブニット=Top de Tricô
+カーディガンキャミソール=Cardigan e Blusinha
+カーディガンシャツ=Cardigan e Blusa Social
+裸カーディガン=Cardigan Aberto
+ボディーハーネス=Arnês de Couro
+体操着=Camisa de Academia
+セーラー襟=Colarinho de Marinheiro
+ココナッツブラ=Sutiâ de Coco
+サマーニット=Malha de Verão
+サマードレス=Vestido com Decote
+オープンショルダー=Blusa Decote Ombro a Ombro
+ニットキャミソール=Blusa com Botões
+トレッキングウェア=Jaqueta de Corrida
+リボンキャミソール=Top de Laço
+キュートジャケット=Camisa Social Fofa
+ノースリーブタートル=Gola Alta sem Mangas
+ノースリーブラウス=Camisa Social sem Mangas
+ネックパーカー=Blusa com Touca
+裸パーカー=Blusa com Touca Aberta
+
+// chara/08/fo_top_08.unity3d
+スーツ=Terno
+スーツキャミソール=Terno com Blusinha
+スーツ前開き=Terno com Decote
+ブレザー=Blazer
+
+// chara/06/fo_top_06.unity3d
+セーラー服=Uniforme de Marinheiro
+
+// chara/05/fo_top_05.unity3d
+カクテルドレス=Vestido de Coquetel
+シンプルドレス=Vestido Simples
+魔女のネグリジェ=Lingerie de Bruxa
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBインナースーツ=[SENA] Colante por Baixo HB
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]連邦水着=[SENA] Maiô da Federação
+[SENA]連邦水着襟開き=[SENA] Maiô da Federação com Decote
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]連合水着=[SENA] Maiô da Aliança
+[SENA]連合水着襟開き=[SENA] Maiô da Aliança com Decote
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵インナー=[SENA] Maiô Interno da Musashi
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]サラシ=[SENA] Faixas de Gaze
+
+// chara/sena_mod/sena_riku01.unity3d
+[SENA]陸上トップ(A01)=[SENA] Top Esportivo (A01)
+[SENA]陸上トップ(A02)=[SENA] Top Esportivo (A02)
+[SENA]陸上トップ(A03)=[SENA] Top Esportivo (A03) 
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]陸上トップ(M01)=[SENA] Top Esportivo (M01)
+[SENA]陸上トップ(M02)=[SENA] Top Esportivo (M02)
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQレオタード1=[SENA] Colante RQ 1
+[SENA]RQレオタード2=[SENA] Colante RQ 2
+[SENA]RQビキニブラ1=[SENA] Sutiã RQ 1
+
+// chara/sena_mod/sena_rq2.unity3d
+[SENA]RQレオタード3=[SENA] Colante RQ 3
+[SENA]RQレオタード4=[SENA] Colante RQ 4
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカスーツ=[SENA] Traje da Asuka
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFブラトップ=[SENA] Top Sutiã TF
+
+// chara/sena_mod/sena_various03.unity3d
+[SENA]アンダーシャツ=[SENA] Camisa Interna
+
+// chara/stinger722/fo_inner_t_07stinger722.unity3d
+スリングショット改=Micro Maiô Cavado com Fios Desanexados
+
+// chara/taroukawai_microb2/microb2.unity3d
+バンド2=Mini Tubo 2
+マイクロビキニ2=Micro Biquíni 2
+マイクロSビキニ2=Micro Biquíni Cortininha 2
+ソルジャーバンドゥ2=Bandagem de Soldado 2
+スリングショット2=Micro Maiô Cavado 2

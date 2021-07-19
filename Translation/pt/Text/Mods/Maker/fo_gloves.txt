@@ -1,0 +1,139 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=Casaco HS2
+
+// chara/skonb/fo_gloves_shimakaze.unity3d
+セーラーロングレングス=Luvas Longas de Marinheiro
+
+// chara/cuzkuz/cuzkuz_top_00.unity3d
+八十八学園ベスト=Colete da Escola 88
+
+// chara/cuzkuz/cuzkuz_bot_05a.unity3d
+ジャージ（たくし上げ）=Moletom (Pescador)
+
+// chara/cuzkuz/cuzkuz_bot_06a.unity3d
+ハーフパンツ=Bermuda
+
+// chara/cuzkuz/cuzkuz_top_08.unity3d
+ニットベスト=Colete de Malha
+
+// chara/cuzkuz/cuzkuz_glove_01.unity3d
+一番星グローブ=Luvas de Top Model
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のグローブ=Luvas da Diva
+
+// chara/d3mod/hestia_glove.unity3d
+[d3mod]乳神グローブ=[d3mod] Luvas da Deusa Peituda
+
+// DLM/DE/gloves.unity3d
+大力-分享恶魔Q3344929957=[DALI] Súcubo Q3344929957
+
+// DLMEX/DLTD1/dl_gloves_dltd1.unity3d
+大力_TD沧海_袖子_原色=[DALI] TD Mangas do Mar Cor Original
+
+// DLMEX/DLTD1/dl_gloves_dltd1b.unity3d
+大力_TD沧海_袖子_半透明=[DALI] TD Mangas do Mar Transparente
+
+// DLMEX/DLTD2/dl_gloves_dltd2.unity3d
+大力_TD天华_袖子A=[DALI] TD Mangas do Céu A
+
+// DLMEX/DLTD2/dl_gloves_dltd2b.unity3d
+大力_TD天华_袖子B=[DALI] TD Mangas do Céu B
+
+// DLMEX/DLMZ/dl_gloves_mz.unity3d
+大力-明妆手-作者q3344929957=[DALI] Bracelete da Dinastia Ming-Autor q3344929957
+
+// DLMEX/DLMZ/dl_gloves_mz2.unity3d
+大力-明妆特效手-作者q3344929957=[DALI] Bracelete da Dinastia Ming com Efeitos Especiais - Autor q3344929957
+
+// DLMEX/L/dl_gloves_lo.unity3d
+大力-龙盔甲护手-作者q3344929957=[DALI] Manoplas da Armadura de Dragão - Autor q3344929957
+
+// DLMEX/DLSX/st.unity3d
+大力-圣秀-作者Q3344929957=[DALI] Santa das Espadas - Autor Q3344929957
+
+// chara/fo.unity3d
+夜莺-护臂=Guarda de Braço Nightingale
+夜莺-手套=Luvas Nightingale
+夜莺-护臂手套=Luvas de Armadura Nightingale
+
+// chara/gyobobo/gantz_gloves.unity3d
+ガンツグローブ=Luvas de Gantz
+
+// chara/ljlsdq_kuangsan_hand.unity3d
+ljlsdq_kuangsan=Kurumi
+
+// chara/re_bigger_jacket.unity3d
+ボディーハーネスBig=Arnês de Corpo Grande
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Arnês de Corpo Grande 2
+
+// chara/sena_mod/sena_aeug.unity3d
+[SENA]AEUGグローブ=[SENA] Luvas AEUG
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HB戦闘グローブ=[SENA] Luvas de Combate HB
+[SENA]HB指抜きグローブ=[SENA] Luvas sem dedos HB
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]パイロットグローブ=[SENA] Luvas de Piloto
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01手袋=[SENA] Luvas EVA RQ01
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]R連邦グローブ=[SENA] Luvas da Federação R
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]R連合グローブ=[SENA] Luvas da Aliança R
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵グローブ=[SENA] Luvas Musashi
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチ手甲=[SENA] Protetor de Antebraço de Garota Ninja
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfグローブ=[SENA] Luvas DElf
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLグローブ=[SENA] Luvas GHL
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]警備手袋=[SENA] Luvas de Segurança
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]テーピング=[SENA] Bandagem
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQインナーショーツ=[SENA] Calcinha RQ
+
+// chara/sena_mod/sena_rq_jak.unity3d
+[SENA]裸ベンチコート=[SENA] Casaco Aberto
+[SENA]裸ベンチコート腰巻=[SENA] Casaco Aberto Amarrado na Cintura
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカアーム（日常）=[SENA] Braço da Asuka (Cotidiano)
+[SENA]アスカアーム（戦闘）=[SENA] Braço da Asuka (Batalha)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFグローブ=[SENA] Luvas TF
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]アームスリーブ=[SENA] Mangas
+[SENA]アームスリーブ左=[SENA] Manga Direita
+[SENA]アームスリーブ右=[SENA] Manga Esquerda
+
+// chara/sena_mod/sena_vb01b.unity3d
+[SENA]指テーピング=[SENA] Bandagem de Dedos
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ前開け=[SENA] Moletom Aberto
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YMパイロットグローブ=[SENA] Luvas de Piloto YM

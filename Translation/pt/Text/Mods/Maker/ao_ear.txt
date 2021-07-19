@@ -1,0 +1,10 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/sena_mod/sena_av.unity3d
+[SENA]Wlヘッドセット左=[SENA] Fone Sem Fio Esquerdo
+[SENA]Wlヘッドセット右=[SENA] Fone Sem Fio Direito
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFイヤリング=[SENA] Brincos TF

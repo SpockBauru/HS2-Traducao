@@ -1,0 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/00/st_cheek_00.unity3d
+タイプ5=Tipo 5

@@ -1,0 +1,12 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/00/st_eye_00.unity3d
+//タイプ9_p=
+タイプ18=Tipo 18
+タイプ19=Tipo 19
+タイプ20=Tipo 20
+タイプ21=Tipo 21
+タイプ22=Tipo 22
+タイプ23=Tipo 23

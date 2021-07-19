@@ -1,0 +1,74 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/ph_attendant_neck.unity3d
+PH 空姐制服 丝带=PH Laço do Uniforme de Comissária de Bordo
+
+// chara/cuzkuz/cuzkuz_neck_01.unity3d
+八十八学園リボン=Laço da Escola 88
+
+// chara/cuzkuz/cuzkuz_neck_02.unity3d
+大正義ネックレス=Colar Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_neck_04.unity3d
+一番星リボン=Laço de Top Model
+
+// chara/cuzkuz/cuzkuz_neck_03.unity3d
+一番星ブローチ=Broche de Top Model
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のブローチ=Broche da Diva
+
+// chara/d3mod/hestia_neck.unity3d
+[d3mod]乳神チョーカー=[d3mod] Gargantilha da Deusa Peituda
+
+// chara/ao.unity3d
+夜莺-披风=Manto Nightingale
+
+// chara/kunoichi_ac.unity3d
+kunoichi_scarf=Garota Ninja scarf
+
+// chara/sena_mod/sena_anna_i.unity3d
+[SENA]AMネックレス=[SENA] Colar AM
+[SENA]AMリボン=[SENA] Laço AM
+[SENA]AMネームプレート=[SENA] Placa de Identificação AM
+[SENA]AM伝票クリップ=[SENA] Clipe Deslizante AM
+[SENA]AM伝票クリップトップ=[SENA] Topo do Clipe Deslizante AM
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01チョーカー=[SENA] Gargantilha EVA RQ01
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]太リボン=[SENA] Laço Grosso
+
+// chara/sena_mod/sena_ggg.unity3d
+[SENA]GGGマフラー=[SENA] Cachecol GGG
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵チョーカー=[SENA] Gargantilha Musashi
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵しめ縄=[SENA] Cachecol Ninja
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]忍者マフラー=[SENA] 
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfネックレス=[SENA] Colar DElf
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLネックレス=[SENA] Colar GHL
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]警備階級章=[SENA] Insígnia de Segurança
+
+// chara/sena_mod/sena_riku02_it.unity3d
+[SENA]ストップウォッチ=[SENA] Cronômetro
+[SENA]メダル=[SENA] Medalha
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQシンプルチョーカー=[SENA] Gargantilha simples RQ
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YMパイロットネックカラー=[SENA] Colar de Pescoço de Piloto YM

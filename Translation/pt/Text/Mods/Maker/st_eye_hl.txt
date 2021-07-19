@@ -1,0 +1,30 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/00/st_eye_hl_00.unity3d
+タイプ21=Tipo 21
+タイプ22=Tipo 22
+タイプ23=Tipo 23
+タイプ24=Tipo 24
+タイプ25=Tipo 25
+タイプ26=Tipo 26
+タイプ27=Tipo 27
+タイプ28=Tipo 28
+タイプ29=Tipo 29
+タイプ30=Tipo 30
+タイプ31=Tipo 31
+タイプ32=Tipo 32
+タイプ33=Tipo 33
+タイプ34=Tipo 34
+タイプ35=Tipo 35
+タイプ36=Tipo 36
+タイプ37=Tipo 37
+タイプ38=Tipo 38
+タイプ39=Tipo 39
+タイプ40=Tipo 40
+タイプ41=Tipo 41
+タイプ42=Tipo 42
+タイプ43=Tipo 43
+タイプ44=Tipo 44
+//タイプ45=

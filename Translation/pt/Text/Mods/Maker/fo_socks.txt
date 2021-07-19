@@ -1,0 +1,108 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=Colete HS2
+
+// chara/cuzkuz/cuzkuz_top_poncho.unity3d
+ケープ=Capa
+クリスマスポンチョ=Poncho de Natal
+
+// chara/cuzkuz/cuzkuz_top_13.unity3d
+ジャージ（前開き）=Moletom (Aberto)
+
+// chara/cuzkuz/cuzkuz_top_07.unity3d
+カーディガン=Casaco
+
+// chara/cuzkuz/cuzkuz_top_05.unity3d
+ブレザー=Blazer
+
+// chara/cuzkuz/cuzkuz_top_06.unity3d
+ブレザー前開き=Blazer Aberto
+
+// chara/cuzkuz/cuzkuz_bot_05b.unity3d
+ヒーラーの衣=Vestido de Curandeira
+
+// chara/cuzkuz/cuzkuz_top_15.unity3d
+ハーフコート=Casaco Aberto
+
+// chara/cuzkuz/cuzkuz_top_14.unity3d
+ロングコート=Casaco Longo
+
+// chara/cuzkuz/cuzkuz_socks_01.unity3d
+大正義ソックス=Meias Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_socks_02.unity3d
+一番星タイツ=Meias 3/4 de Top Model
+
+// chara/cuzkuz/cuzkuz_top_21v.unity3d
+女王のショール=Xale da Rainha
+
+// DLMEX/DLTD1/dl_socks_dltd1.unity3d
+大力_TD沧海_腿饰品=[DALI] TD Liga do Mar
+
+// DLMEX/DLMZ/dl_socks_mz.unity3d
+大力-明妆腿部-作者q3344929957=[DALI] Liga da Dinastia Ming - Autor q3344929957
+
+// DLMEX/L/dl_socks_lo.unity3d
+大力-龙盔-腰带-作者q3344929957=[DALI] Cinto da Armadura de Dragão - Autor q3344929957
+
+// DLMEX/DLSX/wz.unity3d
+大力-圣秀飘带-作者q3344929957=[DALI] Fitas Flutuantes da Santa da Espada - Autor q3344929957
+
+// chara/etc.unity3d
+なし=Nenhum
+
+// chara/FFFQ/FFFQ_stocking.unity3d
+蕾丝边黑丝=Meia 5/8 de Renda
+蕾丝边黑丝02=Meia 5/8 de Renda 02
+
+// chara/gyobobo/gantz_socks.unity3d
+ガンツスーツ=Liga de Gantz
+
+// chara/HS_kunoichi.unity3d
+kunoichi_socks=Garota Ninja socks
+
+// chara/konodioda/konodioda_panst_01.unity3d
+中分渐变连裤袜薄=Meia Calça com Gradiente Esquerda-Direita (Fino)
+中分连裤袜厚=Meia Calça com Gradiente Esquerda-Direita (Grosso)
+上下三色渐变连裤袜薄=Meia Calça com Gradiente Vertical (Fino)
+上下三色渐变连裤袜厚=Meia Calça com Gradiente Vertical (Grosso)
+
+// chara/konodioda/konodioda_panst_02.unity3d
+长筒袜左右不同=Meia Calça com Gradiente Esquerda-Direita
+长筒袜渐变三色=Meia Calça com Gradiente Vertical
+长筒袜左右不同花边=Meia Calça com Gradiente Esquerda-Direita (Renda)
+长筒袜渐变三色花边=Meia Calça com Gradiente Vertical (Renda)
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]足袋=[SENA] Meia de Dedo
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQインナーショーツ=[SENA] Calcinha Interna RQ
+
+// chara/sena_mod/sena_rq_jak.unity3d
+[SENA]裸ベンチコート=[SENA] Casaco Aberto
+[SENA]裸ベンチコート腰巻=[SENA] Casaco Aberto Amarrado na Cintura
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFショートソックス=[SENA] Meias Baixas TF
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]ハイソックス長=[SENA] 
+｢SENA｣ソックス+レッグスリーブ=[SENA] Meias + Manga de Perna
+｢SENA｣ソックス+レッグスリーブ左=[SENA] Meias + Manga da Perna Direita
+｢SENA｣ソックス+レッグスリーブ右=[SENA] Meias + Manga da Perna Esquerda
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ前開け=[SENA] Moletom Aberto
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YM腰ベルトLow=[SENA] Cinto Baixo YM
+[SENA]YM腰ベルトHigh=[SENA] Cinto Alto YM
+
+// chara/00/fo_panst_00.unity3d
+シンプルガーター=Liga de Citura Simples
+レースガーター=Liga de Cintura com Renda
+ベルトガーター=Liga de Cintura de Couro

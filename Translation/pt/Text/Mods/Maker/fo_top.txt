@@ -1,0 +1,303 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/hs_idol_top.unity3d
+HS 偶像 上衣=HS Top de Idol
+
+// chara/kkkk1111/HS_QiPao.unity3d
+HS旗袍=HS Vestido Chinês
+
+// chara/kkkk1111/HS_QingQuQiPao.unity3d
+HS旗袍(网)=HS Vestido Chinês (Arrastão)
+
+// chara/kkkk1111/HS_QingQuQiPao2.unity3d
+HS旗袍(透)=HS Vestido Chinês (Transparente)
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2衬衫毛衣 改=HS2 Colete de Malha Modificado
+
+// chara/kkkk1111/jk_suits.unity3d
+HS2西装外套 改=HS2 Blazer Modificado
+
+// chara/kkkk1111/sailor_top.unity3d
+HS2水手服 改=HS2 Uniforme de Marinheiro Modificado
+
+// chara/kkkk1111/hs2_short_shirts.unity3d
+HS2短袖衬衫=Camisa de Manga Curts H2
+
+// chara/kkkk1111/PC_QiPao.unity3d
+PC旗袍 原色=PC Vestido Chinês Cor Original
+PC旗袍 变色1=PC Vestido Chinês Cor 1
+PC旗袍 变色2=PC Vestido Chinês Cor 2
+PC旗袍 变色3=PC Vestido Chinês Cor 3
+
+// chara/kkkk1111/ph_attendant_top.unity3d
+PH 空姐制服 上衣=PH Top do Uniforme de Comissária de Bordo
+
+// chara/kkkk1111/sexy_evening_dress.unity3d
+性感晚礼服=Vestido de Noite Sexy
+
+// shiraore/tshirt.unity3d
+[shiraore]Tシャツ-DS=[shiraore] Camiseta DS
+
+// chara/skonb/fo_top_shimakaze.unity3d
+ノースリーブセーラー=Uniforme de Marinheiro sem mangas
+
+// chara/skonb/fo_top_taisou.unity3d
+シャツイン体操着=Camiseta de Ginástica
+
+// chara/cuzkuz/cuzkuz_top_01.unity3d
+八十八学園ブラウス=Blusa da Escola 88
+
+// chara/cuzkuz/cuzkuz_top_coat.unity3d
+コート（ダブル）=Casaco (Duplo)
+
+// chara/cuzkuz/cuzkuz_top_17.unity3d
+カットソー=Moletom
+
+// chara/cuzkuz/cuzkuz_top_16.unity3d
+タートルネックセーター=Suéter de Gola Alta
+
+// chara/cuzkuz/cuzkuz_top_12.unity3d
+半袖ブラウス（タックアウト）=Blusa de Manga Curta (Pra Fora)
+
+// chara/cuzkuz/cuzkuz_top_11.unity3d
+半袖ブラウス=Blusa de Manga Curta
+
+// chara/cuzkuz/cuzkuz_top_10.unity3d
+ブラウス（タックアウト）=Blusa (Pra Fora)
+
+// chara/cuzkuz/cuzkuz_top_09.unity3d
+フーディ=Casaco com Capuz
+
+// chara/cuzkuz/cuzkuz_top_18.unity3d
+大正義ジャケット=Mini Jaqueta Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_top_20.unity3d
+一番星ドレス（トップ）=Vestido de Top Model (topo)
+
+// chara/cuzkuz/cuzkuz_12.unity3d
+犬姫のローブ=Túnica da Princesa do Moonbrook
+
+// chara/cuzkuz/cuzkuz_top_22.unity3d
+大統領の服=Blusa da Presidente
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のドレス=Vestido da Diva
+
+// chara/d3mod/hestia_string.unity3d
+[d3mod]例の紐β=[d3mod] "Aquela" Fita β
+
+// chara/d3mod/hestia_string_a.unity3d
+[d3mod]例の紐α=[d3mod] "Aquela" Fita α
+
+// DLM/DE/top.unity3d
+大力-分享恶魔Q3344929957=[DALI] Súcubo Q3344929957
+
+// DLMEX/DLTD1/dl_top_dltd1.unity3d
+大力_TD沧海上衣=[DALI] TD Top do Mar
+
+// DLMEX/DLTD2/dl_top_dltd2.unity3d
+大力_TD天华上衣=[DALI] TD Top do Céu
+
+// DLMEX/DLTD2/dl_top_dltd2_b.unity3d
+大力_TD天华上衣-改旗袍=[DALI] TD Top do Mar - Vestido Modificado
+
+// DLMEX/DLMZ/dl_top_mz.unity3d
+大力_明妆-作者q3344929957=[DALI] Dinastia Ming - Autor q3344929957
+
+// DLMEX/DLMZ/dl_top_mz2.unity3d
+大力_明妆-裸肩-作者q3344929957=[DALI] Dinastia Ming - Sem Ombro - Autor q3344929957
+
+// DLMEX/L/dl_top_lo.unity3d
+大力-龙盔甲-作者q3344929957=[DALI] Armadura de Dragão - Autor q3344929957
+
+// DLM/top.unity3d
+大力-分享-DOASexyA=[DALI] Compartilhamento - DOA Sexy A
+
+// DLM/top2.unity3d
+大力-分享-DOASexyB=[DALI] Compartilhamento - DOA Sexy B
+
+// DLM/DVA/top1.unity3d
+大力-分享DVAQ3344929957=[DALI] Compartilhamento - D.VA - Q3344929957
+
+// DLM/DVA/top2.unity3d
+大力-分享DVA透明Q3344929957=[DALI] Compartilhamento - D.VA Transparente - Q3344929957
+
+// DLMEX/DLSX/top.unity3d
+大力-圣秀-作者Q3344929957=[DALI] Santa da Espada - Q3344929957
+
+// DLMEX/DLSX/top2.unity3d
+大力-圣秀-透明-作者Q3344929957=[DALI] Santa da Espada Transparente - Q3344929957
+
+// chara/taroukawai_dougi2top/mymod.unity3d
+道着2=Kimono 2
+
+// chara/fo.unity3d
+夜莺-上衣=Casaco Nightingale
+
+// chara/FFFQ/FFFQ_sexy dress01.unity3d
+性感吊带裙=Vestido Sexy Suspenso
+
+// chara/FFFQ/FFFQ_sexy dress02.unity3d
+旗袍短裙=Vestido Chinês Curto
+旗袍短裙02=Vestido Chinês Curto 02
+旗袍短裙03=Vestido Chinês Curto 03
+
+// chara/FFFQ/FFFQ_skirt02.unity3d
+短裙=Saia Curta
+
+// chara/FFFQ/FFFQ_stewardess.unity3d
+空姐=Comissária de bordo
+
+// chara/sio/gudat.unity3d
+ぐだT=Camiseta Guda
+
+// chara/gyobobo/gantz_top.unity3d
+ガンツアウター=Gantz Parte Superior
+
+// chara/hs2_chunli/fo_top_chunli.unity3d
+格闘用トップス=Top de Luta
+
+// chara/liangpi/BCY-yf.unity3d
+八重樱=Yae Sakura
+
+// chara/ljlsdq_kuangsan/ljlsdq_kuangsan.unity3d
+ljlsdq_kuangsan=Kurumi
+
+// chara/sio/open.unity3d
+オープンブラウス=Blusa Aberta
+
+// chara/sio/openb2.unity3d
+オープンブラウス2=Blusa Aberta 2
+
+// chara/sio/opensuit.unity3d
+前空きスーツ=Terno com Decote
+
+// chara/re_bigger_jacket.unity3d
+TシャツBig=Camiseta Grande
+ミニＴBig=Camiseta Curta Grande
+チビＴBig=Underbob Grande
+ブラウス襟開きBig=Camisa Social com Decote V Grande
+裸パーカーBig=Blusa com Touca Aberta Grande
+スポーツウェアBig=Regata com Zíper Grande
+裸カーディガンBig=Cardigan Aberto Grande
+ボディーハーネスBig=Arnês de Couro Grande
+セーラー服Big=Uniforme de Marinheiro Grande
+リボンキャミソールBig=Top de Laço Grande
+ノースリーブラウスBig=Camisa Social sem Mangas Grande
+魔女のネグリジェBig=Lingerie de Bruxa Grande
+クリスマスポンチョBig=Poncho de Natal Grande
+オープンショルダーBig=Blusa Decote Ombro a Ombro Grande
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Arnês de Couro Grande 2
+
+// chara/sena_mod/sena_aeug.unity3d
+[SENA]AEUG制服=[SENA] Uniforme AEUG
+
+// chara/sena_mod/sena_anna.unity3d
+[SENA]AMウェイトレス1=[SENA] Garçonete AM 1
+
+// chara/sena_mod/sena_anna_L.unity3d
+[SENA]AMウェイトレス2=[SENA] Garçonete AM 2
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HB戦闘スーツ=[SENA] Vestido de Oficial HB
+[SENA]HBジャケット=[SENA] Blazer Slim HB
+
+// chara/sena_mod/sena_efsf_uni.unity3d
+[SENA]EFSF制服A=[SENA] Uniforme EFSF A
+
+// chara/sena_mod/sena_efsf_uni_g.unity3d
+[SENA]EFSF制服B=[SENA] Uniforme EFSF B
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]EFSFテストスーツ=[SENA] Roupas de Teste EFSF
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQジャケット1=[SENA] Blazer Slim EVA RQ
+
+// chara/sena_mod/sena_ggg.unity3d
+[SENA]GGG制服=[SENA] Unifomre GGG
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵セーラー襟=[SENA] Gola de Marinheiro da Musashi
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチ着物(柄)=[SENA] Kimono de Garota Ninja (estampa)
+[SENA]クノイチ着物(無地)=[SENA] Kimono de Garota Ninja (plano)
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHL上着=[SENA] Vestido GHL
+
+// chara/sena_mod/sena_pm01rp.unity3d
+[SENA]警備出動服上=[SENA] Uniforme de Polícia Superior
+[SENA]警備防護衣上=[SENA] Uniforme de Polícia Superior Blindado
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]警備長袖シャツ=[SENA] Camisa de Manga Comprida de Polícia
+[SENA]警備冬制服=[SENA] Uniforme de Inverno de Polícia
+[SENA]警備ベスト=[SENA] Colete de Polícia
+
+// chara/sena_mod/sena_riku02_top.unity3d
+[SENA]Tシャツ大=[SENA] Camiseta grande
+
+// chara/sena_mod/sena_riku03.unity3d
+[SENA]ランナートップス半脱ぎ改=[SENA] Top de Corrida - Pela Medade (Modificado)
+
+// chara/sena_mod/sena_rq_jak.unity3d
+[SENA]裸ベンチコート=[SENA] Casaco Aberto
+
+// chara/sena_mod/sena_various03.unity3d
+[SENA]ベースボールシャツIn=[SENA] Camiseta de Basebol para Dentro
+[SENA]ベースボールシャツout=[SENA] Camiseta de Basebol para Fora
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]バレーシャツM1=[SENA] Camisa de Vôlei M1
+[SENA]バレーシャツM2=[SENA] Camisa de Vôlei M2
+[SENA]バレーシャツM3=[SENA] Camisa de Vôlei M3
+
+// chara/sena_mod/sena_vb01b.unity3d
+[SENA]バレーシャツM4=[SENA] 
+[SENA]バレーシャツM5(長袖)=[SENA] Camisa de vôlei M5 (mangas compridas)
+[SENA]バレーシャツM5(袖捲り)=[SENA] Camisa de vôlei M5 (Manga enrolada)
+[SENA]バレーシャツM6(長袖)=[SENA] Camisa de vôlei M6 (manga comprida)
+[SENA]バレーシャツM6(袖捲り)=[SENA] Camisa de vôlei M6 (Manga enrolada)
+[SENA]バレーシャツM7=[SENA] Camisa de Vôlei M7
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ=[SENA] Moletom
+[SENA]ジャージ前開け=[SENA] Moletom Aberto
+
+// chara/sena_mod/sena_ym2199.unity3d
+[SENA]YM制服一般=[SENA] 
+[SENA]YM制服衛生士=[SENA] 
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YMパイロットスーツ=[SENA] 
+
+// chara/sio/tanktop.unity3d
+タンクトップ=Regata Curta
+
+// chara/sio/tanktop2.unity3d
+タンクトップ2=Regata Curta 2
+
+// chara/taroukawai_sailorll/sailorll.unity3d
+セーラー服(長袖)=Uniforme de Marinheiro (Mangas Longas)
+
+// chara/taroukawai_sailorls/sailorls.unity3d
+セーラー服(半袖)=Uniforme de Marinheiro (Mangas Curtas)
+
+// chara/taroukawai_sailorlsq/sailorlsq.unity3d
+セーラー服(角襟)=Uniforme de Marinheiro (Colarinho Quadrado)
+
+// XT/xt_top_LT蕾丝.unity3d
+[XT]LTl蕾丝=[XT]LTl Renda
+
+// XT/xt_top_kimono.unity3d
+[XT工坊]BY殴打罗密欧和服实验=[XT Workshop] BY Experimento Beat Romeo Kimono
+
+// chara/taroukawai_yuugumotops/yuugumotops.unity3d
+夕雲型エプロン=Avental Yugumo

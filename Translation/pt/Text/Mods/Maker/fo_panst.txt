@@ -1,0 +1,141 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/cardigan_shirts.unity3d
+HS2毛衣=Casaco HS2
+
+// chara/00/connectorjp/fo_panst_00.unity3d
+[MOD] ストッキング=[MOD] Meia Calça
+[MOD] ストッキングTカバー=[MOD] Meia Calça T
+[MOD] ストッキングHカバー=[MOD] Meia Calça H
+[MOD] レースストッキング=[MOD] Meia Calça com Renda
+[MOD] 網タイツ細目=[MOD] Meia Calça Arrastão Trama Fina
+[MOD] 網タイツ中目=[MOD] Meia Calça Arrastão Trama Média
+[MOD] 網タイツ大目=[MOD] Meia Calça Arrastão Trama Larga
+[MOD] 穴あきストッキング=[MOD] Meia Calça Aberta
+[MOD] スパッツA=[MOD] Short Suplex A
+[MOD] スパッツB=[MOD] Short Suplex B
+[MOD] ショートスパッツ=[MOD] Short Suplex Mini
+[MOD] シンプルガーター=[MOD] Liga de Cintura Simples
+[MOD] レースガーター=[MOD] Liga de Cintura com Renda
+[MOD] ベルトガーター=[MOD] Liga de Cintura de Couro
+
+// chara/cuzkuz/cuzkuz_top_02.unity3d
+ポンチョコート=Casaco Poncho
+
+// chara/cuzkuz/cuzkuz_top_03.unity3d
+クリスマスポンチョ（フード）=Poncho de Natal (Capuz)
+
+// chara/cuzkuz/cuzkuz_top_04.unity3d
+クリスマスポンチョ=Poncho de Natal
+
+// chara/cuzkuz/cuzkuz_top_13.unity3d
+ジャージ（前開き）=Moletom (Aberto)
+
+// chara/cuzkuz/cuzkuz_top_07.unity3d
+カーディガン=Casaco
+
+// chara/cuzkuz/cuzkuz_top_05.unity3d
+ブレザー=Blazer
+
+// chara/cuzkuz/cuzkuz_top_06.unity3d
+ブレザー前開き=Blazer Aberto
+
+// chara/cuzkuz/cuzkuz_bot_05a.unity3d
+ヒーラーの衣=Vestido de Curandeira
+
+// chara/cuzkuz/cuzkuz_top_15.unity3d
+ハーフコート=Casaco Aberto
+
+// chara/cuzkuz/cuzkuz_top_14.unity3d
+ロングコート=Casaco Longo
+
+// chara/cuzkuz/cuzkuz_inner_01.unity3d
+大正義スパッツ=Short Suplex Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_inner_02.unity3d
+一番星パンツ=Calças de Top Model
+
+// chara/cuzkuz/cuzkuz_top_21.unity3d
+女王のショール=Xale da Rainha
+
+// chara/etc.unity3d
+なし=Nenhum
+
+// chara/FFFQ/FFFQ_pants.unity3d
+紧身裤=Calça Skinny
+
+// chara/FFFQ/FFFQ_pantyhose.unity3d
+黑丝=Meia Calça Preta
+T裆黑丝=Meia Calça Preta T
+平裆黑丝=Meia Calça Preta H
+
+// chara/hs2_shibari/shibari.unity3d
+亀甲縛り（体操服着衣時用）=Arnês de Corda (Para Roupas de Ginástica)
+
+// chara/hs2_shibari/shibari2.unity3d
+亀甲縛り（体操服半脱時用）=Arnês de Corda (Para Roupas de Ginástica Levantada)
+
+// chara/konodioda/konodioda_panst_01.unity3d
+中分渐变连裤袜薄=Meia Calça com Gradiente Esquerda-Direita (Fino)
+中分连裤袜厚=Meia Calça com Gradiente Esquerda-Direita (Grosso)
+上下三色渐变连裤袜薄=Meia Calça com Gradiente Vertical (Fino)
+上下三色渐变连裤袜厚=Meia Calça com Gradiente Vertical (Grosso)
+
+// chara/konodioda/konodioda_panst_02.unity3d
+长筒袜左右不同=Meia Calça com Gradiente Esquerda-Direita
+长筒袜渐变三色=Meia Calça com Gradiente Vertical
+长筒袜左右不同花边=Meia Calça com Gradiente Esquerda-Direita (Renda)
+长筒袜渐变三色花边=Meia Calça com Gradiente Vertical (Renda)
+
+// chara/re_bigger_jacket.unity3d
+ボディーハーネスBig=Arnês de Couro Grande
+
+// chara/re_bigger_jacket2.unity3d
+ボディーハーネスBig2=Arnês de Couro Grande 2
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBショーツ=[SENA] HB Calcinha
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]半脱ぎ穴開ストLOW=[SENA] Meia Calça Baixa
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵金属パーツ=[SENA] Acessórios de Metal da Musashi
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]クノイチすね当て=[SENA] Caneleiras da Garota Ninja
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElf腰ベルト=[SENA] Cinto DElf
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]半脱ぎ穴開きストッキング=[SENA] Meia Calça
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]ゼッケン上下=[SENA] Identificação de Corredor Superior e Inferior
+[SENA]ゼッケン上=[SENA] Identificação de Corredor Superior
+
+// chara/sena_mod/sena_riku03.unity3d
+[SENA]ゼッケン上下（ランナートップ改用）=[SENA] Identificação de Corredor Superior e Inferior (Top de Corrida Modificado)
+[SENA]ゼッケン上（ランナートップ改用）=[SENA] Identificação de Corredor Superior (Top de Corrida Modificado)
+
+// chara/sena_mod/sena_rq.unity3d
+[SENA]RQパンスト=[SENA] Meia Calça RQ
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカ首=[SENA] Gargantilha da Asuka
+[SENA]アスカ首+レッグ（ヒール無し）=[SENA] Gargantilha da Asuka com Meias (Sem Salto)
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFサスペンダー=[SENA] Suspensórios TF
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]サポーターM1上下=[SENA] Cotoveleira e Joelheira M1
+[SENA]サポーターM1上=[SENA] Cotoveleira M1
+[SENA]サポーターM1下=[SENA] Joelheira M1
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+[SENA]YM航空ジャケット=[SENA] Jaqueta de Aviação YM
+[SENA]YMパイロットハーネス=[SENA] Arnês de Piloto YM

@@ -1,0 +1,23 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/donkeyrock-bodypaint-01.unity3d
+//ほくろ1(mole_clear)=
+//ほくろ2(mole_blur)=
+//ほくろ3(mole_gradation)=
+//愛(love)=
+//奴(slave)=
+//牝(bitch)=
+//穴(hole)=
+//肉(flesh)=
+//淫(nympho)=
+
+// chara/donkeyrock-bodypaint-03.unity3d
+//奸(adultery)=
+//毒(poison)=
+//狂(mad)=
+//卑(humble)=
+//屄(cunt)=
+//獄(jail)=
+//色(lust)=

@@ -1,0 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/sena_mod/sena_t_asuka_wepon.unity3d
+[SENA]アスカ武器ブレード=Arma de Lâmina da Asuka

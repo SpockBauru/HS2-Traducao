@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/d3mod/hestia_sb.unity3d
+乳神焼け（グローブなし）=Bronzeado da Deusa Peituda (Sem Luvas)
+乳神焼け（グローブあり）=Bronzeado da Deusa Peituda (Com Luvas)
+
+// chara/sena_mod/sena_sunburn01.unity3d
+//[SENA]陸上A=
+[SENA]陸上A+足首=[SENA] Esportivo A + Tornozelo
+//[SENA]陸上B=
+[SENA]陸上B+足首=[SENA] Esportivo B + Tornozelo

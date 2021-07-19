@@ -1,0 +1,139 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/00/so_hair_b_00.unity3d
+ストレートロング=Longo e Reto
+くせっけショート=Curto e Curvo
+ボリュームポニー=Rabo de Cavalo
+細ツインテール=Maria Chiquinha Curto
+細ロングツインテール=Maria Chiquinha Longo
+セミロング=Acima dos Ombros
+ぱっつんロング=Longo Arredondado
+ツイン前おさげ=Maria Chiquinha pra Frente
+後ろおさげ=Rabo de Cavalo Baixo
+はねっけロング=Repicado Longo
+ショートヘア=Assimétrica Curta
+ツインロール=Maria Chiquinha Ondulado
+ロングツインロール=Maria Chiquinha Ondulado Longo
+ぱっつんミディアム=Bob Curto
+外はねミディアム=Cortininha
+外はねショート=Franja de Antena
+横おさげ=Rabo de Cavalo Lateral
+
+// chara/38/so_hair_b_38.unity3d
+ウェーブロング=Longo Ondulado
+
+// chara/05/so_hair_b_05.unity3d
+ツーサイドアップ=Longo com Maria Chiquinha
+くせっ毛セミロング=Corte Médio
+
+// chara/06/so_hair_b_06.unity3d
+お団子ポニー=Coque
+お団子ツイン=Coque Duplo
+
+// chara/07/so_hair_b_07.unity3d
+ボウズ=Raspado na Máquina
+ボリュームツインテール=Maria Chiquinha Espessa
+ボリュームツーサイド=Longo e Maria Chiquinha Espessa
+
+// chara/08/so_hair_b_08.unity3d
+サイドテール(左)=Rabo de Cavalo pra Esquerda
+サイドテール(右)=Rabo de Cavalo pra Direita
+
+// chara/10/so_hair_b_10.unity3d
+結わえロング=Longo Amarrado
+
+// chara/13/so_hair_b_13.unity3d
+縦ロールロング=Longo Encaracolado
+
+// chara/14/so_hair_b_14.unity3d
+ボリュームツインロール=Maria Chiquinha Gigante
+
+// chara/30/so_hair_b_30.unity3d
+二つ分けロング=Longo Dividido
+テンショウ=Era Tenshou
+あほ毛ミディアム=Curto com Fios em Cima
+ツインロングおさげ=Maria Chiquinha Baixa
+重ねぱっつんミディアム=Médio com Camadas
+マッシュヘア=Prensado
+ボリュームカールポニー=Rabo de Cavalo Longo e Enrolado
+リングツインテール=Maria Chiquinha em Anel
+オールバックポニー=Rabo de Cavalo em Cima
+オールバックツインテール=Maria Chiquinha em Cima
+
+// chara/34/so_hair_b_34.unity3d
+三つ編みツインおさげ=Maria Chiquinha de Trança
+
+// chara/40/so_hair_b_40.unity3d
+シスターカールロング=Curvo de Freira Longo
+シスターベールヘア=Véu de Cabelo de Freira
+
+// chara/41/so_hair_b_41.unity3d
+中分けカールヘア=Liso Curvo
+
+// chara/50/so_hair_b_50.unity3d
+シトリーヘア=Penteado da Citri
+ボリュームぱっつんポニー=Rabo de Cavalo Longo e Volumoso
+ワイルドミディアム=Repicado médio com Rabo de Cavalo
+ロングサイドテール=Longo com Rabo de Cavalo Lateral
+アップスタイル=Coque Amarrado
+
+// chara/00/so_hair_f_00.unity3d
+ロングヘア=Longo
+くせっ毛ショート=Curto Curvo
+横分け=Lateral
+エムバング=Franja em "M"
+梳き髪=Reta
+姫カット=Princesa Japonesa
+でこだし中わけ=Lateral Alto
+片目隠し=Tapando o Olho Direito
+はねっ毛=Repicada
+アシンメトリ=Assimétrica Longa
+ぱっつんミデイアム=Reta com Laterais Longas
+切り揃えショート=Reta Curta
+
+// chara/05/so_hair_f_05.unity3d
+ぱっつん横出し=Quadrado
+クロスセミロング=Média em Cruz
+
+// chara/08/so_hair_f_08.unity3d
+サイドウェーブ(左)=Ondulado pra Esquerda
+サイドウェーブ(右)=Ondulado pra Direita
+
+// chara/10/so_hair_f_10.unity3d
+横流しカール=Curvo Lateral
+
+// chara/13/so_hair_f_13.unity3d
+縦ロールバング=Lados Encaracolados
+
+// chara/14/so_hair_f_14.unity3d
+ウェーブゴスロリバング=Franja de Lolita Gótica Ondulada
+
+// chara/30/so_hair_f_30.unity3d
+斜めぱっつん=Franja Diagonal
+エアインテークミディアム=Franja de Exaustor
+横出し流し髪=Franja Lateral Escorrida
+重ねぱっつん=Em Camadas
+マッシュバング=Prensado
+ロングカール=Longo e Enrolado
+分けソフトヘア=Lateral com Mecha
+
+// chara/34/so_hair_f_34.unity3d
+ナチュラルエムバング=Franja Natural
+
+// chara/40/so_hair_f_40.unity3d
+シスターカールバング=Curvo de Freira
+
+// chara/41/so_hair_f_41.unity3d
+中分けカールバング=Curva Assimetrica
+
+// chara/50/so_hair_f_50.unity3d
+シトリーバング=Franja da Citri
+和風ぱっつん=Franja Reta Japonesa
+ワイルドアシンメトリ=Bob Assimétrico Sobre o Olho
+エム分けぱっつん=Franja em "M" Reta
+サイドロングラフバング=Lado Longo com Mecha Sobre Olho
+
+// chara/ymd/ym11_hairPortM.unity3d
+//HS バンダナ=

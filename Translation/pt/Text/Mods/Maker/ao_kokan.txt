@@ -1,0 +1,7 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/stinger722/stinger722_ao_kokan_inmou.unity3d
+陰毛F=Pelos Púbicos F
+陰毛R=Pelos Púbicos R

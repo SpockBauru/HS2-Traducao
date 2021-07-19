@@ -1,0 +1,13 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/ao.unity3d
+夜莺-眼罩=Venda Nightingale
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵メガネ=[SENA] Óculos Musashi
+
+// chara/sena_mod/sena_p_assault_a.unity3d
+[SENA]ASゴーグル=[SENA] Óculos de Proteção AS
+[SENA]ASゴーグルベルト=[SENA] Faixa dos Óculos de Proteção AS

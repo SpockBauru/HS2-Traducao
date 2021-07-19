@@ -1,0 +1,278 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/ph_attendant_head.unity3d
+PH 空姐制服 帽子=PH Chapéu do Uniforme de Comissária de Bordo
+
+// chara/skonb/ao_head_shimakaze.unity3d
+うさ耳リボンカチューシャ=Tiara de Orelhas de Coelhinha
+
+// chara/cuzkuz/cuzkuz_head_01.unity3d
+妹のリボン=Laço de Freira
+
+// chara/cuzkuz/cuzkuz_head_02.unity3d
+大正義ヘアピン=Presilha Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_head_03.unity3d
+一番星クラウン=Coroa de Top Model
+
+// chara/cuzkuz/cuzkuz_12.unity3d
+犬姫の頭巾=Capuz da Princesa de Moonbrook
+
+// chara/cuzkuz/cuzkuz_15b.unity3d
+ツインロール左=Maria Chiquinha Enrolada Esquerda
+ツインロール右=Maria Chiquinha Enrolada Direita
+ロング=Longo
+
+// chara/d3mod/hestia_acc_l.unity3d
+[d3mod]乳神アクセL=[d3mod] Acessório da Deusa Peitura Esq
+
+// chara/d3mod/hestia_acc_r.unity3d
+[d3mod]乳神アクセR=[d3mod] Acessório da Deusa Peitura Dir
+
+// DLM/DE/heads.unity3d
+大力-分享恶魔右q3344929957=[DALI] Súcubo Direito q3344929957
+大力-分享恶魔左q3344929957=[DALI] Súcubo Esquerdo q3344929957
+
+// DLMEX/DLTD1/dl_head_dltd1a.unity3d
+大力_TD沧海头饰A=[DALI] TD Ornamento do Mar A
+
+// DLMEX/DLTD1/dl_head_dltd1b.unity3d
+大力_TD沧海头饰B=[DALI] TD Ornamento do Mar B
+
+// DLMEX/DLTD2/dl_head_dltd2.unity3d
+大力_TD天华头饰A=[DALI] TD Ornamento do Céu A
+
+// DLMEX/DLTD2/dl_head_dltd2c.unity3d
+大力_TD沧海头饰C=[DALI] TD Ornamento do Mar C
+
+// DLMEX/DLMZ/dl_head_mz.unity3d
+大力_明妆头巾-作者q3344929957=[DALI] Véu da Dinastia Ming - Autor q3344929957
+
+// DLMEX/DLMZ/dl_head_mz2.unity3d
+大力_明妆头饰-作者q3344929957=[DALI] Ornamento da Dinastia Ming - Autor q3344929957
+
+// DLMEX/L/dl_head_lo.unity3d
+大力-龙头盔-作者q3344929957=[DALI] Capacete de Dragão - Autor q3344929957
+
+// DLM/DVA/dvahead.unity3d
+大力-分享DVA-Q3344929957=[DALI] Compartilhamento - D.VA - Q3344929957
+
+// DLM/dl_head_rj1.unity3d
+大力_发光耳机-作者q3344929957=[DALI] Headphone Luminoso - Autor q3344929957
+
+// DLMEX/DLSX/tou.unity3d
+大力-圣秀-头饰-作者Q3344929957=[DALI] Cabeça da Santa das Espadas - Autor Q3344929957
+
+// DLMEX/DLSX/tou2.unity3d
+大力-圣秀-眼罩-作者Q3344929957=[DALI] Véu da Santa das Espadas - Autor Q3344929957
+
+// chara/trial/ao_head_dl01.unity3d
+大力-恶魔角A=[DALI] Chifre de Demônio A
+大力-恶魔角B=[DALI] Chifre de Demônio B
+大力-恶魔角C=[DALI] Chifre de Demônio C
+大力-恶魔角D=[DALI] Chifre de Demônio D
+大力-恶魔角E=[DALI] Chifre de Demônio E
+大力-恶魔角F=[DALI] Chifre de Demônio F
+
+// chara/ao.unity3d
+夜莺-兜帽=Capuz Nightingale
+
+// chara/hs2_alady/ao_head_alady.unity3d
+レディヘッド=Cabeça Feminina
+
+// char/ljlsdq_kuangsan_shipin.unity3d
+kuangsan=Kurumi
+
+// chara/minguo hat.unity3d
+民国帽子=Chapéu da República da China
+
+// chara/highlight_tsukege.unity3d
+エクステ(MOD)=Extensões de Cabelo (MOD)
+
+// chara/sena_mod/sena_hb_item.unity3d
+[SENA]HBヘルメット=Capacete HB
+[SENA]HBヘルメット(マスクオフ)=[SENA] HB Capacete (Sem Máscara)
+
+// chara/sena_mod/sena_efsf_uni.unity3d
+[SENA]EFSF制帽=Boné EFSF
+[SENA]通信ヘッドセット=[SENA] Fones de Ouvido
+[SENA]EFSF陸軍ヘルメット=[SENA] Capacete do Exército da EFSF
+
+// chara/sena_mod/sena_EFSF_Testp.unity3d
+[SENA]EFSFテストヘルメット=[SENA] Capacete de Teste EFSF
+
+// chara/sena_mod/sena_ggg.unity3d
+[SENA]GGGヘッドセット=[SENA] Fones de Ouvido GGG
+
+// chara/sena_mod/sena_k_musashi_ac.unity3d
+[SENA]武蔵ヘアバンド=[SENA] Faixa de cabelo Musashi
+
+// chara/sena_mod/sena_k_musashi_h.unity3d
+[SENA]武蔵エクステ=[SENA] Extensão Musashi
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]忍者頭巾=[SENA] Capuz Ninja
+
+// chara/sena_mod/sena_lddelf.unity3d
+[SENA]DElfサークレット=[SENA] Tiara DElf
+
+// chara/sena_mod/sena_leccee.unity3d
+[SENA]GHLカチューシャ=[SENA] GHL Fita de cabeça
+[SENA]GHLセイバー=[SENA] Sabre GHL
+
+// chara/sena_mod/sena_p_assault.unity3d
+[SENA]バラクラバ=[SENA] Balaclava
+[SENA]バラクラバ(調整可)=[SENA] Balaclava (Ajustável)
+[SENA]フェイスマスク(調整可)=[SENA] Máscara Facial (Ajustável)
+[SENA]防弾ヘルメット1シールド=[SENA] Capacete a Prova de Balas 1 Viseira
+[SENA]防弾ヘルメット1=[SENA] Capacete a Prova de Balas 1
+
+// chara/sena_mod/sena_p_assault_a.unity3d
+[SENA]防弾ヘルメット2=[SENA] Capacete a Prova de Balas 2
+
+// chara/sena_mod/sena_pm01rp.unity3d
+[SENA]警備出動帽=[SENA] Boné de Polícia
+[SENA]警備防護ヘルメット=[SENA] Capacete de Polícia
+[SENA]警備ヘルメット顎紐=[SENA] Tira de Queixo do Capacete de Polícia
+
+// chara/sena_mod/sena_pm_item01.unity3d
+[SENA]警備制帽（女）=[SENA] Boné de Segurança (Feminino)
+
+// chara/sena_mod/sena_pm_item02.unity3d
+[SENA]警備制帽（男）=[SENA] Boné de Segurança (Masculino)
+
+// chara/sena_mod/sena_riku02.unity3d
+[SENA]鉢巻=[SENA] Faixa de cabeça
+
+// chara/sena_mod/sena_t_asuka.unity3d
+[SENA]アスカ脚メカパーツ=[SENA] Partes Robóticas de Perna da Asuka
+[SENA]アスカメカサークル=[SENA] Circulo de Robô da Asuka
+
+// chara/sena_mod/sena_various01.unity3d
+[SENA]キャップ=[SENA] Boné
+
+// chara/sena_mod/sena_various02a.unity3d
+[SENA]HSドルフヘッド=[SENA] Cabeça de Golfinho HS
+[SENA]ブー二ーハット=[SENA] Boina
+
+// chara/sena_mod/sena_ym2199item.unity3d
+[SENA]YMパイロットヘルメット=[SENA] Capacete de Piloto YM
+
+// chara/ymd/ym03_acchairF.unity3d
+つけ毛 F01C=Extensão de Cabelo F01C
+つけ毛 F01L=Extensão de Cabelo F01L
+つけ毛 F01R=Extensão de Cabelo F01R
+つけ毛 F02C=Extensão de Cabelo F02C
+つけ毛 F02L=Extensão de Cabelo F02L
+つけ毛 F02R=Extensão de Cabelo F02R
+つけ毛 F03UL=Extensão de Cabelo F03UL
+つけ毛 F03UR=Extensão de Cabelo F03UR
+つけ毛 F03DL=Extensão de Cabelo F03DL
+つけ毛 F03DR=Extensão de Cabelo F03DR
+つけ毛 F04C=Extensão de Cabelo F04C
+つけ毛 F04L=Extensão de Cabelo F04L
+つけ毛 F04R=Extensão de Cabelo F04R
+つけ毛 F04LL=Extensão de Cabelo F04LL
+つけ毛 F04RR=Extensão de Cabelo F04RR
+つけ毛 F05C=Extensão de Cabelo F05C
+つけ毛 F05L=Extensão de Cabelo F05L
+つけ毛 F05R=Extensão de Cabelo F05R
+つけ毛 F06C=Extensão de Cabelo F06C
+つけ毛 F06C2=Extensão de Cabelo F06C2
+つけ毛 F06L=Extensão de Cabelo F06L
+つけ毛 F06R=Extensão de Cabelo F06R
+つけ毛 F07L=Extensão de Cabelo F07L
+つけ毛 F07R=Extensão de Cabelo F07R
+つけ毛 F08C=Extensão de Cabelo F08C
+つけ毛 F08L=Extensão de Cabelo F08L
+つけ毛 F08R=Extensão de Cabelo F08R
+つけ毛 F09C=Extensão de Cabelo F09C
+つけ毛 F09UL=Extensão de Cabelo F09UL
+つけ毛 F09UR=Extensão de Cabelo F09UR
+つけ毛 F09DL=Extensão de Cabelo F09DL
+つけ毛 F09DR=Extensão de Cabelo F09DR
+つけ毛 F10C=Extensão de Cabelo F10C
+つけ毛 F10L=Extensão de Cabelo F10L
+つけ毛 F10R=Extensão de Cabelo F10R
+つけ毛 F11=Extensão de Cabelo F11
+つけ毛 F12_1L=Extensão de Cabelo F12_1L
+つけ毛 F12_1R=Extensão de Cabelo F12_1R
+つけ毛 F12_2L=Extensão de Cabelo F12_2L
+つけ毛 F12_2R=Extensão de Cabelo F12_2R
+つけ毛 F12_3L=Extensão de Cabelo F12_3L
+つけ毛 F12_3R=Extensão de Cabelo F12_3R
+つけ毛 F13=Extensão de Cabelo F13
+つけ毛 F30C=Extensão de Cabelo F30C
+つけ毛 F31C=Extensão de Cabelo F31C
+つけ毛 F31L=Extensão de Cabelo F31L
+つけ毛 F31R=Extensão de Cabelo F31R
+つけ毛 F32U=Extensão de Cabelo F32U
+つけ毛 F32L=Extensão de Cabelo F32L
+つけ毛 F32R=Extensão de Cabelo F32R
+つけ毛 F32UL=Extensão de Cabelo F32UL
+つけ毛 F32UR=Extensão de Cabelo F32UR
+つけ毛 F32ULL=Extensão de Cabelo F32ULL
+つけ毛 F32URR=Extensão de Cabelo F32URR
+つけ毛 F32O=Extensão de Cabelo F32O
+つけ毛 F33C=Extensão de Cabelo F33C
+つけ毛 F33L=Extensão de Cabelo F33L
+つけ毛 F33R=Extensão de Cabelo F33R
+つけ毛 F34CL=Extensão de Cabelo F34CL
+つけ毛 F34CR=Extensão de Cabelo F34CR
+つけ毛 F34L=Extensão de Cabelo F34L
+つけ毛 F34R=Extensão de Cabelo F34R
+つけ毛 F35C=Extensão de Cabelo F35C
+つけ毛 F35L=Extensão de Cabelo F35L
+つけ毛 F35R=Extensão de Cabelo F35R
+つけ毛 F35W=Extensão de Cabelo F35W
+つけ毛 F35rC=Extensão de Cabelo F35rC
+つけ毛 F35rL=Extensão de Cabelo F35rL
+つけ毛 F35rR=Extensão de Cabelo F35rR
+つけ毛 F35rW=Extensão de Cabelo F35rW
+
+// chara/ymd/ym04_acchairB.unity3d
+つけ毛 B01C=Extensão de Cabelo B01C
+つけ毛 B01L=Extensão de Cabelo B01L
+つけ毛 B01R=Extensão de Cabelo B01R
+つけ毛 B02=Extensão de Cabelo B02
+つけ毛 B03=Extensão de Cabelo B03
+つけ毛 B04L=Extensão de Cabelo B04L
+つけ毛 B04R=Extensão de Cabelo B04R
+つけ毛 B06=Extensão de Cabelo B06
+つけ毛 B07L=Extensão de Cabelo B07L
+つけ毛 B07R=Extensão de Cabelo B07R
+つけ毛 B08=Extensão de Cabelo B08
+つけ毛 B09C=Extensão de Cabelo B09C
+つけ毛 B09L=Extensão de Cabelo B09L
+つけ毛 B09R=Extensão de Cabelo B09R
+つけ毛 B11L=Extensão de Cabelo B11L
+つけ毛 B11R=Extensão de Cabelo B11R
+つけ毛 B13L=Extensão de Cabelo B13L
+つけ毛 B13R=Extensão de Cabelo B13R
+つけ毛 B14L=Extensão de Cabelo B14L
+つけ毛 B14R=Extensão de Cabelo B14R
+つけ毛 B20L=Extensão de Cabelo B20L
+つけ毛 B20R=Extensão de Cabelo B20R
+つけ毛 B31=Extensão de Cabelo B31
+つけ毛 B31hg=Extensão de Cabelo B31hg
+つけ毛 B32=Extensão de Cabelo B32
+つけ毛 B35L=Extensão de Cabelo B35L
+つけ毛 B35R=Extensão de Cabelo B35R
+
+// chara/ymd/ym05_acchairS.unity3d
+つけ毛 S01L=Extensão de Cabelo S01L
+つけ毛 S01R=Extensão de Cabelo S01R
+つけ毛 S02L=Extensão de Cabelo S02L
+つけ毛 S02R=Extensão de Cabelo S02R
+つけ毛 S03_1L=Extensão de Cabelo S03_1L
+つけ毛 S03_1R=Extensão de Cabelo S03_1R
+つけ毛 S03_2L=Extensão de Cabelo S03_2L
+つけ毛 S03_2R=Extensão de Cabelo S03_2R
+つけ毛 S03_3L=Extensão de Cabelo S03_3L
+つけ毛 S03_3R=Extensão de Cabelo S03_3R
+つけ毛 S06L=Extensão de Cabelo S06L
+つけ毛 S06R=Extensão de Cabelo S06R
+つけ毛 S07L=Extensão de Cabelo S07L
+つけ毛 S07R=Extensão de Cabelo S07R

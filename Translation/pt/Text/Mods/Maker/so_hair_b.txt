@@ -1,0 +1,101 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/sio/bigtwin.unity3d
+//超ボリュームツイン=
+
+// chara/cuzkuz/cuzkuzhair_01.unity3d
+カールおさげ=Rabo de Cavalo Enrolado
+
+// chara/cuzkuz/cuzkuz_12.unity3d
+//犬姫ロング=
+
+// DLMEX/DLTD1/dlhairtd1.unity3d
+大力-TD沧海烟霞-发型=[DALI] TD Névoa do Mar - Cabelo
+
+// DLMEX/DLTD2/dlhairtd2.unity3d
+大力-TD天华-发型=[DALI] TD Céu - Cabelo
+
+// DLMEX/DLMZ/dlhairmz.unity3d
+大力-眀妆-作者q3344929957=[DALI] Dinastia Ming - Autor q3344929957
+
+// DLM/hair/dlhair01.unity3d
+大力-免费-发型01=[DALI] Penteado de compartilhamento gratuito 01
+
+// DLM/hair/dlhair02.unity3d
+大力-免费-发型02=[DALI] Penteado de compartilhamento gratuito 02
+
+// DLM/hair/dlhair03.unity3d
+大力-免费-发型03=[DALI] Penteado de compartilhamento gratuito 03
+
+// DLM/hair/dlhair04.unity3d
+大力-免费-发型04=[DALI] Penteado de compartilhamento gratuito 04
+
+// DLM/hair/dlhair05.unity3d
+大力-免费-发型05=[DALI] Penteado de compartilhamento gratuito 05
+
+// DLM/hair/dlhair06.unity3d
+大力-免费-发型06=[DALI] Penteado de compartilhamento gratuito 06
+
+// DLM/hair/dlhair07.unity3d
+大力-免费-发型07=[DALI] Penteado de compartilhamento gratuito 07
+
+// DLM/hair/dlhair08.unity3d
+大力-免费-发型08=[DALI] Penteado de compartilhamento gratuito 08
+
+// DLMEX/hair/dlhairex01.unity3d
+大力-赞助发型01=[DALI] Penteado Patrocinado 01
+
+// DLMEX/hair/dlhairex02.unity3d
+大力-赞助发型02=[DALI] Penteado Patrocinado 02
+
+// DLMEX/hair/dlhairex03.unity3d
+大力-赞助发型03=[DALI] Penteado Patrocinado 03
+
+// DLMEX/hair/dlhairex04.unity3d
+大力-赞助发型04=[DALI] Penteado Patrocinado 04
+
+// DLMEX/hair/dlhairex05.unity3d
+大力-赞助发型05=[DALI] Penteado Patrocinado 05
+
+// DLMEX/hair/dlhairex06.unity3d
+大力-赞助发型06=[DALI] Penteado Patrocinado 06
+
+// DLMEX/DLSX/tf.unity3d
+//大力-圣秀-作者Q3344929957=
+
+// DLMEX/DLSX/tf2.unity3d
+//大力-圣秀-去侧发-作者Q3344929957=
+
+// DLM/hair/tf1.unity3d
+大力-发型分享B1Q3344929957=[DALI] Penteado de compartilhamento B1 Q3344929957
+
+// chara/00/so_hair_b_00.unity3d
+ボリュームポニー=Rabo de Cavalo
+
+// chara/sio/okappa.unity3d
+オカッパ=Bob reto
+
+// chara/ymd/ym06_hairArrange.unity3d
+//ストレートロング[arrange]=
+//ぱっつんロング[arrange]=
+//ボリュームポニー[notail]=
+//細ツインテール[notail]=
+//ツイン前おさげ[notail]=
+//後ろおさげ[notail]=
+//ツーサイドアップ[notail]=
+//横おさげ[notail]=
+サイドテール(左)[notail]=Rabo Lateral (Esquerda) [notail]
+サイドテール(右)[notail]=Rabo Lateral (Direita) [notail]
+
+// chara/ymd/ym11_hairPortM.unity3d
+//HS ショート=
+//HS スマートショート=
+//HS テンショウ=
+//HS ツーブロック=
+//HS ミディアム=
+//HS シャギー=
+//HS オールバック=
+//HS セミロング=
+//HS バンダナ=

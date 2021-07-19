@@ -1,0 +1,24 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/cuzkuz/cuzkuzhair_02.unity3d
+普通の前髪=Franja Normal
+
+// chara/sio/so_hair_f_hane2.unity3d
+//はねっ毛2=
+
+// chara/sio/so_hair_f_hane3.unity3d
+//はねっ毛3=
+
+// chara/sio/so_hair_f_hime2.unity3d
+//姫カット2=
+
+// chara/sio/so_hair_f_hime3.unity3d
+//姫カット3=
+
+// chara/sio/so_hair_f_hime4.unity3d
+//姫カット4=
+
+// chara/ljlsdq_kuangsan_hair.unity3d
+kuangsan=Kurumi

@@ -1,0 +1,177 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/sio/clashdc.unity3d
+クラッシュデニム開き=Jeans Rasgado Aberto
+
+// chara/sio/clashdo.unity3d
+クラッシュデニム閉じ=Jeans Rasgado Fechado
+
+// chara/kkkk1111/hs_idol_bot.unity3d
+HS 偶像 裙子=HS Saia de Idol
+
+// chara/kkkk1111/hs_skirt_pleat.unity3d
+HS百褶裙 短=HS Saia com Pregas Curta
+HS百褶裙 略短=HS Saia com Pregas Curta-Média
+HS百褶裙 中=HS Saia com Pregas Média
+HS百褶裙 略长=HS Saia com Pregas Média-Longa
+HS百褶裙 长=HS Saia com Pregas Longa
+
+// chara/kkkk1111/hs_skirt_pleat2.unity3d
+HS百褶裙2 短=HS Saia com Pregas Curta 2
+HS百褶裙2 略短=HS Saia com Pregas Curta-Média 2
+HS百褶裙2 中=HS Saia com Pregas Média 2
+HS百褶裙2 略长=HS Saia com Pregas Média-Longa 2
+HS百褶裙2 长=HS Saia com Pregas Longa 2
+
+// chara/kkkk1111/ph_attendant_bot.unity3d
+PH 空姐制服 裙子=PH Saia do Uniforme de Comissária de Bordo
+
+// chara/kkkk1111/skirt_pleat.unity3d
+百褶裙 短=Saia com Pregas Curta
+百褶裙 略短=Saia com Pregas Curta-Média
+百褶裙 中=Saia com Pregas Média
+百褶裙 略长=Saia com Pregas Média-Longa
+百褶裙 长=Saia com Pregas Longa
+
+// chara/skonb/fo_bot_shimakaze.unity3d
+痴女プリーツ=Saia com Pregas de Puta
+
+// chara/skonb/fo_bot_taisou.unity3d
+ハイウェストブルマ=Shorts de Cintura Alta
+
+// chara/cuzkuz/cuzkuz_bot_00.unity3d
+八十八学園スカート=Saia da Escola 88
+
+// chara/cuzkuz/cuzkuz_bot_03.unity3d
+巻きスカート=Saia Pareô
+
+// chara/cuzkuz/cuzkuz_bot_04.unity3d
+ひざ丈タイトスカート=Saia Justa no Joelho
+
+// chara/cuzkuz/cuzkuz_bot_01.unity3d
+ひざ丈プリーツスカート=Saia com Pregas no Joelho
+
+// chara/cuzkuz/cuzkuz_bot_02.unity3d
+ひざ丈フレアースカート=Saia Rodada no Joelho
+
+// chara/cuzkuz/cuzkuz_bot_06.unity3d
+ハーフパンツ=Bermuda
+
+// chara/cuzkuz/cuzkuz_bot_05.unity3d
+ジャージ（たくし上げ）=Moletom (Pescador)
+
+// chara/cuzkuz/cuzkuz_bot_07.unity3d
+大正義スカート=Saia Líder de Torcida Yomiuri Giants
+
+// chara/cuzkuz/cuzkuz_bot_08.unity3d
+一番星ドレス（ボトム）=Vestido de Top Model (Inferior)
+
+// chara/cuzkuz/cuzkuz_bot_12.unity3d
+スーツパンツ2=Calças de Terno 2
+
+// chara/cuzkuz/cuzkuz_bot_11.unity3d
+フレアーパンツ=Calça Boca-de-Sino
+
+// chara/cuzkuz/cuzkuz_bot_10.unity3d
+ハーフパンツ2=Calção 2
+
+// chara/cuzkuz/cuzkuz_bot_09.unity3d
+ショートデニム=Short Jeans
+
+// chara/cuzkuz/cuzkuz_bot_13.unity3d
+女王のスカート=Saia da Rainha
+
+// chara/cuzkuz/cuzkuz_bot_14.unity3d
+大統領のスカート=Saia de Presidente
+
+// chara/cuzkuz/cuzkuz_15a.unity3d
+歌姫のスカート=Saia da Diva
+
+// DLMEX/DLTD1/dl_bot_dltd1.unity3d
+大力_TD沧海_裙子_原色=[DALI] TD Saia do Mar - Cor Original
+
+// DLMEX/DLTD1/dl_bot_dltd1b.unity3d
+大力_TD沧海_裙子_半透明=[DALI] TD Saia do Mar - Transparente
+
+// DLMEX/DLMZ/dl_bot_mz.unity3d
+大力-明妆-金属-作者q3344929957=[DALI] Dinastia Ming - Metal - Autor q3344929957
+
+// DLMEX/DLMZ/dl_bot_mz2.unity3d
+大力-明妆-金属-裸肩-作者q3344929957=[DALI] Dinastia Ming - Metal - Sem Ombros - Autor q3344929957
+
+// DLMEX/L/dl_bot_lo.unity3d
+大力-龙盔甲裙-作者q3344929957=[DALI] Saia da Armadura de Dragão - Autor q3344929957
+
+// DLM/DOA1/DLDOABOT.unity3d
+大力-免费分享-DOA-A=[DALI] Compartilhamento Livre - DOA-A
+
+// chara/taroukawai_dougi2bot/mymod.unity3d
+道着2=Kimono 2
+
+// chara/fo.unity3d
+夜莺-裤=Calças Nightingale
+
+// chara/FFFQ/FFFQ_pants.unity3d
+九分裤=Calça Skinny
+
+// chara/gyobobo/gantz_inner_t.unity3d
+ガンツインナー=Roupa Interna de Gantz
+
+// chara/hs2_chunli/fo_bot_chunli.unity3d
+格闘用スカート=Saia de Luta
+
+// chara/sena_mod/sena_anna.unity3d
+[SENA]AMスカート=[SENA] Saia AM
+
+// chara/sena_mod/sena_hbcosplay.unity3d
+[SENA]HBタイトスカート=Saia Justa HB
+
+// chara/sena_mod/sena_deni.unity3d
+[SENA]デニムスカート1=[SENA] Saia Jeans 1
+[SENA]デニムスカート2=[SENA] Saia Jeans 2
+[SENA]デニムスカート3=[SENA] Saia Jeans 3
+[SENA]デニムスカート4=[SENA] Saia Jeans 4
+
+// chara/sena_mod/sena_eva_rq01.unity3d
+[SENA]EVA RQ01スカート=[SENA] Saia EVA RQ01
+[SENA]EVA RQ01パンツ1=[SENA] Calça EVA RQ01
+
+// chara/sena_mod/sena_g_reiko.unity3d
+[SENA]R連邦ベルト=[SENA] Cinto da Federação R
+
+// chara/sena_mod/sena_g_reiko_s.unity3d
+[SENA]R連合ベルト=[SENA] Cinto da Aliança R
+
+// chara/sena_mod/sena_k_musashi.unity3d
+[SENA]武蔵スカート=[SENA] Saia Musashi
+
+// chara/sena_mod/sena_pm01rp.unity3d
+[SENA]警備出動服下=[SENA] Uniforme de Polícia Inferior
+[SENA]警備防護衣下=[SENA] Uniforme de Polícia Inferior Blindado
+
+// chara/sena_mod/sena_pm01.unity3d
+[SENA]警備タイトスカート=[SENA] Saia Justa de Polícia
+
+// chara/sena_mod/sena_riku03.unity3d
+[SENA]ランナーパンツ半脱ぎ改=[SENA] Saia de Corrida Meia Fora
+
+// chara/sena_mod/sena_tifa.unity3d
+[SENA]TFスカート=[SENA] Saia TF
+
+// chara/sena_mod/sena_various02a.unity3d
+[SENA]もっこりスパッツ=[SENA] Short Ereto
+
+// chara/sena_mod/sena_various03.unity3d
+[SENA]ベースボールパンツ=[SENA] Calça de Basebol
+
+// chara/sena_mod/sena_vb01.unity3d
+[SENA]バレースパッツM1=[SENA] Short de Vôlei M1
+
+// chara/sena_mod/sena_vb01b.unity3d
+[SENA]バレーブルマM2=[SENA] Shorts de Vôlei M2
+[SENA]バレーブルマM3=[SENA] Shorts de Vôlei M3
+
+// chara/sena_mod/sena_w_jersey.unity3d
+[SENA]ジャージ=[SENA] Moletom

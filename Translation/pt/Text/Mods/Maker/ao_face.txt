@@ -1,0 +1,110 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// DLM/dl_head_dlms.unity3d
+大力-分享-面纱-正常版-作者Q3344929957=[DALI] Compartilhamento Véu Normal - Autor Q3344929957
+
+// DLM/dl_head_dlmss.unity3d
+大力-分享-面纱-反光版-作者Q3344929957=[DALI] Compartilhamento Véu Reflexivo - Autor Q3344929957
+
+// chara/ao.unity3d
+夜莺-面罩=Máscara Nightingale
+
+// chara/sio/foxmask.unity3d
+狐面=Máscara de Raposa
+
+// chara/sio/foxmask2.unity3d
+狐面半分=Metade da Máscara de Raposa
+
+// chara/sio/fullmask.unity3d
+全頭マスク=Máscara de Cabeça Inteira
+
+// chara/gyobobo/gantz_face.unity3d
+ガンツ顎=Queixo de Gantz
+
+// chara/kky/ao_face_kky_basicshapes.unity3d
+基本図形：星2=Forma: Estrela 2
+基本図形：星3=Forma: Estrela 3
+基本図形：星4=Forma: Estrela 4
+基本図形：ハート2=Forma: Coração 2
+基本図形：爪=Forma: Unha
+基本図形：筒=Forma: Cilindro
+基本図形：筒2=Forma: Cilindro 2
+基本図形：パイプ1=Forma: Cano 1
+基本図形：パイプ2=Forma: Cano 2
+基本図形：台形1=Forma: Trapézio 1
+基本図形：台形2=Forma: Trapézio 2
+基本図形：矢印1=Forma: Flecha 1
+基本図形：矢印2=Forma: Flecha 2
+基本図形：矢印3=Forma: Flecha 3
+基本図形：穴あきキューブ=Forma: Cubo Perfurado
+基本図形：直角1=Forma: Ângulo Direito 1
+基本図形：直角2=Forma: Ângulo Direito 2
+基本図形：直角3=Forma: Ângulo Direito 3
+基本図形：三日月1=Forma: Lua Crescente 1
+基本図形：三日月2=Forma: Lua Crescente 2
+基本図形：三日月3=Forma: Lua Crescente 3
+基本図形：十字=Forma: Cruz
+基本図形：Ｖ字=Forma: V
+基本図形：穴あき楕円=Forma: Elipse Perfurada
+基本図形：先尖り棒=Forma: Barra Pontiaguda
+基本図形：三角=Forma: Triângulo
+基本図形：穴あき三角(通常)=Forma: Triângulo Perfurado (Normal)
+基本図形：弧1=Forma: Arco 1
+基本図形：弧2=Forma: Arco 2
+基本図形：弧3=Forma: Arco 3
+基本図形：四分円=Forma: Um Quarto De Círculo
+基本図形：半円=Forma: Semicírculo
+基本図形：五角形=Forma: Pentágono
+基本図形：六角形=Forma: Hexágono
+基本図形：穴あき六角形=Forma: Hexágono Perfurado
+基本図形：八角形=Forma: Octógono
+基本図形：頭=Forma: Cabeça
+基本図形：平面（通常）=Forma: Plano (Normal)
+基本図形：輪(通常)=Forma: Anel (Normal)
+基本図形：正台形(通常)=Forma: Trapézio Regular (Normal)
+基本図形：山型多角形1(通常)=Forma: Polígono Montanha 1 (Normal)
+基本図形：山型多角形2(通常)=Forma: Polígono Montanha 2 (Normal)
+基本図形：長六角形(通常)=Forma: Hexágono Longo (Normal)
+基本図形：長五角形（通常）=Forma: Pentágono Longo (Normal)
+基本図形：歪み三角柱(通常)=Forma: Prisma Distorcido Triangular (Normal)
+基本図形：マウス型右(通常)=Forma: Botão De Mouse Direito (Normal)
+基本図形：マウス型左(通常)=Forma: Botão De Mouse Esquerdo (Normal)
+基本図形：三角横台形(通常)=Forma: Trapézio Horizontal Triangular (Normal)
+基本図形：五角横台形(通常)=Forma: Trapézio Horizontal Pentagonal (Normal)
+基本図形：円形横台形(通常)=Forma: Trapézio Horizontal Circular (Normal)
+基本図形：ドロップ立体(通常)=Forma: Gota Sólida (Normal)
+基本図形：ドロップ平面(通常)=Forma: Gota Plana (Normal)
+基本図形：ひょうたん立体(通常)=Forma: Cabaça Sólida (Normal)
+基本図形：ひょうたん平面(通常)=Forma: Cabaça Plana (Normal)
+基本図形：角リング(通常)=Forma: Anel Cônico (Normal)
+基本図形：立体半円(通常)=Forma: Semicírculo Sólido (Normal)
+基本図形：立体四半円(通常)=Forma: Quarto De Esfera Sólido (Normal)
+基本図形：角型(通常)=Forma: Cone Angular (Normal)
+基本図形：直角形(通常)=Forma: Ângulo Reto (Normal)
+基本図形：斜ひし形(通常)=Forma: Losango Diagonal (Normal)
+基本図形：歪み台形(通常)=Forma: Trapézio Distorcido (Normal)
+基本図形：欠け四角(通常)=Forma: Cilindro Ausente (Normal)
+基本図形：二対多角形(通常)=Forma: Polígono De Dois Pares (Normal)
+基本図形：ヒレ型(通常)=Forma: Barbatana (Normal)
+基本図形：歪み多角形(通常)=Forma: Polígono Distorcido (Normal)
+基本図形：角なし斜ひし形(通常)=Forma: Losango Diagonal Sem Arestas (Normal)
+基本図形：角なし歪み台形(通常)=Forma: Trapézio Distorcido Sem Arestas (Normal)
+基本図形：角なし四角錐(通常)=Forma: Pirâmide Quadrada Sem Arestas (Normal)
+基本図形：角なし三角(通常)=Forma: Triângulo Sem Arestas (Normal)
+基本図形：角なし四角(通常)=Forma: Quadrado Sem Arestas (Normal)
+基本図形：筒四分(通常)=Forma: Quarto De Cilindro (Normal)
+基本図形：半ピラミッド(通常)=Forma: Semi-Pirâmide (Normal)
+基本図形：角なし半四角錐(通常)=Forma: Pirâmide Quadrada Sem Arestas (Normal)
+基本図形：半コーン(通常)=Forma: Meio Cone (Normal)
+基本図形：階段型(通常)=Forma: Degrau (Normal)
+基本図形：半カプセル(通常)=Forma: Meia Cápsula (Normal)
+
+// nullpon_gag_sarugutsuwa/nullpon_gag_sarugutsuwa/data_prefab_000.unity3d
+猿轡A=Mordaça A
+猿轡B1=Mordaça B1
+猿轡B2=Mordaça B2
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+[SENA]ドクロ仮面=[SENA] Máscara de Caveira

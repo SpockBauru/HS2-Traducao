@@ -1,0 +1,54 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/kkkk1111/hs_male_suits.unity3d
+HS男西装 裤子=Paletó de Terno Masculino HS
+
+// chara/sena_mod/sena_efsf_uni_m.unity3d
+//[SENA]EFSF制服A=
+
+// chara/sena_mod/sena_efsf_uni_g.unity3d
+//[SENA]EFSF制服B=
+
+// chara/sena_mod/sena_Lkuno1.unity3d
+//[SENA]忍者装束上=
+
+// chara/sena_mod/sena_m_dougi.unity3d
+//[SENA]道着=
+
+// chara/sena_mod/sena_m_dougi2.unity3d
+[SENA]道着(袖なし)=[SENA] Kimono (Sem Mangas)
+
+// chara/sena_mod/sena_mJersey.unity3d
+//[SENA]ジャージ=
+//[SENA]トレーニングシャツ=
+
+// chara/sena_mod/sena_m_sports.unity3d
+[SENA]ロングTシャツin=[SENA] Camiseta Comprida para Dentro
+[SENA]ロングTシャツout=[SENA] Camiseta Comprida para Fora
+[SENA]Tシャツ(3色色変)=[SENA] Camiseta (3 Cores)
+[SENA]Tシャツ（ノースリーブ）=Camiseta (Sem Mangas)
+
+// chara/sena_mod/sena_p_assault.unity3d
+//[SENA]アサルトスーツ上=
+//[SENA]防弾スーツ上=
+
+// chara/sena_mod/sena_pm01rp.unity3d
+//[SENA]警備出動服上=
+//[SENA]警備防護衣上=
+
+// chara/sena_mod/sena_pm02.unity3d
+//[SENA]警備シャツ=
+//[SENA]警備冬制服=
+
+// chara/sena_mod/sena_various03.unity3d
+//[SENA]ベースボールシャツIn=
+//[SENA]ベースボールシャツOut=
+
+// chara/sena_mod/sena_ym2199.unity3d
+//[SENA]YM制服一般=
+//[SENA]YM制服シャツin=
+
+// chara/sena_mod/sena_ym2199_k.unity3d
+//[SENA]YMパイロットスーツ=

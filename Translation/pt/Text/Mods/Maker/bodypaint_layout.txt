@@ -1,0 +1,6 @@
+//
+// Dumped for Honey Select 2 v1.2.3 by Mod Text Dump v0.6.0
+//
+
+// chara/thumb/bodypaint_layout
+下腹部=Virilha
