@@ -29,6 +29,9 @@ PH 空姐制服 丝带=PH Laço do Uniforme de Comissária de Bordo
 // chara/kunoichi_ac.unity3d
 kunoichi_scarf=Garota Ninja scarf
 
+// char/ljlsdq_kuangsan_shipin.unity3d
+kuangsan=Kurumi
+
 // chara/sena_mod/sena_anna_i.unity3d
 [SENA]AMネックレス=[SENA] Colar AM
 [SENA]AMリボン=[SENA] Laço AM
@@ -59,6 +62,9 @@ kunoichi_scarf=Garota Ninja scarf
 
 // chara/sena_mod/sena_leccee.unity3d
 [SENA]GHLネックレス=[SENA] Colar GHL
+
+// chara/sena_mod/sena_p_soudan.unity3d
+//[SENA]警・相談員名札=Polícia - Crachá de Conselheiro
 
 // chara/sena_mod/sena_pm_item01.unity3d
 [SENA]警備階級章=[SENA] Insígnia de Segurança

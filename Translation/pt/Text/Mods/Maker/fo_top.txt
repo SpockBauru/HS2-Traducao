@@ -260,7 +260,7 @@ TシャツBig=Camiseta Grande
 [SENA]バレーシャツM3=[SENA] Camisa de Vôlei M3
 
 // chara/sena_mod/sena_vb01b.unity3d
-[SENA]バレーシャツM4=[SENA] [SENA] Camisa de Vôlei M4
+[SENA]バレーシャツM4=[SENA] Camisa de Vôlei M4
 [SENA]バレーシャツM5(長袖)=[SENA] Camisa de vôlei M5 (mangas compridas)
 [SENA]バレーシャツM5(袖捲り)=[SENA] Camisa de vôlei M5 (Manga enrolada)
 [SENA]バレーシャツM6(長袖)=[SENA] Camisa de vôlei M6 (manga comprida)

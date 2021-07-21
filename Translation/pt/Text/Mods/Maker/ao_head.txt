@@ -132,6 +132,9 @@ kuangsan=Kurumi
 // chara/sena_mod/sena_p_assault_a.unity3d
 [SENA]防弾ヘルメット2=[SENA] Capacete a Prova de Balas 2
 
+// chara/sena_mod/sena_p_soudan.unity3d
+[SENA]警・相談員キャップ=[SENA] Polícia - Boné de Conselheiro
+
 // chara/sena_mod/sena_pm01rp.unity3d
 [SENA]警備出動帽=[SENA] Boné de Polícia
 [SENA]警備防護ヘルメット=[SENA] Capacete de Polícia

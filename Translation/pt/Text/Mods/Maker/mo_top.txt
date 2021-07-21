@@ -34,16 +34,21 @@ HS男西装 裤子=Paletó de Terno Masculino HS
 [SENA]アサルトスーツ上=[SENA] Uniforme de Assalto Superior
 [SENA]防弾スーツ上=[SENA] Uniforme de Assalto Blindado Superior
 
+// chara/sena_mod/sena_p_soudan.unity3d
+[SENA]警・相談員長袖=Polícia - Camisa de Manga Longa de Conselheiro
+[SENA]警・相談員半袖=Polícia - Camisa de Manga Curta de Conselheiro
+[SENA]警・相談員活動服=Polícia - Uniforme de Conselheiro
+
 // chara/sena_mod/sena_pm01rp.unity3d
 [SENA]警備出動服上=[SENA] Uniforme de Polícia Superior
-[SENA]警備防護衣上=[SENA] Uniforme de Polícia Blindado Superior
+[SENA]警備防護衣上=[SENA] Uniforme de Polícia Superior Blindado
 
 // chara/sena_mod/sena_pm02.unity3d
 [SENA]警備シャツ=[SENA] Camisa de Polícia
-[SENA]警備冬制服=[SENA] Camisa de Polícia de Inverno
+[SENA]警備冬制服=[SENA] Uniforme de Inverno de Polícia
 
 // chara/sena_mod/sena_various03.unity3d
-[SENA]ベースボールシャツIn=[SENA] Camisa de Basebol para Dentro
+[SENA]ベースボールシャツIn=[SENA] Camiseta de Basebol para Dentro
 [SENA]ベースボールシャツOut=[SENA] Camisa de Basebol para Fora
 
 // chara/sena_mod/sena_ym2199.unity3d
