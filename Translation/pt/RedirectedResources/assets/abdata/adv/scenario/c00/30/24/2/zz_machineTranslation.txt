@@ -1,24 +1,15 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
-//私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Você gostou de transar comigo? Será que eu? Bem, foi... Ok, não foi ótimo, certo?
-とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=Foi um momento muito gratificante. Sinto que poderia ter um bom relacionamento com você.
-//好意{0}=Favores {0}
-何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Você teve alguma reclamação? Gostaríamos de ouvir sua opinião honesta.
-この様な快感があるとは……初めて知りました。きっと私たちは身体の相性が良いのでしょうね=Eu nunca conheci tal prazer... Antes. Tenho certeza de que devemos ter uma grande química física.
-//享楽{0}=Prazer {0}
-快楽に溺れるという言葉の意味、この身で実感しました。=Percebi com meu próprio corpo o significado da palavra "afogamento no prazer".
-なるほど……あなたとのセックス、これからが楽しみです。本日はどうもありがとうございました。=Bem... Sexo com você, eu estou ansioso por isso. Muito obrigado por hoje.
-//嫌悪{0}=Repugnância {0}
-お疲れさまでした。　本日は解散と致しましょう。出来れば、これきりな事を願わせて頂きます。=Obrigado por seu trabalho árduo. Vamos dissolver por hoje. Se possível, esperemos que esta seja a última vez.
-ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... Não posso negar a incompatibilidade de nossos corpos, mas não de nossas mentes. Acho que seria melhor convidar outras pessoas a partir de agora.
-//隷属{0}=Escravidão {0}
-ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Hmmm... Desculpe, parece que depois de apenas um encontro de pele com pele, eu me tornei um prisioneiro de sexo com você.
-//セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=Você acabou de fazer sexo e já está à procura de outra oportunidade. Ficarei esperando seu convite.
-//壊れ{0}=Quebrado {0}
-あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Eu quero viver...
-ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Bem... Ser assustador é muito legal, não é?
-//依存{0}=Depende (0)
-この程度で満足されては困ります。　私は掴んだら放さない女ですから……覚悟、しておいてくださいね？=Não quero que você fique satisfeito com este nível. Sou o tipo de mulher que não a larga depois de eu a agarrar... Então, por favor, esteja preparada, está bem?
-私を魅了してしまった以上、あなたに選択肢は御座いません。あなたは私と共に果てる運命にあるのですから……ふふっ。=Agora que você me encantou, não tem escolha. Você está destinado a morrer comigo...
+とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=Foi um tempo muito gratificante. Acho que vamos ter um bom relacionamento juntos.
+何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Você teve alguma reclamação? Por favor, me dê sua opinião honesta.
+この様な快感があるとは……初めて知りました。きっと私たちは身体の相性が良いのでしょうね=Esta é a primeira vez que sinto tanto prazer. Devemos ter uma boa química. 
+快楽に溺れるという言葉の意味、この身で実感しました。=Portanto, é isto que significa "afogar-se no prazer".
+なるほど……あなたとのセックス、これからが楽しみです。本日はどうもありがとうございました。=Estou vendo... Estou ansioso pela próxima vez que faremos sexo. Muito obrigado por seu tempo hoje.
+お疲れさまでした。　本日は解散と致しましょう。出来れば、これきりな事を願わせて頂きます。=Obrigado por seu trabalho árduo. Vamos parar aqui. Esperamos que não haja uma próxima vez. 
+ふぅ……身体の相性はともかく、心の相性の悪さが否めません。これからは、他の方をお誘いした方が良いかと思います。=Hmm... A compatibilidade de nossos corpos à parte, parece que nossas personalidades não combinam. De agora em diante, acho que é melhor convidar outra pessoa.
+ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Ah... Desculpe, acho que fiquei dependente de fazer sexo com você depois de apenas um encontro de pele com pele.
+あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Aaaah... S...pare com isso... Qu...ero viver.
+ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Hihihi.... V-você é... o melhor!
+この程度で満足されては困ります。　私は掴んだら放さない女ですから……覚悟、しておいてくださいね？=Não vou ficar satisfeito só com isto. Eu sou uma mulher que não largará seu alvo... Então esteja preparado, está bem?
+私を魅了してしまった以上、あなたに選択肢は御座いません。あなたは私と共に果てる運命にあるのですから……ふふっ。=Agora que você captou meu interesse, não tem outra escolha. Estamos destinados a ficar juntos... Olá.

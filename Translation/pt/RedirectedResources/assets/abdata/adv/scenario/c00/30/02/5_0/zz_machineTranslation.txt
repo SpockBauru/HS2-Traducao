@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//HしようA普通{0}=Vamos fazer sexo. A. Normal {0}
-勿論、私は喜んでお付き合い致します。=É claro que fico feliz em obrigar.
-三人でというのも愉しめそうですね。=Eu acho que seria divertido para nós três.
-//HしようA好意{0}=Eu lhe farei um favor.
-そう望まれるのでしたら、お付き合い致します。=Se é isso que você quer, nós vamos sair com você.
-三人で……少々不安はありますが、お任せください。=Nós três... Estamos um pouco nervosos, mas vamos cuidar disso.
-//HしようA享楽{0}=Vamos fazer isso.
-言うまでもなく、私の返答は決まっています。=Escusado será dizer que minha resposta está definida.
-女一人では物足りないと？　大変逞しい精力ですね。=Uma mulher não é suficiente para você? Você é um homem muito forte.
-//HしようA嫌悪{0}=Vamos sexo. A. Hate {0}
-……そうですね、彼女が反対しないのであれば構いません。=... Bem, sim, se ela não se opõe, tudo bem.
-もう一人確認する相手がいるのでは？=Você não tem outra pessoa com quem verificar?
-//HしようA隷属{0}=Vamos sexo Um escravo {0}
+勿論、私は喜んでお付き合い致します。=É claro, eu ficaria feliz em fazer-lhe companhia.
+三人でというのも愉しめそうですね。=Eu acho que seria divertido para nós três. 
+そう望まれるのでしたら、お付き合い致します。=Se é isso que você quer, eu me juntarei a você.
+三人で……少々不安はありますが、お任せください。=Nós os três... Estou um pouco nervoso, mas vou fazer isso.
+言うまでもなく、私の返答は決まっています。=Escusado será dizer que já decidi sobre a minha resposta.
+女一人では物足りないと？　大変逞しい精力ですね。=Uma mulher não é suficiente para você? Você tem muita energia, não tem?
+……そうですね、彼女が反対しないのであれば構いません。=...Vamos ver, se ela não se opuser, por mim tudo bem.
+もう一人確認する相手がいるのでは？=Não há outra pessoa com quem você deveria verificar também?
 ええ、断る理由がございません。=Sim, eu não tenho motivos para recusar.
-やはり3Pのお誘いでしたか、当然お付き合い致します。=Afinal, foi um convite para uma ménage à trois, é claro que eu alinharei.
+やはり3Pのお誘いでしたか、当然お付き合い致します。=Eu imaginei que você quisesse que eu me juntasse a uma trio, é claro que eu irei junto com você.

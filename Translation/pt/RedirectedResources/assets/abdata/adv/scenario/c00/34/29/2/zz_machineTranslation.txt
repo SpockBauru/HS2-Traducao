@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-これからお風呂ですか？　ちょうど空いたところですよ。=Você está tomando banho agora? Está quase vazio.
-もう少し私が遅く来ていれば、一緒に入れたのですが……残念です。=Se eu tivesse vindo um pouco mais tarde, eu poderia ter me juntado a vocês... Infelizmente.
-ああ、覗きですか。着替えも持たずにお風呂場にいらっしゃるのですから、自白している様なものですよ。=Ah, você quer dizer espreitar. Você está no banheiro sem uma muda de roupa, então é como se estivesse confessando.
-さっぱりした気分が台無しです。=Isso arruinou minha sensação de refrescamento.
-覗いていらしたのですか？　事前に仰っていただければ、もっと扇情的に致しましたのに。=Você estava espreitando para mim? Se você tivesse me dito antes, eu o teria tornado mais sensacional.
+これからお風呂ですか？　ちょうど空いたところですよ。=Você quer tomar um banho agora? Eu estava prestes a sair.
+もう少し私が遅く来ていれば、一緒に入れたのですが……残念です。=Se eu tivesse vindo um pouco mais tarde, poderia ter me juntado a vocês... Que pena.
+ああ、覗きですか。着替えも持たずにお風呂場にいらっしゃるのですから、自白している様なものですよ。=Ah, você estava espreitando? Estar aqui sem uma muda de roupa é um pouco de dar.
+さっぱりした気分が台無しです。=Isto arruinou totalmente meu estado de espírito refrescante.
+覗いていらしたのですか？　事前に仰っていただければ、もっと扇情的に致しましたのに。=Você queria dar uma olhada? Você deveria ter acabado de dizer e eu teria lhe dado um espetáculo mais sensacional.

@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//H事後B普通{0}=Sexo posterior B normal {0}
-ここでお開きですか？　それではまた。=Já terminamos aqui? Nos vemos mais tarde.
-また三人でするのも、悪くなさそうです。=Não é uma má idéia para nós três fazermos isso novamente.
-//H事後B好意{0}=Sexo posterior B favor {0}
-それでは、失礼します。次のお誘いも待っていますね。=Agora, se me dão licença. Estarei esperando seu próximo convite.
-3Pも悪くありませんが……いえ、何でもありません。失礼します。=Três pessoas não são tão ruins assim, mas... Não, não é nada. Desculpe-me.
-//H事後B享楽{0}=Sexo poste B gozo {0}
-次の機会が大変待ち遠しいです。=Estou muito ansioso para a próxima oportunidade.
-名残惜しいですが、ここで終わりですね。=Sinto muito por deixá-lo, mas acho que terminamos aqui.
-//H事後B嫌悪{0}=Aversão sexo posterior B {0}
-……では、失礼致します。=... Agora, se me dão licença.
-……さようなら。=... Adeus.
-//H事後B隷属{0}=Subjugação sexo posterior B {0}
-この続きはまたの機会に。では、失礼致します。=Continuaremos isto em outro momento. Agora, se me dão licença.
-またいつでもお誘いをお持ちしています。さようなら。=Estamos ansiosos para tê-lo de volta a qualquer momento. Adeus.
+ここでお開きですか？　それではまた。=Já terminamos aqui? Então, nos vemos mais tarde.
+また三人でするのも、悪くなさそうです。=Não parece uma má idéia para nós três fazermos isso novamente algum dia.
+それでは、失礼します。次のお誘いも待っていますね。=Agora, se me dão licença. Estarei esperando o seu próximo convite.
+3Pも悪くありませんが……いえ、何でもありません。失礼します。=As três pessoas não são tão ruins, mas... Não, não é nada. Desculpe-me.
+次の機会が大変待ち遠しいです。=Mal posso esperar pela próxima oportunidade.
+名残惜しいですが、ここで終わりですね。=Por mais relutante que eu possa estar, acho que isto a encerra.
+……では、失礼致します。=...Agora, vou me retirar.
+……さようなら。=...Adeus.
+この続きはまたの機会に。では、失礼致します。=Continuaremos isto em outro momento. Agora, por favor, me desculpem.
+またいつでもお誘いをお持ちしています。さようなら。=Por favor, convide-me novamente a qualquer momento. Adeus.

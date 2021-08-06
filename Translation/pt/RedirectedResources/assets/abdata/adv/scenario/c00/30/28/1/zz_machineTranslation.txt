@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-堂々とお覗きになるのですね。その大胆さに感服致します。=Você é tão ousado de espreitar. Admiro sua ousadia.
-覗きなどせずとも、仰ってくだされば喜んで一緒に入りますのに。=Você não precisa espreitar, basta me dizer e eu entrarei com prazer com você.
-あなたから見えやすいようにしておりましたが、お愉しみいただけましたか？=Tornamos fácil para você ver, mas esperamos que tenha gostado.
-……押し入ってこなかっただけ、まだ良かったと思うことにします。=... Considerarei bom que eles não tenham invadido.
-あなたの熱い視線が突き刺さるものですから、身体が火照ってしまいました。=Seu olhar quente me perfurava, e meu corpo estava em chamas.
+堂々とお覗きになるのですね。その大胆さに感服致します。=Você nem se preocupa em se esconder. Eu admiro sua ousadia.
+覗きなどせずとも、仰ってくだされば喜んで一緒に入りますのに。=Não é preciso espreitar. Ficaria feliz em deixar você se juntar a mim se quiser.
+あなたから見えやすいようにしておりましたが、お愉しみいただけましたか？=Tornei fácil para você ver. Você gostou da vista?
+……押し入ってこなかっただけ、まだ良かったと思うことにします。=...acho que eu deveria estar feliz por você não ter invadido, pelo menos.
+あなたの熱い視線が突き刺さるものですから、身体が火照ってしまいました。=Seu olhar quente me perfurava, e meu corpo estava queimando.

@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
-……好きな人になら何をされても嬉しい、という考えにはあまり賛同できません。=... Não concordo muito com a idéia de que se você ama alguém, você é feliz, não importa o que ele faça com você.
-……そうですね……個人的には嫌いではありませんが……人を選ぶプレイですから、きちんと確認は取るべきかと。=... Bem... Eu pessoalmente não desgosto disso... Mas é uma peça que escolhe seu povo, então eu acho que uma confirmação adequada deve ser obtida.
-//好意{0}=Favores {0}
-――恋は落ちるものと言いますし、人を好きになるのに特別な理由はないのかもしれません。=--Dizem que o amor cai, e pode não haver nenhuma razão particular para se apaixonar por alguém.
-……なるほど。好きな人に尽くしたいと思うのは当たり前の感情だと思っていたのですが、そうではなかったのですね。=... Estou vendo. Pensei que era uma emoção natural querer se dedicar à pessoa que você ama, mas não era, não é mesmo?
-//享楽{0}=Prazer {0}
-――結果的に快楽を得られるのであれば、過程はそこまで重視しませんね。=--Não me importo muito com o processo, desde que o resultado seja agradável.
-……私には理解出来ませんが、それも一つの愛の形なのでしょうね。=... Não entendo, mas acho que é uma forma de amor.
-//嫌悪{0}=Repugnância {0}
-……リアクションに困る話題を振らないでください。=... Não fale sobre tópicos aos quais você não pode reagir.
-はぁ……自分がされて嬉しかったからといって、他の人も喜ぶと思わないでください。=Huh... Não pense que só porque você ficou feliz por ser tratado, os outros também ficarão felizes.
-//隷属{0}=Escravidão {0}
-人はもっと自分の欲求に対して正直になるべきだと思いませんか？　勿論、限度はありますが。=Você não acha que as pessoas deveriam ser mais honestas sobre suas necessidades? Naturalmente, há limites.
-誰もが皆、マゾヒストな自分を隠して生きていると私は信じて疑いません。=Não tenho dúvidas de que todos vivem suas vidas escondendo seu eu masoquista.
+……好きな人になら何をされても嬉しい、という考えにはあまり賛同できません。=...não concordo muito que se esteja disposto a fazer qualquer coisa pela pessoa que ama.
+……そうですね……個人的には嫌いではありませんが……人を選ぶプレイですから、きちんと確認は取るべきかと。=...vejo... Eu pessoalmente não me importo... Mas como vai incluir outra pessoa também, acho que devemos escolher cuidadosamente.
+――恋は落ちるものと言いますし、人を好きになるのに特別な理由はないのかもしれません。=-- É dito "apaixonar-se", mas acho que não há nenhuma razão particular para se apaixonar por alguém.
+……なるほど。好きな人に尽くしたいと思うのは当たり前の感情だと思っていたのですが、そうではなかったのですね。=...estou vendo. Pensei que era natural querer se dedicar à pessoa que você ama, mas não é, não é?
+――結果的に快楽を得られるのであれば、過程はそこまで重視しませんね。=-- Desde que o resultado seja agradável, eu não me importo com o processo. 
+……私には理解出来ませんが、それも一つの愛の形なのでしょうね。=Eu realmente não entendo, mas acho que essa também é uma forma de amor.
+……リアクションに困る話題を振らないでください。=...Por favor, não comecem tópicos que o façam se preocupar com minha reação.
+はぁ……自分がされて嬉しかったからといって、他の人も喜ぶと思わないでください。=Haaaa... Por favor, não assuma que outras pessoas gostam das mesmas coisas que o fazem feliz.
+人はもっと自分の欲求に対して正直になるべきだと思いませんか？　勿論、限度はありますが。=Você não acha que as pessoas não deveriam ser mais honestas com seus desejos? É claro, dentro dos limites.
+誰もが皆、マゾヒストな自分を隠して生きていると私は信じて疑いません。=Acredito que todos vivem sua vida escondendo seu eu masoquista. 

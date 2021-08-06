@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//前フリA普通{0}=Prelúdio A Normal {0}
-成程、興味深いです。……ああ、どうも。=Bem, isso é interessante... Oh, obrigado.
-参考にさせていただきます。……ああ、こんにちは。=Vou tomar isso como referência... Oh, olá.
-//前フリA好意{0}=Prelúdio A Favor {0}
-それは素敵ですね。……ん？　あなたもいらっしゃったのですね、こんにちは。=Isso é adorável... Hmm? Então você também está aqui, olá.
-ロマンチックでうっとりします。……あなたでしたか、今日もお元気そうですね。=É romântico e encantador... Era você? Você está com bom aspecto hoje.
-//前フリA享楽{0}=Prelúdio A Kyouraku {0}
-それはそれは……ん？　女の色香に誘われましたか？=É isso aí... Hmm? O sexo de uma mulher lhe atraiu?
-詳しく聞かせていただけますか？　……ああ、女を求めて彷徨われているのですね？=Você pode nos dizer mais? Oh, você está vagando em busca de uma mulher, não está?
-//前フリA嫌悪{0}=Prelúdio A Disgust {0}
-あまり賛同できませんね……見ての通り談笑中ですが、何か？=Eu não concordo com isso... Como você pode ver, estamos tendo uma conversa.
-本当にそうでしょうか……なんでしょう？　話の途中なのですが。=É realmente... O que é isso? Estou no meio de uma história.
-//前フリA隷属{0}=Prelúdio Um Escravo {0}
-一理ありますね。……おや？　こんなところで奇遇ですね。=Você tem razão... Hmm? É uma estranha coincidência que você esteja aqui.
-そういった考え方もあるのですね。……ん？　あなたでしたか、こんにちは。=Então é assim que você pensa... Hmm? Era você? Olá.
+成程、興味深いです。……ああ、どうも。=Estou vendo, isso é interessante. ...Oh, obrigado.
+参考にさせていただきます。……ああ、こんにちは。=Vou usar isto como referência. ...Ah, olá.
+それは素敵ですね。……ん？　あなたもいらっしゃったのですね、こんにちは。=Isso é adorável. ...Hm? Ah, estou vendo que você também está aqui. Olá.
+ロマンチックでうっとりします。……あなたでしたか、今日もお元気そうですね。=É romântico e encantador. ...É você? Você está com bom aspecto hoje.
+それはそれは……ん？　女の色香に誘われましたか？=Bem, bem... Bem... Você foi atraído aqui pelo apelo de uma mulher?
+詳しく聞かせていただけますか？　……ああ、女を求めて彷徨われているのですね？=Você pode me dizer mais sobre isso? ...Ah, você está se perguntando por aí em busca de uma mulher?
+あまり賛同できませんね……見ての通り談笑中ですが、何か？=Eu realmente não concordo... O que você quer? Como você pode ver, estamos tendo uma conversa.
+本当にそうでしょうか……なんでしょう？　話の途中なのですが。=É assim... O que é isso? Estamos no meio de uma conversa.
+一理ありますね。……おや？　こんなところで奇遇ですね。=-- Você tem um ponto. ...Oh? Que coincidência encontrá-lo aqui.
+そういった考え方もあるのですね。……ん？　あなたでしたか、こんにちは。=Acho que esse também é um ponto de vista. ...Oh! É você. Olá.

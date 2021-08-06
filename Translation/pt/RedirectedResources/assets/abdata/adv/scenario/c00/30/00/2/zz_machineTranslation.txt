@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
-返答は当然イエスですよ。=A resposta é sim, é claro.
-断る理由はありません、お付き合い致します。=Não há motivo para dizer não. Nós iremos com você.
-//好意{0}=Favores {0}
-お誘いいただき誠にありがとうございます。喜んでお相手致します。=Muito obrigado por seu convite. Terei o maior prazer em ser seu parceiro.
-それはそれは。では善は急げと言いますから、直ぐに繋がり合いましょう。=Ora, ora, ora, ora. Bem, então, como dizem, tudo é para o melhor, então vamos nos conectar imediatamente.
-//享楽{0}=Prazer {0}
-そう仰ると思い、既に股を濡らしておりました。今すぐ挿入可能ですよ？=Pensei que você diria isso, e eu já estava molhando minha virilha. Você pode inseri-lo agora mesmo.
-私も身体が疼いておりましたので、そのお誘いは渡りに船でございます。=Meu corpo também estava doendo, então a oferta foi ótima.
-//嫌悪{0}=Repugnância {0}
-では、直ぐにいたしましょうか。=Bem, vamos direto ao assunto, certo?
-十中八九そう仰ると思ってました。本当にセックスのことしか頭にないのですね。=Pensei que você diria que em dez. Você realmente só se importa com sexo, não é mesmo?
-//隷属{0}=Escravidão {0}
-やはりセックスのお誘いでしたか。勿論、お相手致します。=Eu sabia que você estava me pedindo para fazer sexo com você. É claro que farei sexo com você.
-いつお誘いがあっても問題ないよう、身体は整えております。早速始めましょう。=Nossos corpos estão prontos para qualquer momento que você pedir. Vamos começar agora mesmo.
+返答は当然イエスですよ。=Naturalmente, a resposta é sim.
+断る理由はありません、お付き合い致します。=Não tenho motivos para recusar, vou fazer-lhe companhia.
+お誘いいただき誠にありがとうございます。喜んでお相手致します。=Obrigado por seu convite. É um prazer ser seu parceiro.
+それはそれは。では善は急げと言いますから、直ぐに繋がり合いましょう。=Ora, ora, ora. Eles dizem "capturar o momento", então vamos nos reunir imediatamente.
+そう仰ると思い、既に股を濡らしておりました。今すぐ挿入可能ですよ？=Eu fiquei molhado pensando que você diria isso. Você pode inseri-lo agora mesmo?
+私も身体が疼いておりましたので、そのお誘いは渡りに船でございます。=Meu corpo estava doendo, por isso seu convite é muito bem-vindo.
+では、直ぐにいたしましょうか。=Então, vamos direto ao assunto.
+十中八九そう仰ると思ってました。本当にセックスのことしか頭にないのですね。=Eu não estava esperando mais nada. Você só quer saber de sexo, não é mesmo?
+やはりセックスのお誘いでしたか。勿論、お相手致します。=Como eu pensava, trata-se de um pedido sexual. É claro, vou cumpri-la.
+いつお誘いがあっても問題ないよう、身体は整えております。早速始めましょう。=Em antecipação ao seu convite, eu mantenho meu corpo sempre pronto. Podemos começar imediatamente. 

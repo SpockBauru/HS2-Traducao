@@ -1,6 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//セリフ{0}=Serif {0}
-……愛人との情事に勤しむのは構いませんが、大切なことをお忘れではありませんか？　私のこともしっかり愛してくださいね。=... Você pode se entregar ao seu caso amoroso com sua amante, mas está esquecendo algo muito importante. Por favor, certifique-se de que você também me ama.
-随分とお愉しみだったようですね。私も幸せのご相伴に与りたいものです。……もちろん構いませんよね？=Parece que você se divertiu muito. Gostaria de poder ser parte de sua felicidade... Claro que você não se importa, não é mesmo?
+……愛人との情事に勤しむのは構いませんが、大切なことをお忘れではありませんか？　私のこともしっかり愛してくださいね。=Eu não me importo que você tenha outros amantes, mas você não está esquecendo algo importante? Por favor, não se esqueça de me amar também.
+随分とお愉しみだったようですね。私も幸せのご相伴に与りたいものです。……もちろん構いませんよね？=Parece que você já se divertiu muito. Gostaria de participar de sua felicidade... Você obviamente não se importaria com isso, certo?

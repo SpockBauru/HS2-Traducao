@@ -1,10 +1,9 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//嫌悪{0}=Repugnância {0}
-ここであれば、何でも許されると思っていませんか？　それは違いますよ。=Você acha que tudo é permitido aqui? Isso não é verdade.
+ここであれば、何でも許されると思っていませんか？　それは違いますよ。=Você acha que vale alguma coisa aqui? Não é assim que as coisas são.
 あなたに手錠がかかる日が楽しみですね。=Aguardo ansiosamente o dia em que você estará algemado.
-はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=Huh... Por que você fica tão orgulhoso de si mesmo por molestar as pessoas?
-あなたには恥という感情が欠落しているのでしょうね。=Você deve estar sem a emoção da vergonha.
-よく平気で人が嫌がることを出来ますね。心がないのですか？=Como você pode fazer coisas de que as pessoas não gostam impunemente? Você não tem coração?
-良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=Se você não tem a consciência pesada, então você é o tipo de pessoa que não deveria estar no mundo.
+はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=Haaah... Como você pode parecer tão orgulhoso depois de molestar alguém?
+あなたには恥という感情が欠落しているのでしょうね。=Você não deve ter vergonha.
+よく平気で人が嫌がることを出来ますね。心がないのですか？=Você faz coisas que as pessoas odeiam com impunidade. Você não tem coração?
+良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=Se você não tem nenhum remorso, você é do tipo que não deveria ser autorizado a vaguear livre.

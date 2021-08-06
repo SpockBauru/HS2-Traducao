@@ -1,18 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
-勘違いでしたか、失礼しました。=Sinto muito, isso foi um erro.
-そうですか。何かありましたら、お声がけください。=Certo. Se houver algo que eu possa fazer por você, por favor, me avise.
-//好意{0}=Favores {0}
-そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=Estou vendo. Foi um pouco de tempo, mas tive o prazer de falar com você. Por tanto tempo.
-私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=Fico feliz que você me tenha visto e aproveitei para dizer olá.
-//享楽{0}=Prazer {0}
-そうですか、セックスできると思っていたので残念です。=Bem, é uma pena, porque eu esperava que pudéssemos transar.
-では、性欲が高まった際にでも、お声がけください。=Agora, por favor, me informe se você tiver alguma dúvida, mesmo que seja quando seu desejo sexual aumentar.
-//嫌悪{0}=Repugnância {0}
-特にないのでしたら、私はこれで。=Se não houver nada de especial, eu o aceitarei.
-私も用はないので、失礼致します。=Eu também não tenho nenhum negócio aqui, portanto, se me dão licença.
-//隷属{0}=Escravidão {0}
-……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=... Sua intenção era aumentar meu desejo sexual, deixando-me sozinho por algum tempo? Então, até logo.
-犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=Eu esperava que você me violasse, mas acho que não estava com disposição para isso.
+勘違いでしたか、失礼しました。=Sinto muito se entendi mal.
+そうですか。何かありましたら、お声がけください。=Estou vendo. Por favor, me avise se houver mais alguma coisa que eu possa fazer por você.
+そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=Estou vendo. Fiquei feliz em conversar com você por um tempo. Bem, então.
+私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=Fico feliz que você tenha se dado ao trabalho de falar comigo.
+そうですか、セックスできると思っていたので残念です。=Estou vendo. É uma armadilha que não podíamos fazer sexo.
+では、性欲が高まった際にでも、お声がけください。=Depois, avise-me quando estiver no clima.
+特にないのでしたら、私はこれで。=Se não houver nada em particular, eu estarei a caminho.
+私も用はないので、失礼致します。=Eu também não tenho negócios aqui, portanto me despunirei.
+……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=Sua intenção é aumentar minha luxúria, deixando-me sozinho por mais tempo? Então, nos vemos mais tarde.
+犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=Eu esperava que você me fodesse, mas parece que não foi esse o caso.

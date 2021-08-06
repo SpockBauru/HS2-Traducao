@@ -1,14 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=Desculpe incomodá-lo tão repentinamente. Você se importaria de passar um pouco de tempo comigo?
-//好意50_汎用{0}=Favors 50_ Genéricos {0}
-無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=Inconscientemente, estávamos caminhando perto da sala. Espero que hoje você possa ficar conosco por um tempo.
-お会いしたいという気持ちを抑えることができず……申し訳ございません。=Não pude resistir ao desejo de conhecê-lo... E sinto muito.
-あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=Quando estou ao seu lado, sinto-me à vontade. Posso mimá-lo novamente hoje?
-//好意50続き{0}=Favores 50 continuou {0}
-誠にありがとうございました。……それでは、私はこれで失礼致します。=Muito obrigado por seu tempo... Então, vou deixá-lo agora.
-もう少しだけ……いえ、何でもありません。誠にありがとうございました。=Só um pouco mais... Não, nada. Muito obrigado por seu tempo.
-とても幸せで、かけがえのない時間をありがとうございます。=Obrigado por um tempo muito feliz e inestimável.
-ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=De repente, tive vontade de conhecê-lo... E sinto muito por entrar de barcaça.
-//好意80_汎用{0}=Favores 80_ Genéricos {0}
+突然お邪魔してすみません。少しだけ私とお付き合いいただけないでしょうか？=Desculpe incomodá-lo tão repentinamente. Eu estava me perguntando, você me faria companhia por um tempo?
+無意識のうちに、お部屋の近くまで足を運んでおりました。今日も少しだけお付き合いいただけると嬉しいです。=Vaguei pelo seu quarto sem me dar conta. Eu ficaria feliz se você pudesse ficar comigo por um pouco hoje.
+お会いしたいという気持ちを抑えることができず……申し訳ございません。=Eu peço desculpas, mas... não pude resistir ao impulso de vê-lo.
+あなたのお傍にいると、心が安らぐのを実感致します。今日も甘えてもよろしいでしょうか？=Quando estou ao seu lado, sinto-me à vontade. Você me estragaria novamente hoje?
+誠にありがとうございました。……それでは、私はこれで失礼致します。=Muito obrigado por seu tempo... Então, por favor, com licença.
+もう少しだけ……いえ、何でもありません。誠にありがとうございました。=Só um pouco mais... Não, não é nada. Muito obrigado pelo seu tempo.
+とても幸せで、かけがえのない時間をありがとうございます。=Obrigado por me dar um tempo tão feliz e inestimável.
+ふと、あなたにお会いしたくなりまして……押しかけてしまい申し訳ございません。=Tive um súbito desejo de conhecê-lo... Sinto muito por impor.

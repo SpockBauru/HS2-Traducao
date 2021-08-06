@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-せっかちな方ですね。押しかけずとも、私は逃げたりしませんよ？=Você é um homem impaciente. Você não precisa me invadir. Eu não vou fugir, está bem?
-入浴の時間も待てないほど、焦がれてくださったのですか？　嬉しいです。=Você estava tão impaciente que nem podia esperar para tomar um banho? Estou feliz.
-……お風呂中の私を想像されていたのですか？　もう固く膨らんでいますよ。=... Você estava me imaginando no banho? Você já está duro e inchado.
-……TPOをわきまえるべきではないでしょうか？=... Você não deveria respeitar a ocasião?
-……。すみません、突然のことでしたので、身体の準備は万全ではありませんが……どうぞお使いください。=... Desculpe, foi tão repentino que meu corpo não está totalmente preparado... Mas, por favor, use-o.
+せっかちな方ですね。押しかけずとも、私は逃げたりしませんよ？=Você está impaciente, não está? Eu não teria fugido mesmo sem você me encurralar.
+入浴の時間も待てないほど、焦がれてくださったのですか？　嬉しいです。=Você estava com tanta pressa que não podia esperar pela sua vez de tomar banho? Estou feliz.
+……お風呂中の私を想像されていたのですか？　もう固く膨らんでいますよ。=...Você estava me imaginando dentro do banho? Olhe, você já está duro.
+……TPOをわきまえるべきではないでしょうか？=... Você não está ciente de que isso é altamente inadequado? 
+……。すみません、突然のことでしたので、身体の準備は万全ではありませんが……どうぞお使いください。=...sinto muito, isto é bastante repentino, então ainda não terminei de preparar meu corpo, mas... Você é bem-vindo a usá-lo.

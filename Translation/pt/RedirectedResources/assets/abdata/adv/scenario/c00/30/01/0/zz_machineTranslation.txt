@@ -1,13 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//汎用{0}=Objetivo Geral {0}
-私を探しにきてくださったのですか？　わざわざありがとうございます。=Você veio me procurar? Obrigado por terem vindo de tão longe.
-ここまでの道すがら、他の方を抱いてはいませんか？=Você tem segurado mais alguém no caminho para cá?
-会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=Será o destino que ele veio bem na minha frente, exatamente quando eu queria vê-lo?
-//風呂{0}=Banho {0}
-こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=Olá. Você veio até o banheiro para me encontrar.
-お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=É um prazer vê-lo. Eu estava pensando em tomar um banho, mas vou parar.
-//用件{0}=Negócios {0}
-用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=Não é preciso me dizer o que se quer. Você veio aqui para transar comigo, não é mesmo?
-大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=Tudo bem. Eu entendo o que você está pedindo. Você está me pedindo para transar com você, não está? Que tipo de peça você gostaria de ver hoje?
+私を探しにきてくださったのですか？　わざわざありがとうございます。=Você veio à minha procura? Obrigado por ter se dado ao trabalho.
+ここまでの道すがら、他の方を抱いてはいませんか？=Você curtiu com outra pessoa ao longo do caminho?
+会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=Aparecendo diante de mim bem no momento em que eu mais queria... É este o destino?
+こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=Olá. Você se deu ao trabalho de me procurar até o banheiro, eu vejo.
+お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=Estou feliz em vê-lo. Eu estava prestes a tomar banho, mas vou parar.
+用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=Não há necessidade de me dizer o que você quer. Você veio aqui para transar comigo, certo?
+大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=Está tudo bem, eu entendo o que você quer. Você está me pedindo para transar com você, certo? Como você gostaria de fazer isso hoje?
