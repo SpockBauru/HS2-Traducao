@@ -6,7 +6,7 @@
 それで、何か用ですか？=Então, o que posso fazer por você?
 //前フリB好意{0}=Prelúdio B Favor {0}
 何か私達に聞きたい事でも？=Há alguma coisa que você queira nos perguntar?
-別に、あなたの話なんてしてませんよ……？=Eu não estou falando de você?
+//別に、あなたの話なんてしてませんよ……？=Eu não estou falando de você?
 //前フリB享楽{0}=Prelúdio B Kyouraku {0}
 噂をすればなんとやら、ですかね？=Falando no diabo, eh?
 で、私達に何か？=Então, o que você quer de nós?

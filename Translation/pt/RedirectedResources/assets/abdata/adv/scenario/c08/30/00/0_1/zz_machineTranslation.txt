@@ -32,7 +32,7 @@
 //汎用隷属{0}=Escravidão de Propósito Geral {0}
 私ーさっきオナニーしてたんすけどーなんかいつもと違うっすかー？=Eu estava me masturbando agora mesmo... É diferente do normal?
 あーセックスしたいっすねー犯されたいすねー。=Quero transar... Quero ser fodida...
-どもーいきなりなんすけどー私のこと思い切り犯し尽くしたくないすかー？=Ei, eu estou sem nada, mas você não quer me foder o mais forte que puder?
+//どもーいきなりなんすけどー私のこと思い切り犯し尽くしたくないすかー？=Ei, eu estou sem nada, mas você não quer me foder o mais forte que puder?
 //汎用隷属用件{0}=Uso Geral da Escravatura {0}
-すみませんムラムラしすぎて飛ばし過ぎたっすー、何の用すかー？=Desculpe, estou tão excitado que voei muito rápido. O que você quer?
+//すみませんムラムラしすぎて飛ばし過ぎたっすー、何の用すかー？=Desculpe, estou tão excitado que voei muito rápido. O que você quer?
 ってー、セックスするって話じゃなかったすかー？　何の話すかー？=Pensei que estávamos falando em fazer sexo. Do que você está falando?
