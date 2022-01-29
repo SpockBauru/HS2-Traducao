@@ -27,7 +27,7 @@
 ……ご不満な点があるのでしたら、言っていただけませんか？=... Se você tiver alguma reclamação, poderia nos dizer, por favor?
 れぉ、ちろ……こえ、きもひいんれふか？(これ、気持ちいいんですか？)=(Isto é bom?)
 ちる、れる……たのひくないれふれ……(楽しくないですね)=(Não é divertido)
-ん……存外……難しいものですね=É... Surpreendentemente... Difícil.
+//ん……存外……難しいものですね=É... Surpreendentemente... Difícil.
 ……力加減は、いかがでしょうか？=... Como você gostaria de ter sua força?
 んれる、れるれ……ふかれまひら(疲れました)=(Estou cansado)
 んれぉ、れるむ……めんろうれふね(面倒ですね)=(É uma dor de cabeça)

@@ -288,7 +288,7 @@
 んんっ、ほぐし終わったら、はぁ、はぁ、すぐにやめてくださいまし……！=Mmm, quando eu terminar de relaxar você, por favor pare imediatamente!
 ううっ、もう、十分でしょう……うぐうっ、終わりに、してください……！=Ugh, já chega... Ugh, por favor, acabe com isso!
 んはぁあっ、こんなおもちゃ、はあ、はあ、あなたの方がまだいいですわ……！=Oh, não, não, não, você ainda é melhor que este brinquedo...
-こんな固いものを、んんぅっ、ぐちゅぐちゅとかき回さないでくださいまし……！=Por favor, não faça uma coisa tão difícil contorcer-se e contorcer-se!
+//こんな固いものを、んんぅっ、ぐちゅぐちゅとかき回さないでくださいまし……！=Por favor, não faça uma coisa tão difícil contorcer-se e contorcer-se!
 はぁぁ、声がどんどんと出て、あぁ、果ててしまいますぅ=Huh, minha voz está ficando cada vez mais alta. Oh, eu vou terminar.
 あ、あぁ、もう、無理ですわっ、これ以上、我慢できませんっ=Ah, oh, eu não posso, eu não posso mais me conter!
 あぁ、お尻が……私の誇りがまたひとつ汚れてしまいますわぁ……！=Oh, meu traseiro... Meu orgulho estará mais uma vez sujo!

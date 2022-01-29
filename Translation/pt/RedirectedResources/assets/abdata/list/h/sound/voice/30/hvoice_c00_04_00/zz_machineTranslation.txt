@@ -11,7 +11,7 @@
 そこっ……気持ちいいです……=Aí... Isso é bom...
 んれろ……ん、ひょっぱい、れふよ……ちゅろ……（しょっぱいですよ）=(É azedo)
 んりゅ……しらに、んぢゅ、にぇばにぇばぁ……れろぉ……（舌にネバネバが）=Língua pegajosa.
-んぁっ、コリコリっ、固くっ、なってますよっ、ふぁっ=Ahh, está ficando difícil, difícil, difícil!
+//んぁっ、コリコリっ、固くっ、なってますよっ、ふぁっ=Ahh, está ficando difícil, difícil, difícil!
 んんっ、どうですかっ？　んぁっ、気持ちいいですかっ？=Mmm, qual é a sensação? Sente-se bem?
 んっんっ、くちゅくちゅしてっ、ムズムズしてぇっ、んぁぁっ=Hmmm, eu vou
 ヌルヌルっ、滑って、んぁっ、気持ちいいっ、ですっ、んんっ=Nulo nulo, deslizamento, na, se sentir bem
@@ -27,7 +27,7 @@
 んあっ、あっ、ぁ……大きい波が来てっ、あっ、あぁ……=Ah, ah, ah... Está vindo uma grande onda, ah, ah...
 んりゅりゅっ、ぢゅっ、イきひょうっ、れふかっ？　んっ、ちゅるるるっ=Mmm, mmm, mmm, mmm, mmm, mmm, mmm... Mmm, impertinente!
 ちゅはっ、んっ、いいれふよっ、んじゅっ、イっふぇもっ、んっ、じゅづづづっ（いいんですよイっても）=Não há problema em vir.
-はぁ……中々……難しいものですね=Huh... É... Difícil.
+//はぁ……中々……難しいものですね=Huh... É... Difícil.
 んん……気持ちよくなって頂けましたか……？=Isso fez você se sentir bem?
 はぁ……同性、ならではの、感覚ですね……=É um sentimento do mesmo sexo...
 んぁ……中々新鮮な……快感でした……=Bem... Foi um novo tipo de... Prazer...
@@ -41,7 +41,7 @@
 ふぅぅ……イくのが、癖になってしまって……申し訳ございません……=Fu... Me desculpe... Me desculpe... Desculpe...
 んっ……中々、難しいですね……ぁん……=Hmm... Não é tão fácil... Hmm...
 ん……普通にするほうが、効率がいいかと、ぁん……=Pensei que seria mais eficiente apenas fazê-lo da maneira normal.
-ん……存外……難しいものですね=É... Surpreendentemente... Difícil.
+//ん……存外……難しいものですね=É... Surpreendentemente... Difícil.
 ……力加減は、いかがでしょうか？=... Como você gostaria de ter sua força?
 んっ……ねっとり、攻めないでください……=Mmm... Por favor, não me ataque...
 あっ、ん……感じてなど、いません……=Eu não sinto nada...

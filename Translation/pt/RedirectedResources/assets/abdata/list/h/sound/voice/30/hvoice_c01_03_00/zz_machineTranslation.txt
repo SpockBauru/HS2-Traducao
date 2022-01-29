@@ -5,7 +5,7 @@
 何か変な事でもあったの？=O que há de errado com você?
 私から何かした方がいいかしら？=Devo fazer algo por você?
 何か要望はあるの？=Você tem algum pedido?
-れぉ、れる、なえるろっへ……けっおうむぅかひわれ(舐めるのって、結構難しいわね)=(Licenciá-los é muito difícil de fazer)
+//れぉ、れる、なえるろっへ……けっおうむぅかひわれ(舐めるのって、結構難しいわね)=(Licenciá-los é muito difícil de fazer)
 れぉ、んれろ、わぁひのひら、きもひぃ？(私の舌、気持ちいい？)=(A minha língua, ela se sente bem?)
 れぅる……ぁはぉ、ぁっ、かんいれぅ……？(あなたも感じてる)=(Você também está sentindo isso)
 んれぅ……なえあいっこ、いいあれぇ(舐め合いっこいいわね)=(Lamber um ao outro)

@@ -3,7 +3,7 @@
 //***********************************************************************
 私から何かした方がいいかしら？=Devo fazer algo por você?
 何か要望はあるの？=Você tem algum pedido?
-れぉ、れる、なえるろっへ……けっおうむぅかひわれ(舐めるのって、結構難しいわね)=(Licenciá-los é muito difícil de fazer)
+//れぉ、れる、なえるろっへ……けっおうむぅかひわれ(舐めるのって、結構難しいわね)=(Licenciá-los é muito difícil de fazer)
 れぉ、んれろ、わぁひのひら、きもひぃ？(私の舌、気持ちいい？)=(A minha língua, ela se sente bem?)
 ん……どう？　気持ち、いい……？=Qual é a sensação? Sente-se bem?
 んしょ……下手だけど……あなたの為に、頑張るわ=Sei que não sou muito bom nisto... Mas farei o meu melhor por você.
