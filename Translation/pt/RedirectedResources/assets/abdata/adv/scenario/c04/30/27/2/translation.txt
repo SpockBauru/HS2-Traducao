@@ -4,7 +4,7 @@
 //普通{0}=
 ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou realmente satisfeita. Ahaha ♪
 ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Acho que terminamos por hoje, você não acha? Vou brincar com você novamente.
-はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, obrigada...　Boa noite! Boa noite! Até mais ♪
+はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, obrigada... Boa noite! Boa noite! Até mais ♪
 //{0}=
 //う～ん、アタシ的にはもーいっかな～。ほら、あんまダラダラやっても仕方ないっしょ？=
 //ね、次はちゃんとイカせてあげるからさ。そんな萎えぽよな顔しないでって。=
