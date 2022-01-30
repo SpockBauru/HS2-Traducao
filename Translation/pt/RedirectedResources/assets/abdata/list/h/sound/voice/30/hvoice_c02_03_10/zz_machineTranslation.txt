@@ -41,8 +41,8 @@
 はぁ、はぁ、お嫁に、行けなく、なったら、どうしてくれるんですかっ……=O que você vai fazer se eu não puder me casar?
 はぁっ、はぁっ、スパルタすぎですよ……どこの鬼コーチですかっ……=Hah, hah, você é muito espartano... Que tipo de treinador demoníaco você é...
 んん、はぁ、はぁ、感覚なくなるまでやらないでくださいよっ……=Hmm, hah, hah, não faça isso até perder os sentidos...
-焦らすのも上手くなってきたと思いますよ。=Acho que estou ficando melhor em apressar você.
-それ、自分のことも焦らしてるんですよ。わかってます？=É isso que você está fazendo. Você também está impaciente consigo mesmo. Você entendeu?
+//焦らすのも上手くなってきたと思いますよ。=Acho que estou ficando melhor em apressar você.
+//それ、自分のことも焦らしてるんですよ。わかってます？=É isso que você está fazendo. Você também está impaciente consigo mesmo. Você entendeu?
 んんっ！　……なかなかやりますね……=Mmm! Isso é algo e tanto...
 あんっ！　……力……強すぎませんか？=Aah! Isso não é... Muito poder?
 うっ！　１発１発が、響いて、きますねっ=Whoo! Cada tiro ecoa, não é mesmo?
