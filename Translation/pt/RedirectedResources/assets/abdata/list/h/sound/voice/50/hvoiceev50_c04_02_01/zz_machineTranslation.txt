@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-まさか、アタシじゃ興奮しないとかないよね？=Não me diga que você não está entusiasmado comigo?
+まさか、アタシじゃ興奮しないとかないよね？=Não me diga que você não está excitado comigo?
 ねぇ、いつまで待たせんの？　焦らしプレイお断り～。=Ei, quanto tempo você vai me fazer esperar? Eu me recuso a jogar o jogo da pressa~.
 ふあっ、んっ、いーかんじぃ……=É tão bom...
 はぁあっ、アンタのいいっ……！=Oh, você é tão bom...
