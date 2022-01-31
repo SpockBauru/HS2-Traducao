@@ -7,7 +7,7 @@
 //好意{0}=Favores {0}
 いっぱいイかひゃれへぇ～もぉ～頭がまっちろっすぅ～。=Não consigo me fartar... Minha cabeça está em todo lugar.
 //享楽{0}=Prazer {0}
-こんなはじゅじゃ、にゃかったんすけどぉ～……完敗っすぅ～……=Eu não era tão bom... Mas eu perdi...
+//こんなはじゅじゃ、にゃかったんすけどぉ～……完敗っすぅ～……=Eu não era tão bom... Mas eu perdi...
 あにゃたのしぇー液を飲み尽くすシャキュバスにぃ～なるつもりらっはろりぃ～……=Vou me tornar uma súcuba que bebe todo o líquido.
 //嫌悪{0}=Repugnância {0}
 ど、どぉ～やっへぇ～帰れってゆ～んすかぁ～……=Você quer que eu vá para casa?

@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 その息遣いに、私も昂ります=A maneira como você respira, me deixa excitada.
-まだまだ未熟物ですが、よろしくお願い致します=Ainda sou uma novata, mas estou ansioso para trabalhar com você!
+まだまだ未熟物ですが、よろしくお願い致します=Ainda sou uma novata, mas estou ansiosa para trabalhar com você!
 ……本当にこの様なプレイをするのですか？=... Você realmente joga assim?
 ……あまり気乗りしないのですが=... Não estou muito interessado.
 この状況は……あなたにお任せする以外になさそうですね=Bem, parece que vamos ter que deixar esta situação para você.
@@ -34,7 +34,7 @@
 取り敢えず、やれるだけのことをやりましょう=Por enquanto, vamos fazer o melhor que pudermos.
 同性相手にどこまで出来るか……やってみます=Vou ver até onde posso ir com o mesmo sexo... E vou tentar.
 同性相手でも、感じてみせます=Mesmo com o mesmo sexo, eu o sentirei.
-不慣れですが、よろしくお願いいたします=Sou novo nisto, mas estou ansioso para trabalhar com você.
+不慣れですが、よろしくお願いいたします=Sou novo nisto, mas estou ansiosa para trabalhar com você.
 では、精一杯尽くします=Então farei o meu melhor.
 コチラの処理はお任せください=Nós cuidaremos disso.
 申し訳ございませんが、あなたのお顔、使わせて頂きます=Sinto muito, senhor, mas vamos ter que usar seu rosto.
@@ -163,7 +163,7 @@
 彼女に集中してくださって結構です=Você pode se concentrar nela.
 あまりいい光景とは言えませんね=Não é uma visão muito agradável, não é?
 どう見ても強姦現場ですねこれは=A mim parece-me uma cena de estupro.
-どう攻めていただけるのか、楽しみです=Estou ansioso para ver como vocês o atacam!
+どう攻めていただけるのか、楽しみです=Estou ansiosa para ver como vocês o atacam!
 下半身の怒張に、私も期待で胸が膨らみます=A fúria na metade inferior do meu corpo faz meu coração inchar com antecipação também!
 私の肢体、お召し上がりください=Meus membros, por favor, comam-nos.
 ……承知しました=... Sim, senhor.
@@ -268,7 +268,7 @@
 どう攻められてしまうのでしょう？　ドキドキします=Como você será atacado? Estou excitada.
 たっぷり感じさせていただけると、嬉しいです=Ficarei feliz se você me deixar sentir muito disso!
 //セックス、愉しみましょう=Vamos fazer um pouco de sexo.
-//どの様に犯されてしまうのでしょうか、期待していまいます=Como eles serão violados? Estou ansioso para ver isso!
+//どの様に犯されてしまうのでしょうか、期待していまいます=Como eles serão violados? Estou ansiosa para ver isso!
 感じさせてくださいね？=Deixe-me sentir, está bem?
 苦痛だけでなく、快感も与えてください=Dê-me prazer assim como dor.
 あなたを感じるには、丁度いい体勢ですね=É a posição certa para mim para sentir você.
