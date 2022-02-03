@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=
-//こんな近くにいてごめんなさい……車内が空いたらすぐにどきます……=
+こんな近くにいてごめんなさい……車内が空いたらすぐにどきます……=Sinto muito por estar tão perto de você... Sairei do caminho assim que o vagão estiver vazio...
 //え……？　ど、どうして触ってくるんですか？　ここでするんですか……？=
-//他の人に見つかってしまいそうですが、本当に……？=
+他の人に見つかってしまいそうですが、本当に……？=Tenho certeza de que os outros vão descobrir, mas você tem certeza?
 //私に当たっている硬いモノって、あなたのですよね……？　どうしてこの状況で興奮してるんですか……？=
 //特殊な性癖なんですか……？　でも、私を相手にするのは良くないですよ……=
 //変に動いてすぐにバレちゃいます……だから、考え直した方が絶対にいいです……=

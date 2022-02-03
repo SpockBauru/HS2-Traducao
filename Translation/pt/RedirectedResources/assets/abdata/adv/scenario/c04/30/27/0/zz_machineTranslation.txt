@@ -6,9 +6,9 @@
 //あーあ、イカされちゃった。ま、アンタもイったし、あおいこってことで。=Oh, não, ele me fez gozar. Bem, você também veio, então eu vou chamá-lo de cabra.
 //どーよ、アンタのことイカせてやったし。アタシ？　こら、アタシのことはいーの、余計なこと言わない。=Vamos lá, eu te fiz gozar. Eu? Ei, não diga nada sobre mim.
 //好意より50～79{0}=50-79{0} de favor.
-ちゃけば、どだった？　アタシの体、気に入った？=Como foi, Chakeba? Você gosta do meu corpo?
-うーん、ナシよりのアリ……だと思ってたけどー。アンタ、アリよりのアリだったわ♪=Hmm, eu pensava que você era mais formiga do que pêra. Você é mais formiga do que formiga.
-アンタさー、もうアタシのドレーになっちゃいなよ。いっぱい可愛がってあげるからさ～♪=Por que você não se torna meu drake? Eu vou te amar tanto!
+//ちゃけば、どだった？　アタシの体、気に入った？=Como foi, Chakeba? Você gosta do meu corpo?
+//うーん、ナシよりのアリ……だと思ってたけどー。アンタ、アリよりのアリだったわ♪=Hmm, eu pensava que você era mais formiga do que pêra. Você é mais formiga do que formiga.
+//アンタさー、もうアタシのドレーになっちゃいなよ。いっぱい可愛がってあげるからさ～♪=Por que você não se torna meu drake? Eu vou te amar tanto!
 //好意より80～100{0}=80 a 100{0} mais do que favor.
 ねーえ、アンタってアタシのこと好きっしょ？　隠したって分かるから、ぶっちゃけちゃっていーよ？=Ei, você gosta de mim, não é mesmo? Mesmo que você o esconda, eu saberei, então você pode simplesmente me dizer, certo?
 アッハ、アンタとするの、マジ気持ちいーんですけど。アタシ、ハマっちゃいそーかも♪=Ahaha, é muito bom fazer isso com você. Acho que posso estar viciado...
@@ -20,7 +20,7 @@
 //享楽より80～100{0}=De 80-100{0}
 はー、ヤったヤッた……もースッキリって感じ♪　アンタもスッキリしたっしょ？　微妙とか言ったら、またおしおきだかんね？=Eu fiz, eu fiz, eu fiz... E me senti bem. Se você disser que é muito sutil, você vai levar outra surra, certo?
 アハッ、予想以上に楽しかったわ♪　アンタのイキ顔、マジ情けなくてゾクゾクしたし♪=Foi mais divertido do que eu pensava... E seu rosto quando você gozou foi tão impiedoso que me deu arrepios.
-ねぇアンタ、アタシをイカせたからってちょづかないでよね？　そーいうの、アタシ許さないから。=Ei você, só porque você me fez gozar não significa que não possa se meter comigo. Nunca lhe perdoarei por isso.
+//ねぇアンタ、アタシをイカせたからってちょづかないでよね？　そーいうの、アタシ許さないから。=Ei você, só porque você me fez gozar não significa que possa se meter comigo. Nunca lhe perdoarei por isso.
 //嫌悪より50～79{0}=50-79 de repugnância {0}
 アンタ……やっぱキモいわ。まー、少しヤったくらいじゃ変わんないよね～。=Você... Você é realmente assustador. Bem, não é como se você fosse mudar só porque você a fodeu um pouco.
 とりま、消えてくんない？　ヤルことヤったんだから、もーいーっしょ？=De qualquer forma, por que você não vai embora? Você já fez o que tinha que fazer, então por que não vai embora?
@@ -32,7 +32,7 @@
 //隷属より50～79{0}=50-79{0} da servidão.
 ねぇ、アタシのカラダ、良かったっしょ？　アンタにならまた、触らせてあげてもいーかなー♪=Ei, meu corpo era bom, não era? Se for você, vou deixar você me tocar novamente...
 いーわ、アンタいい！　なんかピッタシ来た！　てわけだから、次もよろ♪=Ohhh, eu te amo! Você é simplesmente perfeito. Portanto, vamos fazer isso novamente.
-んふ～、アタシー、アンタのドレーになってあげよっかなー？　なんて、本気にした？　アハッ、ウケる♪=Mmmm ~ Atasy, eu serei seu dray, huh? Ohhh, você acabou de me levar a sério? Haha, isso é engraçado.
+//んふ～、アタシー、アンタのドレーになってあげよっかなー？　なんて、本気にした？　アハッ、ウケる♪=Mmmm ~ Atasy, eu serei seu dray, huh? Ohhh, você acabou de me levar a sério? Haha, isso é engraçado.
 //隷属より80～100{0}=80-100{0} da servidão.
 アンタって、けっこー上手いんじゃない？　まだなんか、カラダ火照ってるんですけど……=Você é realmente bom nisto, não é? Meu corpo ainda está queimando...
 うーんヤバ……全然し足りない。てか、され足りない的な？　もっとさ、ガンガンイカせてほしーんですけど。=Eu não estou fazendo o suficiente. Ou melhor, você não quer ser fodido o suficiente? Eu quero que você me fazer gozar ainda mais.

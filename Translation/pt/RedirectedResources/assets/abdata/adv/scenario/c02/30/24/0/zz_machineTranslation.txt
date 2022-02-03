@@ -31,7 +31,7 @@
 あなたが、私に気持ちいいセックスを教えてくれるんですね？　よろしくお願いします。=Você é quem vai me ensinar a ter bom sexo, não é? Com prazer.
 あの、するからには気持ちよくしてもらわないと困りますので……お願いします。=Bem, já que vou fazer isso, preciso que você se sinta bem com isso, então... Por favor.
 //隷属より50～79{0}=50-79{0} da servidão.
-はぁ、男を見るだけで身体がうずき出すなんて……ほんと、自分が嫌になります……=Eu realmente me odeio que meu corpo comece a formigar com a simples visão de um homem.
+//はぁ、男を見るだけで身体がうずき出すなんて……ほんと、自分が嫌になります……=Eu realmente me odeio que meu corpo comece a formigar com a simples visão de um homem.
 こんにちは。　では早速しましょうか。　……これ以上は待ち切れそうにないですし。=Olá. Vamos continuar com isso? Acho que não posso esperar mais.
 //隷属より80～100{0}=80-100{0} da servidão.
 初対面の人に言う事じゃないんですけど……お願いします、どうか私の事、滅茶苦茶にして下さい……っ=Sei que não é algo que devo dizer a alguém que nunca conheci antes, mas por favor, por favor, por favor, faça de mim uma bagunça...

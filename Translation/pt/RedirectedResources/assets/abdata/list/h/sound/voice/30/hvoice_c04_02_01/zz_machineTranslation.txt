@@ -219,7 +219,7 @@
 アタシ、待つの嫌いだから、襲っちゃうよ？=Não gosto de esperar, por isso vou atacá-lo.
 ねぇ、おねだりは？　アタシ、待ってるんだけど？=Ei, você está me implorando? Estou esperando por você.
 アハ、その震えてるのって、もーたまらないってこと？=Aha, essa tremedeira significa que você não consegue resistir?
-これこれ、このかんじぃ……！=É isto, é isto, é isto.
+//これこれ、このかんじぃ……！=É isto, é isto, é isto.
 //あぁはっ、勝手に声出ちゃうっ……！=Eu não consigo me ouvir...
 んぅん、やっぱチンポさいこぉっ……！=Ahhh, eu adoro seu pênis.
 あぁっ、奥までズブっときたぁっ=Oh, eu estou tão lá no fundo!
