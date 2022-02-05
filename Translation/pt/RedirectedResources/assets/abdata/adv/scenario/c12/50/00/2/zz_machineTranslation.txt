@@ -9,7 +9,7 @@
 やっぱりそうだったんだな。おぉ、いいぜ。俺が相手になってやるよ。=Eu sabia, não sabia? Ah, sim. Eu serei seu parceiro.
 //享楽{0}=Prazer {0}
 だよなぁ！　ＯＫＯＫ、それじゃさっそく始めようぜ！=Isso mesmo! OK, OK, então vamos continuar com isso!
-いいねぇ、俺も身体が疼いちゃってたまらなかったんだよなぁ！=Isso é ótimo. Eu também não conseguia me fartar dos formigueiros no meu corpo!
+//いいねぇ、俺も身体が疼いちゃってたまらなかったんだよなぁ！=Isso é ótimo. Eu também não conseguia me fartar dos formigueiros no meu corpo!
 //嫌悪{0}=Repugnância {0}
 お前は、バカだな。=Você é um idiota.
 そうかよ……好きにすればいいだろ。=Bem... Você pode fazer o que quiser.

@@ -5,7 +5,7 @@
 ハッ、オマエらしいな。=Ha, isso é assim você.
 まぁ、いいんじゃねぇか？=Bem, isso é bom, não é?
 //好意{0}=Favores {0}
-それがアリなら、何でもアリだろ。=Se isso é uma formiga, então qualquer coisa é uma formiga.
+//それがアリなら、何でもアリだろ。=Se isso é uma formiga, então qualquer coisa é uma formiga.
 ほう、面白いことを言ってくれる。=Uau, isso é uma coisa interessante de se dizer.
 //享楽{0}=Prazer {0}
 ……だといいがな。そっちの方が面白れぇ。=... Espero que sim. Isso seria mais divertido.

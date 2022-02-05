@@ -9,7 +9,7 @@
 あの……お話だけで帰ってしまわれるのですか？　身体の方は、もうすっかり準備できていますから……貴方ともっと、一緒にいさせてください。=Hum... Você está saindo só para conversar? Meu corpo já está pronto... Então, por favor, deixe-me passar mais tempo com você.
 //享楽{0}=Prazer {0}
 折角、会話でいい雰囲気にしたのに……このまま帰ってしまうのは勿体なくありませんか？　私なら……きっと貴方を満足させられますよ？=Seria uma pena para você ir para casa depois de termos tido uma conversa tão boa, não seria? Tenho certeza de que posso satisfazê-lo.
-すみません……実はお話をしながら、ずっと疼いてしまっていて……少しだけでもいいので、鎮めるのを手伝って頂けませんか？=Desculpe... Na verdade estou sempre formigando enquanto falamos... Você pode me ajudar a acalmar, mesmo que seja só por um minuto?
+//すみません……実はお話をしながら、ずっと疼いてしまっていて……少しだけでもいいので、鎮めるのを手伝って頂けませんか？=Desculpe... Na verdade estou sempre formigando enquanto falamos... Você pode me ajudar a acalmar, mesmo que seja só por um minuto?
 //嫌悪{0}=Repugnância {0}
 貴方のつまらない話に付き合わされて、私はストレスが溜まってしまいました……ですので、今度は私のストレス解消に付き合ってもらいます。=Eu tenho sido estressado por suas histórias chatas... Então agora você vai me ajudar a aliviar meu estresse.
 意外と臆病者なのですね。お話だけして終わりなんて……ここでは相手を馬鹿にしているのと同じですよ？=Você é surpreendentemente tímido, não é mesmo? Falar com eles e acabar com isso... É o mesmo que gozar com eles aqui, não é?

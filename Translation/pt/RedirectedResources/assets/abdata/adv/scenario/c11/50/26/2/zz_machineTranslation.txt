@@ -33,7 +33,7 @@
 自分を嫌っている女を抱くことが、それほどまでに楽しいのですか？=É tão divertido segurar uma mulher que te odeia?
 //隷属より20～49{0}=Da servidão 20-49{0}
 貴方にお誘い頂けただけで、身体の準備が整ってしまいました……いやらしい女だと思われますか？=Só o fato de você me perguntar é suficiente para me fazer sentir pronta... Você acha que eu sou uma garota obscena?
-申し訳ございません、少々身体が疼いておりまして……本日は焦らさずにして頂けないでしょうか……？=Desculpe, estou com um formigueiro... Pode por favor não me apressar hoje?
+//申し訳ございません、少々身体が疼いておりまして……本日は焦らさずにして頂けないでしょうか……？=Desculpe, estou com um formigueiro... Pode por favor não me apressar hoje?
 //隷属より50～79{0}=50-79{0} da servidão.
 貴方の望みが私の望みでもあるのです。本日も、貴方のやりたいことをやっていきましょう。=O que você quer é o que eu quero, também. Hoje, vamos fazer o que você quer fazer.
 本日も私を躾けて下さるのですね？　大変嬉しいです。=Você vai me disciplinar hoje? Estou muito feliz.
