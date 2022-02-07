@@ -8,7 +8,7 @@
 オマエとさんざんヤったせいか。流石に慣れてきたな。次からはオマエのリクエストにも、なるべく応えてやるよ。=Talvez seja porque eu o tenho fodido tanto. Você já se acostumou, não é mesmo? Vou tentar atender seus pedidos na próxima vez.
 マンネリってのとはちょっと違うが、慣れてはきたな。そろそろ次のステップってやつに進んでもいいかもしれねぇ。=Não é exatamente uma rotina, mas estou me acostumando a ela. Talvez seja hora de passar para o próximo passo.
 //享楽{0}=Prazer {0}
-気持ちいいのに慣れちまうってのは、ちょっと良くねぇな。おい、次からはもっと刺激的なことをしていくぞ？　分かったな？=Não é bom se acostumar a algo que sabe tão bem. Na próxima vez, vamos fazer algo mais excitante. Você entendeu?
+気持ちいいのに慣れちまうってのは、ちょっと良くねぇな。おい、次からはもっと刺激的なことをしていくぞ？　分かったな？=Não é bom se acostumar a algo que é tão bom. Na próxima vez, vamos fazer algo mais excitante. Você entendeu?
 あぁ、少し慣れてきちまった。ダメだな……もっと貪欲に刺激を求めていかねぇと。=Sim, estou me acostumando a isso. Não adianta... Você tem que ser mais ganancioso para o estímulo.
 //嫌悪{0}=Repugnância {0}
 オマエとするのは、もう退屈だ。オレが言いいたいこと分かるか？　同じこと繰り返してるだけじゃ、飽きるんだよ。=Estou entediado com você. Você entende o que estou dizendo? Estou entediado de fazer a mesma coisa uma e outra vez.

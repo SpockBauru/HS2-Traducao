@@ -8,7 +8,7 @@
 オマエのイキ顔、二人でよーく見てやったぜ。どうだ今の気分は？　最高だろう？=Ambos vimos o olhar em seu rosto quando você veio. Como você se sente agora? Não é ótimo?
 二人でめちゃくちゃにされた気分はどうだ？　もうまともに考えられる余裕も残ってねぇか？=Qual é a sensação de estarem fodidos, vocês dois? Você não tem mais tempo para pensar direito?
 //享楽{0}=Prazer {0}
-ハハッ、圧倒的な戦力差で蹂躙するってのはいい気分だ。オマエもさんざん弄ばれて、気持ちよかっただろう？=Sabe bem ser ultrapassado por um diferencial de potência esmagador. Você deve ter se sentido bem depois de ter sido jogado com tanta coisa, certo?
+ハハッ、圧倒的な戦力差で蹂躙するってのはいい気分だ。オマエもさんざん弄ばれて、気持ちよかっただろう？=É bom ser ultrapassado por um diferencial de potência esmagador. Você deve ter se sentido bem depois de ter sido jogado com tanta coisa, certo?
 また凄ぇ量を出しやがって。なんだ？　二人分だからサービスか？　気が利くじゃねぇか。=Você está me dando muito de novo. O que é isso? É porque é para duas pessoas? Isso é muito atencioso.
 //嫌悪{0}=Repugnância {0}
 本当に馬鹿なやつだ。最初からこうなるって、何でわかんなかった？　まさかオレら相手に、勝てるとでも思ってたのか？=Você é um verdadeiro idiota. Como você poderia não ver isto vindo desde o início? Você realmente pensou que poderia nos vencer?
