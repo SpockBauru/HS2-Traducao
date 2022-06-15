@@ -169,7 +169,7 @@
 ほえー、そういうこと……本当にやっちゃうんですかー？=Oh, você vai mesmo fazer isso?
 うぅん、結構抵抗ありますけど……ここは一発！　チャレンジしてみましょー！=Bem, eu sou bastante resistente, mas... Aqui está uma chance! Vamos tentar!
 わたし今動けないんですよ？　本気でやっちゃうんですかー？=Eu não posso me mover agora mesmo, sabe? Você realmente vai fazer isso?
-も、もしかしてこの状況で興奮しちゃったりしてませんよねー？=Você não está ficando entusiasmado com esta situação, está?
+//も、もしかしてこの状況で興奮しちゃったりしてませんよねー？=Você não está ficando entusiasmado com esta situação, está?
 えー、どーしてやめちゃうんですかー！？=Eh, por que você está desistindo?
 ほえ？　自分で動きたくなっちゃいましたか？=O que é isso? Você tem vontade de fazer sua própria jogada?
 ふふっ、もちろんまだまだ続けちゃいますよねー=Phew, claro que ainda vou continuar!

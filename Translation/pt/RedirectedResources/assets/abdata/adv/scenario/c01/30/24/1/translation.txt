@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=
-//初めてが女の人とだなんて、ドキドキしちゃうわ。すごく楽しみよ。=
-//同性が相手だなんて、妙に緊張しちゃうわね。一緒に気持ち良くなりましょう。=
+初めてが女の人とだなんて、ドキドキしちゃうわ。すごく楽しみよ。=Estou tão animada que é a primeira vez que estou com uma mulher. Estou realmente ansiosa por isso.
+同性が相手だなんて、妙に緊張しちゃうわね。一緒に気持ち良くなりましょう。=Estou estranhamente nervosa por estar com alguém do mesmo sexo. Vamos nos sentir bem juntas.
 //好意{0}=
 //同性だからって気にする必要ないわ。あなたが相手なら最高よ。=
 //あなたが相手になってくれるなんて嬉しいわ。初めてだからドキドキしちゃう。=

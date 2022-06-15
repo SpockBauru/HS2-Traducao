@@ -17,7 +17,7 @@
 それじゃ、よろしくな！　とにかくお前と一緒に気持ち良くなれればいいんだから、とりあえず頑張ろうぜ。=Bem, então, prazer em conhecê-lo! De qualquer forma, estou apenas tentando me sentir bem com você, então vamos a isso.
 //享楽より80～100{0}=De 80-100{0}
 よろしくな！　それじゃ早速はじめようぜ……って、どうすればいいかよくわかんないけど……とりあえず一緒に楽しもうぜ！=Prazer em conhecê-lo! Então vamos começar... Bem, eu não sei realmente o que fazer... Mas vamos apenas nos divertir juntos!
-初めまして、よろしくな！　さぁてと、それじゃあ、やるか！　俺、もうなんだか興奮しちゃって止まんないかも。=Prazer em conhecê-lo, cara! Muito bem, bem, vamos fazer isso! Estou tão entusiasmado, que não consigo parar de pensar nisso.
+初めまして、よろしくな！　さぁてと、それじゃあ、やるか！　俺、もうなんだか興奮しちゃって止まんないかも。=Prazer em conhecê-lo, cara! Muito bem, bem, vamos fazer isso! Estou tão entusiasmada, que não consigo parar de pensar nisso.
 //嫌悪より20～49{0}=De repugnância 20-49{0}
 お前が俺の相手するのか？　なんだか納得いかないんだよなぁ。=Você é o único que deveria estar lidando comigo? Não tenho certeza se concordo com você.
 俺、あんまりこういうの好きじゃないんだけど……まぁどうしてもって言うなら、仕方ないな。=Eu não gosto muito deste tipo de coisa, mas... Bem, se você insiste, acho que vou ter que fazer isso.

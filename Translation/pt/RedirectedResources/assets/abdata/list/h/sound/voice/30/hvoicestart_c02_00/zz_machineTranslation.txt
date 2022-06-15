@@ -228,7 +228,7 @@
 私のテクもまんざらじゃないって、認めさせてあげますよ。=Vou fazer você admitir que minha tecnologia não é tão ruim assim.
 あなたは期待だけして、こっちに任せていればいいんです。=Tudo o que você tem que fazer é esperar pelo melhor e deixar isso conosco.
 うぅ、またその顔……頑張って気持ちよくしますからっ！=Ugh, essa cara de novo... Farei o meu melhor para que você se sinta bem!
-は、張り切ってなんてませんよっ……ぜ、全然……！=Não estou ficando nada entusiasmado...
+//は、張り切ってなんてませんよっ……ぜ、全然……！=Não estou ficando nada entusiasmado...
 もう……私が我慢すればいいんでしょ！=Ahhh... Tudo o que eu tenho que fazer é tolerar você!
 そう言うと思ってましたよ、もう……！=Eu sabia que você diria isso. Oh, ahhh!
 キス、したいのならすればいいじゃないですかっ=Se você quiser me beijar, por que não o faz?

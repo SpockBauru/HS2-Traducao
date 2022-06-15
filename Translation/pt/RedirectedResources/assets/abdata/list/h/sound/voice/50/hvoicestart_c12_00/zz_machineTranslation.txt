@@ -76,7 +76,7 @@
 いいね、すげぇ楽しみだぜ=Ótimo. Estou realmente ansioso por isso.
 お前に、たっぷり感じさせてもらいたいんだ=Quero que você sinta. Quero que você sinta.
 俺の身体、お前の自由にしていいからな=Meu corpo está à sua disposição.
-なんか、興奮して感じまくっちゃいそうだな=Não sei. Acho que vou me sentir todo entusiasmado.
+//なんか、興奮して感じまくっちゃいそうだな=Não sei. Acho que vou me sentir todo entusiasmado.
 ……ここで焦らすのかよ……まったく、興奮するじゃねぇか=... Você está me deixando nervoso aqui... Você está me deixando excitado!
 お前に攻めてもらって、思いっきり感じてやるからな=Vou deixar você me atacar e vou sentir isso.
 俺もちょっと物足りなかったんだ、さぁ、続きをしようぜ=Eu mesmo tenho sido um pouco desiludido. Vamos, vamos continuar.

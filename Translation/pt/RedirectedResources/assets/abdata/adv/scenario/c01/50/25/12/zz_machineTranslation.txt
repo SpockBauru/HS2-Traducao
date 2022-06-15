@@ -3,6 +3,6 @@
 //***********************************************************************
 こんな所にまで電車が繋がってるなんて、すごいわ。=É incrível a distância que o trem se conecta a este lugar.
 この電車、どこに向かっているのかしら？=Para onde este trem está indo?
-一緒に電車に乗るなんて、なんだか楽しみね。=Estou tão entusiasmado por estar no trem com você.
+//一緒に電車に乗るなんて、なんだか楽しみね。=Estou tão entusiasmado por estar no trem com você.
 電車ね……私は別に興味ないんだけど……=Trens... Não que eu esteja interessado...
 電車の中で、私に何かするつもりなんじゃないの？=Pensei que você ia fazer algo comigo no trem.
