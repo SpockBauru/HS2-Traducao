@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話{0}=
-//んふ、自分から誘えるとか偉いじゃん♪　これはご褒美あげないとね♪=
+んふ、自分から誘えるとか偉いじゃん♪　これはご褒美あげないとね♪=É tão bom que você consiga me convidar para sair ♪ Eu tenho que recompensá-lo por isso ♪
 //そうそう、それでいーの♪　アタシらは身体で会話する方が合ってるっしょ？=
