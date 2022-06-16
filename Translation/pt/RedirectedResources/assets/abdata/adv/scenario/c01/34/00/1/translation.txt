@@ -6,9 +6,9 @@
 //何の話をするの？=
 //好意{0}=
 //あなたとお話できるなら、嬉しいわ。=
-//何の話をするのかしら、ワクワクするわ。=
+何の話をするのかしら、ワクワクするわ。=Estou entusiasmada para ver do que você vai falar.
 //享楽{0}=
-//一体どんな話をするのか、楽しみだわ。=
+一体どんな話をするのか、楽しみだわ。=Estou ansiosa para saber sobre o que vamos conversar.
 //あなたとお話できるなんて、本当に楽しみだわ。=
 //嫌悪{0}=
 //一体何の話なの？=
