@@ -3,7 +3,7 @@
 //***********************************************************************
 //H事後B普通{0}=Sexo posterior B normal {0}
 良かったわ、それじゃあ、また。=Ótimo, nos vemos então.
-いい時間だったわ、ありがとう。=Foi um bom momento, obrigado.
+いい時間だったわ、ありがとう。=Foi um bom momento, obrigada.
 //H事後B好意{0}=Sexo posterior B favor {0}
 また、あなたと一緒に過ごしたいわ。=Adoraria estar novamente com você.
 一緒に過ごせて楽しかったわ、ありがとう。=Foi um prazer passar tempo com você, obrigado.

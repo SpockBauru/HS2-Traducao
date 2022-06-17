@@ -48,7 +48,7 @@
 んうっ……これは、強すぎるわっ……=Isto é muito forte...
 ああっぅ、せめて、優しく叩いてぇ=Oh, pelo menos me bata suavemente.
 はぁ、はぁ……あなたの攻めは……ちょっとキツイわ=Huh, huh... Sua ofensa... É um pouco dura.
-んぁ……感じては……いたけど……こういうのはよくないわ=Bem... Foi... Um sentimento, mas... Não é um bom sentimento.
+//んぁ……感じては……いたけど……こういうのはよくないわ=Bem... Foi... Um sentimento, mas... Não é um bom sentimento.
 はぁ、はぁ……なんでこんな……スパルタなの……？=Huh, huh... Por que você está sendo tão... Espartano?
 はぁ、はぁ……今すぐ……身体を冷やしたいわ……=Huh, huh... Neste momento eu preciso... Me acalmar...
 好きなだけ、焦らしていいのよ=Você pode me apressar o quanto quiser.
