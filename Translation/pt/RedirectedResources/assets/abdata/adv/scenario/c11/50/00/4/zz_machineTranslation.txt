@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ……結局、先に好きだと自覚してしまった方が、負けなのかもしれませんね。=... No final, provavelmente é aquele que percebe que gosta dela primeiro que perde.
 その……私は、貴方が傍にいて下さるだけで幸せです……=Bem, estou feliz por você estar aqui comigo.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ……想定外ですが、効果的かもしれません。参考に致しますね。=... Inesperado, mas pode ser eficaz. Vou manter isso em mente.
 そうですね……貴方の仰る通り、試してみる価値はありそうです。=Sim... Você está certo, vale a pena tentar.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ……秘密です。貴方に喋るつもりはございません。=... Um segredo. Não vou lhe dizer.
 ……貴方は夢見がちなのですね。正直、意外です。=... Você é um sonhador, não é? Para ser honesto, estou surpreso.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 私は……好意を寄せる方が幸せなら、それで充分です。=Quanto a mim... Desde que a pessoa por quem estou fazendo favores seja feliz, isso é bom o suficiente para mim.
 うふふ……それは素敵ですね。=Ummm... Isso é adorável.

@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 あ、あなたとお話……どんなことを話しましょう？=Oh, eu vou falar com você sobre... Sobre o que vamos falar?
 き、聞きたいこととかあれば、何でもどうぞ。=Se você tiver alguma pergunta, sinta-se à vontade para fazer.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふふっ、一体どんなことを聞かれるんでしょう……？=Hehe, que tipo de perguntas eles me farão?
 もしかして……私のことで知りたいこととかありますか？=Há... Há alguma coisa que você queira saber sobre mim?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 い、一体何の話をするつもり……ですか……？=De que diabos você vai falar?
 あ、あなたとお話なんて……ど、どんなことを話すんだろう……？=Oh, não acredito que estou falando com você... Sobre o que você acha que vamos falar?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふふっ、何を話ましょう？　あなたとのお話……それだけで嬉しいです。=Hehe, o que posso lhe dizer? Uma história com você... É tudo o que tenho o prazer de dizer.
 ど、どんな話題が好き……でしょうか……？=Sobre que tipo de assuntos você gosta de falar?

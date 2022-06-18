@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 で、オレの抱き心地はどうだった？　まさか、悪いとは言わねえよな？　ほら、怒らないから、正直に言っていいぞ。=Então, como foi meu abraço? Você não vai me dizer que foi ruim, vai? Olhe, não estou zangado com você. Você pode ser honesto comigo.
 身体の相性ってのはなかなかだったんじゃねぇか？　オマエもそう思ったんなら、またオレを誘えばいい。=A química física era muito boa, não era? Se você também pensa assim, você pode me convidar para sair novamente.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 終わってみればあっという間だな。ハッ、そんだけ夢中になってたってことか……おい、次も期待してるぞ。=Passa tão rápido quando termina. Ha, isso é o quanto eu estava absorto... Ei, estou ansioso para o próximo.
 悪くは無かった。でも、オレはまだ満足してねぇぞ。次はもっとオレを楽しませろ。分かったな？=Não foi ruim. Mas eu ainda não estou satisfeito. Da próxima vez, você vai ter que me dar mais. Isso está claro?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ったく、誰かさんのせいで、オレの貴重な時間を無駄にしちまった。で？　どう落とし前つけんだオマエ？=Maldição, alguém desperdiçou meu valioso tempo. Então? Como você vai sair dessa?
 はぁ、終わりだ終わり。オマエはもう、さっさと帰れ。一応ヤったよしみだ、ぶっ飛ばすのは勘弁しといてやる。=Huh, acabou, acabou. Você, saia daqui. Só para que conste, eu te fodi, então não vou te dar uma surra.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 正直、予想以上だった。オレもオマエも、初対面にしちゃ上出来だ。ハッ、またオレを抱かせてやるよ。嬉しいだろ？=Honestamente, foi mais do que eu esperava. Você e eu nos saímos muito bem para os novatos. Ha, vou deixar você me abraçar novamente. Isso não seria bom?
 オマエ、なかなかいいモンもってるな。よし、これからもオレが相手してやるから、オレが呼んだらすぐに来い。=Você tem algumas coisas boas aqui. Tudo bem, eu cuidarei de você a partir de agora, portanto, quando eu ligar para você, venha imediatamente.
 //壊れ{0}=Quebrada {0}

@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ……ぁはは、アンタ過激だね。=... Hahaha, você é tão radical.
 いやぁ……アタシはそこまでは……=Bem, eu não sou assim...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ……分かる。あるあるだわそれ。=Eu sei o que você quer dizer. Isso é uma coisa.
 あーねー、そういうねー。だいたい理解した。=Ah, sim, você está certo. Eu entendi a maior parte.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 なにそれ……アタシの知らない世界の話だわ。=Esse é um mundo que eu não conheço.
 ふーん。どうでもいいけど……興奮し過ぎ。=Hmm. Não me importa... Você está muito entusiasmado.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ……あは、アンタも好きだねぇ。=... Haha, você também gosta.
 ……うんうん。ちょっと分かるかも。=... Sim, sim. Acho que sei o que você quer dizer.

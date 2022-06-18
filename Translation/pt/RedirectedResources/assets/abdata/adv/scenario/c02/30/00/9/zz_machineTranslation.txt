@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ……それで、あなたはそんなセックスを私としたいんですよね？　私は……構いませんよ……？=... E você quer ter esse tipo de sexo comigo, não quer? Eu... Não se importaria?
 ……こんな話を振っておいて、私のシたい事がわからない……なんて事はありません、よね……？=... Você não vai me dizer que não sabe o que eu quero fazer, vai?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 さて、あなたがどれだけエッチを求めているかがわかったので、早速実践といきましょうか。=Agora que sabemos o quanto você quer transar, vamos ao que interessa.
 では、雰囲気も温まってきましたし……あなたもそろそろ、シたいんじゃないんですか……？=Agora que a atmosfera aqueceu, você não quer fazer isso também?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ……ほら、どうせするんですよね？　さっさと準備してくださいよ。=... Veja, você vai fazer isso de qualquer maneira, não vai? Basta se preparar para fazê-lo.
 で、そんなエッチを私に押し付けてくるんですよね？　わかってますよ……=E você vai me forçar a transar assim, não vai? Eu sei, eu sei...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 さて……話だけで満足なんて出来るわけないので……本番、よろしくお願いします。=Bem... Não há como eu ficar satisfeito apenas com uma história, então... O show, por favor.
 ふぅ、話しているだけでも身体が火照ってきました……鎮めて、くれますよね……？=Hmm, meu corpo está queimando só de falar com você... Você vai me acalmar, não vai?

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 事を終えた直後にお顔を合わせるのは、こそばゆいですね。その……素敵な一時を有難うございました。=É arrepiante vê-lo logo depois de termos feito as coisas. Bem... Obrigado pelo momento encantador.
 あぁ、鏡を見ずとも赤面しているのが分かります……己の気持ちを律することが出来ない未熟物で申し訳ありません……=Não preciso me olhar no espelho para saber que estou corado... Desculpe-me por ser tão imaturo que não consigo controlar meus sentimentos...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 身体の火照りが収まりません……また私を抱いて下さいね？=Não consigo parar o fogo no meu corpo... Você vai me segurar de novo?
 これから貴方と致すのが楽しみで仕方ありません。うふふ、末永く宜しくお願い致しますね？=Não posso deixar de aguardar com expectativa o seu encontro a partir de agora. Estou ansioso para trabalhar com você por muitos anos, não é mesmo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 お疲れ様でした。体を休めたいので、これで失礼致します。=Obrigado por seu trabalho árduo. Eu quero descansar meu corpo, por isso vou deixá-lo agora.
 これで終了という事でしたら、失礼させて頂きますね。=Se isso é o fim, eu gostaria de ser dispensado.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あまりの心地よさに昇天してしまいそうでした……また、お声がけ頂けるのを心待ちにしております。=Senti-me tão confortável que quase subi ao céu... Estou ansioso para ouvir de vocês novamente.
 あの、はしたなく乱れ過ぎてはいなかったでしょうか……？　もし下品な顔を晒しておりましたら、申し訳ございません。=Hum, espero não ter ficado muito desarrumado? Sinto muito se expus meu rosto vulgar.
 //壊れ{0}=Quebrada {0}

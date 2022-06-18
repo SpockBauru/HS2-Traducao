@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ……あの人と私、どっちのイく姿が可愛かったですか？=... Quem era mais bonito no caminho que ele veio, ele ou eu?
 二人共きっちりイかせるなんて……あなたらしいですね。=É como se você fizesse os dois virem... Exatamente.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 私達をイかせたんですから、それは満足ですよね？=Você nos fez gozar. Isso é gratificante, não é?
 はいはいイきました、イかせて頂きましたよーです。=Sim, sim, eu vim. Eu fiz você gozar!
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 別に、二人ともイかせたくらいで気が変わるなんてありませんから。=Não é que eu vá mudar de idéia só porque você nos fez gozar os dois.
 はぁ……ただただ屈辱です……=Huh... É apenas humilhante...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 他の人がイくと、こう……引っ張られちゃったりするんですよ。　わかりますか？=Quando outra pessoa vem, é como... É puxada para fora. Você entendeu?
 私達のイき声、堪能してくれましたか……？=Você gostou do som da nossa vinda?
 //依存{0}=Dependência {0}

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 私……もしかして魅力なかった？=Eu sou... Não sou atraente?
 あ……あーっ！　もしかして用事？　もー仕方ないな、私のことはいいから早く行きなって、ね！=Oh... Aah! Você está fazendo um recado? Não adianta. Esqueça-me, apenas vá!
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あっれれー、私のエロエロっぷりに恐れをなしちゃった？　勇気が出たらまたかかってきなね♪=Oh, meu... Você está com medo do meu erotismo? Volte para mim quando tiver coragem...
 あーっ！　お前さてはうんこだろ！　ぷぷーっ、早く済ませてきなよ、漏らしちゃったら大変だし♪=Aah! Você é um cagalhão, não é? Pfft! Vá acabar com isso. Eu não quero que você se cague.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 まあ、こっちとしては願ったりかなったりだけど。=Bem, é isso que estamos esperando.
 あ、いいんだ？　じゃ、さよならー。=Oh, está tudo bem? Bem, adeus.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あ……え、えっと……うん、わかった……色々理解した……=Uh... Sim, um... Sim, está bem... Eu entendo muitas coisas...
 ああ、エロで変態な私のために放置プレイを……ありがとう……ムラムラしながら待ってるから……=Oh, deixe-me em paz para ser erótico e pervertido... Obrigado... Porque estou com tesão e esperando...
 //依存{0}=Dependência {0}

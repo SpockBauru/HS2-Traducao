@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 なんだか、かなり動き回ってるけど、大丈夫なの？=Você está meio que se movendo muito. Você está bem?
 一応安全なのよね？　ならいいけど。=É seguro, certo? Espero que sim.
 いいわよ……試しに遊んでみるから。=Está bem... Vou tentar e brincar com isso.

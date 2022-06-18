@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//享楽{0}=
+//享楽{0}=Excitada {0}
 動けないのね？　かわいそうに……どうして欲しいのかしら？=Você está preso, não está? Coitadinho... O que você quer que eu faça?
 あら？　ひょっとしてあなた、その状態で興奮してるのかしら？=Oh? Você está, por acaso, excitado com esta situação?
 イケない子ね……それじゃ私が、お仕置きしてあげるわ。=Você é um safado... E eu vou puni-lo por isso.

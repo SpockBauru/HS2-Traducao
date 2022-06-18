@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 別に、他の人の手を借りずともあなたをイかせる事くらい簡単ですけどね？=Quer dizer, é fácil fazer você gozar sem precisar da ajuda de outra pessoa, certo?
 ……で、私でイってくれたんですよね？　……ね？=... E você veio em cima de mim, não foi? Certo?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 女二人に嬲られて、どんな気分ですか？=Qual a sensação de ser torturado por duas mulheres?
 今回は相手が悪かったという事で、諦めてくださいね？=Por favor, desista da idéia de que a outra parte estava errada desta vez.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 女二人を侍らせて、さぞ満足でしょうね。=Ele deve estar muito feliz por ter duas mulheres a seu serviço.
 他の人がいるなら、私を使う必要なんてないはずですよね……？=Se há outra pessoa, eles não deveriam ter que me usar, certo?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたのイき顔、私達がしっかり見ておきましたからね？=Demos uma boa olhada em seu rosto, não foi?
 その……私の方で感じてくれたのなら、嬉しい……です。=Fico feliz... Que... Você tenha sentido isso do meu lado...
 //依存{0}=Dependência {0}

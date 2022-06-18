@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 つまりどういうことだ？　もう少し分かりやすく話せ。=O que isso quer dizer? Fale mais claramente.
 あぁ、言いたいことはだいたい分かった。=Sim, eu acho que sei o que você vai dizer.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ったく、くだらねぇ話だな。=Caramba, isso é uma besteira.
 それで？　この話はどこに着地するんだ？=Então? Onde esta história vai parar?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 そういう話しかできないのか？　この変態め。=É só sobre isso que você pode falar? Você perverte.
 あー、そうだなー、すごいなー。=Ah, sim... Isso é ótimo.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ったく、イキイキした顔で話しやがって。=Ohhh, você está falando com uma cara tão alegre.
 ハッ、こういう話の時は、やけに饒舌だな。=Ha, você é terrivelmente falador quando fala assim.

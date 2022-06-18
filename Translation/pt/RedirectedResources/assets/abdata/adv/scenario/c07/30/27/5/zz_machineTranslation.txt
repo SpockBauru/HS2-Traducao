@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 どうだ？　二人で一緒に、一人の女をイカせた気分は。仲間意識が高まったんじゃないか？=Qual é a sensação? Qual é a sensação de fazer uma mulher ejacular, só nós duas, juntas? É como um novo nível de camaradagem, não é?
 二人一気に相手しても、穴兄弟ってことになるのか？　まぁ、どうでもいいことだな。=Se eu enfrentar dois caras ao mesmo tempo, isso significa que somos um buraco? Bem, isso não importa, não é mesmo?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ハッ、オマエら、さぞ気分がいいんだろうな。でも残念、オレもイった後で、かなりいい気分だ。=Ha, vocês devem se sentir tão bem. Mas sinto muito, estou me sentindo muito bem depois que eu vim também.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 おい、なにを勝ち誇った顔をしてやがる。二対一だったんだ、そんなんで喜んでるようじゃ、たかが知れるぜ。=Ei, o que é esse olhar triunfante em seu rosto? Eram dois contra um. Não se pode ficar muito contente com isso.
 ほら、オレはイったぞ。これで満足か？=Lá, eu gozei. Você está feliz agora?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふぅ、イったイった。二対一だと、逆に気兼ねなくイケていいな。オレは負けて当然なんだから……だろ？=Eu vim, eu vim, eu vim. Dois contra um, é bom poder ejacular sem se preocupar com isso. Eu mereço perder... Certo?
 オマエら、なかなかいいコンビなんじゃねぇか？　その調子で、二人でオレをまた攻め抜いてみせろよ。=Vocês formam uma equipe muito boa, não acham? Continuem assim e deixem vocês dois me atacarem novamente.
 //依存{0}=Dependência {0}

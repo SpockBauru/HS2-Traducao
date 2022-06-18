@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 マジキモ……電車の中で発情するとか……サイテー。=Sériamente assustador... Cio no trem... Psicopata.
 痴漢て、した方が圧倒的に不利だかんね？　冤罪とかヨユーであるから。=No caso de molestamento, o perpetrador está em enorme desvantagem, certo? Porque há uma falsa acusação e um bom você.
 まぁアンタはマジでする気みたいだから……脅しにもならないのがムカつくわ、ホント……=Bem, você parece que vai fazer isso, então... É irritante que você não esteja nem mesmo me ameaçando, realmente...

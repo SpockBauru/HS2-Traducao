@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=... Não pensei que estaria falando de relacionamentos com você... Não, eu não me importo... É mais como...
 ――ロマンティックなシチュエーションって、一度は体験してみたいもんだぜ……今この瞬間も、悪くないけどな。=Gostaria de experimentar uma situação romântica pelo menos uma vez... Este momento não é ruim, no entanto.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 やっぱ愛があれば気持ち良さが変わるもんなのかな……まぁすげぇ気持ちいい相手がいたら、それはもう愛してるみたいなもんか。=Eu me pergunto se o amor muda como ele se sente bem... Bem, se você tem um parceiro que se sente ótimo, é como se você já os amasse.
 ……恋人同士だからって、セックスに特別も何もないような気がするんだよな……出して入れるもんは一緒だろ？=... Eu sinto que só porque somos amantes, não há nada de especial ou especial no sexo... O que colocamos para fora e dentro é o mesmo, certo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 俺は別に、お前の事何とも思ってないから……いや、マジで。=Não penso nada de você, então... Não, a sério.
 ……この話、まだ続けるのかよ。=... Você ainda está falando sobre isso?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ……好きとか嫌いとか正直わかんねぇけど……要するに合うか合わないかって事だろ？=Honestamente não sei se gosto ou não, mas... É tudo sobre se serve ou não, certo?
 ……俺はお前の事嫌いじゃないぜ……好きって言うのとはちょっと違う気がするけどな。=... Não te odeio... Embora não ache que isso seja a mesma coisa que gostar de você.

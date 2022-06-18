@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 お前以外がいるのは……ちょっとあれだったけど、お前が興奮したなら、それでいいか。=Foi um pouco... Assim com todos menos com você, mas se isso te excita, que assim seja.
 できればお前だけが良かったんだけど、たまにはこういうのもありかな。=Eu teria preferido só você se pudesse, mas às vezes é assim.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 こんなに興奮するなんて……人数が多いってのはいいな。=Não acredito como estou entusiasmado... É bom ter tantas pessoas.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 何人も相手にするなんて、疲れる事させんなよ！=Não me obrigue a fazer a coisa exaustiva de lidar com um bando de pessoas!
 お前ら……絶対忘れないからな。=Vocês... Nós nunca esqueceremos isto.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 お前たち、十分に射精できたのか？　物足りなかったら言ってくれ。=Vocês conseguiram ejacular o suficiente? Informe-me se não for suficiente.
 俺の身体の具合はどうだった？　全員スッキリ射精できたならいいんだけど。=Como estava meu corpo? Espero que todos nós tenhamos tido uma boa ejaculação.
 //依存{0}=Dependência {0}

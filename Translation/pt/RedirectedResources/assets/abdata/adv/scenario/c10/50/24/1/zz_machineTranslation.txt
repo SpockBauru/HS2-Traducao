@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 良かった。実は、貴方のことが気になっていまして。同性なのに気持ち悪いと言われるかと心配で……でも、誘って頂けたのでもう安心です。ふふ♪=Bom. Na verdade, eu tenho pensado em você. Eu estava preocupado que você pudesse dizer que sou assustador mesmo sendo do mesmo sexo... Mas agora que você me convidou para sair, estou aliviado. Hehe...
 お誘いありがとうございます。貴方は同性から見てもとても魅力的なので……私のような者を選んで頂けて、本当に光栄です。=Obrigado por seu convite. Você é muito atraente mesmo do ponto de vista homossexual, por isso me sinto muito honrado por você ter escolhido alguém como eu.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 いいですね女同士♪　とても楽しそうです。ふふ、私の気持ちよくなれる所……全部教えますね。=É bonito, de mulher para mulher. ♪ Parece que vai ser muito divertido. Vou lhes mostrar todos os lugares que me fazem sentir bem.
 まぁっ、驚きました。貴方も私と同じ趣味とは。女の子同士でしたいとずっと思っていたのです。夢が叶ってしまいました。ふふふ♪=Bem, estou surpreso. Eu não sabia que você tinha o mesmo gosto que eu. Eu sempre quis ter uma garota com garota. É um sonho tornado realidade. Hihihi-hehe.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 えっと……特殊な趣味をお持ちなのですね。私がどうこう言う事では無いと思いますが……色々と大変そうですね……=Bem... Você tem um hobby especial, não tem? Acho que não me cabe a mim dizer, mas... Parece que você está passando por muita coisa...
 女性同士でするのはそこまで気になりません。ですが……貴方は少し……いえ、こちらの問題ですので、お気になさらず。=Não me incomoda muito quando as mulheres fazem isso umas com as outras. Mas... Você é um pouco... Não, é um problema nosso, então não se preocupe com isso.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 その……いきなりですが、私は受けがいいです。えぇと……女性同士でするなら最初にハッキリさせておいた方が、よいかと思いまして……=Bem... Isto é repentino, mas eu estou receptivo. Bem... Se vai ser entre mulheres, achei melhor deixar claro primeiro...
 女同士ですし、私に変な遠慮はいりませんよ。貴方のしたいこと全部してみてください。多少乱暴にされても……問題ありませんので。=Somos ambas mulheres, portanto, não precisa ter medo de mim. Você pode fazer o que quiser. Mesmo que seja um pouco rude... Não é problema.
 //壊れ{0}=Quebrada {0}

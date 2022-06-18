@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ふぉぉ、これはガッカリですよー！=Uau, isso é decepcionante!
 たまたま声を掛けただけでしたか！　はぁぁ、残念……=Por acaso você acabou de chamá-lo! Que pena...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 なんか思うところがあって会えたのかと思ったんですがー……ふむ、わたしの勘違いでしたか！=Pensei que havia algo em sua mente e foi por isso que nos conhecemos, mas... Hmm, eu devo ter me enganado!
 了解です！　ではリアルに偶然だったということで！　また何かあったらお声掛けくださいー！=Sim, senhor! Então foi uma verdadeira coincidência! Se você precisar de mais alguma coisa, por favor me avise!
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 あ、そーなんですか？　あなたさんにしては空気を読んでくれましたねー。=Ah, é mesmo? Você já leu o ar para você, não leu?
 なんかわざわざ呼び止められただけでも疲れるんですけど……まー、何もないならいーです、それじゃ。=Estou cansado de ser chamado até o fim... Bem, se não é nada, então tudo bem, então.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 はぅっ……まさかなんでもないオチだったとは……でもまー、次はお時間のある時にー！=Huh... Eu não percebi que era um ponto fraco... Mas bem, da próxima vez quando você tiver tempo!
 あぁぁ……てっきり用事でもあるのかとー！　では今日はこれで！　またいつでも話しかけてくださいませー！=Pensei que você tinha alguns negócios a tratar! Bem, por hoje é tudo! Por favor, sinta-se à vontade para falar comigo novamente a qualquer momento!

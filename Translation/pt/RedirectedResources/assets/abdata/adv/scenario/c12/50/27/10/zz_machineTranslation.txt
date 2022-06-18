@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 たくさん精液かけてもらえて、すげぇ嬉しいぜ。=Estou tão feliz que você esteja recebendo tanto sêmen em você.
 こんなに出してもらえるなんて……ありがたいぜ、まったく。=Não posso acreditar que me deixam sair assim... Muito obrigado, cara, muito obrigado.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 精液の匂いが充満して……また、身体が熱くなってくるぜ。=O cheiro do sêmen no ar... Está me deixando quente novamente.
 嬉しいぜ、これだけ出したって事は、すげぇ感じたってことだもんな。=Estou feliz que você o tenha feito, cara, porque o fato de ter colocado isso para fora significa que você se sentiu incrível.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 何なんだよ、出しすぎなんだよ、お前……=Que diabos... Você põe muito para fora, você...
 何でこんなに射精できるんだよ、身体おかしいんじゃねぇの？=Como você pode ejacular tanto? Há algo errado com seu corpo, não há?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 これだけ出したのにまだ元気そうだな……絶倫だね。=Você já deu tanta importância e ainda parece muito bem... Imensamente.
 このままだと、染み付いた匂いで、ずっと興奮しっぱなしになりそうだ。=Se eu não o fizer, o cheiro que está penetrando vai me deixar excitado.
 //依存{0}=Dependência {0}

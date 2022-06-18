@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 いくらなんでも……これはやり過ぎだって……私がお前のこと好きだから甘えてるん、だよね？=Não me importa o quanto... Isso é demais... Você só está me mimando porque eu gosto de você, certo?
 あーあ、私も痛いのとか苦しいのが気持ちよくなったら、お前と一緒に楽しめるのにな……=Oxalá me sentisse melhor sobre a dor e o sofrimento, para poder desfrutá-lo com vocês...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 うーん、お前が折角こういう趣味持ってるのに私が楽しめないのは損だねぇ、どうにかしたいな。=Hmmm, é uma pena que eu não possa desfrutar de seu hobby quando você tem tal hobby, eu gostaria de poder fazer algo a respeito.
 なんか掴みかけてるんだけどねぇ、何かきっかけがあれば、私も痛いのがよくなると思うんだけど。=Estou tentando controlar algo, mas ei, se houver um gatilho, tenho certeza de que também me sentirei melhor com a dor.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 正直、お前の趣味には付いていけないんだけど。=Honestamente, eu não sigo seus hobbies.
 もういいから、早く私の前から消えて。=Acabe com isso e saia da minha frente.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 こんなに痛くしてくれるなんて、幸せ……どうやって恩返しすればいい、やっぱりエロかな？=Estou tão feliz que você está me fazendo sentir tanta dor... Como posso lhe retribuir?
 んぅ……もうお前なしじゃ、生きていけないかも。大げさじゃないよ、本当……=Eu não sei mais se posso viver sem você. Não estou exagerando, na verdade...
 //依存{0}=Dependência {0}

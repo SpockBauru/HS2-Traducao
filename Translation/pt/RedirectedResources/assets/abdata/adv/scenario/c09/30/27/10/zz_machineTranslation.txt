@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ん……ふぅ……なんか草っぽい匂いがします……ん……不思議ぃ……=Hmm... Cheira a grama... Estranho...
 あぁ……こんなにかけられて恥ずかしいはずなのに……なんかちょっと……興奮しちゃってます……=Eu deveria ter vergonha de ser coberto desta maneira, mas estou um pouco... Entusiasmado...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 精液でどろどろになったわたしの姿はどーですかー？=Como você gosta de me ver cortado no sêmen?
 濃くてドロドロしてて匂いが強くて……はぁ……こんなにいっぱい汚されるの……癖になりそうです……=É tão espesso e desleixado e cheira tão forte... Haha... Tanta sujeira... Que vai ser um hábito...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 むぅ……これじゃ身体中に匂いがついちゃうじゃないですかー。=Mmm, isso vai deixar o cheiro em todo o meu corpo.
 もぉ洗っていーですか？　この匂いと感触……さすがに限界ですよー。=Posso lavá-lo agora? Este cheiro e sensação... É de fato o limite.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 精液ぃ……指でつつくとぷりぷりしてますよぉ……ん……新鮮ってこと……ですよね。=O sêmen... Quando eu puxo com meu dedo, é suculento. Isso significa que é fresco... Não é?
 //依存{0}=Dependência {0}
 なんだかすごくふしだらな気分ですけど……興奮してもらえましたか？=Eu me sinto como uma vadia, mas... Isso a excitou?

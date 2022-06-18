@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 これって何？！　すっごい動いてんだけど……=Que diabos é isso? Está se movendo tão rápido...
 ちゃんとした生き物なんだよね？=Você é uma criatura apropriada, não é?
 だったら、遊んでみちゃおっかなぁ……♪=Então acho que vou brincar com você ♪

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 しばらくは匂いが残りそうです。ふふ、私……マーキングされてしまいましたね。=O cheiro vai se prolongar por um tempo. Hehe, eu... Eu fui marcado, não fui?
 あぁ、たっぷり匂いを付けられてしまいました……こんなにたくさん、ありがとうございます……=Oh, já me cheirou tanto... Tanto, obrigado...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 はぁ……エッチな匂いでむせかえりそうです……ここで終わってしまうのが勿体ないですね。またすぐ、この濃厚な匂いを嗅がせてください。=Huh... O cheiro malicioso está me fazendo inchar... É bom demais para terminar aqui. Por favor, deixe-me cheirar este cheiro grosso novamente em breve.
 もっともっとかけて良かったのですよ。なんて、流石に無茶を言い過ぎですね♪　水分をたくさん取って、ゆっくり休んでください。=Era bom gastar mais e mais. Que coisa imprudente de se dizer ♪ Tome muita água e descanse um pouco.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 こんなにかける必要が……ありましたか？　本当に自分勝手ですね。きっと他人の迷惑など考えた事もないのでしょう。=Você tinha que... Gastar todo esse dinheiro? Você é realmente egoísta, não é? Tenho certeza de que ele nunca pensa no incômodo dos outros.
 うぅ、ひどい匂いです……こびり付く前に何とかしないと……お風呂だけでは……少々心もとないですね。=Ugh, cheira horrivelmente... Precisamos fazer algo a respeito disso antes de colar... Um banho sozinho... É um pouco pouco pouco pouco confiável.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふふ、大分気持ちよくなって頂けたようですね。私の自己満足にならなくて、良かったです。=Hehe, parece que você tem se sentido muito melhor. Estou feliz por não ter me tornado complacente.
 これくらいめちゃくちゃにされた方が嬉しいです。また、たくさんかけてくださいね。=Estou mais do que feliz por estar assim. Por favor, coloque muito mais nisso.
 //依存{0}=Dependência {0}

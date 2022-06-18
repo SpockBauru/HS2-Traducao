@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 アハッ、アタシとスるの、そんなにコーフンしたんだ？　これだけ盛大にぶっかけといて、今更隠したって無駄だかんね？=Oh, você estava tão animado para me foder, hein? Não adianta escondê-lo agora, depois de ter me pulverizado tanto, certo?
 んぅ……体中アンタの匂い染み付いちゃったかも。アハ、アタシ、マーキングされちゃった？=Acho que tenho seu cheiro em cima de mim. Aha, eu estou sendo marcado?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 //いーよいーよ、こーいうハジけ方は全然アリ♪　はぁっ……匂いが濃くて……また疼いてきそう……=Não importa... Este tipo de flerte é totalmente aceitável... O cheiro é tão espesso que me faz formigar de novo...
 あーあ、こんなにぶちまけちゃって……そんなに気持ち良かったん？　アタシのカラダ♪=Ahhh, eu tenho vomitado tanto... Sentiu isso tão bem? Meu corpo...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 マジ最悪……アンタのくっさい匂い、残ったらどーしてくれんの？=A sério, isto é o pior... O que você vai fazer com o resto do seu cheiro fedorento?
 うっわ、体がくっさ……マジ最悪なんですけど……何食ったら、こんな臭いもの出せるわけ？=Ugh, meu corpo fede... É muito ruim... O que eu como que me faz sentir este cheiro?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 んふ、アンタって、もしかして心配性？　コレ、自分の匂いでマーキングして、アタシを誰かに取られないようにしてんの？=Você é um especialista? Você está me marcando com seu cheiro para que ninguém possa me pegar?
 はぁっ……アンタのエロい匂いで、むせちゃいそ……これだけ汚されると、逆に爽快だよね♪=Hmm... É tão bagunçado por causa do seu cheiro erótico... É revigorante estar tão sujo, não é?
 //依存{0}=Dependência {0}

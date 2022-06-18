@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 あなたさんがいてくれるから……今日みたいなエッチも出来たんですよ？　本当ですからね。=Por sua causa... Pudemos transar como hoje, certo? É verdade.
 今日のエッチは……なんかとーってもイケナイことをしてる気になっちゃいましたね。=O sexo de hoje... Me fez sentir como se eu estivesse fazendo algo realmente malicioso.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 他の人とやらしーことするわたしを見て興奮しちゃいましたか？　ふふっ、そーいう性癖も嫌いじゃないですよ♪=Você se entusiasmou ao me ver fazendo algo assim com outra pessoa? Eu também não me importo com esse tipo de sexualidade.
 本当のことを言うと……わたし、めちゃくちゃ興奮しちゃいました。だって気持ち良かったんですもん！=Para dizer a verdade... Eu estava tão entusiasmado. Porque soube tão bem!
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 はぁ、わたし、完っ全にお疲れモードですよー。もーぐったりですー。=Hah, estou completamente exausto. Estou tão mole!
 なんでこんなエッチしたがるんですかー！　なんかもー色々普通じゃなさすぎです！=Por que você quer transar comigo desta maneira? Você está tão fora do comum de tantas maneiras!
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたさんが傍にいてくれないと……ちょっと不安になっちゃいそうなエッチでした……はふ……=Foi o sexo que me fez sentir um pouco inquieto... A menos que você estivesse ao meu lado... Haha...
 あなたさんの前であんなに乱れちゃうなんて……思い出すと照れちゃいますね、えへへ。=Tenho tanta vergonha de lembrar que fiquei tão selvagem na sua frente, ehehe.
 //依存{0}=Dependência {0}

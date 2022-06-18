@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 なぁ……ちなみにどっちでイったんだ？　だから、俺の方が気持ち良かったとか……どうだった？=Ei... Qual de vocês veio primeiro, a propósito? Então, eu me senti melhor ou... Você se sentiu?
 女をはべらせて、幸せな奴だな……なんか、ちょっとモヤモヤするけど。=Ele é um cara feliz com uma mulher de lado... Embora seja um pouco desconcertante.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 どうだった、女二人がかりは？　なかなか興奮しただろ？=Como foi, um casal de garotas? Foi muito emocionante, não foi?
 なんだか、俺たちがお前を襲ってるみたいですっげぇ興奮したよ。=É como se estivéssemos atacando você. É tão emocionante.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 女、本当に二人も必要だったのか？=Mulher, você realmente precisava de dois deles?
 お前じゃ、複数の女を相手にするなんて、無理だったな。=Você não poderia aceitar mais de uma mulher, poderia?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 色々気持ち良すぎたみたいだな？　さすがのお前も持たなかったか……=Você tem se sentido bem demais para o seu próprio bem, não é mesmo? Acho que você não aguentou mais...
 精液、出しすぎたんじゃないのか？　俺たち、少しやりすぎだったかな。=Acho que você tem um pouco demais de sêmen em você. Exageramos um pouco, não foi?
 //依存{0}=Dependência {0}

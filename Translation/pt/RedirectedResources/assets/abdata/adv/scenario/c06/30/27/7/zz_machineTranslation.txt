@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 女性の扱いが本当にお上手で……将来がちょっぴり不安ですわ、うふふ……=Ele é muito bom com as mulheres... E eu estou um pouco preocupado com seu futuro, sabe?
 もうひとりの方に嫉妬する暇もなく導かれてしまいましたわ……=Não tive tempo de ficar com ciúmes do outro, ele me levou direto a ela.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふたりきりではない状況だからでしょうか、いつもより燃え上がってしまいましたわ……♪=Talvez seja porque não somos só nós dois, mas estou queimando mais do que o normal...
 今度は私たちふたりで恩返しのご奉仕をさせてくださいましね……♪=Por favor, deixe-nos servir aos dois em troca desta vez...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 私の身体を弄ぶだけでなく、他の方と一緒にするなんて……=Não só para brincar com meu corpo, mas para fazê-lo com outro...
 自分のことが嫌いな女を、他の女性の前で絶頂に導いて……さぞ楽しかったでしょうね……=Trazer uma mulher que te odiava ao clímax diante de outra mulher... Isso deve ter sido muito divertido...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふたりとも絶頂に導いてくださり有難うございました、お礼はご奉仕で宜しいでしょうか……？=Obrigado por nos trazer aos dois ao clímax, posso agradecer-lhe por seu serviço?
 あなたにご奉仕するつもりが揃って……ああ、とっても恥ずかしいですわ……=Tenho toda a intenção de servi-lo, mas... Oh, estou tão envergonhada...
 //依存{0}=Dependência {0}

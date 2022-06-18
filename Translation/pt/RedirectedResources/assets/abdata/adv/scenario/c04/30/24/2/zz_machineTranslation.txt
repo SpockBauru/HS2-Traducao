@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 アタシ、アンタのことすきぴになったかも……またいつでも呼び出しおけまるだから。よろ♪=Acho que me afeiçoei muito a você... E você pode me ligar a qualquer momento. Eu estarei lá.
 アタシら、わりとカラダの相性良かったんじゃない？　どう？　アタシのこと忘れられなくなりそ？=Acho que éramos muito bons juntos, não éramos? O que você acha? Você acha que será capaz de me esquecer?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 //あー気持ちよかった。アンタもでしょ？　隠しても無駄だかんね？=Isso soube bem. Também se sentiu bem para você. Não vale a pena escondê-lo, certo?
 //これは、いいオモチャ見つけちゃったかな～。また遊んであげるから、呼んだら秒で来ること、分かった？=Acho que encontrei um bom brinquedo para você! Vou brincar com você de novo. Você entende que eu venho em um segundo quando você me ligar?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 はい終わりー、はい撤収ー、じゃーねー。=Sim, acabou, sim, acabou.
 なに？　感想とか無いから。ひたすらキモかったとか言って欲しいの？　アンタ、マゾ？　終わってんね。=O quê? Eu não tenho uma opinião. Você só quer que eu diga que foi nojento? Você é masoquista? Você está acabado.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 けっこー感じれたかも。アンタもアタシのカラダ触れて、幸せだったっしょ？=Eu realmente pude senti-lo. Você ficou feliz em tocar meu corpo, não ficou?
 初対面でやらしーことするとか、アタシらヤバイよね。ま、気持ちよかったし、アタシ的にはアリだけど。=Acho que é ruim para nós fazermos algo tão maldoso quando nos encontramos pela primeira vez. Bem, soube bem, portanto, na minha opinião não há problema.
 //壊れ{0}=Quebrada {0}

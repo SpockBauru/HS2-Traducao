@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ……もしかして、体調が優れないのですか？　私に出来ることがありましたら、何でもお申しつけください。=... Talvez você não esteja se sentindo bem? Se houver algo que eu possa fazer por você, por favor, me avise.
 ど、どうなさいました？　えっと……私が何か気に障ることをしてしまったのでしたら、大変失礼致しました……=Como posso ajudá-los? Bem... Se eu fiz algo para ofendê-lo, lamento muito...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 この身体の疼きを私はどうすれば良いのですか……=O que devo fazer com este formigamento no meu corpo?
 お互い不満足のまま終わるのは、いかがなものでしょうか？=Como vocês gostariam de terminar insatisfeitos um com o outro?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ……もう、何も言うことはありません。=... Não há mais nada a dizer.
 はぁ……貴方の行いにはため息しか出てきません。=Huh... Eu só posso suspirar por seus atos.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ……貴方がそう仰るのでしたら。=... Se é isso que você está perguntando.
 分かりました……何かございましたら、直ぐにでもお呼びくださいね。=Eu entendo... Se precisar de alguma coisa, por favor, me ligue imediatamente.
 //依存{0}=Dependência {0}

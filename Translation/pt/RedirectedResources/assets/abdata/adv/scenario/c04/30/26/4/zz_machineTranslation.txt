@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 アンタになら、ごーいんにされちゃってもいっかなー♪　ほら、ワンチャン来たよ？　アンタの度胸を見せてみなって♪=Se for você, não me importo de ser transformado em um capacho ♪ Aí vem uma chance? Vamos ver o que você tem...
 ねぇ、怒ったりしないからさ。アタシのカラダ、好きにしちゃっていーよ♪　痛いのとかも、割とイケるから。もーなんでもしちゃって♪=Ei, eu não vou ficar bravo. Você pode fazer o que quiser com o meu corpo... Mesmo que doa, eu posso fazer isso. Você pode fazer o que quiser...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ちょっとアタシ、本気だしちゃおっかなー♪　生温いプレイとか、しても意味ないっしょ？　ちゃけば、少し痛いくらいの方が気持ちいーし♪=Acho que vou ficar sério... Não vale a pena brincar de quente e confuso, não é mesmo? Se você fizer isso, se sentirá melhor se doer um pouco.
 ねー、アタシ目覚めちゃったかもなんだよね～♪　なんてーの、ソフトＭ？　ま、だからってアンタに好き放題はさせてあげないけど♪=Sabe, acho que eu poderia ter acordado... Como assim, masoquista suave? Mas isso não significa que eu vou deixá-lo fazer o que quiser.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 うーん、アンタくらいヘタクソな方が、逆にアリだったりするんかなぁ……あー、こっちの話。アタシが痛がってもやめなくていーかんね？=Hmm, eu me pergunto se é melhor ser tão mau quanto você é... Uh, eu estou falando aqui. Você não tem que parar mesmo que eu esteja com dores, certo?
 アンタみたいなキモいやつは、どーせガシマンとかしてくるんしょ？　いーよ、好きにして。アタシ、痛いのも割とアリなタイプだから。=Um cara assustador como você, você vai cortá-lo ou algo assim, não vai? Tudo bem. Faça o que quiser. Eu sou o tipo de pessoa que pode aguentar muita dor.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 //もーめちゃくちゃにしちゃっていーから♪　アンタの獣欲、アタシが全部受け止めたげる♪=Eu cuidarei de todos os seus desejos animais.
 //んふっ、アタシのこと壊す勢いでよろ♪　大丈夫、ちょっとやそっとじゃ壊れないから♪=Não se preocupe, eu não vou quebrar em um minuto.

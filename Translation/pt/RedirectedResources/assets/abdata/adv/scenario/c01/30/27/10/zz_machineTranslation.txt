@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 なんだか、あなたのニオイで包まれてるみたいよ。=É como se eu estivesse embrulhado em seu cheiro.
 身体全体が……精液で……すごく熱いわ。=Seu corpo inteiro está... Tão quente... Com sêmen.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 このニオイ最高ね……まだ興奮してるわ。=Eu adoro o cheiro disso... Ainda me excita.
 こんなにかけてくれるなんて、気持ちよくなってくれて嬉しいわ。=Estou tão feliz que você esteja se sentindo melhor, que você colocou tanto.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 もうこれで十分でしょ……身体中、べとべとだわ……=Você já teve o suficiente disso... Você está todo pegajoso...
 こんなにかけて来るなんて……もう、十分楽しんだでしょ？=Não posso acreditar que você está me chamando assim... Mas você já se divertiu, não é mesmo?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 べとべとしてすごいわ……身体中からあなたの匂いがする。=É pegajoso e incrível... E eu posso sentir o cheiro de você em mim.
 あなたの精液……もっとかけてもいいのよ。=Seu sêmen... Você pode colocar mais em mim.
 //依存{0}=Dependência {0}

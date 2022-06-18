@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 わ、私はっ……今までそういう経験が無かったですから……え？　今……ですか？　今は……その……はぅうぅ……=Eu... Nunca experimentei nada parecido antes, então... Agora? Agora... Bem... Agora...
 ……そ、それは大変でしたね……でも……お相手の方もきっと……好意でやっていたんじゃ……=Lamento ouvir isso, mas tenho certeza que ele estava apenas... Fazendo-lhe um favor.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 お、女の子の場合、好きって気持ちと……え……エッチしたいって気持ちは……ほとんど一緒かなって思いますよ。=Oh, no caso das garotas, a sensação de gostar... Bem... Querer fazer sexo... É quase a mesma, eu acho.
 ……そういう考え方もありますね。ふふっ、覚えておきます。=... Essa é uma maneira de pensar sobre isso. Vou manter isso em mente.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ……こ、こういうことを私と話して……い、一体何になるんでしょう？=Para que me falar sobre essas coisas?
 う……ご、ごめんなさい……そういう話題は……わ、私、ちょっと……=Sinto muito, sinto muito, mas isso não é... Não é bem isso que eu...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたは……そんなことまで考えてくれてたんですね……ふふっ、嬉しいです。=Você... Você até pensou nisso... Hehe, estou feliz.
 え、えっと……そ、それって一般論ですか？　それとも……あなたの気持ち……？=Bem, uh... Bem, isso é uma generalização? Ou... Seus sentimentos?

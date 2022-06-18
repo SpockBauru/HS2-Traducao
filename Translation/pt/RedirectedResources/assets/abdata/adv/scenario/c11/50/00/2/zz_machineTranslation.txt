@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 あ……お誘い頂けて、大変嬉しく存じます。それでは、致しましょう。=Estou tão feliz que você tenha perguntado. Então, vamos fazer isso.
 私に否やはございません。喜んでお相手させて頂きます。=Eu não tenho objeções. Terei prazer em brincar com você.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 はい、喜んで。そう仰って下さることを期待しておりました。=Sim, com prazer. Eu esperava que você o dissesse.
 勿論、お相手致します。貴方のお誘いを断理由など、何処にも存在しておりません。=É claro que você pode. Não há motivo para recusar sua oferta.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 何故私に……他の方には断られてしまうのですか？=Por que você diz não para mim... E para os outros?
 破廉恥なことしか考えていないのですね、呆れて物も言えません。=Só se pode pensar na falta de vergonha de tudo isso. Estou horrorizado.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 はい、畏まりました。誠心誠意ご奉仕させて頂きます。=Sim, eu sou. Eu o servirei com todo o meu coração.
 そのお言葉を聞いただけで、私の身体の準備は整いました。直ぐに始めて頂いても、問題ございません。=Só de ouvir essas palavras, meu corpo ficou pronto. Você pode começar imediatamente, sem problemas.

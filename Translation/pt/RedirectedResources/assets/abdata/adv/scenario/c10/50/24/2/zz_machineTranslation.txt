@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ふふ。予想通り、貴方はとても素敵な人でした。できればこれで終わりにはしたくありません。またいつでも、お気軽に誘ってくださいね？=Hehe. Como eu esperava, você era uma pessoa muito simpática. Se possível, eu não quero que isto seja o fim. Por favor, sinta-se à vontade para me convidar novamente a qualquer momento, ok?
 ふぅ、楽しい時間はあっという間ですね♪　貴方と一緒に過ごせて、とても幸せでした。なんて……ふふ。私、少し大袈裟過ぎますね。=Ufa, tempos divertidos voam... Fiquei tão feliz em passá-los com você. O que a... Hehe. Eu estou exagerando um pouco, não estou?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あぁ……本当は、もっとずっとしていたかったです。次はいつ誘って頂けますか？　私が欲求不満にならない内に、お願いしますね？=Oh... Eu queria mesmo continuar fazendo isso. Quando você pode me convidar para sair novamente? Antes que eu fique muito frustrado, por favor...
 はぁ……こんなに身体が火照ったのは初めてです。貴方はどうでしたか？　満足して頂けました？=Huh... Nunca senti meu corpo em chamas como este antes. Como foi para você? Você ficou satisfeito?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 えぇと、終わりで……いいのですよね？　ふぅ……それでは失礼させて頂きます。=Bem, é isso... Certo? Hmm... Então vou tirar minha licença.
 あの……満足頂けましたか？　一応、頑張ってはみましたが……まぁこればかりは、相性というものもありますから。=Hum... Você está satisfeito? Eu tentei o meu melhor, mas... Bem, você sabe, há sempre a química.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 貴方にされたこと、しばらく忘れられそうにないです。貴方に気に入って頂けるなら私……本当に何でもできてしまいそうです。=Acho que não poderei esquecer o que você me fez por um tempo. Se eu posso fazer você gostar de mim... Então eu posso realmente fazer qualquer coisa.
 私の身体、変ではありませんでしたか？　またお誘い頂けるのを楽しみにしていますね。多少無茶がしたくなったら、是非ご指名ください。=Meu corpo não era estranho, não é mesmo? Estou ansioso para ser convidado novamente. Se você tiver vontade de ser um pouco imprudente, por favor me nomeie.
 //壊れ{0}=Quebrada {0}

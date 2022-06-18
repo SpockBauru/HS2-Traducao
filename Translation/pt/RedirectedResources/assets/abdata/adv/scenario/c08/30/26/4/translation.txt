@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 //痛いのとか苦しいのに慣れてきたんでーも少し回数増やしてもいいすよー。=
 //痛いのとか苦しいのとかは嫌いすけど、あなたのことは好きなんで受け入れることにしたっすー。=
-//享楽{0}=
+//享楽{0}=Excitada {0}
 //今日なんすけど痛い系は一旦封印しないすか～？　痛いのに慣れてきてるんでマズいかなーってー。=
 痛め付けプレイに慣れてきたんであなたにもーと思ったんすけど、ヤる専門ぽいすよね～。=Estou tão acostumada a brincar com a dor que pensei em experimentar em você, mas você parece estar mais interessado em me foder.
-//嫌悪{0}=
+//嫌悪{0}=Ódio {0}
 //そういやなんすけど、あなたが散々いためつけてくれたお陰で耐性ついちゃったんすよー。=
 //あなたがあんまりにも私を乱雑に扱うんで、痛いのに慣れちゃったんすけどー？=
-//隷属{0}=
+//隷属{0}=Submissa {0}
 今日も目いっぱい痛くしてくれるっすか～？　Mっ気があったみたいでーよくなってきちゃったんすよ～♪=Você vai me dar muita dor hoje? Eu tenho uma tendencia masoquista - e ela está aumentando ♪
 //エロって奥が、やー業が深いなーと思うんすけどー痛いのが逆に気持ちよくなってきたんすよね～♪=

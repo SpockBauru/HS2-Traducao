@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 まったく、好き放題しやがって。相手がオマエじゃなけりゃ、ぶっ飛ばしてたところだ。=Você pode fazer o que quiser. Se não fosse por você, eu teria te dado uma surra.
 痛めつけられても、またしたくなってんだから……オレも重症だな。=Mesmo que você me machuque, você quer fazer isso de novo... Então eu também estou muito doente.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 痛くされることに、そこまで文句を言うつもりはねぇが。別に気持ちいいだけでよくねぇか？=Não quero reclamar tanto sobre a dor, mas... Não é suficiente que se sinta bem?
 オマエの趣味はちょっとヤベェな。全部付き合ってたら、オレでも身体が壊れちまいそうだ。=Seu hobby é um pouco perigoso. Se eu alinhasse com todos eles, até mesmo eu me quebraria.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 オマエ、なんか勘違いしてねぇか？　きっとオマエみたいなやつが、犯罪者予備軍ってやつなんだろうな。=Você está entendendo mal alguma coisa, não está? Tenho certeza de que pessoas como você são o exército pré-criminal.
 痛めつけたいだけなら、自分でも殴ってろ。痛みを知らないやつが、こんなことを軽々しくすんじゃねぇ。=Se você só quer me machucar, vá em frente e bata em você mesmo. Não tome isto de ânimo leve se você não conhece a dor.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あぁ、悪くねぇ。ここまで遠慮なしにできるヤツってのは少ないからな。オマエは貴重な存在だ。=Sim, nada mal. Não há muitas pessoas que possam fazer algo assim sem reservas. Você é uma coisa preciosa.
 そうだ、それでいい。需要と供給ってやつだな。オレ達はそういうところじゃ、最高に相性がいい。=Sim, é isso mesmo. Oferta e demanda, você sabe? Somos o melhor dos dois mundos.
 //依存{0}=Dependência {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 少しの間……アタシに近付かないで。マジ大声出すかんね……？=Apenas... Fique longe de mim por um minuto. Você tem certeza de que não quer gritar?
 はーホントやだ……電車に変なトラウマ植え付けられたぁ……=Eu realmente não gosto disso... O trem me deu um trauma esquisito...
 ねぇ、アンタさ……めちゃくちゃヤバいやつが知り合いにいたりすんの？=Ei, você... Você conhece alguém que seja realmente perigoso?

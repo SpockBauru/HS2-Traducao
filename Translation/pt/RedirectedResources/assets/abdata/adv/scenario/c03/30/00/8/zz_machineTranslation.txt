@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 もっと話してたかったけど、際限なくなっちゃいそうだしね。=Eu queria falar mais com você, mas temo que não haja limite.
 いっぱい話せて嬉しかった。またお話しようね♪=Estou tão feliz por termos conseguido conversar. Vamos conversar novamente.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふぅ、しゃべったしゃべった。喉乾いちゃった。=Phew, eu falei e falei. Estou com tanta sede.
 ふふ、喋るだけでも、結構時間使っちゃったね～。=Hehe, eu passei muito tempo só conversando, não passei!
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 喋るの疲れちゃった。もう終わりでいいでしょ？=Estou cansado de falar. Podemos simplesmente acabar com isto?
 はぁ……退屈な話ばっかり、よくあんなにできるね？=Huh... Toda essa conversa chata, como você pode fazer isso?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 じっくり話すのもいいね。普通に楽しかった。=É bom ter uma longa conversa. Foi simplesmente divertido.
 色々話して、お前のこと、ちょっと分かった気がする。=Sinto que o conheço um pouco melhor agora que conversamos.

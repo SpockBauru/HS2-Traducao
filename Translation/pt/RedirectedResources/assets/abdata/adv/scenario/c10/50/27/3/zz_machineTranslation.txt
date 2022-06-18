@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 相手が貴方でなければ、逃げ出していたでしょうね。その……もう少しだけ優しくできませんか？　考えて頂けるだけでも、よろしくお願いします。=Se não fosse por você, eu teria fugido. Quero dizer... Você não pode ser apenas um pouco mais gentil? Se você pudesse simplesmente pensar sobre isso, por favor, faça.
 貴方のことが、たまによく分からなくなります。こうして、痛くされた後は特に……私は便利な道具のように思わているのですか？=Às vezes não sei o que pensar de você. Especialmente depois de toda a dor que você me causou... Você acha que eu sou algum tipo de ferramenta útil?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 気持ちよければ、何でもしていいと思っています？　実際、そういうところもありますが……少しは加減して頂けませんと、壊れてしまいます。=Você acha que pode fazer o que quiser desde que seja bom? Na verdade, isso é parte disso, mas... Se você não me der uma folga, eu vou quebrar.
 もっと、何と言うか……やり方がありませんか？　痛くされると、気持ちいいのに集中できなくて……貴方はいいのかもしれませんが、私はちょっと……=Não há uma maneira melhor de... Fazer isso? É difícil para mim me concentrar quando dói, mesmo sabendo que é bom, e sei que isso é bom para você, mas eu só...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 あの……なにか勘違いしていませんか？　乱暴にされて喜ぶのは一部の方だけですよ？　そういう特殊な趣味を、私に押し付けないでください。=Hum... Você não está entendendo mal alguma coisa? São apenas algumas pessoas que gostam de ser violadas, sabe? Por favor, não me obrigue a um hobby tão especial.
 ふぅ……貴方は下手ですね。相手のことを何も考えていません。ただ乱暴にするだけでは、強姦ですよ？=Huh... Você não é muito bom nisto. Você não está pensando na outra pessoa. Se você apenas os agredir, é ruim, certo?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふふ、貴方は私の苛め方を分かっていますね。痛いくらいが丁度いいのです。またこうして、たくさん苛めてくださいね♪=Hehe, você sabe como me atormentar. Quanto mais doloroso for, melhor. Por favor, atormente-me muito assim novamente.
 はぁ……この痛みが引くまで、ずっと気持ちいいのが続くのです……容赦なく苛めて頂いて、ありがとうございました♪=Suspire... Continuará a sentir-se bem até que esta dor diminua... Obrigado por me atormentar tão impiedosamente...
 //依存{0}=Dependência {0}

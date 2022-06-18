@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 そんなもんだろ？　深く考える程のことでもねぇよ。=É assim que é, certo? Não é algo para se pensar muito.
 まー、人それぞれだな。オレにはよく分からん。=Bem, depende da pessoa. Não tenho certeza.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 なぁ……この話、楽しいか？=Ei... Você está gostando desta história?
 ……そういうこともある。いちいち気にしてたらキリがねぇ。=... Há coisas assim. Não tem fim se você prestar atenção a isso todas as vezes.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ったく、オマエには一番似合わねぇ話だな。=Bem, esse é o pior tipo de história para você.
 ……オマエの話はしつこいんだよ。もっと要領よく話せ。=... Você está falando demais. Fale mais sobre o assunto.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ……で？　この話はいつまで続くんだ？=... E daí? Quanto tempo esta história vai durar?
 理屈じゃねぇことを考えても、埒が明かねぇだろ。=Pensar em coisas que não são teóricas não nos levará a lugar algum.

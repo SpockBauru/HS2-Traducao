@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたには喜んでもらえて、私は気持ちよくなれて……最高のプレイでした。=Você me fez feliz, eu o fiz sentir bem... Foi uma grande peça.
 ……病みつきになってしまうかもしれません。=... Você pode se tornar viciado nele.
 絡みついていた触手の感触……忘れられそうにないです……=A sensação dos tentáculos entrelaçados ao meu redor... Nunca vou esquecer...

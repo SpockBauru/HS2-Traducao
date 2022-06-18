@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 はいはい、アンタらの勝ちでいーよ。デキル女はね、変なとこで張り合ったりしないの♪=Sim, sim, vocês ganham. As mulheres qualificadas não competem umas com as outras de maneiras estranhas.
 あー気持ちかった♪　でも……やっぱ二人相手は大変だわぁ。マジ、何回も意識飛ぶかと思ったよ～。=Foi muito bom... Mas... É muito difícil lidar com duas pessoas. A sério, eu pensava que ia perder a consciência muitas vezes.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 はぁ……もう嘘みたいに凄かった。こんなんされたら、一人じゃ満足できなくなりそ♪=Foi tão incrível, que parecia uma mentira. Se você fizer isso comigo, nunca ficarei satisfeito com apenas uma pessoa.
 アタシ、わりと一途なつもりだったんだけど……こうやって浮気癖ってついてくのかなぁ♪=Pensei que era bastante solteiro, mas... Pergunto-me se é assim que a traição se torna um hábito.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 いや、二人がかかりでイカせれられない方がおかしいから。別にアンタらが勝ち誇る要素どこにもないからね？=Não, é engraçado que vocês dois não podem me fazer gozar. Não há nada de que você possa se orgulhar, sabe?
 アンタら、絶対犯罪予備軍でしょ。そんなんでしか満足できなくなったら終わりだよ？=Vocês são definitivamente pré-criminosos, não são? Se isso é a única coisa que o satisfaz, você está acabado.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あーやっばい。一人増えただけで全然違う。頭真っ白にされちゃったわぁ♪=Caramba! Apenas mais uma pessoa faz toda a diferença. Fui apagado.
 ん～、この嬲られてる感じ。絶対癖になるなぁ……そうなったらアンタらのせいだなぁ♪=Hmm, esta sensação de ser torturado. Vai se tornar definitivamente um hábito... E se se tornar, será culpa sua...
 //依存{0}=Dependência {0}

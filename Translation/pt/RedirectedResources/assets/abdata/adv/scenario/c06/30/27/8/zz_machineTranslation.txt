@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 愛して頂けないのは名残惜しいですが……あなたが決めたことなら従いますわ。=Lamento que você não me ame, mas... Se a decisão for sua, eu a seguirei.
 あなたからお声がかかる時を心待ちにしておりますわ。=Estou ansioso para ouvir de vocês.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 私は急いでおりませんので、またお呼びくださいまし……♪=Não tenho pressa, então, por favor, me ligue de volta ♪
 あら、了解いたしました、またお時間のあるときに誘って頂けますか……？=Ah, eu entendo. Você pode me convidar novamente quando tiver tempo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 では、これで失礼させて頂きます……=Agora, se me dão licença...
 それでは、ご機嫌よう。=Bem, bom dia para você.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 わかりました、それでは私は下がらせて頂きます。=Muito bem, então, vou deixar você com isso.
 もし私に出来ることがありましたら何なりとお申しつけくださいまし。=Se houver algo que eu possa fazer por você, por favor, me avise.
 //依存{0}=Dependência {0}

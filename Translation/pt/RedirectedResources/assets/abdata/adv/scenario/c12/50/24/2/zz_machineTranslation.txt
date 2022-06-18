@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 うん、なんか……よかったかな……えっと、それじゃ、また誘ってもいいからな、うん、絶対誘えよ。=Sim, foi meio... Bom, eu acho... Hum, bem, você pode me convidar novamente para sair, sim, definitivamente me convide para sair.
 あぁ、うん、それなりに楽しかった……お前が相手なら、次もいけると思うから……ちゃんと誘うんだぞ……いいな。=Sim, sim, foi muito divertido... E acho que com você, podemos gozar à próxima... Então não deixe de convidá-la para sair... Ok?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふぅ！　かなり楽しめたんじゃないか、おい？　これなら次もいけそうだな！　ようし、また誘ってくれよな！=Ufa! Isso foi muito divertido, não foi? Acho que podemos fazer isso novamente! Muito bem, você vai ter que me convidar de volta!
 いやぁ～、満足したぜぇ……お前、結構やるじゃん……俺、初めてだったけどすっげー気持ちよかったぜ……！=Bem, estou satisfeito... Você é muito bom nisso... Foi a minha primeira vez, mas soube muito bem...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 悪かったな、乗り気じゃなくて……まぁ、お前のせいじゃないから、気にすんなよ。=Lamento não ter continuado, mas... Bem, não é culpa sua, então não se preocupe com isso.
 ……もう、したくないけど……そんなワケには、いかないんだろうけど……=... Não quero mais fazer isso, mas sei que não é possível, mas...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 どうだった？　お前が喜んでくれたなら、俺はそれで嬉しいんだけど……もし、その気があったらまた誘ってくれよ、まってるから。=Como foi? Se você está feliz com isso, eu estou feliz com isso, mas... Se você está tão inclinado, por favor, me convide novamente, eu estarei esperando.
 どうだった、俺との時間は？　楽しんでもらえたなら良かったんだけど……でも、これに懲りずにまた誘ってくれよな？=Como foi? Como foi seu tempo comigo? Estou feliz que tenha gostado... Mas não deixe que isso o impeça de me convidar para sair novamente, certo?
 //壊れ{0}=Quebrada {0}

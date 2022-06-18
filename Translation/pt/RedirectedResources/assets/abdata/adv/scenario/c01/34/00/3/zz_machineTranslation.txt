@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 本当に偶然会っただけなのね。=Nós realmente nos encontramos por acaso, não foi?
 あら、なんでもないの？　でも、声をかけてくれただけでも嬉しいわ。=Oh, não é nada? Mas estou feliz que você tenha pedido para falar comigo.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 本当に何でもないの？　何か用があるなら遠慮なく言ってね。=Você tem certeza de que não é nada? Se você precisar de alguma coisa, não hesite em pedir.
 なんでもないなんて、何かあるように思っちゃうわ。=É como se não houvesse nada acontecendo.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 なんでもないなら、別にいいわよ。=Se não for nada, está tudo bem.
 そう、なら問題ないわね。=Bem, então não é um problema.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたがなんでもないなら、それでいいんだけど……=Se não é nada para você, tudo bem, mas...
 本当に何でもないの？　用があればいつでも声をかけてくれていいのよ。=Você tem certeza de que não é nada? Se você precisar de mim, você sempre pode me chamar.

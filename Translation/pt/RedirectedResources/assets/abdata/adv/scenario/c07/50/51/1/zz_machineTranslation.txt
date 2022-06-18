@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 なかなか楽しめたな。やっぱそれ専用の部屋ってのは使い勝手がいい。=Foi muito divertido. Eu sabia que uma sala dedicada a ela era fácil de usar.
 よし、しっかりヤル時はここだな。文句は言わせねぇぞ？=Tudo bem, este é o lugar para foder bem. Não vou reclamar, está bem?
 中途半端は嫌いだからな、こういうとこでした方がスッキリする。=Eu não gosto de fazer as coisas pela metade, então é mais limpo fazê-lo aqui.

@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 そうか。でもちょっとだけでもお前と会えてよかったよ。それじゃあな。=Certo. Mas estou feliz por conhecê-lo, pelo menos por um tempo. Vejo vocês por aí.
 いいよ、別に。お前が俺に声をかけてくれただけで嬉しいぜ。=Tudo bem, cara. Estou feliz por você ter se aproximado de mim.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 なんだよ？　なんか変なもん拾い食いしたんじゃねぇだろうな。=O que é isso? Espero que não tenha pegado algo estranho e o tenha comido.
 そうか。それじゃまたなんかあった時によろしくな。=Estou vendo. Bem, então, aguardarei ansiosamente para trabalhar com você novamente quando algo acontecer.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 俺もだ。気が合うな……じゃあな。=Eu também. Somos almas gentis... Até mais.
 俺も用はねぇよ、んじゃ、さいなら。=Eu também não preciso de você. Tchau, então.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 放置プレイでもするつもりなのか？　だったら乗ってやるよ。じゃあ、後でな。=Você vai brincar de abandonado? Então eu lhe darei uma carona. Vejo vocês mais tarde.
 あれ、なんでもないとは穏やかじゃないな……お前はいつも何かあると思ってたのにな。=Oh, isso não é nada, isso não é calmo... Você sempre soube que havia algo acontecendo com você.

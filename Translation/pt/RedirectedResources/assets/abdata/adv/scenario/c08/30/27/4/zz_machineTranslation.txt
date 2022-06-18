@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 好きな人たちにこんな風にされるなんてー普通の生活じゃ絶対無理すよねー♪=Ser tratado assim pelas pessoas que você ama... É absolutamente impossível em uma vida normal...
 こんなに浴びせかけられたらー生理中だったとしても妊娠しちゃいそうっすねー。=Se eu for pulverizada assim, mesmo que esteja com o período, vou engravidar.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 むせかえるぐらい精液出してもらっちゃってー、一滴一滴勲章にしてぶら下げたいぐらいすよー。=Tive tanto sêmen saindo de mim que estou sufocado, e quero pendurá-lo a cada gota como uma medalha.
 もっと搾り取れるかと思ったんすけどーまだまだ修行が足りないっすね～♪=Pensei que seria capaz de espremer mais, mas ainda não aprendi o suficiente.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ふぅー……精子と精子でも子供が生まれたら面白いんすけどねー。=Hmmm... Seria interessante se o esperma e o esperma pudessem ter um filho.
 いっぱい出せたっすねー偉いっすよー。=Você conseguiu tirar muito proveito disso, isso é ótimo!
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 むふふー、精液の違いをその場で確かめられるのって贅沢っすよね～♪=Hihihi, é um luxo poder ver a diferença no sêmen no local ~ ♪
 くさくてヌルヌルですっごくスケベでー卵子なのに精子になった気分っす。=É fedorento, escorregadio e muito obsceno... Eu me sinto como um esperma, mesmo sendo um óvulo.
 //依存{0}=Dependência {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あなたさんを責めるのって、なんでこんなに楽しいんでしょう？　摩訶不思議ですー。=Por que é tão divertido punir você? Eu não sei.
 本当はまだまだしたかったですけど、それはまたのお楽しみですね。=Eu realmente queria fazer mais, mas isso é para outra época.
 ふふー、なんだかいっぱい胸があったかくなりましたぁ。あなたさんのお陰ですっ。=Tenho muito calor em meu coração. É graças a você.

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 女同士って……ちょっとびっくりするけど、お前が相手なら別にいいかな……=De mulher para mulher... Isso é um pouco surpreendente, mas acho que não faz mal se for você...
 お前、女だよな？　相手、俺でいいんだ？　いや、俺の方は別に問題ないけどさ。=Você é uma mulher, certo? Você tem certeza de que quer fazer isso comigo? Não, eu não tenho problemas com isso, mas...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 女同士ってさ、すっげぇ気持ちいいんだろ？　なんだか興奮してきたぜ！=Sabe, as garotas se sentem tão bem juntas, certo? Estou ficando tão entusiasmado!
 女同士でするなんて、ドキドキしてきたぜ……よぉし、俺が思いっきり気持ち良くしてやるからな。=Estou tão entusiasmado por ter uma garota com uma garota... Ok, vou fazer você se sentir tão bem.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 俺、一応女だけどいいのか？　ふぅん、変わってんだな。=Sou uma mulher. Está bem assim? Hmm, você é estranho.
 女同士ねぇ……あんまり気が進まないけど、しょうがないか……=Mulheres juntas... Não é realmente algo que me interesse, mas acho que não posso evitar...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 初めましてだよね……なるほど、女同士っていうのも悪くなさそうだな。=É um prazer conhecê-lo... Bem, acho que não é tão ruim ser uma garota.
 せっかく女同士なんだから、女にしかできないような事、してみないか？=Já que somos ambas mulheres, por que não fazemos algo que só as mulheres podem fazer?
 //壊れ{0}=Quebrada {0}

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 オレにマーキングか？　用意周到なやつだ。そんなに気に入ってんなら、まぁ嫌な気はしないな。=Você está me marcando? Você é um homem meticuloso. Bem, se você gosta tanto, eu não me sinto mal com isso.
 これだけかけられりゃ、嫌でも匂いを覚えちまうな。ハッ、これでオレを、オマエの女にしたつもりか？=Não posso deixar de me lembrar do cheiro. Você acha que você me fez sua mulher com isso?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 量も凄いが、匂いも濃さもやばいな。どんだけ溜めてきたんだ？　オレとするのが、そんなに楽しみだったのか？=A quantidade é grande, mas o cheiro e a espessura são horríveis. Quanto você tem acumulado? Você estava realmente ansioso para fazer isso comigo?
 はぁ、体中ドロドロだ。この感じは嫌いじゃない。お互いヤリ切ったって感じがするだろう？=Huh, é lodo em todo o meu corpo. Não me importo com a sensação. É como se tivéssemos fodido um com o outro.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ったく、きたねぇもんをさんざんぶっかけやがって。少しはこっちの迷惑も考えろ、アホ。=Droga, você tem despejado todas essas coisas desagradáveis sobre nós. Pense um pouco em nossos problemas, idiota.
 これ、洗ったら落ちるんだろうな？　絶対匂いは残るだろ……こんなくせーんだからよ。=Isto sairá quando eu o lavar, não sairá? O cheiro definitivamente vai ficar... Porque é tão fedorento.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 よくもまぁ、こんなに出せるな。オマエの匂いが、全身に染み付いちまいそうだ。嬉しいことをしてくれるじぇねぇか。=Eu não sei como você pode fazer isso. Seu cheiro vai me encharcar por todo o meu corpo. Você está me fazendo um favor, não está?
 ハッ、出し過ぎだな。これはもう、オレが全部搾り取ったってことでいいのか？　ちゃんと言わないと、また出させるぞ？=Ha, você está dando demais. Isso significa que eu já espremi todo o suco de você? Se você não me disser, eu o farei pagar novamente.
 //依存{0}=Dependência {0}

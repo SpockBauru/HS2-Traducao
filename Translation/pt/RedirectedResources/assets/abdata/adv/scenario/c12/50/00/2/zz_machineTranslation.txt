@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 そうか、俺で良ければ喜んで付き合うぜ。=Bem, estou feliz em sair com você, se não se importar.
 やっぱりそうだったんだな。おぉ、いいぜ。俺が相手になってやるよ。=Eu sabia, não sabia? Ah, sim. Eu serei seu parceiro.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 だよなぁ！　ＯＫＯＫ、それじゃさっそく始めようぜ！=Isso mesmo! OK, OK, então vamos continuar com isso!
 //いいねぇ、俺も身体が疼いちゃってたまらなかったんだよなぁ！=Isso é ótimo. Eu também não conseguia me fartar dos formigueiros no meu corpo!
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 お前は、バカだな。=Você é um idiota.
 そうかよ……好きにすればいいだろ。=Bem... Você pode fazer o que quiser.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 やっぱりセックスか。お前とのセックスなら、いつでも相手してやるぞ。=Eu sabia. Sexo. Farei sexo com você sempre que você quiser.
 分かりやすいな、お前は……もちろん答えはイエスに決まってるだろ。=Fácil para você entender, você... É claro que a resposta é sim.

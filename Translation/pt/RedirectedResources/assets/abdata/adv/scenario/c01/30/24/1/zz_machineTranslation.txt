@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 同性だからって気にする必要ないわ。あなたが相手なら最高よ。=Você não tem que se preocupar em ser do mesmo sexo. É ótimo se for você.
 あなたが相手になってくれるなんて嬉しいわ。初めてだからドキドキしちゃう。=Estou tão feliz que você vai ser meu parceiro. É a minha primeira vez, portanto estou nervoso.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あなたと一緒に気持ち良くなれるなんて、最高に楽しみだわ。=Estou tão entusiasmado em me sentir tão bem com você.
 あなたの事、思いっきり感じさせてあげたいわ。もちろん、私も一緒にね。=Eu quero fazer você sentir todas as coisas que eu sinto. Comigo, é claro.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 あんまり興味ないけど、するなら早く済ませましょ。=Eu não estou realmente interessado, mas se você estiver, vamos acabar com isso.
 初めてが同性相手だなんて……あんまりその気になれないわね。=Não estou realmente com disposição para a minha primeira vez com o mesmo sexo.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 なんでもあなたの思い通りにしてあげるわ。楽しみにしていて。=Eu farei o que você quiser que eu faça. Aguardem ansiosamente.
 私、初めてだけど、あなたの好きにしていいのよ。=Eu sou novo nisso, mas você pode fazer o que quiser.
 //壊れ{0}=Quebrada {0}

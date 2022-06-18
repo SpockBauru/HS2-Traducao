@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 今のエッチ……すごく、激しかったわもう……動けないかも……=Eu não sei mais se posso me mudar.
 こんなに、激しいなんて、思わなかったわ……あなたって、すごいのね……=Nunca pensei ser tão intenso... Mas você é incrível...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 最高に……感じちゃったわ……もう、しばらく、動けないかも……=Eu me sinto tão... Bem... Que talvez não possa me mover por um tempo.
 あなたとのエッチ、感じすぎちゃった……もう、身体が、もたないわぁ。=Eu senti tanto sexo com você... Meu corpo não aguenta mais.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 も、もう十分でしょ……私、これ以上は……無理よ……=Já estou farto disto... E não posso... Ir mais longe...
 もう、もうだめ……これ以上は、身体が……動かないから……=Eu não posso, não posso... Ir mais longe, porque meu corpo... Não pode se mover...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 すごいわ……やっぱりあなたとの、エッチ……最高に、気持ちいいわぁ……=É tão bom... Transar com você... É tão bom...
 だ、大丈夫よ……あなたが、満足してくれたなら……疲れたなんて、言ってられないわぁ……=Bem, tudo bem... Se você está satisfeito... Não pode dizer que está cansado...
 //依存{0}=Dependência {0}

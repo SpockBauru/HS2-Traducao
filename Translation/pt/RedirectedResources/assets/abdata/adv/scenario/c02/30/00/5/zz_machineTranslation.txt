@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ―――そういった楽しみ、あなたと一緒に経験してみたい……です……=Eu gostaria de experimentar esse tipo de diversão com você...
 ―――ふーん、そうですか…………私も覚えなきゃ……=Hmmm, bem... Eu terei que lembrar que...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ―――えぇ、楽しいですよ？　あなたの困った顔を見るのは……♪=---Sim, é divertido, não é? Para ver seu rosto atribulado ♪
 私だったら、もっと強引に行きますね。そうじゃないと楽しくないじゃないですか。=Se fosse eu, eu iria com mais força. Caso contrário, não seria divertido, certo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 楽しい事……少なくとも、今この状況は楽しくないですね。=Coisas divertidas... Pelo menos, esta situação não é divertida no momento.
 ―――あの、もう少し楽しい話をしてくれませんか？=--- Um, podemos falar de algo um pouco mais divertido?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 好きな相手が喜ぶ事をする。とても大事な事です。=Faça o que faz a pessoa que você ama feliz. É muito importante.
 ……そうですね、そうやってグイグイと来て堕ちない雌はいないと思います。=... Sim, não creio que haja uma mulher que não caia numa risada como essa.

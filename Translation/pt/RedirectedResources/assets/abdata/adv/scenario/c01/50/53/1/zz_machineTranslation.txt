@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あんなに気持ち良くなれるなんて……触手ってすごいのね。=Poder sentir que bons... Tentáculos são incríveis.
 私も飼おうかしら、この子。=Acho que vou ficar com ela também.
 触手って、あんなに感じちゃうのね……すごかったわ。=Eu não sabia que os tentáculos podiam se sentir assim... Foi incrível.

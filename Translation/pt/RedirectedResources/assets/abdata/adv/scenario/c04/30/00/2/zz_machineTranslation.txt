@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 おっと、ご指名でしたか～。もちおけまる♪=Oops, foi seu compromisso? Mochiokemaru ♪
 ちょマ？　そんなん、秒で了承なんですけど。んふふ、嬉しみ♪=Choma? Isso é algo que eu aprovaria em um segundo. Hihihi, estou tão feliz.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 んふ～、やっぱそういう話ね。いーよー、アタシもシたかったし♪=É disso que você está falando. Está tudo bem, eu também queria fazer isso.
 よくぼーに素直で大変よろしい♪　んじゃ、どこでしよっか？=Você é muito bom em ser honesto.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 はぁ？　なにそれ……他の人じゃダメなの？　マジめんどくさ……=O que é isso? Por que não pode ser outra pessoa? Isso é realmente irritante...
 だと思った。アンタってもう、それしか考えてないんでしょ？=Isso foi o que eu pensei. É só nisso que você pensa, não é mais?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 //はいキター！　ご指名頂きました～♪　んふ、マジテンアゲ♪=Aí vem ela! Você foi selecionado ♪ Oh, estou tão entusiasmado ♪
 //あはっ、そういうストレートなお誘い大好き♪　むしろ、言われなかったらアタシから誘ってた的な？=Adoro convites simples como esse... Se você não tivesse me perguntado, eu teria perguntado a você.

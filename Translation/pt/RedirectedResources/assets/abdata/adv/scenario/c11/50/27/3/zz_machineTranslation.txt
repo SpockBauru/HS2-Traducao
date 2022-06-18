@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 この痛みも、貴方からの愛だと思えば、私は……=Se eu pensar nesta dor como amor de vocês, eu...
 痛いですが……それが貴方の喜びに繋がるのでしたら、問題ございません。=Dói... Mas se lhe traz alegria, então está tudo bem.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 女を痛めつけて喜ぶとは、随分破廉恥な趣味をお持ちですね。=Você tem um hobby muito vergonhoso, tendo prazer em torturar mulheres.
 もう少々、手加減して頂く存じます。私が壊れてしまっては元も子もありませんよ？=Eu sei que você vai levar isso um pouco mais fácil para mim. Se eu quebrar, não há nada que você possa fazer.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 何故、貴方に折檻されなければならないのですか？=Por que eu deveria ser castigado por você?
 嫌いという言葉では足りない程、貴方が心底憎たらしいです。=A palavra "ódio" nem sequer começa a cobrir o quanto eu odeio você.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 痛めつけて頂いた箇所が熱く……貴方の愛を感じます。=Eu sinto o calor de sua dor... E de seu amor.
 次回はさらに強く躾けて下さいますか？　いっそ壊れてしまう程に……=Você vai me disciplinar mais da próxima vez? Ao ponto de quebrar...
 //依存{0}=Dependência {0}

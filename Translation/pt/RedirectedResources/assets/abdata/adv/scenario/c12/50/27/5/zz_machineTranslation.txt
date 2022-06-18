@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 気持ちよかったんだけどさ……やっぱ、お前だけの方が良かったかなぁ……=Foi bom, mas... Teria sido melhor se fosse só você...
 お前が楽しんで、俺も気持ち良かった……まぁ、悪くないのかな。=Você se divertiu, e eu me senti bem... Bem, acho que isso não é tão ruim assim.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 やっぱり多勢に無勢だったな……すっかりいかされちまったぜ。=Afinal, estávamos em desvantagem numérica. Fomos totalmente aproveitados.
 お前らに囲まれて、こんなに感じるなんて……すげぇ興奮しちまったよ。=Não acredito como é bom estar cercado por vocês... É tão emocionante.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 大勢で一人の女を囲んで楽しかったか？　もう、終わりでいいだろ……=Você gostou de ter tantas pessoas ao redor de uma mulher? Vamos acabar com isto...
 お前ら、俺をいかせて満足だろ？　だったら、もうどっか行ってくれよ。=Vocês estão felizes em me fazer ejacular, não estão? Então saia daqui.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 まさに輪姦だな……思わず興奮してしまったよ。=É uma verdadeira foda em grupo... E eu não pude deixar de me divertir.
 文字どおり嬲れてしまった……お前たち、かなりいいチームなのかもしれないな。=Eles literalmente me torturam... Vocês podem ser uma equipe muito boa.
 //依存{0}=Dependência {0}

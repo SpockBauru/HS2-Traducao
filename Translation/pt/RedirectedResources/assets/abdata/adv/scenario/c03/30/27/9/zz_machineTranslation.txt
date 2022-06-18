@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ふぁ……なんか……ふぁふぁしゅゆ……んへへ……幸しぇぇ……♪=Ufa... Alguma coisa... Ufa... Ei... Felizmente ♪
 んぅぅ……気持ひはもっろしたいんらけろぉ……身体が……もうらめらぁ……♪=Eu quero me sentir tão bem... Mas meu corpo... Está me dando arrepios...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 んぁー、私は……まらまらできるんらお……？　れもお前が無理そうらから、やめといらげぅぅ……♪=Hmm, eu... Não posso... Posso? Acho que você não pode fazer isso, então não o faça...
 はふ……もうらめ……満足し過ゅぎれ……頭……くぁくぁしゅるぅ……♪=Hafu... Morame... Satisfeito e oprimido... Cabeça... Kuakuashuru ♪
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 んく……終わい終あいぃー……んぅぅ……もうほんろ……お終ぃぃ……♪=Mmm... Acabou, acabou... Acabou, acabou...
 はーい、解しゃーん……んー、もうれ……付き合い切えまひぇーん……♪=Hmmm, me desculpe... Eu vou me dar bem com você ♪
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あぅー……もう終あい？　んぅ……良かったらぁ……私もう……限界らったかぁぁ……♪=Oh... Você já terminou? Bem... Se você não se importa... Eu estou... No meu limite?
 んー、お前の顔あ……二ちゅにみえうぅ……あー、こぇもう……やめろいた方がいいれぇ……♪=Seu rosto... Parece dois... Ohhh... Não... Não faça isso...
 //依存{0}=Dependência {0}

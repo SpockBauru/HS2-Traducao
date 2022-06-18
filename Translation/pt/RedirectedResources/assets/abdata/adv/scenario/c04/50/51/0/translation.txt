@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//享楽{0}=
+//享楽{0}=Excitada {0}
 うーわ、なにこの部屋。ちょっとマニアック過ぎない？=Uau, que bela sala. Não é um pouco exagerado?
 え、なに？　まさかアタシ……チョーキョーされちゃう？　そういうパティーン？=O que? Não me diga que eu vou... Ser amordaçada? Esse tipo de coisa?
 それとも～、アタシにチョーキョーして欲しいの？　そっちなら全然アリよりのアリなんだけど♪=Ou você quer que eu faça isso em você? Se for esse o caso, fico mais do que feliz em fazê-lo ♪

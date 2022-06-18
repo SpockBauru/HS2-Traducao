@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 んー……ろうしたぁ……もぉおわぃかあ……あー……んぅぅ……=Eu.. Oh, não...
 はぁ……なんらこぇ……んぅ……めがぼやけぅぅ……=O que há de errad? Meus olhos estão desfocados.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 んぅ……らいじょーぶら……おぇはまられきぅ……んぅ……えんりょしゅぅらぁ……=Oh, estou tão feliz e..., estou tão feliz em vê-lo.
 //んぁー……しゃすがに……もおむぃかぁ……んー……なしゃけらぃ……=Está muito quente para você? Não, não está.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 んぁー……おまぁ……やりしゅぎらぞぉ……まっらくぅ……んぅぅ……=Ohvocê estestá
 あぁ……もうちゅきあぃきぇん……んぅー……ひとぃれしぉぉ……=Oh, voltarei em breve.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 //あー……こんらになぅまれしやがっれ……んぁー……ひもちぃぃじゃれぇかぁ……=Oh, você é uma cadela para mim... Você doce...
 はぁぁ……もうまんぞくらぁ……こえいりょうは……ちゅらくなぅぅ……=Estou tão feliz... Meu amor está tão feliz...
 //依存{0}=Dependência {0}

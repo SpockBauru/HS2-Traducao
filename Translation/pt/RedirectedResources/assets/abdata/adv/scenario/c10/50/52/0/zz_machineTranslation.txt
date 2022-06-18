@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 まさかとは思いますが……こんな所でシたいなどとは言いませんよね？=Eu não acho que você... Vai me dizer que quer fazer isso aqui, vai?
 ぅう……絶対に気付かれてしまいますよ？　そうなったら、貴方だって……=Ugh... Eles definitivamente vão notar, não vão? E se eles o fizerem, você será...
 い、色々と大変なことになりますから……どうか自重してください……=Não, vai ser um grande problema... Então, por favor, tente se controlar...

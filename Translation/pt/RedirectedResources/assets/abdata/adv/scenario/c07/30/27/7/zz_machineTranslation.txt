@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ハハッ、まさか本当にオレらに勝っちまうとはな。これは、もっとご褒美をやらねぇといけねぇか？=Hahaha, eu não pensei que você realmente nos venceria. Terei que lhe dar mais recompensas por isso, não é mesmo?
 あー、負けだ負け。オレらはオマエに降参だ。ほら、もっと好きにしてもいいんだぞ？　勝ったやつの特権だ。=Ah, derrota, derrota. Nós nos rendemos a você. Você sabe que pode fazer o que quiser. É uma prerrogativa do vencedor.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 いいねぇ。オマエが相手なら、オレらは当分退屈しなそうだ。これからもその調子で、よろしく頼むぜ？=Legal. Com você como parceiro, não vamos ficar entediados por muito tempo. Continue com o bom trabalho, sim?
 ハッ、参った。二人で相手してイカされるとか、情けな過ぎるだろ。=Ohhh. É patético demais para ser feito por duas pessoas para gozar.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ほう、テクだけはあるみたいじゃねぇか。だが、それだけだ。オマエは致命的に気持ち悪ぃからな、モテることは無いだろうよ。=Bem, parece que você tem algumas habilidades. Mas isso é tudo. Você é mortalmente assustador, portanto nunca será popular.
 こんだけのテクがあるなら、もうオレらが相手にしなくてもいいだろ？　快楽に飢えてる女を適当に捕まえて、ペットにでもしてろ。=Se você é tão bom assim, não precisa de nós para cuidar de você, precisa? Você pode simplesmente levar qualquer mulher que esteja com fome de prazer e fazer dela seu animal de estimação.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 おいおい、流石だな。オレらをまとめてイカせちまうなんて。これでもわりと、本気出してたんだぜ？=Oh, cara, você é bom. Você nos fez gozar todos de uma só vez. Sabe, eu estava realmente apostando nisso, certo?
 二人がかりでも勝てないなら、今度は三人か？　いや、オマエにはそれでも足りない気がしてきたな。=Se você não pode me vencer com dois, agora você quer três? Não, estou começando a pensar que isso não é suficiente para você.
 //依存{0}=Dependência {0}

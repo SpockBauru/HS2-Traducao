@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 ……それじゃぁ、これから心身共々、よろしくお願いしますね。=... Bem, então, eu espero trabalhar com vocês tanto física quanto mentalmente a partir de agora.
 ふぅ……まぁ、したい時にまた呼んで下さい。　……あなたになら、応えて問題なさそうですから。=Hmm... Bem, me ligue novamente quando quiser... Porque acho que não terei nenhum problema em responder a você.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 私、まだまだ満足していないんで。　これから、もっともっと楽しませて下さいね？=Ainda não estou satisfeito. Por favor, deixe-me se divertir cada vez mais a partir de agora.
 それじゃまた。　……次もまた、遊びましょう？=Vejo vocês então... Vamos jogar novamente da próxima vez, certo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 はい、終わりです。　お疲れさまでした。=Sim, acabou. Obrigado por seu tempo.
 別に、無理に誘って頂く必要はないので。　むしろ誘って頂かなくても結構ですので。=Você não precisa me forçar a convidá-lo. Na verdade, você não precisa nem mesmo me convidar.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 私、待つのは得意ですから。　次もまた、よろしくお願いしますね？=Eu sou bom em esperar. Vejo você da próxima vez, não é mesmo?
 こんなものじゃ相性なんてわかりませんよね。　だから……次も、お願いしますね？=Não se pode distinguir a química com algo assim. Então... Da próxima vez, por favor, também, está bem?
 //壊れ{0}=Quebrada {0}

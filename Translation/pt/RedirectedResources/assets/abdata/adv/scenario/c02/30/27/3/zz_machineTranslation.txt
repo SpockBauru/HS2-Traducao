@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 愛の鞭とか……そ、そんなので騙されませんからね？=Não vou ser enganado por um chicote do amor ou algo parecido, certo?
 まったく、痕になったらどうする気ですか……責任取ってもらいますよ？=Jesus, o que você vai fazer se ficar com uma cicatriz... Você vai ter que assumir a responsabilidade, certo?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ……やられた分は、いつかやり返してやりますから。=... Um dia me vingarei pelo que você me fez.
 次は私の番で構いませんよね？　か・ま・い・ま・せ・ん・よ・ね？=Você não se importa se eu for o próximo, não é mesmo? Você não se importa, não é mesmo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 何ですか？　噛みつかれたいんですか？=O que é isso? Você quer que eu te morda?
 はぁ、最っ低……=Huh, isso é baixo...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 私はマゾな雌豚です……とでも言えばいいんですか？　……間違いじゃないですけど。=Eu sou uma porca masoquista... É isso que você quer que eu diga? Não é um erro, no entanto.
 どんなプレイでも、感じたもの勝ちですから……ね？=Não importa como você joga, você ganha se você sente isso... Certo?
 //依存{0}=Dependência {0}

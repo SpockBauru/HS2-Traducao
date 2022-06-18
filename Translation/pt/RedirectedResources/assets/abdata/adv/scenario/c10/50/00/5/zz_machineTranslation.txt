@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 それは刹那的というか……別に否定はしませんが……=É uma coisa momentânea... Não que eu esteja negando, mas...
 あ、改めて……貴方の凄さを実感しました。=Ah, eu percebi... Mais uma vez... Como você é incrível.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 そうですね。結局は楽しんだもの勝ちですから。=É isso mesmo. No final, você ganha se você gosta.
 私、そういうお話は大好きです。ふふ♪=Eu, eu amo essas histórias. Hehe ♪
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 その、全然楽しくありませんが……どこが面白いのです？=Quero dizer, não é nada divertido, mas... Onde está a graça nisso?
 悪趣味ですね……自慢気に語るようなことでは無いと思います。=É de mau gosto... E eu não acho que seja algo para se gabar.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 えぇと、私には真似できそうにありませんね……=Bem, acho que não vou conseguir copiar isso...
 やはり貴方は、私には無いものを持っているようです。=Afinal de contas, você parece ter algo que eu não tenho.

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 じー……ちょっと嫉妬……=Caramba... Um pouco de inveja...
 お前、この子ばっかり見てなかった？　き、気のせいならいいけどさ……=Você tem estado olhando para ela o dia todo? Espero que seja apenas minha imaginação, mas...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふたりでやりたい放題するって楽しい～♪　次はどんなふうにお前をイかせるか相談したい♪=É divertido fazer o que quisermos juntos ♪ Quero falar com você sobre como podemos fazer você gozar a próxima ♪
 あはっ、すっごい出たね。二人分出してくれたの？=Isso é muito esperma. Você me deu o suficiente para nós dois?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 二人にされるからって、期待しちゃったんだ？=Você teve esperanças só porque eles fizeram vocês dois?
 引くほどイってたけど……ま、お前がどうなっても私たちには責任なんてないけど。=Eu vim com tanta força que me retirei, mas... Bem, nós não somos responsáveis pelo que acontece com você.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ふたりでお前の相手するの、面白い……もっと搾りたいとこだけど、流石に無理？=Sabe, é engraçado, nós dois contra você... Adoraríamos espremer mais de você, mas não podemos, não é mesmo?
 ふたりだからって、ちょっと生意気なプレイすぎた？　個別でお仕置き、してもいいからね……=Só porque somos só nós dois, não significa que não podemos ser um pouco atrevidos. Posso puni-lo individualmente...
 //依存{0}=Dependência {0}

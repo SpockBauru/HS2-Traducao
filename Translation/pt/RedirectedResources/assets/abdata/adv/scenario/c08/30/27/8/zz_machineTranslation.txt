@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 だ、大丈夫っすかー？　あなたが何もしないでやめちゃうなんてー明日は槍が降るんじゃー……=Você está bem? Não acredito que você vai desistir sem fazer nada, amanhã vai chover lanças...
 んー……了解っすよー、またヤル気になったらお気軽に誘ってほしいっすよー。=Se você tiver vontade de jogar novamente, por favor, sinta-se à vontade para me convidar.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 えっとー……私の煩悩がスケスケだったから萎えたとかじゃないすよねー？=Bem... Não é como se você tivesse sido esvaziado porque meus problemas eram muito assustadores, não é?
 今日はやっぱり違ったーって感じすかねー、残念すけどーノリ気じゃないならやめとくべきすねー。=É uma pena, mas se você não está com disposição, não deve fazer isso.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 気分が乗らないなら仕方ないっすね～。=Se você não está com disposição, não adianta!
 私ー盛り下げちゃったすかねー？=Eu diminuí a excitação?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 今度はもっとセクシーに誘えるようにーレッスンしないとっすねー。=Preciso aprender a ser mais sexy da próxima vez.
 今の私には犯す価値なしってことでーあえて突き放すんすかー？=Então você está dizendo que sou indigna de ser fodida? Você se atreve a me jogar fora?
 //依存{0}=Dependência {0}

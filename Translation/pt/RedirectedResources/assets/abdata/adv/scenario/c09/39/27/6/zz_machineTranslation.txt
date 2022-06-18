@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 あなたさんが満足してくれたこと、わたしもあの娘も嬉しいって思ってますよ。=Estou feliz que você esteja satisfeito, assim como ela.
 気持ち良かったですか？　ふふっ、わたしたちの思いがきちんと伝わった結果ですね♪=Sentiu-se bem? Bem, é o resultado de nossos sentimentos serem transmitidos corretamente.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 同時に他の娘も相手しちゃうなんてー、あなたさん、本当にエッチが好きなんですね♪=Você realmente gosta de transar com outras garotas ao mesmo tempo, não é mesmo?
 あなたさんの飽くなき挑戦心に、わたしもあの娘もメロメロですよ、ふふっ。=A garota e eu estamos derretidos por seu insaciável espírito desafiador.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 あのー、エッチって普通、二人でするものじゃないんですかねー、はぁぁ。=Hum, o sexo não é geralmente algo que duas pessoas fazem juntas, haha?
 こんなエッチで悦んじゃうなんて、あなたさん、本当に変態さんですね、まったく。=Você é realmente um pervertido, não é, que pode ter prazer com este tipo de sexo?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたさんがイッてくれたのは嬉しいんですけど……なんかこー、ちょっともやもや……嫉妬？　みたいな感じですー、なんちゃって♪=Estou feliz que tenha vindo, mas estou um pouco desconfortável... Com ciúmes? É como... Não sei...
 わたしはどんなエッチでも、あなたさんが気持ち良くなってくれれば満足です。また一緒にしましょーね。=Ficarei satisfeito se você se sentir bem, não importa o tipo de sexo que tenhamos. Vamos fazer isso juntos novamente.
 //依存{0}=Dependência {0}

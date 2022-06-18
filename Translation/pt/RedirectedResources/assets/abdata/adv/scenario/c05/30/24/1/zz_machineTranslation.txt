@@ -8,13 +8,13 @@
 //好意{0}=Amor{0}
 は、初めてのことって、すごく怖いけど……でも、相手があなただから、安心してます……変、でしょうか……？=Estou realmente com medo de fazer algo pela primeira vez, mas estou aliviado que seja você... Isso é estranho?
 あぁ……お相手が、同性のあなたで良かった……なんて言ったら……引いちゃいますか……？=Se eu lhe dissesse que estou feliz por você ser do mesmo sexo que eu... Você ficaria ofendido?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あ、あなたとのエッチ、すごく楽しみです……同性にしか分からないこと……いっぱい試して下さいね？=Oh, estou realmente ansioso para fazer sexo com você... Coisas que só o mesmo sexo pode entender... Por favor tente muitas delas, está bem?
 エッチって、同性だからこそ出来ることも沢山ありますよね？　だから……私からも、色々試してみていいですか……？=Há muitas coisas sobre sexo que só podem ser feitas como um membro do mesmo sexo, certo? Então... Posso experimentar algumas coisas em você?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 こ、こんな私が相手でいいんですか……？　ね、根暗で、頼りなくて……いいとこなんて一つもないのに……=Você tem certeza de que esta é a pessoa certa para mim? Sou moreno, não sou confiável, não tenho boas qualidades...
 あ……ご、ごめんなさい……今から女の子に犯されるのかと思ったら、膝が震えて……ごめんなさいぃ……=Oh... Desculpe... Meus joelhos estavam tremendo quando pensei que uma garota ia me foder agora... Desculpe...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 私、同性から激しくされるの、好きみたいなんです……いつもそういう想像してましたから……え、えへへ……=Acho que gosto quando pessoas do mesmo sexo me batem forte... Porque eu sempre imaginei assim... Hehehe...
 きょ、今日はその、いっぱい恥ずかしいことして下さい……女の子にしか分からないエッチ……考えただけでゾクゾクしちゃいます……っ=Hoje, por favor, faça muitas coisas embaraçosas... Sexo que só uma garota pode entender... Só de pensar nisso me dá arrepios...
 //壊れ{0}=Quebrada {0}

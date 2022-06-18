@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 そんな期待に満ちた目をしなくても……きちんと苛めてさしあげますよ？=Você não precisa olhar tão esperançosamente para mim, eu o atormentarei adequadamente.
 動けない状態で……私に好き放題されたいのですよね？=Você quer ficar preso... E me deixa fazer o que eu quiser com você, não é mesmo?
 では、今日のことが忘れられなくなるくらい、容赦なくさせて頂きますね。=Então eu serei tão implacável que você nunca vai esquecer hoje.

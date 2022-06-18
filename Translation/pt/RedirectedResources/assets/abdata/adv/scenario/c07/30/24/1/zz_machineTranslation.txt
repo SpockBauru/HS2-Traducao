@@ -8,14 +8,14 @@
 おいおい趣味が合うな。オレも女同士はアリだと思うぞ。女らしくとか、気を使わなくていいからな。こういうことは、素の自分で楽しみたいだろう？=Oh, vamos lá, vocês têm o mesmo gosto. Eu acho que as mulheres deveriam estar juntas. Você não precisa se preocupar em se parecer com uma mulher ou qualquer coisa. Você quer desfrutar deste tipo de coisa com seu verdadeiro eu, certo?
 ほお、こういうのは何て言うんだ？　百合だったか？　それともレズか？=Oh, como você chama esse tipo de coisa? É yuri? Ou lésbica?
 まあ、結局ヤルことは一緒だ。男か女かなんて、どうでもいいことだったな。=Bem, no final das contas, é tudo uma questão de dar uma queca. Não importava se era um homem ou uma mulher, não é verdade?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ハッ、なんだオマエ。レズってやつか？　別に、馬鹿にしてるわけじゃねえぞ？　レズでもなんでも、要は気持ちよければいいんだ。=Huh, o que você é, uma fufa? Você é lésbica? Não estou gozando com você, está bem? Não importa se você é lésbica ou não, desde que se sinta bem.
 あー、オレの相手は女か。ちょっと驚いたが、ここは考え方を変えるべきだな。=Oh, então meu parceiro é uma mulher. Estou um pouco surpreso, mas acho que devo mudar de idéia aqui.
 オマエの身体は柔らかくて気持ちよさそうだしな。よし、オレが攻めだ。異論は認めないぞ。=Seu corpo é tão macio, é tão bom. Está bem, eu vou tomar a ofensiva. Eu não vou discutir com você.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 おい、これはなんかの冗談か？　だとしたら、笑えねぇな。女同士とか、キモチわりぃ……=Isto é algum tipo de brincadeira? Se sim, não é engraçado. Mulheres juntas, isso é nojento...
 あー、これはハズレを引いちまったな。まさかレズの変態様が相手とは……最悪だ。=Ah, acho que apanhei o cara errado por isto. Não pensei que estaria lidando com uma pervertida lésbica... Que é uma droga.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ほう、こういうこともあるのか。確かに、女同士でもヤれないことは無いが……=Oh, então é assim que acontece? Claro, não é como se as mulheres não pudessem foder umas com as outras, mas...
 よし、まずはオマエの好きにしてみろ。お手並み拝見ってやつだな。=Muito bem, vamos ver o que você pode fazer. Vamos ver o que você pode fazer.
 あ？　オマエ本気か？　オレが男に見えたとか、そういう冗談じゃないよな？=O quê? Você está falando sério? Você não está brincando que eu pareço um homem, está?

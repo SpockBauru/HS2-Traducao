@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 ちょ、あんま大きい声でそういうこと話さないっ。=Não fale assim muito alto.
 え……それマジで言ってる？=O que... Você está falando sério sobre isso?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ……うーん、アタシは気持ちければ基本なんでもいーよ♪=Não me importa o que é, desde que se sinta bem.
 あはっ、下ネタですかぁ？　んふふ、アタシ以外にはそういう話しない方がいいよ？=Haha, isso é uma piada? Não fale sobre essas coisas a ninguém além de mim, certo?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 は？　知らないし……キモ……=O que é isso? Eu não sei... Bruto...
 てかさ、いきなり下ネタ振ってくるとか。アンタって下半身に脳がついてんの？=Quer dizer, você está falando comigo de repente. Você tem um cérebro na sua metade inferior?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 //うわ……結構ズバっとくるね。返し悩むわぁ……=Uau... Você é bem direto ao ponto. Estou tendo problemas para devolvê-lo...
 ……ねぇ、アタシはいいけど。あんま大きい声でそういう話しない方がよくない？=Ei, eu não me importo, mas... É melhor não falar muito alto sobre esse tipo de coisa, certo?

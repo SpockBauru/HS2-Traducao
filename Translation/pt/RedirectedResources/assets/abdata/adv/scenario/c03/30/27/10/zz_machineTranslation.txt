@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 うっわ、べとべと……これ絶対匂い残るよね。もしかしてそれが狙い？　いわゆる、独占欲……？=Ugh, é tão pegajoso... Definitivamente deixa um cheiro. É isso que você procura? É isso que você chama de possessividade?
 射精の回数とか、せ、精液の量ってさ……やっぱり、相手をどれだけ好きかによったりする？=O número de vezes que você ejacula, a quantidade de sêmen que você produz... Depende realmente do quanto você ama seu parceiro?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふふ、これだけかけたら、気持ちいいでしょ？　支配欲が満たされる感じ？=Hehe. Não é bom colocar tanta coisa? Sente que você está no controle?
 あは、流石にもう打ち止めかな？　ほら見て、こんなにドロドロになるまで出したんだよ♪=Oh, acho que já terminei com isso, não é? Olha para isto, deixei-o sair até ficar tão desleixado...
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ちょっと……お前には加減って言葉がないわけ？=Você não tem uma palavra para isso?
 ストップ。これ以上かけたら、本気で怒るよ？=Pare. Se você gastar mais tempo com isso, vou ficar muito zangado, certo?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 これだけベトベトにされると、気分いいね。普通なら、気持ち悪いとか言うかもだけどさ……=É bom ser assim tão viscoso. Normalmente, eu diria que é nojento, mas...
 見て見て、私もう、真っ白じゃない？　匂いも凄いし……なんかこれ、すごく幸せ……=Olhe para mim. Estou todo branco. O cheiro é incrível e estou tão feliz...
 //依存{0}=Dependência {0}

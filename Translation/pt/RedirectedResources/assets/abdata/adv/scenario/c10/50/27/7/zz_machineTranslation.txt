@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 貴方のこと、少し尊敬してしまいます。二対一でも私達をイカせしまうなんて……一人だったら、すぐに終わっていたかもですね。=Eu tenho um pouco de respeito por você. Você pode nos fazer ejacular mesmo quando são dois contra um... Se você estivesse sozinho, isso teria acabado mais cedo.
 私、感動しました。三人でするの、とても気持ちよかったです。特に貴方のテクニックが……もう凄くて……=Fiquei tão impressionado. Soube tão bem fazê-lo com nós três. Especialmente a sua técnica... Foi tão incrível...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 素晴らしいですね、二人で相手した甲斐がありました。私達、貴方にメロメロですよ、ふふっ。=É maravilhoso. Valeu a pena nós dois lidarmos com isso. Estamos todos apaixonados por você, hein.
 今度は二人きりでしませんか？　貴方を独占して、何回もイカせてもらうんです。はぁ……きっと夢のような時間でしょうね。=Você gostaria de ficar sozinho comigo desta vez? Vou monopolizá-lo e fazer você gozar muitas vezes. Será como um sonho tornado realidade.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ここまでされては何も言えませんね。私達二人とも、退屈しなかったのは助かりました。=Não sei o que dizer quando você já fez tanto. Ajudou que nenhum de nós estivesse entediado.
 それだけお上手なら、私達でなくても通用すると思いますよ。他の人達でも試してみることをおすすめします。=Se você é tão bom assim, tenho certeza de que funcionará mesmo que não sejamos nós. Sugiro que você experimente com outras pessoas.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 私達、貴方のペットみたいでしたね。二人で群がって、たくさん可愛がってもらって……ふふ、最高に気持ちよくして頂きました♪=Nós éramos como seus animais de estimação, não éramos? Nós dois nos amávamos um ao outro, e você nos amava tanto que nos fazia sentir tão bem.
 やはり、貴方は凄いですね。私達二人分の性欲を受け止めて……まだまだ元気そうではありませんか？=Afinal de contas, você é incrível, não é? Aceitando o desejo sexual de nós dois... Você ainda não parece saudável?
 //依存{0}=Dependência {0}

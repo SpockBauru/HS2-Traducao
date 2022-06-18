@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 もう、あなたが私に好き勝手するものですから痛くして頂くのを待つ女になってしまいましたわ。=Eu me tornei uma mulher que espera que você a magoe porque você me faz coisas.
 苦楽と共にするのが夫婦、とは申しますけれど苦痛に関しては共にしたくありませんでしたわ。=Dizem que um marido e uma esposa devem compartilhar sua dor e sofrimento, mas eu não queria compartilhar minha dor.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 私としては大変不本意なのですけれど、痛みや苦しみに耐性がついてしまいましたわ。=Estou muito infeliz com isto, mas desenvolvi uma tolerância à dor e ao sofrimento.
 最近、あなたからの責め苦に耐えられるようになって参りましたわ、次はあなたの番でしょうか？=Ultimamente tenho sido capaz de aguentar muitas punições de você. É sua vez agora?
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 もうあなたに傷つけられることに慣れてしまいましたわ……=Acostumei-me tanto a que me magoasse...
 これ以上深く傷つくことはございません、過ぎたるは及ばざるが如し、ですわね……=Não há necessidade de você se machucar mais profundamente do que já está.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あなたが調教してくださったお陰で痛みや苦しみで快感を得られるようになりましたわ。=Graças à sua formação, aprendi a ter prazer na dor e no sofrimento.
 あなたと致す前に報告させて頂きます、あなたの調教で、苦痛が苦痛ではなくなりましたのよ。=Tenho o prazer de informar, antes de me juntar a vocês, que seu treinamento tornou a dor menos dolorosa.

@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 その……私も絶頂まで導いて下さり、誠に有難うございます。=Isso... Muito obrigado por me levar ao clímax também.
 本心を打ち明けますと……彼女にやきもちを妬いてしまいました。我儘な女で申し訳ございません。=Devo confessar... Que eu tinha ciúmes dela. Peço desculpas por ser uma mulher egoísta.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 うふふ、女性を二人も侍らせるなんて、本当に破廉恥なお方です。=Ele é realmente uma pessoa sem vergonha por ter duas mulheres servindo-o.
 私、さんぴぃにはまってしまいそうです……=Acho que vou ficar preso com a Sanpy.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 絶頂するつもりはなかったのですが……屈辱です。=Eu não queria chegar ao clímax... Mas é humilhante.
 女性二人を絶頂させて、悦に浸っているのですか？　気色が悪いです。=Você está tendo prazer em fazer duas mulheres chegarem ao clímax? É bizarro.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 その……恥ずかしながら、この状況に大変興奮しておりました。=Bem... Tenho vergonha de dizer que fiquei muito entusiasmado com esta situação.
 私達をまとめて愛してしまうとは……貴方の懐の深さに感服致します。=Admiro a profundidade de seu coração para nos amar a todos juntos.
 //依存{0}=Dependência {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 ふーん……ここへ連れてきた理由が分かりましたよ。私に苛めて欲しいんですね？=Hmm... Agora eu sei porque você me trouxe aqui. Você quer que eu o atormente, não é mesmo?
 ま、あなたがそう望むなら私も吝かじゃありません。いいですよ、とことん苛めてあげます。=Bem, se é isso que você quer, eu estou disposto a fazer isso. Muito bem, vou atormentá-lo sem fim.
 遠慮するつもりはないので、覚悟を決めてくださいね？=Não vou me conter, então esteja preparado, certo?

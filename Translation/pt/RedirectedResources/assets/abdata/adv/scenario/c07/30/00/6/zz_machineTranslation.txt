@@ -7,12 +7,12 @@
 //好意{0}=Amor{0}
 まったく、恐れ入ったな……=Ohhh...
 はぁ、それは本当なのか？=Isso é verdade?
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 オマエは本当に加減を知らねぇな……=Você realmente não sabe o que está fazendo...
 ……どうなんだろうな。微妙なラインだ。=... Não sei nada sobre isso. É uma linha tênue.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 いや……普通に考えておかしいだろ。=Não... Isso não é normal.
 ……気持ち悪いやつだ。それ以上オレに近付くな。=Isso é nojento. Não se aproxime mais de mim.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 ……少なくとも、オレはいいと思うぞ。=... Pelo menos acho uma boa idéia.
 ハッ、大袈裟に言い過ぎだろ……=Ha, você está exagerando...

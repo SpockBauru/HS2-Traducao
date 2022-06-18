@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 女性の方にお声がけ頂けるとは……見初められたからには、私も誠意を尽くします。=Nunca pensei que seria abordado por uma mulher... Mas agora que você me viu, farei o meu melhor para ser sincero.
 その、女性の方がお相手と知って緊張しておりますが、素敵な思い出を作れたらと思っております。=Estou nervoso de saber que a senhora é minha parceira, mas espero fazer uma memória maravilhosa.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 女性の方でも、私がお相手を立てることに変わりはありません。……ええ、変わりませんとも。=Mesmo se você for uma mulher, eu estarei lá para você... Sim, é a mesma coisa.
 女性同士のまぐわい……うふふ、既に卑猥な空気が漂っている気がしますね。=A mistura de mulheres... Hihihi, eu sinto que já há um ar obsceno no ar.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 男女で致すのが普通のことではないでしょうか？　……本当に、お相手は私で宜しいのですか？=Não é normal que um homem e uma mulher combinem? Tem certeza de que sou a pessoa certa para você?
 同性を愛する方がいることは存じておりましたが……実際にそのお相手を務めることになるとは、想像しておりませんでした……=Eu sabia que havia pessoas que amavam o mesmo sexo... Mas nunca imaginei que eu seria realmente essa pessoa...
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 女性の方とも致すのですね。恥ずかしながら、こういったことに疎いものでして……宜しければ、未熟者の私を導いて下さいませんか？=Você já fez isso com as mulheres, não fez? Tenho vergonha de dizer que não estou familiarizado com estas coisas... Se você não se importa, por favor, me guie, sou inexperiente.
 今まで教わった術が女性の方にどこまで通じるか……持てる全ての力でお相手を務めさせて頂きます。=Pergunto-me quanto do que aprendi no passado posso transmitir às mulheres... Usarei todo o poder que tenho para ser seu parceiro.
 //壊れ{0}=Quebrada {0}

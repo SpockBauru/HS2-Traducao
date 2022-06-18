@@ -9,13 +9,13 @@
 あー、やっぱ恥ずかしさの方が上！　早く慣れたい～！=Ah, estou tão farto do embaraço! Mal posso esperar para me acostumar a isso ~
 タイプのヤツとセックスするのって、こんな恥ずかしかったんだ……=É uma vergonha transar com seu tipo...
 な、なにさ……初めてなんだから仕方ないじゃん！　意地悪するならもうシないし！　フン……！=É a minha primeira vez, por isso não os culpo! Se você vai ser mau para mim, eu não vou mais fazer isso. Hmm...
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 あー、気持ちよかったぁ♪　初めてでこれだけ楽しめるのって最高じゃん？　これからもいっぱいエッチするよ♪　わかった？=Oh, isso soube tão bem. Não é ótimo se divertir tanto pela primeira vez? Eu vou fazer muito mais sexo com você.
 というかお前さぁ、私より楽しんでなかった？　いやいいけどね？　そっちの方が私も遠慮なく楽しめるし！　私たち相性抜群じゃーん♪=Quero dizer, você, você não estava se divertindo mais do que eu, estava? Não, está tudo bem. Eu vou gostar mais se você fizer isso. Somos perfeitos um para o outro.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 ……あのさ、悪いんだけどもう絶対に呼ばないでくれる？=... Sabe de uma coisa, desculpe-me, mas você nunca mais pode me ligar?
 これが最初で最後でいいよね？　私もうお前とヤりたくないし。=Esta é a primeira e última vez. Eu não quero mais foder com você.
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 あー……ヤバそう……。お前とセックスすると、もっとエロになっちゃうよ……=Oh... Isso é ruim... Fazer sexo com você me torna mais erótico...
 //エッチの後に聞くことじゃないかもだけど、幻滅した……？　いや、ほら、私……エロだったでしょ？　もう呼ばれなくても納得っていうかさ……=Sei que isto provavelmente não é o melhor a perguntar depois do sexo, mas você está desiludido? Não, quero dizer, eu era... Erótico, certo? Estou feliz que você não me chamou mais assim, mas...
 //壊れ{0}=Quebrada {0}

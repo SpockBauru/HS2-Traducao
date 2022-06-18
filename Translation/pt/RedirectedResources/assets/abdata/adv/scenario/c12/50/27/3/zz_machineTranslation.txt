@@ -7,13 +7,13 @@
 //好意{0}=Amor{0}
 お前、あれで興奮してたのか？　しようがねぇなぁ、まったく。=Você ficou entusiasmado com isso? Não posso de forma alguma evitar.
 お前が喜んでたのはいいんだけどさ……結構、キツかったんだぜ。=Quero dizer, estou feliz que você esteja feliz com isso, mas... Foi muito difícil para você.
-//享楽{0}=Prazer {0}
+//享楽{0}=Excitada {0}
 痛かったけど、気持ち良くなれるならなんだっていいかな。=Dói, mas acho que qualquer coisa que me faça sentir melhor é boa.
 俺、痛いのより、気持ちいいの方が好きなんだけどな。=Eu gosto mais quando me sinto bem do que quando dói.
-//嫌悪{0}=Repugnância {0}
+//嫌悪{0}=Ódio {0}
 あんなの痛いだけだろ、何の意味があるんだよ。=Essa coisa só dói, cara. Qual é o objetivo?
 ふざけんなよ……ただ痛かっただけじゃねぇか。=Não seja tolo... Só doeu, não foi?
-//隷属{0}=Escravidão {0}
+//隷属{0}=Submissa {0}
 中々の苦痛だったよ……悪くないな。=Foi muito doloroso... Nada mal.
 あぁいうプレイが趣味なのか？　だったら、とことん付き合うけどね。=É esse o tipo de jogo em que você está envolvido? Se for esse o caso, eu alinharei com ele.
 //依存{0}=Dependência {0}
