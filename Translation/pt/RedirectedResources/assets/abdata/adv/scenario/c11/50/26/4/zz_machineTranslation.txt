@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 その……与えられる苦痛にも多少は慣れてきたのですが、好ましくない行為であることに変わりはありません。=Bem... Eu me acostumei um pouco com a dor que é infligida, mas ainda é um comportamento indesejável.
 私に暴力を振るうおつもりでしょうか？　気乗りはしませんが、貴方がお望みになるのであれば……=Você quer me violar? Não estou inclinado a isso, mas se é isso que você quer...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 貴方がお望みになることは全て受け入れたいのですが……苦痛を伴う行為だけは、未だ適応しきれず申し訳ございません。=Estou disposto a fazer o que você quiser, mas sinto muito por ainda não estar adaptado ao doloroso ato.
 貴方が与える苦痛ならば、多少は耐えてみせます。絶対耐えると言い切れないことは、大変申し訳なく思います……=Suportarei um pouco da dor que vocês me causam. Lamento muito não poder dizer que vou aguentar definitivamente...
 //享楽{0}=Prazer {0}

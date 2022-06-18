@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……へ？　あー、さてはからかったなぁ？　私としたことが、やられたぁ！=... Huh? Ah, agora você está brincando, certo? O que eu fiz, isso me pegou!
 はいはーい、ひやかしおことわりでーす。=Sim, sim, hiyakashi okowari desu.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 はぁ……あんまりそういう事ばっかりしてると、誰からも相手されなくなっちゃうよ？=Huh... Se você continuar fazendo isso, ninguém vai levá-lo a sério, ok?
 思わせぶりな態度ってやつ？　はっきり言ってくれないと分からないよ？=É isso que você chama de ser sugestivo? Como saberei se você não falar mais alto?
 //享楽{0}=Prazer {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あなたさんと結ばれて、幸せな家庭を築いて、末永く幸せに暮らす……そんな妄想が広がっちゃいます。=Não posso deixar de fantasiar sobre ser casado com você, construir uma família feliz, e viver feliz para sempre.
 妄想じゃなくて現実にしたいですけど……うーん、それはあなたさん次第ですし……=Eu gostaria de torná-lo real, não imaginário, mas... Um, isso é com você e...
 あっ、子供が出来たらまるっと解決ですね。さっそくエッチしましょう。=Oh, é muito mais fácil quando se tem filhos. Vamos fazer sexo agora mesmo.

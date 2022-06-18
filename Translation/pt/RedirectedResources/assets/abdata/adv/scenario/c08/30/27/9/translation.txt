@@ -1,10 +1,10 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//普通{0}=
+//普通{0}=Normal{0}
 //も、もぉ～らめっすぅ～……フニャチンなあぬフニャマンににゃっひゃったっすぅー……=
 //な、何回ヤれば気が済むんすかぁ～……さしゅがの私もぉ～降参っすぅ～……=
-//好意{0}=
+//好意{0}=Amor{0}
 //いっぱいイかひゃれへぇ～もぉ～頭がまっちろっすぅ～。=
 //享楽{0}=
 こんなはじゅじゃ、にゃかったんすけどぉ～……完敗っすぅ～……=Não é a primeira vez que eu faço isso, mas... Fui derrotada...
@@ -15,6 +15,6 @@
 //隷属{0}=
 呂りぇちゅが回らないぐりゃいぃ～……ズコバコに犯しゃれちゅくして～感激っすぅ～……=Não consigo me levantar... Estou tão excitada por ter sido fodida com tanta força...
 //夢、見たんすよぉ～……夢の中でもあにゃたにめひゃくひゃに犯しゃれまくっへたっすぅ～……=
-//依存{0}=
+//依存{0}=Dependência {0}
 //私よりあにゃたの方がぁ～超スケベらっへぇ～力ぢゅくで証明してくれへ嬉ひいれすぅ～……=
 あにゃたのおひんひん、気持ひよふぎへぇ～おみゃんこトロけひゃいまひはぁ～……=Que pinto maravilhoso, É uma sensação tão boa! Estou tão feliz por estar aqui...

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//普通{0}=
+//普通{0}=Normal{0}
 //え、うそ……私だけイカされちゃった感じ？　うわー……恥ずかしー……うー、こっち見ないでー。=
 //あーえっと……ごめんね？　なんかもう無理そう……つ、次はもっと頑張るからさ！　……許して？=
 //うーわ、やっちゃった……私、最悪だね……一人だけイって終わりとか……ありえないよね？=
@@ -21,7 +21,7 @@
 //あー、やっぱりこうなっちゃったか……私さ、お前とすると、エロ魔になっちゃうんだ……=
 //はぁぁ……気持ち良かったぁ……でも、イったの私だけ……なんだよね？=
 //こ、こういう終わり方って気まずいよね……もしかして、わざと、だったりして……？=
-//依存{0}=
+//依存{0}=Dependência {0}
 あははっ、もう降参♪　もうお前のテクにぞっこんでメロメロで、惚れまくりって感じぃ♪=Hahaha, eu desisto ♪ Sou louca por sua técnica e estou apaixonada por você ♪
 あーもー気持ちいい～よ～♪　でもごめんね、お前もイきたかったんじゃない？　次は絶対だぞ♪=É tão bom ♪ Desculpe-me, mas você também queria gozar, não é mesmo? Da próxima vez, eu prometo.
 私をひとりでイかせてぇ♪　どうせ私はエロエロなベストセックスパートーナーですよーだ♪=Faça-me gozar sozinha ♪ Eu sou sua melhor parceira sexual erótica de qualquer maneira ♪

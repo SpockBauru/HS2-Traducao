@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 美味しいお酒と、ムードの良いプールと、本当に至れり尽くせりですね。=Com boas bebidas e uma piscina mal-humorada, é um verdadeiro deleite.
 貴方はお酒とプール……どちらを楽しみにして来たのですか？=O que você mais gosta, de beber ou jogar bilhar?
 それとも、私と同じで……もっと気持ちいいことを期待していましたか？=Ou você é como eu... E estava esperando algo mais agradável?

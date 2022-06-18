@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 それはまぁ構いませんが……随分唐突ですね。=Isso é bom, mas... É muito abrupto.
 いいですよ、シましょうか。=Muito bem, vamos fazer isso.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 そんなに私とシたいんですか？　し、仕方ありませんね……=Você quer assim tanto transar comigo? Não posso evitá-lo...
 私とですか？　……いいですよ？=Comigo? Está bem?
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ふぅ……囲まれてするセックスは、刺激が強すぎるな……=Hmm... Sexo rodeado de pessoas é muito estimulante...
 こんな乱れたセックス、すげぇ興奮したかも。=Este tipo de sexo promíscuo pode ser tão excitante.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 お前以外がいるのは……ちょっとあれだったけど、お前が興奮したなら、それでいいか。=Foi um pouco... Assim com todos menos com você, mas se isso te excita, que assim seja.
 できればお前だけが良かったんだけど、たまにはこういうのもありかな。=Eu teria preferido só você se pudesse, mas às vezes é assim.
 //享楽{0}=Prazer {0}
@@ -15,6 +15,6 @@
 //隷属{0}=Escravidão {0}
 お前たち、十分に射精できたのか？　物足りなかったら言ってくれ。=Vocês conseguiram ejacular o suficiente? Informe-me se não for suficiente.
 俺の身体の具合はどうだった？　全員スッキリ射精できたならいいんだけど。=Como estava meu corpo? Espero que todos nós tenhamos tido uma boa ejaculação.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 お前以外はついでだったけど、結構満足できたんじゃないのか？=Foi acidental, exceto para você, mas não foi muito satisfatório?
 お前が喜ぶなら、何人だって相手にしてやるよ。=Se isso o faz feliz, levarei quantos de vocês quiserem.

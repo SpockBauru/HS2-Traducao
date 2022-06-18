@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ふぅ、流石に多人数となると一苦労ですね……=Huh, é muito trabalho com tanta gente...
 満足しましたか？　……満足してくれないとこちらが困ります。=Você está satisfeito? Se você não está satisfeito, nós não estamos satisfeitos.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 まぁ、イってくれたのなら何よりです。=Bem, estou feliz que tenha vindo.
 ほんとなら二人きりで……い、いえ、何でもないです……=Se é só você e eu... Não, não, não é nada...
 //享楽{0}=Prazer {0}
@@ -15,6 +15,6 @@
 //隷属{0}=Escravidão {0}
 一人一人、違った射精方してて、ちょっと楽しいんですよね……=Cada um de nós ejacula de uma maneira diferente. É um pouco divertido...
 はぁ、これだけのを一人で受け止めろとか……自分がメスだって認識しちゃうじゃないですか……=Huh, se você tiver que assumir tudo isso sozinho... Você se reconhecerá como uma mulher...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 私の手も、口も、いやらしい穴達も……全部、皆さんのオナニー道具ですから……♪=Minhas mãos, minha boca, meus buraquinhos desagradáveis... São todos eles suas ferramentas de masturbação...
 私が犯されている姿で興奮してくれるのなら、何人とだってお相手出来ますから……=Se a visão de mim sendo fodida o excita, eu posso levar quantos de vocês quiserem...

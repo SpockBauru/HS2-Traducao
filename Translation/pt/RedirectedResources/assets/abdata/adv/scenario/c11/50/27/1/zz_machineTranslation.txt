@@ -1,11 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 終わり、なのでしょうか？　……いえ、何でもございません。=É o fim? Não, não é nada.
 ……貴方にご満足頂けたなら、何よりです。=... Espero que você esteja satisfeito com nosso serviço.
 その……次回は私も、気持ちよくして頂けると……はい……=Bem... Na próxima vez, se você pudesse me fazer sentir melhor... Sim...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 うふふ、貴方にご満足頂けて心より嬉しく思います。=Estou muito contente que você esteja satisfeito com nosso serviço.
 愛しい人に絶頂して頂いた、それだけで私の心は満たされます。=Meu amado clímax foi para mim, e isso é tudo o que enche meu coração.
 次回はどこで気持ちよく致しましょうか？　それまでに、技を磨いてまいります。=Onde devo fazer você se sentir bem da próxima vez? Até lá, vou aperfeiçoar minhas habilidades.
@@ -21,7 +21,7 @@
 気持ちよくお射精まで導ける様に、これからも努めてまいります。=Continuarei fazendo todos os esforços para levá-lo à ejaculação de uma forma agradável.
 お終いで宜しいのですか？　私でしたら、まだまだ扱いて差し上げれますが……？=Você tem certeza de que quer terminar? Se dependesse de mim, eu ainda poderia tratá-lo?
 貴方にご満足頂けたからといって驕らない様に、これからも精進致します。=Continuaremos a fazer o nosso melhor para não nos vangloriarmos só porque você está satisfeito com nosso serviço.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 うふふ、金玉袋が空っぽになるまでお射精出来たでしょうか？=Espero que você tenha sido capaz de ejacular até que seu saco de bola estivesse vazio.
 本日は打ち止めでしょうか？　畏まりました。では、次回も気持ちよくお射精出来る様に、睾丸まっさぁじを致しますね。=Você vai parar hoje? Sinto muito. Depois, farei a massagem dos testículos para que você possa ejacular confortavelmente da próxima vez também.
 もっと貴方に私の技を披露するつもりだったのですが、次の機会に持ち越しですね。=Eu ia lhe mostrar mais de minhas habilidades, mas acho que vou guardar isso para a próxima vez.

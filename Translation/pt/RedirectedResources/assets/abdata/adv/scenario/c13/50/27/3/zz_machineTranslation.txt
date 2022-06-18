@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの、女の子をイジメるプレイが好きなんですか……？=Hum, você gosta de brincar de atormentar as garotas?
 うう、もう少し優しくしてくれても……あ、いえ、なんでもないです、嫌いにならないでください……=Ugh, você poderia ser um pouco mais agradável para mim... Oh, não, não é nada, por favor não me odeie...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたの愛は痛みを伴うんですね……=Seu amor é doloroso, não é...
 私の愛を試そうとしているんですか……？=Você está tentando testar meu amor?
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 苦痛と快感ってどうしてこんなに似てるんでしょうね……きっとあなただからですよね、いいえ、絶対にそうです、うふふ……=Eu me pergunto porque a dor e o prazer são tão parecidos... Deve ser porque é você, não, definitivamente é, hihihi...
 日々の鬱憤のはけ口にしてくれたんですか……？　私のこと、もっと人形扱いしていいですからね……=Você tem me usado como uma saída para suas frustrações diárias? Você pode me tratar mais como uma boneca...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 やっぱり……苦痛って愛なんですね、くすくす……♪=Eu sabia... Dor é amor, risada ♪
 うふふふ、これが寵愛を受けるということなんですね……次はもっと激しく痛めつけてくださいね、絶対ですよ……♪=Hihihi, então isto é o que significa ser favorecido... Da próxima vez, por favor, me machuque mais forte, eu prometo...

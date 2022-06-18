@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 うわ、これはまた……ストレートに来たねぇ。まぁ、悪い気はしないけどさ。=Uau, isso é... Isso é de novo em frente. Bem, eu não me sinto mal com isso.
 あは、単刀直入だね。うん、いいよ……=Ah, você está tão concentrado. Sim, está bem...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あ……ふふ、なんか照れちゃうね。いいよ、私でよければ……=Oh... Hehe... Isso é meio embaraçoso. Está bem, se estiver tudo bem com você...
 ちょっ、声が大きいって。誘ってくれたのは、すっごく嬉しいけどね……♪=Ei, você está falando muito alto. Estou tão feliz que você me convidou para sair, mas...
 //享楽{0}=Prazer {0}

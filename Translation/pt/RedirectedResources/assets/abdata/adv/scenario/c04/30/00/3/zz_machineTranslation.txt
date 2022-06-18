@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 え？　なんとなく顔見に来ただけ？　アンタも良くわかんないことするねぇ……=O quê? Você veio apenas para me ver? Você faz coisas que eu também não entendo...
 あっそ……って、マジで何も用ないの？=Ah, sim... E você realmente não tem utilidade para nada?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 急用でも出来た？　まぁいいや、また何かあったら呼んで。=Qual é a pressa? Bem, não. Ligue-me se precisar de mais alguma coisa.
 ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Hmm? O que há com a consideração? De qualquer forma, isto está bem assim?
 //享楽{0}=Prazer {0}

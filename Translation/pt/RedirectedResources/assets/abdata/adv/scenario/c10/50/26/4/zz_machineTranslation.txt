@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 少しくらいなら痛くしても構いませんよ。好んでしたいわけではありませんが……見苦しい姿はお見せしないようにしますので……=Não me importo se isso dói um pouco. Não que eu gostasse, mas... Tentaremos não fazer você parecer desconfortável, então...
 痛くされるのは今でも怖いです。でも、少しは慣れたと思いますので……してみたいのでしたら……どうぞ。=Ainda tenho medo de ser feito para magoar. Mas eu acho que estou um pouco mais acostumado... Então se você quiser... Vá em frente.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 本当は貴方に思い切りしてもらいたいのですが……少し慣れたとはいえ、やはりどうしても怖さが抜けません……=Eu realmente quero que você me dê tudo o que tem, mas apesar de ter me acostumado, ainda estou assustado...
 貴方が望むなら、痛くされても我慢します。本当は痛くされて悦ぶくらいがいいのでしょうが……まだ、そこまでは難しいです……許してください。=Se você quiser, eu suportarei mesmo que isso doa. Na verdade, seria melhor ficar satisfeito com a dor... Mas ainda é difícil ir tão longe... Por favor, me perdoe.
 //享楽{0}=Prazer {0}

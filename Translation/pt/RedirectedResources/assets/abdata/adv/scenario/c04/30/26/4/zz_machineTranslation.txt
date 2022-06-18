@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 //ちょっとくらいなら、らんぼーにしてもいーかんね？　アタシ、ごーいんなの結構好きだからさ♪=Se for só por um tempo, você pode transformá-lo em um rambo, certo? Eu gosto muito...
 //たまにはさ、アタシのこと襲わせてあげよっか？　ほらどうする？　アタシはどっちでもいーから、アンタ次第だかんね？=Por que você não me deixa atacá-lo um dia destes? O que você acha? Não me importa. É com você, certo?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 アンタになら、ごーいんにされちゃってもいっかなー♪　ほら、ワンチャン来たよ？　アンタの度胸を見せてみなって♪=Se for você, não me importo de ser transformado em um capacho ♪ Aí vem uma chance? Vamos ver o que você tem...
 ねぇ、怒ったりしないからさ。アタシのカラダ、好きにしちゃっていーよ♪　痛いのとかも、割とイケるから。もーなんでもしちゃって♪=Ei, eu não vou ficar bravo. Você pode fazer o que quiser com o meu corpo... Mesmo que doa, eu posso fazer isso. Você pode fazer o que quiser...
 //享楽{0}=Prazer {0}

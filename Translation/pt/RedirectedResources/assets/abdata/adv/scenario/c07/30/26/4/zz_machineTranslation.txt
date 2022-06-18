@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 痛いのにも慣れてきたが、痛いだけってのは芸がねぇな。その辺りの加減を間違えるなよ？=Acostumei-me à dor, mas só a dor não é um truque. Não cometa o erro de levar isso muito longe.
 そもそも、痛いと気持ちいいは本質的には似てるらしいな。まぁ、今ならそれも多少は分かる。=Para começar, ouvi dizer que a dor e o sentimento de bem são essencialmente semelhantes. Bem, eu posso entender um pouco disso agora.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 今日もオレを痛めつける気か？　ハッ、流石に慣れてきたからな……やられっぱなしにはならねぇ。=Você vai me machucar novamente hoje? Ha, estou me acostumando... Assim não ficarei na poeira.
 最近、苦痛にも耐性がついてきたな。どうも、オマエのせいでオレに変な癖がついちまったらしい。=Estou ficando mais tolerante à dor hoje em dia. Parece que eu desenvolvi um estranho hábito por sua causa.
 //享楽{0}=Prazer {0}

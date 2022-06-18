@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あら……そうですか？　また、何かありましたら、お気軽に声をかけてくださいね。=Ah... É verdade? Se houver mais alguma coisa que eu possa fazer por você, sinta-se à vontade para me ligar.
 ふふ、おかしな人ですね。私、からかわれてしまいましたか？　なんて……怒っているわけではありませんので、安心してください。=Hehe, você é um cara engraçado. Eu fiz pouco de você? Como... Eu não estou com raiva, então por favor não se preocupe.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 私の考え過ぎかもしれませんが……何か私に出来ることがあれば、また話しかけてください。=Talvez eu esteja pensando demais... Mas se houver algo que eu possa fazer para ajudar, por favor, fale comigo novamente.
 そうですか……お話だけでもと思ったのですが……いえ、なんでもありません。=Bem... Pensei que podíamos apenas conversar... Não, não é nada.
 //享楽{0}=Prazer {0}

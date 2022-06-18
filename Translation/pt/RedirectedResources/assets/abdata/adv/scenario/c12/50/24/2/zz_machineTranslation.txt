@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 初めてだったけど、結構楽しかったぜ……お前、なかなかやるじゃん。=Foi a minha primeira vez, mas foi muito divertido... Você é muito bom.
 うん、初めての割には案外うまくやれたんじゃないのか？　俺たち、ちゃんとできてたよな？　な？=Sim, nós nos saímos muito bem pela primeira vez, não foi? Nós nos saímos bem, não foi? Certo?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 うん、なんか……よかったかな……えっと、それじゃ、また誘ってもいいからな、うん、絶対誘えよ。=Sim, foi meio... Bom, eu acho... Hum, bem, você pode me convidar novamente para sair, sim, definitivamente me convide para sair.
 あぁ、うん、それなりに楽しかった……お前が相手なら、次もいけると思うから……ちゃんと誘うんだぞ……いいな。=Sim, sim, foi muito divertido... E acho que com você, podemos gozar à próxima... Então não deixe de convidá-la para sair... Ok?
 //享楽{0}=Prazer {0}
@@ -16,9 +16,9 @@
 //隷属{0}=Escravidão {0}
 どうだった？　お前が喜んでくれたなら、俺はそれで嬉しいんだけど……もし、その気があったらまた誘ってくれよ、まってるから。=Como foi? Se você está feliz com isso, eu estou feliz com isso, mas... Se você está tão inclinado, por favor, me convide novamente, eu estarei esperando.
 どうだった、俺との時間は？　楽しんでもらえたなら良かったんだけど……でも、これに懲りずにまた誘ってくれよな？=Como foi? Como foi seu tempo comigo? Estou feliz que tenha gostado... Mas não deixe que isso o impeça de me convidar para sair novamente, certo?
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 あはぁ……しぇっくすでぇ……おれぇ、こわれひゃったぁ……=Ahh... No ding-dong... Estou quebrado...
 ふふふ……きもひいの、さいこーらよぉ……=Hehe... Você é tão nojento, você é tão doce...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 これで満足したなんて嘘だろ？　俺はまだまだ放さないからな……覚悟しておけよ？=Você está mentindo. Você não está satisfeito com isso, está? Não vou largar ainda... Então esteja preparado, está bem?
 俺がお前に決めちまったからには、お前に選択肢なんかないんだ。わかってるよな……ふふっ。=Agora que já me decidi sobre você, você não tem escolha. Você sabe que... Hehe.

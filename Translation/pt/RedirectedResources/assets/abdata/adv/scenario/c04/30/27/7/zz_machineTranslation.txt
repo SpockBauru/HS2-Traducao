@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ありゃ、二人がかりでもイカされちゃったかー。凄いねアンタ、逆境に強いタイプ？=Oh, então foram precisos dois caras para fazer você gozar. Você é o tipo de pessoa que pode lidar com a adversidade?
 おおっ、やるじゃん。二人も相手にして、ちゃんとイカせてくるとか。アンタのことちょっと舐めてたわ～♪=Oh, você é bom. Você tem dois deles e vai fazê-los gozar. Tenho lamber meus lábios para você...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あはっ、アンタ流石だね～♪　数で負けてるんだし、普通よがり狂って終わりじゃん？　マジ、おみそれしましたってやつ？=Como você está em menor número, não costuma acabar ficando louco? A sério, lamento ouvir isso.
 はぁ～、イカされちゃった～♪　二人がかりでも敵わないとか、アンタが相手だと楽し～わ♪=É divertido quando você é o único que não pode ser vencido nem mesmo por duas pessoas.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 んふ、アンタって絶対モテるっしょ？　二人も相手にして、ちゃんと満足させちゃうんだから。こんなん普通の女ならほっとかないって♪=Mmm, você é definitivamente popular, não é? Você pode enfrentar dois caras e deixá-los satisfeitos. Nenhuma mulher normal o deixaria assim.
 あぁ、気持ちいい敗北感ってやつ？　まぁそもそも、アタシ結構マゾ派だから？　負けた方が勝ち的な？　あはっ、何言ってるかよくわかんないね♪=Oh, você quer dizer como uma boa derrota? Bem, eu sou bastante masoquista, então... Quanto mais você perde, mais você ganha? Haha, eu não sei do que você está falando.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あーマジかー♪　アンタめっちゃいいわ♪　うん、いいもん持ってる！　アタシらが保証する。自信もっていいと思うよ♪=Você é realmente bom. - Sim, você é realmente bom. Nós o garantimos. Você pode se orgulhar disso.
 あっは、二人がかりでもイカされちゃうとか、逆にウケる♪　なんかちょっと燃えてきた的な？　アンタ、あたしらに火つけちゃったよ～♪=É engraçado como dois caras podem te fazer gozar... Como se você estivesse pegando fogo. Você nos pegou fogo...

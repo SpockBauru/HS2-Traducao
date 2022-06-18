@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 本当は気持ちいいのが一番なんすけどー最近は痛いのにも慣れたきちゃったんすよねー。=O melhor é se sentir bem, mas ultimamente tenho me acostumado com a dor.
 //あなたが何度も酷いことするんで身体が慣れちゃったっすよー、慣れって恐ろしいもんすねー。=Seu corpo se acostumou porque você já fez coisas terríveis com ele tantas vezes.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 痛いのとか苦しいのに慣れてきたんでーも少し回数増やしてもいいすよー。=Estou me acostumando com a dor e o sofrimento, então não faz mal se eu fizer isso um pouco mais vezes.
 痛いのとか苦しいのとかは嫌いすけど、あなたのことは好きなんで受け入れることにしたっすー。=Eu não gosto de dor e sofrimento, mas gosto de você, por isso decidi aceitá-lo.
 //享楽{0}=Prazer {0}

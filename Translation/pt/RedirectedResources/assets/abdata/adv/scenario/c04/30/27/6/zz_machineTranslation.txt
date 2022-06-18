@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 はい、アタシらの勝ち～！二人もいれば、流石に楽勝だよね～♪=Sim, nós ganhamos! Se formos dois, será uma vitória fácil, certo?
 んふ、アンタも結構頑張った方だと思うけど。やっぱ二人相手は分が悪かったみたいだね～♪=Bem, eu acho que você também se saiu muito bem. Mas parece que você teve um mau momento contra nós dois.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 アタシらのコンビネーション、どうだった？　まだよく分かんないって言うなら、何回だってしたげるよ～♪=O que você achou de nossa combinação? Se você ainda não tem certeza, eu o farei repetidamente.
 アンタのイキ顔、マジかわたんだったわ～♪　二人に攻められて、全然余裕なくなっちゃってさ～♪=Você é muito fofo quando vem ♪ Fui atacado por vocês dois e não tinha mais espaço ♪
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 こんだけ出してもらえると、アタシらの頑張りも報われるってもんだよねぇ♪　んっふふ～♪=Se nos derem tanto, nosso trabalho árduo será recompensado ♪ hihihi-hehe ♪
 あはっ、アタシらへのご褒美は精液ですか～？　女が喜ぶこと、よく分かってんじゃん♪=Você sabe exatamente o que faz as mulheres felizes. Você sabe exatamente o que faz uma mulher feliz.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 ねぇ、アタシらに負けちゃった気分はどう？　女子の団結力ってやばいからね？　まだまだこんなもんじゃ済まないよ？=Qual é a sensação de ser vencido por nós? O poder da unidade feminina é inacreditável, certo? Ainda não acabou.
 んっふふ、二対一だろうがなんだろうが、やっぱ相手を嬲るって気持ち～わ～♪　はぁ……もう病み付きになりそ♪=Não me importa se são dois contra um ou não, ainda me sinto bem em torturar meu parceiro...

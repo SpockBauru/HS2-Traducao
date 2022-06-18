@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 す、すごかったね……私も鼻血出そうだった……=Isso foi incrível... Meu nariz também estava sangrando...
 私とこの子、どっちで射精したの？　あ、えっと、どっちも～だよね？　あ、あはは……=Em quem você ejaculava, em mim ou nesta garota? Oh, uh, os dois ~ certo? Ah, haha...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 じー……ちょっと嫉妬……=Caramba... Um pouco de inveja...
 お前、この子ばっかり見てなかった？　き、気のせいならいいけどさ……=Você tem estado olhando para ela o dia todo? Espero que seja apenas minha imaginação, mas...
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 ふたりでお前の相手するの、面白い……もっと搾りたいとこだけど、流石に無理？=Sabe, é engraçado, nós dois contra você... Adoraríamos espremer mais de você, mas não podemos, não é mesmo?
 ふたりだからって、ちょっと生意気なプレイすぎた？　個別でお仕置き、してもいいからね……=Só porque somos só nós dois, não significa que não podemos ser um pouco atrevidos. Posso puni-lo individualmente...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 ３Pって難しいけど、ハマっちゃえば興奮も倍増するよねぇ♪　ね、ね、次はいつしよっか？=Três pessoas são difíceis, mas uma vez que você entra nela, a emoção dobra... Ei, ei, quando você quer fazer isso de novo?
 流石に全部搾り切ったかな？　まだ出せたりする？　メインディッシュの次はデザートだよねぇ？=Já esprememos todas as areias movediças? Podemos servir mais? Depois do prato principal, há a sobremesa, certo?

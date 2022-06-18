@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=... Sim, isso é extremo. Só de ouvir você, meu rosto está ficando vermelho...
 その様なことを……私には少々刺激が強すぎます……=Tais coisas... São um pouco estimulantes demais para mim...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=Bem... Se é isso que você quer, eu farei algum esforço... Sim.
 ぅ……想像しただけで、照れてしまいます……=Ugh... Estou ficando envergonhado só de pensar sobre isso...
 //享楽{0}=Prazer {0}

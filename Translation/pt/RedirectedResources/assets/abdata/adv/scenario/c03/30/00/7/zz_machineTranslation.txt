@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 へぇ、そういう趣味があったんだ……=Não sabia que você tinha esse tipo de gosto...
 うそ、そんなことまでしちゃうの？=Ohhh. Você faria isso?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 えっと……もうちょっと詳しく聞かせて？=Um... Você pode ser um pouco mais específico?
 うーん……ちょっと変態っぽくない？=Hmm... Um pouco pervertido, você não acha?
 //享楽{0}=Prazer {0}

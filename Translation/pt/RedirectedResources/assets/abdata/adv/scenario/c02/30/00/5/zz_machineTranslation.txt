@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 こういった人生です、楽しんだ者勝ちですよね結局は。=Esta é a vida, e aqueles que a desfrutam vencem no final.
 ―――その楽しみ方は私も知りませんでしたね……=---Eu também não sabia como desfrutar disso...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ―――そういった楽しみ、あなたと一緒に経験してみたい……です……=Eu gostaria de experimentar esse tipo de diversão com você...
 ―――ふーん、そうですか…………私も覚えなきゃ……=Hmmm, bem... Eu terei que lembrar que...
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 話しだけってのも、まぁまぁ楽しめたな。=Eu gostei do fato de você só ter falado sobre isso.
 退屈はしなかったな。また話してやってもいい。=Você não me aborreceu. Terei o maior prazer em falar com você novamente.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 もうこんな時間か。つい話し込んじまったな。=Já está na hora? Eu devo ter me deixado levar.
 よし、そろそろ切り上げるか。話の続きはまた今度だ。=Muito bem, vou encurtar este prazo. Contarei o resto da história em outra ocasião.
 //享楽{0}=Prazer {0}

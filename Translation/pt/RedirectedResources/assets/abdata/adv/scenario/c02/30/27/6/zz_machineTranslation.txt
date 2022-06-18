@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 まぁ、私達の手にかかれば……という事ですかね？=Bem, em nossas mãos, quero dizer?
 どんな形であれ、イかせた方が勝ちですから。=O vencedor é aquele que a faz gozar, não importa como aconteça.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 別に、他の人の手を借りずともあなたをイかせる事くらい簡単ですけどね？=Quer dizer, é fácil fazer você gozar sem precisar da ajuda de outra pessoa, certo?
 ……で、私でイってくれたんですよね？　……ね？=... E você veio em cima de mim, não foi? Certo?
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 あなたのイき顔、私達がしっかり見ておきましたからね？=Demos uma boa olhada em seu rosto, não foi?
 その……私の方で感じてくれたのなら、嬉しい……です。=Fico feliz... Que... Você tenha sentido isso do meu lado...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あんな女より、私の愛の方が勝ちましたよね？　勝ちましたよね？？=Meu amor venceu aquela mulher, não foi? Eu não ganhei?
 あなたを好きな気持ちは、どの女よりも強いですから……=Eu te amo mais do que qualquer mulher que eu já conheci, então...

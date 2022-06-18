@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 //ごめ、ちょっともう終わっていい？　なんかさ、満足しちゃった。アハッ♪=Desculpe-me, posso terminar agora? Estou tão satisfeito. Aha!
 //ん？　今日はもう終わりでいーっしょ？　また相手したげるからさ～。=Hmm? Por hoje estou acabado, certo? Eu cuidarei de você novamente.
 //はいはいしゅーりょー！　おつかれーおつかれー、んじゃ～ね～♪=Sim, sim, sim... Boa noite, boa noite, boa noite...
@@ -21,7 +21,7 @@
 あー、アタシだってちょっと悪いとは思ってるからさ。次はほら、アタシのこともっとめちゃくちゃにしちゃっていーよ？=Oh, desculpe-me também. Da próxima vez, você pode me confundir ainda mais, certo?
 アンタがイクのは、次までのお楽しみってことで♪　アハッ、楽しみが増えて嬉しーっしょ？=Você terá que esperar até a próxima vez para ver se você se... Aha, você não está feliz em se divertir mais?
 うーん、アンタをイカせるのはまた今度ね♪　ほら、またすぐしたくなるようにさ、ちょっとお預け的な？=Hmm, vou fazer você gozar em outra hora... Sabe, só para que você queira fazer isso de novo em breve, sabe?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 はー気持ち良かったぁ～♪　なに？　アタシ今いー気分だから、邪魔しないで？=Isso soube tão bem... O quê? Estou de bom humor, por isso não me incomodem.
 まー、なんとなーく言いたいことは分かるよ？　でもさ、今日はもう終わりなんだよなーコレが。=Bem, eu meio que sei o que você quer dizer, não é mesmo? Mas, você sabe, este é o fim do dia, não é mesmo?
 んふ、良かったじゃん。これでまた、アタシのことがずーっと頭の中グルグルまわりっぱなしになるっしょ？　どーしても我慢できなくなったら、またシたげる♪=Mmm, isso é bom. Agora, você vai estar pensando em mim o tempo todo, certo? Se você não aguentar mais, eu o farei novamente.

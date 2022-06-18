@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 最近の男女戦争は大変っすよねー。この前なんかSNSで～―――=A recente guerra entre homens e mulheres tem sido muito difícil, não tem sido? No outro dia, nas mídias sociais...
 どこの世界にも本物っていると思うんすけどーやっぱ本物のMってのはすごいっすよー―――=Acho que há um verdadeiro masoquista em cada mundo, mas um verdadeiro masoquista é incrível...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 もし好きな人がSならそれに合わせてMになるのかって話っすけどー―――=Se a pessoa que você ama é sadista, você se torna masoquista para combinar?
 セックス好き好き大好き人間が言うのも変な話なんすけど、恋人同士のSとMって～―――=É uma coisa estranha para alguém que ama sexo dizer, mas sadista e masoquista entre amantes...
 //享楽{0}=Prazer {0}

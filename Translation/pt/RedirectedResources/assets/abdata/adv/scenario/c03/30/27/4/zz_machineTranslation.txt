@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 うぅ、お前ら……ちょっと張り切り過ぎ……=Ugh, vocês... Estão ficando um pouco zelosos demais...
 これがふたり分の射精かぁ……べ、別に、エロいこと考えてたんじゃないよ！？=Isto é a ejaculação de duas pessoas... Eu não estava pensando em nada erótico!
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 す、すっごい出したね……ふたりともそれだけ私で興奮してくれたってこと……だよね？=Isso é um monte de esperma... Vocês dois ficaram excitados comigo, certo?
 凄い量……もしかしてふたりとも今日のために溜めてきた、とか？　な、なーんてね～！=É possível que os dois tenham economizado para este dia? Eu não sei...
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 ああ、ふたりの精液がこんなに……はあ、はあ、エロな私にとってはご褒美……ご褒美すぎるよぉ。=Oh, tanto sêmen de nós dois... Haha, haha, é um deleite para mim, uma recompensa... Uma recompensa a mais.
 んっふふ♪　これ全部、私が出させたんだよね……私、エロでよかった……本当に……=Hihihi-hehe... Eu fiz você fazer tudo isso... E estou feliz por ser um pornô... Realmente...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あぁ、ふたり分の濃厚な精液の匂い……いい……アルコールなんかよりよっぽど酔いしれちゃうぅ♪=Oh, o cheiro de vocês dois ejaculando juntos é muito melhor do que o do álcool.
 こんな射精してくれるなら、次はもうひとり呼んで４Pしちゃう？　なーんて、３人がちょうどいいね♪=Se você vai ejacular assim, por que não convidamos mais uma pessoa da próxima vez e fazemos um grupo de quatro pessoas? Ohhh, três está certo.

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 貴方のお相手を務めることが出来たでしょうか？　ご不満がございましたら、次の機会までに改善致しますので、お申しつけください。=Espero ter podido servi-lo bem. Se você tiver alguma reclamação, por favor nos avise para que possamos melhorar antes da próxima vez.
 お疲れ様です。体力を消費する行為ですから、しっかりお体を休めて下さいね。=Obrigado por seu trabalho árduo. É uma atividade que consome muita energia física, portanto, por favor, certifique-se de descansar um pouco.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 事を終えた直後にお顔を合わせるのは、こそばゆいですね。その……素敵な一時を有難うございました。=É arrepiante vê-lo logo depois de termos feito as coisas. Bem... Obrigado pelo momento encantador.
 あぁ、鏡を見ずとも赤面しているのが分かります……己の気持ちを律することが出来ない未熟物で申し訳ありません……=Não preciso me olhar no espelho para saber que estou corado... Desculpe-me por ser tão imaturo que não consigo controlar meus sentimentos...
 //享楽{0}=Prazer {0}
@@ -16,9 +16,9 @@
 //隷属{0}=Escravidão {0}
 あまりの心地よさに昇天してしまいそうでした……また、お声がけ頂けるのを心待ちにしております。=Senti-me tão confortável que quase subi ao céu... Estou ansioso para ouvir de vocês novamente.
 あの、はしたなく乱れ過ぎてはいなかったでしょうか……？　もし下品な顔を晒しておりましたら、申し訳ございません。=Hum, espero não ter ficado muito desarrumado? Sinto muito se expus meu rosto vulgar.
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 うふふ……ふふ……んふふ…………うふふふ……=Mmmm... Mmmm... Mmmm... Mmmm... Hihihi...
 きもひ、よかった……れす……ありがろぅ……ごじゃいましゅ……=Bom... Obrigado... Obrigado... Obrigado...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 うふふ、私が孕むまで子種を注ぎ込みに来てくださいね。=Ummm... Por favor, venha e derrame sua semente infantil em mim até que eu esteja impregnado.
 今日の思い出で自身を慰めながら、次の機会をお待ちしております。=Confortando-nos com as lembranças de hoje, aguardamos com expectativa a próxima oportunidade.

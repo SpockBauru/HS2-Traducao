@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 どうしたの？　何もしないでいいの？=O que há de errado com você? Você não quer que eu faça nada?
 これで終わりなの？　何もしてないけど……=Isso é tudo o que você tem? Eu não fiz nada, mas...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 どうかしたの？　これで終わりなんて。=O que há de errado com você? Não posso acreditar que isto tenha acabado.
 これで終わりなの？　私、どこか変だったかしら？=É isso? Há algo de errado comigo?
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 これでおしまい？　私、何かしたのかしら？=É só isso? Eu fiz algo errado?
 まだ何もしてないわよ？　体調でも悪いの？=Ainda não fiz nada, está bem? O que há de errado com você?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 これで終わりなんて嘘よね？　私、これじゃ満足できないわ。=Você mentiu-me sobre isto ser o fim, não foi? Não consigo me fartar disto.
 何もしないで終わりなんてひどいわ。私は準備万端だったのに……=É horrível acabar não fazendo nada. Eu estava tão pronto para...

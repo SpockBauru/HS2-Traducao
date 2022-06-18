@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 まぁっ、そんなことまで……刺激的ですね……=Ohhh, isso é... Isso é tão excitante...
 えっと、趣味は人それぞれですから……=Bem, cada um tem seus próprios passatempos, então...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 そういうのが、お好きなんですね……覚えておきます。=Esse é o tipo de coisa que você gosta... Vou ter isso em mente.
 だ、大胆ですね……少し、憧れてしまいます。=Isso é ousado... Admiro um pouco.
 //享楽{0}=Prazer {0}

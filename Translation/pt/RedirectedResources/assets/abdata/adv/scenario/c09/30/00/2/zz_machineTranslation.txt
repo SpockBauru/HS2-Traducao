@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ひゃぁっ……あっ、すみませんっ、ちょっと驚いただけで……えへへ、いーですよ♪=Desculpe, só estou um pouco surpreso.
 うーん、断る理由もないですし……それじゃやっちゃいましょー！=Hmm, não há razão para dizer não... Vamos fazer isso então!
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 はわっ……あなたさんが誘ってくれた……えへへ、もちろんＯＫですよー！=Haha... Você me convidou... Ehehe, é claro que estou bem com isso!
 はいっ、エッチしましょうっ！　えへへ、あなたさんに誘ってもらえると嬉しーですよー！=Sim, vamos fazer sexo! Ehehe, estou tão feliz que você me convidou para sair!
 //享楽{0}=Prazer {0}

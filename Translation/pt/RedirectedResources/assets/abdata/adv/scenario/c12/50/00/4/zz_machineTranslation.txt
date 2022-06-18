@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……そうだな、やっぱり人から好きって言われるのは嬉しいもんだぜ。=... Sim, é sempre bom ouvir alguém dizer que gosta de você.
 ――俺も昔は恋愛とか興味あったけどさ……今もないわけじゃないんだぜ。=-- Eu costumava me interessar por relacionamentos e coisas assim... Mas não é como se eu não estivesse ainda.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=... Não pensei que estaria falando de relacionamentos com você... Não, eu não me importo... É mais como...
 ――ロマンティックなシチュエーションって、一度は体験してみたいもんだぜ……今この瞬間も、悪くないけどな。=Gostaria de experimentar uma situação romântica pelo menos uma vez... Este momento não é ruim, no entanto.
 //享楽{0}=Prazer {0}

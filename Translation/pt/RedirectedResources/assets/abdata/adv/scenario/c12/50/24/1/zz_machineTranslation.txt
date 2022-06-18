@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 女が相手だなんて思わなかったぜ……ちょっとドキドキするけど、結構楽しみだな。=Nunca pensei que estaria lidando com uma mulher... Estou um pouco nervoso, mas estou bastante entusiasmado.
 女だったとは思わなかった。でも別にいいぜ、楽しめるならなんでもな。=Eu não pensei que fosse uma mulher. Mas não me importa. Qualquer coisa para se divertir.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 女同士って……ちょっとびっくりするけど、お前が相手なら別にいいかな……=De mulher para mulher... Isso é um pouco surpreendente, mas acho que não faz mal se for você...
 お前、女だよな？　相手、俺でいいんだ？　いや、俺の方は別に問題ないけどさ。=Você é uma mulher, certo? Você tem certeza de que quer fazer isso comigo? Não, eu não tenho problemas com isso, mas...
 //享楽{0}=Prazer {0}
@@ -16,9 +16,9 @@
 //隷属{0}=Escravidão {0}
 初めましてだよね……なるほど、女同士っていうのも悪くなさそうだな。=É um prazer conhecê-lo... Bem, acho que não é tão ruim ser uma garota.
 せっかく女同士なんだから、女にしかできないような事、してみないか？=Já que somos ambas mulheres, por que não fazemos algo que só as mulheres podem fazer?
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 //………………=...
 はぁ……すごいよぉ……俺ぇ、もうなんらか……んっ、はぁ……わかんなく、なっへるからぁ……=Eu não sei mais o que está acontecendo, mas...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 お前みたいな女とできるなんて、最高だな。さぁ、始めようぜ……=Adoro quando posso fazer isso com uma garota como você. Vamos lá, vamos começar...
 女同士でしか味わえない快感……思いっきり感じ合おうぜ。=O prazer que só pode ser experimentado entre as mulheres... Vamos nos sentir ao máximo.

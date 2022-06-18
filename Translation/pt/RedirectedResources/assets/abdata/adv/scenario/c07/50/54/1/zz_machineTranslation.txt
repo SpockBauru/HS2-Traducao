@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 こんりゃのつづけらら、あらまがおがひぐなる……=Konnya no tsurara, aramagao ga higunaru...
 もうしゃんぽは終わりら……じゅうぶんたのしんららろう？=Não está na hora de você parar de brincar com seus brinquedos?
 うぅ、あらまがまっしおれ……にゃにもかんがぇられにゃい……=Ugh, estou tão confuso... Não consigo pensar em nada...

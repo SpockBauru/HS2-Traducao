@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 苦しいとか、痛いとかが、少しだけ感じるようになってきたわ。=Estou começando a gostar um pouco da sensação de aflição e dor.
 痛みでも、身体が熱くなるのね。=Até mesmo a dor faz meu corpo ficar quente.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたに痛くされても、だんだん気持ち良くなってきたわ。=Estou ficando cada vez mais confortável com você me machucando.
 あなたがしたいことなら、痛いことでもちょっとは耐えられるわ。=Eu posso viver com um pouco de dor se é isso que você quer fazer.
 //享楽{0}=Prazer {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 子供の名前はいつ頃決めましょうか……うふふ、気が早過ぎますかね。=Quando devemos decidir sobre um nome para a criança... Hihihi, muito cedo para dizer, acho eu.
 ですが、決めておくに越したことはありません。私は既に考えておりますので、貴方も宜しくお願い致しますね？=Mas é melhor decidir. Já pensei sobre isso e espero que você também pense.
 教会式も魅力的ですが、神前式で白無垢を着ることに憧れがございます。=A cerimônia da igreja também é atraente, mas estou ansioso para usar um quimono branco na cerimônia xintoísta.

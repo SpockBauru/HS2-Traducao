@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 なかなかいい場所っすね、気に入ったすよー。=É um lugar agradável, eu gosto!
 こんな所に連れて来るなんて、なかなかやるじゃないっすか。=É uma grande façanha trazê-lo aqui.
 それじゃ、あなたと一緒に素敵な夜を楽しむっすよ～。=Então, vou desfrutar de uma noite maravilhosa com você!

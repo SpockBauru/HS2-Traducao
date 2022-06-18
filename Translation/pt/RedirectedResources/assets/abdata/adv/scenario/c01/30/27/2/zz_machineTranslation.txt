@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 私だけしかイってないけど、大丈夫なの？=Eu sou o único que veio. Está bem assim?
 これで終わりでいいの？　私しかイってないけど。=Você tem certeza de que é assim que você quer acabar com isso? Eu sou o único que veio.
 私だけ気持ち良くなったみたいだけど、終わりにしていいの？=Acho que eu sou o único que se sente melhor. Podemos acabar com isso?
@@ -21,7 +21,7 @@
 あなたが望むならいいけど、私だけイっちゃうなんて……=Não me importa se você quiser, mas não posso ser o único que vem.
 あなたにイかされるのはうれしいけど……私だけだなんて物足りないわ。=É bom ser feito para ser gozado por você, mas... Não é suficiente que seja só eu.
 気持ち良かったけど、あなたも一緒にイかせたかったわ。=Senti-me bem, mas gostaria de ter feito você gozar comigo.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 私をイせて満足なの？　いいわよ、もっともっとイかせて欲しいわ。=Você está satisfeito em me fazer gozar? Ótimo, eu quero que você me fazer gozar ainda mais.
 私だけイっちゃうなんて、あなたが最高に気持ちいいせいだわ、ウフフ。=Não posso acreditar que sou o único que vem, é porque você é o melhor, ugh.
 あなたに抱かれてるっていうだけで、感度が良くなっちゃったわ、ウフフ。=Só o fato de que estou sendo segurado por você me torna mais sensível, ugh.

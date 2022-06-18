@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 こんなに出していただいて……女としてとても光栄ですわ……=Como mulher, sinto-me muito honrada por me ter dado tanto...
 おふたりとも、最後までご立派でしたわ……=Ambos foram magníficos até o fim...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ああ……おふたりの愛で満たされていますわ……=Oh... Cheio do amor de vocês dois...
 おふたりの味や匂いの違い……しっかりと覚えさせて頂きましたわ……=A diferença de gosto e cheiro entre vocês dois... É algo que aprendi bem.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 これからもおふたりに射精して頂けるような魅力的な女であり続けますわ……=Continuarei a ser o tipo de mulher atraente que faz vocês dois ejacularem...
 複数の方に愛して頂けるなんて……女としてこれほど身に余る光栄はございません……=Ser amada por mais de uma pessoa... É a maior honra que uma mulher pode ter.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 うふふ、おふたりの精液を吸い取ってしまうなんて罪な身体ですねぇ……♪=Hihihi, que corpo pecaminoso para sugar os dois sêmen... Hihihi
 うふふ、この匂いだけで妊娠してしまいそうですわぁ……♪=Ummm, acho que vou engravidar só por causa do cheiro disto ♪

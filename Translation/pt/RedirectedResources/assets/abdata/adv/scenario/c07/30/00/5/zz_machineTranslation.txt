@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ハッ、オマエらしいな。=Ha, isso é assim você.
 まぁ、いいんじゃねぇか？=Bem, isso é bom, não é?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 //それがアリなら、何でもアリだろ。=Se isso é uma formiga, então qualquer coisa é uma formiga.
 ほう、面白いことを言ってくれる。=Uau, isso é uma coisa interessante de se dizer.
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 とりあえず話そっか？　なんか面白い話題ある？=Vamos falar sobre isso, certo? Você tem algo de interessante para falar?
 最近いいことあった？　私はぼちぼちかな～=Você tem tido alguma boa sorte ultimamente? Eu não sou tão bom assim.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 私、お前と喋りたいこといっぱいあるんだよねぇ、あっでも、何かあるなら先に聞くよ？=Eu tenho muitas coisas que quero falar com você, mas se houver algo que você queira, eu vou perguntar primeiro, ok?
 じゃー何話そっかぁ。たとえば恋バナ、とか？　な、なーんてね……！=Então sobre o que devemos falar? Bem, talvez pudéssemos falar de amor? Você sabe...
 //享楽{0}=Prazer {0}

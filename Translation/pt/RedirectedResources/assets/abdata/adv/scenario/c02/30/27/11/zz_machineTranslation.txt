@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ん……さすがにこれだけしていれば、身体に慣れを感じてきますね。=Hmm... Como era de se esperar, se você está fazendo isso há tanto tempo, começará a sentir a familiaridade em seu corpo.
 この感じ……身体が、相性を再確認したような気がします。=Este sentimento... É como se meu corpo tivesse reafirmado nossa compatibilidade.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 なんだか少し、あなたに近づけた気がします……次が楽しみです。=Sinto que estou me aproximando um pouco mais de você... Estou ansioso para o próximo.
 あなたの身体の事がわかってきた気がします。　あなたも、私の身体の事、わかってきてくれていますよね？=Acho que estou começando a entender seu corpo. Você está conhecendo meu corpo também, não está?
 //享楽{0}=Prazer {0}

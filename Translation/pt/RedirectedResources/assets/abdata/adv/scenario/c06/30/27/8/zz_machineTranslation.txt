@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あら……体調が優れないのですか？=Oh... Você não está se sentindo bem, está?
 他にご用事を思い出されまして？=Posso lembrá-lo de algo mais?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 愛して頂けないのは名残惜しいですが……あなたが決めたことなら従いますわ。=Lamento que você não me ame, mas... Se a decisão for sua, eu a seguirei.
 あなたからお声がかかる時を心待ちにしておりますわ。=Estou ansioso para ouvir de vocês.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 わかりました、それでは私は下がらせて頂きます。=Muito bem, então, vou deixar você com isso.
 もし私に出来ることがありましたら何なりとお申しつけくださいまし。=Se houver algo que eu possa fazer por você, por favor, me avise.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あらあら……いつでもお待ちしておりますわぁ……=Oh meu... Você é sempre bem-vindo aqui...
 私への門はいつでも開かれておりますわ、ご安心くださいましねぇ……=A porta para mim está sempre aberta. Não se preocupe...

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 //うっは、ナニコレめっちゃムード良すぎなんですけどぉ～、アガるぅ～。=Ugh, Nanikore está muito mal-humorado ~ Agararu ~
 お酒飲んで、プール入って……んで、どうせヤルんしょぉ？=Vamos beber e jogar bilhar... E depois vamos transar, não vamos?
 //いいよ♪　アタシってほら、そういうパリピなノリ、全然アリだから♪=Eu não tenho medo desse tipo de coisa.

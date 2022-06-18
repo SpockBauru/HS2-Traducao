@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あー、なんていうかアレだね……ムラムラしてきた的な？　アンタもそうじゃない？=Sabe, eu estou meio... Excitado, sabe? Não é isso que você é?
 ねぇ……これから時間ある？　ちょっと軽くでもいいから、気持ちいことしない？=Ei... Você tem um minuto? Você quer fazer algo leve, algo que se sinta bem?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 話してたら、なんか身体疼いてきちゃったかも。アンタだって、そのつもりで話しかけて来たんでしょ？=Acho que estou começando a ter uma sensação dolorosa quando falo com você. Foi por isso que você veio falar comigo, não foi?
 あーごめ、アタシ……ちょっと欲求不満かも？　アンタも気持ちよくしてあげるからさ、相手してくれる？=Sinto muito, estou... Um pouco frustrado. Também vou fazer você se sentir bem. Você vai brincar comigo?
 //享楽{0}=Prazer {0}

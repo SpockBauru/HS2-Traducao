@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ったく、なんてやつらだ。二人がかりでやりたい放題しやがって。=Ohhh. Foram necessários dois deles para fazer o que queriam.
 二人分の精液となると、流石に匂いがキツイな。ずっと嗅いでたら、オレでも変になりそうだ。=O cheiro do sêmen de duas pessoas é simplesmente exagerado. Até eu ficaria louco se continuasse a sentir o cheiro.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ったく、二対一で勝てるかよ。しかもオレは、か弱い女だぞ？　二人でドバドバ出すのは卑怯だろ。=Não posso ganhar dois contra um. E eu sou uma mulher fraca, lembra-se? Não é justo para nós dois irmos juntos.
 群れて調子に乗りやがって。まぁ、これだけ出せりゃ、オマエらも満足だろう？=Vocês são um bando de bocetas. Bem, se eu conseguir tirar tanto de você, você vai ficar feliz, não vai?
 //享楽{0}=Prazer {0}
@@ -15,6 +15,6 @@
 //隷属{0}=Escravidão {0}
 二人してビュービュー出しやがって。こんな濃い匂いを嗅がせておいて、これで終わりはひでぇだろ。=Os dois estão me dando a visão. Seria horrível terminar com um cheiro tão espesso depois de fazer você sentir seu cheiro.
 オマエら、オレを真っ白にする気か？　そういうのが趣味だってんなら、とことん付き合ってやってもいいぜ？=Vocês estão tentando me tornar branco, não é mesmo? Se isso é o que você quer, eu vou com você até o fim, certo?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 これだけ出されると、オレも悪い気はしないな。しかも二人分だ。食い切れねぇってのは、こういうことを言うらしい。=Eu não me sinto tão mal quando sou servido tanto. E é para duas pessoas. Parece que isto é o que significa não poder comer tudo.
 いいか、オマエらは気持ちよくなって射精したんだ。オレにイカされたんだよ。つまり……もう二人ともオレのものだ。=Olhem, vocês ejacularam porque se sentiram bem. Eu o fiz ejacular. Então... Vocês dois são meus agora.

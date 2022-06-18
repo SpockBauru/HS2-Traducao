@@ -1,11 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 は？　マジで終わりにする気？　アタシ、まだイってないんですけど～！=O quê? Você vai mesmo acabar com isso? Eu ainda não gozei!
 あのさー、自分だけイって終わりとか、流石にどーかと思うよ？=Sabe, não creio que seja correto que você acabe vindo sozinho.
 おーい、マジありえんてぃーだから。一回でもいーから、アタシをイカせてから終わんなよ。=Ei, realmente não é possível. Não me importa se é só uma vez, apenas me fazer gozar antes de você terminar.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ちょっとがっかり……アンタはそーいうやつじゃないって、思ってたんだけどなー。=Estou um pouco decepcionado... Mas pensei que você não fosse esse tipo de cara.
 うーわ、一気にテンサゲ……冷めた、てか萎えた。アタシの見込み違いだったわ。=Ugh, tudo se foi de uma vez... Estou com frio, quero dizer, estou deflacionado. Eu estava errado a seu respeito.
 ちょマ？　え、ジョーダンっしょ？　アタシのことイカせてないで、マジで終わりにする気？=O quê? Oh, Jordan, certo? Você não vai me fazer ejacular, vai? Vai mesmo acabar com isso?
@@ -21,7 +21,7 @@
 あのさ、なんか大事なこと忘れてない？　アンタだけイって終わりとか、許されないから。=Ei, você não está esquecendo algo importante? Você não tem permissão para gozar e acabar com isso.
 うわ、アンタってそーいうやつだったんだ？　それともチョーシ悪い系？=Uau, então você é um desses caras, huh? Ou você é o mau da fita?
 はー、マジ病む……次からはアンタの相手、ちょっと考えさせてもらおっかな～。=Haha, estou realmente doente... Acho que vou pensar duas vezes em lidar com você na próxima vez!
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 アハッ、マジウケる……本気で終わろうとしてんの？　そーいうのさ……全然笑えないから……！=Ahhh, isso é tão engraçado... Você está tentando seriamente acabar com isso? Isso não é nada engraçado.
 アタシが！　アンタとしてやってんの！　それをなに、自分がイったから終わり？　ナイナイ、ナシよりナシなんてレベル越えてるから！=Eu sou! Estou fazendo isso como você! E agora você está me dizendo que acabou porque você gozou? Não, não e não!
 あー分かった。アンタおしおきしてほしーんだ？　なに、ドＭだったん？　じゃなきゃさ、せつめーつかないっしょコレ？=Está bem. Você quer que eu te espanque? O quê, você é uma dominadora? Se não estivesse, você não estaria sendo espancado, estaria?

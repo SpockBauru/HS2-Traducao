@@ -1,11 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ふぅ……まぁ、イけてよかったんじゃないですか？=Hmm... Bem, você não está feliz por ter vindo?
 とりあえず、お疲れさまでした。=De qualquer forma, obrigado pelo seu tempo.
 まぁ、何も出来ないよりはマシ、ですかね？=Bem, é melhor do que nada, não é?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたがイってくれたなら、別にいいですよ。=Não me importa se você veio.
 まぁ、あなたをイかせるのが、その…………の務め、ですから……っ=Bem, é meu dever fazer você gozar, então...
 あなたはイって気持ちよかった。　それでいいじゃないですか？=Você veio e se sentiu bem. Isso não é suficiente?
@@ -21,7 +21,7 @@
 その、イき足りなかったら、また声をかけても構いませんからね……？=Bem, sabe, se você não ejacular o suficiente, você pode me chamar de novo?
 え、もう終わりなんですか？　まだ残ってるんじゃないですか？=Oh, já acabou? Não há ainda algum?
 私もイきたかったですけど、まぁあなたのイく姿が見れましたし……？=Eu também queria gozar, mas tenho que ver você gozar, então?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あなたが私を感じてくれたからこそ、イってくれたんですよね？　そうですよね？？=Você veio porque me sentiu, não foi? Não é verdade?
 はぁ、あなたのイってる顔を見ただけで私、おかしくなりそうでした……♪=Huh, só de ver seu rosto quando você veio me fez sentir como se estivesse enlouquecendo...
 またいつでも私を使ってください。　この身体も心も、あなたの為に存在してるんですから……=Você sempre pode me usar novamente. Este corpo, esta mente, existe para você...

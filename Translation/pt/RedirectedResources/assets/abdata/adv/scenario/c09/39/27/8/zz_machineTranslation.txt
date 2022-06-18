@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あれ？　もーやめちゃうんですかー？=O que é isso? Você vai parar agora?
 ……？　これでいーんですか？　まぁ、その……あなたさんがそう言うならわたしはいーですけど……=? Você está de acordo com isso? Bem, se é isso que você quer, então sim, mas...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 も、もしかして……何かわたしに問題でもありましたか？　だったら遠慮なく言ってほしーですよー。=Poderia ser... Há algo de errado comigo? Se assim for, por favor, não hesite em me dizer.
 えー、こーいう終わり方、なんか超不安になるんですけどー……もしかしてわたしって魅力ないですか？=Bem, este tipo de final me faz sentir super inquieto... Sou pouco atraente, talvez?
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 えっと……もしかして、わたしが知らないだけで……こーいうエッチもあるんでしょーか？=Bem... Talvez eu simplesmente não saiba... Mas existe algo como sexo?
 あなたさんが今日はやめておくって言うのならー……わたしは黙って従いますけどー……なんかちょっとだけ消化不良です……=Se você diz para não fazer isso hoje... Eu obedecerei sem dizer uma palavra... Mas é um pouco indigestível...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 こんな気持ちのままお預けされるのは切ないですけど……その分、次回は燃え上がりますもんね。期待しています、ふふふっ。=É triste ficar assim, mas... É isso que vai te pegar fogo da próxima vez, não é mesmo? Estou ansioso por isso, phew.
 わたしへの愛が冷めたわけじゃ……ないですよね？　もしそうだとしたら……わたし……わたし……はぅ……=Não é que seu amor por mim tenha esfriado... Não é? Se for esse o caso... Então eu... Eu... Ah...

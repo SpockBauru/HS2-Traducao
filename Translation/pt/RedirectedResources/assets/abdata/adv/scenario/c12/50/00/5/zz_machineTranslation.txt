@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……やっぱ気持ちいいのが大事だよな。セックスもいいけど、他もいいと思うぜ。=... Quer dizer, é tudo uma questão de se sentir bem, certo? O sexo é bom, mas acho que o outro material também é bom, cara.
 ……なんでも楽しいに越したことないぜ。やっぱ楽しめないのはつまんないよな。=... Não há nada melhor do que se divertir com tudo. É chato se você não pode se divertir, não é?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 体の相性も大事だけど……やっぱ、気持ちも必要だと思うんだよな……=A química física é importante... Mas eu acho que você também precisa sentir...
 ……気持ちいいのもいいけどさ、そういうのってやっぱ、好きなもの同士の方が盛り上がるんじゃねぇの？=... É bom se sentir bem, mas esse tipo de coisa não é mais excitante quando é entre pessoas que gostam umas das outras?
 //享楽{0}=Prazer {0}

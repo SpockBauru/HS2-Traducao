@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 もしかしてー話しかける相手を間違えたってやつすかー？=Pode ser que você esteja falando com a pessoa errada?
 もー、セックスできるかもーって期待しちゃったじゃないすかー、まあー自業自得すけどー。=Eu esperava que pudéssemos transar... Bem, eu mereci, mas...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 えーあなたと話してめちゃくちゃ濡れてきたところだったんすけどー。=Eu estava ficando muito molhado falando com você.
 じゃー「あなたとセックスしてー」っていう願望を溜めておくのでー今度爆発させるっすー。=Então, vou poupar meu desejo de transar com você e explodi-lo na próxima vez.
 //享楽{0}=Prazer {0}

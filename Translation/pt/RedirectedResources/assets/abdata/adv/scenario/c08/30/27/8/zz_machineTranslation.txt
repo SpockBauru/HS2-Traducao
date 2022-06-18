@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 えー、この世の中で最も気持ちいい行為「セックス」をお預けにされたらお先真っ暗っすよ～。=Bem, se você é forçado a deixar o ato mais prazeroso do mundo, "sexo", seu futuro é sombrio!
 …………えっ？　本当にやめちゃうんすかー？　てっきり高度なギャグなのかと～。=... O quê? Você realmente vai parar? Pensei que fosse uma mordaça avançada.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 だ、大丈夫っすかー？　あなたが何もしないでやめちゃうなんてー明日は槍が降るんじゃー……=Você está bem? Não acredito que você vai desistir sem fazer nada, amanhã vai chover lanças...
 んー……了解っすよー、またヤル気になったらお気軽に誘ってほしいっすよー。=Se você tiver vontade de jogar novamente, por favor, sinta-se à vontade para me convidar.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 今度はもっとセクシーに誘えるようにーレッスンしないとっすねー。=Preciso aprender a ser mais sexy da próxima vez.
 今の私には犯す価値なしってことでーあえて突き放すんすかー？=Então você está dizendo que sou indigna de ser fodida? Você se atreve a me jogar fora?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 もしかして、私を欲求不満にさせてオナニーでも覗くつもりじゃ……それとも焦らしプレイ、ですか？=Talvez você esteja tentando me frustrar para poder me ver se masturbar... Ou talvez você esteja apenas se fazendo de difícil?
 私があなたの固いおちんちんを欲しがりすぎて引いちゃいました……？　ご、ごめんなさい……=Eu me afastei porque queria tanto seu pau duro? Sinto muito...

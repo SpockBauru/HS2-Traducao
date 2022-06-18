@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 こんなに射精してくれて嬉しいです……気持ちよかったんですね……=Estou feliz que você ejaculou tanto... Soube tão bem...
 量もそうですけど、においがすごいです……でも、嫌いじゃないですよ……=O cheiro é incrível, assim como a quantidade... Mas eu não odeio...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ああ、精液が重いです……これが愛の重さなんですね……=Oh, meu sêmen é pesado... Este é o peso do amor...
 私の愛が伝わって、こんな素敵なお返しをしてくれたんですね……たくさんの愛に溺れちゃいそうです……=Você me deu um retorno tão maravilhoso por meu amor... Estou me afogando em tanto amor...
 //享楽{0}=Prazer {0}
@@ -15,6 +15,6 @@
 //隷属{0}=Escravidão {0}
 からっぽになるまで出してくれましたか……？　まだ残ってるなら、おかわりほしいです……=Você o serviu até ficar vazio? Se sobrar algum, eu gostaria de um refil.
 はぁ、こんな精液まみれにしてくれて……ありがとうございます……=Huh, obrigado por me fazer tão coberto de sêmen... Obrigado...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 うふふ、私が卵子だったら妊娠したことを喜んでいたでしょうね……♪=Ummm, se eu fosse um ovo, eu teria ficado feliz de estar grávida ♪
 これだけの精液を一気に飲み干せたら……考えただけで胃がゾクゾクしちゃいます……♪=Se eu pudesse beber todo esse sêmen de uma só vez... Só de pensar nisso faz meu estômago girar ♪

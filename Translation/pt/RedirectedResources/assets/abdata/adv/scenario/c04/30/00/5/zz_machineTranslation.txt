@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 おぉ……なんか面白そうな話じゃん？=Oh... Isso parece uma história interessante, não parece?
 うわ……そこまでしちゃうんだ？=Uau... Você iria tão longe?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ……ぁはは、アンタ過激だね。=... Hahaha, você é tão radical.
 いやぁ……アタシはそこまでは……=Bem, eu não sou assim...
 //享楽{0}=Prazer {0}

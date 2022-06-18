@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 お話をするだけでも性のお勉強になりますわ、ありがとうございました。=Estou aprendendo muito sobre sexo só por falar com você. Obrigado.
 またお話いたしましょうね。=Vamos conversar novamente.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あら、もうこんな時間ですのね、あなたとお話するとすぐに時間が過ぎてしまいます。=Oh, já é tão tarde, o tempo voa quando eu falo com você.
 今日は改めてあなたがパートナー様でよかったと思いましたわ、それではご機嫌よう。=Estou feliz por você ser meu parceiro novamente hoje, portanto tenha um bom dia.
 //享楽{0}=Prazer {0}

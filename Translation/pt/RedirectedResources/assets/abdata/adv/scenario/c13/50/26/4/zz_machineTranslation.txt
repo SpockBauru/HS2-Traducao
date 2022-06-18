@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの、私……あなたの暴力に慣れてしまったみたいで……でも痛いものは痛いので、やめてほしいです……=Um, eu... Acho que me acostumei à sua violência... Mas o que dói, então, por favor, não...
 今日も私を痛めつけるんですか……？　それがあなたの性の形なら、受け入れたいんですけど……たぶん無理です……=Você vai me fazer sofrer novamente hoje? Se essa é sua forma de sexo, eu gostaria de aceitá-la, mas... Provavelmente não...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたにつけてもらった青あざを撫でるのは愛おしいのですけど、やっぱり痛いのはつらいです……=É adorável acariciar a contusão azul que você me deu, mas ainda é difícil sentir a dor...
 今日も私をボコボコにするんですか……？　暴力は愛情の裏返しって言いますけど……やりすぎです……=Você vai me bater novamente hoje? Dizem que a violência é o oposto do amor... Mas você está indo longe demais.
 //享楽{0}=Prazer {0}

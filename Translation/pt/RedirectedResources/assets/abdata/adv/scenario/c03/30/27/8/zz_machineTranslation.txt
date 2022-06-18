@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 え、なに？　私なんか悪いことした？　調子悪かったとか……？=O quê? Eu fiz algo errado? Eu estava de mau humor?
 え、も、もう終わり……？　だって、色々準備とか……あ、なな、なんでもない！=O que, você já terminou? Porque há muita preparação e... Oh, não, nada!
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 私……もしかして魅力なかった？=Eu sou... Não sou atraente?
 あ……あーっ！　もしかして用事？　もー仕方ないな、私のことはいいから早く行きなって、ね！=Oh... Aah! Você está fazendo um recado? Não adianta. Esqueça-me, apenas vá!
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 あ……え、えっと……うん、わかった……色々理解した……=Uh... Sim, um... Sim, está bem... Eu entendo muitas coisas...
 ああ、エロで変態な私のために放置プレイを……ありがとう……ムラムラしながら待ってるから……=Oh, deixe-me em paz para ser erótico e pervertido... Obrigado... Porque estou com tesão e esperando...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 ふぅん、待たせてムラムラさせるつもりなんだぁ♪　私をケダモノにした罪は、結構重いよぉ♪=Você está tentando me excitar fazendo-me esperar... O crime de me fazer um animal é muito grave.
 オッケー、エロ貸し１ねぇ♪　手帳に書いておくから♪=Está bem, você me deve uma. Vou escrevê-la em meu caderno.

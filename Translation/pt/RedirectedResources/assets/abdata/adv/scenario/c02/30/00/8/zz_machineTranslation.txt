@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 それでは、私はこれで……失礼します。=Bem, vou deixá-los a sós... Se me dão licença.
 すみません、この先予定がありますので……では。=Desculpe, tenho planos para o futuro... Então... Adeus.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ……それでは、また何かありましたら声をかけてくださいね。=... Então, por favor, me dê um grito se você precisar de mais alguma coisa.
 あなたとの会話は、その……楽しい、ので……また、お願いします……=Eu gosto de falar com você, então... Por favor... Fale comigo novamente.
 //享楽{0}=Prazer {0}

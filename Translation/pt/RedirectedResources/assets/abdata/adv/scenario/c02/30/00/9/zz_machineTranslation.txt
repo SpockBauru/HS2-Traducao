@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……で、この流れですと……そのままエッチに、という事でしょうかね？=Então... Se é assim que as coisas estão indo... Isso significa que vamos fazer sexo?
 ……何だか変な雰囲気になってしまいましたね。　…………シますか？=... É uma atmosfera um pouco estranha, não é? Vamos?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ……それで、あなたはそんなセックスを私としたいんですよね？　私は……構いませんよ……？=... E você quer ter esse tipo de sexo comigo, não quer? Eu... Não se importaria?
 ……こんな話を振っておいて、私のシたい事がわからない……なんて事はありません、よね……？=... Você não vai me dizer que não sabe o que eu quero fazer, vai?
 //享楽{0}=Prazer {0}

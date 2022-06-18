@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ん……悪ぃな。まさかオマエを満足させられないとか……我ながら情けない話だ。=Sinto muito. Achei que não seria capaz de satisfazê-lo... É patético da minha parte.
 どうした？　オマエはまだイってないだろう？　オレに気を使って、終わりにしようとしてるのか？=O que está acontecendo? Você ainda não se veio, não é mesmo? Você só está tentando me fazer terminar, não é mesmo?
 なんてこった。オレだけイカされて終わりとか……これじゃ恥晒しだ。=Ohhh. Eu sou o único que foi feito para ejacular e acabou... Isto é uma vergonha.
@@ -21,7 +21,7 @@
 それで、オマエはこの後一人で慰めるのか？　チッ、最低な結末だな……=Então, você vai se consolar depois disso? Droga, que final péssimo...
 オマエが相手だと、どうも調子が出ねぇ。好きにされるのは嫌いじぇねぇが、それで終わりってのもな……=Eu não me sinto tão bem quando estou com você. Não me importo de ser apreciado, mas não é o fim do mundo...
 イカせてもらったことには感謝しておく。次はこんな、情けない姿晒さねぇようにしねぇとな。=Agradeço por me fazer ejacular. Da próxima vez, eu não quero mostrar uma figura tão vergonhosa.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 ん……不甲斐ないとこ見せちまったな。大丈夫、次で取り返すさ。絶対だ。=Sinto muito por ter mostrado uma performance decepcionante. Não se preocupe, eu o recuperarei da próxima vez. Eu prometo.
 まぁ、オマエに花を持たせてやろうと思ってな。たまにはこういうのも、気分がいいだろ？=Bem, pensei em trazer-lhe algumas flores. É bom ter algo assim de vez em quando, não é?
 オマエ、そんなに耐えられたか？　怪しいな、他の女の匂いがするぜ。=Você acha que pode aguentar tanto assim? Duvido. Cheira-me a outra mulher.

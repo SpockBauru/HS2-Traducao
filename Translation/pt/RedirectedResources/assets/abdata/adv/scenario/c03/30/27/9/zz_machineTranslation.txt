@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 んぁ……すっご……ほんろに力が入ららい……♪=É... Tão... Muito difícil de...
 あー、ごめ……流石にもぉ……無理っほい……♪=Ah, me desculpe... Eu não posso fazer isso ♪
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ふぁ……なんか……ふぁふぁしゅゆ……んへへ……幸しぇぇ……♪=Ufa... Alguma coisa... Ufa... Ei... Felizmente ♪
 んぅぅ……気持ひはもっろしたいんらけろぉ……身体が……もうらめらぁ……♪=Eu quero me sentir tão bem... Mas meu corpo... Está me dando arrepios...
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 あぅー……もう終あい？　んぅ……良かったらぁ……私もう……限界らったかぁぁ……♪=Oh... Você já terminou? Bem... Se você não se importa... Eu estou... No meu limite?
 んー、お前の顔あ……二ちゅにみえうぅ……あー、こぇもう……やめろいた方がいいれぇ……♪=Seu rosto... Parece dois... Ohhh... Não... Não faça isso...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 んっく……らめ……力入んにゃい……仕方らい……この辺れ、終わっろくかー……♪=Hmmm... Coxo... Não posso me esforçar... Não adianta... Vou terminar aqui...
 んぁぁ……今しゅっごい……いー気分……んふぅー……満足したかぁ……今日は終わぃー♪=Hmm... Estou tão animado... Sinto... Nhuh... Estou satisfeito... Hoje acabou ♪

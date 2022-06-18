@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 話すのはいいが、長ったらしいのは勘弁だぞ？=Você pode falar sobre isso, mas não demore muito, está bem?
 それで、何か面白い話でもしてくれんのか？=Então, você tem algo interessante para me dizer?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 オマエのトーク力を試してやるよ。ほら、さっさと何か話せ。=Vou testar sua capacidade de falar. Vamos lá, diga alguma coisa.
 よし、好きに話してみろ。つまらなかったら、容赦なく指摘してやる。=Tudo bem, vá em frente, fale o quanto quiser. Se for enfadonho, eu o apontarei sem piedade.
 //享楽{0}=Prazer {0}

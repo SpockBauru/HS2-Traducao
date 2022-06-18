@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 うーん、また微妙なとこ突いてくるね～。=Hmmm... Você está batendo em um ponto sutil novamente!
 ……コイバナって、そこまで得意じゃないんだよねぇ。=... Não sou muito bom em brincadeiras de brincar.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あー分かる。分かりみが深い。=Ah, eu entendo. É profundo.
 とりま、もうちょい詳しく。=De qualquer forma, um pouco mais de detalhe.
 //享楽{0}=Prazer {0}

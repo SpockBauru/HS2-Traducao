@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 はぁ、そうですか。=Huh, estou vendo.
 わかりました、それではまた。=Certo, nos vemos então.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ……そうですか、では。=... Vejo, então.
 用がなくても私に会いに来てくれた、という事にしておきますね。=Direi apenas que você veio me ver apesar de não precisar de mim.
 //享楽{0}=Prazer {0}

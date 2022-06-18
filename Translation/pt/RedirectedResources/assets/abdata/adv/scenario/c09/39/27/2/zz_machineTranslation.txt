@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 今、思いっきりわたしだけイッちゃいました……なんか申し訳ないですー！=Vim o mais forte que pude... Sinto muito!
 我慢しようと思ったのですがー……あまりに気持ち良くて……一人で先走っちゃいました……えへへ。=Tentei me conter - mas... Soube tão bem... Que fui adiante e fiz tudo sozinho... Ehehe.
 自分だけイッちゃうなんて……恥ずかしいやら、申し訳ないやら……はふぅ……=Não posso acreditar que sou o único que veio... E estou tão envergonhado e arrependido...
@@ -21,7 +21,7 @@
 わたしの身体……あなたさんの温もりを感じると、すぐにへろへろになっちゃうみたいですよー。=Meu corpo... Parece que quando sinto seu calor, fico imediatamente exausto.
 こんな風に自分だけイッちゃうのは……なんかちょっと切ないですね……=É um pouco triste que eu seja o único que vem assim...
 あなたさんの温もりで全身がふわぁって浮いちゃう感じでした……えへへ、ありがとうございます。=Senti como se meu corpo inteiro estivesse flutuando no seu calor... Ehehe, obrigado.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あなたさんの優しさ、いっぱい伝わりました。おかげで身体中が幸せいっぱいですよ、えへへ。=Eu pude sentir muito sua gentileza. Graças a você, meu corpo está cheio de felicidade, ehehe.
 イかせてくれてありがとうございます。なんだかもう……本当に夫婦の営みみたいですね。ふふっ。=Obrigado por me fazer gozar. É como... É realmente como se fôssemos um casal agora, não é? Hehe.
 あなたさんがしてくれると、わたし、簡単にイッちゃうんです……だって愛してるんだもん……えへへ。=Quando você faz isso, eu venho facilmente... Porque eu te amo... Hehehe.

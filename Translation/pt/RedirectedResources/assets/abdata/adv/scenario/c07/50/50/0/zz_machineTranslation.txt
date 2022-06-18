@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ふーん、オマエはこういうチャラい場所が好きなのか？=Hmm, você gosta destes lugares de flerte?
 らしいっちゃらしいけど……なんか落ち着かねーなぁ……=Acho que é assim que deve ser, mas... É tão inquietante...
 おい、どうせヤるんだろ？　だったらさっさと始めろよ。=Ei, você vai me foder de qualquer maneira, certo? Então, prossiga com isso.

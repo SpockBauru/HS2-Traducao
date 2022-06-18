@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 悪くないと思うわ、その話。=Eu não acho que seja uma má idéia, essa história.
 いいわね、私この話、大好きよ。=Ótimo, eu adoro esta história.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたと、この話ができるなんて、すごく嬉しいわ。=É tão bom poder falar sobre isto com você.
 こんなに楽しくおしゃべりができるなんて、相手があなただからかしら？=Será que é porque é com você que eu estou me divertindo tanto na conversa?
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 その……エッチなことって、どういう風に調べたらいいかわからなくて……教えてもらっても、いいですか……？=Bem, eu não sei como descobrir sobre sexo, então... Você pode me dizer?
 私の身体、セックスに向いているか不安で……だからここに来たんですけど……=Eu não tinha certeza se meu corpo estava pronto para o sexo... E por isso vim aqui, mas...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたとするエッチがどれぐらい気持ちいいか、しっかり言葉にしたいんです……そのために、まずは……=Quero ser capaz de colocar em palavras como é bom transar com você... E para fazer isso, vou começar com...
 ――じゃあ次は私の番ですね……あなたのエッチで大好きなところは、愛がしっかり伝わってくるところです、うふふ……=--So agora é minha vez... O que eu amo em seu sexo é que você pode sentir o amor tão bem, hihihi...
 //享楽{0}=Prazer {0}

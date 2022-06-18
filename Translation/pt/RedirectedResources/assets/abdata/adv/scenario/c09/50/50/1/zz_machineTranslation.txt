@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 えへへ、プールなのに、大人なことしちゃいましたねー。=Ehehe, é uma piscina, mas eu fiz algo maduro!
 もうドキドキのワクワクで……楽しい思い出になりましたー！=Já estou emocionado com a emoção... E é uma lembrança divertida!
 ぷかぷかして、とっても楽しいエッチでしたねっ。=Foi muito divertido fazer sexo com você!

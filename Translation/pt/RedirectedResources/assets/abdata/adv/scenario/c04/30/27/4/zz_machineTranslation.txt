@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 うぅ、アンタら……寄ってたかって出し過ぎ……ほんと、群れるとすぐ調子に乗り過ぎるんだから……=Ugh, vocês... Vocês estão por toda parte... Vocês realmente se deixam levar quando estão em grupo...
 んぅ……精液も二人分だから、すっごい匂い。こんなん嗅がされたら、なんか頭おかしくなりそう……=Há sêmen suficiente para nós dois, então o cheiro é incrível. Acho que vou enlouquecer se tiver que cheirar isto...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 いやー、アタシ……ちょっと愛され過ぎじゃない？　こういう時って、やっぱどっちがたくさん出したとかで、勝負してんの？=Bem, eu... Você não acha que eles me amam um pouco demais? Em uma situação como esta, você joga para ver quem consegue mais?
 アンタら、ちょっと容赦なさ過ぎ……アタシは一人なんだからさぁ、二人してこんなに出されても、受け止めきれないってぇ。=Vocês são um pouco implacáveis demais... Estou sozinho, e não posso aceitar se vocês dois me derem tanto.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 んふ、二人にこんだけ出してもらえたら、アタシも頑張った甲斐があったかな～♪=Bem, se vocês dois conseguem tirar tanto de mim, acho que valeu a pena o esforço...
 気持ちいいのも二倍、精液の量も二倍、なんでも二倍で、もう凄いことになってるじゃん。ま……アタシが大変なのも二倍なんだけど。=Sente-se duas vezes melhor, duas vezes mais sêmen, duas vezes mais de tudo, e já é ótimo! Bem... É duas vezes mais difícil para mim, também.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 んっふふ、これはもうアタシの一人勝ちってことでいーっしょ？　だってアンタら、二人してこんなビュービュー出しちゃってるだし♪=Bem, eu acho que agora sou o único vencedor, certo? Porque os dois estão mostrando tal visão...
 もう二人とも、アタシの虜って感じ？　やば、アタシもしかして、罪な女ってやつ？　あはっ、ウケるっ♪=Vocês dois já estão apaixonados por mim? Ahhh, eu sou uma mulher pecadora? Haha, isso é engraçado.

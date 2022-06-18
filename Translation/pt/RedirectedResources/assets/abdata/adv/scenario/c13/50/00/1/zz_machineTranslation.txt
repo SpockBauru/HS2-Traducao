@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 私もあなたとおしゃべりしかったんです……どんなお話にしますか……？=Tenho querido conversar com você... Sobre o que você gostaria de falar?
 改めて誘われるとちょっと緊張しちゃいます……でも、とっても嬉しいです……=Estou um pouco nervoso para ser convidado a sair novamente... Mas estou muito feliz...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 私たちの将来について語り合うだなんて……あ、それは気が早すぎましたか……？=Falar do nosso futuro... Oh, isso é muito cedo, não é?
 うふふ、私とあなたのことですから、おしゃべりだけで時間がなくなっちゃいそうですね……=Ummm, já que somos você e eu, tenho certeza que ficaremos sem tempo só de conversar...
 //享楽{0}=Prazer {0}

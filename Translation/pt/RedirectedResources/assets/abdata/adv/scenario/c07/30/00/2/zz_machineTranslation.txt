@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ほう、オレを誘うとは、大した度胸だな。=Bem, você tem muita lata de me convidar para sair.
 いいだろう。だが、誘ったからにはしっかりやれよ？=Muito bem. Mas agora que eu o convidei, é melhor você fazer bem, certo?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ああ、別にいいぞ。断る理由も無いしな。=Sim, está bem. Não há motivo para dizer não.
 顔を真っ赤にしてお誘いか？　断ったら泣いちまいそうだな。=Você está me convidando para sair com seu rosto todo vermelho? Eu acho que choraria se recusasse.
 //享楽{0}=Prazer {0}

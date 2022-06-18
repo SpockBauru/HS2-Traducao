@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの……貴方は絶頂されておりませんが、宜しいのですか？=Hum... Você ainda não chegou ao clímax, está bem assim?
 もしかして、禁欲中なのでしょうか？=Poderia ser que você esteja em abstinência?
 貴方が終わりだと仰るなら、従いますが……=Se você diz que acabou, então acabou, mas...
@@ -21,7 +21,7 @@
 私はまだ、貴方を絶頂まで導けていないのに……本当に終わりで宜しいのですか？=Eu ainda nem te fiz chegar ao clímax... Você tem certeza de que quer acabar com isso?
 まだまだ精進が足りず申し訳ございません……直接触れずとも貴方を絶頂まで導けるよう励んでまいります。=Lamento não estar ainda suficientemente diligente... Vou dar o meu melhor para levá-lo ao clímax sem tocá-lo diretamente.
 お前では絶頂したくない……暗にそう仰っているのでしょうか？=Eu não quero chegar ao clímax com você... É isso que você está insinuando?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 次回は、本日我慢された分の子種も、私の中に注いで下さいね？=Da próxima vez, por favor, despeje em mim a quantidade de semente de criança que você suportou hoje, também.
 貴方の精液の匂いをかげないなんて、発狂してしまいそうです……=Vou enlouquecer por não poder cheirar seu sêmen...
 後生ですから、今から私にご奉仕させて下さいっ。子種が……貴方の子種が欲しいのです……=Eu sou sua posteridade, portanto, por favor, deixe-me servi-lo agora. Eu quero sua semente... Eu quero sua semente...

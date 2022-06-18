@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……うーん、エロ以外は本当に話題なくてー、なんか質問してもらえればー。例えばっすけどー―――=... Bem, eu realmente não tenho nenhum outro tópico além de pornografia, então se você tiver alguma dúvida... Por exemplo...
 ……趣味っすかー。しかもエロいこと以外の趣味っすよねー。強いて言えばなんすけどー―――=... Hobbies, huh? E é um hobby que não é o erotismo. Se eu tivesse que dizer, diria...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 もらって嬉しいプレゼントー……エロ系が禁止ならーお花……や、何でもないっすー！　えっとー―――=Se você não quiser que eu lhe dê pornografia, eu lhe darei flores. Bem...
 私はいちおー女性なんでー男性のことは男性に聞かないとわからないことが多いんすけどー―――=Sou uma mulher, por isso há muitas coisas que não sei sobre os homens, a menos que pergunte a um homem.
 //享楽{0}=Prazer {0}

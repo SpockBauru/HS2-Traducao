@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの、私だけ気持ちよくなって終わりというのは失礼かと……もう宜しいのですか？=Bem, eu não acho rude apenas me fazer sentir bem e acabar com isso... Você já acabou?
 私だけ絶頂に達するなんて……まだまだ不勉強で、申し訳ございません……=Não posso acreditar que sou o único que está em clímax... E sinto muito por ainda estar aprendendo...
 あなたにもご満足頂きたかったのですが……=Eu queria ter certeza de que você estava satisfeito com seu...
@@ -21,7 +21,7 @@
 あなたに尽くそうとして、逆に尽くされてしまうなんてお母さまに笑われてしまいます……=Sua mãe riria de mim se eu tentasse fazer tudo por você e você fizesse tudo por mim...
 そんな……私だけ果ててしまうなんて……穴があったら入りたいですわ……=Não acredito que sou o único que vai acabar assim... Se houvesse um buraco, eu entraria...
 ああ、私の身体はなんて快楽に弱いのでしょう……=Como meu corpo é vulnerável ao prazer...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あなたのとろけきったお顔を拝見するのは次のお楽しみにとっておきますわぁ……♪=Vou poupar ver seu rosto palpitante para a próxima vez ♪
 うふふ、たまには趣向を変えるのも悪くありませんわねぇ……♪=Não é uma má idéia mudar as coisas de vez em quando.
 まあ、もうお終いだなんて、私を焦らすおつもりなのですねぇ……♪=Bem, agora tudo acabou, você só está tentando me apressar ♪

@@ -1,11 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 えっ、女！？　いやいやごめんごめん、驚いただけで嫌ってわけじゃないからね！？=O quê? Uma mulher! Não, não, não, desculpe, desculpe, só estou surpreso, isso não significa que eu odeio você!
 でも、女とエッチするなんて、ちょっと照れるね。あ、あはは、緊張してるけど、よろしくねー？=Mas é um pouco embaraçoso ter relações sexuais com uma mulher. Ah, haha, estou nervoso, mas é um prazer conhecê-lo, certo?
 あーっ、本当に女じゃん！　プロフィールに女だって書いてあったからびっくりしてさー。私、女とするのは初めてだから、お手柔らかにね？=Oh, você é realmente uma mulher! Fiquei surpreso porque você disse que era uma mulher em seu perfil. Nunca fiz isso com uma mulher antes, portanto, por favor, seja gentil comigo.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 うわ……可愛い～！　めちゃくちゃ私のタイプの女だよ、というか私って女もイけたんだ～。=Ugh... Ela é tão fofa ~ Ela é o meu tipo de garota, quero dizer, eu também posso fazer as mulheres virem!
 でもヤバい、そんな子とスるのとか恥ずかしすぎ？　ちょ、ちょっと待って、心の準備するから……！=Mas oh não, estou muito envergonhada para transar com uma garota assim. Espere, espere, espere, espere, eu vou me preparar.
 はじめまして～。プロフィール見たときから、好きだなーって思ってたんだけど、実物の方が可愛いね。=Prazer em conhecê-lo ~ Pensei ter gostado de você desde o momento em que vi seu perfil, mas você é mais bonito em pessoa.
@@ -23,10 +23,10 @@
 別に嫌ってわけじゃないんだけど、女より男が相手だった方が気が楽だったな。=Não é que eu não goste deles, mas eu estava mais à vontade com um homem do que com uma mulher.
 だって私、人よりエロだから、女に否定されるのって結構クるんだよね……=Porque sou mais erótico que a maioria das pessoas e é muito irritante ter uma mulher a negá-lo...
 まあ、私を呼んだってことは否定するつもりはないのかな？　とりあえず、お手柔らかにね……=Bem, eu acho que você não vai negar que me chamou, vai? De qualquer forma, tenha calma comigo...
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 //………………=...
 お前……あうぅ……♪=Você... Ahh ♪
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あぁ、本当に女だぁ♪　私、女の身体を好き勝手できちゃうのぉ？=Oh, eu sou realmente uma mulher... Posso fazer o que eu quiser com o corpo de uma mulher?
 あ、さすがに好き勝手は怖かったかな？　大丈夫大丈夫、ちゃんと気持ち良くするからぁ♪=Oh, como esperado, você estava com medo de fazer o que quiser? Não se preocupe, eu o farei sentir-se bem.
 へぇ、お前が私と気持ち良くなりたいっていう女？　私みたいな女選ぶなんて物好きだねぇ、というかゲテモノ好きってやつ？=Oh, então você é a garota que quer se sentir bem comigo? Você é uma verdadeira aberração por escolher uma garota como eu... Ou é uma aberração?

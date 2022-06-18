@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 え、うそ……私だけイカされちゃった感じ？　うわー……恥ずかしー……うー、こっち見ないでー。=Ohhh... Eu sou o único que se excitou? Uau... Isso é tão embaraçoso... Woo, não olhe para mim.
 あーえっと……ごめんね？　なんかもう無理そう……つ、次はもっと頑張るからさ！　……許して？=Oh, hum... Desculpe? Acho que não consigo mais... Mas vou tentar mais da próxima vez! Perdoe-me?
 うーわ、やっちゃった……私、最悪だね……一人だけイって終わりとか……ありえないよね？=Ugh, eu fiz isso... Eu sou o pior... Só um de nós vai gozar e isso vai acabar... Isso é possível?
@@ -21,7 +21,7 @@
 あー、やっぱりこうなっちゃったか……私さ、お前とすると、エロ魔になっちゃうんだ……=Oh, eu sabia que isso iria acontecer... Quando estou com você, eu me torno um demônio erótico...
 はぁぁ……気持ち良かったぁ……でも、イったの私だけ……なんだよね？=Huh... Isso soube bem... Mas eu fui o único que veio... Não fui eu?
 こ、こういう終わり方って気まずいよね……もしかして、わざと、だったりして……？=Este tipo de final é estranho, não é... Talvez tenha sido intencional?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 //あははっ、もう降参♪　もうお前のテクにぞっこんでメロメロで、惚れまくりって感じぃ♪=Estou tão apaixonado por sua técnica que me apaixonei por você.
 //あーもー気持ちいい～よ～♪　でもごめんね、お前もイきたかったんじゃない？　次は絶対だぞ♪=É tão bom... Mas desculpe-me, você também queria gozar. Da próxima vez, eu prometo.
 //私をひとりでイかせてぇ♪　どうせ私はエロエロなベストセックスパートーナーですよーだ♪=Faça-me gozar sozinho ♪ Eu sou seu melhor parceiro sexual erótico de qualquer forma ♪

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あのー……よかったら、エッチなお勉強がしたいですぅ。=Hum... Se você não se importa, eu gostaria de aprender a ser levado.
 えっとぉ、そのぉ、ちょっとエッチな気分になったなー、なんて。……あなたさんはどうですか？=Sinto-me um pouco mal-educado... E você?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたさんとお話してたら、エッチがしたくなっちゃいました。……このまま、しませんか？=Quando eu estava falando com você, eu queria transar com você... Você gostaria de fazer assim?
 お話だけで終わるのは寂しいですよ……私、あなたさんとエッチしたいです。=Estou triste de terminar só de falar com você... Quero fazer sexo com você.
 //享楽{0}=Prazer {0}

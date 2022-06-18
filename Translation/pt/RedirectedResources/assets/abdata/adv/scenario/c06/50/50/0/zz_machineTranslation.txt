@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 素敵な場所ですわね……落ち着きますわ。=É um lugar adorável... Tão relaxante.
 あなたは、大人の魅力もお持ちですのね……=Você tem um charme muito maduro sobre você...
 それでは一緒に、大人の時間を楽しみましょう。=Portanto, vamos aproveitar um tempo adulto juntos.

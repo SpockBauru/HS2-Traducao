@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 どんなお話がしたいのかしら？=Sobre o que você gostaria de falar?
 何の話をするの？=Do que você está falando?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あなたとお話できるなら、嬉しいわ。=Terei prazer em falar com você.
 //何の話をするのかしら、ワクワクするわ。=Estou entusiasmado para ver do que você vai falar.
 //享楽{0}=Prazer {0}

@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 はー、気持ちよかったっすー。でも、私だけイッて終わりでよかったんすかー？=Haha, isso soube bem. Mas, não havia problema se eu apenas viesse e pronto?
 セックスは持ちつ持たれつっすからー代わりに私が頑張っちゃうっすよ～♪=O sexo é uma via de mão dupla, portanto farei o meu melhor em troca.
 やっぱイっちゃうと頭がぼーっとするっすねー。=Afinal, quando eu venho, minha cabeça fica confusa.
@@ -20,7 +20,7 @@
 //隷属{0}=Escravidão {0}
 人にイかせてもらうのって最高なんすけどー次はふたりで気持ちよくなれたらいいかなーとー。=É ótimo ter alguém que faça você gozar, mas da próxima vez espero que ambos possamos nos sentir bem.
 あの、私のこともう飽きちゃったっすかー？　頑張るんで捨てないでもらえると助かるっすー。=Hum, você já está cansado de mim? Farei o meu melhor, portanto, se você não me jogar fora, eu agradeceria.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 こ、これって何かのプレイですよね？　だって私だけイってあなたがイってないなんて……=Isto é algum tipo de brincadeira, não é? Se for eu quem vem e você não...
 あなたにイかせてもらうと、心の芯までトロけちゃうっていうか、本当に気持ちいいんです……=Quando você me faz gozar, sinto-me como se estivesse sendo torturado até o meu âmago, é uma sensação muito boa.
 あはは……私だけ乱れすぎですよね？　次は一緒にイけたらいいなって思います……=Hahaha... Sou só eu sendo muito selvagem, certo? Espero que possamos nos reunir na próxima vez...

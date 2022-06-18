@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 そのう、あなたがあまりにも痛くするものですからそのような愉しみにも目覚めてしまいましたわ。=Bem, você tornou isso tão doloroso que eu até comecei a ter prazer nisso.
 一応ご報告いたしますけれど、痛みや苦しみが少しずつ平気になってきてしまいましたの……=Só para que você saiba, a dor e o sofrimento têm se tornado cada vez menos...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 もう、あなたが私に好き勝手するものですから痛くして頂くのを待つ女になってしまいましたわ。=Eu me tornei uma mulher que espera que você a magoe porque você me faz coisas.
 苦楽と共にするのが夫婦、とは申しますけれど苦痛に関しては共にしたくありませんでしたわ。=Dizem que um marido e uma esposa devem compartilhar sua dor e sofrimento, mas eu não queria compartilhar minha dor.
 //享楽{0}=Prazer {0}

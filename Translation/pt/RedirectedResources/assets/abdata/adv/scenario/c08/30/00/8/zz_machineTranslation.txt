@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 なんかーあなたとお話だけするのってー不思議な感じっすねー。まーまた今度っすー。=Sinto que é estranho apenas conversar com você. Bem, talvez da próxima vez.
 刺激的な会話だったっすねー。また話してほしいっすー。=Essa foi uma conversa estimulante. Espero que possamos conversar novamente.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 昔は自分に関係ない話は興味なかったんすけど、あなたと話すときは色々考えちゃうっすよー。=No passado, eu não estava interessado em coisas que não me diziam respeito, mas quando eu falo com você, penso muito.
 あなたと話すのは楽しいっすねー。あなたも楽しんでくれてたら嬉しいっすねー。=É divertido conversar com você. Espero que você também esteja gostando.
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 アンタともけっこーヤったよね？　流石にアタシも、慣れてきたかな～♪=Tive muito sexo com você, não tive? Acho que já estou me acostumando...
 やっぱ慣れって大事だよね～。最近さ、どんどん感度上がってる気がする♪=É importante se acostumar às coisas, não é? Ultimamente, sinto que estou ficando cada vez mais sensível.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 誰かさんとヤリまくったせいで……アタシ、エッチすんの慣れてきたかも♪=Acho que estou me acostumando a fazer sexo porque tenho andado transando com outra pessoa.
 アタシら、絶対カラダのあいしょーいいっしょ♪　じゃなきゃ、慣れててもこんな感じないって。=Tenho certeza que você encontrará muitas pessoas que gostariam de saber mais sobre este tipo de coisa.
 //享楽{0}=Prazer {0}

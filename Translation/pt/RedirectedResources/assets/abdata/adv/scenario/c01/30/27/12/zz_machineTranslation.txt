@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 あは、ははは……いいのぉ……最高に……気持ち良かったわぁ。=Ha, ha, ha... Está tudo bem... Senti-me... óptimo.
 もうらめぇ……私ぃ……気持ちよくって……たまらないのぉ……=Não aguento mais... É tão bom... Não aguento mais...
 うふ……うふふよかったわぁ……=Hihihi... Hihihi... Isso foi bom...

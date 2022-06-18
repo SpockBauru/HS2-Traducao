@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 まー、好きな人相手なら……やっぱり喜んで欲しいって思うんじゃないですかねー？=Bem, se é alguém de quem você gosta... Você provavelmente quer que eles sejam felizes, não acha?
 それだけ自分が求められてるってことですよね？　うーん、悪いことじゃないよーな気もするなー。でもわたし、おバカですからね、自信ないですー。=Isso é o quanto você é procurado, não é? Bem, não parece ser uma coisa ruim. Mas eu sou um idiota, por isso não tenho certeza.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 なんていうかー、こー、無条件で受け入れられる瞬間があるんですよ、きっと！　多分！=O que posso dizer - há este momento de aceitação incondicional, tenho certeza! Talvez!
 あー、わたしにもありますよ？　頼まれたら応えてあげたいなって気持ち……もちろん、相手は限定されますけどっ！　されますけどっ！=Oh, eu também tenho essa sensação, você sabe? Quando alguém me pede para fazer algo, eu quero fazer... Mas é claro, é limitado! Eu quero!
 //享楽{0}=Prazer {0}

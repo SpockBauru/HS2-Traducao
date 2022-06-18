@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 会話は不得手なのですが、畏まりました。=Eu não sou muito bom em conversas, mas estou admirado.
 ご満足頂けるかは分かりませんが、努力致します。=Não temos certeza se você ficará satisfeito, mas vamos tentar.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 でしたら、恋のお話でも……いえ、何でもありません。=Então é uma história de amor... Não, não é nada.
 話し手は得意ではないのですが、聞き手でしたらお任せ下さい。=Não sou um bom orador, mas posso ser um bom ouvinte.
 //享楽{0}=Prazer {0}

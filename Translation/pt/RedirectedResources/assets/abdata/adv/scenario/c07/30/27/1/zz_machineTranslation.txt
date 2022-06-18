@@ -1,11 +1,11 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 待て、オレはイってねぇぞ？　こういうのは、お互い気持ちよくなんねぇとダメだろうが。=Espere, eu não gozei, gozei? Este tipo de coisa só é bom se nos faz sentir bem a ambos.
 おい、自分だけイって終わりか？　あんまりオレを失望させるなよ？=O quê, você vai simplesmente se deixar levar? Não me decepcione muito, está bem?
 まぁ、上手くイケない時もあるか。おい、次までにはもっと上手くなっておけよ？=Bem, às vezes você não consegue acertar. É melhor você ser bom na próxima vez, certo?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 オマエがイケただけで良しとするか。ここであーだこーだ言っても、みっともねぇだけだしな。=Acho que é uma coisa boa que você foi capaz de fazer isso. É apenas uma pena que você tenha que dizer tal e tal aqui.
 次はオレもイカせろよ？　一人だけイって満足なんてのは、そう何回も許されねぇからな？=Da próxima vez, deixe-me gozar também, está bem? Você não pode se contentar com apenas uma pessoa ejacular tantas vezes.
 ハッ、やっぱオレには敵わねぇってことだろ。でも努力はしろよ？　力づくでオレを落とすくらいのことはしてみろ。=Você não é páreo para mim, não é? Mas você tem que tentar, certo? Você deveria pelo menos tentar me vencer pela força.
@@ -21,7 +21,7 @@
 ほう、とことん焦らすってわけか。ハッ、おもしれぇ。上等だよ。=Oh, então você vai me apressar o caminho todo? Ha, isso é divertido. É bom.
 おい、これで終わりか？　自分だけイケれば満足ってか？　なんだ、オマエもゴミクズだったのか。=Ei, isso é tudo o que você tem? Você está feliz enquanto estiver quente? O quê, você também é um pedaço de lixo?
 まさか、オマエがその程度のやつだったとはな。オレが好きにしていいって言ったのは、こういう意味じゃねぇぞ？=Eu não pensava que você fosse esse tipo de cara. Não era isto que eu queria dizer quando disse que você pode fazer o que quiser.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 こういう冗談はあんまり好きじゃねぇ。ヤり直すなら、早めにしておけ？=Eu não gosto muito destas piadas. Se você vai transar novamente, faça-o mais cedo em vez de mais tarde.
 オマエの目は節穴か？　まさか、オレがイってないことに気付いてないのか？=Você é cego? Você nem sabe que eu não vou, não é mesmo?
 ほう、オレを試すとは、いい度胸じゃねぇか。いつ襲われてもいいように、身体は綺麗にしとけよ。=Oh, você tem coragem de me testar, não tem? Você deve manter seu corpo limpo para que possa ser atacado a qualquer momento.

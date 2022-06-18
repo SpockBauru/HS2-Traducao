@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 お話ね～。アンタ、なんか面白い話ないの？=Uma história. Você tem alguma história engraçada?
 言い出しっぺの法則ってことで、アンタから何か話して。=É a lei do primeiro a dizer algo, então você me diz algo.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 何の話したいん？　アタシも盛り上がれる話題がいいな～♪=Sobre o que você quer falar? Quero falar sobre algo que possa me entusiasmar.
 おけおけ、くだらない話でも、何でも聞くよ～。=Certo, vou ouvir tudo o que você tem a dizer, mesmo que seja estúpido!
 //享楽{0}=Prazer {0}

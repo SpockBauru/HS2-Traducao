@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 こういう事をするのにも、大分慣れてきました。多少の恥ずかしさはまだ残っていますが……それくらいで、丁度いいですよね？=Já me acostumei a fazer este tipo de coisa. Eu ainda me sinto um pouco envergonhado, mas... É mais ou menos isso, não é mesmo?
 少し、余裕が出てきたかもしれません。前までは自分のことで精一杯だったので……これからはもっと、貴方のことも考えられそうです。=Acho que fiquei um pouco mais relaxado. Eu estava tão ocupado comigo mesmo antes... Acho que posso pensar mais em você a partir de agora.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 貴方のおかげで少しエッチになってしまいました。嫌ではありませんよ。むしろ、嬉しいのです。だって、慣れるくらい貴方と、シたという事ですから。=Você me deixou um pouco malcriado. Eu não odeio isso. Ao invés disso, estou feliz. Porque isso significa que já fiz sexo com você o suficiente para me acostumar a isso.
 いやらしい女性は、お嫌いですか？　私、少しずつ大胆になってきているので……貴方の好みに合っていれば、いいのですが……=Você não gosta de mulheres excitadas? Estou ficando mais arrojado a cada minuto, então... Se for do seu agrado, espero...
 //享楽{0}=Prazer {0}

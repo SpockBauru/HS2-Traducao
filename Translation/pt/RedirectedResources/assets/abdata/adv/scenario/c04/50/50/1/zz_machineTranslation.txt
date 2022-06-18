@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 はー、やっぱナイトプールいいわぁ……みんなが群がるのも分かりみ。=Eu adoro piscinas noturnas... Posso ver porque todos estão se aglomerando a elas.
 女って結局さ～、良いムード作られると弱いからさ～。また連れてきてよね？=Afinal de contas, as mulheres são fracas quando são colocadas de bom humor. Você vai me trazer de volta, certo?
 ふふ、おつかれちゃーん♪　水ん中ってケッコー疲れんね。=É realmente cansativo na água, não é mesmo?

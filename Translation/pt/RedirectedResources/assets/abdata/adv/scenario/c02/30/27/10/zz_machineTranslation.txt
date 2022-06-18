@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……これだけ出しておいて、まだ出せる……なんていいませんよね？=... Você não pode dizer: "Depois de tudo isso, eu ainda posso tirá-lo...", pode?
 えっと……一先ずこの姿、どうにかしてきていいですか？=Bem... Posso ir fazer algo sobre minha aparência primeiro?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ぶっかけって、その人の独占欲を示すって聞いたことありますが…………そういう事でしょうか？=Ouvi dizer que o bukkake indica a possessividade de uma pessoa... É isso que você quer dizer?
 沢山かけてくれましたね……まぁ、あなたのならいくらでも平気ですけど。=Você investiu muito trabalho nisso... Bem, estou bem com tanto quanto você.
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 身体中がべとべとして、イカ臭くて……ふふっ、今の私、エッチじゃないですか？=Meu corpo está todo pegajoso e cheira a lula... Hehe, eu não pareço levado agora?
 はぁ……こんなに臭くて汚い匂いなのに、ずっと嗅いでいたくなるなんて……♪=Huh... É um cheiro tão fedorento e sujo, mas não consigo parar de cheirá-lo...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 あぁ……あなたの体液に……匂いに、包まれて……んふふふふ……♪=Oh... Seus fluidos... Seu cheiro, envolto em mim... Hihihi-hehe...
 はぁ……あなたの精液の受け皿になれて、私は幸せ者です……♪=Huh... Sou um homem de sorte por estar na ponta receptora do seu sêmen...

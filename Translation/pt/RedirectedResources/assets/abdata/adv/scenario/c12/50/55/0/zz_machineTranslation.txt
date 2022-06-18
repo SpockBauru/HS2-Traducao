@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 俺たち、一緒になったんだし……とりあえず身体も一緒になろうぜ。=Estamos juntos agora... Então vamos juntar nossos corpos, também.
 場所がどこだって関係ねぇよ……=Não me interessa onde você está...
 お前が目の前にいたら、いつだって始めたくなるんだよ。=Sempre me sinto tentado a começar quando você está bem na minha frente.

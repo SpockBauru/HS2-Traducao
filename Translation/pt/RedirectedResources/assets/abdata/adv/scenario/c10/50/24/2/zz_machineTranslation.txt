@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 私……上手くできていたでしょうか？　なんだかもうドキドキし過ぎて、よく分からなくて。よろしければその……またお相手お願いします。=Será que eu... Eu me saí bem? Estou tão nervoso que não sei o que está acontecendo. Se você não se importa, gostaria de tê-lo como parceiro novamente.
 あの……お恥ずかしい姿を色々見せたかと思いますが……初対面ということで、どうか許してください。=Um... Tenho certeza de que já lhe mostrei todo tipo de coisas embaraçosas, mas... Como nunca nos encontramos antes, por favor, me perdoe.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ふふ。予想通り、貴方はとても素敵な人でした。できればこれで終わりにはしたくありません。またいつでも、お気軽に誘ってくださいね？=Hehe. Como eu esperava, você era uma pessoa muito simpática. Se possível, eu não quero que isto seja o fim. Por favor, sinta-se à vontade para me convidar novamente a qualquer momento, ok?
 ふぅ、楽しい時間はあっという間ですね♪　貴方と一緒に過ごせて、とても幸せでした。なんて……ふふ。私、少し大袈裟過ぎますね。=Ufa, tempos divertidos voam... Fiquei tão feliz em passá-los com você. O que a... Hehe. Eu estou exagerando um pouco, não estou?
 //享楽{0}=Prazer {0}
@@ -16,9 +16,9 @@
 //隷属{0}=Escravidão {0}
 貴方にされたこと、しばらく忘れられそうにないです。貴方に気に入って頂けるなら私……本当に何でもできてしまいそうです。=Acho que não poderei esquecer o que você me fez por um tempo. Se eu posso fazer você gostar de mim... Então eu posso realmente fazer qualquer coisa.
 私の身体、変ではありませんでしたか？　またお誘い頂けるのを楽しみにしていますね。多少無茶がしたくなったら、是非ご指名ください。=Meu corpo não era estranho, não é mesmo? Estou ansioso para ser convidado novamente. Se você tiver vontade de ser um pouco imprudente, por favor me nomeie.
-//壊れ{0}=Quebrado {0}
+//壊れ{0}=Quebrada {0}
 あれぇ……もーおわりれすかぁ？　うーん、もっときもちぃぃこと、したかったれすぅ……=Isso é... Isso é tudo? Hmm, eu queria fazer algo ainda melhor...
 ふふぅ、おちゅかぇさまれしたぁ……ちゃんろきもひく……なれまひたかぁ……？=Hehe... Você é uma boa garota... Você é uma boa garota?
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 私、もう貴方の虜になってしまったかもしれません。初対面でこんな事を言われても困りますか？　でも、気持ちに嘘は……つけませんので。=Talvez eu já tenha sido cativado por você. É preocupante ouvir tal coisa na primeira reunião? Mas eu não posso mentir sobre meus sentimentos... Então.
 少しばかりのお別れになりますが……すぐに私の身体が恋しくなると思いますよ。ふふ、また早く会いたいですね。=Vou deixá-lo por um tempo... Mas tenho certeza de que sentirá falta do meu corpo em breve. Hehe, mal posso esperar para vê-lo novamente.

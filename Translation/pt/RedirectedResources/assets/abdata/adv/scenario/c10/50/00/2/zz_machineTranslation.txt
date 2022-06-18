@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ぁ……随分ストレートに言われるのですね。分かりました、それだけ欲求が溜まっている……ということですものね。=Ah... Você é muito direto, não é? Eu entendo. É o quanto você deseja... Certo?
 い、いいですよ。ですがその、女性を誘う時は……もう少し雰囲気も大事にした方が良いかと……=Não, está tudo bem. Mas, sabe, quando se convida uma mulher para sair... Talvez você queira considerar o ambiente um pouco mais...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 は、はい！　不束者ですが、よろしくお願いいたします。って……なんだか少し大袈裟に言ってしまいましたね。=Ha, sim! Sei que não sou muito bom nisto, mas estou ansioso para trabalhar com você. Acho que exagerei um pouco, não foi?
 わ、私でいいのですか？　いえ、嫌とかではなくて……むしろ逆です。とても嬉しいです。=Uau, você tem certeza de que está tudo bem para mim? Não, não é que eu não queira... É antes o oposto. Estou muito feliz.
 //享楽{0}=Prazer {0}

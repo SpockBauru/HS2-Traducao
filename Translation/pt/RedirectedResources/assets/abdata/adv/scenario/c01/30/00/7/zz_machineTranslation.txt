@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 なるほど……そういうことはあるかも知れないわね。=Bem... Talvez seja esse o caso.
 それは……ちょっと恥ずかしいんじゃないの？=Isso não é... Um pouco embaraçoso?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 そんなＨな話してたら、恥ずかしくなっちゃうわ。=Eu ficaria envergonhado se falasse sobre esse tipo de coisas.
 そういう話が好きなの？　困った人ね。=Você gosta desse tipo de conversa? Você está em apuros.
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 へぇ、お誘いってわけね。いーよ♪　断る理由ないし。=Ah, então você está me convidando para sair. Não há motivo para recusar.
 りょ♪　誘われたら断らないのが～、いい女ってもんだよね～♪=Se alguém o convida para sair, você não diz não. É isso que faz uma boa mulher.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 おっと、ご指名でしたか～。もちおけまる♪=Oops, foi seu compromisso? Mochiokemaru ♪
 ちょマ？　そんなん、秒で了承なんですけど。んふふ、嬉しみ♪=Choma? Isso é algo que eu aprovaria em um segundo. Hihihi, estou tão feliz.
 //享楽{0}=Prazer {0}

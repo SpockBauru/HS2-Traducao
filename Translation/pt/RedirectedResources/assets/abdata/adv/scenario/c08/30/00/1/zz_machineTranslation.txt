@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 えっとーそれは下の口でって意味じゃなくてー上の口でって事すよねー？=Bem, isso não significa com o fundo de sua boca, mas com o topo de sua boca, certo?
 会話のレパートリーがスケベな話しかないすけど、それでもよかったら付き合ってやってほしいっすー。=Meu repertório de conversas se limita à conversa erótica, mas se você não se importar, eu gostaria que você saísse comigo.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 んーAVの話か官能小説の話かーあとはエロ漫画もイケるっすよ～♪=Podemos falar de pornografia, romances sensuais e mangá erótico.
 お～、私もあなたと落ち着いてお話したかったので実はかなり嬉しいっすー。=Oh ~ Estou realmente muito feliz porque eu também queria falar com você de uma maneira descontraída!
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ふぉぉ、それでそれでっ！？　すごく気になる内容ですーっ！=Ah, então é isso? Estou realmente curioso sobre isso!
 あっ……待ってくださいっ！　ちょっと休憩しないとっ、わたし、ドキドキしてっ……すーはー、すーはー！=Ah... Espere! Preciso fazer uma pausa. Estou tão nervoso... Soo-ha, soo-ha!
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ですねですね！　やっぱりみんな気持ちいいことは好きなんですよー！　だって色んなことするじゃないですかー！=Sim, é isso mesmo! Afinal de contas, todos gostam de coisas que se sentem bem! Porque fazemos todo tipo de coisas!
 な、なるほど……あなたさんはそーいうのが好きなんですね……ふむ、きちんと覚えておきますよー！=Estou vendo... Você gosta desse tipo de coisa... Hmm, eu vou ter isso em mente!
 //享楽{0}=Prazer {0}

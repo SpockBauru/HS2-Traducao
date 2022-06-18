@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 まぁ、言いたいことは分からなくもない……=Bem, eu não sei o que você quer dizer...
 おい、こんなところで話す内容か？=Ei, este é realmente o lugar para se falar sobre isso?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 つまりどういうことだ？　もう少し分かりやすく話せ。=O que isso quer dizer? Fale mais claramente.
 あぁ、言いたいことはだいたい分かった。=Sim, eu acho que sei o que você vai dizer.
 //享楽{0}=Prazer {0}

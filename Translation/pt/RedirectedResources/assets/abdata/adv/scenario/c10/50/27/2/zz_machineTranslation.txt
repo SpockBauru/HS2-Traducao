@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 すみません……私、何と言ったら……つ、次は絶対、貴方にも満足して頂けるように頑張ります……=Desculpe, não sei o que dizer... Mas da próxima vez, definitivamente farei o meu melhor para satisfazê-lo também...
 その……怒っていますか？　もし、挽回の機会を頂けるなら……次こそは……なんて……甘え過ぎですよね、私……=Quero dizer... Você está com raiva de mim? Se eu pudesse ter uma chance de compensar você... Talvez da próxima vez... Você esteja sendo muito brando comigo, eu...
 ほ、本当に終わっていいのですか？　その……貴方はまだ、満足していないのでは？=Você tem certeza de que quer terminar? Quero dizer... Você ainda não está satisfeito?
@@ -21,7 +21,7 @@
 あ、あの、何と申しますか……た、大変その……恐縮です。自分が……情けないです。=Oh, hum, como devo dizer isto... Eu... Sinto muito... Muito... Muito. Tenho... Vergonha de mim mesmo.
 もっとしても……だ、大丈夫ですよ？　私に遠慮せずに、貴方がイクまで……すみません……本当に……すみません。=Você pode fazer mais... Está tudo bem. Não me segure até que você venha... Desculpe... Desculpe... Realmente... Desculpe.
 私ではその、貴方を満足させられませんか？　ずっと受け身では、やはり難しいですよね。次は攻めも……頑張ってみます。=Não posso satisfazê-lo, posso? É difícil ser passivo o tempo todo, não é? Da próxima vez, vou tentar ser agressivo.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 私……もしかして嫌われてしまいましたか？　そんなことはありませんよね？　だって私と貴方は、もう身体だけの薄い繋がりではありませんから。=Eu sou... Eu possivelmente não sou apreciado? Isso não é verdade, não é? Porque você e eu não somos mais apenas um elo físico fino.
 どう取り繕うと……結果が全てですよね。仕方ありません……私におしおきしていいですよ。ほら、そう怖がらずに、さぁ……=Não importa como você conserte... O resultado é tudo, não é? Não há nada que possa ser feito... Você pode me espancar. Vamos lá, não tenha tanto medo. Vamos lá...
 少々残念な事になってしまいましたが……貴方なら分かってくれますよね？　私、一生懸命やりました。それだけではダメですか？=Eu sei que é um pouco decepcionante, mas... Você entende, não é mesmo? Fiz o melhor que pude. Isso não é suficiente?

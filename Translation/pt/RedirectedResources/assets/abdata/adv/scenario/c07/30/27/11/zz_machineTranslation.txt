@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 大分、こういうことにも慣れてきたな。おい、次からはもっと色々試していくぞ？　お互い遠慮はなしだ。=Estou me acostumando muito a estas coisas. Tentaremos mais coisas da próxima vez, certo? Não há barreiras.
 よし、流石に初心者は卒業ってところか？　オマエには、それなりに感謝してるよ。=Ok, acho que estou acabado de ser um iniciante, não é? Sabe, sou grato por isso.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 オマエとさんざんヤったせいか。流石に慣れてきたな。次からはオマエのリクエストにも、なるべく応えてやるよ。=Talvez seja porque eu o tenho fodido tanto. Você já se acostumou, não é mesmo? Vou tentar atender seus pedidos na próxima vez.
 マンネリってのとはちょっと違うが、慣れてはきたな。そろそろ次のステップってやつに進んでもいいかもしれねぇ。=Não é exatamente uma rotina, mas estou me acostumando a ela. Talvez seja hora de passar para o próximo passo.
 //享楽{0}=Prazer {0}

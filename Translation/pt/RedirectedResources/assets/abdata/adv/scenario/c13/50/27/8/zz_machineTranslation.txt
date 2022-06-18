@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの……今度は一緒に気持ちよくなってほしいです……=Um... Agora quero que você se sinta bem comigo...
 嫌われてしまいましたか……？=Você me odeia?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あの、何か気に障ることを言ってしまいましたか……？　嫌いにならないでください……=Um, eu disse algo que o ofendeu? Por favor, não me odeie...
 もしかして具合が悪いんですか……？　そんな情報は上がっていなかったので、心配です……=Será que você não está se sentindo bem? Estou preocupado porque não foi levantada tal informação...
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 もしかして用事を思い出しましたか……？　うふふ、私は一番最後で大丈夫なので、行ってきてください……=Por acaso você já se lembrou de seu recado? Eu serei o último a sair, portanto, por favor, vá...
 行っちゃうんですね……わかりました、次に会うときまで、ずっとあなたのことを想っていますね……=Você vai... Está bem, vou mantê-lo em meus pensamentos até a próxima vez que o vir...
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 はい、また今度にしましょうね……♪=Sim, vamos fazer isso em outra ocasião ♪
 うふふ、私の目を見て「愛している」って言ってください……♪　今日はその言葉を頭の中で何度も反芻して、ひとりで慰めます……♪=Ummm, olhe-me nos olhos e diga "eu te amo" ♪ Hoje vou ruminar sobre essas palavras repetidamente na minha cabeça e me confortar ♪

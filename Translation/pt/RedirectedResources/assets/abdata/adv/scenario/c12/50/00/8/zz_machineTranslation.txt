@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 結構話しちまったな。それじゃ、俺は戻るからな。=Temos conversado muito. Bem, eu voltarei.
 色々話せてたのしかったぜ。それじゃあ、またな。=Foi um prazer conversar com você. Nos vemos por aí.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あれ、もうこんな時間かよ……俺、もう行くわ…話しできて楽しかったぜ。=Ei, já está na hora... Vou... Foi divertido conversar com você.
 ありがとな、色々話してくれて……すげぇ楽しかったぜ、んじゃ、またな！=Obrigado por falar comigo, cara... Foi muito divertido, cara. Vejo você mais tarde!
 //享楽{0}=Prazer {0}

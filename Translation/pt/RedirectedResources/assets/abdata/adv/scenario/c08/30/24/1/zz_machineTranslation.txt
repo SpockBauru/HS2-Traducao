@@ -1,13 +1,13 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 初めまして～。プロフィール見てびっくりしたんすけど、本当に女の子だったんすねー。=Prazer em conhecê-lo. Fiquei surpreso quando vi seu perfil, mas você é realmente uma garota, não é?
 女の子も全然イケるクチなんでーバッチコイっすよ～。=Eu também sou bom com garotas, então é perfeito!
 どもー、女の子に誘われる日が来るなんて思ってなかったんで、めちゃくちゃ嬉しいすよ～。=Oi, eu nunca pensei ver o dia em que uma garota me convidaria para sair, então estou realmente feliz!
 でも大丈夫っすかね～。たぶん私、めっちゃスケベ～なんすよ～。=Mas está tudo bem? Talvez eu seja muito obscena.
 まーこんな所スケベな人しかこないっすかねー、早速ふたりでイチャイチャして楽しんじゃいましょ～。=Não tenho certeza se só pessoas obscenas vêm a este lugar, mas vamos nos divertir curtindo juntos agora mesmo!
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 その美味しそうな身体、やらし～目つき……一目でピーンときたっすよ～。=Aquele corpo delicioso, aqueles olhos sexy... Eu me senti imediatamente atraído por ela!
 あなたも三度の飯よりセックスが好きなスケベレディすね～？=Você é um senhor lascivo que gosta de sexo mais do que três refeições por dia, não é?
 やっぱ類は友を呼ぶんすね～さっそくヤりまくるっすよ～♪=Acho que os amigos ligam para os amigos... Vou transar logo com ela...
@@ -34,10 +34,10 @@
 いやー、初めて会う女性にこんなことを言う時点で終わってるなーと思うんすけどー……=Bem, eu acho que você está acabado quando diz coisas como esta a uma mulher que nunca conheceu antes.
 あなたを見た瞬間、攻められてアヘアヘしてる自分が余裕で想像できたんすよ～。=No momento em que o vi, pude facilmente me imaginar sendo atacado e indo ahaha!
 だから、もしよかったら私のヤバい妄想を現実にしちゃってほしいっす～♪=Portanto, se você quiser, eu adoraria que você tornasse minhas fantasias mais selvagens uma realidade.
-//壊れ{0}=Quebrado {0}
-気持ち……よすぎ……す……=É tão... Tão... Bom.
-これ……いじょ、は……死ん……=Esta... Coisa... Está... Morta...
-//依存{0}=Depende (0)
+//壊れ{0}=Quebrada {0}
+//気持ち……よすぎ……す……=É tão... Tão... Bom.
+//これ……いじょ、は……死ん……=Esta... Coisa... Está... Morta...
+//依存{0}=Dependência {0}
 わ、めちゃくちゃタイプな女の人が……って、すみません、心の声駄々もれですね……=Uau, tem uma garota que eu realmente gosto... Desculpe, estou deixando minha mente vaguear...
 あはは……自分でもわかるぐらい慌ててることってあんまりないんですけど……あなたとこれからエッチするって思うと自然と……=Hahaha... Não é sempre que estou com tanta pressa que posso dizer... Mas quando penso em fazer sexo com você, eu naturalmente...
 うわぁ……今日は、よ、よろしくお願いします。=Uau... Hoje, yo, por favor.

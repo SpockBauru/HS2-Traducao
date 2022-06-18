@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ハッ、無様なもんだな。二人も一気に相手したいなんてイキがるから、そうなるんだ。=Huh, isso não é muito agradável. É o que acontece quando se quer enfrentar duas pessoas ao mesmo tempo.
 よし、オレらの勝ちだな。まぁ、勝負にすらなってなかったってところか？=Pronto, ganhamos. Bem, não foi nem um concurso, foi?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 オマエのイキ顔、二人でよーく見てやったぜ。どうだ今の気分は？　最高だろう？=Ambos vimos o olhar em seu rosto quando você veio. Como você se sente agora? Não é ótimo?
 二人でめちゃくちゃにされた気分はどうだ？　もうまともに考えられる余裕も残ってねぇか？=Qual é a sensação de estarem fodidos, vocês dois? Você não tem mais tempo para pensar direito?
 //享楽{0}=Prazer {0}
@@ -16,6 +16,6 @@
 //隷属{0}=Escravidão {0}
 こんだけ出せりゃ、大したもんだ。ハッ、オレらが頑張った甲斐があるってもんだな。=Se conseguirmos tirar tanto deles, estamos indo muito bem. Ha, vale todo o nosso trabalho duro.
 二人がかりで苛められた感想はどうだ？　正直、少し羨ましくなるくらい乱れてたぞ、オマエ。=Qual é a sensação de ser torturado por dois homens? Para ser honesto, eu estava com um pouco de inveja de como você era selvagem, cara.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 どうだ？　これだけされりゃ、もうオレら以外で抜こうなんて考えらんねぇだろ？=O que você acha? Depois de tudo isso, você não pode nem pensar em sair com ninguém além de nós, certo?
 精液は仲良く半分こしねぇとな。まぁ、足りなきゃまた出させりゃいいだけだが。=Teremos que dividir o sêmen. Bem, se você não tem o suficiente, apenas faça com que ele lhe dê mais.

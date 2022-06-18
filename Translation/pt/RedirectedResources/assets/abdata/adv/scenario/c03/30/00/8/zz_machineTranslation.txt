@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 うん、結構色々話せたんじゃない。楽しかったよ♪=Sim, nós falamos de muitas coisas, não falamos? Foi divertido. ♪
 よっし、お話終了！　有意義な時間でしたっ♪=Muito bem, já terminei de falar. Foi um bom momento.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 もっと話してたかったけど、際限なくなっちゃいそうだしね。=Eu queria falar mais com você, mas temo que não haja limite.
 いっぱい話せて嬉しかった。またお話しようね♪=Estou tão feliz por termos conseguido conversar. Vamos conversar novamente.
 //享楽{0}=Prazer {0}

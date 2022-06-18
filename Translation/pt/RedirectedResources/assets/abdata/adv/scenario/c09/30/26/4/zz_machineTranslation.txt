@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 最近、ちょっとだけ、苦しいことにも慣れてきたんですよ。だから……もしもあなたさんがしたいのなら……いい、ですよ？=Ultimamente, tenho me acostumado um pouco mais com a dor. Então... Se você quiser... Tudo bem, você sabe?
 エッチの時の……痛いのとか苦しいのとか、最初ほど抵抗はなくなったんですよね。だから……今日は受け入れてもいいですよ？=Quando se trata de sexo... A dor e o sofrimento, eu não sou tão resistente como era no início, certo? Então... Está tudo bem aceitá-lo hoje, está bem?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 ほ、本当は……ちょっと怖いですけど……あなたさんが望むのなら……少しくらい苦しいことしてくれてもいいですよ。=Ho, a verdade é... É um pouco assustador, mas... Se você quiser... Você pode tornar isso um pouco mais doloroso para mim.
 他の人だったら嫌ですけど……あなたさんが相手なら痛いことされても嬉しいかも……なんて……えへへ。=Não gosto se for outra pessoa, mas se for você, posso ficar feliz mesmo se você me fizer algo doloroso... Hehehehe.
 //享楽{0}=Prazer {0}

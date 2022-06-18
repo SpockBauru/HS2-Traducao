@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 やっぱり、新婚初夜は燃えるよなぁ……=Afinal de contas, a primeira noite de lua-de-mel é uma noite de fogo.
 結婚して……お前のモノになったって感覚が強いからかな。=Acho que é porque me sinto tão forte que sou casado... E pertenço a você.
 これで、俺は完全にお前のものになったんだな。=Agora eu sou totalmente seu, não sou?

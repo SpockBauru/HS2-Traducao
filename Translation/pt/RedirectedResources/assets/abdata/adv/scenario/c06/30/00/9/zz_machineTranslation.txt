@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あなたとお話している間に試したいことができたのですが、これから性のお勉強をいたしませんか？=Tenho algo que gostaria de tentar enquanto falo com você. Você gostaria de aprender sobre sexo de agora em diante?
 あなたさえ宜しければ、次は身体でお互いの理解を深めませんか？=Se estiver tudo bem com você, por que não aprofundamos nosso entendimento físico um do outro da próxima vez?
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 女の私から誘うのははしたないと思ったのですが、これから……いかがでしょう……？=Achei um pouco bobo para mim convidá-la para sair como mulher, mas de agora em diante... Que tal?
 夫婦のように会話した後は、やはり夫婦のようにまぐわいたく存じますわ……いかが？=Depois de nossa conversa como marido e mulher, gostaria de fazer amor com vocês como marido e mulher.
 //享楽{0}=Prazer {0}

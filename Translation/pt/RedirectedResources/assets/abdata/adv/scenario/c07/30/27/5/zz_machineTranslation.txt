@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 まぁ、二人がかりじゃ流石に分が悪いか。むしろ、これでオレをイカせられなかったら。オマエらかなり微妙だぜ？=Bem, eu acho que é demais para dois caras. Se vocês não puderem me fazer gozar... Vocês são muito sensíveis, não são?
 ハッ、これだけ盛大にイカされると、悔しさも湧いてこねぇ。てか、そもそも二対一だしな。ハンデ付けてやり過ぎだろ。=Nem tenho certeza se vou me arrepender quando for fodido com tanta força. Em primeiro lugar, são dois contra um. É uma deficiência muito grande.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 どうだ？　二人で一緒に、一人の女をイカせた気分は。仲間意識が高まったんじゃないか？=Qual é a sensação? Qual é a sensação de fazer uma mulher ejacular, só nós duas, juntas? É como um novo nível de camaradagem, não é?
 二人一気に相手しても、穴兄弟ってことになるのか？　まぁ、どうでもいいことだな。=Se eu enfrentar dois caras ao mesmo tempo, isso significa que somos um buraco? Bem, isso não importa, não é mesmo?
 //享楽{0}=Prazer {0}
@@ -15,6 +15,6 @@
 //隷属{0}=Escravidão {0}
 ふぅ、イったイった。二対一だと、逆に気兼ねなくイケていいな。オレは負けて当然なんだから……だろ？=Eu vim, eu vim, eu vim. Dois contra um, é bom poder ejacular sem se preocupar com isso. Eu mereço perder... Certo?
 オマエら、なかなかいいコンビなんじゃねぇか？　その調子で、二人でオレをまた攻め抜いてみせろよ。=Vocês formam uma equipe muito boa, não acham? Continuem assim e deixem vocês dois me atacarem novamente.
-//依存{0}=Depende (0)
+//依存{0}=Dependência {0}
 なかなかやるじゃないか。オマエら二人とも合格だ。少しは誇っていいぞ？=Isso é muito bom. Ambos passaram. Você deve estar um pouco orgulhoso.
 よし、よくやった。いいチームワークだったな。その調子で、もっとオレを満足させ続けろ。=Muito bem, muito bem feito. Foi um bom trabalho de equipe. Continue assim, e me mantenha feliz.

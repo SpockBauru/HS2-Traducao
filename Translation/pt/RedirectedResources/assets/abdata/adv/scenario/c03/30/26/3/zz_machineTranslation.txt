@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 あの、さ、お前……今日はお尻でシたいって気分じゃない？　なんていうか……勿体ないじゃん？=Ei, você sabe... Você não está com disposição para bunda hoje, está? É uma espécie de... Um desperdício, sabe?
 えっと、お尻で感じるって、やっぱり変……？　と、友達の話なんだけどね！？　あは、あはは……=Hum, é realmente estranho senti-lo no meu traseiro? E eu estou falando de meu amigo! Ha-ha-ha...
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 あのさ……お前、私のお尻、好き……だったよね？　あ、穴の方……なんだけど、今日、調子いいかも？=Você sabe... Você gosta... Da minha bunda, não é mesmo? Oh, quero dizer, o buraco... Mas eu acho que hoje estou melhor.
 あーえっと、今日は、さ、お尻でしてみない？　お前が沢山してくれた、その、恩返し……みたいな。=Uh, bem, hoje, por que não, uh, por que não fazemos isso no rabo? Você fez tanto por mim, e eu quero retribuir o favor.
 //享楽{0}=Prazer {0}

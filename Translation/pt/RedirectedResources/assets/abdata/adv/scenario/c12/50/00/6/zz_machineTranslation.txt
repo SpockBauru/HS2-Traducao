@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 ……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=... Se você está me perguntando se eu vou fazer o que você diz só porque eu gosto de você... Então eu não quero fazer.
 ……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=... Há uma diferença entre uma ordem e um pedido, certo? Bem, para cada um deles, eu acho.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=Hmm, eu não sei sobre amor ou amor... Mas é normal querer fazer o que faz a outra pessoa feliz.
 ……駆け引きとか、そういうのは良く分かんねぇけど……なんでもいう事聞くのは違う気がするぜ。=... Não sei nada sobre táticas ou algo parecido, mas não creio que seja correto fazer o que você quiser.
 //享楽{0}=Prazer {0}

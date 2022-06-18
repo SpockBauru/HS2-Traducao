@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 つまりそれは……凄いことですね！=Quero dizer, isso é... Isso é fantástico!
 そこまでは……私にはできそうにありません。=Tanto assim... Acho que não posso fazer.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 それは刹那的というか……別に否定はしませんが……=É uma coisa momentânea... Não que eu esteja negando, mas...
 あ、改めて……貴方の凄さを実感しました。=Ah, eu percebi... Mais uma vez... Como você é incrível.
 //享楽{0}=Prazer {0}

@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//普通{0}=Normal {0}
+//普通{0}=Normal{0}
 私、お話は好きですよ♪　では、どんなお話をしましょうか？=Eu gosto de histórias... Então sobre o que vamos falar?
 お話って素敵ですよね。貴方がどんな人なのか、色々話してみたいです。=As histórias são maravilhosas, não são? Eu gostaria de falar com você sobre quem você é e o que faz.
-//好意{0}=Favores {0}
+//好意{0}=Amor{0}
 何のお話をしましょうか？　なんだか少し、緊張してしまいますね。=Sobre o que devemos falar? Eu estou um pouco, um pouco nervoso, não estou?
 貴方のお話なら、どんなことでも聞きたいです。あと、私のことも、色々知って欲しいです……=Quero ouvir o que você tem a dizer. Também quero que você saiba muito sobre mim...
 //享楽{0}=Prazer {0}
