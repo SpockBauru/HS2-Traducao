@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//まぁまぁ良かったな。慣れればもう少しはマシになるだろ。そのうち、また相手を頼むかもな。=
-//まぁ、最初はこんなもんだろ。オレを嫌な気分にさせなかっただけで十分だ。オマエがまたシたいってなら、付き合ってやってもいい。=
+まぁまぁ良かったな。慣れればもう少しはマシになるだろ。そのうち、また相手を頼むかもな。=Isso foi tão, tão bom. Você vai se acostumar aos poucos. Talvez um destes dias eu lhe peça para fazer isso novamente.
+まぁ、最初はこんなもんだろ。オレを嫌な気分にさせなかっただけで十分だ。オマエがまたシたいってなら、付き合ってやってもいい。=Bem, é um começo. Já é suficiente que você não me fez sentir mal. Se você quiser transar novamente, eu posso sair com você.
 //好意{0}=Amor{0}
-//で、オレの抱き心地はどうだった？　まさか、悪いとは言わねえよな？　ほら、怒らないから、正直に言っていいぞ。=
-//身体の相性ってのはなかなかだったんじゃねぇか？　オマエもそう思ったんなら、またオレを誘えばいい。=
+で、オレの抱き心地はどうだった？　まさか、悪いとは言わねえよな？　ほら、怒らないから、正直に言っていいぞ。=Então, como foi meu carinho? Você não vai me dizer que foi ruim, vai? Veja, eu não estou com raiva, você pode ser honesto comigo.
+身体の相性ってのはなかなかだったんじゃねぇか？　オマエもそう思ったんなら、またオレを誘えばいい。=A compatibilidade física foi muito boa, não foi? Se você também pensa assim, você pode me convidar para sair novamente.
 //享楽{0}=Excitada {0}
-//終わってみればあっという間だな。ハッ、そんだけ夢中になってたってことか……おい、次も期待してるぞ。=
-//悪くは無かった。でも、オレはまだ満足してねぇぞ。次はもっとオレを楽しませろ。分かったな？=
+終わってみればあっという間だな。ハッ、そんだけ夢中になってたってことか……おい、次も期待してるぞ。=Passa tão rápido quando termina. Ha, isso é o quanto eu estava entretida... Ei, estou ansiosa para o próximo.
+悪くは無かった。でも、オレはまだ満足してねぇぞ。次はもっとオレを楽しませろ。分かったな？=Não foi ruim. Mas eu ainda não estou satisfeita. Da próxima vez, entretenha-me mais. Entendeu?
 //嫌悪{0}=Ódio {0}
-//ったく、誰かさんのせいで、オレの貴重な時間を無駄にしちまった。で？　どう落とし前つけんだオマエ？=
-//はぁ、終わりだ終わり。オマエはもう、さっさと帰れ。一応ヤったよしみだ、ぶっ飛ばすのは勘弁しといてやる。=
+ったく、誰かさんのせいで、オレの貴重な時間を無駄にしちまった。で？　どう落とし前つけんだオマエ？=Maldição, alguém desperdiçou meu valioso tempo. Então? Como você vai resolver isso?
+はぁ、終わりだ終わり。オマエはもう、さっさと帰れ。一応ヤったよしみだ、ぶっ飛ばすのは勘弁しといてやる。=Huh, acabou, acabou. Você, saia daqui. Só para que conste, eu te fodi, então não vou te dar uma surra.
 //隷属{0}=Submissa {0}
-//正直、予想以上だった。オレもオマエも、初対面にしちゃ上出来だ。ハッ、またオレを抱かせてやるよ。嬉しいだろ？=
-//オマエ、なかなかいいモンもってるな。よし、これからもオレが相手してやるから、オレが呼んだらすぐに来い。=
+正直、予想以上だった。オレもオマエも、初対面にしちゃ上出来だ。ハッ、またオレを抱かせてやるよ。嬉しいだろ？=Honestamente, foi mais do que eu esperava. Você e eu nos saímos muito bem para a primeira vez. Ha, vou deixar você me pegar de novo. Isso o faria feliz, não é mesmo?
+オマエ、なかなかいいモンもってるな。よし、これからもオレが相手してやるから、オレが呼んだらすぐに来い。=Você tem coisas muito boas. Tudo bem, eu cuidarei de você a partir de agora, portanto, quando eu ligar para você, venha imediatamente.
 //壊れ{0}=Quebrada {0}
-//んぁ……なんらこれ……やりしゅぎぅろ……こうなうろか……はぁ……=
-//はぁ……おぇは……いまどうらっれるんら……ぁー、わけがわかんれぇ……=
+んぁ……なんらこれ……やりしゅぎぅろ……こうなうろか……はぁ……=Hmm... O que é isto... Você é bom demais... É assim... Huh...
+はぁ……おぇは……いまどうらっれるんら……ぁー、わけがわかんれぇ……=Eu... Não... Sei... O que... A fazer.
 //依存{0}=Dependência {0}
-//よし、第一印象は合格だ。次またオレとする時のために、身体は綺麗にしておけよ？=
-//一度でもヤっちまったんだ。オマエはもう、オレから一生離れらんねぇぞ。=
+よし、第一印象は合格だ。次またオレとする時のために、身体は綺麗にしておけよ？=Muito bem, foi uma boa primeira impressão. Apenas certifique-se de manter seu corpo limpo para a próxima vez que estiver comigo, está bem?
+一度でもヤっちまったんだ。オマエはもう、オレから一生離れらんねぇぞ。=Eu já fodi com você uma vez. Você nunca mais poderá se afastar de mim.

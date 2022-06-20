@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//ああ……助、けて、くださ……まし……=
-//私……私……=
+ああ……助、けて、くださ……まし……=Oh... Me ajude... Me ajude...
+私……私……=Eu, eu, eu.
 //身体、が……壊れ、て……=

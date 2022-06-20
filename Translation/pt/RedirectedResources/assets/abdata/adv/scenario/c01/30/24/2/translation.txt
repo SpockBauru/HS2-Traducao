@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//こんな感じで良かったのかしら？　あんまり自信がないわね。=
-//私、変な所なかったかしら？　おかしかったら遠慮なく言ってね。=
+こんな感じで良かったのかしら？　あんまり自信がないわね。=É assim que deve ser? Não tenho tanta certeza.
+私、変な所なかったかしら？　おかしかったら遠慮なく言ってね。=Eu fiz alguma coisa errada? Não hesite em me dizer se algo está errado.
 //好意{0}=Amor{0}
-//初めての相手が、あなたで良かったわ。なんだか幸せよ。=
-//ありがとう、私の初めてをもらってくれて。相手があなたで良かったわ。=
+初めての相手が、あなたで良かったわ。なんだか幸せよ。=Estou feliz que você seja meu primeiro parceiro. Estou meio feliz.
+ありがとう、私の初めてをもらってくれて。相手があなたで良かったわ。=Obrigada por ser meu primeiro. Estou feliz que tenha sido você.
 //享楽{0}=Excitada {0}
-//エッチがこんなに気持ちいいなんて思わなかったわ。もっと試してみたくなっちゃうわ。=
-//初めてのエッチであんなに感じちゃうなんて。これよりもっと気持ち良くなれるなら、最高だわ。=
+エッチがこんなに気持ちいいなんて思わなかったわ。もっと試してみたくなっちゃうわ。=Eu nunca pensei que sexo pudesse ser tão bom. Isso me dá vontade de tentar mais.
+初めてのエッチであんなに感じちゃうなんて。これよりもっと気持ち良くなれるなら、最高だわ。=Não posso acreditar que me senti tão bem na primeira vez que fiz sexo. Se eu pudesse me sentir ainda melhor, isso seria ótimo.
 //嫌悪{0}=Ódio {0}
-//終わったのね？　なら、もういいわ。=
-//これでもう十分でしょ？　これで最後にしてほしいわ。=
+終わったのね？　なら、もういいわ。=Você já acabou? Então terminamos.
+これでもう十分でしょ？　これで最後にしてほしいわ。=Isso é o suficiente, não é? Espero que este seja o último.
 //隷属{0}=Submissa {0}
-//初めてでこんなに気持ちよくしてもらえるなんて……私、本当に幸せ者ね。=
-//こんなに気持ちよくされちゃったら、他の事なんにも考えられなくなるわ。=
+初めてでこんなに気持ちよくしてもらえるなんて……私、本当に幸せ者ね。=Tenho tanta sorte de me sentir tão bem pela primeira vez.
+こんなに気持ちよくされちゃったら、他の事なんにも考えられなくなるわ。=Se você me fizer sentir tão bem, eu não poderei pensar em mais nada.
 //壊れ{0}=Quebrada {0}
-//気持ち、よかったわぁ。私ぃ、もっともっと感じたいのぉ……=
-//最高に、感じちゃったわぁ……もっと、気持ちよくなってみたいのぉ。=
+気持ち、よかったわぁ。私ぃ、もっともっと感じたいのぉ……=Isso é tão bom. Eu quero me sentir cada vez melhor...
+最高に、感じちゃったわぁ……もっと、気持ちよくなってみたいのぉ。=Eu me sinto tão bem... Quero me sentir ainda melhor.
 //依存{0}=Dependência {0}
-//どうだった、私とのエッチは？　もっと気持ちよくなれるようにがんばるわ。=
-//初めてだったから、あんまり自信なかったけど、次はもっと上手になって、あなたを喜ばせてあげる。=
+どうだった、私とのエッチは？　もっと気持ちよくなれるようにがんばるわ。=Como foi, como foi o sexo comigo? Farei o meu melhor para que se sinta melhor.
+初めてだったから、あんまり自信なかったけど、次はもっと上手になって、あなたを喜ばせてあげる。=Foi a minha primeira vez, por isso não estava muito confiante, mas da próxima vez estarei melhor e o farei feliz.
