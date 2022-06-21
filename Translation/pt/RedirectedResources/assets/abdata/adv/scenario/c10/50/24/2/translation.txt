@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//私……上手くできていたでしょうか？　なんだかもうドキドキし過ぎて、よく分からなくて。よろしければその……またお相手お願いします。=
-//あの……お恥ずかしい姿を色々見せたかと思いますが……初対面ということで、どうか許してください。=
+私……上手くできていたでしょうか？　なんだかもうドキドキし過ぎて、よく分からなくて。よろしければその……またお相手お願いします。=Será que eu... Me saí bem? Eu estou meio nervosa demais, sei lá. Se você não se importa, gostaria de tê-lo como parceiro novamente.
+あの……お恥ずかしい姿を色々見せたかと思いますが……初対面ということで、どうか許してください。=Um... Tenho certeza de que lhe mostrei todo tipo de coisas embaraçosas, mas... Como esse é o nosso primeiro encontro, por favor, me perdoe.
 //好意{0}=Amor{0}
-//ふふ。予想通り、貴方はとても素敵な人でした。できればこれで終わりにはしたくありません。またいつでも、お気軽に誘ってくださいね？=
-//ふぅ、楽しい時間はあっという間ですね♪　貴方と一緒に過ごせて、とても幸せでした。なんて……ふふ。私、少し大袈裟過ぎますね。=
+ふふ。予想通り、貴方はとても素敵な人でした。できればこれで終わりにはしたくありません。またいつでも、お気軽に誘ってくださいね？=Hehe, como eu pensava, você é uma pessoa maravilhosa. Eu adoraria se nossa sessão pudesse durar para sempre, mas... Me liga de novo?
+ふぅ、楽しい時間はあっという間ですね♪　貴方と一緒に過ごせて、とても幸せでした。なんて……ふふ。私、少し大袈裟過ぎますね。=Ufa, A diversão passa num instante ♪ Eu me diverti muito com você... Hehe. Acho que estou exagerando um pouco, não estou?
 //享楽{0}=Excitada {0}
-//あぁ……本当は、もっとずっとしていたかったです。次はいつ誘って頂けますか？　私が欲求不満にならない内に、お願いしますね？=
-//はぁ……こんなに身体が火照ったのは初めてです。貴方はどうでしたか？　満足して頂けました？=
+あぁ……本当は、もっとずっとしていたかったです。次はいつ誘って頂けますか？　私が欲求不満にならない内に、お願いしますね？=Ahh... Eu só queria que a sessão durasse mais tempo. Me ligue novamente, sim? Antes de eu ficar triste?
+はぁ……こんなに身体が火照ったのは初めてです。貴方はどうでしたか？　満足して頂けました？=Huh... Nunca senti tanto prazer como este antes. Como foi para você? Ficou satisfeito?
 //嫌悪{0}=Ódio {0}
-//えぇと、終わりで……いいのですよね？　ふぅ……それでは失礼させて頂きます。=
-//あの……満足頂けましたか？　一応、頑張ってはみましたが……まぁこればかりは、相性というものもありますから。=
+えぇと、終わりで……いいのですよね？　ふぅ……それでは失礼させて頂きます。=Erm, nós... Já terminamos? Desculpe-me, vou retirar-me agora.
+あの……満足頂けましたか？　一応、頑張ってはみましたが……まぁこればかりは、相性というものもありますから。=Hum... Você está satisfeito? Eu tentei o meu melhor, mas... Bem, tudo isso é uma questão de compatibilidade.
 //隷属{0}=Submissa {0}
-//貴方にされたこと、しばらく忘れられそうにないです。貴方に気に入って頂けるなら私……本当に何でもできてしまいそうです。=
-//私の身体、変ではありませんでしたか？　またお誘い頂けるのを楽しみにしていますね。多少無茶がしたくなったら、是非ご指名ください。=
+貴方にされたこと、しばらく忘れられそうにないです。貴方に気に入って頂けるなら私……本当に何でもできてしまいそうです。=Acho que não vou esquecer todas as coisas adoráveis que fizemos mais cedo. Com você ao meu lado, sinto que poderia fazer qualquer coisa.
+私の身体、変ではありませんでしたか？　またお誘い頂けるのを楽しみにしていますね。多少無茶がしたくなったら、是非ご指名ください。=Você ficou satisfeito com o meu corpo? Estou ansioso para ser convidada novamente. Se você tiver vontade de ser um pouco... Bruto, por favor me chame.
 //壊れ{0}=Quebrada {0}
-//あれぇ……もーおわりれすかぁ？　うーん、もっときもちぃぃこと、したかったれすぅ……=
-//ふふぅ、おちゅかぇさまれしたぁ……ちゃんろきもひく……なれまひたかぁ……？=
+あれぇ……もーおわりれすかぁ？　うーん、もっときもちぃぃこと、したかったれすぅ……=Isso é... Isso é tudo? Hmm, eu queria fazer ainda mais...
+ふふぅ、おちゅかぇさまれしたぁ……ちゃんろきもひく……なれまひたかぁ……？=Hehe... Bom trabalho... Você também se sentiu bem?
 //依存{0}=Dependência {0}
-//私、もう貴方の虜になってしまったかもしれません。初対面でこんな事を言われても困りますか？　でも、気持ちに嘘は……つけませんので。=
-//少しばかりのお別れになりますが……すぐに私の身体が恋しくなると思いますよ。ふふ、また早く会いたいですね。=
+私、もう貴方の虜になってしまったかもしれません。初対面でこんな事を言われても困りますか？　でも、気持ちに嘘は……つけませんので。=Posso já ter me apaixonado por você. É preocupante ouvir tal coisa no primeiro encontro? Mas eu não posso mentir sobre meus sentimentos...
+少しばかりのお別れになりますが……すぐに私の身体が恋しくなると思いますよ。ふふ、また早く会いたいですね。=Vamos nos separar por um tempo... Mas tenho certeza de que sentirá falta do meu corpo em breve. Hehe, mal posso esperar para vê-lo novamente.

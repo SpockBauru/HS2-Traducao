@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//まあ、女性の方とは……少々戸惑いはありますが、問題ございません。どなたがお相手であろうと精一杯頑張ります。=
-//成程……女性の方とも致す機会がこの施設ではあるのですね。貴重なことを体験出来て、光栄です。=
+まあ、女性の方とは……少々戸惑いはありますが、問題ございません。どなたがお相手であろうと精一杯頑張ります。=Bem, duas mulheres... Estou um pouco confuso, mas não é problema. Farei o meu melhor, não importa quem seja.
+成程……女性の方とも致す機会がこの施設ではあるのですね。貴重なことを体験出来て、光栄です。=Vejo... Que você tem a oportunidade de conhecer mulheres neste estabelecimento. Sinto-me honrado por ter vivenciado algo tão valioso.
 //好意{0}=Amor{0}
-//女性の方にお声がけ頂けるとは……見初められたからには、私も誠意を尽くします。=
-//その、女性の方がお相手と知って緊張しておりますが、素敵な思い出を作れたらと思っております。=
+女性の方にお声がけ頂けるとは……見初められたからには、私も誠意を尽くします。=Estou tão feliz que uma mulher se aproximou de mim... Mas agora que você chegou, farei o meu melhor.
+その、女性の方がお相手と知って緊張しておりますが、素敵な思い出を作れたらと思っております。=Estou nervosa de saber que a senhora é minha parceira, mas espero fazer uma memória maravilhosa.
 //享楽{0}=Excitada {0}
-//女性の方でも、私がお相手を立てることに変わりはありません。……ええ、変わりませんとも。=
-//女性同士のまぐわい……うふふ、既に卑猥な空気が漂っている気がしますね。=
+女性の方でも、私がお相手を立てることに変わりはありません。……ええ、変わりませんとも。=Mesmo se você for uma mulher, eu estarei lá para você... Eu prometo que isso não mudará.
+女性同士のまぐわい……うふふ、既に卑猥な空気が漂っている気がしますね。=Copulação entre duas mulheres... Hihihi, eu sinto que já há um ar obsceno no ar.
 //嫌悪{0}=Ódio {0}
-//男女で致すのが普通のことではないでしょうか？　……本当に、お相手は私で宜しいのですか？=
-//同性を愛する方がいることは存じておりましたが……実際にそのお相手を務めることになるとは、想像しておりませんでした……=
+男女で致すのが普通のことではないでしょうか？　……本当に、お相手は私で宜しいのですか？=O normal não é que um homem e uma mulher combinem? Tem certeza de que sou a pessoa certa para você?
+同性を愛する方がいることは存じておりましたが……実際にそのお相手を務めることになるとは、想像しておりませんでした……=Eu sabia que havia pessoas do mesmo sexo que se amavam... Mas nunca imaginei que eu seria realmente essa pessoa...
 //隷属{0}=Submissa {0}
-//女性の方とも致すのですね。恥ずかしながら、こういったことに疎いものでして……宜しければ、未熟者の私を導いて下さいませんか？=
-//今まで教わった術が女性の方にどこまで通じるか……持てる全ての力でお相手を務めさせて頂きます。=
+女性の方とも致すのですね。恥ずかしながら、こういったことに疎いものでして……宜しければ、未熟者の私を導いて下さいませんか？=Tenho relutância em dizer, mas não compreendo a arte de ter relações sexuais lésbicas. Talvez você possa me elucidar?
+今まで教わった術が女性の方にどこまで通じるか……持てる全ての力でお相手を務めさせて頂きます。=Só posso adivinhar até que ponto minhas habilidades irão satisfazer uma mulher, mas não vou poupar esforços.
 //壊れ{0}=Quebrada {0}
 ………………=...
-//あはは……あぁたが……気持ひよく、しへく下さるのれすねぇ……=
+あはは……あぁたが……気持ひよく、しへく下さるのれすねぇ……=Haha... Você... Me faz sentir tão bem...
 //依存{0}=Dependência {0}
-//為せば成るという言葉もございますから、きっと女性同士でも子を授かることが出来ると私は信じております。これから共に試していきましょうね。=
-//女性同士で致した場合、どちらが身重になるのでしょうか？　私か貴方か、二人仲良く揃ってか……うふふ、妄想が捗ります。=
+為せば成るという言葉もございますから、きっと女性同士でも子を授かることが出来ると私は信じております。これから共に試していきましょうね。=Há um ditado: "Se você fizer isso, será feito", por isso acredito que as mulheres podem ter filhos juntos. Vamos tentar juntos a partir de agora.
+女性同士で致した場合、どちらが身重になるのでしょうか？　私か貴方か、二人仲良く揃ってか……うふふ、妄想が捗ります。=Se duas mulheres procriarem, qual delas dará à luz a criança, eu me pergunto? Eu ou você, ou nós duas juntos... Mmmm, minha imaginação está correndo selvagem.

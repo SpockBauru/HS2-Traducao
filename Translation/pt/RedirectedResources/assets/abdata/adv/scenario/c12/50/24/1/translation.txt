@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//女が相手だなんて思わなかったぜ……ちょっとドキドキするけど、結構楽しみだな。=
-//女だったとは思わなかった。でも別にいいぜ、楽しめるならなんでもな。=
+女が相手だなんて思わなかったぜ……ちょっとドキドキするけど、結構楽しみだな。=Nunca pensei que estaria lidando com uma mulher... Estou um pouco nervoa, mas bastante excitada.
+女だったとは思わなかった。でも別にいいぜ、楽しめるならなんでもな。=Eu não pensei que fosse uma mulher. Mas o que quer que seja, desde que seja divertido.
 //好意{0}=Amor{0}
-//女同士って……ちょっとびっくりするけど、お前が相手なら別にいいかな……=
-//お前、女だよな？　相手、俺でいいんだ？　いや、俺の方は別に問題ないけどさ。=
+女同士って……ちょっとびっくりするけど、お前が相手なら別にいいかな……=Estou um pouco surpreso de encontrar com outra mulher... Mas se for você, eu não me importo...
+お前、女だよな？　相手、俺でいいんだ？　いや、俺の方は別に問題ないけどさ。=Você é uma mulher, certo? Você tem certeza de que quer fazer isso comigo? Não, não é um problema da minha parte.
 //享楽{0}=Excitada {0}
-//女同士ってさ、すっげぇ気持ちいいんだろ？　なんだか興奮してきたぜ！=
-//女同士でするなんて、ドキドキしてきたぜ……よぉし、俺が思いっきり気持ち良くしてやるからな。=
+女同士ってさ、すっげぇ気持ちいいんだろ？　なんだか興奮してきたぜ！=Sabe, as garotas se sentem tão bem juntas, certo? Estou ficando tão excitada!
+女同士でするなんて、ドキドキしてきたぜ……よぉし、俺が思いっきり気持ち良くしてやるからな。=Estou tão excitada de estar fazendo isto com uma garota. Está bem, vou fazer você se sentir bem.
 //嫌悪{0}=Ódio {0}
-//俺、一応女だけどいいのか？　ふぅん、変わってんだな。=
-//女同士ねぇ……あんまり気が進まないけど、しょうがないか……=
+俺、一応女だけどいいのか？　ふぅん、変わってんだな。=Sou uma mulher, entendeu? Hmm, você é estranha.
+女同士ねぇ……あんまり気が進まないけど、しょうがないか……=Mulheres juntas... Não é realmente algo que me interesse, mas acho que não posso evitar...
 //隷属{0}=Submissa {0}
-//初めましてだよね……なるほど、女同士っていうのも悪くなさそうだな。=
-//せっかく女同士なんだから、女にしかできないような事、してみないか？=
+初めましてだよね……なるほど、女同士っていうのも悪くなさそうだな。=É um prazer conhecê-la... Bem, acho que não é tão ruim estar uma garota.
+せっかく女同士なんだから、女にしかできないような事、してみないか？=Já que somos ambas mulheres, por que não fazemos algo que só as mulheres podem fazer?
 //壊れ{0}=Quebrada {0}
 ………………=...
-//はぁ……すごいよぉ……俺ぇ、もうなんらか……んっ、はぁ……わかんなく、なっへるからぁ……=
+はぁ……すごいよぉ……俺ぇ、もうなんらか……んっ、はぁ……わかんなく、なっへるからぁ……=Porra, cara... *puff* Eu sinto que o sexo está se apoderando!
 //依存{0}=Dependência {0}
-//お前みたいな女とできるなんて、最高だな。さぁ、始めようぜ……=
-//女同士でしか味わえない快感……思いっきり感じ合おうぜ。=
+お前みたいな女とできるなんて、最高だな。さぁ、始めようぜ……=Adoro quando posso fazer isso com uma garota como você. Vamos lá, vamos começar...
+女同士でしか味わえない快感……思いっきり感じ合おうぜ。=O prazer que só pode ser experimentado entre as mulheres... Vamos nos sentir o máximo que pudermos.

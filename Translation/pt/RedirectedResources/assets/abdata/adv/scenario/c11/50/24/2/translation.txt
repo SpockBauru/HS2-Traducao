@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//貴方のお相手を務めることが出来たでしょうか？　ご不満がございましたら、次の機会までに改善致しますので、お申しつけください。=
-//お疲れ様です。体力を消費する行為ですから、しっかりお体を休めて下さいね。=
+貴方のお相手を務めることが出来たでしょうか？　ご不満がございましたら、次の機会までに改善致しますので、お申しつけください。=Espero ter podido servi-lo bem. Se você tiver alguma reclamação, por favor me avise para que possa melhorar na próxima vez.
+お疲れ様です。体力を消費する行為ですから、しっかりお体を休めて下さいね。=E com isso, nossa sessão está concluída. É uma atividade que consome muita energia física, portanto, por favor, certifique-se de descansar um pouco.
 //好意{0}=Amor{0}
-//事を終えた直後にお顔を合わせるのは、こそばゆいですね。その……素敵な一時を有難うございました。=
-//あぁ、鏡を見ずとも赤面しているのが分かります……己の気持ちを律することが出来ない未熟物で申し訳ありません……=
+事を終えた直後にお顔を合わせるのは、こそばゆいですね。その……素敵な一時を有難うございました。=Sinto-me um pouco envergonhada por encontrar seu olhar depois do que acabamos de fazer. Bem... Obrigado pelo momento encantador.
+あぁ、鏡を見ずとも赤面しているのが分かります……己の気持ちを律することが出来ない未熟物で申し訳ありません……=Não preciso me olhar no espelho para saber que estou corada... Desculpe-me por ser tão imatura, é que não consigo controlar meus sentimentos...
 //享楽{0}=Excitada {0}
-//身体の火照りが収まりません……また私を抱いて下さいね？=
-//これから貴方と致すのが楽しみで仕方ありません。うふふ、末永く宜しくお願い致しますね？=
+身体の火照りが収まりません……また私を抱いて下さいね？=Não consigo parar o fogo no meu corpo... Você vai me chamar de novo?
+これから貴方と致すのが楽しみで仕方ありません。うふふ、末永く宜しくお願い致しますね？=Hihihi, Isto deve marcar o início de uma longa e libidinosa relação.
 //嫌悪{0}=Ódio {0}
-//お疲れ様でした。体を休めたいので、これで失礼致します。=
-//これで終了という事でしたら、失礼させて頂きますね。=
+お疲れ様でした。体を休めたいので、これで失礼致します。=Obrigada. Preciso descansar meu corpo, por isso vou deixá-lo agora.
+これで終了という事でしたら、失礼させて頂きますね。=Se isso é o fim, eu gostaria de ser dispensada.
 //隷属{0}=Submissa {0}
-//あまりの心地よさに昇天してしまいそうでした……また、お声がけ頂けるのを心待ちにしております。=
-//あの、はしたなく乱れ過ぎてはいなかったでしょうか……？　もし下品な顔を晒しておりましたら、申し訳ございません。=
+あまりの心地よさに昇天してしまいそうでした……また、お声がけ頂けるのを心待ちにしております。=Senti-me tão confortável que quase subi ao céu... Espero sinceramente que você me solicite novamente.
+あの、はしたなく乱れ過ぎてはいなかったでしょうか……？　もし下品な顔を晒しておりましたら、申し訳ございません。=Hum, espero não ter sido muito exagerada. Peço desculpas se expus meu lado vulgar.
 //壊れ{0}=Quebrada {0}
-//うふふ……ふふ……んふふ…………うふふふ……=
-//きもひ、よかった……れす……ありがろぅ……ごじゃいましゅ……=
+うふふ……ふふ……んふふ…………うふふふ……=Mmmm... Mmmm... Mmmm... Mmmm... Hihihi...
+きもひ、よかった……れす……ありがろぅ……ごじゃいましゅ……=Bom... Obrigado... Obrigado... Obrigado...
 //依存{0}=Dependência {0}
-//うふふ、私が孕むまで子種を注ぎ込みに来てくださいね。=
-//今日の思い出で自身を慰めながら、次の機会をお待ちしております。=
+うふふ、私が孕むまで子種を注ぎ込みに来てくださいね。=Por favor, volte em breve. Estou ansiosa para receber sua semente e dar à luz seu filho.
+今日の思い出で自身を慰めながら、次の機会をお待ちしております。=Terei prazer em recordar nossa sessão de hoje, e aguardar nosso próximo encontro.

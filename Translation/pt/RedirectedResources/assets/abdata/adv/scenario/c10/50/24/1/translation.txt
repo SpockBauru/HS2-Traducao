@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//女性同士……ですか。いえ、嫌ではありませんよ。ただ少し、驚いてしまって。その……仲良くして頂けると、嬉しいです。=
-//同性なら変な気兼ねもいりませんし……きっと上手くいくと思います。ふふ、よろしくお願いいたしますね。=
+女性同士……ですか。いえ、嫌ではありませんよ。ただ少し、驚いてしまって。その……仲良くして頂けると、嬉しいです。=De mulher para mulher? Não, não é que eu não goste. Estou apenas um pouco surpreso. Bem, eu ficaria feliz se pudéssemos ser amigas.
+同性なら変な気兼ねもいりませんし……きっと上手くいくと思います。ふふ、よろしくお願いいたしますね。=Tenho menos com que me preocupar com outra mulher, tenho certeza. Hehe, este é o começo de uma bela amizade!
 //好意{0}=Amor{0}
-//良かった。実は、貴方のことが気になっていまして。同性なのに気持ち悪いと言われるかと心配で……でも、誘って頂けたのでもう安心です。ふふ♪=
-//お誘いありがとうございます。貴方は同性から見てもとても魅力的なので……私のような者を選んで頂けて、本当に光栄です。=
+良かった。実は、貴方のことが気になっていまして。同性なのに気持ち悪いと言われるかと心配で……でも、誘って頂けたのでもう安心です。ふふ♪=Bom. Na verdade, eu tenho pensado em você. Eu estava preocupada que você me achasse estranha por ser do mesmo sexo... Mas agora que você me convidou para sair, estou aliviada. Hehe...
+お誘いありがとうございます。貴方は同性から見てもとても魅力的なので……私のような者を選んで頂けて、本当に光栄です。=Obrigado por me escolher. Estou encantada em descobrir que também sou atraente pelo mesmo sexo. É uma honra ter sido escolhida!
 //享楽{0}=Excitada {0}
-//いいですね女同士♪　とても楽しそうです。ふふ、私の気持ちよくなれる所……全部教えますね。=
-//まぁっ、驚きました。貴方も私と同じ趣味とは。女の子同士でしたいとずっと思っていたのです。夢が叶ってしまいました。ふふふ♪=
+いいですね女同士♪　とても楽しそうです。ふふ、私の気持ちよくなれる所……全部教えますね。=Outra mulher? Oh, isto vai ser tão divertido! Hehe, vou lhes dizer todos os meus pontos mais sensíveis.
+まぁっ、驚きました。貴方も私と同じ趣味とは。女の子同士でしたいとずっと思っていたのです。夢が叶ってしまいました。ふふふ♪=Isto é uma surpresa. Eu não estou acostumado a conhecer garotas que compartilham meus gostos. Isto é como um sonho tornado realidade! Hehe.
 //嫌悪{0}=Ódio {0}
-//えっと……特殊な趣味をお持ちなのですね。私がどうこう言う事では無いと思いますが……色々と大変そうですね……=
-//女性同士でするのはそこまで気になりません。ですが……貴方は少し……いえ、こちらの問題ですので、お気になさらず。=
+えっと……特殊な趣味をお持ちなのですね。私がどうこう言う事では無いと思いますが……色々と大変そうですね……=Um... Você tem interesses peculiares. Eu não tenho o luxo de escolher aqui, mas estou preocupado que isto não acabe bem.
+女性同士でするのはそこまで気になりません。ですが……貴方は少し……いえ、こちらの問題ですので、お気になさらず。=Não tenho problemas quanto à intimidade com outras mulheres, mas você? Ah, minhas desculpas, é um assunto pessoal.
 //隷属{0}=Submissa {0}
-//その……いきなりですが、私は受けがいいです。えぇと……女性同士でするなら最初にハッキリさせておいた方が、よいかと思いまして……=
-//女同士ですし、私に変な遠慮はいりませんよ。貴方のしたいこと全部してみてください。多少乱暴にされても……問題ありませんので。=
+その……いきなりですが、私は受けがいいです。えぇと……女性同士でするなら最初にハッキリさせておいた方が、よいかと思いまして……=Eu... Sinto em dizer isto, mas prefiro ser dominada. Acho que é saudável ser honesta com este tipo de coisa.
+女同士ですし、私に変な遠慮はいりませんよ。貴方のしたいこと全部してみてください。多少乱暴にされても……問題ありませんので。=Nós duas somos mulheres enão você não precisa ser tímida. Você pode fazer o que quiser. Mesmo que você seja um pouco bruta comigo... Não tem problema.
 //壊れ{0}=Quebrada {0}
-//あなたぁ……ちゃんろわらしぉ、きもちおくれきるんれすかぁ？　たにょみましゅよぉ……=
-//はーい、それじゃぁ……はじめましゅかぁ……よろひくぅ……おねがぁしましゅねぇ……=
+あなたぁ……ちゃんろわらしぉ、きもちおくれきるんれすかぁ？　たにょみましゅよぉ……=Você pode... Me fazer... Sentir bem? Eu estou... Tão excitada...
+はーい、それじゃぁ……はじめましゅかぁ……よろひくぅ……おねがぁしましゅねぇ……=Certo, então... Vamos começar... Por favor... Mais forte...
 //依存{0}=Dependência {0}
-//性別なんて、関係ありません。きっと、貴方と私は、とても仲良くなれます。根拠はありませんが……ふふ、女の勘、です♪=
-//女性同士だとしても、貴方とは何故か特別な繋がりを感じます。ふふ、前世で一緒だったりしたのでしょうか？=
+性別なんて、関係ありません。きっと、貴方と私は、とても仲良くなれます。根拠はありませんが……ふふ、女の勘、です♪=Não importa o sexo que você seja. Tenho certeza de que você e eu vamos nos dar muito bem. Não tenho nenhuma razão para acreditar nisso, mas... Hehe, a intuição feminina...
+女性同士だとしても、貴方とは何故か特別な繋がりを感じます。ふふ、前世で一緒だったりしたのでしょうか？=Apesar de sermos ambas mulheres, sinto uma conexão especial com você por alguma razão. Hehe... Nós estivemos juntas em uma vida anterior?

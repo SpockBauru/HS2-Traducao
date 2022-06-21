@@ -2,23 +2,23 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//初めてだったけど、結構楽しかったぜ……お前、なかなかやるじゃん。=
-//うん、初めての割には案外うまくやれたんじゃないのか？　俺たち、ちゃんとできてたよな？　な？=
+初めてだったけど、結構楽しかったぜ……お前、なかなかやるじゃん。=Foi a minha primeira vez, mas foi muito divertido... Você é muito bom nisso.
+うん、初めての割には案外うまくやれたんじゃないのか？　俺たち、ちゃんとできてたよな？　な？=Sim, fizemos melhor do que o esperado na primeira vez, não foi? Nós nos saímos bem, não é?
 //好意{0}=Amor{0}
-//うん、なんか……よかったかな……えっと、それじゃ、また誘ってもいいからな、うん、絶対誘えよ。=
-//あぁ、うん、それなりに楽しかった……お前が相手なら、次もいけると思うから……ちゃんと誘うんだぞ……いいな。=
+うん、なんか……よかったかな……えっと、それじゃ、また誘ってもいいからな、うん、絶対誘えよ。=Sim, foi meio... Bom, eu acho... Hum, bem, você pode me convidar novamente para sair, sim, definitivamente me convide para sair.
+あぁ、うん、それなりに楽しかった……お前が相手なら、次もいけると思うから……ちゃんと誘うんだぞ……いいな。=Sim, sim, foi muito divertido... Se for com você, tenho certeza que podemos fazer isso de novo... Então não deixe de me convidar para sair... Ok?
 //享楽{0}=Excitada {0}
-//ふぅ！　かなり楽しめたんじゃないか、おい？　これなら次もいけそうだな！　ようし、また誘ってくれよな！=
-//いやぁ～、満足したぜぇ……お前、結構やるじゃん……俺、初めてだったけどすっげー気持ちよかったぜ……！=
+ふぅ！　かなり楽しめたんじゃないか、おい？　これなら次もいけそうだな！　ようし、また誘ってくれよな！=Ufa! Isso foi muito divertido, não foi? Acho que podemos fazer isso novamente! Muito bem, me convide de novo!
+いやぁ～、満足したぜぇ……お前、結構やるじゃん……俺、初めてだったけどすっげー気持ちよかったぜ……！=Bem, estou satisfeita... Você é muito bom nisso... Foi a minha primeira vez, mas me senti muito bem...
 //嫌悪{0}=Ódio {0}
-//悪かったな、乗り気じゃなくて……まぁ、お前のせいじゃないから、気にすんなよ。=
-//……もう、したくないけど……そんなワケには、いかないんだろうけど……=
+悪かったな、乗り気じゃなくて……まぁ、お前のせいじゃないから、気にすんなよ。=Desculpe, eu não consegui... Bem, não é culpa sua, não se preocupe com isso.
+……もう、したくないけど……そんなワケには、いかないんだろうけど……=... Não quero mais fazer isso, mas... Eu sei que não funciona assim...
 //隷属{0}=Submissa {0}
-//どうだった？　お前が喜んでくれたなら、俺はそれで嬉しいんだけど……もし、その気があったらまた誘ってくれよ、まってるから。=
-//どうだった、俺との時間は？　楽しんでもらえたなら良かったんだけど……でも、これに懲りずにまた誘ってくれよな？=
+どうだった？　お前が喜んでくれたなら、俺はそれで嬉しいんだけど……もし、その気があったらまた誘ってくれよ、まってるから。=Como foi? Se você está feliz com isso, eu estou feliz com isso, mas... Se você tiver vontade, convide-me novamente, eu estarei esperando por você.
+どうだった、俺との時間は？　楽しんでもらえたなら良かったんだけど……でも、これに懲りずにまた誘ってくれよな？=Como foi seu tempo comigo? Estou feliz que tenha gostado... Mas não deixe que isso o impeça de me convidar para sair novamente, certo?
 //壊れ{0}=Quebrada {0}
-//あはぁ……しぇっくすでぇ……おれぇ、こわれひゃったぁ……=
-//ふふふ……きもひいの、さいこーらよぉ……=
+あはぁ……しぇっくすでぇ……おれぇ、こわれひゃったぁ……=Puta merda, cara... Você me quebrou!
+ふふふ……きもひいの、さいこーらよぉ……=Hehe... Isso... Foi incrível!
 //依存{0}=Dependência {0}
-//これで満足したなんて嘘だろ？　俺はまだまだ放さないからな……覚悟しておけよ？=
-//俺がお前に決めちまったからには、お前に選択肢なんかないんだ。わかってるよな……ふふっ。=
+これで満足したなんて嘘だろ？　俺はまだまだ放さないからな……覚悟しておけよ？=Você não pode me dizer que está satisfeito só com isso, pode? Certifique-se de ficar por perto, mano - eu tenho a sensação de que vou precisar mais disso em breve!
+俺がお前に決めちまったからには、お前に選択肢なんかないんだ。わかってるよな……ふふっ。=Você não tem escolha agora que eu decidi por você. Você sabe... Hehe.
