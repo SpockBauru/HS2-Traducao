@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//んぁ……すっご……ほんろに力が入ららい……♪=
-//あー、ごめ……流石にもぉ……無理っほい……♪=
+んぁ……すっご……ほんろに力が入ららい……♪=Ahhh... Droga... Eu mal consigo me mover...
+あー、ごめ……流石にもぉ……無理っほい……♪=Desculpe... Acho que estou meio... Acabada por hoje ♪
 //好意{0}=Amor{0}
-//ふぁ……なんか……ふぁふぁしゅゆ……んへへ……幸しぇぇ……♪=
-//んぅぅ……気持ひはもっろしたいんらけろぉ……身体が……もうらめらぁ……♪=
+ふぁ……なんか……ふぁふぁしゅゆ……んへへ……幸しぇぇ……♪=Ufa... Tudo está girando... Ah, eu me sinto tão... Feliz ♪
+んぅぅ……気持ひはもっろしたいんらけろぉ……身体が……もうらめらぁ……♪=Eu quero me sentir tão bem... Mas meu corpo... Não aguenta mais...
 //享楽{0}=Excitada {0}
-//んぁー、私は……まらまらできるんらお……？　れもお前が無理そうらから、やめといらげぅぅ……♪=
-//はふ……もうらめ……満足し過ゅぎれ……頭……くぁくぁしゅるぅ……♪=
+んぁー、私は……まらまらできるんらお……？　れもお前が無理そうらから、やめといらげぅぅ……♪=Eu... Ainda estou pronta para mais, está bem? Mas você parece... Um pouco cansado, então... Vamos fazer uma pausa...♪
+はふ……もうらめ……満足し過ゅぎれ……頭……くぁくぁしゅるぅ……♪=Ahhh... Não consigo sentir meus... Dedos dos pés... E minha cabeça está... Toda confusa...♪
 //嫌悪{0}=Ódio {0}
-//んく……終わい終あいぃー……んぅぅ……もうほんろ……お終ぃぃ……♪=
-//はーい、解しゃーん……んー、もうれ……付き合い切えまひぇーん……♪=
+んく……終わい終あいぃー……んぅぅ……もうほんろ……お終ぃぃ……♪=Hmm... Acabou... Acabou, finalmente acabou!
+はーい、解しゃーん……んー、もうれ……付き合い切えまひぇーん……♪=Certo... Terminamos aqui... Eu não posso mais acompanhá-lo ♪
 //隷属{0}=Submissa {0}
-//あぅー……もう終あい？　んぅ……良かったらぁ……私もう……限界らったかぁぁ……♪=
-//んー、お前の顔あ……二ちゅにみえうぅ……あー、こぇもう……やめろいた方がいいれぇ……♪=
+あぅー……もう終あい？　んぅ……良かったらぁ……私もう……限界らったかぁぁ……♪=Oh... Você já terminou? Bem... Se você não se importa... Eu estou... No meu limite ♪
+んー、お前の顔あ……二ちゅにみえうぅ……あー、こぇもう……やめろいた方がいいれぇ……♪=Eu devo estar... Tonta ou algo assim... Porque eu posso ver... Dois de vocês agora mesmo...
 //依存{0}=Dependência {0}
-//んっく……らめ……力入んにゃい……仕方らい……この辺れ、終わっろくかー……♪=
-//んぁぁ……今しゅっごい……いー気分……んふぅー……満足したかぁ……今日は終わぃー♪=
+んっく……らめ……力入んにゃい……仕方らい……この辺れ、終わっろくかー……♪=Droga... Meu corpo está tão... Pesado... Vamos acabar com isso... Aqui, ok...♪
+んぁぁ……今しゅっごい……いー気分……んふぅー……満足したかぁ……今日は終わぃー♪=Hmm... Eu me sinto tão, tão incrível! E totalmente... Satisfeita! E... Também meio sonolenta...♪

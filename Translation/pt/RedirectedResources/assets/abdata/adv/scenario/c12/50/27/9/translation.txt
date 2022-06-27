@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//ん、はぁ……気持ち良すぎて、身体の力が……抜けちまった……=
-//ふぅ……俺は……もう動けないから、ここでちょっと休んでいくよ……=
+ん、はぁ……気持ち良すぎて、身体の力が……抜けちまった……=Ahhh... Droga, cara... Não consigo mover... Um músculo...
+ふぅ……俺は……もう動けないから、ここでちょっと休んでいくよ……=Ufa... Eu estou... Destruída por aqui! Deixe-me descansar... Um pouco...
 //好意{0}=Amor{0}
-//お前と……こんなに、気持ち良くなれるなんて……すげぇ幸せ……=
-//はぁ……なんか……気持ち良すぎて……身体がふわふわするぜ……=
+お前と……こんなに、気持ち良くなれるなんて……すげぇ幸せ……=Tão feliz... Fizemos isto, mano... A sensação do seu corpo... Foi incrível!
+はぁ……なんか……気持ち良すぎて……身体がふわふわするぜ……=Eu me sinto... Tão bem... Minha cabeça está girando e girando...
 //享楽{0}=Excitada {0}
-//はぁ……気持ち良かったぁ……しばらくなんにもしたくないぜぇ。=
-//んん……感じすぎて……頭のねじが、飛んでっちゃいそうだったぜ……=
+はぁ……気持ち良かったぁ……しばらくなんにもしたくないぜぇ。=Isso foi tão bom que não quero fazer nada por um tempo.
+んん……感じすぎて……頭のねじが、飛んでっちゃいそうだったぜ……=Senti-me tão bem que pensei que a minha cabeça ia explodir...
 //嫌悪{0}=Ódio {0}
-//はぁ……無茶苦茶しやがって……この、バカ……=
-//んん……おかげで……身体に力が、はいらないじゃねぇかよ……=
+はぁ……無茶苦茶しやがって……この、バカ……=Huh... Sério cara... Idiota...
+んん……おかげで……身体に力が、はいらないじゃねぇかよ……=Graças a você... Meu corpo não se move...
 //隷属{0}=Submissa {0}
-//はふぅ……まいったな……全身の力が、抜けたみたいだ……=
-//はぁ……ありがと、お前のおかげで……全身で感じることができた……=
+はふぅ……まいったな……全身の力が、抜けたみたいだ……=Droga... Eu me sinto... Tão fraca...
+はぁ……ありがと、お前のおかげで……全身で感じることができた……=Huh... Obrigado, cara, você fez meu corpo inteiro... Simplesmente gozar...
 //依存{0}=Dependência {0}
-//んふ……お前に、脱力させらるなら……本望だ……=
-//ふぅ……こんなになるまで、いかせてもらえるなんて……やっぱり……俺にはお前が必要だな。=
+んふ……お前に、脱力させらるなら……本望だ……=Ahh... Eu esperava que você... Fizesse isso comigo...
+ふぅ……こんなになるまで、いかせてもらえるなんて……やっぱり……俺にはお前が必要だな。=Não acredito que você me deixou gozar até eu estar assim... Eu sabia... Preciso de você.
