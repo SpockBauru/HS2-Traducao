@@ -1,0 +1,7 @@
+#set level 10,11
+
+//Informação de Seleção
+NetworkTop/Canvas/BG/Infomation/Contents/chara/Scroll View/Viewport/Content/HN/button/=ChangeFontSizeByPercentage(0.9)
+
+//Opções de Busca
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sort/imgBack=ChangeFontSizeByPercentage(0.9)

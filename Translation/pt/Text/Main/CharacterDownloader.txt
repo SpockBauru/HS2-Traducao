@@ -1,18 +1,38 @@
 // Tela de download de personagens
+#set level 10,11,13
+
+//------------------------------------------------------------
+// Inicialização da Rede
+//------------------------------------------------------------
+サーバーをチェックしています=Verificando servidores
+進捗ログ=Registro do Progresso
+登録された全ハンドル名の取得を開始します。=Iniciando a recuperação dos comandos de nomes registrados.
+サーバーから情報を取得しています。\n最新のバージョン情報の取得を開始します。=Obtendo as informações do servidor.\nAdquirindo as informações da versão mais recente.
+全てのキャラ情報の取得を開始します。=Adquirindo as informações de personagens.
+閉じる=Fechar
 
 //------------------------------------------------------------
 // Informação de seleção
 //------------------------------------------------------------
 選択情報=Informação de seleção
 ハンドル名=Nome do jogador
-選択=Pesquisa
+選択=Listar
+解除=Apagar
 //Remover
 キャラ名=Nome do Personagem
 コメント=Comentários
 
-タイプ=Tipo
+タイプ=Personalidade
 //Aniversário
 誕生日=Aniversário
+
+r:"^([0-9])月([0-9])日"=0$2/0$1
+r:"^([0-9])月([0-9]{2,2})日"=$2/0$1
+r:"^([0-9]{2,2})月([0-9])日"=0$2/$1
+r:"^([0-9]{2,2})月([0-9]{2,2})日"=$2/$1
+
+※ 空文字や「イリュージョン公式」は使用できません=* Personagens vazios e "Oficial Illusion" não podem ser usados
+No Name=Sem Nome
 
 //------------------------------------------------------------
 // Menu
@@ -27,16 +47,18 @@
 検索項目のリセット=Resetar Opções de Busca
 
 並び順=Ordem
-投稿(新)=Post mais Novo
-投稿(古)=Post mais Antigo
-更新(新)=Atualizado Recentemente
-更新(古)=Atualização Antiga
+投稿(新)=Mais Novo
+投稿(古)=Mais Antigo
+更新(新)=Atualizado
+更新(古)=Desatualizado
 
 人気(週間)=Polular\n(Semanal)
 人気(総合)=Popular\n(Total)
 拍手=Likes
 
 ハンドルネーム一覧=Lista de nomes de jogadores
+
+No Select=Não Selecionado
 
 キーワード検索=Pesquisa por palavra-chave
 

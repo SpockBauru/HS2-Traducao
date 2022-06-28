@@ -1,0 +1,35 @@
+//************************************************************
+// Traduções para o Plugin Maker Random Picker
+//************************************************************
+
+#set exe HoneySelect2
+#set level 3
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Menu Corpo
+//--------------------------------------------------
+
+Randomize=Fazer Aleatório
+
+Set current character as template=Definir a personagem atual como padrão
+Randomize!=Aleatório!
+
+Randomize body sliders=Randomizar os sliders corpo
+Randomize body type=Randomizar o tipo de corpo
+Skin color=Cor da pele
+Brown=Marrom
+Unchanged=Inalterado
+
+Randomize face sliders=Randomizar sliders de rosto
+Randomize face type=Randomizar o tipo de face
+Randomize eyes=Randomizar os olhos
+
+Randomize hair type=Randomizar o tipo de cabelo
+Randomize hair mesh=Randomizar o formato de cabelo
+Randomize hair color=Randomizar a cor do cabelo
+
+Deviation=Desvio

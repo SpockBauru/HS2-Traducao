@@ -1,0 +1,57 @@
+//************************************************************
+// Traduções para o Plugin Outfit Painter
+//************************************************************
+
+#set exe HoneySelect2
+#set level 3
+
+//************************************************************
+// Criador de Personagens
+//************************************************************
+
+//--------------------------------------------------
+// Menu Roupas
+//--------------------------------------------------
+
+Outfit Painter=Pintor de Roupas
+Assign Colors to Channels Then Use This Panel To Bulk Update=Atribuir cores aos canais e depois usar este painel para atualizar tudo ao mesmo tempo
+Channel=Canal
+Shine=Brilho
+Texture=Textura
+
+r:Color ([0-9]{1,2}) Channel=Canal de Cor $1
+Set From Channel=Defina do canal
+Sync To Channel=Sincronizar para o canal
+
+r:Pattern ([0-9]{1,2}) Channel=Canal de Estampa $1
+
+Sync All Now=Sincronize tudo agora
+
+sr:"^Used By: ([^ ]+ [^ ]+) ([0-9]+)"=Usado Por: $1 $2
+sr:"^Used By: ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+)"=Usado Por: $1 $2, $3 $4
+sr:"^Used By: ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+)"=Usado Por: $1 $2, $3 $4, $5 $6
+sr:"^Used By: ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+), ([^ ]+ [^ ]+) ([0-9]+)"=Usado Por: $1 $2, $3 $4, $5 $6, $7 $8
+
+Top Color=Cor Superior
+Top Pattern=Estampa Superior
+
+Bot Color=Cor Inferior
+Bot Pattern=Estampa Inferior
+
+Inner_top Color=Cor Superior Interno
+Inner_top Pattern=Estampa Superior Interno
+
+Inner_bot Color=Cor Inferior Interno
+Inner_bot Pattern=Estampa Inferior Interno
+
+Glove Color=Cor da Luva
+Glove Pattern=Estampa da Luva
+
+Pantyhose Color=Cor da Meia Calça
+Pantyhouse Pattern=Estampa da Meia Calça
+
+Sock Color=Cor da Meia
+Sock Pattern=Estampa da Meia
+
+Shoe Color=Cor do Sapato
+Shoe Pattern=Estampa do Sapato

@@ -1,0 +1,24 @@
+//************************************************************
+// Traduções para o Plugin Ear Wiggle
+//************************************************************
+
+//--------------------------------------------------
+//Janela de Configurações de Plugins (F1)
+//--------------------------------------------------
+Allow plugin to run on every frame=Permitir que o plugin funcione em todos os frames
+
+#set exe HoneySelect2
+#set level 3
+//--------------------------------------------------
+// Menu Rosto
+//--------------------------------------------------
+Ear Wiggling=Abanar Orelhas
+
+Damping: =Amortecimento: 
+Elasticity: =Elasticidade: 
+Stiffness: =Rigidez: 
+Inertia: =Inércia: 
+Gravity X: =Gravidade X: 
+Gravity Y: =Gravidade Y: 
+Gravity Z: =Gravidade Z: 
+Col. Radius: =Raio de Colisão: 

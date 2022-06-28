@@ -18,5 +18,4 @@ sr:"^(Ver)(.*)$"=$1$2 BR
 ハニーダウンロード=HS Downloader
 AIダウンロード=AI Downloader
 
-//Diálogo
-ゲームを終了しますか？=Sair do jogo?
+
