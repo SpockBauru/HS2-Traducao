@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-//おい、オレの鼻は誤魔化せないぞ。他の女の匂いなんかさせやがって、今すぐオレが上書きしてやる。=Ei, você não pode enganar meu nariz. Você cheira como outra mulher, eu vou anular isso agora mesmo.
-//オマエ、随分女遊びが好きになったみたいだな。自分が誰のものか、思い出させてやるよ。=Você parece ter desenvolvido um gosto por jogos femininos. Lembrarei a você a quem você pertence.
