@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//その……与えられる苦痛にも多少は慣れてきたのですが、好ましくない行為であることに変わりはありません。=
-//私に暴力を振るうおつもりでしょうか？　気乗りはしませんが、貴方がお望みになるのであれば……=
+その……与えられる苦痛にも多少は慣れてきたのですが、好ましくない行為であることに変わりはありません。=Bem... Eu me acostumei um pouco com a dor que é infligida, mas ainda é um comportamento indesejável.
+私に暴力を振るうおつもりでしょうか？　気乗りはしませんが、貴方がお望みになるのであれば……=Você quer me violar? Não estou inclinada a isso, mas se é isso que você quer...
 //好意{0}=Amor{0}
-//貴方がお望みになることは全て受け入れたいのですが……苦痛を伴う行為だけは、未だ適応しきれず申し訳ございません。=
-//貴方が与える苦痛ならば、多少は耐えてみせます。絶対耐えると言い切れないことは、大変申し訳なく思います……=
+貴方がお望みになることは全て受け入れたいのですが……苦痛を伴う行為だけは、未だ適応しきれず申し訳ございません。=Estou disposta a fazer o que você quiser, mas sinto muito por ainda não estar adaptada ao ato doloroso.
+貴方が与える苦痛ならば、多少は耐えてみせます。絶対耐えると言い切れないことは、大変申し訳なく思います……=Estou pronta para suportar qualquer dor que você deseje infligir. Mas lamento muito não poder dizer que vou aguentar indefinidamente...
 //享楽{0}=Excitada {0}
-//苦痛を伴う行為は私の好みではございませんが、それで貴方が昂ると仰るのでしたら多少は我慢致します。=
-//貴方が振るわれる暴力だから多少は我慢出来るのです。他の方でしたら、即座に縁を切っています。=
+苦痛を伴う行為は私の好みではございませんが、それで貴方が昂ると仰るのでしたら多少は我慢致します。=Os atos dolorosos não são meus favoritos, mas se isso o deixa excitado, eu vou aguentar um pouco.
+貴方が振るわれる暴力だから多少は我慢出来るのです。他の方でしたら、即座に縁を切っています。=Posso aguentar um pouco de violência porque ela vem de você. Se fosse outra pessoa, eu teria cortado os laços com ela imediatamente.
 //嫌悪{0}=Ódio {0}
-//分かっています……また暴力を振るうおつもりなのでしょう？　本当に最低な方ですね。=
-//慣れたくもないことに慣れ始めている……この惨めな気持ちを貴方は理解できないのでしょうね。=
+分かっています……また暴力を振るうおつもりなのでしょう？　本当に最低な方ですね。=Eu sei... Você vai ser violento de novo, não vai? Você é uma péssima pessoa.
+慣れたくもないことに慣れ始めている……この惨めな気持ちを貴方は理解できないのでしょうね。=Começo a me acostumar a seus deploráveis atos... E você não consegue entender como me sinto miserável.
 //隷属{0}=Submissa {0}
-//貴方がお与えになる苦痛という寵愛を有難く頂戴致します。=
-//貴方のお陰で、私の身体がさらに頑丈になりました。本日は、どの様なプレイで痛めつけて下さるのでしょうか？=
+貴方がお与えになる苦痛という寵愛を有難く頂戴致します。=Seu amor eterno sob a forma de sofrimento infligido? Eu aceito de bom grado!
+貴方のお陰で、私の身体がさらに頑丈になりました。本日は、どの様なプレイで痛めつけて下さるのでしょうか？=Graças a você, meu corpo se tornou ainda mais robusto. Como você pretende me açoitar hoje?

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//少しは痛いのにも慣れてきましたけど……だ、だからってやりすぎないでくださいよ？=
-//ふん、私だっていつまでも痛がってるわけじゃないですからね？=
+少しは痛いのにも慣れてきましたけど……だ、だからってやりすぎないでくださいよ？=Acostumei-me a um pouco de dor, mas... Isso não significa que você deva exagerar, está bem?
+ふん、私だっていつまでも痛がってるわけじゃないですからね？=Hmph. Quem está sentindo dor agora sou eu, mas depois? Veremos. Veremos.
 //好意{0}=Amor{0}
-//痛いのもまぁ、受け入れてしまえばそれまでなんですよね。　……あなた以外にはされたくないですが。=
-//愛のない鞭は痛いだけですから、しっかり私に愛を込めて痛くしてくださいね？=
+痛いのもまぁ、受け入れてしまえばそれまでなんですよね。　……あなた以外にはされたくないですが。=A dor, bem, basta aceitá-la. Eu ainda não gostaria que ninguém além de você fizesse isso.
+愛のない鞭は痛いだけですから、しっかり私に愛を込めて痛くしてくださいね？=Um chicote batido sem amor é apenas dor. Você me promete que vai acrescentar esse tempero romântico a ele?
 //享楽{0}=Excitada {0}
-//痛みを感じる事が出来れば、もう勝ったも同然ですからね、ふふん♪=
-//まぁ、痛気持ちいい事ならいくらでも歓迎しますよ。=
+痛みを感じる事が出来れば、もう勝ったも同然ですからね、ふふん♪=Se você me machucar, eu já ganhei meu dia, você só não sabe disso ainda. Hehe ♪
+まぁ、痛気持ちいい事ならいくらでも歓迎しますよ。=Bem, desde que ainda esteja dentro de limites razoáveis, eu não me importo com a dor.
 //嫌悪{0}=Ódio {0}
-//はぁ、アレだけ痛い事してれば、誰だって慣れざるを得ないですよ。=
-//ふん、これ以上痛いことをしても無駄ですからね？=
+はぁ、アレだけ痛い事してれば、誰だって慣れざるを得ないですよ。=Afffe. Qualquer um se acostumaria a dor se você lhe dar muito disso.
+ふん、これ以上痛いことをしても無駄ですからね？=Hmm. Você não pode me machucar mais do que já fez, pode?
 //隷属{0}=Submissa {0}
-//今日も痛いことするんですよね？　……してくれますよね？=
-//私になら何をしたっていいと思ってませんか？　……間違ってはないですけど。=
+今日も痛いことするんですよね？　……してくれますよね？=Você vai me machucar novamente hoje? Por favor, me machuque de novo hoje!
+私になら何をしたっていいと思ってませんか？　……間違ってはないですけど。=Você realmente acredita que pode fazer qualquer coisa comigo e se safar com isso? Porque você está certo.

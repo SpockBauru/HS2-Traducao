@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//苦しいとか、痛いとかが、少しだけ感じるようになってきたわ。=
-//痛みでも、身体が熱くなるのね。=
+苦しいとか、痛いとかが、少しだけ感じるようになってきたわ。=Estou começando a gostar um pouco da sensação de aflição e dor.
+痛みでも、身体が熱くなるのね。=Até mesmo a dor faz meu corpo ficar quente.
 //好意{0}=Amor{0}
-//あなたに痛くされても、だんだん気持ち良くなってきたわ。=
-//あなたがしたいことなら、痛いことでもちょっとは耐えられるわ。=
+あなたに痛くされても、だんだん気持ち良くなってきたわ。=Estou ficando cada vez mais excitada com você me machucando.
+あなたがしたいことなら、痛いことでもちょっとは耐えられるわ。=Eu posso viver com um pouco de dor se é isso que você quer fazer.
 //享楽{0}=Excitada {0}
-//また私を痛めつけたいの？　……わかったわ。=
-//痛いことに慣れるなんて、想像してなかったわ。=
+また私を痛めつけたいの？　……わかったわ。=Você quer me machucar novamente? Seu safadinho...
+痛いことに慣れるなんて、想像してなかったわ。=Eu nunca imaginei que me acostumaria com a dor.
 //嫌悪{0}=Ódio {0}
-//苦痛にも慣れてきたわね、あんまり慣れたくなかったんだけど……=
-//どうせまた痛め付けるんでしょ……=
+苦痛にも慣れてきたわね、あんまり慣れたくなかったんだけど……=Estou me acostumando com a dor. Não queria me acostumar muito, mas...
+どうせまた痛め付けるんでしょ……=Esse olhar em seu rosto... Você quer fazer isso de forma bruta novamente, não é mesmo?
 //隷属{0}=Submissa {0}
-//あなたのお望みのまま、無茶苦茶にしていいのよ。もう、慣れちゃったから、うふふ。=
-//どんなに激しい要求にも応えて見せるわ、ウフフ……=
+あなたのお望みのまま、無茶苦茶にしていいのよ。もう、慣れちゃったから、うふふ。=Você pode ser tão violento quanto quiser. Estou acostumada com isso agora. Hihi.
+どんなに激しい要求にも応えて見せるわ、ウフフ……=Vou atender a todas as suas exigências, por mais doloroso que seja...
