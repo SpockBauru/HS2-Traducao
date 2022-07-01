@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//は？　どゆこと？　意味不なんですけどっ！=
-//え、こマ？　アンタ、どんだけ意気地なしなの？=
+は？　どゆこと？　意味不なんですけどっ！=O quê? O que você quer dizer? Sério?
+え、こマ？　アンタ、どんだけ意気地なしなの？=O quê, como? Como você pode ser tão mesquinho?
 //好意{0}=Amor{0}
-//あー、マジ萎えた。アタシ、ヒトを見る目はあるつもりだったんだけどなー。=
-//え、まさか本気で終わり？　うっわ、サイテー。期待したアタシが馬鹿だったわ。=
+あー、マジ萎えた。アタシ、ヒトを見る目はあるつもりだったんだけどなー。=Aff, que decepção... E eu que achava que era boa a escolher caras...
+え、まさか本気で終わり？　うっわ、サイテー。期待したアタシが馬鹿だったわ。=O quê, você já terminou, sério? Ugh, isso é terrível. Foi estúpido da minha parte ter esperanças.
 //享楽{0}=Excitada {0}
-//あんさー、こーいう時間の無駄が、アタシ一番嫌いなわけ。このイライラ、どーしてくれんの？=
-//アンタ、なにしに来たの？　アタシに嫌がらせ？　そーいうの、お呼びじゃないから。=
+あんさー、こーいう時間の無駄が、アタシ一番嫌いなわけ。このイライラ、どーしてくれんの？=Ugh, eu não suporto quando alguém desperdiça meu tempo desta maneira! Isso me coloca no pior humor possível!
+アンタ、なにしに来たの？　アタシに嫌がらせ？　そーいうの、お呼びじゃないから。=Então, você gostou de vir aqui para tentar me irritar hoje? Porque não foi nada disso que eu pedi!
 //嫌悪{0}=Ódio {0}
-//アハッ、アンタなかなか分かってるじゃん♪　そーそ、なんもしないがせーかいだから♪=
-//へぇ～、いざとなったら怖くなったってやつ？　キモくてビビりとか、救えないね。=
+アハッ、アンタなかなか分かってるじゃん♪　そーそ、なんもしないがせーかいだから♪=Haha, bom menino! No início eu pensei que você era super burro e que ia tentar fazer uma jogada, mas não! Você entendeu!
+へぇ～、いざとなったら怖くなったってやつ？　キモくてビビりとか、救えないね。=Aww, você é um daqueles caras que não consegue aguentar quando está nervoso? Então isso o torna feio e patético, certo?
 //隷属{0}=Submissa {0}
-//えぇ……流石に萎えるんですけどぉ……アタシのこの火照りは、どーしてくれんの？=
-//うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=
+えぇ……流石に萎えるんですけどぉ……アタシのこの火照りは、どーしてくれんの？=Ugh, falando sobre uma desilusão... Então, o que devo fazer com todo esse tesão, hein? Apenas engarrafá-lo ou algo assim?!
+うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=Aff, o pior de todos! Tipo, se eu soubesse que ia ser ignorada, eu teria ficado em casa em meus pijamas!
 //依存{0}=Dependência {0}
-//なに？　チョーシ悪かった？　そーいうのはさ、先に言ってくれないと困るんですけどー……=
-//アンタさー、なんか勘違いしてない？　アンタのやる気とかカンケーないから。アタシを気持ちよくしないで、他に何すんの？=
+なに？　チョーシ悪かった？　そーいうのはさ、先に言ってくれないと困るんですけどー……=Você está com resfriado ou algo assim? Quero dizer, não tem problema se você estiver, mas me deixe saber mais cedo da próxima vez, certo?
+アンタさー、なんか勘違いしてない？　アンタのやる気とかカンケーないから。アタシを気持ちよくしないで、他に何すんの？=Então eu não sei se alguém já lhe explicou isso, mas você deve me dar prazer, certo? Quer você esteja excitado ou não!

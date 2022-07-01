@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//え、なに？　私なんか悪いことした？　調子悪かったとか……？=
-//え、も、もう終わり……？　だって、色々準備とか……あ、なな、なんでもない！=
+え、なに？　私なんか悪いことした？　調子悪かったとか……？=O quê? Eu fiz algo errado? Ou você está de mau humor?
+え、も、もう終わり……？　だって、色々準備とか……あ、なな、なんでもない！=Espere, já terminamos? Pft, por que eu me dei ao trabalho de fazer toda essa preparação? Hmm? Oh, nada!
 //好意{0}=Amor{0}
-//私……もしかして魅力なかった？=
-//あ……あーっ！　もしかして用事？　もー仕方ないな、私のことはいいから早く行きなって、ね！=
+私……もしかして魅力なかった？=Eu não sou... Atraente o suficiente para você?
+あ……あーっ！　もしかして用事？　もー仕方ないな、私のことはいいから早く行きなって、ね！=Ah, certo... Você tem algo para cuidar? Claro, eu entendo. Não é nada de mais, na verdade...
 //享楽{0}=Excitada {0}
-//あっれれー、私のエロエロっぷりに恐れをなしちゃった？　勇気が出たらまたかかってきなね♪=
-//あーっ！　お前さてはうんこだろ！　ぷぷーっ、早く済ませてきなよ、漏らしちゃったら大変だし♪=
+あっれれー、私のエロエロっぷりに恐れをなしちゃった？　勇気が出たらまたかかってきなね♪=Aww, eu sou quente e sexy demais para você? Bem, se você mudar de idéia mais tarde, você sabe onde me encontrar!
+あーっ！　お前さてはうんこだろ！　ぷぷーっ、早く済ませてきなよ、漏らしちゃったら大変だし♪=Deixe-me adivinhar, você tem que responder a uma chamada da natureza? É um número dois?! Nesse caso, não me deixe prendê-lo. Vá!
 //嫌悪{0}=Ódio {0}
-//まあ、こっちとしては願ったりかなったりだけど。=
-//あ、いいんだ？　じゃ、さよならー。=
+まあ、こっちとしては願ったりかなったりだけど。=Há, perfeito. Exatamente como eu esperava que isto acabasse.
+あ、いいんだ？　じゃ、さよならー。=Oh, está tudo bem? Então, adeus.
 //隷属{0}=Submissa {0}
-//あ……え、えっと……うん、わかった……色々理解した……=
-//ああ、エロで変態な私のために放置プレイを……ありがとう……ムラムラしながら待ってるから……=
+あ……え、えっと……うん、わかった……色々理解した……=Uh... Sim, um... Sim, está bem... Então, é assim...
+ああ、エロで変態な私のために放置プレイを……ありがとう……ムラムラしながら待ってるから……=Obrigado, senhor. Você sabe o quanto gosto que me façam esperar como uma vadia suja, não sabe?
 //依存{0}=Dependência {0}
-//ふぅん、待たせてムラムラさせるつもりなんだぁ♪　私をケダモノにした罪は、結構重いよぉ♪=
-//オッケー、エロ貸し１ねぇ♪　手帳に書いておくから♪=
+ふぅん、待たせてムラムラさせるつもりなんだぁ♪　私をケダモノにした罪は、結構重いよぉ♪=Hmph, espero que você perceba exatamente como está sendo mesquinho, forçando-me a esperar enquanto estou excitada desta maneira!
+オッケー、エロ貸し１ねぇ♪　手帳に書いておくから♪=Tudo bem, mas da próxima vez vou te pegar de volta fazendo algo realmente obsceno... Deixe-me só fazer uma anotação.

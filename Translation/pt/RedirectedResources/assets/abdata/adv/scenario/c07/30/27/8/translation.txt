@@ -2,19 +2,19 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//おい、なにがしたかったんだ？　ビビってなにもできねぇってか？　情けねぇ。=
-//なんだ？　萎えたってやつか？　何が原因だ？　正直に言ってみろ。=
+おい、なにがしたかったんだ？　ビビってなにもできねぇってか？　情けねぇ。=Ei, o que você queria fazer? Você está muito assustado para fazer alguma coisa? Você é patético.
+なんだ？　萎えたってやつか？　何が原因だ？　正直に言ってみろ。=O que é isso? Você perdeu a sua ereção ou algo assim? Mas por quê? Seja honesto comigo.
 //好意{0}=Amor{0}
-//分からないやつだな。まぁ、気が乗らねぇ時もあるだろうさ。=
-//どっか調子がわりぃのか？　それとも、オレが相手じゃ不満ってやつか？=
+分からないやつだな。まぁ、気が乗らねぇ時もあるだろうさ。=Eu realmente não o entendo. Mesmo assim, acho que às vezes um cara não está com disposição, não é?
+どっか調子がわりぃのか？　それとも、オレが相手じゃ不満ってやつか？=Está se sentindo mal ou algo assim? Ou você simplesmente não está gostando de mim?
 //享楽{0}=Excitada {0}
-//おいおい、それはないだろう。こっちの期待はどうしてくれるんだ？　流石に無責任が過ぎるぞ？=
-//つまり、これはオレに襲えってことか？　オマエがそういう趣味だってんなら、オレは別に構わねぇが……=
+おいおい、それはないだろう。こっちの期待はどうしてくれるんだ？　流石に無責任が過ぎるぞ？=Espere, de jeito nenhum vou deixar isso passar. E quanto às minhas necessidades? Você não tem nenhum senso de responsabilidade?
+つまり、これはオレに襲えってことか？　オマエがそういう趣味だってんなら、オレは別に構わねぇが……=Ah, já sei: você está esperando que eu comece, certo? Ei, se é isso que você está querendo, então tudo bem por mim...
 //嫌悪{0}=Ódio {0}
-//あぁ、それでいい。オマエもようやく、身の程ってもんが分かったようだな。=
-//ハッ、オマエらしいな。そうやって肝心なとこでビビって、結局オマエは何にもできずに終わるんだろうよ。=
+あぁ、それでいい。オマエもようやく、身の程ってもんが分かったようだな。=Perfeito. Já é hora de você perceber o quanto você está abaixo de mim.
+ハッ、オマエらしいな。そうやって肝心なとこでビビって、結局オマエは何にもできずに終わるんだろうよ。=Ahh, típico de você: quando se trata disso, você é apenas um pedaço tremendo de inutilidade presa no corpo de um homem.
 //隷属{0}=Submissa {0}
-//待て待て、流石にそれは焦らし過ぎだろう。いや、焦らしなんてもんじゃねぇ。ただの嫌がらせだな。=
-//なんだ、オレじゃ興奮しないってか？　なら何故呼んだ？　オレに恥をかかせたかっただけなら、ぶっ飛ばされっぞ？=
+待て待て、流石にそれは焦らし過ぎだろう。いや、焦らしなんてもんじゃねぇ。ただの嫌がらせだな。=Oh vamos lá, você não vai mesmo me deixar na mão assim, vai? Que golpe baixo...
+なんだ、オレじゃ興奮しないってか？　なら何故呼んだ？　オレに恥をかかせたかっただけなら、ぶっ飛ばされっぞ？=E então, não o excito o suficiente agora? Então por que mesmo me escolher? Ugh, você vai se arrepender de me humilhar desta maneira.
 //依存{0}=Dependência {0}
-//どういうことだ？　焦らすにしても程があるだろう。これはただ、オレをイラつかせてるだけだぞ？=
+どういうことだ？　焦らすにしても程があるだろう。これはただ、オレをイラつかせてるだけだぞ？=Eu estou bem com um pouco de provocação, mas isto? Isso só me irrita.

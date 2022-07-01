@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//結局何をしたかったんですか……？=
-//はぁ、何もしないんですか……=
+結局何をしたかったんですか……？=Então... O que você sequer está fazendo aqui?
+はぁ、何もしないんですか……=Afff, você vai apenas embora...
 //好意{0}=Amor{0}
-//えっと……今日は乗り気じゃなかったって事ですかね……？=
-//こんなの、お互い損なだけじゃないですか……=
+えっと……今日は乗り気じゃなかったって事ですかね……？=Bem... Isso significa que você não estava com disposição hoje?
+こんなの、お互い損なだけじゃないですか……=Isto foi apenas uma perda de tempo para nós dois...
 //享楽{0}=Excitada {0}
-//……何ですか？　怖気づいたんですか？=
-//はぁ、がっかりです……=
+……何ですか？　怖気づいたんですか？=... O que é isso? Você ficou assustado?
+はぁ、がっかりです……=Huh, estou desapontada...
 //嫌悪{0}=Ódio {0}
-//まぁ、あなたとするくらいなら時間を無駄にした方がまだマシですね。=
-//何事もなく終わって何よりです。=
+まぁ、あなたとするくらいなら時間を無駄にした方がまだマシですね。=Bem, eu ainda prefiro perder meu tempo do que fazê-lo com você.
+何事もなく終わって何よりです。=Estou feliz que você esteja indo embora.
 //隷属{0}=Submissa {0}
-//……お預けしたからには、次はちゃんとしてくれるんですよね？=
-//……私の期待を返してください。=
+……お預けしたからには、次はちゃんとしてくれるんですよね？=... Vamos guardar a sessão de amor de hoje para mais tarde, mas é melhor você voltar em breve para recolher!
+……私の期待を返してください。=... Me devolva toda a excitação que acabei de sentir.
 //依存{0}=Dependência {0}
-//あの、私の何がいけなかったんですか？　……直しますから、何でもしますから……捨てないで、ください……っ=
-//……あぁ、何か用事があるんですね、それならば仕方ないです。　……私とシたくないわけ、ないですよね……？=
+あの、私の何がいけなかったんですか？　……直しますから、何でもしますから……捨てないで、ください……っ=Hum, fiz algo errado? Eu vou consertar isso! Eu vou mudar! Só não me abandone!
+……あぁ、何か用事があるんですね、それならば仕方ないです。　……私とシたくないわけ、ないですよね……？=... Ahh, entendo. Você tem negócios urgentes em outro lugar? Não é que você não me queira, certo? CERTO?!

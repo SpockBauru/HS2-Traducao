@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//あれ？　もーやめちゃうんですかー？=
-//……？　これでいーんですか？　まぁ、その……あなたさんがそう言うならわたしはいーですけど……=
+あれ？　もーやめちゃうんですかー？=O que é isso? Você vai parar agora?
+……？　これでいーんですか？　まぁ、その……あなたさんがそう言うならわたしはいーですけど……=? Você está de acordo com isso? Bem, se é isso que você quer, então tá bom...
 //好意{0}=Amor{0}
-//も、もしかして……何かわたしに問題でもありましたか？　だったら遠慮なく言ってほしーですよー。=
-//えー、こーいう終わり方、なんか超不安になるんですけどー……もしかしてわたしって魅力ないですか？=
+も、もしかして……何かわたしに問題でもありましたか？　だったら遠慮なく言ってほしーですよー。=Poderia ser... Há algo de errado comigo? Se assim for, por favor, não hesite em me dizer.
+えー、こーいう終わり方、なんか超不安になるんですけどー……もしかしてわたしって魅力ないですか？=Bem, este tipo de final me faz sentir super inquieta... Sou pouco atraente, talvez?
 //享楽{0}=Excitada {0}
-//えーっと……念のため聞きますけどー、わたしのこと、焦らそうとしてるわけじゃないんですよね？=
-//まさかとは思うんですが……突然勃たなくなった……なんてことはないですよね？=
+えーっと……念のため聞きますけどー、わたしのこと、焦らそうとしてるわけじゃないんですよね？=Bem... Só para ter certeza, você está se fazendo de difícil?
+まさかとは思うんですが……突然勃たなくなった……なんてことはないですよね？=Você não está tendo problemas... Uh... Ficar duro, está? Está tudo bem, ouvi dizer que acontece com muita gente...
 //嫌悪{0}=Ódio {0}
-//何もしないなら時間取らせないでくださいよ、もー！=
-//え？　これで終わり？　やったー！　あなたさんみたいな人にもいいところはあるんですねぇ！=
+何もしないなら時間取らせないでくださいよ、もー！=Se não vamos fazer nada, pare de desperdiçar meu tempo, caramba!
+え？　これで終わり？　やったー！　あなたさんみたいな人にもいいところはあるんですねぇ！=Eh? Nós... Acabamos? Uhuul! Mais tempo livre para mim! Eu nunca soube que você era uma pessoa tão legal, parceiro!
 //隷属{0}=Submissa {0}
-//えっと……もしかして、わたしが知らないだけで……こーいうエッチもあるんでしょーか？=
-//あなたさんが今日はやめておくって言うのならー……わたしは黙って従いますけどー……なんかちょっとだけ消化不良です……=
+えっと……もしかして、わたしが知らないだけで……こーいうエッチもあるんでしょーか？=Erm... Isto é... Um tipo de ato sexual do qual eu não conheço?
+あなたさんが今日はやめておくって言うのならー……わたしは黙って従いますけどー……なんかちょっとだけ消化不良です……=Se você diz para não fazer isso hoje... Eu não vou obrigá-lo... Mas é um pouco decepcionante...
 //依存{0}=Dependência {0}
-//こんな気持ちのままお預けされるのは切ないですけど……その分、次回は燃え上がりますもんね。期待しています、ふふふっ。=
-//わたしへの愛が冷めたわけじゃ……ないですよね？　もしそうだとしたら……わたし……わたし……はぅ……=
+こんな気持ちのままお預けされるのは切ないですけど……その分、次回は燃え上がりますもんね。期待しています、ふふふっ。=Você está me fazendo sentir solitária... Mas acho que isso vai deixar a próxima vez ainda mais quente, hehe...
+わたしへの愛が冷めたわけじゃ……ないですよね？　もしそうだとしたら……わたし……わたし……はぅ……=Você ainda me ama, certo? Se você disser não, eu não sei o que vou... Eu vou...

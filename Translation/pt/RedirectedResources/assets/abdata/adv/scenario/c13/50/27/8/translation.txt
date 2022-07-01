@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//あの……今度は一緒に気持ちよくなってほしいです……=
-//嫌われてしまいましたか……？=
+あの……今度は一緒に気持ちよくなってほしいです……=Um... Eu adoraria se pudéssemos fazer sexo na próxima vez que eu o vir.
+嫌われてしまいましたか……？=Você me odeia?
 //好意{0}=Amor{0}
-//あの、何か気に障ることを言ってしまいましたか……？　嫌いにならないでください……=
-//もしかして具合が悪いんですか……？　そんな情報は上がっていなかったので、心配です……=
+あの、何か気に障ることを言ってしまいましたか……？　嫌いにならないでください……=Um, eu disse algo que o ofendeu? Por favor, não me odeie...
+もしかして具合が悪いんですか……？　そんな情報は上がっていなかったので、心配です……=Você não está se sentindo bem? Isto não foi abordado em meus relatórios... Estou preocupada com você.
 //享楽{0}=Excitada {0}
-//少し残念ですけど……あなたの都合に文句を言うつもりはありません……=
-//やっぱりそうですか……しっくり来てなさそうだったので、なんとなく察してました……=
+少し残念ですけど……あなたの都合に文句を言うつもりはありません……=Estou um pouco decepcionado, mas nunca sonharia em dar voz às minhas reclamações.
+やっぱりそうですか……しっくり来てなさそうだったので、なんとなく察してました……=Eu sabia... Eu percebi que você não parecia tão enérgico como costuma fazer.
 //嫌悪{0}=Ódio {0}
-//私……臭かったですか……？=
-//そうですか……そうですよね……わかりました……=
+私……臭かったですか……？=Estou cheirando mal ou algo assim?
+そうですか……そうですよね……わかりました……=Estou vendo... É claro... Ninguém me quer...
 //隷属{0}=Submissa {0}
-//もしかして用事を思い出しましたか……？　うふふ、私は一番最後で大丈夫なので、行ってきてください……=
-//行っちゃうんですね……わかりました、次に会うときまで、ずっとあなたのことを想っていますね……=
+もしかして用事を思い出しましたか……？　うふふ、私は一番最後で大丈夫なので、行ってきてください……=Surgiu alguma coisa de repente? Heh heh, continue então. Deixem-me para o fim.
+行っちゃうんですね……わかりました、次に会うときまで、ずっとあなたのことを想っていますね……=Você está saindo? Está bem. Vou sonhar com você até nos encontrarmos novamente...
 //依存{0}=Dependência {0}
-//はい、また今度にしましょうね……♪=
-//うふふ、私の目を見て「愛している」って言ってください……♪　今日はその言葉を頭の中で何度も反芻して、ひとりで慰めます……♪=
+はい、また今度にしましょうね……♪=Ok, tchau! Nos vemos em breve! NOS VEMOS EM BREVE! ♪
+うふふ、私の目を見て「愛している」って言ってください……♪　今日はその言葉を頭の中で何度も反芻して、ひとりで慰めます……♪=Heh... Olhe nos meus olhos e grite "EU TE AMO"! Vou me lembrar disso e vou para casa me tocar repetidamente ♪

@@ -2,7 +2,7 @@
 
 #set level 2
 
-sr:"^(Ver)(.*)$"=$1$2 BR
+sr:"^(Ver)(.*)$"=$1$2\nPortuguês
 
 プレイ=Jogar
 メイク=Criar

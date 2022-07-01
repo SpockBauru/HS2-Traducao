@@ -1,0 +1,4 @@
+#set level 2
+
+TitleScene/Canvas/Panel/Text=UGUI_VerticalOverflow(overflow)
+

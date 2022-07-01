@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//ん？　なんだよ、何にもしないのか？=
-//何だよ……意味がわかんねぇ。=
+ん？　なんだよ、何にもしないのか？=Hmm? O quê, você não vai fazer nada?
+何だよ……意味がわかんねぇ。=Que diabos... Não entendo.
 //好意{0}=Amor{0}
-//もしかして、体調悪いのか？　大丈夫なのかよ。=
-//どうした？　なんか別の用事でもあったのか？=
+もしかして、体調悪いのか？　大丈夫なのかよ。=Você se sente doente ou algo assim? Agora estou preocupada, mano!
+どうした？　なんか別の用事でもあったのか？=Qual é o problema? Tem mais alguma coisa que você precise resolver?
 //享楽{0}=Excitada {0}
-//ちょっと待て？！　なんでなんにもしねぇんだよ、おい！=
-//ここまで来といて、何にもしないなんて、意味分かんねぇだろ。=
+ちょっと待て？！　なんでなんにもしねぇんだよ、おい！=Espere um minuto! O que raios está errado com você, mano?
+ここまで来といて、何にもしないなんて、意味分かんねぇだろ。=Eu não te entendo, cara... Como, por que diabos estamos parando agora?!
 //嫌悪{0}=Ódio {0}
-//何にもしないんだな？　じゃあ、俺帰るわ。=
-//何なんだよ、一体？　用がないなら帰るからな。=
+何にもしないんだな？　じゃあ、俺帰るわ。=Você não vai fazer nada, vai? Ótimo. Vou-me embora daqui.
+何なんだよ、一体？　用がないなら帰るからな。=Você é estranho, cara, e eu estou indo embora.
 //隷属{0}=Submissa {0}
-//もう終わりなのか……もしかして、疲れでも溜まってるのか？=
-//おいおい、焦らすつもりなら、次はもっとうまくやってくれよ？=
+もう終わりなのか……もしかして、疲れでも溜まってるのか？=Você já terminou... Ou talvez você esteja apenas cansado?
+おいおい、焦らすつもりなら、次はもっとうまくやってくれよ？=Vamos lá, mano... Se você só está tentando me fazer suar, vai ter que fazer melhor do que isso!
 //依存{0}=Dependência {0}
-//いいぜ、たまにはこういう焦らしもわるくない。=
-//まぁ、したくないならしょうがない……=
+いいぜ、たまにはこういう焦らしもわるくない。=Heh, excitante... Eu gosto quando você me faz esperar, cara.
+まぁ、したくないならしょうがない……=Bem, quando um não quer, dois não fazem...

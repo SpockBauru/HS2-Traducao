@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//え？　終わりですか？　いえ、無理してする事でもないのですが……何かその、私がいけない事をしてしまったのかなと。=
-//まぁ……こういう日もありますよね。気が乗らなかったり、体調が優れなかったり。ふふ、私は気にしていませんから。=
+え？　終わりですか？　いえ、無理してする事でもないのですが……何かその、私がいけない事をしてしまったのかなと。=Eh? Já terminamos? Erm, você não precisa se forçar, mas... Ah... Eu... Fiz algo errado?
+まぁ……こういう日もありますよね。気が乗らなかったり、体調が優れなかったり。ふふ、私は気にしていませんから。=Bem... Há dias como este, não é? Você não sente vontade ou não está se sentindo bem. Hehe, eu não me importo.
 //好意{0}=Amor{0}
-//私では……貴方の相手は務まりませんか？　何かして、それでダメなら諦められるのですが……何もしないというのは少し……悲しいです。=
-//今日はその、お顔を見れただけでも嬉しかったです。でもその……これっきりなんてこと……ありませんよね？=
+私では……貴方の相手は務まりませんか？　何かして、それでダメなら諦められるのですが……何もしないというのは少し……悲しいです。=Eu... Não sou boa o suficiente para você? Não é melhor tentar primeiro, e depois julgar? É triste... Terminar assim.
+今日はその、お顔を見れただけでも嬉しかったです。でもその……これっきりなんてこと……ありませんよね？=Fiquei feliz só de ver seu rosto hoje. Mas... Mas, erm... Não é um pouco cruel me deixar assim na mão?
 //享楽{0}=Excitada {0}
-//あの……いくらなんでも、これは無責任では？　私の気持ちも少しは考えてください。この火照った身体を、どうすればいいのですか……=
-//えぇと、恥ずかしくなってしまったのですか？　ここでそういう事をするのは、普通なので……あまり、深く考え過ぎない方がいいですよ。=
+あの……いくらなんでも、これは無責任では？　私の気持ちも少しは考えてください。この火照った身体を、どうすればいいのですか……=Erm... Isto não é um pouco irresponsável? Considere meus sentimentos, por favor. O que eu devo fazer com este tesão?
+えぇと、恥ずかしくなってしまったのですか？　ここでそういう事をするのは、普通なので……あまり、深く考え過ぎない方がいいですよ。=Erm... Atingido por um ataque de timidez? O sexo é uma parte normal da vida aqui, então não há necessidade de pensar demais! Apenas vá em frente, certo?
 //嫌悪{0}=Ódio {0}
-//こう言ってはなんですが……貴方は本当につまらない人ですね。そういうのが楽しいと思っているのですか？=
-//はぁ……では、私は失礼させて頂きます。こんな子供じみた悪戯、もうしないでくださいね。=
+こう言ってはなんですが……貴方は本当につまらない人ですね。そういうのが楽しいと思っているのですか？=Se me permite dizê-lo... Você é uma pessoa realmente entediante. Você acha que esse tipo de coisa é divertido?
+はぁ……では、私は失礼させて頂きます。こんな子供じみた悪戯、もうしないでくださいね。=Huh... Bem, se me der licença. Por favor, não faça mais com brincadeiras infantis como esta.
 //隷属{0}=Submissa {0}
-//流石にこれは……焦らし過ぎだと思います。少しでも何かしてからならまだ分かりますが……何もされないのは……予想外過ぎます。=
-//ほ、放置プレイと言うにも……限度がありませんか？　私が気に入らないと言うなら……はっきりそう言われた方が、まだ良かったです。=
+流石にこれは……焦らし過ぎだと思います。少しでも何かしてからならまだ分かりますが……何もされないのは……予想外過ぎます。=Esta provocação é demais! Ao menos me dê algo antes de ir, está bem? Não fazer nada é totalmente inesperado!
+ほ、放置プレイと言うにも……限度がありませんか？　私が気に入らないと言うなら……はっきりそう言われた方が、まだ良かったです。=Ei, há um limite para o quanto posso tolerar, sabe? Se você não gosta de mim, basta dizer. Eu vou entender.
 //依存{0}=Dependência {0}
-//待ってください。私のどこがいけなかったのですか？ 　貴方のためなら、何でもしてあげましたよ？　 本当にもう……わけがわかりません。=
-//もう……困った人ですね。この埋め合わせは、また次回して頂きますから。こういうのは今回だけにしてください。約束ですよ。=
+待ってください。私のどこがいけなかったのですか？ 　貴方のためなら、何でもしてあげましたよ？　 本当にもう……わけがわかりません。=Pare. Diga-me o que eu fiz de errado. Eu farei qualquer coisa por você, você percebe? Afffe. Eu simplesmente não entendo.
+もう……困った人ですね。この埋め合わせは、また次回して頂きますから。こういうのは今回だけにしてください。約束ですよ。=Não seja assim! Você vai me recompensar da próxima vez que nos encontrarmos! E nada de me deixar mais frustrada, promete?
