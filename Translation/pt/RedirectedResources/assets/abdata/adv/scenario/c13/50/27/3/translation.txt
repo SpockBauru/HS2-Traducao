@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//あの、女の子をイジメるプレイが好きなんですか……？=
-//うう、もう少し優しくしてくれても……あ、いえ、なんでもないです、嫌いにならないでください……=
+あの、女の子をイジメるプレイが好きなんですか……？=Hum... Você gosta de machucar garotas durante o sexo?
+うう、もう少し優しくしてくれても……あ、いえ、なんでもないです、嫌いにならないでください……=Ai... Eu teria preferido que você fosse um pouco menos violent- não, deixe pra lá. Não me odeie, por favor...
 //好意{0}=Amor{0}
-//あなたの愛は痛みを伴うんですね……=
-//私の愛を試そうとしているんですか……？=
+あなたの愛は痛みを伴うんですね……=Seu amor é metade dor. Eu sei disso agora.
+私の愛を試そうとしているんですか……？=Você está testando as profundezas do meu amor por você?
 //享楽{0}=Excitada {0}
-//あなたのことを包み込むと決めていますから、痛いのも平気になってみせますね……=
-//次は私にいろいろさせてくださいね……大丈夫ですよ、痛いことはしませんから……=
+あなたのことを包み込むと決めていますから、痛いのも平気になってみせますね……=Prometi ser o parceiro perfeito para você, por isso prometo que me acostumarei ao sexo violento.
+次は私にいろいろさせてくださいね……大丈夫ですよ、痛いことはしませんから……=Deixe-me tomar a iniciativa da próxima vez. Prometo que não vou machucá-lo.
 //嫌悪{0}=Ódio {0}
-//この程度の暴力にも音を上げてしまう自分が情けないです……=
-//ごめんなさい、もっと苦痛を与えてほしいのに、すぐ限界が来てしまうんです……本当に最低ですよね……=
+この程度の暴力にも音を上げてしまう自分が情けないです……=Eu me odeio por gritar por causa de uma dor tão trivial.
+ごめんなさい、もっと苦痛を与えてほしいのに、すぐ限界が来てしまうんです……本当に最低ですよね……=Desculpe. Quero que me machuque mais, mas meu nível de tolerância é tão baixo... Eu sou a pior.
 //隷属{0}=Submissa {0}
-//苦痛と快感ってどうしてこんなに似てるんでしょうね……きっとあなただからですよね、いいえ、絶対にそうです、うふふ……=
-//日々の鬱憤のはけ口にしてくれたんですか……？　私のこと、もっと人形扱いしていいですからね……=
+苦痛と快感ってどうしてこんなに似てるんでしょうね……きっとあなただからですよね、いいえ、絶対にそうです、うふふ……=Por que a dor e o prazer são tão parecidos? Provavelmente... Porque é você quem está liberando os dois. Heh heh, é claro...
+日々の鬱憤のはけ口にしてくれたんですか……？　私のこと、もっと人形扱いしていいですからね……=Você tem me usado como uma saída para suas frustrações diárias? Muito bem. Faça-me seu saco de pancada...
 //依存{0}=Dependência {0}
-//やっぱり……苦痛って愛なんですね、くすくす……♪=
-//うふふふ、これが寵愛を受けるということなんですね……次はもっと激しく痛めつけてくださいね、絶対ですよ……♪=
+やっぱり……苦痛って愛なんですね、くすくす……♪=Eu sabia que... Amor é dor, e dor é amor ♪
+うふふふ、これが寵愛を受けるということなんですね……次はもっと激しく痛めつけてくださいね、絶対ですよ……♪=Hihihi, esta é a sensação de seu amor e luxúria... Dê-me sua benevolência ainda mais forte da próxima vez!
