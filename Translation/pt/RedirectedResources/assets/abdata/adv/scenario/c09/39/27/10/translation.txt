@@ -2,19 +2,19 @@
 // Dumped for Honey Select 2 v1.1.4 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//ふは……身体中がどろどろですぅ……しばらく感触が残りそうですよー。=
-//かけてもらったところ、全部熱いです……はぁぁ、すごい……=
+ふは……身体中がどろどろですぅ……しばらく感触が残りそうですよー。=Huh... Meu corpo está tão escorregadio... Que a sensação vai ficar comigo por um tempo!
+かけてもらったところ、全部熱いです……はぁぁ、すごい……=Seu esperma está tão quente nos lugares que você despejou em cima de mim... Haha...
 //好意{0}=Amor{0}
-//ん……ふぅ……なんか草っぽい匂いがします……ん……不思議ぃ……=
-//あぁ……こんなにかけられて恥ずかしいはずなのに……なんかちょっと……興奮しちゃってます……=
+ん……ふぅ……なんか草っぽい匂いがします……ん……不思議ぃ……=*sniff sniff* Cheira como... Piscina? Estranho...
+あぁ……こんなにかけられて恥ずかしいはずなのに……なんかちょっと……興奮しちゃってます……=Eu deveria ter vergonha de ser coberta desta maneira, mas estou um pouco... Excitada...
 //享楽{0}=Excitada {0}
-//精液でどろどろになったわたしの姿はどーですかー？=
-//濃くてドロドロしてて匂いが強くて……はぁ……こんなにいっぱい汚されるの……癖になりそうです……=
+精液でどろどろになったわたしの姿はどーですかー？=Devo estar literalmente pingando com todo o esperma... Isso me faz parecer gorda?
+濃くてドロドロしてて匂いが強くて……はぁ……こんなにいっぱい汚されるの……癖になりそうです……=É espesso, malcheiroso, está pingado e... *ahhh* É tão excitante... Eu quero fazer de novo!
 //嫌悪{0}=Ódio {0}
-//むぅ……これじゃ身体中に匂いがついちゃうじゃないですかー。=
-//もぉ洗っていーですか？　この匂いと感触……さすがに限界ですよー。=
+むぅ……これじゃ身体中に匂いがついちゃうじゃないですかー。=Ugh... Eeu vou cheirar a esperma o dia todo...
+もぉ洗っていーですか？　この匂いと感触……さすがに限界ですよー。=Posso ir me lavar agora? Já estou cansada do fedor e da gosma.
 //隷属{0}=Submissa {0}
-//精液ぃ……指でつつくとぷりぷりしてますよぉ……ん……新鮮ってこと……ですよね。=
+精液ぃ……指でつつくとぷりぷりしてますよぉ……ん……新鮮ってこと……ですよね。=Quando você cutuca... É muito mole, como o pudim de geléia. É assim que você sabe que o esperma é fresco.
 //依存{0}=Dependência {0}
-//なんだかすごくふしだらな気分ですけど……興奮してもらえましたか？=
-//たまには、こういうことも必要ですよね、ふふっ。=
+なんだかすごくふしだらな気分ですけど……興奮してもらえましたか？=Eu me sinto como uma vadia, mas... Isso a excitou?
+たまには、こういうことも必要ですよね、ふふっ。=Eu entendo - às vezes você sente que tem que me afogar no esperma, hehe...
