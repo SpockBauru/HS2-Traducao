@@ -4,13 +4,13 @@
 //汎用普通{0}=Objetivo Geral Normal {0}
 よぉ、こんちは。=Ei, aí.
 毎日、気持ちいい事してるか？=Você faz algo agradável todos os dias?
-お前は今日も元気そうだな。=Você está com bom aspecto hoje, garoto.
+//お前は今日も元気そうだな。=Você está com bom aspecto hoje, garoto.
 //汎用普通用件{0}=Caso comum de uso geral {0}
 ……ん？　何か用か？=... Hmm? O que você quer?
 もしかして、俺を探してたのか？=Você estava me procurando, por acaso?
 //汎用好意{0}=Favor genérico {0}
 あ、偶然だな！　会えて嬉しいぜ。=Oh, que coincidência! Prazer em vê-lo.
-よぉ！　良かった、元気そうだな。=Ei! Ótimo, você está com bom aspecto.
+//よぉ！　良かった、元気そうだな。=Ei! Ótimo, você está com bom aspecto.
 あ、お前こんな所にいたのか！　会えると思ってなかったからすげぇ嬉しいぜ。=Ohhh, você está aqui! Estou tão feliz por não ter esperado vê-lo.
 //汎用好意用件{0}=Favor Geral {0}
 ……ひょっとして、俺になんか用か？=Você... Você quer me ver, por acaso?
