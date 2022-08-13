@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//申し訳ございません……私には少々荷が重かったのか、ふらふら致します……=
-//貴方一人でしたら問題ございませんが、二人となると……少々身体を鍛え直さなければならない様です。=
+申し訳ございません……私には少々荷が重かったのか、ふらふら致します……=Eu.. Sinto-me terrivelmente atordoada... Eu pareço ter exagerado.
+貴方一人でしたら問題ございませんが、二人となると……少々身体を鍛え直さなければならない様です。=Devo fortificar minha constituição se for para dormir com vários indivíduos ao mesmo tempo!
 //好意{0}=Amor{0}
-//貴方一人と致した時とは、また違った気分です……=
-//気持ち良かったのは確かなのですが……いえ、何でもございません。=
+貴方一人と致した時とは、また違った気分です……=Sinto uma sensação diferente de quando me deito sozinha com você.
+気持ち良かったのは確かなのですが……いえ、何でもございません。=Devo admitir que foi prazeroso, porém... Ah, não importa.
 //享楽{0}=Excitada {0}
-//あぁ……腰が砕けてしまいそうでした……=
-//夢を見ているのかと疑ってしまう程の気持ちよさでした。=
+あぁ……腰が砕けてしまいそうでした……=Ah... Eu sentia que ia quebrar minhas costas...
+夢を見ているのかと疑ってしまう程の気持ちよさでした。=Que prazer! Ouso dizer que tive um vislumbre do paraíso.
 //嫌悪{0}=Ódio {0}
-//悪い夢を見ていると信じたかったのですが……紛れもなく現実なのですね。=
-//女性を嬲るのがお好きなのですか？　最低です。=
+悪い夢を見ていると信じたかったのですが……紛れもなく現実なのですね。=Rezei para que fosse um pesadelo, mas quando abri meus olhos, vi apenas seu rosto amaldiçoado.
+女性を嬲るのがお好きなのですか？　最低です。=Você gosta de atormentar as mulheres? É repugnante.
 //隷属{0}=Submissa {0}
-//お二人でたくさん犯して頂き、誠に有難うございます。=
-//あぁ、こんなに気持ちよくなってしまって良いのでしょうか……=
+お二人でたくさん犯して頂き、誠に有難うございます。=Agradeço a você pelas relações sexuais ferozes e, ao mesmo tempo, estimulantes.
+あぁ、こんなに気持ちよくなってしまって良いのでしょうか……=Oh, eu certamente não mereço esse doce prazer!
 //依存{0}=Dependência {0}
-//二人がかりで愛されてしまいました……=
-//満足という言葉では言い表せないほど、感じておりました。=
+二人がかりで愛されてしまいました……=Dois pares de braços me acariciaram com muito amor... Glorioso.
+満足という言葉では言い表せないほど、感じておりました。="Satisfação" não consegue nem começar a descrever como me senti. Me faltam palavras!
