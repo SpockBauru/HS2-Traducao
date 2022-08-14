@@ -32,7 +32,7 @@
 この身体を弄ぶことが、そんなに楽しいのですか？=Brincar comigo é realmente tão agradável para você?
 もうあなたにおかけする言葉はございません、どうぞお好きになさってくださいまし。=Não tenho mais palavras para lhe dizer, faça o que quiser.
 //隷属より20～49{0}=Submissa 20～49{0}
-良妻賢母は一日にしてならずですわ、本日も手取り足取り、導いてくださいますか？=Uma boa esposa e uma mãe sábia não são feitas em um dia. Você vai me guiar hoje?
+良妻賢母は一日にしてならずですわ、本日も手取り足取り、導いてくださいますか？=Roma não foi construída em um dia, como dizem, assim como também não é construída a melhor amante do século! Portanto, vamos continuar nossas lições...
 前よりもご満足頂けるよう謹んでお相手させて頂きます。=Lidarei respeitosamente com você para satisfazê-lo mais do que antes.
 //隷属より50～79{0}=Submissa 50～79{0}
 お待ちしておりました、本日も女性への欲望を全て私に注いでくださいまし。=Tenho estado esperando por você, e hoje espero que você derrame em mim toda a sua luxúria.

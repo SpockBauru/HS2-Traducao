@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-よぉ！　お前が俺の相手をしてくれるのか？　なんかちょっと緊張するけど、よろしく頼むな！=Yo! Você é meu parceiro? Estou um pouco nervosa, mas conto com você!
+よぉ！　お前が俺の相手をしてくれるのか？　なんかちょっと緊張するけど、よろしく頼むな！=E aí! Você é meu parceiro? Estou um pouco nervosa, mas conto com você!
 なるほど、お前が俺の相手なんだな？　どんな事するのかドキドキするけど、とりあえず楽しみだぜ！=Entendo. Então você é meu parceiro, não é? Estou nervosa para ver o que você vai fazer, mas estou ansiosa por isso!
 オッス、俺の相手はお前でいいんだよな？　よし、それじゃあ、お互い思いっきり楽しもうぜ！=Olá, é com você que eu vou estar hoje, certo? Muito bem, então, vamos nos divertir um com o outro!
 //好意{0}=Amor{0}
