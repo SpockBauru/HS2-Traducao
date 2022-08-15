@@ -502,7 +502,7 @@
 っ……何故、べとべとにするのですか？=Por que você está tornando tudo tão pegajoso?
 ぅ……熱くて臭くて、不愉快です=Mmm... Quente, fedorento e desagradável.
 はぁ……たまたま……タイミングが重なっただけですので……=Bem... Aconteceu... Que era o momento certo, então...
-はぁ……一緒にイッた……それは事実ですが、だから何ですか？=Huh... Nós viemos juntos... Isso é verdade, mas e daí?
+//はぁ……一緒にイッた……それは事実ですが、だから何ですか？=Huh... Nós viemos juntos... Isso é verdade, mas e daí?
 ……私もお尻で感じてしまいました。……何か、文句でも？=... Eu também o senti no meu traseiro... O quê, você está reclamando?
 //……開発されていなければ、一緒にイクことなどあり得なかったのですが=... Se não tivéssemos sido desenvolvidos, não teríamos podido nos gozar juntos.
 気持ちよかったです……そう言えば、満足でしょうか？=Sentiu-se bem... Ficaria satisfeito se eu lhe dissesse isso?
