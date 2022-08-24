@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//依存{0}=Dependência {0}
-私、もうあなたがいないと生きていけません……ご主人様って呼ばせて下さいぃ……=Não posso mais viver sem você... Por favor, deixe-me chamá-lo de mestre...
-今よりもっとあなたの好きにされたいです……どうか今後、私のことはペットだと思って躾けて下さい……=Quero ser mais como você do que sou agora... Por favor, a partir de agora, pense em mim como seu animal de estimação e me discipline...
