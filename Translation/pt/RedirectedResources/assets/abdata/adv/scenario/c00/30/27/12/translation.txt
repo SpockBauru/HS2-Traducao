@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //壊れ{0}=Quebrada {0}
-//はぁ……気持ち、よくてぇ……いっぱい……幸せれすぅぅ……=
-//ぁぁ……熱い……身体……おしゃまらない……=
-//もっと……もっと……気持ひよく……してほしいれす……=
+はぁ……気持ち、よくてぇ……いっぱい……幸せれすぅぅ……=Aaaah... É uma sensação... Tão boa... Transbordante...
+ぁぁ……熱い……身体……おしゃまらない……=Hmmm... Quente... Meu corpo... Não se mexe...
+もっと……もっと……気持ひよく……してほしいれす……=Mais fundo... Mais prazer... Mais...

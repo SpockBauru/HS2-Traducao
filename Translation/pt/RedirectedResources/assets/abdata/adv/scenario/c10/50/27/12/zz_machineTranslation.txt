@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//壊れ{0}=Quebrada {0}
-んぁ……もっろぉ……しないんれしゅかぁ……わぁしはれきましゅぉ～……ん～、よゆうれしゅ……=Você não está? Estou pronto para ir... Feliz
-あぁぁ……きもぢぃー……んふぅ……あひゅぅ……あらまもぅ……とぉとぉでしゅぅ……んふふぅ……=Ohhh... Você é nojento... Mmm... Oh meu deus... Hihihi...
-ふぁ～……しぇかいが～、まわっれましゅぅ……ぐりゅぐりゅれぇ……きもひーれしゅねぇ……=Huh ~ O mar ~ está girando... Está tão apertado... Está tão apertado... Está tão apertado...

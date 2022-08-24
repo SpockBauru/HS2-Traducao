@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //壊れ{0}=Quebrada {0}
-//私ぃ……まら出来るぅ……♪=
-//景色あぁ……ぐるぐるぅ……♪=
-//身体ぁ……びくびくぅ……♪=
+私ぃ……まら出来るぅ……♪=Eu... Consigo fazer mais ♪
+景色あぁ……ぐるぐるぅ……♪=Nossa... Está tudo girando ♪
+身体ぁ……びくびくぅ……♪=O corpo está... Dormente ♪

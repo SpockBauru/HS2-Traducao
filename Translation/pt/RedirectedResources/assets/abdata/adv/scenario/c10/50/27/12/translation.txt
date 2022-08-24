@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//んぁ……もっろぉ……しないんれしゅかぁ……わぁしはれきましゅぉ～……ん～、よゆうれしゅ……=
-//あぁぁ……きもぢぃー……んふぅ……あひゅぅ……あらまもぅ……とぉとぉでしゅぅ……んふふぅ……=
-//ふぁ～……しぇかいが～、まわっれましゅぅ……ぐりゅぐりゅれぇ……きもひーれしゅねぇ……=
+んぁ……もっろぉ……しないんれしゅかぁ……わぁしはれきましゅぉ～……ん～、よゆうれしゅ……=Mmm... Mais... Acabou? Eu posso aguentar mais, mmm, fácil...
+あぁぁ……きもぢぃー……んふぅ……あひゅぅ……あらまもぅ……とぉとぉでしゅぅ……んふふぅ……=Ahhh... Tão bom... Nehehe, ahaha. Oh, oho, isso é tão divertido... Hehehehe.
+ふぁ～……しぇかいが～、まわっれましゅぅ……ぐりゅぐりゅれぇ……きもひーれしゅねぇ……=Ahh... Não enxergo nada... Está tudo girando... É tão bom...

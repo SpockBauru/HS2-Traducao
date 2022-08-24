@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//うぁ……ひかいが……ぼぁけへましゅ……=
-//き、きもひいころしか……かんぁえられないれす……=
-//ここぁ……ろこなのれしょう……？=
+うぁ……ひかいが……ぼぁけへましゅ……=O qque? Não consigo... Enxergar...
+き、きもひいころしか……かんぁえられないれす……=O prazer... É tudo que importa...
+ここぁ……ろこなのれしょう……？=Onde... Eu... Estou?
