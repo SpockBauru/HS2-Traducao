@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-んぅ？　なんだか体がちゃんと動くようになったな。オレは……今までどんな状態だったんだ？=Hmm? Meu corpo está começando a se mover corretamente agora. Em que tipo de estado eu estava antes?
-はぁ……やっとまともに体が動かせるようになった。どうやらオレは、オマエに壊されちまってたらしい。=Agora posso finalmente mover meu corpo adequadamente. Parece que eu tinha sido destruído por você.
-よくもまぁ、オレをぶっ壊してくれてたな。おかげで……頭がおかしくなったみたいに、気持ち良すぎて死ぬかと思ったぜ。=Como você ousa me destruir? Foi... Foi tão bom, que eu pensei que ia morrer.
-オマエ……オレをあんなにした落とし前はつけてもらうからな？　覚悟しとけよ？=Você... Você vai pagar pelo que me fez, está bem? Esteja preparado para isso.
-まぁ、ぶっ壊れた感じも嫌いじゃなかったがな。流石に普通に生活できないレベルは……ちょっとな。=Bem, eu também não me importei com a sensação de estar quebrado. É que o nível em que você não pode viver uma vida normal é... Um pouco demais.
