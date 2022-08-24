@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//壊れ{0}=Quebrada {0}
-はぁ……ぁぁ……もう……感覚が……おかひく、なっへるぅ……？=Huh... Oh... Oh... Já... Sentindo... Engraçado?
-セックスぅ……気持ちいい……気持ち、いいは……さいこう……=Sexo... É bom... A sensação, dizer que... O melhor...

@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//壊れ{0}=Quebrada {0}
-さ……さすが……に……ヤりすぎ……っす……=Isso é... Isso é... Isso é... Isso é... Isso é demais.
-も……ゆるして、っす……あなたのほ、が……スケベで……いいす、から……=Perdoe-me, mas... Você está... Mais... Lascivo... É... Bom.

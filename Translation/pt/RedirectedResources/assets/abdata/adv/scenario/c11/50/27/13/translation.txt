@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//うふ、ふふ……うふふ…………ふふ……=
-//あぇ……あぁたが……たくしゃんいましゅ……どうしれ……？=
+うふ、ふふ……うふふ…………ふふ……=Hehe... Hahaha... Heh...
+あぇ……あぁたが……たくしゃんいましゅ……どうしれ……？=Ah... Porque vejo... Tantos de você...

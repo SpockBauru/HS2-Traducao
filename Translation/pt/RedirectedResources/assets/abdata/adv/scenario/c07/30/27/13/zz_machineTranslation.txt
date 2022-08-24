@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//壊れ{0}=Quebrada {0}
-ぁー、なんらぁ……けしきぁ……きぁきぁしれるりゅぉ……=Ah, que a... Keshiki... Kikishiru...
-んー……きもひぃー……かぁらがぁ……きもひぃー……=Mmm... Yuck... Eles são... Yuck...
