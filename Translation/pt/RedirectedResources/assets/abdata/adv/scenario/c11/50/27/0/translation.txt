@@ -23,7 +23,7 @@
 うふふ、貴方の前ですと素直な自分を出すことが出来る気がします。また致しましょうね。=Sinto que posso mostrar meu eu verdadeiro diante de você. Vamos fazer isso novamente.
 //嫌悪より50～79{0}=Ódio 50～79{0}
 ……終わりでよろしいのですね？　畏まりました。=... Você tem certeza que quer terminar? Estou admirado.
-最後まで、気分が高揚することはありませんでした。=No final, eu não me senti elevado.
+最後まで、気分が高揚することはありませんでした。=No final, eu não me senti elevada.
 早く湯浴みをしたい気分です。=Mal posso esperar para tomar um banho quente.
 //嫌悪より80～100{0}=Ódio 80～100{0}
 肌を重ねても、疲れしか感じませんでした。=A única coisa que senti após nossa sessão foi cansaço.

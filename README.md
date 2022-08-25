@@ -1,6 +1,6 @@
 # Tradução para HS2
 
-Projeto de fãs para traduzir Honey Select 2 (HS2) para o português brasileiro. As traduções são aplicadas durante a execução do jogo e não requerem substituição ou modificação de nenhum arquivo original do jogo.
+Projeto de fãs para traduzir Honey Select 2 (HS2) para o português. As traduções são aplicadas enquanto o jogo está rodando e não requerem substituição ou modificação de nenhum arquivo original.
 
 ## Pré-requisitos
 
