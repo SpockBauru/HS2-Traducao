@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //返答肯定2普通{0}=Responder afirmativo 2 normal {0}
-あなたにそう言って頂けて、安心いたしましたわ。=Fico tão aliviado em ouvi-lo dizer isso.
+あなたにそう言って頂けて、安心いたしましたわ。=Fico tão aliviada em ouvi-lo dizer isso.
 やはりそうなのですね、私もそう思いますわ。=Eu sabia, eu sabia, eu sabia.
 //返答肯定2好意{0}=Responder afirmação 2 favor {0}
 あら……わかってくださって、嬉しいですわ。=Oh... Estou tão feliz que você tenha entendido.
@@ -14,7 +14,7 @@
 それが常識的な答えですわね……=Essa é uma resposta sensata...
 そうですか……=Certo, bem...
 //返答肯定2隷属{0}=Responder Afirmação 2 Escravidão {0}
-ほっ、否定的な言葉でなくて安心いたしましたわ。=Fico aliviado em saber que não foi negativo.
+ほっ、否定的な言葉でなくて安心いたしましたわ。=Fico aliviada em saber que não foi negativo.
 わかっていましたが、そう答えて頂けて嬉しいですわ……=Eu sabia, mas fico feliz que tenha respondido a isso porque...
 //返答否定2普通{0}=Responder negativo 2 normal {0}
 あら、少し意外ですわ。=Isso é um pouco surpreendente.

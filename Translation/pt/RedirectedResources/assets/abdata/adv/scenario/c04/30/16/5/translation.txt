@@ -1,6 +1,6 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//アタシ帰る……マジもう、次会ったらソッコー通報するから。覚悟しときなよ？=
+アタシ帰る……マジもう、次会ったらソッコー通報するから。覚悟しときなよ？=Vou para casa. Sério mesmo, e para sempre. Então, tipo, um conselho de amigo? Da próxima vez que eu o vir, vou chamar a polícia.
 フュル=Fur
-//帰られてしまいましたね、残念な事です。=
+帰られてしまいましたね、残念な事です。=[H] partiu. É lamentável que tenha chegado a isso.

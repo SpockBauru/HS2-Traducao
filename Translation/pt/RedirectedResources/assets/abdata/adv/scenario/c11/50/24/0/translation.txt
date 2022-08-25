@@ -4,7 +4,7 @@
 //普通{0}=Normal{0}
 初めまして。何かと至らない点があるかと思いますが、ご容赦頂けますと幸いです。=Prazer em conhecê-lo. Espero que você me perdoe por quaisquer inadequações que eu possa ter.
 初対面の殿方と破廉恥な事をする……あ、改めて言葉にすると些か恥ずかしいですね。=Vou fazer algo indecente com um cavalheiro que acabei de conhecer... Ah, é um pouco embaraçoso dizer isso em palavras.
-ほっ、優しそうな方がお相手で安心致しました。末永く……かは、まだわかりませんが、よろしくお願い致します。=Ainda assim, estou aliviado que você pareça ser um cavalheiro íntegro. Estou feliz por tê-lo conhecido.
+ほっ、優しそうな方がお相手で安心致しました。末永く……かは、まだわかりませんが、よろしくお願い致します。=Estou aliviada que você pareça ser um cavalheiro íntegro. Estou feliz por tê-lo conhecido.
 //好意{0}=Amor{0}
 貴方の様な素敵な殿方がお相手だなんて……何だか夢の様です。=É como um sonho tornado realidade ter um cavalheiro maravilhoso como você como meu parceiro.
 貴方のことが好きです。……初対面の女に言われても信じられないかと思いますので、その……身体で証明致しますね。=Eu gosto de você... Acho difícil acreditar no que diz uma mulher que você nunca conheceu, por isso vou provar isso com meu corpo.

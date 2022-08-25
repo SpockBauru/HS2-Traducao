@@ -11,7 +11,7 @@
 心も身体も準備は出来ていたのですが、残念です。=Lamento dizer que minha mente e meu corpo estavam prontos para isso.
 失礼、勘違いでしたか。ナニかございましたら、直ぐにお声がけ頂けますと幸いです。=Sinto muito, devo ter entendido mal. Se você tiver alguma dúvida, não hesite em entrar em contato comigo.
 //嫌悪{0}=Ódio {0}
-ほっ、何もないとのことで安心致しました。=Ho, fico aliviado ao saber que nada está errado.
+ほっ、何もないとのことで安心致しました。=Ho, fico aliviada ao saber que nada está errado.
 では、今すぐここから立ち去って下さい。=Então sugiro que você saia daqui agora.
 //隷属{0}=Submissa {0}
 ご遠慮されているわけでは……ない様ですね。畏まりました、また何時でもお声がけ下さい。=Não é que você seja tímido... Não é? Obrigado por seu tempo, e aguardo com expectativa a oportunidade de ouvir de você novamente.

@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-アタシ帰る……マジもう、次会ったらソッコー通報するから。覚悟しときなよ？=Estou indo embora... A sério, se eu o vir novamente, eu o denunciarei imediatamente. Esteja preparado para isso.
-帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

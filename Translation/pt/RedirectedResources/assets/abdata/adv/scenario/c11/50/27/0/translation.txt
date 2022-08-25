@@ -27,7 +27,7 @@
 早く湯浴みをしたい気分です。=Mal posso esperar para tomar um banho quente.
 //嫌悪より80～100{0}=Ódio 80～100{0}
 肌を重ねても、疲れしか感じませんでした。=A única coisa que senti após nossa sessão foi cansaço.
-これ以上、貴方と同じ空間にいたくなかったので、終わって頂けて安心致しました。=Eu não queria mais estar no mesmo espaço que você, por isso estou aliviado por ter acabado.
+これ以上、貴方と同じ空間にいたくなかったので、終わって頂けて安心致しました。=Eu não queria mais estar no mesmo espaço que você, por isso estou aliviada por ter acabado.
 貴方の悪臭がこびりついていないか心配です……=Espero que seu mau cheiro não se prenda a mim...
 //隷属より50～79{0}=Submissa 50～79{0}
 何故、気持ち良いことはこんなにも幸福を感じるのでしょうか？　誠に不思議です。=Por que sentir-se bem nos faz sentir tão felizes? É um verdadeiro mistério.

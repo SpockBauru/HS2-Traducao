@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-も、もういいから……これ以上私にかまわないで。=Não quero mais ser incomodado por você.
-帰られてしまいましたね、残念な事です。=Lamento saber que você está saindo.

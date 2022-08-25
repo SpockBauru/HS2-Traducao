@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//女の子が見当たらない。どうしようか・・・=
+女の子が見当たらない。どうしようか・・・=Eu não a vejo em lugar nenhum. O que eu deveria fazer?
 CHOICE:放っておく=Deixar para lá
 CHOICE:急いで探しに行く=Correr atrás
 CHOICE:身体に教え込む=Dar uma castigo físico

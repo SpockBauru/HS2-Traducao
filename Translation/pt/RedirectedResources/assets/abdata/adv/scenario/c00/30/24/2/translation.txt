@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Você gostou de transar comigo? Será que eu? Bem, foi ok... Não, foi ótimo, certo?
+私とのセックスは楽しめたでしょうか？　私、ですか？　そうですね……可もなく不可もなく、でしょうか？=Você gostou de transar comigo? E eu? Bem, foi ok... Não, foi ótimo, certo?
 とても充実したひと時でした。あなたとは良い関係を築けそうな気がします。=Foi um momento muito gratificante. Acho que vamos ter um bom relacionamento juntos.
 //好意{0}=Amor{0}
 何かご不満などはございませんでしたか？　忌憚のないご意見をお聞かせ願います。=Você teve alguma reclamação? Por favor, me dê sua opinião honesta.
@@ -17,7 +17,7 @@
 ふぅ……申し訳ございません、たった一度肌を重ねただけで、あなたとのセックスの虜になってしまったようです。=Ah... Desculpe, acho que fiquei viciada em fazer sexo com você depois de apenas um encontro de pele com pele.
 セックスを終えたばかりだと言うのに、もう次の機会を求めてしまっています。お誘い、お待ちしていますね。=Eu acabei de fazer sexo e já estou à procura de outra oportunidade. Ficarei esperando seu convite.
 //壊れ{0}=Quebrada {0}
-あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Aaaah... S... Pare com isso... Qu... Ero viver.
+あはぁ……しぇっくすらけしてぇ……生きていたいれすぅ。=Ahehe... Sexo divertido... Eu quero para sempre e sempre.
 ふふふ……きもひいことはぁ、さいこーれすよねぇ？=Hihihi... V-você é... O melhor!
 //依存{0}=Dependência {0}
 この程度で満足されては困ります。　私は掴んだら放さない女ですから……覚悟、しておいてくださいね？=Não vou ficar satisfeita só com isto. Eu sou uma mulher que não largará seu alvo... Então esteja preparado, está bem?

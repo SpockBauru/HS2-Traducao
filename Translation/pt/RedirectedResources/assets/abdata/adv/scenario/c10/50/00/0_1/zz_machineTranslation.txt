@@ -10,7 +10,7 @@
 えぇと、どうしましょうか？　私は、このままお話しているだけでも大丈夫ですが……=Bem, o que você quer que eu faça? Eu estou bem se continuarmos a conversar, mas...
 //汎用好意{0}=Favor genérico {0}
 あ、やっぱり来ていたのですね。私、どこかに貴方がいないかなと……ずっとキョロキョロしてしまっていて……=Oh, eu sabia que você estava aqui. Estive procurando por você, me perguntando onde você estava.
-会えて嬉しいです。貴方の顔を見ると……なんだかホっとします。=Estou feliz em vê-lo. Ver seu rosto... Me faz sentir aliviado.
+会えて嬉しいです。貴方の顔を見ると……なんだかホっとします。=Estou feliz em vê-lo. Ver seu rosto... Me faz sentir aliviada.
 き、奇遇ですね。はぁ……もしかしたら貴方がいるかもと……来た甲斐がありました。=Que coincidência. Eu estava pensando se você poderia estar aqui... E valeu a pena a viagem.
 //汎用好意用件{0}=Favor Geral {0}
 私に声をかけたということは、何か用事があるのですよね？　何なりと、お申しつけください。=Se você chegou até mim, você deve ter algum negócio, certo? O que quer que você precise, estou a seu serviço.
