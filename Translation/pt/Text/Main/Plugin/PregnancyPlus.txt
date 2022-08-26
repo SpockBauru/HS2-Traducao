@@ -15,6 +15,28 @@ Pregnancy +=Gravidez +
 Enable Pregnancy+=Habilitar Gravidez+
 If disabled, you won't see any pregnant effects.=Se desativado, você não verá nenhum efeito de gravidez.
 
+Apply Preset Shape=Aplicar Predefinição
+Applies a preset belly shape to the character, so you don't have to deal with sliders.=Aplica uma forma pré-definida à barriga da personagem, para que você não precise lidar com os sliders.
+Small=Pequeno
+Standard=Padrão
+Standard Flat=Padrão Reto
+Main Game=Padrão do Jogo
+Multiples=Gêmeos
+Chub Small=Cheinha
+Chub Standard=Cheia
+Fat=Gorda
+
+Paste the last copied belly shape, even on different characters=Cole o último formato copiado da barriga, mesmo em personagens diferentes
+Paste Belly=Colar barriga
+Copy the current belly shape.=Copie o formato atual da barriga.
+Copy Belly=Copiar barriga
+Control the width of the fat fold gap, allowing you to shrink or widen it.  0 for default.=Controle a largura da folga da dobra de gordura, permitindo que você a encolha ou a amplie. 0 para o padrão.
+Fat Fold Gap=Folga da dobra de gordura
+Reset Belly=Reinicie a barriga
+Resets all P+ sliders to their default value=Redefinir todos os sliders do P+ para o padrão
+Open Individual Offsets=Abrir deslocamentos individuais
+Set individual offset values for each article of clothing.=Defina valores de deslocamento individuais para cada parte de roupa.
+
 Inflation Size=Tamanho da Barriga
 The equivalent to number of weeks pregnant for Pregnancy+.=O Equivalente ao número de semanas de Gravidez.
 

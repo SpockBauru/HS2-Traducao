@@ -80,6 +80,9 @@ Match Hair Color on Coord Load=Combinar Cor do Cabelo ao Carregar Carta de Roupa
 Visibility Rules=Regras de Visibilidade
 Show=Mostrar
 Hide=Esconder
+
+sr:"^Adv Parent: (.*)$"=Posição Avançada: $1
+Advanced Parent=Posição Avançada (em inglês)
  
 //--------------------------------------------------
 //Janela de Configurações de Plugins (F1)
