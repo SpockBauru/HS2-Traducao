@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //享楽{0}=Excitada {0}
-//うふふ、私とこちらの部屋に来たという事は……そういう事で宜しいのですね？=
-//では、遠慮などせずに、貴方のことを責めさせて頂きます。=
-//ここから先は、私にお任せ下さい。貴方はじっとしているだけで、気持ちよくなれますから……=
-//多種多様な道具を見ていると、私の嗜虐心に火が付いてしまいます。=
-//正直に申しまして、今すぐ貴方の事を責め立てたいです……=
-//……え？　私の好きにして宜しいのですか？　……！　有難うございます、大変嬉しく存じます！=
-//貴方のお顔をよく見せて下さい。これから、私に虐げられてしまう貴方のお顔を……=
-//うふふ、期待でいっぱいの様ですね。ご安心ください、必ず応えてみせます。=
-//さて、どうやって責めましょうか……悩んでしまいます。=
+うふふ、私とこちらの部屋に来たという事は……そういう事で宜しいのですね？=Apenas uma coisa pode ser deduzida por nós termos entrado nesta sala.
+では、遠慮などせずに、貴方のことを責めさせて頂きます。=Não terei misericórdia de você, pois o ferirei.
+ここから先は、私にお任せ下さい。貴方はじっとしているだけで、気持ちよくなれますから……=Você não precisa levantar um dedo. O prazer será simplesmente seu para saborear.
+多種多様な道具を見ていると、私の嗜虐心に火が付いてしまいます。=Todas essas ferramentas, mas ninguém para empunhá-las.
+正直に申しまして、今すぐ貴方の事を責め立てたいです……=Para ser terrivelmente franca, tenho prazer na idéia de usá-las contra você.
+……え？　私の好きにして宜しいのですか？　……！　有難うございます、大変嬉しく存じます！=Você... Me permite? Maravilhoso, obrigada!
+貴方のお顔をよく見せて下さい。これから、私に虐げられてしまう貴方のお顔を……=Deixe-me ver seu rosto, o rosto que eu vou contorcer em agonia.
+うふふ、期待でいっぱいの様ですね。ご安心ください、必ず応えてみせます。=Você expressa ansiedade, mas cantará uma música diferente em pouco tempo.
+さて、どうやって責めましょうか……悩んでしまいます。=Agora, que ferramenta devo levar em consideração? Escolhas, escolhas...

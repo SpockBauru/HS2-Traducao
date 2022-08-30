@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //享楽{0}=Excitada {0}
-//いやぁ、良かったすねぇ……かなり興奮したっすよー。=
-//あなたも楽しかったなら、言う事なしっすね～。=
-//ついつい、白熱しちゃったっすね～。=
-//あなたも興奮してたみたいだし、上々っすよー。=
-//ふぅ……最高に面白かったっすよー。=
-//またいつでも遊ばせて欲しいっすよ。=
+いやぁ、良かったすねぇ……かなり興奮したっすよー。=Isso... Foi muito bom. Meu coração ainda está palpitando.
+あなたも楽しかったなら、言う事なしっすね～。=Se você também gostou, então foi um trabalho bem feito.
+ついつい、白熱しちゃったっすね～。=Acho que me deixei levar um pouco demais.
+あなたも興奮してたみたいだし、上々っすよー。=Se bem que, parece que você conseguiu sua dose, então eu considero isto uma vitória.
+ふぅ……最高に面白かったっすよー。=Foi a coisa mais divertida que já fiz!
+またいつでも遊ばせて欲しいっすよ。=Eu adoraria brincar com você de novo.

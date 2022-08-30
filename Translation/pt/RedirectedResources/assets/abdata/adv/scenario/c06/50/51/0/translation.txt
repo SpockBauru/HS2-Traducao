@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //享楽{0}=Excitada {0}
-//身動きが取れないんですのね？　どうして差し上げようかしら？=
-//あなたも、興奮しているようですわね。=
-//よろしいですわ……私が、悶えさせて差し上げます。=
-//あら……素敵な恰好ですわね。=
-//見ているだけで、なんだか興奮してまいりましたわ。=
-//期待していただいても、よろしいですわよ。=
-//身動きが取れないなんて、大変ですわね。=
-//私が、助けて上げられればよろしいのですが……=
-//残念ながら、お助けすることはできないんですのよ……うふふ。=
+身動きが取れないんですのね？　どうして差し上げようかしら？=Céus! Parece que você não pode se mover um centímetro! O que devo fazer?
+あなたも、興奮しているようですわね。=Ah, mas espere. Você acha isto tão excitante quanto eu, não acha?
+よろしいですわ……私が、悶えさせて差し上げます。=Bem, nesse caso... Talvez ambos possamos tirar, algum... Proveito desta situação única...
+あら……素敵な恰好ですわね。=Oh, céus... Isso combina muito bem com você, não acha?
+見ているだけで、なんだか興奮してまいりましたわ。=Só de te ver assim é muito excitante para mim...
+期待していただいても、よろしいですわよ。=Por que você não deixa tudo comigo, e veremos onde isso nos leva?
+身動きが取れないなんて、大変ですわね。=Oh, coitadinho! Todo desamparado e incapaz de se mover...
+私が、助けて上げられればよろしいのですが……=Tenho certeza de que uma mulher melhor do que eu o ajudaria imediatamente, mas...
+残念ながら、お助けすることはできないんですのよ……うふふ。=Infelizmente para você, estou me sentindo muito, muito levada hoje... Hehe!

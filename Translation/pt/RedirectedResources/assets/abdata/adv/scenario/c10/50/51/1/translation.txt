@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //享楽{0}=Excitada {0}
-//はぁ……とってもスッキリいたしました。ふふ、貴方はどうでしたか？=
-//聞くまでも無いと思いますが……一応、確認しておきたいですね。=
-//こんな素敵な体験ができるとは……貴方に感謝しなくてはいけませんね。=
-//ふふ……またいつでも、私に苛められたくなったら言ってください。=
-//すみません。少々興奮し過ぎてしまった気がします……=
-//でも、許して頂けますよね？　貴方が望んだことなのですから……=
+はぁ……とってもスッキリいたしました。ふふ、貴方はどうでしたか？=Ahh... Sinto-me tão revigorada! Hehe, e você?
+聞くまでも無いと思いますが……一応、確認しておきたいですね。=Suponho que eu já saiba a resposta, mas vale a pena perguntar.
+こんな素敵な体験ができるとは……貴方に感謝しなくてはいけませんね。=Devo agradecer por ter me dado uma oportunidade tão maravilhosa.
+ふふ……またいつでも、私に苛められたくなったら言ってください。=Hehe. Ligue-me da próxima vez que quiser que eu faça coisas dolorosas para você.
+すみません。少々興奮し過ぎてしまった気がします……=Desculpe, eu me empolguei um pouco.
+でも、許して頂けますよね？　貴方が望んだことなのですから……=Você vai me perdoar, sim? Afinal de contas, você implorou por isso.
