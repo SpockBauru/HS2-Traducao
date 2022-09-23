@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-できれば、他の人とこういう事はしないでください。私は、貴方に全て捧げる覚悟でいます……ですから貴方も……私だけを見てください。=Se você puder, por favor, não faça isso com mais ninguém. Estou pronto para lhe dar tudo de mim... Então você... Olhe só para mim.
-ふふ、私とどんな事がしたいですか？　遠慮しないで言ってみてください。その全部を、私が叶えて差し上げますから。=Hehe, o que você gostaria de fazer comigo? Não seja tímido, basta dizê-lo. Farei com que tudo se torne realidade para você.
-貴方といる時間が私にとって一番幸せです。重いと思われようが構いません。ありのままの私を、受け入れて欲しいのです。=Eu sou mais feliz quando estou com você. Não me importa se você me acha pesado. Só quero que vocês me aceitem como eu sou.
