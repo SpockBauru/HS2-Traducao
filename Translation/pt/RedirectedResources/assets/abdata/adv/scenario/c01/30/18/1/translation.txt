@@ -10,5 +10,5 @@
 //なんとか外そうとしたんだけど、余計に絡まって……ちょっと、助けて欲しいの。=
 //なんだか、トイレに行きたくてしょうがないわ。=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

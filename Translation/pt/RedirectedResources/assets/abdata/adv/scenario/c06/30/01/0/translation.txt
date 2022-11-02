@@ -11,7 +11,7 @@
 //用件{0}=
 //では、セックスをいたしましょうか、そのために会いにいらしたんでしょう……？=
 //素晴らしき性愛の園へあなたをご招待いたしましたわ、受けて頂けます？=
-CHOICE:おしゃべりしたい=Desejo Conversar
-CHOICE:Hしたい=Desejo Transar
-CHOICE:なんでもない=Nenhum
+CHOICE:おしゃべりしたい=Vamos Conversar.
+CHOICE:Hしたい=Vamos Transar.
+CHOICE:なんでもない=Não é nada.
 CHOICE:元に戻って=Voltar ao normal

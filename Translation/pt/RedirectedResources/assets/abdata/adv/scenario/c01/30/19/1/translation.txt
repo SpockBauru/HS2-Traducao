@@ -10,5 +10,5 @@
 //腰が変になっちゃったみたいで……身体に力がはいらないわ。=
 //なんだか、トイレに行きたくてしょうがないわ。=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

@@ -11,7 +11,7 @@
 //用件{0}=
 //さぁ、ご主人様、せっかく会えたんですから……早速、この駄犬の穴を使ってください。=
 //ご主人様……駄犬まんこ……いつでも準備万端ですよ？　ふふっ、もちろん使ってくれるんですよね？=
-CHOICE:おしゃべりしたい=Desejo Conversar
-CHOICE:Hしたい=Desejo Transar
-CHOICE:なんでもない=Nenhum
+CHOICE:おしゃべりしたい=Vamos Conversar.
+CHOICE:Hしたい=Vamos Transar.
+CHOICE:なんでもない=Não é nada.
 CHOICE:元に戻って=Voltar ao normal

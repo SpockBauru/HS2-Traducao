@@ -10,5 +10,5 @@
 //あっ、ちょっと待って！　おねがい！　助けてっ！　助けてくれたら何でもするからさぁ……ほら、エロイことだって、マジ何でもするから！=
 //あ、やっぱちょい待ち！　一つだけ注意点が……その……あんまりお腹周りは触らないで？　アンタのためでもあるんだかんね？　どうなっても知らないよ？=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

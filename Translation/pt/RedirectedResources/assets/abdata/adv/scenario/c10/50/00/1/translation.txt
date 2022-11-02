@@ -16,7 +16,7 @@
 //隷属{0}=Submissa {0}
 //お話……お話……うぅ、特に話題が思いつきません。貴方は何かありますか？=
 //まずは、貴方のお話を聞かせてください。私、これでも聞き上手と言われていますので。=
-CHOICE:親身になって話す=Falar amigavelmente
-CHOICE:積極的に話す=Falar positivamente
-CHOICE:受け身になって話す=Falar passivamente
+CHOICE:親身になって話す=Conversar amigavelmente
+CHOICE:積極的に話す=Liderar a conversa
+CHOICE:受け身になって話す=Deixe ela falar
 CHOICE:エッチな話でも=Contar história erótica

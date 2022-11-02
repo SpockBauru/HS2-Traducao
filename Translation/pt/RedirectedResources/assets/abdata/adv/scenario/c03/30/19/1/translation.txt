@@ -10,5 +10,5 @@
 //あのぅ、腰に力が入らなくて……勘違いされると思うけど、変なことしてないよ？　確かめてみる？=
 //え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

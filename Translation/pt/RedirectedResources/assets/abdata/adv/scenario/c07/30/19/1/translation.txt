@@ -10,5 +10,5 @@
 よし、オマエなら来てくれると思ってた。腰をやっちまってな……少し起こすだけでもいい。手を貸せ。=Certo, eu esperava que você viesse. Tenho um problema nas costas... Apenas me ajude a levantar um pouco. Dê-me uma mãozinha.
 //なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

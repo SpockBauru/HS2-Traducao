@@ -10,5 +10,5 @@
 //一見、無事に見えますよね？　ですがその……腰をやってしまいまして、立つこともままならないのです。お願いします……助けてください。=
 //先に……言っておきますね。もし……もしですよ？　限界まで我慢するのが前提ですが……私が、お、おもらししてしまったら……申し訳ございません。=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

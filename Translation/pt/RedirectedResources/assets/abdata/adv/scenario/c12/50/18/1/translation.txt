@@ -10,5 +10,5 @@
 //いい所で出会ったって顔してるじゃないか？　確かに今の俺は、何の抵抗もできないからな。=
 //まずい……漏れそうだ……我慢の限界が、来てる……=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

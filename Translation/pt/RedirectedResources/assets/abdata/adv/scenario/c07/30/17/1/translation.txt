@@ -10,5 +10,5 @@
 //はぁ、無様を晒しちまったな。少しくらいの悪戯は勘弁してやるが、ちゃんと最後は助けろよ？=
 //なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

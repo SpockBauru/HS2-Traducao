@@ -11,7 +11,7 @@
 //用件{0}=
 //さて……あなたのお望みは、勿論私とのセックス……ですよね？=
 //それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=
-CHOICE:おしゃべりしたい=Desejo Conversar
-CHOICE:Hしたい=Desejo Transar
-CHOICE:なんでもない=Nenhum
+CHOICE:おしゃべりしたい=Vamos Conversar.
+CHOICE:Hしたい=Vamos Transar.
+CHOICE:なんでもない=Não é nada.
 CHOICE:元に戻って=Voltar ao normal

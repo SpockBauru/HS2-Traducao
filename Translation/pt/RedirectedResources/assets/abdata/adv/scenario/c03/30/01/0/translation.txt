@@ -11,7 +11,7 @@
 //用件{0}=
 一応聞いておいてあげるけど、求められているのは私の身体？　そして、要件は私とのエッチ？=Deixe-me perguntar-lhe uma coisa. É do meu corpo que você está atrás? Você quer transar comigo?
 //じゃあ、エッチしよっかぁ♪　もうガチガチじゃん、口では嘘つけても身体じゃつけないんだからぁ♪=
-CHOICE:おしゃべりしたい=Desejo Conversar
-CHOICE:Hしたい=Desejo Transar
-CHOICE:なんでもない=Nenhum
+CHOICE:おしゃべりしたい=Vamos Conversar.
+CHOICE:Hしたい=Vamos Transar.
+CHOICE:なんでもない=Não é nada.
 CHOICE:元に戻って=Voltar ao normal

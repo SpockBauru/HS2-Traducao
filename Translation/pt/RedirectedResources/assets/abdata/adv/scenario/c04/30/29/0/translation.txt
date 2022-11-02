@@ -3,6 +3,6 @@
 //
 //使用中のようだ・・・=
 CHOICE:覗く=Espiar
-CHOICE:悪戯する=Atacar
+CHOICE:悪戯する=Fazer safadeza
 CHOICE:帰りを待つ=Esperar
 CHOICE:立ち去る=Sair

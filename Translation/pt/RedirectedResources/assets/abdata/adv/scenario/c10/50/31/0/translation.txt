@@ -7,7 +7,7 @@
 //すみません。先にお手洗いに行かせて頂きます。変な事は考えずに、こちらでお待ちください。=
 //その……このままだと、貴方に大変な迷惑をかけてしまうと思うので……い、一度お手洗いに行ってきます。つ、ついてきては……ダメですよ？=
 CHOICE:覗く=Espiar
-CHOICE:悪戯する=Atacar
+CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá
 CHOICE:帰りを待つ=Esperar
 CHOICE:立ち去る=Sair

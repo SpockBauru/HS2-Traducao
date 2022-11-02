@@ -10,5 +10,5 @@
 //うー、助けてぇ……お尻がハマって動けないのぉ……助けてくれたらぁ、何でもするからぁ……。=
 //え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

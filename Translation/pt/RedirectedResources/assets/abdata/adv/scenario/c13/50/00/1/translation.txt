@@ -16,7 +16,7 @@
 //隷属{0}=Submissa {0}
 //エッチなお話をして、前戯をするんですね……嬉しいです……=
 //はい……私、あなたとおしゃべりしていると濡れてきちゃうので、嬉しいです……=
-CHOICE:親身になって話す=Falar amigavelmente
-CHOICE:積極的に話す=Falar positivamente
-CHOICE:受け身になって話す=Falar passivamente
+CHOICE:親身になって話す=Conversar amigavelmente
+CHOICE:積極的に話す=Liderar a conversa
+CHOICE:受け身になって話す=Deixe ela falar
 CHOICE:エッチな話でも=Contar história erótica

@@ -10,5 +10,5 @@
 //これはその、不慮の事故がありましたの……=
 //本来なら自分でなんとかするべきなのですが……その、今日はもう、我慢の限界で……あ、あ……=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

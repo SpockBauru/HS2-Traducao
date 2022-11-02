@@ -7,7 +7,7 @@
 //おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=
 //あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=
 CHOICE:覗く=Espiar
-CHOICE:悪戯する=Atacar
+CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá
 CHOICE:帰りを待つ=Esperar
 CHOICE:立ち去る=Sair

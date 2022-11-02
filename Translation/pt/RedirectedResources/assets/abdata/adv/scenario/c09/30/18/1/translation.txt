@@ -10,5 +10,5 @@
 //もしかしてあなたさん……この状況を見て……わたしのことを可愛がってやろうなんて……思っちゃったりしてますか……？=
 //ひゃっ……こんな時にまさかの尿意……え、えーっと……どーしましょー？=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

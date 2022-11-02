@@ -10,5 +10,5 @@
 //あ、あはは……すみません……こんな恥ずかしい状況……あなたに見られちゃうなんて……=
 //は……ぅ……おトイレ、さっきからずっと我慢してたから……そ、そろそろ……限界が……うぅぅ……=
 CHOICE:助ける=Ajudar
-CHOICE:悪戯する=Atacar
-CHOICE:無言で立ち去る=Sair silenciosamente
+CHOICE:悪戯する=Fazer safadeza
+CHOICE:無言で立ち去る=Sair de fininho

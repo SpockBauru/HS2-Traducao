@@ -7,7 +7,7 @@
 //悪いんだけど、少し用があるから……=
 //ごめんなさい、少しだけ待ってもらいたいんだけど。=
 CHOICE:覗く=Espiar
-CHOICE:悪戯する=Atacar
+CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá
 CHOICE:帰りを待つ=Esperar
 CHOICE:立ち去る=Sair

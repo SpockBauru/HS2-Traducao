@@ -7,7 +7,7 @@
 //少々お待ち頂け……いえ、お待ち頂く必要はございません。用事を思い出したので、失礼致します。=
 //その……このままでは行為の真っ最中に決壊してしまいそうで……お手洗いへ寄りたいのですが、宜しいでしょうか？=
 CHOICE:覗く=Espiar
-CHOICE:悪戯する=Atacar
+CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá
 CHOICE:帰りを待つ=Esperar
 CHOICE:立ち去る=Sair

@@ -11,7 +11,7 @@
 //用件{0}=
 //それで、今日はどう苛めて欲しいんだ？　リクエストくらい聞いてやるぞ。=
 //ほら、やるぞ。オレは気が短いんだ。分かってるな？=
-CHOICE:おしゃべりしたい=Desejo Conversar
-CHOICE:Hしたい=Desejo Transar
-CHOICE:なんでもない=Nenhum
+CHOICE:おしゃべりしたい=Vamos Conversar.
+CHOICE:Hしたい=Vamos Transar.
+CHOICE:なんでもない=Não é nada.
 CHOICE:元に戻って=Voltar ao normal

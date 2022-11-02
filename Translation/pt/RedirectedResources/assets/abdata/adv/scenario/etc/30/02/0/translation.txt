@@ -3,7 +3,7 @@
 //
 CHOICE:何してたの？=Como vão as coisas?
 CHOICE:Hしよう=Vamos transar
-CHOICE:なんでもない=Nenhum
+CHOICE:なんでもない=Não é nada.
 CHOICE:好意的に返す=Resposta favoravel
 CHOICE:楽観的に返す=Resposta otimista
 CHOICE:悲観的に返す=Resposta pessimista
