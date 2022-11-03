@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-???=???
+???=????
 端的に言って、ピンチですね……=Muito simplesmente, estou em um aperto.
 私としたことが、不覚です……=Eu estraguei tudo...
-どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
+//どこからか声が聞こえる・・・=Consigo ouvir vozes vindas de algum lugar...

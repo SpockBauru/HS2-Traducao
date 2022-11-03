@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//入浴中のようだ・・・=
+入浴中のようだ・・・=Acho que ela está tomando banho...
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:立ち去る=Sair

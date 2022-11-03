@@ -5,6 +5,6 @@
 //???=
 //おい、誰かいないのか……！=
 //チッ、クソ……誰でもいい、とにかく来やがれ……！=
-//どこからか声が聞こえる・・・=
+どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

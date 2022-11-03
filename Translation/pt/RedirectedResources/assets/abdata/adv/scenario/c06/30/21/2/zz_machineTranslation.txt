@@ -4,4 +4,4 @@
 //セリフ{0}=Serif {0}
 あらあら、逃げられると思っている所が本当に可愛いですわぁ♪　ほーら、捕まえたぁ……♪=Assim, você é tão bonitinho quando pensa que pode escapar ♪ Aqui, eu te peguei ♪
 逃がしませんわよ……うふ、うふふふ、改めて教育して差し上げないといけないようですわね♪=Não vou deixá-lo escapar Parece que vou ter que educá-lo novamente.
-逃げ出した=Ele escapou.
+//逃げ出した=Ele escapou.

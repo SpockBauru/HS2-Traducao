@@ -4,4 +4,4 @@
 //セリフ{0}=Serif {0}
 逃しません。お覚悟を決めて下さい。=Não vou sentir falta disso. Por favor, esteja preparado.
 どちらに行かれるのですか？　私の子宮はこちらですよ？=Onde você está indo? Meu ventre é por aqui.
-逃げ出した=Ele escapou.
+//逃げ出した=Ele escapou.

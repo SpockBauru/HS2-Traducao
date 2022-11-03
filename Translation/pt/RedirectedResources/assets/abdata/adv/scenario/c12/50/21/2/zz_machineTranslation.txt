@@ -4,4 +4,4 @@
 //セリフ{0}=Serif {0}
 どこへ行くつもりだ？　俺から離れられると思ってるのかよ。=Aonde você pensa que vai? Você acha que pode se afastar de mim.
 俺とセックスしろよ……それ以外、お前に選択肢ねぇから……=Quero que você faça sexo comigo... Porque essa é a única opção que você tem.
-逃げ出した=Ele escapou.
+//逃げ出した=Ele escapou.

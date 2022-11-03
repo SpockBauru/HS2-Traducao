@@ -1,9 +1,9 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//部屋にいそうな気配はする・・・=
+部屋にいそうな気配はする・・・=Parece que ela está no quarto...
 //んん……すぅ……すぅ……=
-//すぅ……すぅ……=
+すぅ……すぅ……=Zzz...
 CHOICE:こっそりHする=Sexo furtivo
 CHOICE:起きるのを待つ=Esperar acordar
 CHOICE:立ち去る=Sair

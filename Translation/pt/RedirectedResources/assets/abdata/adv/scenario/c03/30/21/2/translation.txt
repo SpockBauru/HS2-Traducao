@@ -4,4 +4,4 @@
 //セリフ{0}=
 はい、逃がさなぁい♪　いいねいいねぇ、そそるじゃぁん♪　このまま押し倒しちゃおっかなぁ♪=Sim, não vou deixá-lo ir ♪ Eu gosto, é tentador ♪ Acho que vou simplesmente forçá-lo ♪
 //ムラムラしてる私から逃げられると思ったぁ？　安心しなよ、ちゃあんと気持ちよくしてあげるから♪=
-//逃げ出した=
+逃げ出した=Você escapou

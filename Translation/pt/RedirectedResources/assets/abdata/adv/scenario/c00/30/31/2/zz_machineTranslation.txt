@@ -4,5 +4,5 @@
 お待たせしました。……どうなさいました？　息が上がっているようですが？=Obrigado por sua paciência... O que há de errado? Parece que você está um pouco sem fôlego?
 お待たせしました。……何をしていたかは、ご想像にお任せ致します。=Desculpe por tê-lo feito esperar... Vou deixar o que estava fazendo à sua imaginação.
 お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=Obrigado por esperar... Você poderia ter dado uma olhada, sabe?
-……まさかとは思いますが、覗いてはいませんよね？=... Você não espreitou, não é mesmo?
+//……まさかとは思いますが、覗いてはいませんよね？=... Acho que não, mas você não está espreitando, está?
 私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=Você pegou meu banho dourado? Você não olhou? Não é preciso mentir.
