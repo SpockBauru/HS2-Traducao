@@ -1,15 +1,15 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あんがと♪　なんか悪戯されるかと思ったけど、普通に助けてくれるとか、アンタ紳士だね♪=Obrigado... Eu pensei que você ia me pregar uma peça, mas você é um cavalheiro...
-とりま、アタシもう行くね？　ちょっと色々限界だから！=De qualquer forma, eu vou, está bem? Estou no limite da minha capacidade!
-で、どしよっか？　お礼とか、一応したいんだけど……=Então, o que você quer fazer? Gostaria de agradecer a vocês...
-ありゃ、すんなり助けられちゃった。いや、別にいーんだけどね。=Oh, eu fui salvo tão facilmente. Não, tudo bem, no entanto.
-あー、色々お礼したかったんだけど……ちょっと緊急事態なんだわ。ごめんね！　後で絶対お礼するから！=Eu queria agradecer por tudo, mas... É uma espécie de emergência. Desculpe-me! Eu definitivamente lhe agradecerei mais tarde!
-助けてくれたお礼は何がいい？　遠慮しないで、好きなこと言っていーよ♪=O que você quer me agradecer por salvar sua vida? Não seja tímido. Você pode dizer o que quiser.
-ふぅ、助かった。とりま、あんがと。=Ainda bem. De qualquer forma, obrigado.
-うぅ、お礼も言ったんだから、もういいでしょ？　アタシもう行くから。絶対後追いかけてこないでよ？=Ugh, eu já agradeci, então por que você simplesmente não vai? Estou saindo agora. Nunca venha atrás de mim, está bem?
-なに？　一応お礼は言ったっしょ？　なんかそれ以上求めてる？=O quê? Eu não disse obrigado pelo menos? O que mais você quer?
-おー、あんがとあんがと♪　マジ助かった。でもさ、ちょっとくらい悪戯しても、別に良かったんよ？=Oh, muito obrigado... Muito obrigado. Mas, você sabe, não faz mal ser um pouco safado, certo?
-えっと、アタシはいーんだけど、アンタに迷惑かかりそうだから……とりま、あんがとね！　アタシもう行くわ！=Bem, eu faria, mas temo que você se meteria em problemas, então... Obrigado de qualquer forma! Vou embora agora!
-アタシって、案外義理堅いんだよね～。てわけでさ、色々お礼したいんだけどぉ……アンタが喜ぶことって何かな～？=Eu sou uma pessoa muito leal, não sou? Então, quero lhe agradecer por tudo o que você fez por mim, mas... O que o faria feliz?
+あんがと♪　なんか悪戯されるかと思ったけど、普通に助けてくれるとか、アンタ紳士だね♪=Ufa, obrigada! Honestamente, eu não pensei que você fosse ser tão gentil com tudo, mas ei! Cavalheiro, estou certa?
+とりま、アタシもう行くね？　ちょっと色々限界だから！=De qualquer forma, tenho que ir! Não posso esperar mais, então adeus!
+で、どしよっか？　お礼とか、一応したいんだけど……=Então, como você quer que eu compense você? Porque eu quero totalmente, então...
+ありゃ、すんなり助けられちゃった。いや、別にいーんだけどね。=Huh, você apenas... Me ajudou a sair daquela parede, não foi? Não, está tudo bem. Eu queria sair e tudo, prometo.
+あー、色々お礼したかったんだけど……ちょっと緊急事態なんだわ。ごめんね！　後で絶対お礼するから！=De qualquer forma, quero agradecer a você apropriadamente, mas agora estou com pressa, então me deixe fazer isso depois, está bem?
+助けてくれたお礼は何がいい？　遠慮しないで、好きなこと言っていーよ♪=De qualquer forma! Como devo mostrar a você como, tipo, estou grata? Basta dizer o que está em sua mente que eu vou tentar!
+ふぅ、助かった。とりま、あんがと。=Huh, você realmente me ajudou. Obrigada.
+うぅ、お礼も言ったんだから、もういいでしょ？　アタシもう行くから。絶対後追いかけてこないでよ？=... Hum, eu disse obrigada, ok?! Então agora eu vou embora! E nem pense em me seguir!
+なに？　一応お礼は言ったっしょ？　なんかそれ以上求めてる？=... O quê? Eu disse obrigada, não disse? O que mais você quer?
+おー、あんがとあんがと♪　マジ助かった。でもさ、ちょっとくらい悪戯しても、別に良かったんよ？=Oh meu Deus, muito obrigada! Você literalmente salvou minha vida! Mesmo assim, você poderia ter mexido um pouco comigo?
+えっと、アタシはいーんだけど、アンタに迷惑かかりそうだから……とりま、あんがとね！　アタシもう行くわ！=De qualquer forma, eu quero ficar e conversar mais, mas as coisas podem ficar meio... Complicadas, então eu vou embora! Até a próxima!
+アタシって、案外義理堅いんだよね～。てわけでさ、色々お礼したいんだけどぉ……アンタが喜ぶことって何かな～？=Então eu realmente odeio dever um favor a alguém, você sabe? O que significa que quero compensá-lo... Do jeito que você quiser!

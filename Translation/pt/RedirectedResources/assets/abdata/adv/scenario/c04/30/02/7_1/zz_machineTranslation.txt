@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //なんでもない返答B普通{0}=Uma resposta sem precedentes B. Normal {0}
-あー、どっちかに用事があったとか？　別にアタシら気にしないよ？=Um de vocês tinha negócios? Nós não nos importamos, não é mesmo?
-なんかよくわかんないけど……アンタがそれでいいんなら、じゃあね？=Não sei o que é, mas... Se você estiver de acordo com isso, então...
+あー、どっちかに用事があったとか？　別にアタシら気にしないよ？=Ooh, deixe-me adivinhar, você só queria falar com um de nós a sós, certo? Tudo bem, eu não me importo nem nada.
+なんかよくわかんないけど……アンタがそれでいいんなら、じゃあね？=Sim, eu realmente não sei como é o seu negócio, mas ei, se você está feliz então meh!
 //なんでもない返答B好意{0}=Um favor B de resposta sem precedentes {0}
-アタシらに気使わなくていいよ？　なんかあるなら言って？=Você não precisa se preocupar conosco, certo? Basta nos dizer se você precisa de alguma coisa.
-うーん、ほんとに？　なんか遠慮してない？=Hmm. Sério? Você não está sendo um pouco reservado?
+アタシらに気使わなくていいよ？　なんかあるなら言って？=Não se preocupe com nossos sentimentos nem nada. Se há algo que você tem que dizer, apenas diga já!
+うーん、ほんとに？　なんか遠慮してない？=A sério? Você tem certeza de que não está apenas sendo esquisito ou algo assim?
 //なんでもない返答B享楽{0}=Nada Resposta B Kyouraku {0}
-えっと……アタシらは気にしないけどさ。あんまそういうの、他の人らにはやめた方がいいよ？=Bem... Nós não nos importamos, mas... Mas não se deve fazer isso com outras pessoas.
-まぁ、またなんか思い出したら来なよ。どっちかだけでも、またアタシらが集まってる時にでもさ。=Bem, se você se lembrar de mais alguma coisa, volte. Apenas um ou outro, ou quando estivermos todos juntos novamente.
+えっと……アタシらは気にしないけどさ。あんまそういうの、他の人らにはやめた方がいいよ？=Um sim, então veja esta coisa toda de quente e frio? Acontece que é muito menos sexy quando isso acontece com você.
+まぁ、またなんか思い出したら来なよ。どっちかだけでも、またアタシらが集まってる時にでもさ。=Meh, tanto faz. Se você mudar de idéia e quiser falar conosco novamente mais tarde, nós ainda estaremos aqui!
 //なんでもない返答B嫌悪{0}=Nada resposta B nojento {0}
-雰囲気だけ悪くして帰るとか、アンタって絶対友達できないタイプだね。=Você é o tipo de pessoa que nunca fará amigos.
-じゃあさっさとアタシらの前から消えて？　マジ目障りだから。=Então por que você não desaparece da nossa vista? Você é realmente irritante.
+雰囲気だけ悪くして帰るとか、アンタって絶対友達できないタイプだね。=Então espere, primeiro você entra e torna tudo embaraçoso, e agora você vai simplesmente sair? Que saco...
+じゃあさっさとアタシらの前から消えて？　マジ目障りだから。=Claro, mas você poderia me fazer um favor? Você poderia ir super longe onde eu nunca mais tenha que vê-lo? Obrigada!
 //なんでもない返答B隷属{0}=Nada Resposta B Escravidão {0}
-なんでもないって……うーん、それだとアタシらも反応に困っていうか……じゃーねでいいの？=Não é nada... Bem, não temos certeza de como reagir a isso... Está bem assim?
-どしたん？　調子悪いなら、アタシらが病院連れてってあげよっか？=O que está errado? Se você não está se sentindo bem, por que não o levamos para o hospital?
+なんでもないって……うーん、それだとアタシらも反応に困っていうか……じゃーねでいいの？=Hum, está bem, mas quero dizer, como o que ambos devemos dizer a isso? Apenas, tipo, "tchau"?
+どしたん？　調子悪いなら、アタシらが病院連れてってあげよっか？=Você está realmente se sentindo mal neste momento ou algo assim? Você quer que o levemos para o hospital?

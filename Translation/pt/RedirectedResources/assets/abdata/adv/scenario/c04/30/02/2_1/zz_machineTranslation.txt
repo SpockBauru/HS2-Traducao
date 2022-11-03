@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-ところで、アンタはどーなん？　何か思うところある？=E você, a propósito? O que está em sua mente?
-アンタの意見はどう？　なんかある？=O que você acha? O que você acha?
-//んじゃ、アンタの考えも聞かせてもらおっかな？=Bem, vamos ouvir o que você pensa, certo?
-聞くだけ無駄だと思うけど、アンタはどう思うの？=Acho que não vale a pena perguntar. O que você acha, Anta?
-//とりま、アンタの意見も聞きたいかな？=De qualquer forma, eu também gostaria de ouvir sua opinião?
+ところで、アンタはどーなん？　何か思うところある？=Já que estamos falando sobre o assunto, o que você acha?
+アンタの意見はどう？　なんかある？=Tenho certeza que você também tem alguma opinião sobre isso, certo?
+//んじゃ、アンタの考えも聞かせてもらおっかな？=Muito bem, vamos ouvir o que você pensa, então!
+聞くだけ無駄だと思うけど、アンタはどう思うの？=Eu não sei porque estou perguntando isto, mas: o que você acha?
+//とりま、アンタの意見も聞きたいかな？=Hmm, eu não sei... Na verdade, quero ouvir o que você sente sobre isso!

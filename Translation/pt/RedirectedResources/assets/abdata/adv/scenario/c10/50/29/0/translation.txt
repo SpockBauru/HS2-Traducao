@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//使用中のようだ・・・=
+使用中のようだ・・・=Parece que está em uso...
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:帰りを待つ=Esperar

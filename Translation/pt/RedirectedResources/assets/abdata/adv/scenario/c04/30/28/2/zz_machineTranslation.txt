@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あれ……アンタもお風呂？　んふふっ、もしや……アタシを追いかけてきたとか？=Você está tomando um banho também? Hehe... Você está me seguindo?
-うわ、いたんなら言ってよ。アンタとなら、一緒に入ってあげても良かったのに♪=Ugh, me diga se você estava lá. Eu poderia ter entrado com você.
-へぇ、こんなところで偶然じゃん！　なんて……どうせ覗いてたんしょぉ？　正直に言ってみなー？=Bem, que coincidência! Você só estava espreitando, não é mesmo? Por que você não me diz a verdade?
-あーいたんだ。存在感薄くて気付かなかった。=Ah, aí está você. Eu não notei porque não tinha muita presença.
-ありゃ、そんなとこにいたんだ。うーん、丁度綺麗にしてきたとこだから……今はちょっと汗かきたくないかも……=Ohhh, aí está você. Bem, acabei de me limpar, então... Talvez eu não queira suar agora mesmo, mas...
+あれ……アンタもお風呂？　んふふっ、もしや……アタシを追いかけてきたとか？=Oh, você está aqui para um banho? Ou espera, você está apenas fingindo estar aqui para um banho, mas na verdade você está aqui por mim?
+うわ、いたんなら言ってよ。アンタとなら、一緒に入ってあげても良かったのに♪=Huh, você também está aqui? Você deveria ter me avisado antes que eu teria esperado por você!
+へぇ、こんなところで偶然じゃん！　なんて……どうせ覗いてたんしょぉ？　正直に言ってみなー？=Huh, não esperava encontrar você aqui! Estava brincando, eu sabia que você tentaria me espiar de surpresa! Então? Como foi?
+あーいたんだ。存在感薄くて気付かなかった。=Oh, você também está aqui? Você é tão, tipo, silencioso? Tipo, como uma pessoa? Que eu mal notei você.
+ありゃ、そんなとこにいたんだ。うーん、丁度綺麗にしてきたとこだから……今はちょっと汗かきたくないかも……=Oh, olá, você também está aqui? Hm, na verdade acabei de ficar limpa, então se possível prefiro não ficar todo suada de novo, ok?

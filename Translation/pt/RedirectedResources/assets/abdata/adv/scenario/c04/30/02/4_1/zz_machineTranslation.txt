@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //会話事後B普通{0}=Posto de Conversação B Normal {0}
-あーね、そういう考えもあるよね。参考になった。=Ah, sim, essa é uma maneira de pensar sobre isso. Isso foi útil.
-まぁほら、こーやって話すことが大事的なね？　そういう感じっしょ？=Bem, você sabe, é importante falar assim, certo? Sabe, assim?
+あーね、そういう考えもあるよね。参考になった。=Ooh, certo. Esse é realmente um excelente ponto!
+まぁほら、こーやって話すことが大事的なね？　そういう感じっしょ？=E é por isso que eu sempre digo que falar é tão importante, pessoal!
 //会話事後B好意{0}=Posto de Conversação B Favor {0}
-うん、なかなかいい話が出来たんじゃん？=Sim, tivemos uma conversa muito boa, não tivemos?
-結構話せたし、アタシ的には満足だわ。=Conversamos muito, e estou feliz com isso.
+うん、なかなかいい話が出来たんじゃん？=Oh meu Deus, eu me sinto tão perto de vocês dois agora?
+結構話せたし、アタシ的には満足だわ。=Mm, isso foi realmente uma boa conversa! Tipo, tão boa que na verdade vou contar a todos os meus seguidores sobre isso!
 //会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
-へぇー、こうやって話すのも、まぁまぁ面白かったね♪=Heh, foi meio divertido falar com você assim.
-アタシ、喋るの自体は結構好きだから、またいつでも話し相手になったげる。=Gosto muito de falar, por isso estou sempre feliz em falar com você.
+へぇー、こうやって話すのも、まぁまぁ面白かったね♪=Huh, legal! Quem diria que ficar parado conversando com as pessoas poderia ser tão divertido?
+アタシ、喋るの自体は結構好きだから、またいつでも話し相手になったげる。=Isso provavelmente o surpreenderá, mas eu realmente adoro conversar com as pessoas sobre coisas! Apareça de novo, está bem?
 //会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
-まぁ、人それぞれってことでいーんじゃん。長く話し合うようなことでもないし。=Bem, eu acho que depende da pessoa. Não é algo a ser discutido por muito tempo.
-はい、トーク終了。いやー楽しかったねー、すごいねー、やばいねー。=Sim, a conversa acabou. Bem, isso foi divertido, foi ótimo, foi ruim.
+まぁ、人それぞれってことでいーんじゃん。長く話し合うようなことでもないし。=Você sabe como todo mundo é um indivíduo? Bem, eu sinto que algumas pessoas são mais individuais do que outras.
+はい、トーク終了。いやー楽しかったねー、すごいねー、やばいねー。=Sim, legal, oh não, a sério, a melhor conversa da minha vida, uh-huh...
 //会話事後B隷属{0}=Subjugação do Posto de Conversação B {0}
-わりと楽しめたんじゃん？　結構色んな話したし。=Você se divertiu, certo? Falamos de muitas coisas.
-ふぅー、喋った喋った。ちょっと喉乾いちゃった。=Whew, eu já falei e falei. Estou com um pouco de sede.
+わりと楽しめたんじゃん？　結構色んな話したし。=Ahh essa conversa foi exatamente como eu gosto: leve no conteúdo, pesado nas boas vibrações!
+ふぅー、喋った喋った。ちょっと喉乾いちゃった。=Com certeza, nós conversamos muito! Minha garganta está como o deserto Saara neste momento...

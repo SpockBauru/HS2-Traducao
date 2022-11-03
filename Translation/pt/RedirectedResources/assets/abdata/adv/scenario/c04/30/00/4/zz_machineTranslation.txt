@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-うーん、また微妙なとこ突いてくるね～。=Hmmm... Você está batendo em um ponto sutil novamente!
-……コイバナって、そこまで得意じゃないんだよねぇ。=... Não sou muito bom em brincadeiras de brincar.
+うーん、また微妙なとこ突いてくるね～。=Sim, acho que você está ficando meio irritado por nada...
+……コイバナって、そこまで得意じゃないんだよねぇ。=Certo! Pelo menos agora nós dois sabemos que você não é bom em falar de romance e coisas assim, não é?
 //好意{0}=Amor{0}
-あー分かる。分かりみが深い。=Ah, eu entendo. É profundo.
-とりま、もうちょい詳しく。=De qualquer forma, um pouco mais de detalhe.
+あー分かる。分かりみが深い。=Ooh, eu te entendo totalmente! Tipo, mil por cento!
+とりま、もうちょい詳しく。=Hmm, eu não sei... Me conte mais?
 //享楽{0}=Excitada {0}
-……で、それをアタシに話して、どう答えて欲しい系？=Então, o que você quer que eu diga quando eu falar com você sobre isso?
-まー人それぞれっしょ。で、話は終わり？=Bem, para cada um deles, eu acho. Então, estamos conversados?
+……で、それをアタシに話して、どう答えて欲しい系？=Então, o que exatamente devo dizer a isso, afinal?
+まー人それぞれっしょ。で、話は終わり？=Eh, as pessoas são todas diferentes, certo? Então, nós terminamos?
 //嫌悪{0}=Ódio {0}
-いや……そんなこと聞かれても困るし。=Não... Você não tem que me perguntar isso.
-あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Oh, passe... Por que eu tenho que falar com você assim?
+いや……そんなこと聞かれても困るし。=I... Basicamente não tenho idéia do que você quer que eu lhe diga neste momento.
+あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Ugh, tire-me daqui... Por que eu tenho que ficar falando com alguém como você, afinal?!
 //隷属{0}=Submissa {0}
-……へぇ、そういう考え方もあるんだ。=... Uau, essa é uma maneira de pensar sobre isso.
-//……それってさ、アタシに気があるってこと？=Isso significa que você está interessado em mim?
+……へぇ、そういう考え方もあるんだ。=Huh, eu nunca ouvi ninguém falar disso dessa maneira antes...
+//……それってさ、アタシに気があるってこと？=... Então isso significa que você está basicamente super interessado em mim, certo?

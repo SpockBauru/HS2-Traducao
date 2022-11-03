@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //H事後B普通{0}=Sexo posterior B normal {0}
-まー、なんだかんだで気持ち良かったね♪　とりま、皆ハッピーってことでいーんじゃない？=Bem, afinal de contas, soube bem... De qualquer forma, acho que todos estão felizes, certo?
-最初はどーなるかと思ったけど、終わりよければってやつじゃん？=A princípio eu pensava que ia acabar mal, mas tudo acaba bem, certo?
+まー、なんだかんだで気持ち良かったね♪　とりま、皆ハッピーってことでいーんじゃない？=Huh, isso foi realmente muito bom! Vocês se divertiram também, certo?
+最初はどーなるかと思ったけど、終わりよければってやつじゃん？=Honestamente, eu não tinha certeza absoluta se isto ia dar certo, mas ei, tudo está bem quando acaba bem!
 //H事後B好意{0}=Sexo posterior B favor {0}
-もっとモヤモヤするかと思ったけど、そーでもなくて安心した。またするのも全然アリかな♪=Pensei que seria mais desconcertante, mas fiquei aliviada por não o ser. Tenho certeza de que eu poderia fazer isso novamente.
-まぁ、一夫多妻の国とかもあるしね。一対一にそこまでこだわる必要もないのかなーって。=Bem, há países que têm poligamia e assim por diante. Não creio que seja necessário ser tão particular em relação a um para um.
+もっとモヤモヤするかと思ったけど、そーでもなくて安心した。またするのも全然アリかな♪=Huh, vejam só que eu mal fiquei com ciúmes nem mesmo uma vez! Vamos fazer isso de novo algum dia, ok?
+まぁ、一夫多妻の国とかもあるしね。一対一にそこまでこだわる必要もないのかなーって。=Ooh, certo... Então é por isso que alguns países deixam os homens casarem com mais de uma mulher, hein?
 //H事後B享楽{0}=Sexo poste B gozo {0}
-なんつーかアレだね、ラブアンドピースっやつ？　もうそれでいーと思うよ♪=É como o amor e a paz, certo? Acho que é o suficiente.
-は～、人数が増えただけで全然違うね。これはまた、楽しみ甲斐がありそう♪=Ha ~ é totalmente diferente só porque há mais pessoas. Isto vai valer a pena se divertir again♪
+なんつーかアレだね、ラブアンドピースっやつ？　もうそれでいーと思うよ♪=Ouvi dizer que os hippies costumavam ser super-empregados em trios na época, e você sabe o que mais? Eu entendo! Paz e amor, baby!
+は～、人数が増えただけで全然違うね。これはまた、楽しみ甲斐がありそう♪=Huh, mais pessoas tornam toda a experiência muito mais interessante!
 //H事後B嫌悪{0}=Aversão sexo posterior B {0}
-はぁ……やっぱ三人とか無理があるっしょ……せめてキモいのがいなければなぁ……=Se ao menos não houvesse tantos arrepios...
-あー、これ以上変な空気になる前に解散ね？　今日のことはみんな忘れるってことで……いい？=Vamos nos separar antes que as coisas fiquem mais estranhas, está bem? Vamos esquecer o dia de hoje, certo?
+はぁ……やっぱ三人とか無理があるっしょ……せめてキモいのがいなければなぁ……=Um sim, eu acho que talvez trios não sejam para mim? Pelo menos não quando uma pessoa é tão, tipo, nojenta...
+あー、これ以上変な空気になる前に解散ね？　今日のことはみんな忘れるってことで……いい？=Muito bem, agora vamos embora antes que alguém comece a pensar como toda esta situação realmente é estranha, certo?
 //H事後B隷属{0}=Subjugação sexo posterior B {0}
-二人がよければ、アタシはまたやってもいいと思うな～♪　あんまり嫌な感じしなかったし。=Se estiver tudo bem com vocês dois, eu ficaria feliz em fazê-lo novamente. Não me senti tão desagradável.
-いーんじゃん。皆仲良しっていいことじゃん？　だからアタシらは何も間違ってないよ。きっと♪=Está tudo bem. É bom que todos nós nos demos bem, certo? Portanto, não estamos fazendo nada de errado. Tenho certeza...
+二人がよければ、アタシはまたやってもいいと思うな～♪　あんまり嫌な感じしなかったし。=Vamos fazer isso novamente algum dia, ok? Se vocês dois estão dispostos a isso, quero dizer. Porque eu certamente estou!
+いーんじゃん。皆仲良しっていいことじゃん？　だからアタシらは何も間違ってないよ。きっと♪=Aww, isso foi tão bom e sadio e coisas assim! Claro, algumas pessoas podem dizer que somos vagabundos, mas eles não passam de odiadores!

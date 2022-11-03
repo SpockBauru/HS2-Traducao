@@ -1,6 +1,6 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-//反応がないようだ=Não parece estar respondendo.
+//反応がないようだ=Ela parece estar dormindo.
 んー……はぁ……=Hmm. Huh.
 すぅ……はぁ……=Soo.

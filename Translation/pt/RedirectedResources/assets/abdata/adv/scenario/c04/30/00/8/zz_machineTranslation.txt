@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=É a hora da história, obrigado. Então, você está feliz? Queria falar sobre mais alguma coisa?
-ふぅ、何気に結構話し込んじゃったね。=Huh, falamos um pouco sem razão aparente.
+お話タイムしゅーりょー。で、よかったん？　まだ何か話したいことあった？=Está bem, acho que vou dar o fora aqui, mas espero que você se tenha divertido...
+ふぅ、何気に結構話し込んじゃったね。=Ha, o tempo literalmente passou voando, não foi?
 //好意{0}=Amor{0}
-んふ、アンタと話してると、時間が経つのが早いわ♪=O tempo voa quando você está falando comigo.
-もーちょっと話してたかったけど、流石にそろそろ自重かな？=Eu queria falar com você por um tempo mais, mas acho que está na hora de puxar meu peso, hein?
+んふ、アンタと話してると、時間が経つのが早いわ♪=Droga, para onde foi o tempo?! Meus seguidores vão ficar preocupados... Eu costumo postar a cada hora, sabe?
+もーちょっと話してたかったけど、流石にそろそろ自重かな？=Hm, eu não estava acabado com essa conversa, mas acho que podemos deixá-la aqui...
 //享楽{0}=Excitada {0}
-あは、話してるだけでも、結構楽しかったわ♪=Haha, foi muito divertido só de falar com você...
-アンタ、わりとトーク力あるんじゃない？　退屈しなかったわ～。=Você é muito bom em falar, não é? Eu não estava entediado!
+あは、話してるだけでも、結構楽しかったわ♪=Quem diria que desabafar da boca pra fora poderia ser tão divertido?!
+アンタ、わりとトーク力あるんじゃない？　退屈しなかったわ～。=Você é realmente muito bom nessa coisa toda de conversa, não é? Eu não estava nem entediada nem nada!
 //嫌悪{0}=Ódio {0}
-話し終わり？　だったら即サリ決めさせてもらうけど。=Você já acabou de falar? Se for esse o caso, eu decidirei imediatamente.
-はぁ、無駄な時間だった。なんでこんなやつの話聞いちゃったんだろ。=Huh, isso foi uma perda de tempo. Não sei por que escutei este cara.
+話し終わり？　だったら即サリ決めさせてもらうけど。=Terminamos aqui? Rápido, apresse-se e decida já que quero ir postar sobre como essa conversa foi enfadonha.
+はぁ、無駄な時間だった。なんでこんなやつの話聞いちゃったんだろ。=Ugh, isso foi uma grande perda do meu tempo? Ooh, você se importaria se eu apenas ficasse no meu telefone na próxima vez que você falar comigo?
 //隷属{0}=Submissa {0}
-//あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Já terminamos de falar? Terei o maior prazer em fazer-lhe companhia.
-色々話せて楽しかったわ。またトークのお誘い歓迎って感じ♪=Foi divertido conversar com você sobre tudo. Sinto que sou bem-vindo para falar com você novamente.
+//あれ、お話はもう終わり系？　別にもっと付き合ってあげてもいいよ？=Oh, já terminamos? Hmm, está bem. Na verdade, eu estava para conversar um pouco mais com você, mas ei...
+色々話せて楽しかったわ。またトークのお誘い歓迎って感じ♪=Heh, isso foi realmente muito divertido! Eu estaria pronta para um pouco mais desta coisa toda de falar um dia, talvez...

@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あーあ、だからあんだけヤバイって言ったのに……フリとかじゃないって、これで分かったっしょ？=Eu lhe disse que era uma má idéia... Mas agora você sabe que eu não estou fingindo nem nada, certo?
-まぁほら、そういう趣味もあるってことは知ってるしさ……むしろ、ここまでしちゃたら、アンタがそういう趣味になってくれないと困る。=Bem, olhe, eu sei que você tem esse tipo de hobby... Na verdade, se você foi tão longe, eu preferiria que você não tivesse esse tipo de hobby.
-うぅ、おもらしガチ勢おそるべしだわぁ……まぁ、我慢して出すと気持ちいいのは基本だよね……=Ugh, tenho tanto medo de mijar nas calças... Bem, é basicamente uma boa sensação quando você se retrai e deixa sair...
-あーもう最悪……ちょっと一人にして……=Oh, não, isso é uma droga... Deixe-me em paz por um minuto...
-どだった？　アタシはちゃんと言ったかんね？　予測できた未来だかんね？　でもアンタがしたんだから……引いたりしてたら流石におこだよ？=Como foi? Eu disse bem? É um futuro previsível, certo? Mas como você o fez, eu ficaria chateado se você o puxasse.
+あーあ、だからあんだけヤバイって言ったのに……フリとかじゃないって、これで分かったっしょ？=Bem! Eu lhe disse que isso não era uma boa idéia! Então agora você acredita em mim, hein?!
+まぁほら、そういう趣味もあるってことは知ってるしさ……むしろ、ここまでしちゃたら、アンタがそういう趣味になってくれないと困る。=Meh, tanto faz. Acho que você foi como o cara certo para o momento errado? Ainda bem que você gosta desse tipo de coisa!
+うぅ、おもらしガチ勢おそるべしだわぁ……まぁ、我慢して出すと気持ちいいのは基本だよね……=Ai, as pessoas que gostam dessa coisa me assustam um pouco? Então, mais uma vez, acho que é bom deixá-lo sair...
+あーもう最悪……ちょっと一人にして……=Hoje? O pior. Deixe-me em paz...
+どだった？　アタシはちゃんと言ったかんね？　予測できた未来だかんね？　でもアンタがしたんだから……引いたりしてたら流石におこだよ？=Bem? Eu o avisei, não avisei? Mesmo assim, o que você achou? Lembre-se, eu o avisei, então se você se assustar comigo, eu vou ficar brava!

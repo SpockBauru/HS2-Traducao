@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-お話ね～。アンタ、なんか面白い話ないの？=Uma história. Você tem alguma história engraçada?
-言い出しっぺの法則ってことで、アンタから何か話して。=É a lei do primeiro a dizer algo, então você me diz algo.
+お話ね～。アンタ、なんか面白い話ないの？=Tempo de conversa? Claro, estou dentro. Você fez alguma coisa interessante ultimamente?
+言い出しっぺの法則ってことで、アンタから何か話して。=Certo, mas você pode, tipo, começar as coisas e eu vou apenas ouvir?
 //好意{0}=Amor{0}
-何の話したいん？　アタシも盛り上がれる話題がいいな～♪=Sobre o que você quer falar? Quero falar sobre algo que possa me entusiasmar.
-おけおけ、くだらない話でも、何でも聞くよ～。=Certo, vou ouvir tudo o que você tem a dizer, mesmo que seja estúpido!
+何の話したいん？　アタシも盛り上がれる話題がいいな～♪=Ooh, sobre o que vamos falar? Algo totalmente excitante?
+おけおけ、くだらない話でも、何でも聞くよ～。=Haha, claro, vamos falar um com o outro até que algo interessante venha à tona!
 //享楽{0}=Excitada {0}
-まずはお喋りとか、紳士的じゃん。んで、何か面白い話があんの？=Você é um cavalheiro, conversando primeiro. Então, você tem algo interessante para me dizer?
-んじゃ、テキトーに話してー。下ネタとかでもいいよ♪=Bem, fale sobre o que você quiser. Não me importa se é uma piada erótica.
+まずはお喋りとか、紳士的じゃん。んで、何か面白い話があんの？=Conversar antes do sexo? Maldito garoto, você tem jogo! Então, do que vamos falar?
+んじゃ、テキトーに話してー。下ネタとかでもいいよ♪=Claro! Podemos falar do que quiser... Até de coisas safadas!
 //嫌悪{0}=Ódio {0}
-はいはい、テキトーに話してて。一応聞いててあげるから。=Sim, sim, vá em frente e fale com ele. Vou ouvi-lo.
-はぁ、アンタ暇なの？　話相手がいない寂しんぼちゃん？　で、何の話よ？=Você está entediado? Você é uma garota solitária que não tem ninguém com quem conversar? Então, do que você está falando?
+はいはい、テキトーに話してて。一応聞いててあげるから。=Sim, sim, o que quer que seja. Basta começar a falar já, e eu começo a fingir que estou ouvindo ou o que quer que seja.
+はぁ、アンタ暇なの？　話相手がいない寂しんぼちゃん？　で、何の話よ？=Ugh, você ainda está aqui? Você é como um daqueles caras estranhos solitários ou... Oh, tudo bem, então continue falando!
 //隷属{0}=Submissa {0}
-//お話タイムね。いーよー、いくらでも付き合う。=É a hora da história. Está bem, eu fico o tempo que você quiser.
-//アタシに何か話したいことがあるん？　最近いいことあったとか？=Há alguma coisa que você queira me dizer? Algo de bom aconteceu com você ultimamente?
+//お話タイムね。いーよー、いくらでも付き合う。=Está com vontade de conversar, não é? Que fofo!
+//アタシに何か話したいことがあるん？　最近いいことあったとか？=Algo sobre o qual você quer falar comigo? Perfeito! Estou à caça de citações motivacionais para o meu posto diário, então!

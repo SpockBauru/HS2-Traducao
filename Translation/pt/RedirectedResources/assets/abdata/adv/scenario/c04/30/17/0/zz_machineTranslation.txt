@@ -3,6 +3,6 @@
 //***********************************************************************
 //セリフ{0}=Serif {0}
 ???=????
-ちょっとー、誰かいなーい？=Está aí alguém?
-おーい、誰かー、ちょっと来て～……=Ei, alguém, venha aqui por um segundo...
-//どこからか声が聞こえる・・・=Consigo ouvir vozes vindas de algum lugar...
+ちょっとー、誰かいなーい？=Olá? Está alguém aí?
+おーい、誰かー、ちょっと来て～……=Tem algúem aí? Droga... Alguém pode ajudar?
+//どこからか声が聞こえる・・・=Você ouviu uma voz...
