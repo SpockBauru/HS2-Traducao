@@ -9,7 +9,7 @@
 それでー、アタシに何か用？=Mm? Você quer alguma coisa?
 ご指名はアタシですかー？　なんて♪=Deixe-me adivinhar: você quer um pouco disto, certo?
 //汎用好意{0}=Favor genérico {0}
-お、ラッキー♪　アンタに会えた～♪=Uhuul! Tão excitada com isso!
+お、ラッキー♪　アンタに会えた～♪=Uhuul! Tão excitada com isso ♪
 もしかして、アタシを探してたん？=Procurando por mim? Legal!
 んふ～、ただニヤけてるだけだから、気にしないで。=Meu Deus, será que meu rosto não poderia sorrir tanto toda vez que te vejo?!
 //汎用好意用件{0}=Favor Geral {0}
@@ -17,8 +17,8 @@
 とりま、どっかでダベる？=Quer comer alguma coisa depois disto?
 //汎用享楽{0}=Diversão geral {0}
 やっほ♪　元気に発情してるー？=Como você está? Com tesão, como sempre?
-お、アンタの匂いがするともったら、やっぱいた♪=Ha, eu sabia que sentia o cheiro de um viciado em sexo por aqui em algum lugar!
-どーもー、即ヤリＯＫだよー？　あはっ、なーんて♪=Olá tudo bem, quer foder rapidinho? Ha-ha-ha! Brincadeirinha... Ou não!
+お、アンタの匂いがするともったら、やっぱいた♪=Ha, eu sabia que sentia o cheiro de um viciado em sexo por aqui em algum lugar ♪
+どーもー、即ヤリＯＫだよー？　あはっ、なーんて♪=Olá tudo bem, quer foder rapidinho? Ha-ha-ha! Brincadeirinha... Ou não ♪
 //汎用享楽用件{0}=Caso de Diversão Geral {0}
 まーアタシのとこに来たってことは……そういうこと？=Ha, você veio à minha procura, não foi? Tenho quase certeza que sei o que isso significa...
 で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=... E? Vamos lá, não há como você ter vindo aqui só para olhar adoravelmente para o meu rosto perfeito, certo?
@@ -31,7 +31,7 @@
 ボーっと突っ立ってないで、何か用事があるならさっさと言って。=*affe* você poderia me fazer um grande favor? Na verdade, parar de ficar aí parado como um idiota total e simplesmente falar já?
 //汎用隷属{0}=Escravidão de Propósito Geral {0}
 //お、会いにきてくれたん？　嬉しみ～♪=Oh meu Deus, isso está realmente acontecendo? Você está aqui por mim?! Uhuul!
-いたいた。アンタがいるって言うから、探してたんだ～♪=Aí está você! Ouvi dizer que você estava por perto, então decidi vir à sua procura! Tão aleatório, certo?
+いたいた。アンタがいるって言うから、探してたんだ～♪=Aí está você! Ouvi dizer que você estava por perto, então decidi vir à sua procura ♪ Tão aleatório, certo?
 //おー会えた～♪　マジ、この出会いに感謝♪=Encontrar você? Hashtag abençoado, estou certa?!
 //汎用隷属用件{0}=Uso Geral da Escravatura {0}
 //これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=Então, as coisas vão finalmente esquentar, ou...

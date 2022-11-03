@@ -8,7 +8,7 @@
 うん、なかなかいい話が出来たんじゃん？=Oh meu Deus, eu me sinto tão perto de vocês dois agora?
 結構話せたし、アタシ的には満足だわ。=Mm, isso foi realmente uma boa conversa! Tipo, tão boa que na verdade vou contar a todos os meus seguidores sobre isso!
 //会話事後B享楽{0}=Conversa Pós-Graduação B Aproveitamento {0}
-へぇー、こうやって話すのも、まぁまぁ面白かったね♪=Huh, legal! Quem diria que ficar parado conversando com as pessoas poderia ser tão divertido?
+へぇー、こうやって話すのも、まぁまぁ面白かったね♪=Huh, legal ♪ Quem diria que ficar parado conversando com as pessoas poderia ser tão divertido?
 アタシ、喋るの自体は結構好きだから、またいつでも話し相手になったげる。=Isso provavelmente o surpreenderá, mas eu realmente adoro conversar com as pessoas sobre coisas! Apareça de novo, está bem?
 //会話事後B嫌悪{0}=Pós-conversação B-loathing {0}
 まぁ、人それぞれってことでいーんじゃん。長く話し合うようなことでもないし。=Você sabe como todo mundo é um indivíduo? Bem, eu sinto que algumas pessoas são mais individuais do que outras.

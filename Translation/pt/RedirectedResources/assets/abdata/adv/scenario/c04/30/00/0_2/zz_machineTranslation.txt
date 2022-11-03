@@ -3,19 +3,19 @@
 //***********************************************************************
 //風呂普通{0}=Banho normal {0}
 あれ、お風呂？　モテたいなら、身体は綺麗にしときなよー♪=Ooh, hora do banho? Tem que manter as coisas limpas lá embaixo, certo?
-あー、絶対覗きに来たでしょ？　もう目がエロいもん♪=Ha, você está totalmente aqui para um pouco de esconde-esconde, não está? Está escrito em toda a sua cara!
+あー、絶対覗きに来たでしょ？　もう目がエロいもん♪=Ha, você está totalmente aqui para um pouco de esconde-esconde, não está? Está escrito em toda a sua cara ♪
 //風呂普通用件{0}=Assuntos normais de banho {0}
 それでー、アタシに何か用？=Mm? Você quer alguma coisa?
 ご指名はアタシですかー？　なんて♪=Deixe-me adivinhar: você quer um pouco disto, certo?
 //風呂好意{0}=Favores de banho {0}
 誰を覗きに来たのかな～？　アタシ？　ねぇアタシでしょ？=Quem você está aqui para dar uma espiada? Sou eu? Sou totalmente eu, certo?!
-お風呂入りに来たの？　清潔なのはポイント高いね～♪=Hora de tomar banho? Muito bom! Eu gosto quando um cara tem aquele cheiro fresco e ensaboado!
+お風呂入りに来たの？　清潔なのはポイント高いね～♪=Hora de tomar banho? Muito bom! Eu gosto quando um cara tem aquele cheiro fresco e ensaboado ♪
 //風呂好意用件{0}=Favoritos do banho {0}
 何か用事？　アタシで良ければ話聞くよ～。=O que está acontecendo? Você está com vontade de conversar?
 とりま、どっかでダベる？=Quer comer alguma coisa depois disto?
 //風呂享楽{0}=Desfrutando do banho {0}
-うんうん、アンタの目的はだいたい分かってるから。お風呂といえばってやつだよねぇ……んふふ♪=Ha, ok, eu vejo totalmente onde isto vai dar... "hora do banho", huh? Claro, claro... Uma história provável!
-アンタがお風呂にいると、なんかもう怪しさしかないわ～♪=Devo dizer que, quando te vejo assim no banho, suponho que não esteja tramando nada de bom, hehe!
+うんうん、アンタの目的はだいたい分かってるから。お風呂といえばってやつだよねぇ……んふふ♪=Ha, ok, eu vejo totalmente onde isto vai dar... "hora do banho", huh? Claro, claro... Uma história provável ♪
+アンタがお風呂にいると、なんかもう怪しさしかないわ～♪=Devo dizer que, quando te vejo assim no banho, suponho que não esteja tramando nada de bom, hehe ♪
 //風呂享楽用件{0}=Desfrutando do banho {0}
 まーアタシのとこに来たってことは……そういうこと？=Ha, você veio à minha procura, não foi? Tenho quase certeza que sei o que isso significa...
 で、ご用件は？　顔だけ見に来たってわけじゃないっしょ？=... E? Vamos lá, não há como você ter vindo aqui só para olhar adoravelmente para o meu rosto perfeito, certo?

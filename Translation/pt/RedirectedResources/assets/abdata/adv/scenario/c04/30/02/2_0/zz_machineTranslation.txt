@@ -2,11 +2,11 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //なにしてたのA普通{0}=O que você estava fazendo?
-ん？　教えて欲しい？　どーしよっかな～♪=Ha isso é para eu saber e para você, tipo, nunca descobrir!
+ん？　教えて欲しい？　どーしよっかな～♪=Ha isso é para eu saber e para você, tipo, nunca descobrir ♪
 まー世間話的な？　女子の会話に内容を求めちゃいけないって。=Meh, só estou falando de coisas aleatórias de garotas sensuais, realmente!
 //なにしてたのA好意{0}=O que você estava fazendo?
 アンタの話してたんだよ。どんくらいイケてるかって診断。=Estávamos falando de você, na verdade! Estamos tentando descobrir, tipo, se seu tesão fosse um número, qual seria?
-コ・イ・バ・ナ♪　これ以上は守秘義務で話せません♪=Conversa de garota! E eu não direi mais uma palavra, nem mesmo se você me torturar com uma pena sexual ou algo assim, ok?!
+コ・イ・バ・ナ♪　これ以上は守秘義務で話せません♪=Conversa de garota! E eu não direi mais uma palavra, nem mesmo se você me torturar com uma pena sexual ou algo assim, ok? ♪
 //なにしてたのA享楽{0}=O que você estava fazendo lá, Kyouraku?
 そりゃもう……女子同士の赤裸々下ネタトーク、聞きたい？=Oh, só falando de coisas sujas... E eu quero dizer coisas realmente sujas. Quer ouvir mais?
 エロい話してた。よくオカズにするオナネタとか。=Estavamos falando sobre coisas eróticas. Como que tipo de coisa usamos para nos masturbar.

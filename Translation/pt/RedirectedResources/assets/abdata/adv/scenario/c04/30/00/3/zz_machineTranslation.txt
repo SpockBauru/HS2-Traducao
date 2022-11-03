@@ -8,7 +8,7 @@
 急用でも出来た？　まぁいいや、また何かあったら呼んで。=Você tem que estar em algum lugar? Hm, o que quer que você saiba onde me encontrar se precisar de mim!
 ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Você não está tentando criar drama, está? Porque eu já não estou mais pensando nessa vida, está bem?!
 //享楽{0}=Excitada {0}
-なに？　緊張してんの？　かわたんかよ～♪=Você está nervoso? Vá lá, eu basicamente quase nunca mordo promessas!
+なに？　緊張してんの？　かわたんかよ～♪=Você está nervoso? Vá lá, eu basicamente quase nunca mordo promessas ♪
 ん、りょ。んじゃ、適度に欲求不満になったら、またアタシんとこ来て。=Mm, tudo bem, legal. Venha me procurar na próxima vez que você ficar excitado, promete?
 //嫌悪{0}=Ódio {0}
 なにそれ。何も用がないなら、最初から顔見せないでくれる。=Ew, pare com isso! Não fale comigo a menos que você realmente precise de algo, entendeu?

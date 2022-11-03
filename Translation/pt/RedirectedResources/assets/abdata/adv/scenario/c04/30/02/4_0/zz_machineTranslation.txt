@@ -2,8 +2,8 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
-んじゃ、そろそろお開きでいーのかな？　またね～♪=Certo! Isto tem sido divertido e tudo mais, mas está na hora de ir, certo? Até mais tarde!
-さて、じゃあ解散しよっか？　じゃーね～♪=Suponho que todas as coisas boas, tipo literalmente chegam ao fim, não é? Tchau!
+んじゃ、そろそろお開きでいーのかな？　またね～♪=Certo! Isto tem sido divertido e tudo mais, mas está na hora de ir, certo? Até mais tarde ♪
+さて、じゃあ解散しよっか？　じゃーね～♪=Suponho que todas as coisas boas, tipo literalmente chegam ao fim, não é? Tchau ♪
 //会話事後A好意{0}=Um favor após a conversa {0}
 名残惜しいけど、そろそろ解散かな？　で、いいよね？=Estou realmente adorando a vibração que temos aqui, mas ainda assim, prova o tempo em que terminamos as coisas...
 はい、んじゃーお話終わり！　このままだとずっと喋ってそうだし。=Ok, vamos acabar com isso antes que eu fale tanto que meu queixo caia da minha cara!

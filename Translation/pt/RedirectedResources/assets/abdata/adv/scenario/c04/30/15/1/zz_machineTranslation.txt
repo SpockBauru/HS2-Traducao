@@ -1,14 +1,14 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あ、いたいた♪　まー特に用事とかあるわけじゃなくてー、ちょっと話したいなーとか思っただけなんだけどね♪=Ooh, você está em casa! Então olha, eu não vim por nenhuma razão ou por nada, ok? Só quero um pouco de conversa!
+あ、いたいた♪　まー特に用事とかあるわけじゃなくてー、ちょっと話したいなーとか思っただけなんだけどね♪=Ooh, você está em casa! Então olha, eu não vim por nenhuma razão ou por nada, ok? Só quero um pouco de conversa ♪
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
-あは、また来ちゃいました～♪　なーんか居心地いいんだよね～、アンタの部屋。=Oh meu Deus, sinto que basicamente vivo aqui ultimamente! Seu quarto é tão aconchegante, confortável e incrível!
-おじゃまっしまーっす！　ねー、お菓子とかないの？　甘いもん食べたくてさ～。味はなるべく濃厚なのがいいな～、なんてっ♪=Você tem doces, salgadinhos ou qualquer coisa assim? Estou com vontade de um pouco de açúcar, se é que me entende!
-やっほ♪　元気してた？　密かにアタシに会いたい～とか思ってたっしょ？　てわけで、来てあげたよ～♪　嬉しーっしょぉ？=Então eu estava pensando, ele provavelmente está com saudades minhas? E então eu senti, tipo, toda pena de você e tal? Então aqui estou eu!
+あは、また来ちゃいました～♪　なーんか居心地いいんだよね～、アンタの部屋。=Oh meu Deus, sinto que basicamente vivo aqui ultimamente! Seu quarto é tão aconchegante, confortável e incrível ♪
+おじゃまっしまーっす！　ねー、お菓子とかないの？　甘いもん食べたくてさ～。味はなるべく濃厚なのがいいな～、なんてっ♪=Você tem doces, salgadinhos ou qualquer coisa assim? Estou com vontade de um pouco de açúcar, se é que me entende ♪
+やっほ♪　元気してた？　密かにアタシに会いたい～とか思ってたっしょ？　てわけで、来てあげたよ～♪　嬉しーっしょぉ？=Então eu estava pensando, ele provavelmente está com saudades minhas? E então eu senti, tipo, toda pena de você e tal? Então aqui estou eu ♪
 //好意50続き{0}=Favores 50 continuou {0}
-あは、マジで話だけで終わるとは思わなかったわー。でも楽しかった♪　付き合ってくれてあんがとね♪=Honestamente? Não íamos apenas, tipo, conversar? Mas mesmo assim, foi realmente muito divertido! Obrigada pelo encontro de boas!
-アンタ、トークもなかなかイケてるじゃん♪　退屈になったら帰ろうとか思ってたけど、全然だったわ。むしろもう一泊したいくらい。=Você é um bom fofoqueiro, sabe? Eu me diverti tanto conversando, que até quero ficar mais uma noite!
-はー、めっちゃ話し込んじゃったね。気付いたら夜明けてたし……んふ、アンタ的には残念だった？　また来るから、そん時はよろ～♪=Huh, nós conversamos a noite toda! Você tem certeza de que isso é suficiente? Meh, bem, de qualquer maneira, eu voltarei, prometo!
-おー、居てくれて良かった～♪　ほら、アタシが来てあげたんだから、もうちょっと嬉しそうな顔しなよ～。んふ、アンタが期待してるような展開もあるかもよ～♪=Olá! Pft, que cara é essa?! Eu vim até aqui para ver você, e você está prestes a transar, então pareça feliz!
+あは、マジで話だけで終わるとは思わなかったわー。でも楽しかった♪　付き合ってくれてあんがとね♪=Honestamente? Não íamos apenas, tipo, conversar? Mas mesmo assim, foi realmente muito divertido! Obrigada pelo encontro de boas ♪
+アンタ、トークもなかなかイケてるじゃん♪　退屈になったら帰ろうとか思ってたけど、全然だったわ。むしろもう一泊したいくらい。=Você é um bom fofoqueiro, sabe? Eu me diverti tanto conversando, que até quero ficar mais uma noite ♪
+はー、めっちゃ話し込んじゃったね。気付いたら夜明けてたし……んふ、アンタ的には残念だった？　また来るから、そん時はよろ～♪=Huh, nós conversamos a noite toda! Você tem certeza de que isso é suficiente? Meh, bem, de qualquer maneira, eu voltarei, prometo ♪
+おー、居てくれて良かった～♪　ほら、アタシが来てあげたんだから、もうちょっと嬉しそうな顔しなよ～。んふ、アンタが期待してるような展開もあるかもよ～♪=Olá! Pft, que cara é essa?! Eu vim até aqui para ver você, e você está prestes a transar, então pareça feliz ♪
 //好意80_汎用{0}=Favores 80_ Genéricos {0}

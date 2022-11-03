@@ -6,7 +6,7 @@
 それな、ほんとそれな。=Isso é tão verdade!
 //返答肯定1好意{0}=Responder afirmação 1 favor {0}
 でしょ？　もうそれしかないって。=Eu te entendo totalmente!
-ウェーイ♪　やっぱそうだよね。=Sim, nós dois sentimos exatamente o mesmo!
+ウェーイ♪　やっぱそうだよね。=Sim, nós dois sentimos exatamente o mesmo ♪
 //返答肯定1享楽{0}=Responder Afirmação 1 Desfrute {0}
 そうそれ。マジわかりみが深いわぁ……=Exatamente. Ugh, é como se você simplesmente me entendesse de alguma forma!
 うん、イエスだね。めっちゃイエス。=Ha, oh meu Deus, como se sim!
