@@ -16,7 +16,7 @@
 //隷属{0}=Submissa {0}
 ほら、何でも話してみろ。寂しいオマエの話を聞いてやるよ。=Acho que até um solitário como você precisa de alguém que o escute, não é? Continue, então.
 おい、オマエ待ちだぞ？　オレからは特に話すことは無いからな。=Então, você vai dizer alguma coisa? Se você está esperando que eu faça todo o trabalho, você está muito enganado.
-CHOICE:親身になって話す=Conversar amigavelmente
+CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar
-CHOICE:エッチな話でも=Contar história erótica
+CHOICE:エッチな話でも=Falar de sexo

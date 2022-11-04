@@ -16,7 +16,7 @@
 //隷属{0}=Submissa {0}
 //おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=
 //お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=
-CHOICE:親身になって話す=Conversar amigavelmente
+CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar
-CHOICE:エッチな話でも=Contar história erótica
+CHOICE:エッチな話でも=Falar de sexo
