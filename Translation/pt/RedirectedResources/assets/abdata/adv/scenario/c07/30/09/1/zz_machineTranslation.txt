@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-おい、オレにもシャワーを浴びさせてくれよ。なんなら、オマエのシャワーでもいいぞ。=Ei, deixe-me tomar um banho, também. Você pode tomar seu banho se quiser.
-よお、気持ちよさそうにしてんじゃねぇか。ならオレと、もっと気持ちいいことしねぇか？=Ei, você parece estar se sentindo bem. Então por que você não faz algo mais confortável comigo?
-オマエ、意地悪だな。シャワーを浴びるなら、オレも誘ってくれたっていいじゃねぇか。=Você é tão mau. Se você vai tomar um banho, por que não me convida para me juntar a você?
-おい、入るぞ。オレを呼ばずに一人でシャワーを浴びるとか、意味わかんねぇことしてんじゃねぇ。=Ei, vamos entrar. Não faça nada estúpido como tomar um banho sozinho sem me ligar.
+おい、オレにもシャワーを浴びさせてくれよ。なんなら、オマエのシャワーでもいいぞ。=Ei, deixe-me usar o chuveiro também - de fato, que tal eu tomar o seu emprestado?
+よお、気持ちよさそうにしてんじゃねぇか。ならオレと、もっと気持ちいいことしねぇか？=Você certamente está gostando daquele chuveiro, não é? Ainda assim, tenho certeza de que posso ajudá-lo a desfrutar muito mais...
+オマエ、意地悪だな。シャワーを浴びるなら、オレも誘ってくれたっていいじゃねぇか。=Você é tão cruel às vezes... Se você vai tomar um banho, você poderia ao menos perguntar se eu quero me juntar a você primeiro.
+おい、入るぞ。オレを呼ばずに一人でシャワーを浴びるとか、意味わかんねぇことしてんじゃねぇ。=Estou entrando. Não acredito que você pensou que poderia simplesmente tomar um banho sem perguntar se eu também queria um...

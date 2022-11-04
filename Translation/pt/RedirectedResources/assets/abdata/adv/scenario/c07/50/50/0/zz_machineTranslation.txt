@@ -2,12 +2,12 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //好意{0}=Amor{0}
-ふーん、オマエはこういうチャラい場所が好きなのか？=Hmm, você gosta destes lugares de flerte?
-らしいっちゃらしいけど……なんか落ち着かねーなぁ……=Acho que é assim que deve ser, mas... É tão inquietante...
-おい、どうせヤるんだろ？　だったらさっさと始めろよ。=Ei, você vai me foder de qualquer maneira, certo? Então, prossiga com isso.
-オレは普通の女みたいに、ムードが良くねぇとヤダとか言わねぇぞ？=Eu não sou como a maioria das mulheres que dizem que não gostam quando o humor não está certo.
-結局ヤルことは一緒なんだ、いちいち気にするだけ無駄だろ。=No final, todos nós fazemos a mesma coisa, portanto não vale a pena nos preocuparmos com isso.
-まぁ……もしプールの中でするなら、面白そうではあるけどな……=Bem... Se o fizéssemos em uma piscina, seria divertido...
+ふーん、オマエはこういうチャラい場所が好きなのか？=Huh, eu não sabia que você gostava de lugares reluzentes como este.
+らしいっちゃらしいけど……なんか落ち着かねーなぁ……=Acho que isso lhe convém, mas com certeza não é muito relaxante.
+おい、どうせヤるんだろ？　だったらさっさと始めろよ。=De qualquer forma, vamos foder, certo? Então, vamos lá então.
+オレは普通の女みたいに、ムードが良くねぇとヤダとか言わねぇぞ？=Olha, eu não sou uma daquelas garotas que está toda tipo "Eu não posso entrar no clima a menos que você me leve a um lugar sexy", ok?
+結局ヤルことは一緒なんだ、いちいち気にするだけ無駄だろ。=Se eu vou transar com alguém, então eu só transo com ele e ponto. Eu não perco tempo me preocupando com os detalhes.
+まぁ……もしプールの中でするなら、面白そうではあるけどな……=Ainda assim, até eu tenho que admitir: fazer isso em uma piscina seria muito emocionante...
 //オマエ、オレがこういうとこ来たらはしゃぐとでも思ったのか？=Você acha que eu ficaria entusiasmado em vir aqui?
 //ハッ、浮かれてんのはオマエだけだよ。ま、とりあえず酒でも飲むか……=Você é o único que está entusiasmado. Bem, vamos apenas tomar uma bebida...
 //どうせ酔わせて襲う気だったんだろ？　先に酔いつぶれたりすんなよ？=Você ia embebedá-lo e atacá-lo de qualquer maneira, certo? Não se embriague primeiro.

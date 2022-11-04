@@ -3,6 +3,6 @@
 //***********************************************************************
 //セリフ{0}=Serif {0}
 ???=????
-おい、誰かいないのか……！=Ei, tem alguém por aí?
-チッ、クソ……誰でもいい、とにかく来やがれ……！=Maldição, maldição... Quem quer que você seja, venha aqui!
+おい、誰かいないのか……！=Olá, tem alguém aí?
+チッ、クソ……誰でもいい、とにかく来やがれ……！=Ugh, literalmente qualquer um estaria bem, então venha já!
 //どこからか声が聞こえる・・・=Você ouviu uma voz...
