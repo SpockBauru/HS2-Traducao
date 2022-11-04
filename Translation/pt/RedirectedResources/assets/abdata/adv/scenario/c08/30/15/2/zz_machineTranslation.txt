@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//あなたのお部屋でＨって気持ちいいだけじゃなくてーなんだか感慨深かったっすー。=Não só é bom transar em seu quarto, mas também é muito emocional.
-//汎用{0}=Objetivo Geral {0}
-//あなたのお部屋でＨしてーお泊りしてー……なんだか恋人同士みたいっすよねー。=Eu vou fazer sexo com você em seu quarto.
-//ふわぁ～、おはよーっすー。昨日は気の赴くままセックスしてーよく眠れたっすかー？=Bom dia. Você fez sexo ontem à noite e dormiu bem?

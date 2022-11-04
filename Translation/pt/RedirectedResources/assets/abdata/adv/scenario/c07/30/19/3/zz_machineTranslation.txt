@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//やはりそうなるか……まぁ、最後に助けてくれれば文句はねぇ。あと、ちゃんとオレも楽しませろよ？=Eu sabia que isso iria acontecer! Tudo bem, mas não se esqueça de me ajudar depois... E me satisfaça enquanto você está nisso.
-//ああ、分かってたさ。むしろ少し期待してたかもな。オマエが腰抜けじゃなくて、違う意味で助かったな。=Eu tinha a sensação de que as coisas iriam acabar assim. Na verdade, eu estava até mesmo esperando por isso! Ainda bem que você é corajoso...
-//チッ、結局か。オマエに少しでも期待したオレが間違ってたよ。ケダモノがヒトを助けてくれるわけねぇもんな。=Tch, eu sabia. Pensei por um segundo que você não saberia, mas eu deveria ter sabido melhor. Os animais não ajudam as pessoas.
-//だよな。オレのピンチはオマエにとってはチャンスだ。まぁ、ちゃんと気持ちよくしてくれれば、文句は言わねえよ。=Faz sentido - você me tem bem onde me quer, hein? Tudo bem, mas não deixe de me agradar também!

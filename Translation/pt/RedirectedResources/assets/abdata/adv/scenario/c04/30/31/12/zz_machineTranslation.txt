@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//あーあ、だからあんだけヤバイって言ったのに……フリとかじゃないって、これで分かったっしょ？=Bem! Eu lhe disse que isso não era uma boa idéia! Então agora você acredita em mim, hein?!
-//まぁほら、そういう趣味もあるってことは知ってるしさ……むしろ、ここまでしちゃたら、アンタがそういう趣味になってくれないと困る。=Meh, tanto faz. Acho que você foi como o cara certo para o momento errado? Ainda bem que você gosta desse tipo de coisa!
-//うぅ、おもらしガチ勢おそるべしだわぁ……まぁ、我慢して出すと気持ちいいのは基本だよね……=Ai, as pessoas que gostam dessa coisa me assustam um pouco? Então, mais uma vez, acho que é bom deixá-lo sair...
-//あーもう最悪……ちょっと一人にして……=Hoje? O pior. Deixe-me em paz...
-//どだった？　アタシはちゃんと言ったかんね？　予測できた未来だかんね？　でもアンタがしたんだから……引いたりしてたら流石におこだよ？=Bem? Eu o avisei, não avisei? Mesmo assim, o que você achou? Lembre-se, eu o avisei, então se você se assustar comigo, eu vou ficar brava!

@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//おう……いたのか。早くオマエも汗を流してこいよ……気持ちいいぞ？　色々とな……=Oh, você também está aqui? Venha, a hora do banho é ótima, por mais de uma razão...
-//ハッ、押し入る勇気は無かったってことか。いや、こっちの話だ、何でもねぇよ。=Acho que você não tem o que é preciso para entrar e me dar uma mãozinha, não é? Hmm? Ah, não - só falando comigo mesmo.

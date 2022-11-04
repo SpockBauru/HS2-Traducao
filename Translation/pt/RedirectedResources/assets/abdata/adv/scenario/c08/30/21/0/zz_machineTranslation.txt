@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-//えっと、さっきは他の人とお楽しみ、でしたね。その、次は私……ですか？　ですよね……？=Bem, antes, você estava se divertindo com outras pessoas. Bem, eu sou o próximo, não sou? Certo?
-//あの……さっきは、あ、あの人と、セックス、してたみたいなんですけど、私ともどうですか？=Bem, um... Mais cedo, você estava fazendo sexo com aquele cara, mas você gostaria de fazer sexo comigo, também?

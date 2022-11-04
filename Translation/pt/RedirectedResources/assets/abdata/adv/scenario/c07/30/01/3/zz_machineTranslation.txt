@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-//オマエが何もなくても、オレにはヤりたいことが沢山あるんだ。付き合え。=Você pode não precisar dele agora, mas eu preciso. Vamos lá.
-//ほう、一丁前に焦らしているつもりか？　いいだろう。望み通り、襲ってやるよ。=Tentando me deixar todo quente e incomodada? Bem, funcionou. Espero que você esteja preparado para pagar o preço.

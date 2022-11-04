@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-//待て。本当にオレから逃げられると思ってたのか？　他の女とヤって、頭が馬鹿になっちまったのか？=Você realmente achava que eu ia deixá-lo sair tão facilmente? Huh... Você tem fodido com outras mulheres e perdeu o juízo?
-//ハッ、面白いことを考えるな。そんなにおしおきされたいのか？　いいぞ、お望み通りのことをしてやる。=Ha, você está mesmo metido em coisas estranhas... Mas o que for, você quer que eu te persiga? Por mim tudo bem.
-//逃げ出した=Você escapou

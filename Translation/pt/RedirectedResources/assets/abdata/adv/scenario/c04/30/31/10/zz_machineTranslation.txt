@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//うーん、トイレ来るたび思い出しそ……ま、気持ち良かったからいーけどね♪=Sinto que vou pensar nisso quando estive no banheiro a partir de agora, mas ei! Foi ótimo, então, valeu totalmente a pena ♪
-//アンタってほんとに、どこでもお構い無しなんだね。そんだけアタシが気に入ってるってこと？　だったらまぁ、悪い気はしないかなぁ♪=Você é um cara de qualquer lugar, a qualquer hora, hein? Oh, você só é assim comigo?! Porque isso me faria feliz ♪
-//あは、アタシらマジ変態じゃん♪　トイレでするとか、どんだけアブノーマルって感じ♪=Oh meu Deus, sou uma aberração total! Quero dizer, quem faz isso até no banheiro, estou certa? ♪
-//うぅ……マジ最悪オブ最悪……もうさ、とにかくアタシの前から消えて？=Ugh, este é o pior dia da minha vida. A sério, no meu funeral, vai haver uma grande imagem disto na parede.
-//んふ、これって文字通り、肉便器にされちゃった系？　またトイレ行きたくなったら、アンタに言うね♪=Isso foi como uma experiência literal de banheiro humano? Ligue-me da próxima vez que precisar ir, está bem?

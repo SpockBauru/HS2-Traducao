@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//どうせこうなるだろうと思ってたよ。むしろ期待してたとこもある。自業自得ってやつだな。=Eu sabia que você apareceria mais cedo ou mais tarde. Na verdade, eu estava praticamente esperando por isso.
-//どうせオマエも、オレが一人でしてるところを見てオナってたんだろう？　正直に言えば、覗きの件は許してやるぞ？=Deixe-me adivinhar: você estava se tocando enquanto assistia, certo? Seja honesto, e talvez eu o deixe em paz.

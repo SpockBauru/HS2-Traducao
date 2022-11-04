@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//おい待て、考え直せ。オレに恩を売っておけば、後々いい思いができるぞ？=Espere um segundo. Você tem certeza disso? Se você me ajudar agora, eu farei valer a pena mais tarde.
-//待て待て。少し考えれば分かることだろ？　オレは助けられた恩は忘れない。そういうところは筋通す女だぜ？=Pense bem: se você me fizer um favor agora, eu lhe devo, certo? E eu sou o tipo de mulher que paga minhas dívidas...
-//そんなこったろうと思ったよ。オマエに助けられるなんて、こっちから願い下げだ。とっとと消えちまえ。=Pah, exatamente como eu esperava. Como se eu quisesse ajuda de escória como você, de qualquer forma. Desapareça, canalha.
-//おいおい、それは無いだろ？　オレには興味なしってか？　それとも放置プレイのつもりか？=Você está brincando, certo? Sou assim tão entediante para você? Ou espera, você só sai fazendo-me esperar?

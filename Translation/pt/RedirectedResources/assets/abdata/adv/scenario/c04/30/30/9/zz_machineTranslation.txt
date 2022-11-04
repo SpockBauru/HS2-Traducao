@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//んんぅ……アンタが悪いんだかんね？　何が起きても……アタシは悪くないんだから……=Ew... Isto é tudo culpa sua! Tipo, não importa o que aconteça, não me culpe!
-//えっと……驚くことが起きるかもしんないんだけど……驚かないで？　あと、引かないで？　おけ？=Então, as coisas podem começar a ficar meio esquisitas se fizermos isso, mas foi tudo idéia sua, então não entre em pânico comigo, está bem?
-//あーこれ、ガチでやばめ……全部アンタのせいなんだかんね？　最悪、飲んでもらうから……=Ahh, oh meu deus. Você está totalmente envolvido nisto? Na pior das hipóteses, você vai até gostar, vai beber?
-//これが最後の忠告……マジで今は、そういうことやめた方がいーから。アタシの話……聞いておいた方がいいと思うよ？=Escute-me seriamente agora mesmo, está bem? Tipo, 100% me escute totalmente, porque agora não é o momento!
-//うぅぅ、割と限界……女子は長いこと我慢できるようになってないんだって……=Ughhh... Estou no meu limite. As garotas não são feitas para segurar, sabe?

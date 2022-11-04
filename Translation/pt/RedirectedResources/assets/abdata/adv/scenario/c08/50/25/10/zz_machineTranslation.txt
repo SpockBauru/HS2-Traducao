@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//いい雰囲気の場所っすね……悪くないっすよ～。=É um lugar agradável com um ambiente agradável... Nada mal!
-//こんな場所も知ってるなんて、あなたって結構侮れないっすねー。=Você é uma força e tanto, conhecendo um lugar como este!
-//結構いい雰囲気の場所っすね……興奮しそうっすよ。=Este lugar tem uma vibração muito boa... Parece excitante.
-//こんな場所があったんすね、ふぅん。=Eu não sabia que havia um lugar assim. Hmm.
-//こんな場所に連れてきてくれたんすから、思いっきり口説いていいっすよ？=Você me trouxe a um lugar como este, para poder se atirar a mim com toda a força que quiser, certo?

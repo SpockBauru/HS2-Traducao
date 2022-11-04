@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-//よし、偉いぞ。自分が何をすればいいか、しっかり分かってるようだな。=Perfeito. Eu gosto de um homem que sabe o que se espera dele.
-//そうだ、それでいい。オレが喜びそうなことを、もっと率先してやっていけ。=Excelente. Quanto mais você trabalhar para me agradar, melhor eu farei isso para você.

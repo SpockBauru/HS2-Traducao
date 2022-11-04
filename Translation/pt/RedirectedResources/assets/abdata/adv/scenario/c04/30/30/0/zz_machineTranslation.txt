@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//ちょい待ち……あー、寄り道したいところができた的な？　そんな感じ？=Ummm, você poderia aguentar só um segundo? Há algo que eu preciso cuidar...
-//えっと、ちょい言い難いんだけど……トイレタイム……いいっすか？=Então, isto é um pouco estranho, mas... Eu tenho que ir fazer xixi, então volto já!
-//あ、ちょっとトイレ行ってくる。んふふぅ……覗いちゃダメだよー？=Ah, tudo bem, então acontece que a natureza está me chamando totalmente agora mesmo? Então, dê-me um segundo... E nada de espreitar, está bem?!
-//ちょっとあっち行ってて。いーから、早くっ！=Você gostaria de ir até lá? Gosta mesmo de ir longe? Como? Sem perguntas, idiota, apenas vá!
-//あーその、ちょっと催しちゃったかも……発情してるとかじゃなくて……ほら、お手洗い的な？=Ooh, de repente tenho uma necessidade... Hmm? Desculple, não é uma necessidade sexual? Mais uma coisa de banheiro, você me entendeu?

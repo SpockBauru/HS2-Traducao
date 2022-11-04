@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//あれ、来てたん？　やば、めっちゃ寝てた……ごめん！=Oh, você já está aqui? Droga, eu estava dormindo como os mortos, sério! Desculpe!
-//うわ、来てたんならノックでもなんでもして起こしてくれれば良かったのに。アタシ、別に起こされても怒ったりしないよ？=Oh, eu não sabia que você estava aqui! Da próxima vez, você só gostaria de bater à porta, certo? Eu não vou gritar com você nem nada!
-//え？　そこでずっと待ってたの？　マジかぁ……折角来てくれたんなら、夜這いくらい許してあげたのにぃ。=Você estava apenas esperando? Chato, você não acha? Da próxima vez você pode gostar, entrar e mexer comigo se quiser...
-//え、なに？　アタシが寝ている間ずっといたの？　うわキモ……アンタって、ストーカー？=Ew, você esteve esperando aqui fora este tempo todo enquanto eu dormia? Isso é... Que nojo, oh meu Deus.
-//うーん、アンタって変なとこ律儀だよねぇ。ま、そこがいいとこでもあるんだろうけど……たまにはちょっと、冒険してみても大丈夫かもよ？=Hmm, você é como super educado, huh? Quero dizer, isso é legal e tudo mais, mas talvez você devesse ser mais corajoso às vezes, também!

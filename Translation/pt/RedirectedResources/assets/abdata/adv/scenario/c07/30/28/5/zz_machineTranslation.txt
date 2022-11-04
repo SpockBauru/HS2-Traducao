@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//おい、なに考えてるんだ馬鹿……常識外れも大概にしろ。=Qual é a grande idéia, idiota? Certamente até mesmo um cara como você sabe melhor do que tentar algo como isto.
-//待て待て……オマエ、何のつもりだ？　頭がおかしくなっちまったのか？=Espere um pouco. Você ficou louco ou algo assim? Qual é o plano aqui, exatamente?
-//なに堂々と入ってきてやがる。さてはオマエ馬鹿だな？　信じらんねぇくらいの馬鹿だ。=Você não pode simplesmente vir passear por aqui como se fosse natural. Ou você é burro demais para entender até mesmo isso?
-//チッ、クソが……いつかはこういうことをしてくるんじゃねぇかと思ってたぜ。=Bolas. Eu sabia que, mais cedo ou mais tarde, você iria puxar algo assim.
-//おいおい……覗きってのは、バレないようにするもんだぜ？　バレちまったら、それはもう覗きじゃねぇ。=Oh, vamos lá se você vai espreitar, pelo menos tente não ser pego! Caso contrário, qual é o objetivo?
