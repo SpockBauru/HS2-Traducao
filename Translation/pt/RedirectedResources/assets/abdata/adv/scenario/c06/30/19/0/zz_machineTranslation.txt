@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //セリフ{0}=Serif {0}
-???=????
+//???=????
 困りましたわ……=Ohhh.
 どうしましょう……=Eu não sei...
 //どこからか声が聞こえる・・・=Você ouviu uma voz...
