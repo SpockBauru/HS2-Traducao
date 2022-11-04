@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //H事後A普通{0}=
-//ふぅ、一人増えるだけで、大分違ってくるな。なかなか新鮮な気分だ。=
-//三人ってのも悪くねぇんじゃねぇか？　二人でしなきゃいけないってルールはねぇしな。=
+ふぅ、一人増えるだけで、大分違ってくるな。なかなか新鮮な気分だ。=Quem sabia? Você adiciona uma pessoa a mais, e de repente é uma experiência totalmente nova.
+三人ってのも悪くねぇんじゃねぇか？　二人でしなきゃいけないってルールはねぇしな。=Acontece que três pessoas são muito boas, não é? Além disso, não é como se fosse um crime ou algo assim.
 //H事後A好意{0}=
-//まぁ、こういうのもアリか。やれることも増えるしな。=
-//オマエの欲張りに付き合うのも、たまには悪くねぇかもな。=
+まぁ、こういうのもアリか。やれることも増えるしな。=Hm, nada mal. Três pessoas certamente lhe dá muitas opções.
+オマエの欲張りに付き合うのも、たまには悪くねぇかもな。=Você pode ser um canalha excitado, mas tem algumas boas idéias, eu lhe darei isso.
 //H事後A享楽{0}=
-//ハッ、この調子だと、どんどん人数が増えてきそうだな。=
-//おい、だらしねぇ顔してんじゃねぇぞ？　オレらを誘ったのはオマエなんだからな。=
+ハッ、この調子だと、どんどん人数が増えてきそうだな。=Será que o sexo é realmente uma situação do tipo "quanto mais melhor"?
+おい、だらしねぇ顔してんじゃねぇぞ？　オレらを誘ったのはオマエなんだからな。=Acorde, sua minhoca. Esta foi sua idéia, você sabe.
 //H事後A嫌悪{0}=
-//なかなか悪くねえが、やっぱりオマエが邪魔だな。=
-//一度オマエ抜きで、オレらだけでしてみてぇな。=
+なかなか悪くねえが、やっぱりオマエが邪魔だな。=Nada mal, acho eu. Mesmo assim, teria sido ainda melhor se você não estivesse lá.
+一度オマエ抜きで、オレらだけでしてみてぇな。=Eu gostaria de tentar fazer isso novamente algum dia... Mas sem você.
 //H事後A隷属{0}=
-//もうめちゃくちゃだな。まぁ、こういうのも嫌いじゃねぇが。=
-//コレにハマっちまったら、一人でなんて絶対満足できなくなりそうだ。=
+もうめちゃくちゃだな。まぁ、こういうのも嫌いじゃねぇが。=Ugh, estou uma bagunça. Mesmo assim, na verdade, foi um pouco excitante...
+コレにハマっちまったら、一人でなんて絶対満足できなくなりそうだ。=Se você se acostumar a isso, sexo com apenas uma pessoa não seria mais suficiente, não é mesmo?

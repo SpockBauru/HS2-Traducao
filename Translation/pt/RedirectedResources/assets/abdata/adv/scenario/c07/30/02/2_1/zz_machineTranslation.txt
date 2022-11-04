@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-オマエはどう思う？　意見を聞かせろ。=O que você acha? Vamos lá, diga o que você pensa.
-一応オマエの意見も聞いてやる。言ってみろ。=Suponho que não faria mal em perguntar o que você pensa. Então?
-おい、オマエの考えはどうだ？　聞かせてみろ。=Qual é a sua opinião? Vá, desembucha!
-聞くだけ無駄だと思うが……オマエも何か意見があるか？=Não sei por que estou perguntando isto, mas... Qual é a sua opinião, afinal?
-そうだな、一応オマエの意見も聞いておくか。=Eh, acho que poderia ser bom ouvir o que você pensa, por uma vez...
+//オマエはどう思う？　意見を聞かせろ。=O que você acha? Vamos lá, diga o que você pensa.
+//一応オマエの意見も聞いてやる。言ってみろ。=Suponho que não faria mal em perguntar o que você pensa. Então?
+//おい、オマエの考えはどうだ？　聞かせてみろ。=Qual é a sua opinião? Vá, desembucha!
+//聞くだけ無駄だと思うが……オマエも何か意見があるか？=Não sei por que estou perguntando isto, mas... Qual é a sua opinião, afinal?
+//そうだな、一応オマエの意見も聞いておくか。=Eh, acho que poderia ser bom ouvir o que você pensa, por uma vez...

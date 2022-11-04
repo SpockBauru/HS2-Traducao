@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-ぇ……ちょマ？　映画のセットとかっしょ？　アレ、マジで生きてんの……？=Hum, então isto é como um set de filmagem, ou? Espere, essas coisas estão se movendo?!
-アンタにならさ、何されてもって思ってたけど……バケモノ相手はちょっと……=Então, eu gosto de, tipo, você fazendo todo tipo de coisas estranhas comigo, mas essas coisas são uma história totalmente diferente!
-おっと、そうくる？　このパティーンは流石に誰も予想外っしょぉ……=Espere, tentáculos?! Meu aplicativo de horóscopo não disse nada sobre tentáculos quando o verifiquei esta manhã!
-アレ、絶対ヤバイ生き物だよね？　アンタの命令……ちゃんと聞くんだよね？=Meu Deus, você tem certeza de que essas coisas realmente fazem o que você lhes diz? Porque elas parecem bem selvagens!
-えーヤバ……エロい通り越してグロくない？　アタシ大丈夫かな……=Sinto-me como se tivéssemos saído de um território sensual e entrado diretamente no horror ou algo assim...
+//ぇ……ちょマ？　映画のセットとかっしょ？　アレ、マジで生きてんの……？=Hum, então isto é como um set de filmagem, ou? Espere, essas coisas estão se movendo?!
+//アンタにならさ、何されてもって思ってたけど……バケモノ相手はちょっと……=Então, eu gosto de, tipo, você fazendo todo tipo de coisas estranhas comigo, mas essas coisas são uma história totalmente diferente!
+//おっと、そうくる？　このパティーンは流石に誰も予想外っしょぉ……=Espere, tentáculos?! Meu aplicativo de horóscopo não disse nada sobre tentáculos quando o verifiquei esta manhã!
+//アレ、絶対ヤバイ生き物だよね？　アンタの命令……ちゃんと聞くんだよね？=Meu Deus, você tem certeza de que essas coisas realmente fazem o que você lhes diz? Porque elas parecem bem selvagens!
+//えーヤバ……エロい通り越してグロくない？　アタシ大丈夫かな……=Sinto-me como se tivéssemos saído de um território sensual e entrado diretamente no horror ou algo assim...

@@ -3,16 +3,16 @@
 //
 //なにしてたのA普通{0}=
 あ？　なんでいちいちオマエには言わねえといけねぇんだ？=Oh? Por que tenho que lhe dizer sempre o que quero?
-//教えねぇよ。女子同士の秘密ってやつだ。=
+教えねぇよ。女子同士の秘密ってやつだ。=Não é da sua conta. Coisas de garota, entendeu?
 //なにしてたのA好意{0}=
-//そういう詮索をいちいちするから、モテねぇんだよ。=
-//ハッ、オマエがどんだけアホかって話をしてたんだよ。=
+そういう詮索をいちいちするから、モテねぇんだよ。=Já se perguntou por que as garotas não gostam de você? É porque ninguém gosta de um intrometido!
+ハッ、オマエがどんだけアホかって話をしてたんだよ。=*humf* estávamos falando sobre o idiota colossal que você é.
 //なにしてたのA享楽{0}=
-//教えて欲しかったら、なんか一発芸でもしろ。=
-//オマエをどう苛めたら一番楽しいか、相談してたところだ。=
+教えて欲しかったら、なんか一発芸でもしろ。=Vamos ver: se você puder dizer algo interessante dentro dos próximos cinco segundos, talvez eu lhe diga.
+オマエをどう苛めたら一番楽しいか、相談してたところだ。=Estávamos apenas tentando descobrir como devemos puni-lo, na verdade.
 //なにしてたのA嫌悪{0}=
-//特になにもしてねぇよ。そもそもオマエに教える義理がねぇ。=
-//それを知ってどうするつもりだ？　どうせ厄介なことにしかならねぇだろうが。=
+特になにもしてねぇよ。そもそもオマエに教える義理がねぇ。=Nada. E mesmo se fôssemos, por que eu lhe contaria sobre isso?
+それを知ってどうするつもりだ？　どうせ厄介なことにしかならねぇだろうが。=O que você vai fazer se eu lhe disser, hein? Algo sujo, certo?
 //なにしてたのA隷属{0}=
-//本当に聞きたいか？　女同士のこういう話はエグいぞ？=
-//どこまでが苛めで、どこまでが弄りかって話をしてた。そんだけだ。=
+本当に聞きたいか？　女同士のこういう話はエグいぞ？=Tem certeza que você quer mesmo saber? A conversa das garotas pode ser muito dura para o ego masculino, imagino.
+どこまでが苛めで、どこまでが弄りかって話をしてた。そんだけだ。=Nada de especial. Apenas tentando descobrir exatamente até onde podemos empurrá-lo antes que você comece a chorar como um bebezinho.

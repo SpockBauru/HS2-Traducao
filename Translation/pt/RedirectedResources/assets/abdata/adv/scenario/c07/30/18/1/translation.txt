@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//よし、よく来た。とりあえずこれを解け。ちゃんとご褒美はやるから、変な気起こすなよ？=
-//一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=
-//おっと、ようやくお出ましか。色々試してみたが、この縄は一人じゃ解けねぇ。助けてくれたら、それなりの礼はするぜ？=
-//そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=
-//おい、余計なことは考えるなよ？　オマエはただ、オレの縄を解くことだけ考えてろ。=
-//いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=
-//どうだ？　そそる格好だろう？　でもまぁ、まずは助けろ。その後でなら、いくらでも付き合ってやるから。=
-//なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=
+よし、よく来た。とりあえずこれを解け。ちゃんとご褒美はやるから、変な気起こすなよ？=Ah, é você. Você pode me desamarrar? Eu lhe agradecerei apropriadamente depois, então nada de ficar com tesão na metade do caminho, entendeu?
+一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=Ah, e mais uma coisa: veja por onde anda colocando suas mãos lá embaixo. Nada de brincadeiras, entendeu?
+おっと、ようやくお出ましか。色々試してみたが、この縄は一人じゃ解けねぇ。助けてくれたら、それなりの礼はするぜ？=Ah, aí está você. Eu tentei de tudo, mas estas cordas simplesmente não cedem. Me ajuda? Eu prometo que você não vai se arrepender...
+そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=Oh, eu provavelmente deveria mencionar: deixe minha virilha em paz. Mexa comigo na minha hora de necessidade, e eu o farei pagar.
+おい、余計なことは考えるなよ？　オマエはただ、オレの縄を解くことだけ考えてろ。=Não sei que pensamentos nojentos você está tendo neste momento, mas esqueça. Você tem um trabalho: desamarre-me, agora mesmo.
+いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=E antes que você pense em mexer comigo, esqueça isso. Eu lhe pagaria de volta mil vezes.
+どうだ？　そそる格好だろう？　でもまぁ、まずは助けろ。その後でなら、いくらでも付き合ってやるから。=Esta situação é meio sexy, não é? Mesmo assim, você poderia simplesmente me desamarrar? Uma vez livre, você pode me usar como quiser...
+なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=Eu estou praticamente no meu limite absoluto aqui. Se isso te excita, tudo bem, mas tenha calma comigo, está bem?
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

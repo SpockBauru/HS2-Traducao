@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ムラムラした野生のスケベが来たっすよー。ご在宅っすかー？=
+ムラムラした野生のスケベが来たっすよー。ご在宅っすかー？=Uma cadela selvagem apareceu! Au de au! Alguém em casa?
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//……うーん、いないっすかー。残念、今日はオナニー三昧っすねー。=
+……うーん、いないっすかー。残念、今日はオナニー三昧っすねー。=Não há ninguém em casa? Hmm, acho que eu mesmo vou passar o dia inteiro com os dedos.

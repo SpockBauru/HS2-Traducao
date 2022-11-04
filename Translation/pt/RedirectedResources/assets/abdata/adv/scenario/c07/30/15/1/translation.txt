@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=
+よし、いたな。なんだか無性にオマエに会いたくなってな。悪い気はしないだろう？=Ótimo, você está aí. Por alguma razão, de repente, tive vontade de vir vê-lo. Este deve ser seu dia de sorte, hein?
 //好意50_汎用{0}=
-//よう、また来てやったぞ。嬉しいだろ？=
-//邪魔するぞ。オマエの部屋は居心地がいいんだ。少しゆっくりさせろ。=
-//さて、オレはオマエの部屋に来た。あとはオマエがどうするかだ。まさか、お茶を出して終わりってことはないよな？=
+よう、また来てやったぞ。嬉しいだろ？=Estou de volta. Contente de me ver novamente? Claro que vai.
+邪魔するぞ。オマエの部屋は居心地がいいんだ。少しゆっくりさせろ。=Eu novamente. Algo em seu quarto me faz sentir realmente relaxada, então me empreste por um tempo, ok?
+さて、オレはオマエの部屋に来た。あとはオマエがどうするかだ。まさか、お茶を出して終わりってことはないよな？=Bem, eu estou aqui. O resto é com você. Só espero que você não esteja planejando fazer uma maldita festa de chá ou algo assim.
 ・・・・・=...
 //好意50続き{0}=
-//オレとオマエのやりたいことは同じだと思ってたんだがな。まぁ、話してるだけでも、それなりに楽しかったが。=
-//部屋にまで押しかけられて、一晩中話して終わりとはな……意気地なしだと言われても文句は言えねぇぞ？=
-//一晩中オマエと話すってのも楽しかったが。やっぱ少し物足りねぇな。=
-//喜べ、会いにきてやったぞ。何か面白い話でもしろ。できないなら……そうだな、違うことでオレを楽しませろ。=
+オレとオマエのやりたいことは同じだと思ってたんだがな。まぁ、話してるだけでも、それなりに楽しかったが。=Eu pensei que você e eu queríamos a mesma coisa, mas eh... Pelo menos conversar foi muito divertido, eu acho.
+部屋にまで押しかけられて、一晩中話して終わりとはな……意気地なしだと言われても文句は言えねぇぞ？=Sabe, não vim até aqui só para conversar. Mesmo assim, é o que for, acho eu.
+一晩中オマエと話すってのも楽しかったが。やっぱ少し物足りねぇな。=Falar a noite fora foi realmente muito divertido. Mesmo assim, não posso deixar de sentir que falta algo...
+喜べ、会いにきてやったぞ。何か面白い話でもしろ。できないなら……そうだな、違うことでオレを楽しませろ。=Eu decidi sair com você, então você me entretém muito bem. Com uma boa conversa, ou... Algo mais?
 //好意80_汎用{0}=

@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 反応がないようだ=Ela parece estar dormindo.
-//はぁっ……んっ……んぅぁ……=
-//ん……すぅ……んぅぅ……=
+はぁっ……んっ……んぅぁ……=Ahh... Mnn... Nyahhh...
+ん……すぅ……んぅぅ……=Mnn... O-oh...
 CHOICE:こっそりHする=Sexo furtivo
 CHOICE:立ち去る=Sair

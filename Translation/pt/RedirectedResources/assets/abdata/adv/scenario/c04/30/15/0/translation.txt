@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おーい。いるー？　ちょっと開けてくんなーい？=
+おーい。いるー？　ちょっと開けてくんなーい？=Ei, você está aí? Importa-se de abrir por um segundo?
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//なんだ、居ないのか……マジ無駄足……だる……=
+なんだ、居ないのか……マジ無駄足……だる……=Pft, ele está fora? Pateta...

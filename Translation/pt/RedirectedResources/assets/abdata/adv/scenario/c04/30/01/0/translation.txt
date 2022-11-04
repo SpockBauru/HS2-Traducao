@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //汎用{0}=
-//んふ、いたいた♪　アタシに話しかけてくるのが遅いんじゃない？=
-//お、来たね。他の女に寄り道しないで、ちゃんとまっすぐアタシのとこに来た？=
-//遅い。アタシが会いたいなーと思ったら、察してすぐ来るのがアンタの役目でしょ？=
+んふ、いたいた♪　アタシに話しかけてくるのが遅いんじゃない？=Ah, aí está você ♪ Você não acha que deveria ter vindo falar comigo antes?
+お、来たね。他の女に寄り道しないで、ちゃんとまっすぐアタシのとこに来た？=Meu Deus, já não era sem tempo! É melhor que você não tenha parado para falar com nenhuma outra garota no caminho!
+遅い。アタシが会いたいなーと思ったら、察してすぐ来るのがアンタの役目でしょ？=Muito lento! Quando eu tiver vontade de falar com você, eu quero que você venha me ver imediatamente, entendeu?
 //風呂{0}=
-//へぇ、アタシのお風呂を待ち伏せ？　可愛いとこもあるじゃん♪=
-//他の女を覗いたりしてない？　アンタって節操無いから心配だわ。=
+へぇ、アタシのお風呂を待ち伏せ？　可愛いとこもあるじゃん♪=Você está tentando me pegar toda fresca do banho ou algo assim? Heh, que gracinha ♪
+他の女を覗いたりしてない？　アンタって節操無いから心配だわ。=É melhor você não estar olhando para nenhuma outra garota lá dentro! Eu sei como você é!
 //用件{0}=
-//で？　何の用？　なんて聞くまでも無いっしょ？　もちろん……エッチだよね？=
-//じゃ、即ヤリでいい？　その前になんか話とかあれば、聞いてあげるけど。=
+で？　何の用？　なんて聞くまでも無いっしょ？　もちろん……エッチだよね？=Então? O que você quer? Eu nem tenho que perguntar, tenho? É claro que você quer fazer sexo, certo?
+じゃ、即ヤリでいい？　その前になんか話とかあれば、聞いてあげるけど。=Então, vamos foder? Se há algo que você quer falar antes disso, eu sou toda ouvidos.
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

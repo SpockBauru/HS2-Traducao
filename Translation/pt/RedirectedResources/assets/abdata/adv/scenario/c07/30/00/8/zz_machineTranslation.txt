@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-話しだけってのも、まぁまぁ楽しめたな。=Considerando que tudo o que fizemos foi falar, isso não foi nem metade mal.
-退屈はしなかったな。また話してやってもいい。=Bem, pelo menos eu não estava entediada. Eu lhe dou permissão para falar comigo novamente algum dia.
+//話しだけってのも、まぁまぁ楽しめたな。=Considerando que tudo o que fizemos foi falar, isso não foi nem metade mal.
+//退屈はしなかったな。また話してやってもいい。=Bem, pelo menos eu não estava entediada. Eu lhe dou permissão para falar comigo novamente algum dia.
 //好意{0}=Amor{0}
-もうこんな時間か。つい話し込んじまったな。=Acabou a hora? Huh, eu estava tão ocupada falando com você que nem percebi.
-よし、そろそろ切り上げるか。話の続きはまた今度だ。=É hora de terminar as coisas. Podemos terminar o resto desta conversa mais tarde.
+//もうこんな時間か。つい話し込んじまったな。=Acabou a hora? Huh, eu estava tão ocupada falando com você que nem percebi.
+//よし、そろそろ切り上げるか。話の続きはまた今度だ。=É hora de terminar as coisas. Podemos terminar o resto desta conversa mais tarde.
 //享楽{0}=Excitada {0}
-話してるだけでも、結構時間が経つもんだな。それなりに楽しかったぞ。=Conversar não é a pior maneira de passar tempo com alguém, não é? Eu quase me diverti, de fato.
-オレと話せて嬉しかったろ？　興奮したか？=Admita: você gostou de falar comigo, não gostou? Isso o excitou, certo?
+//話してるだけでも、結構時間が経つもんだな。それなりに楽しかったぞ。=Conversar não é a pior maneira de passar tempo com alguém, não é? Eu quase me diverti, de fato.
+//オレと話せて嬉しかったろ？　興奮したか？=Admita: você gostou de falar comigo, não gostou? Isso o excitou, certo?
 //嫌悪{0}=Ódio {0}
-やっと終わったか。無駄に長いだけで、どうでもいい話だったな。=Pensei que a conversa nunca mais acabaria. Minha opinião? Longa, enfadonha e inútil.
-あぁ、時間を無駄にした。くだらねぇ話ばっかしやがって。=Bem, isso foi um desperdício total do meu tempo. Que carga completa de porcaria...
+//やっと終わったか。無駄に長いだけで、どうでもいい話だったな。=Pensei que a conversa nunca mais acabaria. Minha opinião? Longa, enfadonha e inútil.
+//あぁ、時間を無駄にした。くだらねぇ話ばっかしやがって。=Bem, isso foi um desperdício total do meu tempo. Que carga completa de porcaria...
 //隷属{0}=Submissa {0}
-さて、この辺で終わりにしとかねぇとな。ずっと話し込んじまいそうだ。=Vamos acabar as coisas aqui, hmm? Antes de falarmos a noite fora, quero dizer.
-オマエと話すのも悪くないな。次もオレを退屈させるなよ？=Falar com você não é tão ruim assim. Mesmo assim, não pense que isto significa que você recebe um passe livre ou qualquer outra coisa.
+//さて、この辺で終わりにしとかねぇとな。ずっと話し込んじまいそうだ。=Vamos acabar as coisas aqui, hmm? Antes de falarmos a noite fora, quero dizer.
+//オマエと話すのも悪くないな。次もオレを退屈させるなよ？=Falar com você não é tão ruim assim. Mesmo assim, não pense que isto significa que você recebe um passe livre ou qualquer outra coisa.

@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-泊まり込みでするってのは、気が楽でいいな。これからも、ちょくちょく利用させてもらうぞ。=Dormir é divertido, não é mesmo? Do jeito que isto está indo, posso até acabar me tornando uma cliente fiel.
+//泊まり込みでするってのは、気が楽でいいな。これからも、ちょくちょく利用させてもらうぞ。=Dormir é divertido, não é mesmo? Do jeito que isto está indo, posso até acabar me tornando uma cliente fiel.
 //汎用{0}=Objetivo Geral {0}
-あぁ、オマエのベッドは寝心地がいい。このまま住み着いてやろうか？=Droga, sua cama é confortável! Talvez eu devesse mudar minhas coisas para este quarto...
-同棲ってのは、こういう感じなのかもな。悪くない気分だ。本気で考えてみるか？=Acho que é esta a sensação de viver juntos, não é? Não é ruim... Já pensou em fazer isso de verdade?
-帰るのが面倒くさくなっちまったな。もう一晩泊って、またヤリまくるってのはどうだ？=Voltar para o meu quarto parece muito trabalho... Que tal eu ficar aqui e fodermos mais um pouco?
+//あぁ、オマエのベッドは寝心地がいい。このまま住み着いてやろうか？=Droga, sua cama é confortável! Talvez eu devesse mudar minhas coisas para este quarto...
+//同棲ってのは、こういう感じなのかもな。悪くない気分だ。本気で考えてみるか？=Acho que é esta a sensação de viver juntos, não é? Não é ruim... Já pensou em fazer isso de verdade?
+//帰るのが面倒くさくなっちまったな。もう一晩泊って、またヤリまくるってのはどうだ？=Voltar para o meu quarto parece muito trabalho... Que tal eu ficar aqui e fodermos mais um pouco?

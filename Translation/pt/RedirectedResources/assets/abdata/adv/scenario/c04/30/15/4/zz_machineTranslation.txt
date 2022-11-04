@@ -1,4 +1,4 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あんさ～、本当に帰っちゃっていいの？　引き止めるなら今のうちだよ？　わりとアタシ、今からでもオッケーだと思ってるよ？=Você tem certeza de que não se importa que eu vá? Se você quer fazer uma grande coisa dramática onde você me impeça, agora é a hora!
+//あんさ～、本当に帰っちゃっていいの？　引き止めるなら今のうちだよ？　わりとアタシ、今からでもオッケーだと思ってるよ？=Você tem certeza de que não se importa que eu vá? Se você quer fazer uma grande coisa dramática onde você me impeça, agora é a hora!

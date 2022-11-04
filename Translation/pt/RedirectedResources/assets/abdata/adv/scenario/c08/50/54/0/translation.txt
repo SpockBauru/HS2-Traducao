@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//おしゃんぽぉ、たのひいっふ……=
-//いっはい、あしょびたいっふ……=
-//このばひょ……たのひいっふ……=
-//もっほ、おしゃんぽひたいっふ……=
-//いっはい、たのひみたいっふ……=
-//きもひいのが……いいっふよぉ……=
+おしゃんぽぉ、たのひいっふ……=Andar a pé é tão divertido!
+いっはい、あしょびたいっふ……=Eu-eu quero brincar!
+このばひょ……たのひいっふ……=Eu realmente, realmente gosto... Este lugar...
+もっほ、おしゃんぽひたいっふ……=C-Caminhar, quero ir para mais caminhadas!
+いっはい、たのひみたいっふ……=Eu quero... Eu quero ter d-diversão!
+きもひいのが……いいっふよぉ……=Mas eu quero sentir... BEM também!

@@ -1,5 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あー、結構長く待たせちゃったね。ごめん……=Porcaria, sozinha eu meio que o deixei esperando por muito tempo, não é?
-んぅ……ちょーっと期待してたんだけどなぁ。待ってるだけじゃ暇だったでしょ？　だからほら……最高の暇潰しが、あったんじゃない？=Pft, entediante! Eu estava esperando que você fizesse algo mais interessante enquanto esperava do que apenas, bem, espere!
+//あー、結構長く待たせちゃったね。ごめん……=Porcaria, sozinha eu meio que o deixei esperando por muito tempo, não é?
+//んぅ……ちょーっと期待してたんだけどなぁ。待ってるだけじゃ暇だったでしょ？　だからほら……最高の暇潰しが、あったんじゃない？=Pft, entediante! Eu estava esperando que você fizesse algo mais interessante enquanto esperava do que apenas, bem, espere!

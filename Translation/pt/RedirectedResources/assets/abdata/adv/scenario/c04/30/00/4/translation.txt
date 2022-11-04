@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//うーん、また微妙なとこ突いてくるね～。=
-//……コイバナって、そこまで得意じゃないんだよねぇ。=
+うーん、また微妙なとこ突いてくるね～。=Sim, acho que você está ficando meio irritado por nada...
+……コイバナって、そこまで得意じゃないんだよねぇ。=Certo! Pelo menos agora nós dois sabemos que você não é bom em falar de romance e coisas assim, não é?
 //好意{0}=Amor{0}
-//あー分かる。分かりみが深い。=
-//とりま、もうちょい詳しく。=
+あー分かる。分かりみが深い。=Ooh, eu te entendo totalmente! Tipo, mil por cento!
+とりま、もうちょい詳しく。=Hmm, eu não sei... Me conte mais?
 //享楽{0}=Excitada {0}
-//……で、それをアタシに話して、どう答えて欲しい系？=
-//まー人それぞれっしょ。で、話は終わり？=
+……で、それをアタシに話して、どう答えて欲しい系？=Então, o que exatamente devo dizer a isso, afinal?
+まー人それぞれっしょ。で、話は終わり？=Eh, as pessoas são todas diferentes, certo? Então, nós terminamos?
 //嫌悪{0}=Ódio {0}
-//いや……そんなこと聞かれても困るし。=
-//あーパス……なんでアンタとそんな話しなきゃいけないわけ？=
+いや……そんなこと聞かれても困るし。=I... Basicamente não tenho idéia do que você quer que eu lhe diga neste momento.
+あーパス……なんでアンタとそんな話しなきゃいけないわけ？=Ugh, tire-me daqui... Por que eu tenho que ficar falando com alguém como você, afinal?!
 //隷属{0}=Submissa {0}
-//……へぇ、そういう考え方もあるんだ。=
+……へぇ、そういう考え方もあるんだ。=Huh, eu nunca ouvi ninguém falar disso dessa maneira antes...
 ……それってさ、アタシに気があるってこと？=Isso significa que você está interessado em mim?

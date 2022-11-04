@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//えっとーそれは下の口でって意味じゃなくてー上の口でって事すよねー？=
-//会話のレパートリーがスケベな話しかないすけど、それでもよかったら付き合ってやってほしいっすー。=
+えっとーそれは下の口でって意味じゃなくてー上の口でって事すよねー？=Você quer dizer com meus lábios aqui em cima, e não lá embaixo, certo?
+会話のレパートリーがスケベな話しかないすけど、それでもよかったら付き合ってやってほしいっすー。=Eu realmente só falo de sacanagem, mas se você estiver de acordo com isso, esteja à vontade.
 //好意{0}=Amor{0}
-//んーAVの話か官能小説の話かーあとはエロ漫画もイケるっすよ～♪=
-//お～、私もあなたと落ち着いてお話したかったので実はかなり嬉しいっすー。=
+んーAVの話か官能小説の話かーあとはエロ漫画もイケるっすよ～♪=Hmm... Podemos falar de sites pornográficos, literatura hentai manga - até mesmo literatura erótica se sentirmos que estamos à altura.
+お～、私もあなたと落ち着いてお話したかったので実はかなり嬉しいっすー。=Aaa, eu queria sentar-me e conhecê-lo melhor também.
 //享楽{0}=Excitada {0}
-//なんとーあなたにそこまで理性が残っていたとはー、ってディスってるみたいですみませんーOKすよー。=
-//あーピロートークの逆というかー最終的には合体しちゃうタイプの話っすかねー？=
+なんとーあなたにそこまで理性が残っていたとはー、ってディスってるみたいですみませんーOKすよー。=Oh, eu pensei que toda sua massa cinzenta escorria para dentro de seu pinto. Estou brincando, vamos conversar.
+あーピロートークの逆というかー最終的には合体しちゃうタイプの話っすかねー？=Conversa de travesseiro pré-sexo? Nós vamos transar, certo?
 //嫌悪{0}=Ódio {0}
-//まーいいっすけどー話題なんてあるんすかー？=
-//えー、ここってセックスする場所っすよねー？=
+まーいいっすけどー話題なんてあるんすかー？=Está bem, acho eu. Mas será que temos algo a conversar?
+えー、ここってセックスする場所っすよねー？=O quê? Você deveria apenas pedir para transar lá.
 //隷属{0}=Submissa {0}
 おしゃべりー……ハッ、焦らしプレイっすねー？=Conversar... Ah! Jogo de paciência, né?
-//さすがは私と同じスケベの権化～この前戯上手～。=
+さすがは私と同じスケベの権化～この前戯上手～。=Boas preliminares. Quase esqueci que você é a principal autoridade em sexo.
 CHOICE:親身になって話す=Conversar amigavelmente
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//ふーん、オマエはこういうチャラい場所が好きなのか？=
-//らしいっちゃらしいけど……なんか落ち着かねーなぁ……=
-//おい、どうせヤるんだろ？　だったらさっさと始めろよ。=
-//オレは普通の女みたいに、ムードが良くねぇとヤダとか言わねぇぞ？=
-//結局ヤルことは一緒なんだ、いちいち気にするだけ無駄だろ。=
-//まぁ……もしプールの中でするなら、面白そうではあるけどな……=
+ふーん、オマエはこういうチャラい場所が好きなのか？=Huh, eu não sabia que você gostava de lugares reluzentes como este.
+らしいっちゃらしいけど……なんか落ち着かねーなぁ……=Acho que isso lhe convém, mas com certeza não é muito relaxante.
+おい、どうせヤるんだろ？　だったらさっさと始めろよ。=De qualquer forma, vamos foder, certo? Então, vamos lá então.
+オレは普通の女みたいに、ムードが良くねぇとヤダとか言わねぇぞ？=Olha, eu não sou uma daquelas garotas que está toda tipo "Eu não posso entrar no clima a menos que você me leve a um lugar sexy", ok?
+結局ヤルことは一緒なんだ、いちいち気にするだけ無駄だろ。=Se eu vou transar com alguém, então eu só transo com ele e ponto. Eu não perco tempo me preocupando com os detalhes.
+まぁ……もしプールの中でするなら、面白そうではあるけどな……=Ainda assim, até eu tenho que admitir: fazer isso em uma piscina seria muito emocionante...
 オマエ、オレがこういうとこ来たらはしゃぐとでも思ったのか？=Você acha que eu ficaria animada em vir a um lugar como este?
 ハッ、浮かれてんのはオマエだけだよ。ま、とりあえず酒でも飲むか……=Ha, você é o único que está feliz. Bem, vamos apenas tomar uma bebida...
 どうせ酔わせて襲う気だったんだろ？　先に酔いつぶれたりすんなよ？=Você ia me embebedar e me atacar de qualquer maneira, não ia? Não se embriague primeiro, está bem?

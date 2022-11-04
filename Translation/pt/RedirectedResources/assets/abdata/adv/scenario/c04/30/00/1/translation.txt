@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//お話ね～。アンタ、なんか面白い話ないの？=
-//言い出しっぺの法則ってことで、アンタから何か話して。=
+お話ね～。アンタ、なんか面白い話ないの？=Tempo de conversa? Claro, estou dentro. Você fez alguma coisa interessante ultimamente?
+言い出しっぺの法則ってことで、アンタから何か話して。=Certo, mas você pode, tipo, começar as coisas e eu vou apenas ouvir?
 //好意{0}=Amor{0}
-//何の話したいん？　アタシも盛り上がれる話題がいいな～♪=
-//おけおけ、くだらない話でも、何でも聞くよ～。=
+何の話したいん？　アタシも盛り上がれる話題がいいな～♪=Ooh, sobre o que vamos falar? Algo totalmente excitante?
+おけおけ、くだらない話でも、何でも聞くよ～。=Haha, claro, vamos falar um com o outro até que algo interessante venha à tona!
 //享楽{0}=Excitada {0}
-//まずはお喋りとか、紳士的じゃん。んで、何か面白い話があんの？=
-//んじゃ、テキトーに話してー。下ネタとかでもいいよ♪=
+まずはお喋りとか、紳士的じゃん。んで、何か面白い話があんの？=Conversar antes do sexo? Maldito garoto, você tem jogo! Então, do que vamos falar?
+んじゃ、テキトーに話してー。下ネタとかでもいいよ♪=Claro! Podemos falar do que quiser... Até de coisas safadas ♪
 //嫌悪{0}=Ódio {0}
-//はいはい、テキトーに話してて。一応聞いててあげるから。=
-//はぁ、アンタ暇なの？　話相手がいない寂しんぼちゃん？　で、何の話よ？=
+はいはい、テキトーに話してて。一応聞いててあげるから。=Sim, sim, o que quer que seja. Basta começar a falar já, e eu começo a fingir que estou ouvindo ou o que quer que seja.
+はぁ、アンタ暇なの？　話相手がいない寂しんぼちゃん？　で、何の話よ？=Ugh, você ainda está aqui? Você é como um daqueles caras estranhos solitários ou... Oh, tudo bem, então continue falando!
 //隷属{0}=Submissa {0}
 お話タイムね。いーよー、いくらでも付き合う。=É hora de conversar. Está bem, eu sou toda sua.
 アタシに何か話したいことがあるん？　最近いいことあったとか？=Há alguma coisa que você queira me dizer? Algo de bom aconteceu com você ultimamente?

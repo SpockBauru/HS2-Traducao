@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//は？　本気で言ってんの？　そんなん許されないから！=
-//ふーん、自分の立場が分かってないんだ？　これもう、躾けとかじゃなくて、おしおき決定だねっ！=
+は？　本気で言ってんの？　そんなん許されないから！=Um, deixe-me deixar claro: suas opções aqui são sim ou sim, entendeu? "Não" não está no menu!
+ふーん、自分の立場が分かってないんだ？　これもう、躾けとかじゃなくて、おしおき決定だねっ！=Uau, você gostou de ficar seriamente descontrolado de repente? Acho que está na hora de lembrá-lo porque você está aqui!
 逃げ出した=Você escapou

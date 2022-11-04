@@ -2,12 +2,12 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //嫌悪{0}=Ódio {0}
-マジキモ……電車の中で発情するとか……サイテー。=Como, tipo, nojento... Não posso acreditar que você está excitado em um trem? Eca.
-痴漢て、した方が圧倒的に不利だかんね？　冤罪とかヨユーであるから。=Só para sua informação, os molestadores são tipo, totalmente fáceis de serem presos. Um grito meu, e a polícia não lhe fará perguntas, sabe?
-まぁアンタはマジでする気みたいだから……脅しにもならないのがムカつくわ、ホント……=Você parece que está 100% envolvido nisso? Ugh, me irrita um pouco que minha ameaça legal não esteja funcionando.
-あーやだやだ……なんでアタシがこんな変態の相手なんか……=Por que eu tenho que estar aqui com um pervertido nojento como você?
-どうせ今も、ヤルことしか考えてないんでしょ？　マジ最悪……=Tudo o que você está pensando é em sexo, certo? Sério, você é o pior.
-この際、痴漢で捕まってもらった方が……アタシ一人の犠牲で済むかも。=Será que serei a única a sofrer sua grosseria se eu te fizer ser preso por isso?
-アンタさ、ホント何処でも発情してるよね……なんかの病気なんじゃないの？=Você realmente fica excitado onde quer que vamos, não é? Será que é tipo, algum tipo de condição mental ou algo assim?
-早く電車下りてさ、病院行きなよ……そっちに付き合う方がまだマシ……=Certo, idéia: que tal sairmos do trem e irmos visitar um psiquiatra? Eu até me sento com você na sala de espera!
-ねぇ、痴漢はヤバイって……脳みそお猿さんなアンタでも分かるっしょ？=Você está me ouvindo, ou seu cérebro está realmente no seu pinto agora mesmo? Sexo no trem é uma má idéia, entendeu?!
+//マジキモ……電車の中で発情するとか……サイテー。=Como, tipo, nojento... Não posso acreditar que você está excitado em um trem? Eca.
+//痴漢て、した方が圧倒的に不利だかんね？　冤罪とかヨユーであるから。=Só para sua informação, os molestadores são tipo, totalmente fáceis de serem presos. Um grito meu, e a polícia não lhe fará perguntas, sabe?
+//まぁアンタはマジでする気みたいだから……脅しにもならないのがムカつくわ、ホント……=Você parece que está 100% envolvido nisso? Ugh, me irrita um pouco que minha ameaça legal não esteja funcionando.
+//あーやだやだ……なんでアタシがこんな変態の相手なんか……=Por que eu tenho que estar aqui com um pervertido nojento como você?
+//どうせ今も、ヤルことしか考えてないんでしょ？　マジ最悪……=Tudo o que você está pensando é em sexo, certo? Sério, você é o pior.
+//この際、痴漢で捕まってもらった方が……アタシ一人の犠牲で済むかも。=Será que serei a única a sofrer sua grosseria se eu te fizer ser preso por isso?
+//アンタさ、ホント何処でも発情してるよね……なんかの病気なんじゃないの？=Você realmente fica excitado onde quer que vamos, não é? Será que é tipo, algum tipo de condição mental ou algo assim?
+//早く電車下りてさ、病院行きなよ……そっちに付き合う方がまだマシ……=Certo, idéia: que tal sairmos do trem e irmos visitar um psiquiatra? Eu até me sento com você na sala de espera!
+//ねぇ、痴漢はヤバイって……脳みそお猿さんなアンタでも分かるっしょ？=Você está me ouvindo, ou seu cérebro está realmente no seu pinto agora mesmo? Sexo no trem é uma má idéia, entendeu?!

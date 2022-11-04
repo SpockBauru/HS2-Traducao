@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
-んじゃ、そろそろお開きでいーのかな？　またね～♪=Certo! Isto tem sido divertido e tudo mais, mas está na hora de ir, certo? Até mais tarde ♪
-さて、じゃあ解散しよっか？　じゃーね～♪=Suponho que todas as coisas boas, tipo literalmente chegam ao fim, não é? Tchau ♪
+//んじゃ、そろそろお開きでいーのかな？　またね～♪=Certo! Isto tem sido divertido e tudo mais, mas está na hora de ir, certo? Até mais tarde ♪
+//さて、じゃあ解散しよっか？　じゃーね～♪=Suponho que todas as coisas boas, tipo literalmente chegam ao fim, não é? Tchau ♪
 //会話事後A好意{0}=Um favor após a conversa {0}
-名残惜しいけど、そろそろ解散かな？　で、いいよね？=Estou realmente adorando a vibração que temos aqui, mas ainda assim, prova o tempo em que terminamos as coisas...
-はい、んじゃーお話終わり！　このままだとずっと喋ってそうだし。=Ok, vamos acabar com isso antes que eu fale tanto que meu queixo caia da minha cara!
+//名残惜しいけど、そろそろ解散かな？　で、いいよね？=Estou realmente adorando a vibração que temos aqui, mas ainda assim, prova o tempo em que terminamos as coisas...
+//はい、んじゃーお話終わり！　このままだとずっと喋ってそうだし。=Ok, vamos acabar com isso antes que eu fale tanto que meu queixo caia da minha cara!
 //会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
-話してるだけでも気持ちよくなれるもんななんだねー。でも、そろそろ自重しとこっか？=Ugh ok, para tudo! Estou me divertindo demais falando com vocês e isso na verdade está me assustando!
-ではでは、この辺で終わっとく？　あんま長話してもアレだしね。=Quer parar por aqui? Falar é como um post de mídia social, qualquer coisa mais do que trinta segundos é uma chatice!
+//話してるだけでも気持ちよくなれるもんななんだねー。でも、そろそろ自重しとこっか？=Ugh ok, para tudo! Estou me divertindo demais falando com vocês e isso na verdade está me assustando!
+//ではでは、この辺で終わっとく？　あんま長話してもアレだしね。=Quer parar por aqui? Falar é como um post de mídia social, qualquer coisa mais do que trinta segundos é uma chatice!
 //会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
-もう終わりでいーしょっ？　話してるだけで疲れてきちゃった。=Ok, então esta conversa está realmente me aborrecendo até a morte, então podemos parar?
-んじゃ、アタシはもう帰るから。続けたい方はご自由にー。=E eu estou fora. Se vocês quiserem continuar sem mim, então fiquem à vontade, está bem?
+//もう終わりでいーしょっ？　話してるだけで疲れてきちゃった。=Ok, então esta conversa está realmente me aborrecendo até a morte, então podemos parar?
+//んじゃ、アタシはもう帰るから。続けたい方はご自由にー。=E eu estou fora. Se vocês quiserem continuar sem mim, então fiquem à vontade, está bem?
 //会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
-さてと……どっかで切らないと、ずっと続きそうだし。ここらでお別れかな～？=Tudo bem, isto tem sido incrível e tudo mais, mas se não nos despedirmos agora estaremos aqui para sempre, certo? Então, adeus!
-じゃ、それっぽくまとまったってことで。かいさーん！=Este parece ser uma boa hora para sair de fininho, certo? Até mais, pessoal!
+//さてと……どっかで切らないと、ずっと続きそうだし。ここらでお別れかな～？=Tudo bem, isto tem sido incrível e tudo mais, mas se não nos despedirmos agora estaremos aqui para sempre, certo? Então, adeus!
+//じゃ、それっぽくまとまったってことで。かいさーん！=Este parece ser uma boa hora para sair de fininho, certo? Até mais, pessoal!

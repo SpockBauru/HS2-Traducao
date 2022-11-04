@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //依存{0}=Dependência {0}
-//新婚初夜って、素敵ですね……=
-//早く……家族を増やしていきたいです。=
-//素敵な初夜でしたね……=
-//私、あなたなしではいられませんから……=
-//初夜の契り……結んでいただけましたね……=
-//この契り……私は絶対に破りませんから。=
+新婚初夜って、素敵ですね……=Não há nada mais romântico do que uma noite de núpcias.
+早く……家族を増やしていきたいです。=Eu... Quero criar uma família com você.
+素敵な初夜でしたね……=Foi uma bela consumação.
+私、あなたなしではいられませんから……=Eu... Não posso viver sem você.
+初夜の契り……結んでいただけましたね……=Assim, nosso casamento está consumado agora.
+この契り……私は絶対に破りませんから。=Juro isto: Jamais quebrarei meus votos para você.

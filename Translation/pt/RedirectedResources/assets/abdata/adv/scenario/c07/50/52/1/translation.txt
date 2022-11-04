@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//オマエといると、人生最悪な日が更新され続ける……=
-//中でも今日はダントツだ……はぁ、早く寝て忘れてぇ……=
-//バレなかったのはただの奇跡だ。もしくは他の連中が気ぃ使ってくれたのかもな……=
-//おい、今から自首しにいくか？　少しは罪が軽くなるかもしれねぇぞ？=
-//チッ、オマエの顔は当分見たくねぇ……=
-//電車に変なトラウマ持たせやがって……どうしてくれんだまったく……=
+オマエといると、人生最悪な日が更新され続ける……=Estar com você é como estar preso em um pesadelo sem fim, você sabe disso?
+中でも今日はダントツだ……はぁ、早く寝て忘れてぇ……=Hoje foi apenas o pior... Acho que vou apenas dormir e tentar esquecer isso.
+バレなかったのはただの奇跡だ。もしくは他の連中が気ぃ使ってくれたのかもな……=É um maldito milagre não termos sido pegos, seu idiota. Ou talvez tenhamos sido, e as pessoas estavam apenas sendo educadas?
+おい、今から自首しにいくか？　少しは罪が軽くなるかもしれねぇぞ？=De qualquer forma, quer encontrar uma delegacia de polícia e simplesmente se entregar? Ouvi dizer que eles pegam mais leve assim...
+チッ、オマエの顔は当分見たくねぇ……=Ugh, eu nem quero olhar para você neste momento...
+電車に変なトラウマ持たせやがって……どうしてくれんだまったく……=Se eu acabar recebendo uma fobia de trem ou algo assim, você vai pagar muito bem pela minha terapia!

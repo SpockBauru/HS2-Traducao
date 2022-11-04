@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//こんりゃのつづけらら、あらまがおがひぐなる……=
-//もうしゃんぽは終わりら……じゅうぶんたのしんららろう？=
-//うぅ、あらまがまっしおれ……にゃにもかんがぇられにゃい……=
-//どんろんおぇがこぁえれいくぅ……しょえだけは分かりゅう……=
-//はぁ……もうおぁいかぁ？　まんじょく……しらんらなぁ？=
-//あぁ、いっきりちかぁがぬけら……あるけにゃいかぁ、おぶっれかぇれぇ……=
+こんりゃのつづけらら、あらまがおがひぐなる……=Se isto continuar por muito mais tempo, acho que na verdade vou ficar louca.
+もうしゃんぽは終わりら……じゅうぶんたのしんららろう？=Vamos terminar esta caminhada, ok? Você já se divertiu.
+うぅ、あらまがまっしおれ……にゃにもかんがぇられにゃい……=Isto está mesmo mexendo com a minha cabeça... Eu mal consigo pensar direito.
+どんろんおぇがこぁえれいくぅ……しょえだけは分かりゅう……=Tudo o que sei é que começo a gostar muito disto...
+はぁ……もうおぁいかぁ？　まんじょく……しらんらなぁ？=Ahh... Estamos conversados? Você está satisfeito, certo?
+あぁ、いっきりちかぁがぬけら……あるけにゃいかぁ、おぶっれかぇれぇ……=Eu não posso realmente mexer minhas pernas agora, então você vai ter que me carregar de volta...

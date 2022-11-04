@@ -1,9 +1,9 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-おい、バレてんぞ……コソコソしても無駄だ、ぶっ飛ばされねぇうちに出てけ。=O jogo está de pé, cretino. Agora pare de espreitar e saia daqui antes que eu o mande voar.
-おい……オマエだオマエ、そこで覗いてる変態に話しかけてんだよ。ったく、バレてねぇとでも思ってたのか？=Ei, você! Sim, você, o canalha que está espreitando! O quê, você pensou que eu não tinha notado você?
-そこの変態。もうバレちまってんだ。なら開き直っちまうのも手だと思うが……どうすんだ？=Seu pervertido! Eu estou acima de você, entendeu? Apresse-se e admita o que você está aqui antes que eu mude de idéia...
-で？　そこのゴミクズは、いつまでオレを覗いてるつもりなんだ？　熱湯でもぶっかけらんねぇと、分かんねぇか？=Então? Qual é o plano, aberração? Vai ficar me encarando até que eu te espirre com água fervente, ou o quê?
-たく……言えば裸くらい見せてやるのによ。まぁアレだろ？　覗いてるって興奮がいいんだろ？　この変態め。=Pelo amor de... Se você apenas perguntasse, eu o deixaria assistir, certo? Ou espera - você é do tipo que prefere o proibido?
+//おい、バレてんぞ……コソコソしても無駄だ、ぶっ飛ばされねぇうちに出てけ。=O jogo está de pé, cretino. Agora pare de espreitar e saia daqui antes que eu o mande voar.
+//おい……オマエだオマエ、そこで覗いてる変態に話しかけてんだよ。ったく、バレてねぇとでも思ってたのか？=Ei, você! Sim, você, o canalha que está espreitando! O quê, você pensou que eu não tinha notado você?
+//そこの変態。もうバレちまってんだ。なら開き直っちまうのも手だと思うが……どうすんだ？=Seu pervertido! Eu estou acima de você, entendeu? Apresse-se e admita o que você está aqui antes que eu mude de idéia...
+//で？　そこのゴミクズは、いつまでオレを覗いてるつもりなんだ？　熱湯でもぶっかけらんねぇと、分かんねぇか？=Então? Qual é o plano, aberração? Vai ficar me encarando até que eu te espirre com água fervente, ou o quê?
+//たく……言えば裸くらい見せてやるのによ。まぁアレだろ？　覗いてるって興奮がいいんだろ？　この変態め。=Pelo amor de... Se você apenas perguntasse, eu o deixaria assistir, certo? Ou espera - você é do tipo que prefere o proibido?
 //おい、いつまで覗いてるつもりだ？　見てるだけで満足なのか？　そうじゃねぇだろ？=Ei, por quanto tempo você vai continuar espreitando? Você está apenas feliz de assistir? Você não está, está?

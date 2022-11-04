@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//あーはいはい、そっち系の話ね。アンタも好きだねぇ……=
-//えぇっ、いきなりそういう話をされてもねぇ……=
+あーはいはい、そっち系の話ね。アンタも好きだねぇ……=Ok, eu sei onde você está indo com esta conversa, e adivinhe o que? Eu gosto disso!
+えぇっ、いきなりそういう話をされてもねぇ……=Ummm yeah look, isso é um pouco demais para mim, realmente...
 //好意{0}=Amor{0}
-//ちょ、あんま大きい声でそういうこと話さないっ。=
-//え……それマジで言ってる？=
+ちょ、あんま大きい声でそういうこと話さないっ。=Fale baixo! E se alguém, tipo, ouve você?!
+え……それマジで言ってる？=... Espere, você está realmente falando sério agora?
 //享楽{0}=Excitada {0}
-//……うーん、アタシは気持ちければ基本なんでもいーよ♪=
-//あはっ、下ネタですかぁ？　んふふ、アタシ以外にはそういう話しない方がいいよ？=
+……うーん、アタシは気持ちければ基本なんでもいーよ♪=Quer dizer, sim, se for bom, então vá com ele, certo?
+あはっ、下ネタですかぁ？　んふふ、アタシ以外にはそういう話しない方がいいよ？=Ooh, conversa suja? Certo, um segundo antes vi algumas frases nas redes sociais que estou morrendo de vontade de experimentar!
 //嫌悪{0}=Ódio {0}
-//は？　知らないし……キモ……=
-//てかさ、いきなり下ネタ振ってくるとか。アンタって下半身に脳がついてんの？=
+は？　知らないし……キモ……=O quê? Ew, não...
+てかさ、いきなり下ネタ振ってくるとか。アンタって下半身に脳がついてんの？=Com esse papo, começo a me perguntar se seu cérebro está literalmente no seu pau...
 //隷属{0}=Submissa {0}
 うわ……結構ズバっとくるね。返し悩むわぁ……=Uau... Isso é bem direto ao ponto. Não sei como responder...
-//……ねぇ、アタシはいいけど。あんま大きい声でそういう話しない方がよくない？=
+……ねぇ、アタシはいいけど。あんま大きい声でそういう話しない方がよくない？=Olha, eu topo fazer esse tipo de coisa, ok? Mas você ainda deve manter sua voz baixa!

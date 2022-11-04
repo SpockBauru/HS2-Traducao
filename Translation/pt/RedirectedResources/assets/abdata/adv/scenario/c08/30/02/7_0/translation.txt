@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答A普通{0}=
-//えー、本当は３Ｐしたかったんじゃないすかー？=
-//なんか怪しい～。裸の付き合いをするんだから隠し事はなしっす。=
+えー、本当は３Ｐしたかったんじゃないすかー？=Ora, você sabe que quer uma ménage à trois.
+なんか怪しい～。裸の付き合いをするんだから隠し事はなしっす。=Você está escondendo algo? Vamos ficar nus de qualquer maneira - nos dê a verdade nua.
 //なんでもない返答A好意{0}=
-//通りすがりのノットスケベさんだったんすねー。スケベさんになったらまた会いに来てほしいっすー。=
-//なんでもないなら仕方ないっすねー。=
+通りすがりのノットスケベさんだったんすねー。スケベさんになったらまた会いに来てほしいっすー。=Você deixou seu tesão na porta ou algo assim? Volte quando o encontrar.
+なんでもないなら仕方ないっすねー。=Bem, se você não tem nada, você não tem nada.
 //なんでもない返答A享楽{0}=
-//ええ～？　エロでスケベで変態でー性欲が服着て歩いているような人がなんでもないんすかー？=
-//まさかのセックスフェイントっすかー？=
+ええ～？　エロでスケベで変態でー性欲が服着て歩いているような人がなんでもないんすかー？=O quê? Você não quer nada com uma pessoa que é erótica, lasciva, pervertida, e cujo desejo sexual é como a encarnação do tesão?
+まさかのセックスフェイントっすかー？=Você está sendo um provocador?
 //なんでもない返答A嫌悪{0}=
-//あー挨拶だったんすねー。どもっすー。=
-//え、じゃーなんで話しかけたんすかー？=
+あー挨拶だったんすねー。どもっすー。=Você só está dizendo oi.
+え、じゃーなんで話しかけたんすかー？=Espere, por que você veio até aqui então?
 //なんでもない返答A隷属{0}=
-//またそうやって焦らしプレイするんすからー。=
-//私がヤッてほしげ～な目をしてたからー逆にそっけない態度取るんすね～？=
+またそうやって焦らしプレイするんすからー。=Você está se fazendo de difícil novamente, não está?
+私がヤッてほしげ～な目をしてたからー逆にそっけない態度取るんすね～？=Psicologia reversa, eh? Não vou cair nessa.

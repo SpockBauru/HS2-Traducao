@@ -2,5 +2,5 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //セリフ{0}=Serif {0}
-いい返事だ。まぁ、断るなんて選択肢はそもそもオマエには無いんだがな。=Bom. Não que eu fosse aceitar um não como resposta, de qualquer forma.
-よし、それでいい。素直なやつは嫌いじゃないぞ。他の女に浮気したことは、まぁ多目にみてやる。=Perfeito. Eu gosto de um homem que faz o que lhe é dito. Continue assim, e eu talvez até perdoe por brincadeiras.
+//いい返事だ。まぁ、断るなんて選択肢はそもそもオマエには無いんだがな。=Bom. Não que eu fosse aceitar um não como resposta, de qualquer forma.
+//よし、それでいい。素直なやつは嫌いじゃないぞ。他の女に浮気したことは、まぁ多目にみてやる。=Perfeito. Eu gosto de um homem que faz o que lhe é dito. Continue assim, e eu talvez até perdoe por brincadeiras.

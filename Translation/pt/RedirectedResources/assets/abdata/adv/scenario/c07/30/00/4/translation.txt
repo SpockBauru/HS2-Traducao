@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//そうか、オレには縁の薄い話だな。=
-//まぁ、分からなくもねぇが……=
+そうか、オレには縁の薄い話だな。=Lembre-me, por que eu deveria me importar com isso novamente?
+まぁ、分からなくもねぇが……=Acho que sei de onde você está querendo chegar, mas mesmo assim...
 //好意{0}=Amor{0}
-//そんなもんだろ？　深く考える程のことでもねぇよ。=
-//まー、人それぞれだな。オレにはよく分からん。=
+そんなもんだろ？　深く考える程のことでもねぇよ。=Meh. Isso é apenas vida, não há necessidade de levar isso tão a sério.
+まー、人それぞれだな。オレにはよく分からん。=Todos são diferentes, acho eu. Pessoalmente, não tenho certeza se entendi o que está falando...
 //享楽{0}=Excitada {0}
-//なぁ……この話、楽しいか？=
-//……そういうこともある。いちいち気にしてたらキリがねぇ。=
+なぁ……この話、楽しいか？=Esta conversa é... Divertida, para você?
+……そういうこともある。いちいち気にしてたらキリがねぇ。=Às vezes é assim mesmo, certo? Não adianta ficar todo nervoso por causa disso.
 //嫌悪{0}=Ódio {0}
-//ったく、オマエには一番似合わねぇ話だな。=
-//……オマエの話はしつこいんだよ。もっと要領よく話せ。=
+ったく、オマエには一番似合わねぇ話だな。=Dica quente: você precisa encontrar um novo tópico de conversa, o mais rápido possível. Este não lhe convém.
+……オマエの話はしつこいんだよ。もっと要領よく話せ。=Ugh, você só se voa infinitamente, não é mesmo? Você não pode simplesmente ir direto ao assunto?
 //隷属{0}=Submissa {0}
-//……で？　この話はいつまで続くんだ？=
-//理屈じゃねぇことを考えても、埒が明かねぇだろ。=
+……で？　この話はいつまで続くんだ？=Então, quando esta conversa deve terminar, exatamente?
+理屈じゃねぇことを考えても、埒が明かねぇだろ。=Olhe, pensar em coisas como essas é apenas uma perda de tempo.

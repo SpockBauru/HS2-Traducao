@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ところで、アンタはどーなん？　何か思うところある？=
-//アンタの意見はどう？　なんかある？=
+ところで、アンタはどーなん？　何か思うところある？=Já que estamos falando sobre o assunto, o que você acha?
+アンタの意見はどう？　なんかある？=Tenho certeza que você também tem alguma opinião sobre isso, certo?
 んじゃ、アンタの考えも聞かせてもらおっかな？=Então, você poderia nos dizer o que pensa?
-//聞くだけ無駄だと思うけど、アンタはどう思うの？=
+聞くだけ無駄だと思うけど、アンタはどう思うの？=Eu não sei porque estou perguntando isto, mas: o que você acha?
 とりま、アンタの意見も聞きたいかな？=De qualquer forma, eu poderia ouvir sua opinião também?

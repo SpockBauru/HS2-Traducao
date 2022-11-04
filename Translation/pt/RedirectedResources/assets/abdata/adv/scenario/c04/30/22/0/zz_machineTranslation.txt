@@ -4,4 +4,4 @@
 //セリフ{0}=Serif {0}
 //………………=・・・・・・
 //ぁ……ぅ……らに？　ん……ぁんらとすぇばぃーろ？=O que é isso? Oh, então eu deveria, tipo, fazê-lo... Com você?
-ん……ぁく……まらやぅろ？　んぅ、どーしゅんろぉ？=Novamente? Sério?
+//ん……ぁく……まらやぅろ？　んぅ、どーしゅんろぉ？=Novamente? Sério?

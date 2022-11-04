@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あれ……アンタもお風呂？　んふふっ、もしや……アタシを追いかけてきたとか？=
-//うわ、いたんなら言ってよ。アンタとなら、一緒に入ってあげても良かったのに♪=
-//へぇ、こんなところで偶然じゃん！　なんて……どうせ覗いてたんしょぉ？　正直に言ってみなー？=
-//あーいたんだ。存在感薄くて気付かなかった。=
-//ありゃ、そんなとこにいたんだ。うーん、丁度綺麗にしてきたとこだから……今はちょっと汗かきたくないかも……=
+あれ……アンタもお風呂？　んふふっ、もしや……アタシを追いかけてきたとか？=Oh, você está aqui para um banho? Ou espera, você está apenas fingindo estar aqui para um banho, mas na verdade você está aqui por mim?
+うわ、いたんなら言ってよ。アンタとなら、一緒に入ってあげても良かったのに♪=Huh, você também está aqui? Você deveria ter me avisado antes que eu teria esperado por você ♪
+へぇ、こんなところで偶然じゃん！　なんて……どうせ覗いてたんしょぉ？　正直に言ってみなー？=Huh, não esperava encontrar você aqui! Estava brincando, eu sabia que você tentaria me espiar de surpresa! Então? Como foi?
+あーいたんだ。存在感薄くて気付かなかった。=Oh, você também está aqui? Você é tão, tipo, silencioso? Tipo, como uma pessoa? Que eu mal notei você.
+ありゃ、そんなとこにいたんだ。うーん、丁度綺麗にしてきたとこだから……今はちょっと汗かきたくないかも……=Oh, olá, você também está aqui? Hm, na verdade acabei de ficar limpa, então se possível prefiro não ficar todo suada de novo, ok?

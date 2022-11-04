@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-どーよ♪　アタシの部屋に入れてもらえるなんて、アンタ幸せもんなんだかんね？=Você não está assim tão #abençoado agora, estando no meu quarto e tudo mais? ♪
-アタシの部屋によーこそ♪　ま、別にフツーっしょ？　キンチョーとかする必要ないかんね？=Então, este é meu quarto... Legal, não é? Sem fotos, está bem? Se meus fãs descobrirem que eu tinha você aqui, eles na verdade morreriam...
-ほい、ここがアタシの部屋。好き放題するには、ちょーどいい場所っしょ？=Então este sou eu! Como o que eu fiz com o lugar? Pessoalmente, acho que é o tipo de quarto certo para fazer sacanagem!
-変なことしたら、秒で出てってもらうから。ここはアタシの部屋だってこと、覚えときなよ？=Escutem: meu quarto, minhas regras, está bem? Você tenta qualquer coisa estranha aqui dentro e está fora, entendeu?
-アンタになら、合鍵あげちゃってもいっかな～♪　なんて、少し期待しちゃった？　アハッ、ウケる♪=Oh meu Deus, você quer que eu lhe dê uma chave sobressalente? Hah! Você deveria ter visto seu rosto agora mesmo ♪
+//どーよ♪　アタシの部屋に入れてもらえるなんて、アンタ幸せもんなんだかんね？=Você não está assim tão #abençoado agora, estando no meu quarto e tudo mais? ♪
+//アタシの部屋によーこそ♪　ま、別にフツーっしょ？　キンチョーとかする必要ないかんね？=Então, este é meu quarto... Legal, não é? Sem fotos, está bem? Se meus fãs descobrirem que eu tinha você aqui, eles na verdade morreriam...
+//ほい、ここがアタシの部屋。好き放題するには、ちょーどいい場所っしょ？=Então este sou eu! Como o que eu fiz com o lugar? Pessoalmente, acho que é o tipo de quarto certo para fazer sacanagem!
+//変なことしたら、秒で出てってもらうから。ここはアタシの部屋だってこと、覚えときなよ？=Escutem: meu quarto, minhas regras, está bem? Você tenta qualquer coisa estranha aqui dentro e está fora, entendeu?
+//アンタになら、合鍵あげちゃってもいっかな～♪　なんて、少し期待しちゃった？　アハッ、ウケる♪=Oh meu Deus, você quer que eu lhe dê uma chave sobressalente? Hah! Você deveria ter visto seu rosto agora mesmo ♪

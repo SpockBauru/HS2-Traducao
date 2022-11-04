@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//よお、なんとなくオマエが来る気がしてたぜ。意味分かんねぇ状況だと思うが、とりあえず助けてくれ。=
-//一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=
-//ハッ、笑っちまうだろ？　俺も少しの間は笑ってた。だけどな……流石に飽きた。とにかくオレを抜いてくれ。=
-//そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=
-//ぁー、まさかオマエが来るとはな。最悪だが、本気で最悪なのは誰も来ないことだ。ほら、早くオレを助けろ。=
-//いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=
-//はぁ、無様を晒しちまったな。少しくらいの悪戯は勘弁してやるが、ちゃんと最後は助けろよ？=
-//なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=
+よお、なんとなくオマエが来る気がしてたぜ。意味分かんねぇ状況だと思うが、とりあえず助けてくれ。=Ahh, eu tinha um pressentimento de que você acabaria por aparecer. Eu sei como isto parece estranho, mas me ajude, está bem?
+一つ言い忘れたことがある。助ける時にだ……オレの身体をあまり強く掴んだりするな。いいな？　オレは忠告したぞ？=Ah, e mais uma coisa: veja por onde anda colocando suas mãos lá embaixo. Nada de brincadeiras, entendeu?
+ハッ、笑っちまうだろ？　俺も少しの間は笑ってた。だけどな……流石に飽きた。とにかくオレを抜いてくれ。=Isto é quase engraçado, certo? Eu também ri, pelo menos no começo... De qualquer forma, apresse-se e me tire daqui.
+そうだ、一つだけ忠告しておく。オレの下半身をあまり弄るな。オレもひどいことになるが、オマエはそれ以上にやばいことになるぞ？=Oh, eu provavelmente deveria mencionar: deixe minha virilha em paz. Mexa comigo na minha hora de necessidade, e eu o farei pagar.
+ぁー、まさかオマエが来るとはな。最悪だが、本気で最悪なのは誰も来ないことだ。ほら、早くオレを助けろ。=Ugh, você? Que pesadelo absoluto... Ainda assim, suponho que você é melhor do que nada. Tire-me daqui já.
+いいか？　オレの下腹部には絶対に触るな。どうなっても知らねぇぞ？=E antes que você pense em mexer comigo, esqueça isso. Eu lhe pagaria de volta mil vezes.
+はぁ、無様を晒しちまったな。少しくらいの悪戯は勘弁してやるが、ちゃんと最後は助けろよ？=Ugh, isto é embaraçoso. Olhe, você pode brincar um pouco comigo se quiser, mas só me ajude depois, ok?
+なんとなく分かってるとは思うが……オレは今、色々と限界だ。オマエがそういう趣味なら止めないが、冷静に考えろよ？=Eu estou praticamente no meu limite absoluto aqui. Se isso te excita, tudo bem, mas tenha calma comigo, está bem?
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

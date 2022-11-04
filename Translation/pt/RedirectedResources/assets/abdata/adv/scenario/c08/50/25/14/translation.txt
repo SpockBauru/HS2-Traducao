@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ここも、静かで悪くないっすね～。=
-//ここっすか？　確かに、いい雰囲気っすねー。=
-//こんな所に連れてきて、何をするつもりっすか？=
-//こんな所じゃ、何にも見えないんじゃないっすか？　何があるんすか？=
-//こんな所で、二人でする事なんて……決まってるような気がするっすよー？=
+ここも、静かで悪くないっすね～。=Aqui é agradável e tranquilo.
+ここっすか？　確かに、いい雰囲気っすねー。=É este o lugar? Estou curtindo o ambiente.
+こんな所に連れてきて、何をするつもりっすか？=O que você tem em mente, me trazer até aqui?
+こんな所じゃ、何にも見えないんじゃないっすか？　何があるんすか？=Está muito escuro. O que está acontecendo aqui?
+こんな所で、二人でする事なんて……決まってるような気がするっすよー？=Só nós dois aqui... Acho que sei onde isto está indo.

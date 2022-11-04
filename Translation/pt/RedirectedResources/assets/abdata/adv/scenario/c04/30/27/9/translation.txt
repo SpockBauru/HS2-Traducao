@@ -3,19 +3,19 @@
 //
 //普通{0}=Normal{0}
 ふぁ……ちょ待って……はぁ、息苦しっ……あーヤバ……ちょっとタイムね……=Huh... Espere um minuto... Hah, não consigo respirar... Oh não... Vou ter que fazer uma pausa...
-//んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=Gah, eu literalmente não consigo mover meus dedos das mãos ou dos pés... Tudo isso é culpa sua, então é melhor ficar por aqui até eu voltar ao normal!
+んっ……身体に力が入んないんですけどー。む～、アタシが動けるようになるまで、アンタはそこにいること。分かった？=Gah, eu literalmente não consigo mover meus dedos das mãos ou dos pés... Tudo isso é culpa sua, então é melhor ficar por aqui até eu voltar ao normal!
 //好意{0}=Amor{0}
 あは……アンタやっぱ凄いわ……はぁっ、マジ気に入った。もー手放したくないかも♪=Haha, eu realmente gosto disso. Eu vou conseguir uma coleira e coisas assim para você, assim que eu puder andar direito ♪
-//ふわぁ～……なんかハッピーな感じなんですけど～。疲れても、こーいうのなら全然アリ♪=Ahh, isto é tão estranho... Como se meu corpo estivesse totalmente exausto neste momento, mas minha mente? Está tão espantosamente FELIZ!
+ふわぁ～……なんかハッピーな感じなんですけど～。疲れても、こーいうのなら全然アリ♪=Ahh, isto é tão estranho... Como se meu corpo estivesse totalmente exausto neste momento, mas minha mente? É simplesmente tão surpreendentemente feliz ♪
 //享楽{0}=Excitada {0}
-//へぇー、アタシをここまでフラフラにさせるなんて……んっ、アンタもなかなかやるじゃん……==Eu acho que nunca tive um cara que me deixasse tão tonta antes! Você é um pouco especial, sabia disso?
+へぇー、アタシをここまでフラフラにさせるなんて……んっ、アンタもなかなかやるじゃん……=Acho que nunca tive um cara que me deixasse tão tonto! Você é um pouco especial, sabia disso?
 はぁっ……アンタ、なかなかタフじゃん……アタシをこんなにしちゃうなんて……大したもんだよ。=Não conheça caras como você todos os dias... O que provavelmente é uma coisa boa, porque eu não consigo lidar com tanta coisa!
 //嫌悪{0}=Ódio {0}
-//ちょっとアンタ……ヤリ過ぎだから……はぁ、マジ疲れた……もう付き合ってらんないっつーの。=Você me fodeu demais... Eu sou basicamente um zumbi agora, então não espere mais sexo por um tempo!
-//キモイくせに、スタミナだけはあんのね……んぅ……唯一の才能ってやつ？=Você é nojento, mas você tem resistência... Hmm... É o único talento que você tem?
+ちょっとアンタ……ヤリ過ぎだから……はぁ、マジ疲れた……もう付き合ってらんないっつーの。=Você não se acalma com uma garota, não é mesmo? Eu sou basicamente um zumbi neste momento, então não espere mais sexo por um tempo!
+キモイくせに、スタミナだけはあんのね……んぅ……唯一の才能ってやつ？=Para alguém que parece tão irritado, você certamente tem muita resistência, não é? Isto é como uma compensação excessiva, ou?
 //隷属{0}=Submissa {0}
 あー、もうダメ……全然動けない……今なら、なんでもヤリほーだいだよ？　なんてね♪=Oh, não, eu não posso... Me mover... E agora você pode me foder o quanto quiser, ok? Ohhh.
 これこれ……このヤリ切った感が好きなんだよね～。やっぱさー、ヤルならとことんっしょ♪=É isso... Adoro a sensação de ser fodida. Afinal, se você vai foder, fode com força ♪
 //依存{0}=Dependência {0}
 あーこれヤバ……絶対癖になるやつ……こーいう限界までヤっちゃう感じ、好きだな～♪=Ah, isso é perigoso... É definitivamente viciante... Eu gosto deste tipo de coisa, onde você fode até o limite ~ ♪
-//あっは……流石のアタシも限界だわ～……アンタも頑張ったじゃん……少し見直した♪=Bom trabalho! Tipo, tenho quase certeza que sou uma deusa do sexo, sabe? Mas até eu preciso de uma pausa depois dessa!
+あっは……流石のアタシも限界だわ～……アンタも頑張ったじゃん……少し見直した♪=Bom trabalho! Como se eu tivesse certeza de que sou basicamente uma deusa do sexo, sabe? Mas até eu preciso de uma pausa depois dessa ♪

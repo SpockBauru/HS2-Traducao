@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//なかなかいい場所っすね、気に入ったすよー。=
-//こんな所に連れて来るなんて、なかなかやるじゃないっすか。=
-//それじゃ、あなたと一緒に素敵な夜を楽しむっすよ～。=
-//ナイトプールなんて、小洒落た所知ってるっすねー。=
-//ここで飲み明かそうって事っすか？=
-//私は、あなたの色んなものが飲みたいんすけどねー。=
-//おやおや、いい雰囲気のナイトプールっすね～。=
-//なんで、私をこんな所に誘ってくれたんすかー？=
-//なんか作戦があるんなら、受けて立つっすよ？=
+なかなかいい場所っすね、気に入ったすよー。=Belo lugar. Nada mal, nada mal mesmo.
+こんな所に連れて来るなんて、なかなかやるじゃないっすか。=Quem você subornou para me trazer até aqui?
+それじゃ、あなたと一緒に素敵な夜を楽しむっすよ～。=Ah, esqueça, vamos apenas aproveitar uma noite agradável.
+ナイトプールなんて、小洒落た所知ってるっすねー。=Agora isto é um material de alta classe.
+ここで飲み明かそうって事っすか？=Vamos passar a noite inteira aqui, com um coquetel em uma mão coisa e tal?
+私は、あなたの色んなものが飲みたいんすけどねー。=Embora... Eu quero beber sua própria bebida especial, se você me entende.
+おやおや、いい雰囲気のナイトプールっすね～。=Aaa, uma piscina na cobertura. Tem até mesmo um bar!
+なんで、私をこんな所に誘ってくれたんすかー？=Ok, desembucha, por que você me trouxe aqui?
+なんか作戦があるんなら、受けて立つっすよ？=Pare de enrolar e me diga!

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//おいおい、よくやるな……=
-//……なぁ、そこまでする必要があるのか？=
+おいおい、よくやるな……=Calma, calma...
+……なぁ、そこまでする必要があるのか？=... Isso era realmente necessário?
 //好意{0}=Amor{0}
-//まったく、恐れ入ったな……=
-//はぁ、それは本当なのか？=
+まったく、恐れ入ったな……=Huh, eu certamente não estava esperando que...
+はぁ、それは本当なのか？=Uau, sério? Huh...
 //享楽{0}=Excitada {0}
-//オマエは本当に加減を知らねぇな……=
-//……どうなんだろうな。微妙なラインだ。=
+オマエは本当に加減を知らねぇな……=Você não se retrai exatamente, não é mesmo?
+……どうなんだろうな。微妙なラインだ。=... Aí... Não é exatamente sua melhor idéia, hein?
 //嫌悪{0}=Ódio {0}
-//いや……普通に考えておかしいだろ。=
-//……気持ち悪いやつだ。それ以上オレに近付くな。=
+いや……普通に考えておかしいだろ。=Uhhh, não. Apenas... Não.
+……気持ち悪いやつだ。それ以上オレに近付くな。=Isso é nojento. Não se aproxime mais, cretino.
 //隷属{0}=Submissa {0}
-//……少なくとも、オレはいいと思うぞ。=
-//ハッ、大袈裟に言い過ぎだろ……=
+……少なくとも、オレはいいと思うぞ。=... Bem, eu concordo com você, pelo menos.
+ハッ、大袈裟に言い過ぎだろ……=Ha, boa tentativa, mas eu não nasci ontem.

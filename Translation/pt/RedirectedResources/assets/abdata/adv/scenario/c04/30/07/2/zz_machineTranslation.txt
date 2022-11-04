@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-はぁっ……んっ……きもちぃ……=Uhhh... Ohhh... Sim!
-あぁ……はっ……ぁいがと……んふふぅ……♪=Ahhh... Esse é o local... Uhuul ♪
-（ぁ……もうちょっとぉ……ぅぅ……いくじなし……）=(vamos lá, não se retraia! Dê-me isso já!)
-んぁ……んんぅ……やめ……んく……来んなぁ……=Nnn... Nnnhh... Mmm, pare, é muito bom...
-ふぁ……まだできるぅ……んぅ……すぅ……=Phew... Eu sou, tipo... Totalmente disposta a mais!
+//はぁっ……んっ……きもちぃ……=Uhhh... Ohhh... Sim!
+//あぁ……はっ……ぁいがと……んふふぅ……♪=Ahhh... Esse é o local... Uhuul ♪
+//（ぁ……もうちょっとぉ……ぅぅ……いくじなし……）=(vamos lá, não se retraia! Dê-me isso já!)
+//んぁ……んんぅ……やめ……んく……来んなぁ……=Nnn... Nnnhh... Mmm, pare, é muito bom...
+//ふぁ……まだできるぅ……んぅ……すぅ……=Phew... Eu sou, tipo... Totalmente disposta a mais!

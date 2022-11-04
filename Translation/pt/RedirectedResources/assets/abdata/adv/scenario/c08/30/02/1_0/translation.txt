@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリA普通{0}=
-//そうっすねー、私は～……あ、どもっすー。=
-//まー深く考えてるつもりはないんすけどー……あー、知ってる顔だと思ったらあなたっすかー。=
+そうっすねー、私は～……あ、どもっすー。=Bem, se você me perguntar. É claro.
+まー深く考えてるつもりはないんすけどー……あー、知ってる顔だと思ったらあなたっすかー。=Talvez eu esteja pensando demais, mas... Ei, eu reconheceria essa caneca em qualquer lugar.
 //前フリA好意{0}=
-//なんだかんだ無視できない話っすよねー……おっ、噂をすれば～。=
-//いやーこれは大事な話っすよー……っとー主役の登場っすねー。=
+なんだかんだ無視できない話っすよねー……おっ、噂をすれば～。=Acho que é uma ponte que todos teremos de atravessar... Ei, por falar no diabo.
+いやーこれは大事な話っすよー……っとー主役の登場っすねー。=Mas este é um tema realmente importante... É o homem do momento.
 //前フリA享楽{0}=
 もう性癖の問題っすよねー……あっ、いいところも来たっすねー。=É uma questão de sexualidade... Oh, você também veio ao lugar certo.
 ちょっと話題が過激すぎたっすかねー？　ありゃ、こんなところまでどうしたんすかー？=O tema foi um pouco exagerado? Oh, o que você está fazendo aqui?
 //前フリA嫌悪{0}=
-//あんま考えたくないすけどー……あー……こんちはーっす。=
-//コメントしづらいんすけどー……おっと……っすー。=
+あんま考えたくないすけどー……あー……こんちはーっす。=Prefiro não pensar nisso, mas... Olá.
+コメントしづらいんすけどー……おっと……っすー。=Não tenho certeza do que dizer a isso, mas... O que está acontecendo.
 //前フリA隷属{0}=
-//なーんか濡れてきちゃったんすけどー♪　あ……今の聞こえちゃったっすか？=
-//てかこんな話して引いてないすかー？　おおっ、おつかれさまっすー。=
+なーんか濡れてきちゃったんすけどー♪　あ……今の聞こえちゃったっすか？=Estou ficando toda molhada agora ♪ Oh, será que você ouviu isso?
+てかこんな話して引いてないすかー？　おおっ、おつかれさまっすー。=Eu não estou te enojando, estou? Aaa, olha quem está aí!

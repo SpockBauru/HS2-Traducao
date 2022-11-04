@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=
-//ん……少し寄りたいところが出来た。オマエはここで待ってろ。ついてくんじゃねぇぞ？=
-//あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=
-//おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=
-//あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=
+待て、急にヤボ用ができた。少し寄り道するが、いちいち詮索するなよ？=Ah, espere. Há algo que eu preciso cuidar. Vou fazer um pequeno desvio, e sem perguntas entendeu?
+ん……少し寄りたいところが出来た。オマエはここで待ってろ。ついてくんじゃねぇぞ？=Espere, eu preciso de um momento a sós. Espere aqui, e não me siga nem nada.
+あー、あれだ……トイレに行きてぇ。少し待たせるが、気にすんな。=Ah, merda. Eu preciso do banheiro. Vai ter que esperar até eu terminar.
+おい、トイレに寄ってく。間違っても、覗きなんか来るんじゃねぇぞ？=Eu vou ao banheiro. Sem espreitar, nem mesmo por "acidente", entendeu?
+あー、生理現象ってやつだ。ここまで言えば分かるな？　オレについてくんなよ？=Ah, a natureza chama... Você entende o que quero dizer, certo? Você percebe? Bem. Então fique aqui e não me siga.
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

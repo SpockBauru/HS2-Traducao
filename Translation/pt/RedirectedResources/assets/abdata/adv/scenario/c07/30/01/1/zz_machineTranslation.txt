@@ -2,5 +2,5 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //会話{0}=Conversação {0}
-話？　そんなものは、ヤリながらでもできるだろうが。=Conversar? Não podemos apenas conversar enquanto fodemos?
-面倒なやつだな。話は後だ、とりあえずヤらせろ。=Ugh, já chega de conversa. O sexo primeiro, as palavras depois.
+//話？　そんなものは、ヤリながらでもできるだろうが。=Conversar? Não podemos apenas conversar enquanto fodemos?
+//面倒なやつだな。話は後だ、とりあえずヤらせろ。=Ugh, já chega de conversa. O sexo primeiro, as palavras depois.

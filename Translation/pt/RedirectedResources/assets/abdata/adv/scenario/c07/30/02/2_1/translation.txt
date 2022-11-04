@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//オマエはどう思う？　意見を聞かせろ。=
-//一応オマエの意見も聞いてやる。言ってみろ。=
-//おい、オマエの考えはどうだ？　聞かせてみろ。=
-//聞くだけ無駄だと思うが……オマエも何か意見があるか？=
-//そうだな、一応オマエの意見も聞いておくか。=
+オマエはどう思う？　意見を聞かせろ。=O que você acha? Vamos lá, diga o que você pensa.
+一応オマエの意見も聞いてやる。言ってみろ。=Suponho que não faria mal em perguntar o que você pensa. Então?
+おい、オマエの考えはどうだ？　聞かせてみろ。=Qual é a sua opinião? Vá, desembucha!
+聞くだけ無駄だと思うが……オマエも何か意見があるか？=Não sei por que estou perguntando isto, mas... Qual é a sua opinião, afinal?
+そうだな、一応オマエの意見も聞いておくか。=Eh, acho que poderia ser bom ouvir o que você pensa, por uma vez...

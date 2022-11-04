@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話{0}=
-//よし、偉いぞ。自分が何をすればいいか、しっかり分かってるようだな。=
-//そうだ、それでいい。オレが喜びそうなことを、もっと率先してやっていけ。=
+よし、偉いぞ。自分が何をすればいいか、しっかり分かってるようだな。=Perfeito. Eu gosto de um homem que sabe o que se espera dele.
+そうだ、それでいい。オレが喜びそうなことを、もっと率先してやっていけ。=Excelente. Quanto mais você trabalhar para me agradar, melhor eu farei isso para você.

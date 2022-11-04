@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
-えー、本当は３Ｐしたかったんじゃないすかー？=Você queria mesmo ter uma ménage à trois, não queria?
-なんか怪しい～。裸の付き合いをするんだから隠し事はなしっす。=O que será que está acontecendo? Vamos sair nus, então não há nada a esconder.
+//えー、本当は３Ｐしたかったんじゃないすかー？=Você queria mesmo ter uma ménage à trois, não queria?
+//なんか怪しい～。裸の付き合いをするんだから隠し事はなしっす。=O que será que está acontecendo? Vamos sair nus, então não há nada a esconder.
 //なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
-通りすがりのノットスケベさんだったんすねー。スケベさんになったらまた会いに来てほしいっすー。=Você era Not-Sukebe-san que estava de passagem. Espero que você venha me ver de novo quando se tornar uma pessoa esquelética.
-なんでもないなら仕方ないっすねー。=Não posso ajudar se não for nada.
+//通りすがりのノットスケベさんだったんすねー。スケベさんになったらまた会いに来てほしいっすー。=Você era Not-Sukebe-san que estava de passagem. Espero que você venha me ver de novo quando se tornar uma pessoa esquelética.
+//なんでもないなら仕方ないっすねー。=Não posso ajudar se não for nada.
 //なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
-ええ～？　エロでスケベで変態でー性欲が服着て歩いているような人がなんでもないんすかー？=Huh? Uma pessoa que é erótica, lasciva, pervertida, e cujo desejo sexual é como andar com uma roupa de libido?
-まさかのセックスフェイントっすかー？=Você não achou que era uma simulação sexual, achou?
+//ええ～？　エロでスケベで変態でー性欲が服着て歩いているような人がなんでもないんすかー？=Huh? Uma pessoa que é erótica, lasciva, pervertida, e cujo desejo sexual é como andar com uma roupa de libido?
+//まさかのセックスフェイントっすかー？=Você não achou que era uma simulação sexual, achou?
 //なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
-あー挨拶だったんすねー。どもっすー。=Oh, foi uma saudação, não foi? Hi.
-え、じゃーなんで話しかけたんすかー？=Bem, então por que você falou com ele?
+//あー挨拶だったんすねー。どもっすー。=Oh, foi uma saudação, não foi? Hi.
+//え、じゃーなんで話しかけたんすかー？=Bem, então por que você falou com ele?
 //なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
-またそうやって焦らしプレイするんすからー。=Vou me fazer de impaciente de novo!
-私がヤッてほしげ～な目をしてたからー逆にそっけない態度取るんすね～？=Você estava olhando para mim como se quisesse que eu te fodesse, então agiu como se não quisesse que eu te fodesse.
+//またそうやって焦らしプレイするんすからー。=Vou me fazer de impaciente de novo!
+//私がヤッてほしげ～な目をしてたからー逆にそっけない態度取るんすね～？=Você estava olhando para mim como se quisesse que eu te fodesse, então agiu como se não quisesse que eu te fodesse.

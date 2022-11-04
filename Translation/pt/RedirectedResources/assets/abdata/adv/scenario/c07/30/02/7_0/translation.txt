@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答A普通{0}=
-//なんだ？　人数が一人増えただけでビビってんのか？=
-//おい、ただ邪魔しに来ただけか？　クソ悪趣味だな。=
+なんだ？　人数が一人増えただけでビビってんのか？=O quê, uma terceira pessoa se envolve e, de repente, você não consegue mais encontrar suas bolas?
+おい、ただ邪魔しに来ただけか？　クソ悪趣味だな。=Apenas tentando atrapalhar, não é? Que total transtorno você é.
 //なんでもない返答A好意{0}=
-//あ？　どっちかが邪魔ってことか？　いいご身分だな。=
-//二人きりじゃねぇと何も出来ないってか？　女々しいやつめ。=
+あ？　どっちかが邪魔ってことか？　いいご身分だな。=Então espere, você estava esperando conseguir uma de nós sozinho ou algo assim? Está mesmo cheio de si, não é?
+二人きりじゃねぇと何も出来ないってか？　女々しいやつめ。=Medo do palco, hein? Não é a reação mais masculina, na verdade...
 //なんでもない返答A享楽{0}=
-//ただの寂しんぼってやつか？　クソ迷惑なやつだな。=
-//なら、さっさとどっかへ行ったらどうだ？　オレらの邪魔をするな。=
+ただの寂しんぼってやつか？　クソ迷惑なやつだな。=Aww, alguém está se sentindo solitário? Que pena. Você está no caminho, por isso, desapareça já.
+なら、さっさとどっかへ行ったらどうだ？　オレらの邪魔をするな。=Sim? Então vá para outro lugar. Você está apenas atrapalhando o caminho aqui.
 //なんでもない返答A嫌悪{0}=
-//チッ、構ってちゃんはお呼びじゃねぇんだよ。=
-//オレらもオマエにゃ用はねぇよ。さっさと消えろゴミクズ。=
+チッ、構ってちゃんはお呼びじゃねぇんだよ。=Huh, isso é engraçado. Não me lembro de pedir serviço de quarto por uma porção de homem-criança inútil e carente.
+オレらもオマエにゃ用はねぇよ。さっさと消えろゴミクズ。=Não há nada que você tenha que eu queira, escória, então cai fora antes que a visão de você me faça perder meu jantar.
 //なんでもない返答A隷属{0}=
-//おいおい、どうした？　コミュ障ってやつか？=
-//んぅ？　そう言えばオレらが構ってくれると思ったか？=
+おいおい、どうした？　コミュ障ってやつか？=Qual é o problema - você se sente tímido de repente ou algo assim?
+んぅ？　そう言えばオレらが構ってくれると思ったか？=Espere, espere, espere um segundo - você esperava que nós o convidássemos para se juntar a nós, certo? Ha!

@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//いい時間だったすね……やっぱり場所の力って偉大っすねー。=
-//また、誘って欲しいっす。=
-//あなたと美味しいお酒が飲めて、幸せだったすよ～。=
-//楽しくて……ついつい、飲みすぎちゃったすー。=
-//いやぁ、素敵な時間だったすね…あなたのおかげっすよ。=
-//また、一緒に飲むっすよ～。=
+いい時間だったすね……やっぱり場所の力って偉大っすねー。=Foi uma noite agradável. Incrível o que a bebida e a iluminação ambiente podem realizar.
+また、誘って欲しいっす。=Vamos fazer isto novamente algum dia.
+あなたと美味しいお酒が飲めて、幸せだったすよ～。=Bebendo uma bebida incrível com você. O que não é amar?
+楽しくて……ついつい、飲みすぎちゃったすー。=Cara, eu perdi a conta de quantas bebidas eu tomei.
+いやぁ、素敵な時間だったすね…あなたのおかげっすよ。=Tive um grande momento, tudo graças a vocês.
+また、一緒に飲むっすよ～。=Quero vir aqui novamente. Eu o arrasto se for preciso.

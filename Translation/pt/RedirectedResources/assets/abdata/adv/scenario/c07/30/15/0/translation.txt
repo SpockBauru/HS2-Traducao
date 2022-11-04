@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おい、いるか？　いたら返事をしろ。=
+おい、いるか？　いたら返事をしろ。=Você está aí? Diga alguma coisa!
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//チッ、いねぇのか……ったく、無駄足踏ませやがって……=
+チッ、いねぇのか……ったく、無駄足踏ませやがって……=Hmph, acho que ele está fora. Que perda de tempo...

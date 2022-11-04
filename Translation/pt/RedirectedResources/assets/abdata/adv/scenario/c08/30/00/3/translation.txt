@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//もしかしてー話しかける相手を間違えたってやつすかー？=
-//もー、セックスできるかもーって期待しちゃったじゃないすかー、まあー自業自得すけどー。=
+もしかしてー話しかける相手を間違えたってやつすかー？=Você me confundiu com outra pessoa?
+もー、セックスできるかもーって期待しちゃったじゃないすかー、まあー自業自得すけどー。=O quê? Você me deixou toda excitada. Mas acho que eu mesmo sou o culpado disso.
 //好意{0}=Amor{0}
-//えーあなたと話してめちゃくちゃ濡れてきたところだったんすけどー。=
-//じゃー「あなたとセックスしてー」っていう願望を溜めておくのでー今度爆発させるっすー。=
+えーあなたと話してめちゃくちゃ濡れてきたところだったんすけどー。=Aww, fiquei toda molhada por nada...
+じゃー「あなたとセックスしてー」っていう願望を溜めておくのでー今度爆発させるっすー。=Cuidado, você nunca sabe quando meus impulsos reprimidos vão explodir em você.
 //享楽{0}=Excitada {0}
-//私のメチャシコ誘いワードに乗ってこないとはツワモノっすねー。=
-//なんでもないってーもしかしてもう余所で射精してきちゃったんじゃないすかー？=
+私のメチャシコ誘いワードに乗ってこないとはツワモノっすねー。=Estou tentando minha melhor conversa sexy sobre você, mas você não está caindo.
+なんでもないってーもしかしてもう余所で射精してきちゃったんじゃないすかー？=Muito bem, então, acho que você já trocou o óleo em outro lugar.
 //嫌悪{0}=Ódio {0}
-//そっすかー。んじゃ、また今度っすー。=
-//了解っすー。じゃー私はこれでー。=
+そっすかー。んじゃ、また今度っすー。=Sim, até a próxima.
+了解っすー。じゃー私はこれでー。=Entendido. Vejo você por aí então.
 //隷属{0}=Submissa {0}
-//そんなーあなたの太くて固くて大きいアレで～あーしてこーしてドピュっとしてほしかったっすー。=
-//う～もし私を生殺しのままにしたくないって思ったらーいつでも戻ってきてほしいっすー。=
+そんなーあなたの太くて固くて大きいアレで～あーしてこーしてドピュっとしてほしかったっすー。=Aw, mas eu queria que você me fizesse coisas indecentes com essa sua coisa grande e gorda.
+う～もし私を生殺しのままにしたくないって思ったらーいつでも戻ってきてほしいっすー。=Se você não quer que eu morra de desespero, estarei esperando aqui, certo?

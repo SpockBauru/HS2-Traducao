@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//それで、本当に話しだけでいいのか？　身体が疼いてんじゃねぇか？=
-//おい、我慢すんな。どうせ話してる間も、ムラムラしてたんだろ？=
+それで、本当に話しだけでいいのか？　身体が疼いてんじゃねぇか？=Você tem certeza de que está satisfeito apenas com a conversa? Tenho certeza de que seu pinto pensa diferente.
+おい、我慢すんな。どうせ話してる間も、ムラムラしてたんだろ？=Vamos lá, não seja tímido. Tenho quase certeza de que falar comigo o deixou todo pra cima, certo?
 //好意{0}=Amor{0}
-//まさか、話だけで終わりってことはねぇよな？　そんなお子ちゃまじゃねぇだろ？=
-//おい、正直になれ。ずっと、オレの身体をチラチラ見てたのは分かってんだぞ？=
+まさか、話だけで終わりってことはねぇよな？　そんなお子ちゃまじゃねぇだろ？=Você é um homem, não é? Então, pare de tagarelar como uma criança e se mexa.
+おい、正直になれ。ずっと、オレの身体をチラチラ見てたのは分かってんだぞ？=Basta admitir: você tem estado olhando para o meu corpo este tempo todo, não é mesmo?
 //享楽{0}=Excitada {0}
-//今までの話は前戯みたいなもんだろ？　なら、本番をしねぇとな。=
-//オマエの話に付き合ってやったんだ。次はオレに身体を貸してもらうぞ。=
+今までの話は前戯みたいなもんだろ？　なら、本番をしねぇとな。=Toda essa conversa tem sido apenas um aperitivo, certo? Nesse caso, traga já o prato principal!
+オマエの話に付き合ってやったんだ。次はオレに身体を貸してもらうぞ。=Muito bem, veja: Eu ouvi você balbuciar, mas agora é a minha vez. Deixe-me emprestar esse seu corpo por um tempo...
 //嫌悪{0}=Ódio {0}
-//おい、オマエのくだらない話でストレスが溜まっちまった。解消させろ。=
-//やっぱ、オマエとは話すだけ無駄だな。身体だけオレに預けてりゃいいんだ。=
+おい、オマエのくだらない話でストレスが溜まっちまった。解消させろ。=Sua interminável tagarelice me deixou estressada, sabe. Espero que você esteja pronto para me ajudar a relaxar, escória.
+やっぱ、オマエとは話すだけ無駄だな。身体だけオレに預けてりゃいいんだ。=Eu não preciso de sua conversa. Só do seu corpo.
 //隷属{0}=Submissa {0}
-//待て、話より、もっとオレを簡単に満足させる方法があるだろ。それをやれ。=
-//まさか、すんなり帰らせてもらえるとは思ってないよな？　本番はこれからだぞ？=
+待て、話より、もっとオレを簡単に満足させる方法があるだろ。それをやれ。=Um pouco menos de conversa, um pouco mais de pica, baby! Estou me fazendo entender?
+まさか、すんなり帰らせてもらえるとは思ってないよな？　本番はこれからだぞ？=Ha, você não pensou que eu deixaria você simplesmente ir embora, não é mesmo? Não com o evento principal ainda à nossa frente...

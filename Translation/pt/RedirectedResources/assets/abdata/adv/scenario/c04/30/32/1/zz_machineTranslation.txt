@@ -1,7 +1,7 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-んぅぅ……うーん？=Ahhh... Umm?
-んふ……もっとぉー♪=Oh... Mais ♪
-（さぁ来い……来い……！）=(sim!)
-ん？　んぅ？　んぅぅ？=O quê? Huuh? Huuuuh?
+//んぅぅ……うーん？=Ahhh... Umm?
+//んふ……もっとぉー♪=Oh... Mais ♪
+//（さぁ来い……来い……！）=(sim!)
+//ん？　んぅ？　んぅぅ？=O quê? Huuh? Huuuuh?

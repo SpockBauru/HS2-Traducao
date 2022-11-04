@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //前フリB普通{0}=Prelúdio B normal {0}
-おい、オレもいるぞ。逃げるなよ？=Boo! Sou eu - não vá fugir agora!
-まるで吸い寄せられるみたいに来やがって、この女好きめ。=Pervertidos e mulheres são como mariposas e chamas, hein?
+//おい、オレもいるぞ。逃げるなよ？=Boo! Sou eu - não vá fugir agora!
+//まるで吸い寄せられるみたいに来やがって、この女好きめ。=Pervertidos e mulheres são como mariposas e chamas, hein?
 //前フリB好意{0}=Prelúdio B Favor {0}
-どっちに用があって来たんだ？　オレか？　そっちか？=Em qual de nós você está interessado? Em mim? Nela?
-オレらの邪魔をしに来たんなら、それなりに面白いことをしろよ？=Se você vai entrar no bonde andando assim, pelo menos faça com que valha a pena.
+//どっちに用があって来たんだ？　オレか？　そっちか？=Em qual de nós você está interessado? Em mim? Nela?
+//オレらの邪魔をしに来たんなら、それなりに面白いことをしろよ？=Se você vai entrar no bonde andando assim, pelo menos faça com que valha a pena.
 //前フリB享楽{0}=Prelúdio B Kyouraku {0}
 //二人一気に相手しようってか？　それは無謀ってもんだな。=Você quer enfrentar dois caras ao mesmo tempo? Isso é imprudente, não é?
 //オレらに嬲られに来たのか？　クソマゾだな。=Você veio aqui para ser torturado por nós? Você é um maldito masoquista.
 //前フリB嫌悪{0}=Prelúdio B Disgust {0}
-おい、オマエのせいで雰囲気が悪くなっただろうが。どうしてくれんだ？=*humf* agora que você foi e estragou o clima. Como você está planejando nos compensar?
-オマエは仲間にいれてやらねぇぞ？　一人で寂しくしてろ。=Hah, continue sonhando, escória. De jeito nenhum você vai conseguir um pedaço desta ação.
+//おい、オマエのせいで雰囲気が悪くなっただろうが。どうしてくれんだ？=*humf* agora que você foi e estragou o clima. Como você está planejando nos compensar?
+//オマエは仲間にいれてやらねぇぞ？　一人で寂しくしてろ。=Hah, continue sonhando, escória. De jeito nenhum você vai conseguir um pedaço desta ação.
 //前フリB隷属{0}=Prelúdio B Escravo {0}
-おい、ちゃんとオレにも挨拶しろ。礼儀だろ。=Ugh, onde estão seus modos? Você não vai me cumprimentar também?
-なんだ？　オレらに苛めて欲しくて来たのか？=Procurando uma punição de duas contra um, hein?
+//おい、ちゃんとオレにも挨拶しろ。礼儀だろ。=Ugh, onde estão seus modos? Você não vai me cumprimentar também?
+//なんだ？　オレらに苛めて欲しくて来たのか？=Procurando uma punição de duas contra um, hein?

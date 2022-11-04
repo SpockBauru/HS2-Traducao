@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //なんでもない返答A普通{0}=Uma resposta sem precedentes Uma resposta normal {0}
-へ？　アタシら二人とも用無し？　流石にそれは無くない？=O que é isso? Oh, vamos lá, certamente há algo que você quer fazer com nós dois!
-あーうん。ならまぁいいけど……アンタなんで来たん？=Ah, está bem? Então, como, por que você veio até nós, então?
+//へ？　アタシら二人とも用無し？　流石にそれは無くない？=O que é isso? Oh, vamos lá, certamente há algo que você quer fazer com nós dois!
+//あーうん。ならまぁいいけど……アンタなんで来たん？=Ah, está bem? Então, como, por que você veio até nós, então?
 //なんでもない返答A好意{0}=É apenas uma resposta comum, um favor.
-なに？　こっちが二人だからって、別に気後れする必要ないよ？=Ah, você está ficando todo tímido só porque somos duas? Não se preocupe! Nós não mordemos nem nada!
-ほんとになんもないの？　アタシら、仲間外れにしようとかしてないよ？=Você tem certeza? Estaríamos totalmente dispostos a sair com você se você mudasse de idéia, certo?
+//なに？　こっちが二人だからって、別に気後れする必要ないよ？=Ah, você está ficando todo tímido só porque somos duas? Não se preocupe! Nós não mordemos nem nada!
+//ほんとになんもないの？　アタシら、仲間外れにしようとかしてないよ？=Você tem certeza? Estaríamos totalmente dispostos a sair com você se você mudasse de idéia, certo?
 //なんでもない返答A享楽{0}=Uma resposta sem problemas A Kyouraku {0}
-そーやってさー。自分から身を引いちゃうから、いつまでもボッチなんだよ？　もっとがっついてきなってー。=Aww, não seja assim! Se você vê algo que quer, apenas atire e veja como isso acontece!
-ふーん。アンタにはもーちょっと積極性が必要かもね～。=Hm, está bem. Pessoalmente, acho que você precisa ser um pouco mais extrovertido, mas, ei, você faz você!
+//そーやってさー。自分から身を引いちゃうから、いつまでもボッチなんだよ？　もっとがっついてきなってー。=Aww, não seja assim! Se você vê algo que quer, apenas atire e veja como isso acontece!
+//ふーん。アンタにはもーちょっと積極性が必要かもね～。=Hm, está bem. Pessoalmente, acho que você precisa ser um pouco mais extrovertido, mas, ei, você faz você!
 //なんでもない返答A嫌悪{0}=Nada Responder A Nojento {0}
-じゃあ最初から入ってくんなし。かまちょかよ。=Ugh, então por que mesmo começar a falar conosco em primeiro lugar? Você poderia ser mais carente?
-うっざ……なんなんアンタほんと……=*affe* seriamente, você é tão, como... Ugh.
+//じゃあ最初から入ってくんなし。かまちょかよ。=Ugh, então por que mesmo começar a falar conosco em primeiro lugar? Você poderia ser mais carente?
+//うっざ……なんなんアンタほんと……=*affe* seriamente, você é tão, como... Ugh.
 //なんでもない返答A隷属{0}=Nada responde Uma servidão {0}
-アタシ、もしかしていない方がいい？　だったらアタシだけ消えるとかでもいーけど？=Oh espere, você quer que eu goste de sair ou algo assim? Eu posso, então me avise, está bem?
-え？　アタシ抜きで、二人で何か話したいとか？　はっきり言ってくれていーよ？=Um olha, se você quer tanto falar com ela a sós, venha cá fora e diga já!
+//アタシ、もしかしていない方がいい？　だったらアタシだけ消えるとかでもいーけど？=Oh espere, você quer que eu goste de sair ou algo assim? Eu posso, então me avise, está bem?
+//え？　アタシ抜きで、二人で何か話したいとか？　はっきり言ってくれていーよ？=Um olha, se você quer tanto falar com ela a sós, venha cá fora e diga já!

@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-ん？　こんなところで何をしてるんだ？　まさか、覗いてたんじゃないだろうな？=E o que você está fazendo aqui? Espere, você não estava espreitando, estava?
-おっと、オマエも汗を流しに来てたのか？　もう少し早く会ってればな、二人で入ってもよかったんだが……=Aqui para um banho? Pena que você não tenha vindo mais cedo - poderíamos ter ficado limpos juntos...
-ふぅ……オマエもタイミングが悪いな。丁度汗を流したところだ。今からってのは、流石のオレでも微妙だな。=Seu timing é bem horrível, não é? Acabei de ficar limpa, então agora não é tão bom para mim.
-おい、そこで何してた？　余計な疑いかけられたくなかったら、こんな所うろついてんじゃねぇぞ。=Alguns conselhos: quanto mais você se esquivar de lugares como este, mais as pessoas vão pensar que você é um verme. Só estou dizendo.
-こういう所にオマエがいると、覗きしかイメージできないが。まぁ、バレなきゃ犯罪じゃねぇってやつか。=Um cara como você em um lugar como este significa apenas uma coisa: espreitar. Mesmo assim, acho que só é crime se você for pego, certo?
+//ん？　こんなところで何をしてるんだ？　まさか、覗いてたんじゃないだろうな？=E o que você está fazendo aqui? Espere, você não estava espreitando, estava?
+//おっと、オマエも汗を流しに来てたのか？　もう少し早く会ってればな、二人で入ってもよかったんだが……=Aqui para um banho? Pena que você não tenha vindo mais cedo - poderíamos ter ficado limpos juntos...
+//ふぅ……オマエもタイミングが悪いな。丁度汗を流したところだ。今からってのは、流石のオレでも微妙だな。=Seu timing é bem horrível, não é? Acabei de ficar limpa, então agora não é tão bom para mim.
+//おい、そこで何してた？　余計な疑いかけられたくなかったら、こんな所うろついてんじゃねぇぞ。=Alguns conselhos: quanto mais você se esquivar de lugares como este, mais as pessoas vão pensar que você é um verme. Só estou dizendo.
+//こういう所にオマエがいると、覗きしかイメージできないが。まぁ、バレなきゃ犯罪じゃねぇってやつか。=Um cara como você em um lugar como este significa apenas uma coisa: espreitar. Mesmo assim, acho que só é crime se você for pego, certo?

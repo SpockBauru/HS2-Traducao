@@ -1,14 +1,14 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-いやー、あなたのお部屋ってどんなもんかと思ってー施設の人に場所を聞いて来たってわけっすよー。=Bem, eu estava me perguntando como era seu quarto, então perguntei ao pessoal das instalações onde ele estava.
+//いやー、あなたのお部屋ってどんなもんかと思ってー施設の人に場所を聞いて来たってわけっすよー。=Bem, eu estava me perguntando como era seu quarto, então perguntei ao pessoal das instalações onde ele estava.
 //好意50_汎用{0}=Favors 50_ Genéricos {0}
-通い妻がまた来たっすよー。=Minha esposa está aqui novamente!
-あなただけのスケベな押し掛け女房っすよー。=É sua própria esposa lasciva e apressada.
+//通い妻がまた来たっすよー。=Minha esposa está aqui novamente!
+//あなただけのスケベな押し掛け女房っすよー。=É sua própria esposa lasciva e apressada.
 //セフレが性欲背負ってやってきたっすよー。=Minha namorada veio até mim com sua sexualidade nas costas!
 //好意50続き{0}=Favores 50 continuou {0}
-昨日はＨするつもりでお訪ねしたのに結局しなかったんすよねー。またお話しに行ってもいいすかー？=Eu vim ontem a sua casa com a intenção de fazer sexo, mas não acabamos fazendo isso. Posso voltar a falar com você?
-なんか、あなたとお話するのってセックスと同じぐらい気持ちいいっていうか、また別の楽しさがあるなーと。=Sinto que falar com você é tão bom quanto sexo, mas é um tipo diferente de diversão.
-昨日のおしゃべりは時間を忘れるぐらい楽しくてーそういうのHでしか味わったことなかったんすよねー。=A conversa de ontem foi tão divertida que me esqueci da hora - só experimentei esse tipo de coisa no sexo.
+//昨日はＨするつもりでお訪ねしたのに結局しなかったんすよねー。またお話しに行ってもいいすかー？=Eu vim ontem a sua casa com a intenção de fazer sexo, mas não acabamos fazendo isso. Posso voltar a falar com você?
+//なんか、あなたとお話するのってセックスと同じぐらい気持ちいいっていうか、また別の楽しさがあるなーと。=Sinto que falar com você é tão bom quanto sexo, mas é um tipo diferente de diversão.
+//昨日のおしゃべりは時間を忘れるぐらい楽しくてーそういうのHでしか味わったことなかったんすよねー。=A conversa de ontem foi tão divertida que me esqueci da hora - só experimentei esse tipo de coisa no sexo.
 //なんかぼーっとしてたら急にムラムラしてきてーあなたとセックスしたかったんで来ちゃったっすー。=Quando eu estava atordoado, de repente fiquei excitado e queria fazer sexo com você, então eu vim.
 //好意80_汎用{0}=Favores 80_ Genéricos {0}

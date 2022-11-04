@@ -1,5 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あー、やっぱ声が大きかったか。バレねぇ方が不思議だとは思ってから……まぁ、オマエのオカズにでもしてくれ。=Hmm, acho que eu era meio barulhento, huh? Seja o que for - basta pensar nisto como um aperitivo.
-ったく、見てるだけで満足してんじゃねぇ。こっちは期待して、待ってたってのによ。=Você não vai ficar aí sentado e assistir, vai? Eu estava esperando que você fizesse algo mais... Emocionante.
+//あー、やっぱ声が大きかったか。バレねぇ方が不思議だとは思ってから……まぁ、オマエのオカズにでもしてくれ。=Hmm, acho que eu era meio barulhento, huh? Seja o que for - basta pensar nisto como um aperitivo.
+//ったく、見てるだけで満足してんじゃねぇ。こっちは期待して、待ってたってのによ。=Você não vai ficar aí sentado e assistir, vai? Eu estava esperando que você fizesse algo mais... Emocionante.

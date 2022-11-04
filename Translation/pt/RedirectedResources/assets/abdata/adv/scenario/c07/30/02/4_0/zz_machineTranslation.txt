@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //会話事後A普通{0}=Posto de Conversação A Normal {0}
-それじゃ、解散でいいな？　オレはもう行くぞ？=Já conversamos o suficiente, certo? Eu vou embora.
-よし、こんなところだろ。ずっと話してても、飽きるだけだしな。=Pronto, já chega. Falar demais se torna entediante rapidamente.
+//それじゃ、解散でいいな？　オレはもう行くぞ？=Já conversamos o suficiente, certo? Eu vou embora.
+//よし、こんなところだろ。ずっと話してても、飽きるだけだしな。=Pronto, já chega. Falar demais se torna entediante rapidamente.
 //会話事後A好意{0}=Um favor após a conversa {0}
-話は終わりだ。ほら、解散するぞ。=Entãããão terminamos. Vamos acabar com isto.
-さて、一度終わりにするか。また話したくなったら、集まればいい。=Vamos acabar por aqui. Podemos fazer isso novamente algum dia.
+//話は終わりだ。ほら、解散するぞ。=Entãããão terminamos. Vamos acabar com isto.
+//さて、一度終わりにするか。また話したくなったら、集まればいい。=Vamos acabar por aqui. Podemos fazer isso novamente algum dia.
 //会話事後A享楽{0}=Uma Conversa Depois de um Prazer {0}
-それじゃあ、終わりでいいな？　これ以上は、眠くなってきそうだ。=Pronto para encerrar o dia? Caso contrário, todos nós vamos ficar com sono.
-まぁまぁ楽しめた。終わるなら、今が丁度いいだろうな。=Isso não foi ruim. Vamos acabar enquanto ainda está bom, certo?
+//それじゃあ、終わりでいいな？　これ以上は、眠くなってきそうだ。=Pronto para encerrar o dia? Caso contrário, todos nós vamos ficar com sono.
+//まぁまぁ楽しめた。終わるなら、今が丁度いいだろうな。=Isso não foi ruim. Vamos acabar enquanto ainda está bom, certo?
 //会話事後A嫌悪{0}=Aversão Pós-Conversação {0}
-もう解散でいいな？　オマエと同じ空気を吸うのが、嫌になってきた。=Certo, já tive o máximo de você que posso lidar neste momento. Esta festa acabou.
-さぁ、解散だ。これ以上は本気で無駄な時間になるからな。=Já chega. Mais um pouco disto e vou sentir que hoje foi um desperdício total.
+//もう解散でいいな？　オマエと同じ空気を吸うのが、嫌になってきた。=Certo, já tive o máximo de você que posso lidar neste momento. Esta festa acabou.
+//さぁ、解散だ。これ以上は本気で無駄な時間になるからな。=Já chega. Mais um pouco disto e vou sentir que hoje foi um desperdício total.
 //会話事後A隷属{0}=Posto de Conversação Uma Subjugação {0}
-さて、解散するか。ダラダラ話してても、仕方ねぇしな。=Vamos acabar com esta festa. Toda esta conversa em pé está ficando um pouco monótona.
-さぁ、終わりだ終わり。一度区切らねぇと、いつまでも話が続きそうだからな。=Ok, acho acabar por aqui. Caso contrário ficaremos aqui a noite toda.
+//さて、解散するか。ダラダラ話してても、仕方ねぇしな。=Vamos acabar com esta festa. Toda esta conversa em pé está ficando um pouco monótona.
+//さぁ、終わりだ終わり。一度区切らねぇと、いつまでも話が続きそうだからな。=Ok, acho acabar por aqui. Caso contrário ficaremos aqui a noite toda.

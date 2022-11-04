@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//ほう、オレを誘うとは、大した度胸だな。=
-//いいだろう。だが、誘ったからにはしっかりやれよ？=
+ほう、オレを誘うとは、大した度胸だな。=Ora, ora, ora, ora. Olha só quem decidiu vestir as calças de garoto grande!
+いいだろう。だが、誘ったからにはしっかりやれよ？=Muito bem, vamos fazer isso. Só não me decepcione, entendeu?
 //好意{0}=Amor{0}
-//ああ、別にいいぞ。断る理由も無いしな。=
-//顔を真っ赤にしてお誘いか？　断ったら泣いちまいそうだな。=
+ああ、別にいいぞ。断る理由も無いしな。=Claro, estou dentro. Não que eu tenha algo melhor para fazer.
+顔を真っ赤にしてお誘いか？　断ったら泣いちまいそうだな。=Eu não sabia que os homens podiam corar tanto. O que você faria se eu dissesse não chorar?
 //享楽{0}=Excitada {0}
-//ああ、分かった。欲望に素直なやつは嫌いじゃない。=
+ああ、分かった。欲望に素直なやつは嫌いじゃない。=Claro, funciona para mim. Gosto de caras que vêm direto e pedem por isso.
 ハッ、またストレートに来たな。まぁ、オレも面倒なのは嫌いだから助かるが。=Ha, aqui vamos nós novamente, direto ao ponto. Bem, eu também não gosto de chatices, então isso ajuda.
 //嫌悪{0}=Ódio {0}
-//チッ、もう少しムードを大事にできねぇのか？　だからオマエは、モテないんだよ。=
-//結局それか。最早、ヤルことしか考えてないサルだな。=
+チッ、もう少しムードを大事にできねぇのか？　だからオマエは、モテないんだよ。=Alguma vez pensou em criar o clima primeiro? São coisas como esta que fazem com que todos o odeiem.
+結局それか。最早、ヤルことしか考えてないサルだな。=Isso não demorou muito. Mesmo assim, acho que é só nisso que você pensa, seu animal imundo.
 //隷属{0}=Submissa {0}
-//オマエは話が早くていいな。そういう所は、褒めてやる。=
-//よし、それでいい。オレの求めてることが、よく分かってるじゃねぇか。=
+オマエは話が早くていいな。そういう所は、褒めてやる。=Você gosta de ir direto ao assunto, não é mesmo? Funciona para mim.
+よし、それでいい。オレの求めてることが、よく分かってるじゃねぇか。=Absolutamente. Prazer em conhecer um cara que sabe o que eu preciso.

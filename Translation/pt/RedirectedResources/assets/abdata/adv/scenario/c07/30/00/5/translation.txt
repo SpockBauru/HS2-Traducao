@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//ハッ、オマエらしいな。=
-//まぁ、いいんじゃねぇか？=
+ハッ、オマエらしいな。=Ha, típico.
+まぁ、いいんじゃねぇか？=Claro, o que há de errado com isso?
 //好意{0}=Amor{0}
 それがアリなら、何でもアリだろ。=Se for esse o caso, então tudo é possível.
-//ほう、面白いことを言ってくれる。=
+ほう、面白いことを言ってくれる。=Heh, isso é realmente muito interessante...
 //享楽{0}=Excitada {0}
-//……だといいがな。そっちの方が面白れぇ。=
-//おいおい、流石にやり過ぎじゃねぇか？=
+……だといいがな。そっちの方が面白れぇ。=... Espero que sim. Isso tornaria as coisas mais interessantes, para variar.
+おいおい、流石にやり過ぎじゃねぇか？=Segure seus cavalos - acho que você está se deixando levar por isso.
 //嫌悪{0}=Ódio {0}
-//で？　それのどこが面白いんだ？=
-//チッ、馬鹿な事ばっか言ってんじゃねぇ。=
+で？　それのどこが面白いんだ？=E? O que deve ser interessante sobre isso?
+チッ、馬鹿な事ばっか言ってんじゃねぇ。=Pah, pare com isso de bobagem, você poderia?
 //隷属{0}=Submissa {0}
-//……そうか、そういうこともあるんだな。=
-//……ったく、少しは自重しろ。=
+……そうか、そういうこともあるんだな。=... Certo. Isso faz sentido.
+……ったく、少しは自重しろ。=Uau... Você não tem nenhum sentimento de vergonha?

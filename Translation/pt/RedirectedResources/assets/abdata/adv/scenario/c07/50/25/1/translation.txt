@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//おい、本気か？　人通りが激しいなんてもんじゃねぇぞ？　つまりそういう覚悟をしなきゃいけねぇんだ。分かってんのか？=
-//まったく、オマエには恐れ入るぜ。こんな所で堂々としようなんて……オレでも考えつかなかったぞ？=
-//ハッ、ここでするのか？　オマエが恥をかいても、オレは知らねぇぞ？=
-//おい、オマエの粗末な姿を晒すことになるんだぞ？　一生後ろ指をさされてもいいってんなら、付き合ってやってもいい。=
-//おいおい、どれだけオレを楽しませてくれるんだ？　これは流石にやり過ぎな気もするが……まぁ、ビビッてちゃ何も始まらねぇよな。=
+おい、本気か？　人通りが激しいなんてもんじゃねぇぞ？　つまりそういう覚悟をしなきゃいけねぇんだ。分かってんのか？=Sério? Você não sabe quantas pessoas passam por aqui? Bem, tanto faz, desde que você esteja disposto a isso...
+まったく、オマエには恐れ入るぜ。こんな所で堂々としようなんて……オレでも考えつかなかったぞ？=Maldição... Quer fazer indecências num lugar como este? Isso é uma loucura, mesmo para mim...
+ハッ、ここでするのか？　オマエが恥をかいても、オレは知らねぇぞ？=Espere, você quer fazer isso aqui? Pft, tudo bem, mas não venha chorar para mim se você acabar ficando todo tímido no meio caminho.
+おい、オマエの粗末な姿を晒すことになるんだぞ？　一生後ろ指をさされてもいいってんなら、付き合ってやってもいい。=Você quer que todos os outros descubram o porco nojento que você realmente é? Ha, por mim tudo bem!
+おいおい、どれだけオレを楽しませてくれるんだ？　これは流石にやり過ぎな気もするが……まぁ、ビビッてちゃ何も始まらねぇよな。=Espere, você está fazendo isso só para me excitar? É meio extremo, mas ei, não sou eu que vai estragar o clima.

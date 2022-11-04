@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようA普通{0}=
-//オレはいいが。もう一人聞かなきゃいけない相手がいるんじゃねぇか？=
-//ハッ、欲張りなやつだ。いいだろう、オレは乗ってやる。=
+オレはいいが。もう一人聞かなきゃいけない相手がいるんじゃねぇか？=Funciona para mim, mas não há outra pessoa com quem você deveria verificar, também?
+ハッ、欲張りなやつだ。いいだろう、オレは乗ってやる。=Tsk, tsk. Ganancioso, huh? Ainda assim, tanto faz. Eu estou dentro.
 //HしようA好意{0}=
-//三人でするってことだな。オマエ、恥をかいても知らないぞ？=
-//そう来ると思ってたよ。まったく、どこまでも分かりやすいやつだ。=
+三人でするってことだな。オマエ、恥をかいても知らないぞ？=Um ménage à trois, eh? É melhor esperar que você não se envergonhe.
+そう来ると思ってたよ。まったく、どこまでも分かりやすいやつだ。=Eu sabia que você iria sugerir algo como isto. Você é tão previsível.
 //HしようA享楽{0}=
-//ハッ、やっぱりそうなるか。いいぞ、みんなで楽しもうじゃねぇか。=
-//命拾いしたな。ビビッて帰りそうになったら、オレらで襲おうかと思ってたとこだ。=
+ハッ、やっぱりそうなるか。いいぞ、みんなで楽しもうじゃねぇか。=Uh-huh, aqui vamos nós. Ainda assim, que mal faria? Divertido para todos, certo?
+命拾いしたな。ビビッて帰りそうになったら、オレらで襲おうかと思ってたとこだ。=Passou perto. Se você tivesse tentado desistir agora, não o deixaríamos sair sem um pequeno castigo...
 //HしようA嫌悪{0}=
-//調子に乗りやがって。分かった、恥かかせてやるよ。=
-//おい、イキり過ぎじゃねぇか？　痛い目見ねぇと分かんねぇか？=
+調子に乗りやがって。分かった、恥かかせてやるよ。=Acha que você é gostoso, hein? É hora de mostrar o quanto você está errado...
+おい、イキり過ぎじゃねぇか？　痛い目見ねぇと分かんねぇか？=Cuidado ou você vai acabar se machucando.
 //HしようA隷属{0}=
-//いい提案だ。三人なら、出来ることも増えるしな。=
-//本当にいいのか？　女二人の性欲は、かなり強烈だぞ？=
+いい提案だ。三人なら、出来ることも増えるしな。=Não é uma má idéia. Três nem sempre é demais, hein?
+本当にいいのか？　女二人の性欲は、かなり強烈だぞ？=Tem certeza de que você está disposto a isso? Duas vezes as mulheres, duas vezes as expectativas, você percebe...

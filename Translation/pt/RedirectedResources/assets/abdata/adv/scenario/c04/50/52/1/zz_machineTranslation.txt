@@ -2,9 +2,9 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //嫌悪{0}=Ódio {0}
-少しの間……アタシに近付かないで。マジ大声出すかんね……？=Assim como, ficar longe? Estou tão perto de gritar por socorro.
-はーホントやだ……電車に変なトラウマ植え付けられたぁ……=*affe* Sério. Nunca mais poderei andar no trem depois disso.
-ねぇ、アンタさ……めちゃくちゃヤバいやつが知り合いにいたりすんの？=Ei, como, uma pergunta? Você faz parte de um culto doentio ou de uma gangue ou algo assim?
-だってコレ、普通に犯罪だよ？　アタシが訴えたらアンタ終わりだかんね？=Porque se você não estiver, está prestes a ser arruinado quando eu o processar.
-あーあ、アンタやっちゃたね……二重の意味で……=Ughhh... Desta vez, você realmente fez isso. Digo isso de duas maneiras.
-どうなってもアタシは庇ったりしないから。覚悟だけはしといた方がいーよ？=Eu não vou te cobrir, então talvez chamar um advogado agora?
+//少しの間……アタシに近付かないで。マジ大声出すかんね……？=Assim como, ficar longe? Estou tão perto de gritar por socorro.
+//はーホントやだ……電車に変なトラウマ植え付けられたぁ……=*affe* Sério. Nunca mais poderei andar no trem depois disso.
+//ねぇ、アンタさ……めちゃくちゃヤバいやつが知り合いにいたりすんの？=Ei, como, uma pergunta? Você faz parte de um culto doentio ou de uma gangue ou algo assim?
+//だってコレ、普通に犯罪だよ？　アタシが訴えたらアンタ終わりだかんね？=Porque se você não estiver, está prestes a ser arruinado quando eu o processar.
+//あーあ、アンタやっちゃたね……二重の意味で……=Ughhh... Desta vez, você realmente fez isso. Digo isso de duas maneiras.
+//どうなってもアタシは庇ったりしないから。覚悟だけはしといた方がいーよ？=Eu não vou te cobrir, então talvez chamar um advogado agora?

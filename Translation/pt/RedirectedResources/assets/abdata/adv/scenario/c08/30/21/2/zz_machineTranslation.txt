@@ -2,6 +2,6 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //セリフ{0}=Serif {0}
-あの、本当にもう耐えられないんです！　１回だけでいいので、お願いします！=Hum, eu realmente não aguento mais! Só uma vez, por favor!
-に、逃げないでください！　私の子宮にあなたの子種を流し込んでくれるだけでいいんです……！=Por favor, não fuja! Tudo que eu quero é que você derrame sua semente infantil no meu ventre!
+//あの、本当にもう耐えられないんです！　１回だけでいいので、お願いします！=Hum, eu realmente não aguento mais! Só uma vez, por favor!
+//に、逃げないでください！　私の子宮にあなたの子種を流し込んでくれるだけでいいんです……！=Por favor, não fuja! Tudo que eu quero é que você derrame sua semente infantil no meu ventre!
 //逃げ出した=Você escapou

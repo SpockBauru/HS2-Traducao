@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-え？　なんとなく顔見に来ただけ？　アンタも良くわかんないことするねぇ……=O que é isso? Você acabou de vir me conferir ou algo assim? Hm, um pouco estranho...
-あっそ……って、マジで何も用ないの？=Ah, sim? Você literalmente não precisa de mim para nada?
+//え？　なんとなく顔見に来ただけ？　アンタも良くわかんないことするねぇ……=O que é isso? Você acabou de vir me conferir ou algo assim? Hm, um pouco estranho...
+//あっそ……って、マジで何も用ないの？=Ah, sim? Você literalmente não precisa de mim para nada?
 //好意{0}=Amor{0}
-急用でも出来た？　まぁいいや、また何かあったら呼んで。=Você tem que estar em algum lugar? Hm, o que quer que você saiba onde me encontrar se precisar de mim!
-ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Você não está tentando criar drama, está? Porque eu já não estou mais pensando nessa vida, está bem?!
+//急用でも出来た？　まぁいいや、また何かあったら呼んで。=Você tem que estar em algum lugar? Hm, o que quer que você saiba onde me encontrar se precisar de mim!
+//ん？　なんか思わせぶりな感じ？　とりま、じゃーねでいいのこれ？=Você não está tentando criar drama, está? Porque eu já não estou mais pensando nessa vida, está bem?!
 //享楽{0}=Excitada {0}
-なに？　緊張してんの？　かわたんかよ～♪=Você está nervoso? Vá lá, eu basicamente quase nunca mordo promessas ♪
-ん、りょ。んじゃ、適度に欲求不満になったら、またアタシんとこ来て。=Mm, tudo bem, legal. Venha me procurar na próxima vez que você ficar excitado, promete?
+//なに？　緊張してんの？　かわたんかよ～♪=Você está nervoso? Vá lá, eu basicamente quase nunca mordo promessas ♪
+//ん、りょ。んじゃ、適度に欲求不満になったら、またアタシんとこ来て。=Mm, tudo bem, legal. Venha me procurar na próxima vez que você ficar excitado, promete?
 //嫌悪{0}=Ódio {0}
-なにそれ。何も用がないなら、最初から顔見せないでくれる。=Ew, pare com isso! Não fale comigo a menos que você realmente precise de algo, entendeu?
-うん、まぁそれが懸命な判断じゃん？　アタシもアンタには用無いし。=Ufa, boa escolha! Estava me perguntando quando você ia pegar a dica...
+//なにそれ。何も用がないなら、最初から顔見せないでくれる。=Ew, pare com isso! Não fale comigo a menos que você realmente precise de algo, entendeu?
+//うん、まぁそれが懸命な判断じゃん？　アタシもアンタには用無いし。=Ufa, boa escolha! Estava me perguntando quando você ia pegar a dica...
 //隷属{0}=Submissa {0}
-えー、放置プレイってやつですかー？　なんか冷たくなーい？=Espere, você está literalmente tentando me deixar pendurado agora mesmo? Que vergonha para você!
-ありゃ、ちょっと肩透かし。まぁ、何か用があったら気軽に話しかけてよ。=Aww, não aja de repente de forma esquemática! Mesmo assim, se você mudar de idéia, eu estarei aqui, apenas andando por aí...
+//えー、放置プレイってやつですかー？　なんか冷たくなーい？=Espere, você está literalmente tentando me deixar pendurado agora mesmo? Que vergonha para você!
+//ありゃ、ちょっと肩透かし。まぁ、何か用があったら気軽に話しかけてよ。=Aww, não aja de repente de forma esquemática! Mesmo assim, se você mudar de idéia, eu estarei aqui, apenas andando por aí...

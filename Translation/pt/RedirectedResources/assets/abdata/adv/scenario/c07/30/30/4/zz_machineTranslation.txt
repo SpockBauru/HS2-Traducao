@@ -1,5 +1,5 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-おい、オマエの顔が赤く見えるのは、オレの気のせいか？=Hmm, estou imaginando coisas, ou seu rosto está realmente, realmente vermelho?
-んぅ？　オマエ、なんか息が荒くねぇか？　どうしてだろうなぁ？　オレはただ……トイレで用を足してただけなのになぁ？=Huh, por que você está respirando tão forte? Tudo o que eu estava fazendo no banheiro era... Coisas normais do vaso sanitário, certo?
+//おい、オマエの顔が赤く見えるのは、オレの気のせいか？=Hmm, estou imaginando coisas, ou seu rosto está realmente, realmente vermelho?
+//んぅ？　オマエ、なんか息が荒くねぇか？　どうしてだろうなぁ？　オレはただ……トイレで用を足してただけなのになぁ？=Huh, por que você está respirando tão forte? Tudo o que eu estava fazendo no banheiro era... Coisas normais do vaso sanitário, certo?

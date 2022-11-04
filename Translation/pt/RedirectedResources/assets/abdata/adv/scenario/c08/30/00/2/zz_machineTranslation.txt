@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-もちろんOKっすよー。というかこんな改まって誘うなんてエラいっすねー。=É claro que está tudo bem. É muito gentil da sua parte me convidar de uma forma tão formal.
-むふふーなんか言わせちゃったっすかねー？　そんなことないすよねー？=Eu o obriguei a dizer alguma coisa? Não, você não fez, fez?
+//もちろんOKっすよー。というかこんな改まって誘うなんてエラいっすねー。=É claro que está tudo bem. É muito gentil da sua parte me convidar de uma forma tão formal.
+//むふふーなんか言わせちゃったっすかねー？　そんなことないすよねー？=Eu o obriguei a dizer alguma coisa? Não, você não fez, fez?
 //好意{0}=Amor{0}
-いやー、わざわざ私の所に来て誘ってくれるなんて女冥利に尽きるってもんすよー。=Bem, é o sonho de uma mulher vir até a minha casa e me convidar para sair.
-その言葉を待ってたっすー。くたくたになるまでくんずほぐれつするっすよー。=Tenho estado esperando por essas palavras. Vou bater e bater até ficar exausto.
+//いやー、わざわざ私の所に来て誘ってくれるなんて女冥利に尽きるってもんすよー。=Bem, é o sonho de uma mulher vir até a minha casa e me convidar para sair.
+//その言葉を待ってたっすー。くたくたになるまでくんずほぐれつするっすよー。=Tenho estado esperando por essas palavras. Vou bater e bater até ficar exausto.
 //享楽{0}=Excitada {0}
-やっぱそうっすよねー。やーお話もいいすけどー私とあなたっつったらもうスケベっきゃないすよー。=É isso mesmo, não é? Você pode falar sobre isso, mas se for só eu e você, tem que ser erótico.
-私もめっちゃシたかったんでーウィンウィンってかーエロエロっすよねー。よろしくっすー。=Há muito tempo eu também quero fazer isso, então é um ganho para todos... Erótico, não é? É um prazer conhecê-lo.
+//やっぱそうっすよねー。やーお話もいいすけどー私とあなたっつったらもうスケベっきゃないすよー。=É isso mesmo, não é? Você pode falar sobre isso, mas se for só eu e você, tem que ser erótico.
+//私もめっちゃシたかったんでーウィンウィンってかーエロエロっすよねー。よろしくっすー。=Há muito tempo eu também quero fazer isso, então é um ganho para todos... Erótico, não é? É um prazer conhecê-lo.
 //嫌悪{0}=Ódio {0}
-はいはいーOKっすよー。=Sim, sim... OK...
-じゃーサクッとヤるっすかー。=Bem, vamos fazer isso rapidamente, certo?
+//はいはいーOKっすよー。=Sim, sim... OK...
+//じゃーサクッとヤるっすかー。=Bem, vamos fazer isso rapidamente, certo?
 //隷属{0}=Submissa {0}
-受け入れ態勢はばっちり整ってるんでーなんでもしていいっすよー、な・ん・で・もー♪=Estou pronto para aceitar tudo o que você quiser, qualquer coisa.
-OKすよー。やっぱ私とあなたの共通点って言ったらエロかスケベか変態かってもんすからねー。=Está tudo bem. Afinal, o que você e eu temos em comum é que ou somos eróticos, obscenos e pervertidos.
+//受け入れ態勢はばっちり整ってるんでーなんでもしていいっすよー、な・ん・で・もー♪=Estou pronto para aceitar tudo o que você quiser, qualquer coisa.
+//OKすよー。やっぱ私とあなたの共通点って言ったらエロかスケベか変態かってもんすからねー。=Está tudo bem. Afinal, o que você e eu temos em comum é que ou somos eróticos, obscenos e pervertidos.

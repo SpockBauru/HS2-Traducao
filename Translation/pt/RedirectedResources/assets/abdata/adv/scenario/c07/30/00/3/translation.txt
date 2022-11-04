@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//ん？　なんだそれは……オレを馬鹿にしてんのか？=
-//何を遠慮してんだ？　よく分かんねぇやつだな。=
+ん？　なんだそれは……オレを馬鹿にしてんのか？=O que é isso? O que isso quer dizer? Você está mexendo comigo?
+何を遠慮してんだ？　よく分かんねぇやつだな。=Por que você está sendo tão esquisito? Eu não entendo...
 //好意{0}=Amor{0}
-//オレをおちょくりに来たのか？　あんま舐めてると、オマエでもぶっ飛ばすぞ？=
-//なんだかよくわからねーが。何でもねぇって言うなら、もうお開きだな。=
+オレをおちょくりに来たのか？　あんま舐めてると、オマエでもぶっ飛ばすぞ？=Tentando fazer graça de mim ou algo assim? Cuidado - eu mordo, você sabe.
+なんだかよくわからねーが。何でもねぇって言うなら、もうお開きだな。=Então, qual é o objetivo? Por que ainda estamos conversando?
 //享楽{0}=Excitada {0}
-//なんだ？　用が無いなら、最初からオレに構うな。=
-//思わせぶりな態度をしてるつもりか？　オレには何にも伝わってねぇぞ？=
+なんだ？　用が無いなら、最初からオレに構うな。=Eh? Então por que mesmo me incomodar em primeiro lugar?
+思わせぶりな態度をしてるつもりか？　オレには何にも伝わってねぇぞ？=Se você está tentando agir com calma ou o que quer que seja, tenho más notícias para você: não está funcionando.
 //嫌悪{0}=Ódio {0}
-//あ？　とことん意味不明なやつだな。用が無いなら、オレの視界に入ってくんな。=
-//クソが。オマエはオレをイラつかせるのが本当に上手いな。=
+あ？　とことん意味不明なやつだな。用が無いなら、オレの視界に入ってくんな。=Eu não te entendo, canalha. Se você não quer falar comigo, fique fora da minha vista.
+クソが。オマエはオレをイラつかせるのが本当に上手いな。=Ugh. Se eles entregassem prêmios por irritar as pessoas, tenho quase certeza que você ficaria em primeiro lugar.
 //隷属{0}=Submissa {0}
-//ほう、オレは試されてるのか？　なぁ、どうなんだ？=
-//つまり、オレから誘われるのを期待してるのか？　そんな受け身なやつには、かける言葉はねぇな。=
+ほう、オレは試されてるのか？　なぁ、どうなんだ？=Tentando descobrir o que me faz fazer carrapato, huh? Como isso está funcionando para você?
+つまり、オレから誘われるのを期待してるのか？　そんな受け身なやつには、かける言葉はねぇな。=Ah, entendi agora - você está esperando que eu lhe dê um soco, certo? Desculpe, mas eu não gosto muito de caras assim.

@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//誰かいないっすかー……？=
-//はー……セックスしてー……=
+誰かいないっすかー……？=Olá? Alguém?
+はー……セックスしてー……=O que eu daria por uma boa foda agora mesmo...
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

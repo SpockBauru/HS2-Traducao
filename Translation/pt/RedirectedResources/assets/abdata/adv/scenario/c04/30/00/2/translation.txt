@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//へぇ、お誘いってわけね。いーよ♪　断る理由ないし。=
-//りょ♪　誘われたら断らないのが～、いい女ってもんだよね～♪=
+へぇ、お誘いってわけね。いーよ♪　断る理由ないし。=Oh meu Deus, isto é uma proposta indecente? Eu sempre quis uma dessas ♪
+りょ♪　誘われたら断らないのが～、いい女ってもんだよね～♪=Claro, por que não! Eu sou um tipo de garota fácil, hehe ♪
 //好意{0}=Amor{0}
-//おっと、ご指名でしたか～。もちおけまる♪=
-//ちょマ？　そんなん、秒で了承なんですけど。んふふ、嬉しみ♪=
+おっと、ご指名でしたか～。もちおけまる♪=Oh meu Deus, você e eu? Sim ♪
+ちょマ？　そんなん、秒で了承なんですけど。んふふ、嬉しみ♪=Ha, #BoraTransar! Hihihi ♪
 //享楽{0}=Excitada {0}
-//んふ～、やっぱそういう話ね。いーよー、アタシもシたかったし♪=
-//よくぼーに素直で大変よろしい♪　んじゃ、どこでしよっか？=
+んふ～、やっぱそういう話ね。いーよー、アタシもシたかったし♪=Oh meu Deus, me chame de paranormal, mas eu sabia que as coisas iam acabar assim ♪
+よくぼーに素直で大変よろしい♪　んじゃ、どこでしよっか？=Eu gosto de um cara que vem até mim e me fala na cara, sabe? Então, onde você quer fazer isso?
 //嫌悪{0}=Ódio {0}
-//はぁ？　なにそれ……他の人じゃダメなの？　マジめんどくさ……=
-//だと思った。アンタってもう、それしか考えてないんでしょ？=
+はぁ？　なにそれ……他の人じゃダメなの？　マジめんどくさ……=Ugh, quero dizer... Será que não poderia ser com outra garota? Não? Pft, bem ok então...
+だと思った。アンタってもう、それしか考えてないんでしょ？=Sim, tenho certeza de que posso sentir o cheiro a uma milha de distância! Você é tão fácil de ler, a sério...
 //隷属{0}=Submissa {0}
 はいキター！　ご指名頂きました～♪　んふ、マジテンアゲ♪=Sim! Fui selecionada ♪ Mmm, estou realmente excitada!
 あはっ、そういうストレートなお誘い大好き♪　むしろ、言われなかったらアタシから誘ってた的な？=Ah, eu amo esse tipo de convite direto ♪ Se você não me tivesse dito, eu mesma o teria convidado para sair.

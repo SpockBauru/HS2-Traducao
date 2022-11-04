@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//いい雰囲気の場所っすね……悪くないっすよ～。=
-//こんな場所も知ってるなんて、あなたって結構侮れないっすねー。=
-//結構いい雰囲気の場所っすね……興奮しそうっすよ。=
-//こんな場所があったんすね、ふぅん。=
-//こんな場所に連れてきてくれたんすから、思いっきり口説いていいっすよ？=
+いい雰囲気の場所っすね……悪くないっすよ～。=Nada mal, eu gosto deste lugar.
+こんな場所も知ってるなんて、あなたって結構侮れないっすねー。=E não é que você tem classe! Eu não esperava que você conhecesse um lugar chique como este.
+結構いい雰囲気の場所っすね……興奮しそうっすよ。=Ahh, o ambiente. Você está me excitando.
+こんな場所があったんすね、ふぅん。=Huh, eu nunca soube que eles tinham um lugar como este aqui.
+こんな場所に連れてきてくれたんすから、思いっきり口説いていいっすよ？=Você me trouxe aqui, então tente me persoadir a tirar as calças. Vá, me dê as melhores cantadas que você tiver!

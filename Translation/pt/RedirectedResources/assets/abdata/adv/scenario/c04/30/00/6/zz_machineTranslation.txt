@@ -2,17 +2,17 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //普通{0}=Normal{0}
-それはアリ……なのかなぁ？=Huh, certo... Você acha?
-また微妙なラインだね……判定がムズイわ。=Sim, eu não sei sobre isso...
+//それはアリ……なのかなぁ？=Huh, certo... Você acha?
+//また微妙なラインだね……判定がムズイわ。=Sim, eu não sei sobre isso...
 //好意{0}=Amor{0}
-……嫌じゃないけど、そこまではちょっとかなぁ。=Hrm, eu não odeio esse tipo de coisa? Mas eu também não amo muito...
-……まー、アンタが好きならいいんじゃん？=Meh, como se fosse isso que você está fazendo!
+//……嫌じゃないけど、そこまではちょっとかなぁ。=Hrm, eu não odeio esse tipo de coisa? Mas eu também não amo muito...
+//……まー、アンタが好きならいいんじゃん？=Meh, como se fosse isso que você está fazendo!
 //享楽{0}=Excitada {0}
-んー、ちょっと違う気もするけど……アリっちゃアリ。=Sim, eu não sei se é assim que eu diria, pessoalmente, mas ei, é um país livre!
-……それどうなん？　楽しいの？=Quero dizer, esse tipo de coisa realmente te faz ir, ou?
+//んー、ちょっと違う気もするけど……アリっちゃアリ。=Sim, eu não sei se é assim que eu diria, pessoalmente, mas ei, é um país livre!
+//……それどうなん？　楽しいの？=Quero dizer, esse tipo de coisa realmente te faz ir, ou?
 //嫌悪{0}=Ódio {0}
-いや、普通にキモい……もうちょっと考えて喋って。=Ew, bruto. Você não consegue pensar um pouco antes de ir dizer esse tipo de coisa?
-……てかさ、それアタシに聞いてどうする気？=Sim, está bem, quero dizer, como talvez? Mas ainda assim, por que você tem que ir falar comigo sobre isso?
+//いや、普通にキモい……もうちょっと考えて喋って。=Ew, bruto. Você não consegue pensar um pouco antes de ir dizer esse tipo de coisa?
+//……てかさ、それアタシに聞いてどうする気？=Sim, está bem, quero dizer, como talvez? Mas ainda assim, por que você tem que ir falar comigo sobre isso?
 //隷属{0}=Submissa {0}
-分かりみー、マジ分かりみ深すぎてヤバイわ。=Oh, que bom ponto! Na verdade? Esse pode ser literalmente o melhor ponto que eu já ouvi, tipo...
-おぉ……アタシもそこまでは……=Oh meu Deus, é exatamente como eu me sinto!
+//分かりみー、マジ分かりみ深すぎてヤバイわ。=Oh, que bom ponto! Na verdade? Esse pode ser literalmente o melhor ponto que eu já ouvi, tipo...
+//おぉ……アタシもそこまでは……=Oh meu Deus, é exatamente como eu me sinto!

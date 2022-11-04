@@ -2,12 +2,12 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //隷属{0}=Submissa {0}
-おいおい、こんな気持ち悪いやつとヤれって言うのか？=Espere, você espera seriamente que foda com essas coisas desagradáveis?
-流石にオレでも引くレベルだぞ……普通の女なら悲鳴あげてるだろうな。=Mesmo para mim isso é um pouco exagerado. Tenho quase certeza de que a maioria das garotas já estaria gritando agora mesmo.
-ま、ヤってりゃ慣れるとこもあるだろうし。ウダウダ言うのはこの辺でやめとくか……=Eh, ainda assim, nunca se sabe até que se tente. Acho que devo parar de reclamar e seguir em frente...
-コイツ……オマエの命令は聞くのか？　おい、目反らすな……=Então esta coisa obedece a todas as suas ordens, ou... Espere, por que essa cara? Você quer dizer que não é o seu animal de estimação?!
-まぁオマエのペットじゃないなら、逆にオレが手懐けることも可能ってわけか……=Ainda assim, acho que isso significa que há uma chance de domá-lo para mim mesma, não é?
-ハッ、それじゃ一勝負だな。オレと触手……勝った方がご主人様だ。=Ha, nesse caso, é a sua vez! Espero que você esteja pronto para ser dominado pelos meus leais escravos tentáculos!
-たく、どこから連れてきたんだこんなバケモン……=Oh, pelo amor de... Tentáculos, realmente?! Onde você encontra coisas como essas?
-だらだらと垂れてるのは涎か？　オレを襲う気マンマンてわけだ……=Espere, eles são... Babando? Ugh, acho que isso significa que eles estão felizes em me conhecer...
-上等……人間様を舐めるとどうなるか教えてやるよ。=Por mim tudo bem. É hora de mostrar a estes apêndices alienígenas desagradáveis que eu estou no topo da cadeia alimentar!
+//おいおい、こんな気持ち悪いやつとヤれって言うのか？=Espere, você espera seriamente que foda com essas coisas desagradáveis?
+//流石にオレでも引くレベルだぞ……普通の女なら悲鳴あげてるだろうな。=Mesmo para mim isso é um pouco exagerado. Tenho quase certeza de que a maioria das garotas já estaria gritando agora mesmo.
+//ま、ヤってりゃ慣れるとこもあるだろうし。ウダウダ言うのはこの辺でやめとくか……=Eh, ainda assim, nunca se sabe até que se tente. Acho que devo parar de reclamar e seguir em frente...
+//コイツ……オマエの命令は聞くのか？　おい、目反らすな……=Então esta coisa obedece a todas as suas ordens, ou... Espere, por que essa cara? Você quer dizer que não é o seu animal de estimação?!
+//まぁオマエのペットじゃないなら、逆にオレが手懐けることも可能ってわけか……=Ainda assim, acho que isso significa que há uma chance de domá-lo para mim mesma, não é?
+//ハッ、それじゃ一勝負だな。オレと触手……勝った方がご主人様だ。=Ha, nesse caso, é a sua vez! Espero que você esteja pronto para ser dominado pelos meus leais escravos tentáculos!
+//たく、どこから連れてきたんだこんなバケモン……=Oh, pelo amor de... Tentáculos, realmente?! Onde você encontra coisas como essas?
+//だらだらと垂れてるのは涎か？　オレを襲う気マンマンてわけだ……=Espere, eles são... Babando? Ugh, acho que isso significa que eles estão felizes em me conhecer...
+//上等……人間様を舐めるとどうなるか教えてやるよ。=Por mim tudo bem. É hora de mostrar a estes apêndices alienígenas desagradáveis que eu estou no topo da cadeia alimentar!
