@@ -2,7 +2,7 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //汎用普通{0}=Objetivo Geral Normal {0}
-こんにちは。=Olá.
+//こんにちは。=Olá.
 どうも。破廉恥なことばかり考えてはいけませんよ？=Obrigado. Não pense em todas as coisas vergonhosas que você fez.
 何かをお探しですか？=Você está procurando por algo?
 //汎用普通用件{0}=Caso comum de uso geral {0}

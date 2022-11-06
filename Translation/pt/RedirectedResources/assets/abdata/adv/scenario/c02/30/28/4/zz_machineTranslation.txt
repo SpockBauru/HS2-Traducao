@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-はぁ……って、あ、あの、いつからここに……？=Huh... E, uh, há quanto tempo você está aqui?
-あら、ここで何を？　……ふーん……？=Oh, o que você está fazendo aqui? Hmm?

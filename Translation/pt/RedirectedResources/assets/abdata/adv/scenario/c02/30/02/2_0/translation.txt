@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なにしてたのA普通{0}=
-//ちょっとここの施設の在り方について、ですかね。=
-//他愛のない話です。前からと後ろから、どちらが好きなのか、と。=
+ちょっとここの施設の在り方について、ですかね。=Estávamos apenas falando sobre o que está acontecendo ultimamente aqui.
+他愛のない話です。前からと後ろから、どちらが好きなのか、と。=Nada, na verdade, apenas se gostamos da frente ou de trás, é tudo.
 //なにしてたのA好意{0}=
-//別に、理想の相手はどんな人かって話をしていただけですよ……=
-//あ、甘い恋が好きなのか、そうではないか……そんな話です。=
+別に、理想の相手はどんな人かって話をしていただけですよ……=Nada. Bem, na verdade... Como seria nosso parceiro perfeito.
+あ、甘い恋が好きなのか、そうではないか……そんな話です。=Ah, bem... Só se preferimos amor romântico meloso, ou algo assim... Mais sombrio.
 //なにしてたのA享楽{0}=
-//どんな体位で相手を追い詰めるのが好きなのか、という話ですね。=
-//攻める時はいかにして攻めるか、という議論です。=
+どんな体位で相手を追い詰めるのが好きなのか、という話ですね。=Um tema divertido! Especificamente, que posições gostamos de usar para colocar nosso parceiro de joelhos.
+攻める時はいかにして攻めるか、という議論です。=Estávamos debatendo os melhores métodos para assumir a liderança durante o sexo.
 //なにしてたのA嫌悪{0}=
-//嫌いな人はこのまま嫌うべきかどうか、という話です。=
-//別に……明日の天気について話してただけですよ。=
+嫌いな人はこのまま嫌うべきかどうか、という話です。=Estávamos falando sobre se deveríamos ou não perdoar as pessoas que odiamos. Eu, eu me inclino para esta última...
+別に……明日の天気について話してただけですよ。=Nada. O tempo. Você não vai receber mais de mim.
 //なにしてたのA隷属{0}=
-//セフレとはどこでラインを引くものなのか、という議論ですね。=
-//オナニーについてですね。私はシたいときにするよりも、性欲を限界まで我慢してからするほうが好みなのですが……=
+セフレとはどこでラインを引くものなのか、という議論ですね。=Estávamos debatendo onde é melhor traçar a linha com os amigos de sexo.
+オナニーについてですね。私はシたいときにするよりも、性欲を限界まで我慢してからするほうが好みなのですが……=Estávamos discutindo a masturbação. Eu, gosto de resistir ao impulso até não aguentar mais, então...

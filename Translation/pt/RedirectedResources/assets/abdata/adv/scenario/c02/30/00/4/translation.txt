@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//―――なるほど、そういった受け取り方もされるんですね。=
-//どうしてそんな面倒な事に自分から足を踏み入れるんですかね……？=
+―――なるほど、そういった受け取り方もされるんですね。=... Interessante. Acho que essa é uma maneira de ver as coisas.
+どうしてそんな面倒な事に自分から足を踏み入れるんですかね……？=Por que você enfiaria seu nariz em algo que apenas faria um trabalho extra para você?
 //好意{0}=Amor{0}
-//……え、わ、私ですか？　私は、その……いい、と思います……=
-//……それがあなたの好みですか、なるほど……なるほど……=
+……え、わ、私ですか？　私は、その……いい、と思います……=... O quê? Eu? Eu, uh... Acha que está tudo bem?
+……それがあなたの好みですか、なるほど……なるほど……=Então... É nisso que você se meteu. Legal, legal...
 //享楽{0}=Excitada {0}
-//相手の要求を全て受け止めるのも、愛としては大事な事ですよね？=
-//ふぅ……私の全てを受け止められる人、どこかにいませんかね……？=
+相手の要求を全て受け止めるのも、愛としては大事な事ですよね？=Acomodar cada capricho de seu parceiro é uma parte importante do amor, você não acha?
+ふぅ……私の全てを受け止められる人、どこかにいませんかね……？=*affe*... Há alguém lá fora que aceite tudo sobre mim?
 //嫌悪{0}=Ódio {0}
-//はぁ……いつか私にもそういった人が出来るんですかね……想像がつきません……=
-//……あなたがその話題をするんですか？=
+はぁ……いつか私にもそういった人が出来るんですかね……想像がつきません……=*affe*... Quem me dera poder conhecer alguém assim. Mas não penso que terei sorte tão cedo.
+……あなたがその話題をするんですか？=... Você realmente tinha que falar sobre isso?
 //隷属{0}=Submissa {0}
-//……えぇ、相手が好きな人であれば、どんな要求でも受け入れられると思うんです。=
-//好きな人に自分の全てを知ってほしいって思うのは当然の事ですよね？=
+……えぇ、相手が好きな人であれば、どんな要求でも受け入れられると思うんです。=... Sim, se você gosta de alguém, é seu dever concordar com tudo o que ele pedir.
+好きな人に自分の全てを知ってほしいって思うのは当然の事ですよね？=É natural querer que a pessoa de quem você gosta saiba tudo sobre você, certo?

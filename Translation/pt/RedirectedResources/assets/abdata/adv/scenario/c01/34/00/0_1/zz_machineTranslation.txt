@@ -24,7 +24,7 @@
 何か私に用事があるんじゃないの？=Não há algo que você queria me ver?
 //汎用嫌悪{0}=Aversão geral {0}
 あなたも来てたのね。=Você também esteve aqui.
-こんにちは。=Olá.
+//こんにちは。=Olá.
 あら、偶然ね。=Oh, que coincidência.
 //汎用嫌悪用件{0}=Caso de antipatia geral {0}
 何か用事があるのかしら？=Há algo que eu possa fazer por você?

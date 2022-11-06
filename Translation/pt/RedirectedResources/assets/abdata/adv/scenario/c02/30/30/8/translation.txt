@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//え、ちょ、どこへ連れてく気ですか……っ！？=
-//え、あの、話聞いてましたか……？　ちょっと……っ=
-//あら、こんな状態の私を連れ回す気ですか……？=
-//きゃっ、ちょ、ちょっと、引っ張らないでください……っ！=
-//えっと、まさかこのまま……？=
+え、ちょ、どこへ連れてく気ですか……っ！？=Ei, para onde você está me levando?!
+え、あの、話聞いてましたか……？　ちょっと……っ=Olá? Você está me ouvindo? Olá?
+あら、こんな状態の私を連れ回す気ですか……？=Uau. Você quer me arrastar para algum lugar com eu estando neste estado?
+きゃっ、ちょ、ちょっと、引っ張らないでください……っ！=Eeep! Ei, pare de me puxar!
+えっと、まさかこのまま……？=Hum, isto vai me fazer... Você sabe?

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //H事後A普通{0}=
-//ふぅ、これで満足ですか？=
-//二人を相手して、どうでしたかね？=
+ふぅ、これで満足ですか？=Phew... Como foi isso? Satisfatório?
+二人を相手して、どうでしたかね？=Como foi lidar com duas ao mesmo tempo?
 //H事後A好意{0}=
-//……で、もちろん私の方が気持ちよかったですよね？=
-//私、頑張ったつもりですけど……どうでしたか？=
+……で、もちろん私の方が気持ちよかったですよね？=... Então? Qual de nós foi melhor? Eu, certo?
+私、頑張ったつもりですけど……どうでしたか？=Eu realmente dei tudo de mim lá. Qual foi a sensação?
 //H事後A享楽{0}=
-//さて、両手に花でしたが、如何でしたか？=
-//楽しい一時もここまで、でしょうかね？=
+さて、両手に花でしたが、如何でしたか？=Então, o que você achou de ter uma flor em cada mão para brincar?
+楽しい一時もここまで、でしょうかね？=Acho que a diversão acabou, por enquanto?
 //H事後A嫌悪{0}=
-//はぁ、無駄に疲れましたね……=
-//もう、いいですよね……？=
+はぁ、無駄に疲れましたね……=Blegh. Estou exausta... De muitas maneiras.
+もう、いいですよね……？=Então, nós terminamos?
 //H事後A隷属{0}=
-//やはり目の前で感じてる人がいると、それに引っ張られますね……=
-//私の淫れた姿、二人の目にはどう映りましたかね？=
+やはり目の前で感じてる人がいると、それに引っ張られますね……=É realmente mais fácil se sentir bem quando se tem outra pessoa gemendo de prazer ao seu lado.
+私の淫れた姿、二人の目にはどう映りましたかね？=Eu fui uma garota muito, muito levada... O que vocês dois acharam?

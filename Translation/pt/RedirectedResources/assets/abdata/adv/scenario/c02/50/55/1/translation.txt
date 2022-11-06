@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //依存{0}=Dependência {0}
-//今からでも、婚姻届を書いて出しに行きませんか？　私の欄は、もう記入済みです。=
-//あ……でも、証人の欄は私達だけじゃ埋められませんね……残念です。=
-//あなたの愛を感じることが出来て、私は幸せです……私の愛は、あなたに伝わっていましたか？　伝わっていない様でしたら、もう一度……=
-//あ……伝わっていたんですね。それは良かったです……♪=
-//教会であなたと……本当に夢の様な時間でした。=
-//……夢じゃないですよね？　幸せ過ぎて、自分の妄想だったのかと、疑ってしまいそうです……=
+今からでも、婚姻届を書いて出しに行きませんか？　私の欄は、もう記入済みです。=Devemos assinar os papéis de casamento e enviá-los para a prefeitura? Eu já preenchi minha metade.
+あ……でも、証人の欄は私達だけじゃ埋められませんね……残念です。=Ah... Mas suponho que precisamos de uma testemunha para assinar também. Que vergonha.
+あなたの愛を感じることが出来て、私は幸せです……私の愛は、あなたに伝わっていましたか？　伝わっていない様でしたら、もう一度……=Ahhh, bem-aventurança. Eu senti o quanto você me ama. Você sentiu o quanto eu te amo também? Se não, que tal outra rodada?
+あ……伝わっていたんですね。それは良かったです……♪=Ah... Então meus sentimentos se transmitiram. Isso é bom.
+教会であなたと……本当に夢の様な時間でした。=Fazer isso com você aqui foi como um sonho tornado realidade.
+……夢じゃないですよね？　幸せ過ぎて、自分の妄想だったのかと、疑ってしまいそうです……=... Não é um sonho? Tudo foi tão perfeito que eu estava preocupado por ter me perdido em uma fantasia particular.

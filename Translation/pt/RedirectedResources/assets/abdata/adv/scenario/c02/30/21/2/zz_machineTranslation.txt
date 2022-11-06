@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-だめです。　早くあなたを私の体液で消毒しないと……っ=Não, não, não. Preciso desinfetá-lo com meus fluidos...
-何してるんですか？　どこへ行こうというんですか？　あなたが来るのは、私のナカにですよ……？=O que você está fazendo? Aonde você pensa que vai? Você está vindo pela minha naka?
-//逃げ出した=Você escapou

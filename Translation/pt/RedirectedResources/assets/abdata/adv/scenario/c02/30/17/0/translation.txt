@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//はぁ、何でこんな目に……=
-//こんな姿、誰かに見られたら……=
+はぁ、何でこんな目に……=*affe* Por que isso sempre acontece comigo?
+こんな姿、誰かに見られたら……=Só espero que ninguém me veja antes que eu possa sair disto...
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

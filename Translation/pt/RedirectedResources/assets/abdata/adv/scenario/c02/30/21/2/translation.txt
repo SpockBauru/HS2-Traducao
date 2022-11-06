@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//だめです。　早くあなたを私の体液で消毒しないと……っ=
-//何してるんですか？　どこへ行こうというんですか？　あなたが来るのは、私のナカにですよ……？=
+だめです。　早くあなたを私の体液で消毒しないと……っ=Não. Você não pode sair até que eu o limpe com todos os meus sucos.
+何してるんですか？　どこへ行こうというんですか？　あなたが来るのは、私のナカにですよ……？=O que você está fazendo? Por que você está fugindo? Você deveria entrar dentro de mim.
 逃げ出した=Você escapou

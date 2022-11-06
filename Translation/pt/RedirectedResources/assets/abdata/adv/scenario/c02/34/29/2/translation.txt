@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あれ、こんな所でどうしたんですか？=
-//どうしました？　まさか……覗いてたりしてませんよね……？=
-//えっと……まぁ、何をしていたかは聞かない事にしてあげますけど、どうしましたか？=
-//……何してるんですか？　まさか……=
-//はぁ……っと、すみません、する前から火照ってしまいまして……=
+あれ、こんな所でどうしたんですか？=Oh... O que você está fazendo aqui?
+どうしました？　まさか……覗いてたりしてませんよね……？=O que é isso? Espere, não me diga que você estava... Bisbilhotando?
+えっと……まぁ、何をしていたかは聞かない事にしてあげますけど、どうしましたか？=Um... Não vou me incomodar em perguntar o que você está fazendo aqui. Posso ajudá-lo em alguma coisa?
+……何してるんですか？　まさか……=... O que você está fazendo? Espere. Espere. Você estava?
+はぁ……っと、すみません、する前から火照ってしまいまして……=Nnnhh... Oh, desculpe, eu estava pegando fogo antes de fazer isso.

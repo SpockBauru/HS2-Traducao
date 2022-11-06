@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//それでは、私はこれで……失礼します。=
-//すみません、この先予定がありますので……では。=
+それでは、私はこれで……失礼します。=Bem, então eu vou andando.
+すみません、この先予定がありますので……では。=Desculpe, mas tenho que estar em outro lugar. Tchau.
 //好意{0}=Amor{0}
-//……それでは、また何かありましたら声をかけてくださいね。=
-//あなたとの会話は、その……楽しい、ので……また、お願いします……=
+……それでは、また何かありましたら声をかけてくださいね。=... Tenho que correr. Me ligue, talvez?
+あなたとの会話は、その……楽しい、ので……また、お願いします……=Eu, uh... Me diverti conversando. Então, bem... Eu não odiaria se fizéssemos isso de novo.
 //享楽{0}=Excitada {0}
-//それではこれで。また、お話しましょうね？=
-//……っと、いい時間ですね。それではまた。=
+それではこれで。また、お話しましょうね？=Ei, tenho que ir andando. Vamos fazer isso de novo, ok?
+……っと、いい時間ですね。それではまた。=... Olha só a hora. Vejo você por aí.
 //嫌悪{0}=Ódio {0}
-//もういいですか？　それでは。=
-//すみません時間がないので。では。=
+もういいですか？　それでは。=Estamos conversados? Muito bem. Tchau.
+すみません時間がないので。では。=Sim, desculpe e tudo mais, mas eu tenho que estar em algum lugar. Tchau.
 //隷属{0}=Submissa {0}
-//もっとお話したいのですが……すみません、これで失礼します。=
-//また、あなたのお話聞かせてください。いろいろ参考になりますから……では。=
+もっとお話したいのですが……すみません、これで失礼します。=Eu adoraria conversar mais, mas... Eu realmente preciso ir andando.
+また、あなたのお話聞かせてください。いろいろ参考になりますから……では。=Vamos continuar esta conversa outro dia, ok? Tem sido muito... Educativo

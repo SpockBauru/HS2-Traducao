@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あ……すいません、お邪魔します。=
+あ……すいません、お邪魔します。=Ah... Olá, desculpe o incômodo.
 //好意50_汎用{0}=
-//それでは、失礼します。=
-//お邪魔しますね。=
-//では……=
+それでは、失礼します。=Espero que você não se importe se eu me sentir em casa.
+お邪魔しますね。=Importa-se que eu me junte a você?
+では……=Então...
 ・・・・・=...
 //好意50続き{0}=
-//ありがとうございます。　ちょっと、あなたの声が聞きたくなってしまいました……=
-//不思議です。あなたみたいな人でも、傍にいると何だか落ち着くんです……=
-//また今度も、お邪魔させてもらいます。　ありがとうございました。=
-//すいません、急にあなたが恋しくなってしまって……=
+ありがとうございます。　ちょっと、あなたの声が聞きたくなってしまいました……=Obrigada por ter estado comigo. I... Queria ouvir sua voz.
+不思議です。あなたみたいな人でも、傍にいると何だか落ち着くんです……=É estranho. Somos tão diferentes, mas me sinto tão relaxada ao seu lado...
+また今度も、お邪魔させてもらいます。　ありがとうございました。=Espero que não se importe se eu voltar a passar por aqui?
+すいません、急にあなたが恋しくなってしまって……=Desculpe incomodá-lo, mas acabei de sentir sua falta, é tudo...
 //好意80_汎用{0}=

@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あ……その、ちょっと抜け出せなくなってしまって……=
-//っと、とりあえず、助けてください。もう、我慢が……っ=
-//ふぅ、こういう事は好奇心でするものではないですね……=
-//とりあえず、トイレにも行きたいので早めに助けて頂けると……=
-//……何ですか？　笑いにでも来たんですか？=
-//ひ、一人でなんとかしますから、早くこの場から消えてくださいっ。=
-//あ……すみません、こんな無防備な姿で……=
-//このままでは、あなたの目の前で漏らしちゃう事に……=
+あ……その、ちょっと抜け出せなくなってしまって……=Ah... Eu... Fiquei um pouco presa.
+っと、とりあえず、助けてください。もう、我慢が……っ=Então, ajuda? Por favor... Não posso me segurar por muito mais tempo!
+ふぅ、こういう事は好奇心でするものではないですね……=*afff* A curiosidade levou a melhor desta vez.
+とりあえず、トイレにも行きたいので早めに助けて頂けると……=De qualquer forma, eu adoraria se você me ajudasse, e rápido. Eu preciso ir no banheiro...
+……何ですか？　笑いにでも来たんですか？=... O quê, aqui para rir de mim?
+ひ、一人でなんとかしますから、早くこの場から消えてくださいっ。=Eu posso sair disto sem a sua ajuda. Então, desapareça.
+あ……すみません、こんな無防備な姿で……=Oh nãooo, estou tão presa e indefeso!
+このままでは、あなたの目の前で漏らしちゃう事に……=Eu poderia me molhar na sua frente se ninguém me resgatar!
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

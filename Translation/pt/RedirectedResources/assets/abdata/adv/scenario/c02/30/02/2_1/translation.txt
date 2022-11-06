@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あなたはどう思いますか？=
-//あなたの意見、聞かせてください。=
-//そうですね……あなただったら、どう思いますか？=
-//……一応、あなたの意見も聞いておきますか。=
-//あなたの考えも聞いてみたいですね。=
+あなたはどう思いますか？=O que você acha?
+あなたの意見、聞かせてください。=Qual é a sua opinião sobre o assunto?
+そうですね……あなただったら、どう思いますか？=Hmm... E você? O que você acha?
+……一応、あなたの意見も聞いておきますか。=... Acho que vou lhe pedir sua opinião. E daí?
+あなたの考えも聞いてみたいですね。=Eu adoraria ouvir o que você pensa.

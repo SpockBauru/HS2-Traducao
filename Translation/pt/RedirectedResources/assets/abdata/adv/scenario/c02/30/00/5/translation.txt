@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//こういった人生です、楽しんだ者勝ちですよね結局は。=
-//―――その楽しみ方は私も知りませんでしたね……=
+こういった人生です、楽しんだ者勝ちですよね結局は。=No final das contas, a vida é sobre se divertir. Divirta-se e você ganhou.
+―――その楽しみ方は私も知りませんでしたね……=... Eu nunca soube que você poderia fazer isso assim.
 //好意{0}=Amor{0}
-//―――そういった楽しみ、あなたと一緒に経験してみたい……です……=
-//―――ふーん、そうですか…………私も覚えなきゃ……=
+―――そういった楽しみ、あなたと一緒に経験してみたい……です……=Eu... Adoraria experimentar esse tipo de coisa... Com você.
+―――ふーん、そうですか…………私も覚えなきゃ……=... Hmm, acho que isso faz sentido. Vou tentar manter isso em mente.
 //享楽{0}=Excitada {0}
-//―――えぇ、楽しいですよ？　あなたの困った顔を見るのは……♪=
-//私だったら、もっと強引に行きますね。そうじゃないと楽しくないじゃないですか。=
+―――えぇ、楽しいですよ？　あなたの困った顔を見るのは……♪=... O que é isso? Ah, sim, estou me divertindo muito! Vê-lo todo confuso é hilário ♪
+私だったら、もっと強引に行きますね。そうじゃないと楽しくないじゃないですか。=Acho que vou começar a ficar mais agressiva. De que outra forma me divertirei, a menos que eu o procure?
 //嫌悪{0}=Ódio {0}
-//楽しい事……少なくとも、今この状況は楽しくないですね。=
-//―――あの、もう少し楽しい話をしてくれませんか？=
+楽しい事……少なくとも、今この状況は楽しくないですね。=Coisas divertidas, coisas divertidas... Você me pegou. No mínimo, eu sei que isso aqui não é nada divertido.
+―――あの、もう少し楽しい話をしてくれませんか？=... Você não pode ser mais divertido?
 //隷属{0}=Submissa {0}
-//好きな相手が喜ぶ事をする。とても大事な事です。=
-//……そうですね、そうやってグイグイと来て堕ちない雌はいないと思います。=
+好きな相手が喜ぶ事をする。とても大事な事です。=É importante fazer a pessoa que você ama feliz.
+……そうですね、そうやってグイグイと来て堕ちない雌はいないと思います。=... Sim, eu acho que não há muitas garotas que possam resistir a um cara assim.

@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//最低な人間だとは常々思っていましたが、ここまでとは……=
-//しばらく顔も見たくありません。消えてください。=
-//今まで会った人の仲で、あなたが一番嫌いです。それもダントツの一番です。=
-//心から人を憎いと思ったのは初めてです……こんな感情、別に知りたくはありませんでした。=
-//たった今、罪を犯したというのに、何故清々しい顔をしているんですか……？　狂っているとしか思えません。=
-//こんな人と関わってしまうなんて……人生の汚点です。=
+最低な人間だとは常々思っていましたが、ここまでとは……=Eu havia suposto que você era uma pessoa terrível, mas nunca imaginei que fosse TÃO terrível.
+しばらく顔も見たくありません。消えてください。=Eu não quero ver seu rosto agora. Vá embora.
+今まで会った人の仲で、あなたが一番嫌いです。それもダントツの一番です。=Você é a pior pessoa que eu já conheci. Por uma larga margem.
+心から人を憎いと思ったのは初めてです……こんな感情、別に知りたくはありませんでした。=Esta é a primeira vez que acho que realmente desprezei alguém. Não é uma emoção que eu realmente quis experimentar.
+たった今、罪を犯したというのに、何故清々しい顔をしているんですか……？　狂っているとしか思えません。=Isso foi basicamente ilegal, você percebe? Então por que você parece tão feliz? Você deve estar louco.
+こんな人と関わってしまうなんて……人生の汚点です。=Tenho vergonha de alguma vez ter falado com alguém como você.

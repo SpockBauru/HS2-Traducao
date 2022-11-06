@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//はぁ、そうですか。=
-//わかりました、それではまた。=
+はぁ、そうですか。=*affe* Ok.
+わかりました、それではまた。=Eu entendo. Adeus, então.
 //好意{0}=Amor{0}
-//……そうですか、では。=
-//用がなくても私に会いに来てくれた、という事にしておきますね。=
+……そうですか、では。=... Estou vendo. Tchau.
+用がなくても私に会いに来てくれた、という事にしておきますね。=Então você só queria me ver? É assim que eu vou interpretar isto.
 //享楽{0}=Excitada {0}
-//私の顔を見に来ただけって事ですね、わかりました。=
-//あら、何もしないんですね、わかりました。=
+私の顔を見に来ただけって事ですね、わかりました。=Você veio só para me ver? Que bom.
+あら、何もしないんですね、わかりました。=Oh. Você não quer fazer nada? Nada mesmo? Tudo bem.
 //嫌悪{0}=Ódio {0}
-//なら声をかけないでください。=
-//そうですか、なら私に用はないですよね、さようなら。=
+なら声をかけないでください。=Então não me aborreça em primeiro lugar.
+そうですか、なら私に用はないですよね、さようなら。=Certo, certo. Então adeus, adios, sayonara.
 //隷属{0}=Submissa {0}
-//そうですか、残念です……=
-//また何かありましたら、いつでも声をかけてください。=
+そうですか、残念です……=Oh. Isso é uma pena.
+また何かありましたら、いつでも声をかけてください。=Se você precisar de alguma coisa -QUALQUER COISA- basta pedir. Está bem?

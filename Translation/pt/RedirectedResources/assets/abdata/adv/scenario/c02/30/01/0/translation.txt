@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //汎用{0}=
-//あぁ……あなたから会いに来てくれたなんて……=
-//あなたに会いたいという願い、通じたようですね。=
-//嬉しい……あなたと出会えるなんて……♪=
+あぁ……あなたから会いに来てくれたなんて……=Ahh... Estou tão feliz por você ter vindo me ver...
+あなたに会いたいという願い、通じたようですね。=Eu rezei para que você viesse me ver. Acho que essas orações foram atendidas...
+嬉しい……あなたと出会えるなんて……♪=Estou tão, tão feliz por podermos estar juntos hoje...
 //風呂{0}=
-//あなたもお風呂ですか？　さ、一緒に入りましょう？=
-//あ……ささ、こちらへ……冷えてしまいますよ？=
+あなたもお風呂ですか？　さ、一緒に入りましょう？=Você está aqui para um banho? Então, que tal tomarmos um juntos?
+あ……ささ、こちらへ……冷えてしまいますよ？=Ah... Apresse-se, por aqui, por favor. A água está ficando fria.
 //用件{0}=
-//さて……あなたのお望みは、勿論私とのセックス……ですよね？=
-//それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=
+さて……あなたのお望みは、勿論私とのセックス……ですよね？=Sim. Sim... Você está aqui para transar comigo, certo? Certo?!
+それでは、早速セックスの準備に取り掛かりましょう。　……違いませんよね？=Isso é ótimo! Apresse-se e tire as calças, está na hora do sexo! É HORA DO SEXO, ENTENDEU?
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようB普通{0}=
-//まぁいつもしている事と変わりはないですし……しちゃいますか。=
-//これもプレイの一環として、大人しく受けましょうか。=
+まぁいつもしている事と変わりはないですし……しちゃいますか。=Eh, não é que isto não seja diferente do que fazemos todos os dias. Claro, vamos fazer isso.
+これもプレイの一環として、大人しく受けましょうか。=Isto pode ser uma brincadeira divertida. Vou dar uma chance.
 //HしようB好意{0}=
-//い、いいですけど、するからには……わかってますよね？=
-//もぉ……あなたに誘われたら、嫌とは言えないじゃないですか……=
+い、いいですけど、するからには……わかってますよね？=Claro, mas... Você sabe o que eu quero, certo?
+もぉ……あなたに誘われたら、嫌とは言えないじゃないですか……=Suspire. Não posso dizer não a você.
 //HしようB享楽{0}=
-//ふふっ、楽しい事になってきましたね？=
-//では、二人でしっかりと攻め立ててあげましょうか。=
+ふふっ、楽しい事になってきましたね？=Hehe. Isto está ficando interessante!
+では、二人でしっかりと攻め立ててあげましょうか。=Nesse caso, nós duas vamos pular de cabeça!
 //HしようB嫌悪{0}=
-//はぁ、私だけならともかく、他の人を巻き込まないであげてください……=
-//どうせ断れないですからね……さっさと済ませますよ。=
+はぁ、私だけならともかく、他の人を巻き込まないであげてください……=*affe* Você não só está me incomodando, mas a ela agora também? Está bem.
+どうせ断れないですからね……さっさと済ませますよ。=Gostando ou não, é para isso que estou aqui. Vamos fazer isso rápido.
 //HしようB隷属{0}=
-//勿論、断る理由なんてありませんよ。=
-//私達を雌堕ちさせようと？　それは楽しみですね……=
+勿論、断る理由なんてありませんよ。=Não vejo motivo para dizer não.
+私達を雌堕ちさせようと？　それは楽しみですね……=Você vai fazer com que ambas nos submetamos a seus caprichos sexuais? Isso soa... Divertido.

@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-そんな訳ありません。ほら、身体は私を求めてるじゃないですか……ほらぁ……♪=Isso não é possível. Vês, meu corpo me quer... Vês...
-何を言ってるんですか？　あなたが私と出会う理由……そんなの、セックスをする以外ありえないじゃないですか……？=Do que você está falando? A única razão de você me conhecer... É para transar comigo?

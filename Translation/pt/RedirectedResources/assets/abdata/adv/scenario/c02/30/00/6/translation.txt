@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//―――確かに、受け入れる事も大事ではありますね……=
-//……そんなモノを平気で受け入れる人もいるんですね、世の中怖いですね……=
+―――確かに、受け入れる事も大事ではありますね……=... Sim, é importante aceitar.
+……そんなモノを平気で受け入れる人もいるんですね、世の中怖いですね……=... Há realmente pessoas que estão interessadas nisso? Sinceramente, isso me aterroriza.
 //好意{0}=Amor{0}
-//……え？　私ですか？　そ、それは勿論、好きな人が求めてるなら……=
-//……相手次第ですけど、それがもしあなただったら、まぁ……受け止め……る努力くらいはしますよ？=
+……え？　私ですか？　そ、それは勿論、好きな人が求めてるなら……=... O quê? Eu? Bem, se meu parceiro quiser, então talvez?
+……相手次第ですけど、それがもしあなただったら、まぁ……受け止め……る努力くらいはしますよ？=... Depende da pessoa que perguntar. Se foi você? Hmm... Eu tentaria... Pensar no assunto?
 //享楽{0}=Excitada {0}
-//相手がＭであるなら、何も容赦する必要なんてないですよね？=
-//受けな相手でも、ただマグロを相手するのはちょっとつまらないんですよね……返り討ちにするのがいいんですよ。=
+相手がＭであるなら、何も容赦する必要なんてないですよね？=Se seu parceiro é um masoquista, então não há razão para se conter, não é mesmo?
+受けな相手でも、ただマグロを相手するのはちょっとつまらないんですよね……返り討ちにするのがいいんですよ。=Fazer sexo só por fazer é muito chato. Faça alguma coisa, pegue de jeito! Isso é o que o torna divertido.
 //嫌悪{0}=Ódio {0}
-//……そんな人生の何が楽しいんですかね？=
-//……それって、ただの奴隷と何が違うんですか？=
+……そんな人生の何が楽しいんですかね？=... O que há de divertido numa vida como essa?
+……それって、ただの奴隷と何が違うんですか？=... Isso não faz de você apenas um escravo dos caprichos de outra pessoa?
 //隷属{0}=Submissa {0}
-//―――その気持ち、すごくわかります。私でもそうします。=
-//私はいくらでも待てますね。待つ事には慣れていますから……=
+―――その気持ち、すごくわかります。私でもそうします。=... Eu entendo isso. Eu entendo tanto assim. É como, 100% eu.
+私はいくらでも待てますね。待つ事には慣れていますから……=Eu me sentava ali e levava qualquer coisa para meu parceiro. Eu sou boa nisso.

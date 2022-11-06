@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//すみません、お待たせしました。=
-//ごめんなさい、もう大丈夫です。=
-//何やら視線を感じた気がしますが……気の所為ですかね？=
-//別に待ってなくてもよかったんですが……=
-//もう大丈夫です、いつでもOKです。=
+すみません、お待たせしました。=Peço desculpas por tê-lo feito esperar.
+ごめんなさい、もう大丈夫です。=Ahh, estou me sentindo melhor agora. Desculpe por mantê-lo esperando.
+何やら視線を感じた気がしますが……気の所為ですかね？=Eu poderia jurar que senti alguém observando... Era a minha imaginação, certo?
+別に待ってなくてもよかったんですが……=Eu preferiria que você não tivesse esperado por mim.
+もう大丈夫です、いつでもOKです。=Estou bem agora. Estou pronta para tudo.

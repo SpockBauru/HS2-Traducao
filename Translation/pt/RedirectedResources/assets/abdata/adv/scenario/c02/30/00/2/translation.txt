@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//それはまぁ構いませんが……随分唐突ですね。=
-//いいですよ、シましょうか。=
+それはまぁ構いませんが……随分唐突ですね。=Claro, eu não me importo... Um pouco abrupto, mas claro.
+いいですよ、シましょうか。=Eu estou dentro. Vamos fazer isso.
 //好意{0}=Amor{0}
-//そんなに私とシたいんですか？　し、仕方ありませんね……=
-//私とですか？　……いいですよ？=
+そんなに私とシたいんですか？　し、仕方ありませんね……=Você quer assim tanto transar comigo? Bem, eu acho que não me importo...
+私とですか？　……いいですよ？=Sexo? Comigo? Absolutamente?
 //享楽{0}=Excitada {0}
-//何ですか？　私を見て発情でもしちゃったんですか？=
-//この場で、ですか……ふふっ、見境ないですね？=
+何ですか？　私を見て発情でもしちゃったんですか？=Espere, espere... Eu realmente o excito tanto assim?
+この場で、ですか……ふふっ、見境ないですね？=Aqui? Hehe, você não tem nenhum escrúpulo, né?
 //嫌悪{0}=Ódio {0}
-//どうせ拒否権なんてないですよね……？=
-//ふん、断れないのを知っているくせに……=
+どうせ拒否権なんてないですよね……？=Você vai me deixar em paz se eu disser que sim?
+ふん、断れないのを知っているくせに……=Ugh. Você sabe que eu não vou dizer não...
 //隷属{0}=Submissa {0}
-//あなたがシたいのなら、断る理由なんてありませんからね。=
-//えぇ、早速始めましょうか。=
+あなたがシたいのなら、断る理由なんてありませんからね。=Se você me quer, eu não tenho motivo para recusar.
+えぇ、早速始めましょうか。=Oh sim, vamos a isso.
