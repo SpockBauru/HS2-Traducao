@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後A普通{0}=
-//それでは私たちはこれで。=
-//で、では……また。=
+それでは私たちはこれで。=Então vamos andando... Tchau.
+で、では……また。=Um... Adeus...
 //会話事後A好意{0}=
-//こ、今度また……ゆっくりお話ししましょう。=
-//ま、またお話できる機会があれば……いつでも声をかけてくださいね。=
+こ、今度また……ゆっくりお話ししましょう。=Vamos conversar novamente... Quando você tiver tempo, isto é...
+ま、またお話できる機会があれば……いつでも声をかけてくださいね。=Hum, então... Se você quiser... Você pode falar comigo a qualquer hora que quiser.
 //会話事後A享楽{0}=
-//今度話す時には、もっともっと……あなたのこと、教えてくださいね。=
-//次はその……ふ、二人きりで……もっと……性的なお話でも……えへへ……=
+今度話す時には、もっともっと……あなたのこと、教えてくださいね。=Eu... Gostaria de aprender ainda mais sobre você da próxima vez que conversarmos...
+次はその……ふ、二人きりで……もっと……性的なお話でも……えへへ……=Então, da próxima vez, um... Eu gostaria de falar sobre... Você sabe... Coisas eróticas... Só com nós dois... Hehe...
 //会話事後A嫌悪{0}=
-//ほっ……そ、それではさよなら……=
-//そ、それでは……失礼します……=
+ほっ……そ、それではさよなら……=Ufa... Certo... Adeus, então.
+そ、それでは……失礼します……=Então se me der licença...
 //会話事後A隷属{0}=
-//少しでもお話できて嬉しかったです……ではまた。=
-//こ、今度は逆に……あなたが聞きたいことも……質問してくださいね。=
+少しでもお話できて嬉しかったです……ではまた。=Foi só conversa fiada, mas você fez com que me sentisse incrível... Então... Tchau.
+こ、今度は逆に……あなたが聞きたいことも……質問してくださいね。=Da próxima vez... Você pode me fazer perguntas... Se você quiser...

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……け、結構大胆な話ですね……=
-//……あ……ぅ……ちょ、ちょっと……顔が熱くなってきました……=
+……け、結構大胆な話ですね……=Uau, isso é... Como você pode ser tão avançado?
+……あ……ぅ……ちょ、ちょっと……顔が熱くなってきました……=Eu... Uhh... Espero que meu rosto não esteja ficando vermelho...
 //好意{0}=Amor{0}
-//……そ、それは……女の子も同じかなって思います……けど……あっ、いえ、もしかしたら私だけ……かも……=
-//……そ、それって……あまり普通じゃないような気も……あっ、わ、私はっ……そんなに経験がないから……自信ないですけど……=
+……そ、それは……女の子も同じかなって思います……けど……あっ、いえ、もしかしたら私だけ……かも……=Acho que é o mesmo para a maioria das garotas... Ou talvez seja só para mim...
+……そ、それって……あまり普通じゃないような気も……あっ、わ、私はっ……そんなに経験がないから……自信ないですけど……=Isso não parece normal... Não que eu soubesse, já que não tenho quase nenhuma experiência com isso...
 //享楽{0}=Excitada {0}
-//え、えっと……そういうこと、もしもあなたがしたいのであれば……わ、私も……興味はありますよ？=
-//あ、あなたが悦ぶことなら……もっと詳しく聞かせて欲しいです……=
+え、えっと……そういうこと、もしもあなたがしたいのであれば……わ、私も……興味はありますよ？=Então, um... Você sabe... Se você quiser experimentar isso algum dia, eu... Não me importaria de forma alguma...
+あ、あなたが悦ぶことなら……もっと詳しく聞かせて欲しいです……=Se isso é o que lhe dá prazer... Por favor, me fale mais sobre isso...
 //嫌悪{0}=Ódio {0}
-//……ま、まさか……そんなことまでしたいなんて……う……ぅ……か、覚悟が必要です……=
-//あ、あの……その話……い、今する必要があるんでしょうか……？=
+……ま、まさか……そんなことまでしたいなんて……う……ぅ……か、覚悟が必要です……=Você está disposto a chegar... Tão longe?! Eu vou... Um... Vou precisar de tempo para me preparar mentalmente...
+あ、あの……その話……い、今する必要があるんでしょうか……？=Você... Hum... Você realmente precisava me dizer isso aqui e agora?
 //隷属{0}=Submissa {0}
-//……ほ、他の娘は分かりませんけど……わ、私でしたら……そういうことも……え、えへへ……=
-//あ、あのっ……私で良ければ……あなたが考えているようなこと……いつでも受け入れますよ……？=
+……ほ、他の娘は分かりませんけど……わ、私でしたら……そういうことも……え、えへへ……=Não tenho muita certeza sobre as outras garotas... Mas eu, eu não me importaria... Hehe...
+あ、あのっ……私で良ければ……あなたが考えているようなこと……いつでも受け入れますよ……？=Desculpe-me, eu, isto é, se você não se importa de fazer isso comigo, eu sempre estarei à altura do que você acabou de descrever?

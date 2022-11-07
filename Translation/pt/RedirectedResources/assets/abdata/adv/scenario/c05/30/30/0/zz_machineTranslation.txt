@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あ、あのっ……すみません……ちょっとだけお待ち頂けますか？=Oh, um... Desculpe-me... Você pode esperar um momento?
-あっ、えっと……その……お、お手洗いへ……行きたいんですけど……=Eu gostaria de usar o banheiro, mas...
-ん……す、すみません、急にお手洗いへ行きたくなってしまって……少しだけお待ちください。=Hmm... Desculpe, tive que ir ao banheiro de repente... Por favor, espere um momento.
-す、すみません、少し、ここで待っていて頂けますか？　ほんの少しだけ……ですので……=Desculpe, você pode esperar aqui um momento? É só por um tempo, então...
-は……ぅ……ちょっと恥ずかしいんですけど……お、お手洗いへ……行かせてください……=Estou um pouco envergonhado, mas... Por favor, deixe-me ir ao banheiro.

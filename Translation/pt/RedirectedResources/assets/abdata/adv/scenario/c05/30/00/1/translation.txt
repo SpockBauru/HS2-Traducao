@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//ど、どんなお話をしますか……？=
-//わ、私に分かるお話だといいのですが……=
+ど、どんなお話をしますか……？=Conversar? Você tem alguma coisa... Particular em sua mente?
+わ、私に分かるお話だといいのですが……=Bem... Espero que não se trate de algo muito complicado para mim...
 //好意{0}=Amor{0}
-//あ、あなたとお話……どんなことを話しましょう？=
-//き、聞きたいこととかあれば、何でもどうぞ。=
+あ、あなたとお話……どんなことを話しましょう？=Conversar... Comigo? Hum... Sobre o que você quer falar?
+き、聞きたいこととかあれば、何でもどうぞ。=Hum... Bem... Se você tiver alguma pergunta sobre mim, eu ficaria mais do que feliz em responder.
 //享楽{0}=Excitada {0}
-//ふふっ、一体どんなことを聞かれるんでしょう……？=
-//もしかして……私のことで知りたいこととかありますか？=
+ふふっ、一体どんなことを聞かれるんでしょう……？=Hehe, pergunto-me que tipo de perguntas você vai me fazer?
+もしかして……私のことで知りたいこととかありますか？=Havia... Algo a meu respeito que você queria saber mais?
 //嫌悪{0}=Ódio {0}
-//い、一体何の話をするつもり……ですか……？=
-//あ、あなたとお話なんて……ど、どんなことを話すんだろう……？=
+い、一体何の話をするつもり……ですか……？=O que há sequer para falar?
+あ、あなたとお話なんて……ど、どんなことを話すんだろう……？=Conversar com... Com você? Sobre o quê?
 //隷属{0}=Submissa {0}
-//ふふっ、何を話ましょう？　あなたとのお話……それだけで嬉しいです。=
-//ど、どんな話題が好き……でしょうか……？=
+ふふっ、何を話ましょう？　あなたとのお話……それだけで嬉しいです。=Hehe, sobre o que você quer falar? Vale tudo, desde que eu possa passar tempo com você.
+ど、どんな話題が好き……でしょうか……？=Bem... Você tem algum tema em particular em mente?
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

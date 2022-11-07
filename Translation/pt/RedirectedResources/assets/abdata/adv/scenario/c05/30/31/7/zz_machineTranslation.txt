@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ま、待っててくれたんですね、ありがとうございます。=Bem, você tem estado esperando por mim, não tem? Obrigado.
-思ったよりも遅くなってしまって……ごめんなさい。=Sinto muito ter demorado mais do que eu pensava... Sinto muito.
-お待たせしました。ふふっ、待ってる間、どんなことを考えてくれてたんですか？=Desculpe por tê-lo feito esperar. Hehe, o que você tinha em mente enquanto esperava?
-こ、こんな私を待っててくれたんですか……て、てっきり……帰っちゃうかと思ってました……=Pensei que você fosse embora...
-あ……ふふっ、出てきたらあなたが待っててくれるって……なんだかすごく幸せです……=Ah... Hehe... Ter você esperando por mim quando eu saio... Isso me deixa tão feliz...

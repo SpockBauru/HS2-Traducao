@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようA普通{0}=
-//ちょ、直球なんですね……=
-//も、もちろんっ……嫌じゃない……ですけど……ちょっと恥ずかしいです……=
+ちょ、直球なんですね……=Oh... Está bem... Direto ao ponto...
+も、もちろんっ……嫌じゃない……ですけど……ちょっと恥ずかしいです……=Claro... Não é que eu não queira, é só que é um pouco... Um... Embaraçoso...
 //HしようA好意{0}=
-//わ、私なら大丈夫ですよっ……どちらかと言えば……したい……ですし……=
-//え、ええ……あなたがしたいのであれば、私は……喜んで……=
+わ、私なら大丈夫ですよっ……どちらかと言えば……したい……ですし……=Eu estou bem para isso! Quero dizer... É o que eu quero... Então...
+え、ええ……あなたがしたいのであれば、私は……喜んで……=Sim... Se é isso que você quer... Com prazer.
 //HしようA享楽{0}=
-//一緒に……ですか？　ふふっ、あなたって……そういうのが好きなんですね。=
-//え、ええ、私は……そういうのも興味がありますけど……この娘はどうでしょうか？=
+一緒に……ですか？　ふふっ、あなたって……そういうのが好きなんですね。=Juntos? Hehe, então eu acho que você gosta de coisas pervertidas...
+え、ええ、私は……そういうのも興味がありますけど……この娘はどうでしょうか？=Claro, eu sou... Tudo por isso, mas o que dizer dela?
 //HしようA嫌悪{0}=
-//や、やっぱり……そういうことになるんですね……うぅぅ……=
-//そ、それは受け入れますけど……あまり無茶はしないでください……=
+や、やっぱり……そういうことになるんですね……うぅぅ……=Eu... Eu sabia que... *suspiro*
+そ、それは受け入れますけど……あまり無茶はしないでください……=Eu vou... Permitir... Mas não seja muito bruto, está bem?
 //HしようA隷属{0}=
-//ふふっ、きっとそう言ってくれると信じてました……たくさん……してください……=
-//せっかく会えたんですから……そういうことしないと勿体ないですもんね……えへへ。=
+ふふっ、きっとそう言ってくれると信じてました……たくさん……してください……=Hehe, eu sabia que você diria isso. Dê... Tudo o que você tem...
+せっかく会えたんですから……そういうことしないと勿体ないですもんね……えへへ。=Esta é uma oportunidade tão boa quanto qualquer outra, certo? Não devemos desperdiçá-la... Hehe...

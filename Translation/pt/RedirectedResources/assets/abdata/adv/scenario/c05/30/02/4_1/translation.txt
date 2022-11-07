@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後B普通{0}=
-//あなたとお話出来て良かったです……参考になりました。=
-//や、やっぱり……たくさんの方の意見を聞くことは大切ですね。=
+あなたとお話出来て良かったです……参考になりました。=Foi muito bom conversar com você... Já estou me sentindo mais inteligente.
+や、やっぱり……たくさんの方の意見を聞くことは大切ですね。=Eu... Hum... Realmente deveria pedir a opinião de mais pessoas...
 //会話事後B好意{0}=
-//お話を聞かせてくれて、ありがとうございました。=
-//ふふっ、あなたの意見が聞けて良かったです。=
+お話を聞かせてくれて、ありがとうございました。=Obrigada... Foi bom ouvir seus pensamentos.
+ふふっ、あなたの意見が聞けて良かったです。=Hehe, tenho sorte de ter ouvido o que você pensa.
 //会話事後B享楽{0}=
-//ほんの少しだけでも……あなたのことが知られて良かった……=
-//え、えっと……少しでもあなたの好みが理解できるよう、頑張りますね。=
+ほんの少しだけでも……あなたのことが知られて良かった……=Estou feliz por conhecê-lo melhor, pouco a pouco...
+え、えっと……少しでもあなたの好みが理解できるよう、頑張りますね。=Um... Eu prometo que vou tentar ao máximo entender suas preferências...
 //会話事後B嫌悪{0}=
-//そ、そういう考え方の人なんだとは……理解しました……=
-//う……こ、今後の参考には……させて頂きます……=
+そ、そういう考え方の人なんだとは……理解しました……=Eu... Hum... Bem... Eu entendo agora... Você tem um... Uma maneira particular de ver as coisas...
+う……こ、今後の参考には……させて頂きます……=Er... Eu vou... Um... Guarde o que você... Disse em mente...
 //会話事後B隷属{0}=
-//ふふっ、あなたの言葉……何よりも重みがあります……=
-//すごく……勉強になりました……また聞かせてくださいね。=
+ふふっ、あなたの言葉……何よりも重みがあります……=Hehe... Para mim, suas palavras valem seu peso em ouro...
+すごく……勉強になりました……また聞かせてくださいね。=Obrigada, isso foi... Realmente esclarecedor. Podemos ter outra conversa como esta algum dia?

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//え、ええ……そんな風に気持ちが変わることは……あると思いますよ。=
-//……た、確かに……あ、相手によってドキドキの種類は違います……=
+え、ええ……そんな風に気持ちが変わることは……あると思いますよ。=Você mudou de idéia... Assim, sem mais nem menos? Sim... Eu posso ver por que...
+……た、確かに……あ、相手によってドキドキの種類は違います……=Ah, agora que você menciona isso... É um tipo diferente de nervosismo... Acho que depende de quem eles são...
 //好意{0}=Amor{0}
-//わ、私はっ……今までそういう経験が無かったですから……え？　今……ですか？　今は……その……はぅうぅ……=
-//……そ、それは大変でしたね……でも……お相手の方もきっと……好意でやっていたんじゃ……=
+わ、私はっ……今までそういう経験が無かったですから……え？　今……ですか？　今は……その……はぅうぅ……=Bem, eu nunca tive a chance de usá-los, então, "e agora?" você diz? Bem, eu... Hum...*cochicha*
+……そ、それは大変でしたね……でも……お相手の方もきっと……好意でやっていたんじゃ……=Uau, eu sinto sua dor... Mas parece que o seu... Um... O coração estava no lugar certo...
 //享楽{0}=Excitada {0}
-//お、女の子の場合、好きって気持ちと……え……エッチしたいって気持ちは……ほとんど一緒かなって思いますよ。=
-//……そういう考え方もありますね。ふふっ、覚えておきます。=
+お、女の子の場合、好きって気持ちと……え……エッチしたいって気持ちは……ほとんど一緒かなって思いますよ。=Bem, do ponto de vista de uma garota... Eu acho que o sentimento de amor e a sensação de querer... Sexo... É o mesmo.
+……そういう考え方もありますね。ふふっ、覚えておきます。=Hehe... Eu nunca vi dessa maneira... Não me esquecerei do que você disse.
 //嫌悪{0}=Ódio {0}
-//……こ、こういうことを私と話して……い、一体何になるんでしょう？=
-//う……ご、ごめんなさい……そういう話題は……わ、私、ちょっと……=
+……こ、こういうことを私と話して……い、一体何になるんでしょう？=O que você está até tentando conseguir, discutindo isso com... Comigo... De todas as pessoas?
+う……ご、ごめんなさい……そういう話題は……わ、私、ちょっと……=Eu... Desculpe... Esse tipo de coisa está completamente fora dos limites para mim...
 //隷属{0}=Submissa {0}
-//あなたは……そんなことまで考えてくれてたんですね……ふふっ、嬉しいです。=
-//え、えっと……そ、それって一般論ですか？　それとも……あなたの気持ち……？=
+あなたは……そんなことまで考えてくれてたんですね……ふふっ、嬉しいです。=Hehe, pare com isso... Eu não sabia que você se importava tanto comigo...
+え、えっと……そ、それって一般論ですか？　それとも……あなたの気持ち……？=Em geral... Ou é isso o que você realmente pensa?

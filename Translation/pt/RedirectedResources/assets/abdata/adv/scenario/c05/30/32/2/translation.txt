@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 ・・・・・=...
-//あ……あれ……あなた……もしかしてずっと待っててくれたんですか？=
-//あ……おはようございます……え……ずっとここにいてくれたんですか……あ……ありがとうございますっ。=
-//おはようございます、もしかしてここにいたんですか……？　ど、どうせなら……夜這いしてくれても……なんて……えへへ……=
-//ひゃっ……こんな時間に起きてごめんなさいっ……どうかっ、怒らないでっ……=
-//こんな早くからあなたに会えるなんて……ありがとうございますっ、えへへ。=
+あ……あれ……あなた……もしかしてずっと待っててくれたんですか？=Oh... O quê? Você estava esperando por mim este tempo todo?
+あ……おはようございます……え……ずっとここにいてくれたんですか……あ……ありがとうございますっ。=Uhh... Oh! Bom dia... Desculpe, você estava me esperando acordar? Obrigada...
+おはようございます、もしかしてここにいたんですか……？　ど、どうせなら……夜這いしてくれても……なんて……えへへ……=Oh... Bom dia... Ignore-me se estou sendo esquisita, mas você poderia ter feito coisas comigo enquanto eu dormia... Hehe...
+ひゃっ……こんな時間に起きてごめんなさいっ……どうかっ、怒らないでっ……=Ah! Desculpe-me! Eu sei que já passou da hora de dormir... Vou voltar a dormir, por favor não fique bravo!
+こんな早くからあなたに会えるなんて……ありがとうございますっ、えへへ。=Eu acordo e a primeira coisa que vejo é... Você! Você já fez o meu... Um... Dia melhor... Hehe...

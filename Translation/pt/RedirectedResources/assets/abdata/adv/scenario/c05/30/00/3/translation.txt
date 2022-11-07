@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//あ……そ、そうでしたか……=
-//た、たまたまお会いしただけだったんですね。=
+あ……そ、そうでしたか……=Um... Claro, está bem então...
+た、たまたまお会いしただけだったんですね。=Acabou de me encontrar, eu acho.
 //好意{0}=Amor{0}
-//あ……て、てっきり私を探してくれたのかと……すみません……=
-//ぐ、偶然声を掛けて頂いただけですもんね。=
+あ……て、てっきり私を探してくれたのかと……すみません……=Oh... Desculpe, eu só... Pensei que você estava me procurando...
+ぐ、偶然声を掛けて頂いただけですもんね。=Claro, você acabou de me ver aqui para dar um oi, certo? Tenho certeza de que você está ocupado.
 //享楽{0}=Excitada {0}
-//あ……せっかく会えたと思ったんですけど……本当にたまたまただったんですね……=
-//そう……ですか……では、あまり引き止めない方がいいですね。=
+あ……せっかく会えたと思ったんですけど……本当にたまたまただったんですね……=Oh... Desculpe, eu esperava que você estivesse aqui para me ver, mas acho que não é esse o caso...
+そう……ですか……では、あまり引き止めない方がいいですね。=Oh... Ok... Eu provavelmente não deveria fazer você perder tempo, então.
 //嫌悪{0}=Ódio {0}
-//で、でしたら……よ……呼び止めないでください……=
-//そ、そうですか……良かった……そ、それじゃ私はこれで……=
+で、でしたら……よ……呼び止めないでください……=Então, um... Talvez você... Não deveria ter falado comigo em primeiro lugar...
+そ、そうですか……良かった……そ、それじゃ私はこれで……=Ah, bom... Então eu me retiro...
 //隷属{0}=Submissa {0}
-//なんでもない……ですか……うぅ、ちょっと残念です……=
-//せ、せっかくお会い出来たと思ったのに……また何かあれば、声をかけてくださいね。=
+なんでもない……ですか……うぅ、ちょっと残念です……=Você tem que ir? Awww...
+せ、せっかくお会い出来たと思ったのに……また何かあれば、声をかけてくださいね。=Mas acabamos de nos encontrar... Me avise se precisar de alguma coisa.

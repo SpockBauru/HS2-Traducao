@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あれ……ここにいたんですか？　も、もしかして待っててくれたんでしょうか？=
-//あっ、き、気付かずにすみませんっ……ついゆっくり浴びてしまいました。=
-//もう少し早く来てくれたら……一緒に入っても良かったんですけど……えへへ。=
-//こ、こんなところで……私が上がるのを待ってたんですか……？=
-//どうせならあなたと一緒に浴びたかったです……なんて……=
+あれ……ここにいたんですか？　も、もしかして待っててくれたんでしょうか？=Oh, olá... Você estava... Um... Esperando por mim aqui?
+あっ、き、気付かずにすみませんっ……ついゆっくり浴びてしまいました。=Oh, sinto muito! Eu não sabia que estava tomando banho...
+もう少し早く来てくれたら……一緒に入っても良かったんですけど……えへへ。=Se você... Se você tivesse vindo aqui antes, poderíamos ter tomado banho juntos... Hehe...
+こ、こんなところで……私が上がるのを待ってたんですか……？=Ack! Você está nas sombras? Você estava... À espera que eu terminasse de tomar banho?
+どうせならあなたと一緒に浴びたかったです……なんて……=Eu gostaria de ter tomado banho com você... Hehe... Estou brincando...

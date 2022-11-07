@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あ、あなただったら……どう思いますか？=Oh, se fosse você... O que você pensaria?
-あ、あの……あなたの意見も……聞かせてもらえますか？=Oh, um... Posso ter sua opinião... Também?
-私……あなたの考えも気になります……聞いてもいいですか？=Estou... Curioso sobre seus pensamentos, também... Se você não se importa que eu pergunte.
-い、一応……あなたの意見も聞きたいのですが……=Bem, só para o caso de... Gostaríamos de ouvir sua opinião também...
-あ、あなたは……今の話について、どう思いますか？=Uh, o que você... O que você pensa sobre o que acabamos de falar?

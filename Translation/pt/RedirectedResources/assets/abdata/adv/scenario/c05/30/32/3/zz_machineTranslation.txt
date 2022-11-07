@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ん……ふぅ……な……なに……すぅ……=Hmm.. Isso?
-ん……ふぅ……すぅ……んん……熱いぃ……すぅ……=Mmm-hmm. Mmm-hmm. Quente.
-はぁ……んん、あっ、すぅ……変な……感じぃ……すぅ……=Hmmm, oh, que sensação estranha...
-んぅぅ……な、なにか……苦しい、ような……すぅ……んん……=Mmm.. Dores. Mmm...
-すぅ……ん……これはぁ……夢ぇ……？　ん……すぅ……=O que é isto, um sonho? Sim.

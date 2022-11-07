@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あ、あのっ……すみません……ちょっとだけお待ち頂けますか？=
-//あっ、えっと……その……お、お手洗いへ……行きたいんですけど……=
-//ん……す、すみません、急にお手洗いへ行きたくなってしまって……少しだけお待ちください。=
-//す、すみません、少し、ここで待っていて頂けますか？　ほんの少しだけ……ですので……=
-//は……ぅ……ちょっと恥ずかしいんですけど……お、お手洗いへ……行かせてください……=
+あ、あのっ……すみません……ちょっとだけお待ち頂けますか？=Uh... Um... Desculpe-me... Você pode me dar um momento? Desculpe...
+あっ、えっと……その……お、お手洗いへ……行きたいんですけど……=Uhh... Er... Um... Eu... Eu preciso ir para o... Banheiro... Desculpe...
+ん……す、すみません、急にお手洗いへ行きたくなってしまって……少しだけお待ちください。=Nhn... Desculpe... Eu... Necessidade de ir ao banheiro... Eu prometo que volto já.
+す、すみません、少し、ここで待っていて頂けますか？　ほんの少しだけ……ですので……=Lamento muito, mas... Posso pedir-lhe que espere um pouco... Por favor... Eu juro que já volto...
+は……ぅ……ちょっと恥ずかしいんですけど……お、お手洗いへ……行かせてください……=... Não, não é nada... É só... Tudo bem, desculpe! Eu preciso ir ao banheiro...
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

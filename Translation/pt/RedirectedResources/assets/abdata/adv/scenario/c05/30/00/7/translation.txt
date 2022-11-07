@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//な、なるほど……確かに……そ、そういうのにも興味は……あります……=
-//は……ぅぅ……そ、それって……すごく恥ずかしいこと……ですよね？=
+な、なるほど……確かに……そ、そういうのにも興味は……あります……=Estou vendo... Isso me parece interessante...
+は……ぅぅ……そ、それって……すごく恥ずかしいこと……ですよね？=Oh... Hum... A sério? Isso é... Isso é tão... Atrevido... É só eu ou está ficando quente aqui dentro?
 //好意{0}=Amor{0}
-//……ま、まさか……そんなことまでしちゃうんですか……す、すごいです……=
-//ええっ……そ、それって……わ……私もそうなっちゃう可能性があるってこと……ですか……うそ……恥ずかしい……=
+……ま、まさか……そんなことまでしちゃうんですか……す、すごいです……=Eu... Quero dizer, já ouvi a palavra para isso antes, mas... Uau... Como eles podem ir tão longe?
+ええっ……そ、それって……わ……私もそうなっちゃう可能性があるってこと……ですか……うそ……恥ずかしい……=Você quer dizer que... Isso também pode acontecer comigo? Provavelmente não serei capaz de olhar você nos olhos depois...
 //享楽{0}=Excitada {0}
-//ふふっ、あなたはそういうことが好きなんですね……あ、いえ、私も……嫌いじゃないです……=
-//……そ、そんなことまで考えてるんですね。わ、私も見習わなきゃ……=
+ふふっ、あなたはそういうことが好きなんですね……あ、いえ、私も……嫌いじゃないです……=Então é isso que você gosta... Não se preocupe, também tenho... Interesse...
+……そ、そんなことまで考えてるんですね。わ、私も見習わなきゃ……=O pensamento nem sequer me ocorreu... Eu deveria aprender com você...
 //嫌悪{0}=Ódio {0}
-//うぅ……ご、ごめんなさい……その話……恥ずかしくて……=
-//あ、あまり堂々と話す内容じゃないですよ……うぅぅ……=
+うぅ……ご、ごめんなさい……その話……恥ずかしくて……=Uhh... Desculpe... Mas eu preferiria discutir este tópico com outra pessoa...
+あ、あまり堂々と話す内容じゃないですよ……うぅぅ……=Aw... Por favor, não... Isso não é realmente algo a ser discutido abertamente...
 //隷属{0}=Submissa {0}
-//あ……あなたがそういうことを試してみたいのであれば……わ、私は……えへへ……=
-//……ちょ、ちょっと驚きですけど……でも、そういうプレイも有りかな……なんて思います。=
+あ……あなたがそういうことを試してみたいのであれば……わ、私は……えへへ……=Oh... Bem... Se você está pronto para experimentar esses movimentos... Então eu estou, *hihihi*, dentro.
+……ちょ、ちょっと驚きですけど……でも、そういうプレイも有りかな……なんて思います。=Fui pega de surpresa... Mas não o suficiente para... Hum... Voltar a experimentar algo pervertido como aquilo...

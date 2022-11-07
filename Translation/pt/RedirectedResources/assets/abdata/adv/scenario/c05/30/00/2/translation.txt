@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//そ、そんなストレートに……でも……い、いいですよ……=
-//は、恥ずかしいですけど……あなたがそう言うのなら……わ、私は構いません。=
+そ、そんなストレートに……でも……い、いいですよ……=Bem, não é tão simples assim... Mas... Certo...
+は、恥ずかしいですけど……あなたがそう言うのなら……わ、私は構いません。=Eu... Hum... Provavelmente já estou ficando vermelha... Mas, quando é você que está perguntando... Eu estou bem com isso...
 //好意{0}=Amor{0}
-//も、もちろん……私の返事はイエスです……えへへ……=
-//あ……は、はいっ、喜んでっ……って、ちょ、ちょっと恥ずかしいですね……ふふっ。=
+も、もちろん……私の返事はイエスです……えへへ……=É claro! Claro que direi sim... Hehe.
+あ……は、はいっ、喜んでっ……って、ちょ、ちょっと恥ずかしいですね……ふふっ。=Um... Sim, eu adoraria! Desculpe, só estou um pouco nervosa é tudo... Hehe.
 //享楽{0}=Excitada {0}
-//エッチに誘ってもらえるなんて……嬉しい……はい、早速始めましょう。=
-//あ……ふふっ、私もちょうどそんな気分……でした……だから……しましょう、エッチ。=
+エッチに誘ってもらえるなんて……嬉しい……はい、早速始めましょう。=Aww, você está me pedindo por sexo? Claro que sim! Vamos ao que interessa.
+あ……ふふっ、私もちょうどそんな気分……でした……だから……しましょう、エッチ。=Oh... Eu... Hehe... Estava pensando a mesma coisa. Então vamos fazer sexo.
 //嫌悪{0}=Ódio {0}
-//わ、分かりました……う……受け入れます……=
-//うぅ……い、言うことききますから……ひどいことはしないでください……=
+わ、分かりました……う……受け入れます……=Está bem, está bem... Eu... Aceito...
+うぅ……い、言うことききますから……ひどいことはしないでください……=Vou ouvi-lo... Desde que você não muito muito... Rude...
 //隷属{0}=Submissa {0}
-//あ、あなたがしたいのでしたら……わ、私はいつでも準備万端です。=
-//ふふっ、特に聞かなくても……私はいつだって、あなたとしたいですよ、エッチ……=
+あ、あなたがしたいのでしたら……わ、私はいつでも準備万端です。=Se você está disposto a isso... Eu estou sempre pronta para você.
+ふふっ、特に聞かなくても……私はいつだって、あなたとしたいですよ、エッチ……=Hehe, você não precisa nem perguntar... Eu estou sempre pronta para fazer sexo com você.

@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //依存{0}=Dependência {0}
-//ご主人様ぁ……駄犬は、ご主人様と結婚したいだなんて、大層なことは思っていません……=
-//ただずっと……ご主人様のペットとして飼育して欲しいだけなんですぅ……=
-//良い子にしてるので……どうか、お願いです……お願いですからぁ……私から逃げないでください……=
-//あぁ……ご主人様ぁ……駄犬とこんなところに来ちゃいけないですよぉ……=
-//ダメなことなのに……ご主人様と結婚したいだなんて、恥知らずなことを考えちゃいますぅ……=
-//身の程を弁えない駄犬ですみません……駄犬は駄犬らしく、ご奉仕しますねぇ……=
-//ご主人様が式を挙げる時はぁ、是非この駄犬を呼んでください……=
-//ご主人様の為に芸を練習して、披露しちゃいますよぉ……ワンワン……=
-//どんな芸か、ですかぁ……？　それは、今からお見せしますね……=
+ご主人様ぁ……駄犬は、ご主人様と結婚したいだなんて、大層なことは思っていません……=Esta cadelinha não merece se casar com o Mestre...
+ただずっと……ご主人様のペットとして飼育して欲しいだけなんですぅ……=Ela está perfeitamente feliz de ser cuidada como animal de estimação do Mestre!
+良い子にしてるので……どうか、お願いです……お願いですからぁ……私から逃げないでください……=Portanto, por favor, não deixe esta cadelinha... Por favor, por favor... Ela vai ser uma boa garota!
+あぁ……ご主人様ぁ……駄犬とこんなところに来ちゃいけないですよぉ……=Aw... Por favor, não traga essa cadelinha aqui...
+ダメなことなのに……ご主人様と結婚したいだなんて、恥知らずなことを考えちゃいますぅ……=Ela vai ter idéias erradas... Como querer se casar com o Mestre!
+身の程を弁えない駄犬ですみません……駄犬は駄犬らしく、ご奉仕しますねぇ……=Desculpe... Esta cadelinha deveria saber o seu lugar... Ela deveria calar a boca e servir o Mestre...
+ご主人様が式を挙げる時はぁ、是非この駄犬を呼んでください……=É o desejo desta cadelinha que o Mestre a convide para a cerimônia de casamento deles.
+ご主人様の為に芸を練習して、披露しちゃいますよぉ……ワンワン……=Ela vai praticar um truque, e mostrá-lo a todos! Au!
+どんな芸か、ですかぁ……？　それは、今からお見せしますね……=Que tipo de truque? Esta cadelinha vai demonstrá-lo para o Mestre!

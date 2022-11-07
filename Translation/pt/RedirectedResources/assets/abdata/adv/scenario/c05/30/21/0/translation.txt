@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//ご主人様のペットは私だけだと思ってたのに……ごめんなさい、私の独りよがりでした……でも……やっぱり可愛がって欲しいです……=
-//ご主人様ぁ……他のペットになびいちゃ嫌です……駄犬は駄犬なりに……きちんと頑張りますからぁ……=
+ご主人様のペットは私だけだと思ってたのに……ごめんなさい、私の独りよがりでした……でも……やっぱり可愛がって欲しいです……=Sinto muito... Vejo agora que não era para ser sua única animal de estimação... Mas eu ainda quero abraços de você...
+ご主人様ぁ……他のペットになびいちゃ嫌です……駄犬は駄犬なりに……きちんと頑張りますからぁ……=Não, por favor... Esqueça seus outros animais de estimação... Você gostaria mais de mim se eu aprendesse novos truques? Rolar, talvez?
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

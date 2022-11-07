@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ふふっ、シャワー、一緒に浴びてもいいですか？=Hehe, posso tomar um banho com você?
-一人で浴びるよりも二人で浴びた方が……色々と気持ち良くなれますよ？=Você se sentirá muito melhor... De muitas maneiras... Se tomarmos banho juntos do que se você tomar banho sozinho, está bem?
-ここならお互い裸ですし……すぐにでも始められますね……えへへ。=Estamos ambos nus aqui... E podemos começar imediatamente... Ehehe.
-狭い室内でご主人様と二人きり……こんなチャンス、駄犬が見逃すはずないですよぉ……=Sozinho com seu dono em uma pequena sala... Não há como um cão mau perder uma chance dessas...

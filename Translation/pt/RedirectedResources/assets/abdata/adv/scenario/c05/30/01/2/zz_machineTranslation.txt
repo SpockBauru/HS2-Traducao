@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-あ、ありがとうございますっ……はいっ、しましょうっ……早速しましょうっ。=Ah, obrigado... Sim, vamos fazer isso... Vamos fazer isso agora.
-はいぃ……ご主人様ぁ……今日も雌犬の穴、たくさん使ってくださいぃ……=Sim... Mestre... Por favor, use muito o meu buraco de puta hoje...

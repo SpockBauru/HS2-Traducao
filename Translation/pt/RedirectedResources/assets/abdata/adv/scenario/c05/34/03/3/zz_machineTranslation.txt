@@ -1,9 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-きゃぁっ……ど、どうしてこんなところにいるんですかっ……？=O que, por que você está aqui?
-え……な、なんであなたがここにっ……？=O que... Por que você está aqui?
-ひゃんっ……あ、あなたでしたか……もしかして、こういう趣味があるんですか？=Hmm... Oh, é você... Você tem um hobby como este?
-きゃぁっ！　で、出て行ってくださいぃっ！=Aah! Saiam daqui!
-あ……あなた……こんなところに来たってことは……何かしてくれるってこと……ですよね？=Ah... Você... Você veio a este lugar... Isso significa que vai fazer algo por mim... Certo?
-あ……ご主人様。駄犬のこと、綺麗綺麗してくれるんですか？=Oh... Mestre. Você vai limpar a bagunça, não vai?
