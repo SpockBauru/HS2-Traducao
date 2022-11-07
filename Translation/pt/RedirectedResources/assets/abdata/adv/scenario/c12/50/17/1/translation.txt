@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//お、お前、こんな所に……？！　いや、それより、ちょっと手を貸してくれないか？=
-//う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=
-//いやぁ……間抜けで済まねぇ……できればちょっとだけ助けてくれるとありがたいんだけど……=
-//やばい……俺、すげぇオシッコしたくなってきちゃった……=
-//こんな所、まさかお前に見つかるなんて、思ってもみなかった。=
-//待て、頼むから、早く……助けてくれ……理由はいいから、早くぅ……！=
-//身動きの取れない俺を、好きにできるって考えてるんじゃないのか？=
-//まずい……漏れそうだ……我慢の限界が、来てる……=
+お、お前、こんな所に……？！　いや、それより、ちょっと手を貸してくれないか？=Huh?! O que você está fazendo aqui? Meh, quem se importa, ouça, você se importaria de me ajudar?
+う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=Minha bexiga estúpida está me traindo muito agora mesmo, cara!
+いやぁ……間抜けで済まねぇ……できればちょっとだけ助けてくれるとありがたいんだけど……=Desculpa, meu, eu sei que tudo isto deve parecer muito chato... Mesmo assim, você poderia dar uma mãozinha a uma garota?
+やばい……俺、すげぇオシッコしたくなってきちゃった……=Porcaria, estou absolutamente louca para dar uma mijada!
+こんな所、まさかお前に見つかるなんて、思ってもみなかった。=Ugh, não era bem o cara que eu esperava ver agora.
+待て、頼むから、早く……助けてくれ……理由はいいから、早くぅ……！=Mesmo assim, aceito o que posso conseguir! Então, uh, ajude-me a sair daqui? E nada de perguntas também!
+身動きの取れない俺を、好きにできるって考えてるんじゃないのか？=Heh, aposto que você adoraria me ter presa assim... Você está pensando que pode fazer o que quiser comigo, certo?
+まずい……漏れそうだ……我慢の限界が、来てる……=Droga, acho que vou estourar...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

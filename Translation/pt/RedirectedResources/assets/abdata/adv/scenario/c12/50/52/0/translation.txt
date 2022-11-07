@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//お前……こんな所で何するつもりなんだよ。=
-//分かってるだろうな？　変なまね、するんじゃねぇぞ。=
-//おかしなことしたら、許さねぇからな。=
-//何考えてんだよ、お前……ここ、電車だぞ？=
-//分かってんのか？　大人しくしてろよ？=
-//バカ……大人しくしてろって、いってるだろ。=
-//今は、電車の中だって、わかってるんだよな。=
-//だったら、大人しくしてろよ、いいな？=
-//そんな変な動きしたら、目立っちまうだろ。=
+お前……こんな所で何するつもりなんだよ。=Cara... Este não é o lugar para nenhuma de suas porcarias pervertidas, está bem?
+分かってるだろうな？　変なまね、するんじゃねぇぞ。=Você sabe que não pode estar brincando por aqui, não sabe?
+おかしなことしたら、許さねぇからな。=Se você tentar começar qualquer coisa e eu juro que nunca vou deixar você esquecer...
+何考えてんだよ、お前……ここ、電車だぞ？=Mano, sério? Em um maldito trem?!
+分かってんのか？　大人しくしてろよ？=Você está me ouvindo? Calma, cara!
+バカ……大人しくしてろって、いってるだろ。=Eu disse para acalmar, não aumentar o calor para mais de nove mil!
+今は、電車の中だって、わかってるんだよな。=Cara, olhe ao seu redor. Estamos em um trem, ok?!
+だったら、大人しくしてろよ、いいな？=Então nada de suas coisas pervertidas, entendeu?
+そんな変な動きしたら、目立っちまうだろ。=Mais dessas porcarias e as pessoas vão reparar em nós!

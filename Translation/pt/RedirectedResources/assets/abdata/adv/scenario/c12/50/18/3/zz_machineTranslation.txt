@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-お、おい……？！　このまましちゃうのかよ？　お前何考えてんだよ。=Ah, vamos lá? Você vai fazer isso? O que você está pensando?
-やっぱりそう来るか……まぁ、こういうのもたまには面白いかもなぁ！=Eu sabia que você chegaria a isso... Bem, essas coisas às vezes podem ser divertidas!
-お前に何か期待した俺が、馬鹿だったぜ……=Fui um tolo ao esperar qualquer coisa de você...
-やっぱり襲うんだな……うんうん、お前はそうでなくっちゃな。=Eu sabia que você ia me atacar... Sim, sim, você deveria estar.

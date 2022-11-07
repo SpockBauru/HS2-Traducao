@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=
-//……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=
+……好きだからって、何でも言う事聞くかって言われたら……俺は嫌だな。=... Sim, eu não sei. Só porque você gosta de alguém não significa que você tem que aturar todas as suas porcarias, você me entende?
+……命令とお願いは違うだろ？　まぁ、人それぞれだと思うけどな。=Há uma diferença entre pedir educadamente e dar ordens, certo? Ainda assim, as pessoas se interessam por todo tipo de coisas, eu acho.
 //好意{0}=Amor{0}
-//う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=
-//……駆け引きとか、そういうのは良く分かんねぇけど……なんでもいう事聞くのは違う気がするぜ。=
+う～ん、恋とか愛とかよくわかんねぇけど……相手が喜ぶことをしたいって思うのは普通だろ。=Não sou especialista nesta coisa toda de amor e relacionamentos, mas é normal querer fazer seu parceiro feliz, certo?
+……駆け引きとか、そういうのは良く分かんねぇけど……なんでもいう事聞くのは違う気がするぜ。=Acho que você não deve ficar atento a favores e outras coisas, mas também ninguém diz que você tem que ser um escravo.
 //享楽{0}=Excitada {0}
-//――気持ちいいならなんだっていいんじゃねぇの？　深く考えたってしょうがねぇだろ。=
-//……俺にはよくわかんねぇけど、楽しめればそれでいいんじゃねぇの。=
+――気持ちいいならなんだっていいんじゃねぇの？　深く考えたってしょうがねぇだろ。=Desde que se sinta bem, certo? Não adianta pensar demais...
+……俺にはよくわかんねぇけど、楽しめればそれでいいんじゃねぇの。=... Sim, quem sabe realmente? Do meu ponto de vista, desde que você se sinta bem, provavelmente está tudo bem.
 //嫌悪{0}=Ódio {0}
-//……なんの話してんだ？　知るか、そんなもん。=
-//……それで？　何が楽しいんだ、その話？=
+……なんの話してんだ？　知るか、そんなもん。=Espere, o quê? Não tenho a menor idéia do que está acontecendo agora...
+……それで？　何が楽しいんだ、その話？=... Então? Sério, cara, que jeito de ter uma conversa entediante...
 //隷属{0}=Submissa {0}
-//言われるとおりに動く方が楽な場合もあるからな。否定する気はねぇよ。=
-//SとかMとか、誰だってそういうものは持ってるんじゃねぇのか？　その場その場で強く出る方がどっちかってだけだろ。=
+言われるとおりに動く方が楽な場合もあるからな。否定する気はねぇよ。=Eh, eu não me importo muito de receber ordens... Às vezes seu parceiro é o que sabe melhor, certo?
+SとかMとか、誰だってそういうものは持ってるんじゃねぇのか？　その場その場で強く出る方がどっちかってだけだろ。=Acho que todos provavelmente têm um pouco de sadista ou masoquista. É apenas uma questão de qual está mais forte na hora.

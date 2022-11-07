@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-お前はどう思う？=O que você acha?
-お前の場合はどうなんだ？=E você, hein?
-お前の考えってどうなの？=Qual é a sua idéia de um bom momento?
-お前はどうなの？　正直興味ないけど……=E você? Sinceramente, não estou interessado, mas...
-お前はどうなんだ？　聞かせてくれよ。=E você? Eu adoraria ouvir isso.

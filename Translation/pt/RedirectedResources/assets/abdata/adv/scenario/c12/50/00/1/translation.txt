@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//俺と話？　なんの話かわかんないけど、別にいいぜ。=
-//分かった。おしゃべりでもなんでも付き合うぜ。=
+俺と話？　なんの話かわかんないけど、別にいいぜ。=Você quer conversar? Não sei por que você está com tanta pressa, mas com certeza!
+分かった。おしゃべりでもなんでも付き合うぜ。=Sim, está bem. Eu topo conversar... Ou fazer outras coisas.
 //好意{0}=Amor{0}
-//いいぜ。何の話をするんだ？　俺はなんでも付き合うぞ。=
-//分かった、任せろ。俺がお前とたっぷりおしゃべりしてやるからな。=
+いいぜ。何の話をするんだ？　俺はなんでも付き合うぞ。=Legal. Então, sobre o que você quer falar? Eu sou muito fácil com qualquer coisa, realmente.
+分かった、任せろ。俺がお前とたっぷりおしゃべりしてやるからな。=Certo, deixe comigo. Na verdade eu sou muito boa em falar, mano.
 //享楽{0}=Excitada {0}
-//エロい話なら付き合うぞ。=
-//話しだけでいいのか？　まぁ、お前がそれでいいなら付き合うけどな。=
+エロい話なら付き合うぞ。=Desde que seja uma conversa erótica, claro.
+話しだけでいいのか？　まぁ、お前がそれでいいなら付き合うけどな。=Tem certeza que só falar é o suficiente? Meh, por mim tudo bem, eu acho.
 //嫌悪{0}=Ódio {0}
-//お前とおしゃべりだぁ……まぁ、暇だから別にいいけどな。=
-//俺と話したいっていうのか？　こっちは話す事なんかないけどな。=
+お前とおしゃべりだぁ……まぁ、暇だから別にいいけどな。=Nós? Conversar? Tipo eu e você? Ok...
+俺と話したいっていうのか？　こっちは話す事なんかないけどな。=Conversar, hein? Eu não sei... Pessoalmente, não tenho nada a dizer a você.
 //隷属{0}=Submissa {0}
 //おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=
-//お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=
+お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=Claro, mas e se aproveitássemos esta oportunidade para falar sacanagem? Conversa normal também é bom, eu acho...
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

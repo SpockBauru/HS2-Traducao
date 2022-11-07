@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……そうだな、やっぱり人から好きって言われるのは嬉しいもんだぜ。=
-//――俺も昔は恋愛とか興味あったけどさ……今もないわけじゃないんだぜ。=
+……そうだな、やっぱり人から好きって言われるのは嬉しいもんだぜ。=... Sim, isso é verdade. É muito bom quando alguém diz que gosta de você, não é?
+――俺も昔は恋愛とか興味あったけどさ……今もないわけじゃないんだぜ。=... Sim, eu já gostava muito dessa coisa toda de romance há algum tempo. Ainda gosto, eu acho.
 //好意{0}=Amor{0}
-//……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=
-//――ロマンティックなシチュエーションって、一度は体験してみたいもんだぜ……今この瞬間も、悪くないけどな。=
+……お前と恋愛の話とかすると思わなかったな……いや、別に嫌じゃないぞ……むしろ、その……=Eu nunca pensei que acabaríamos falando de amor e porcarias, sabe? Não que eu esteja reclamando, heh.
+――ロマンティックなシチュエーションって、一度は体験してみたいもんだぜ……今この瞬間も、悪くないけどな。=Eu gostaria de tentar um desses "encontros românticos" que todos estão sempre falando, cara. Como neste momento, até mesmo...
 //享楽{0}=Excitada {0}
-//やっぱ愛があれば気持ち良さが変わるもんなのかな……まぁすげぇ気持ちいい相手がいたら、それはもう愛してるみたいなもんか。=
-//……恋人同士だからって、セックスに特別も何もないような気がするんだよな……出して入れるもんは一緒だろ？=
+やっぱ愛があれば気持ち良さが変わるもんなのかな……まぁすげぇ気持ちいい相手がいたら、それはもう愛してるみたいなもんか。=Eu me pergunto se estar apaixonado torna o sexo melhor? Espere, isso significaria que se o sexo é incrível, você já está apaixonado?
+……恋人同士だからって、セックスに特別も何もないような気がするんだよな……出して入れるもんは一緒だろ？=Eu nunca acreditei realmente que estar apaixonado torna o sexo quente. No final das contas, ainda é apenas uma pica e uma buceta, certo?
 //嫌悪{0}=Ódio {0}
-//俺は別に、お前の事何とも思ってないから……いや、マジで。=
-//……この話、まだ続けるのかよ。=
+俺は別に、お前の事何とも思ってないから……いや、マジで。=Deixe-me só esclarecer uma coisa: Eu não estou interessada em você ou algo assim, entendeu?
+……この話、まだ続けるのかよ。=Caramba, quando você vai se calar?
 //隷属{0}=Submissa {0}
-//……好きとか嫌いとか正直わかんねぇけど……要するに合うか合わないかって事だろ？=
-//……俺はお前の事嫌いじゃないぜ……好きって言うのとはちょっと違う気がするけどな。=
+……好きとか嫌いとか正直わかんねぇけど……要するに合うか合わないかって事だろ？=Eu não sei nada sobre esta coisa de gostar de alguém, sabe? Tenho quase certeza que a compatibilidade é mais importante.
+……俺はお前の事嫌いじゃないぜ……好きって言うのとはちょっと違う気がするけどな。=Estou muito interessada em você, sabe? Não estou dizendo que é amor ou algo parecido, mas mesmo assim, você é o meu tipo de cara!

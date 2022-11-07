@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//そうか、わかった。またなんかあったら声かけてくれよ。=
-//何でもないのか。なんかあるんじゃないのか？　まぁ、別にいいけど。=
+そうか、わかった。またなんかあったら声かけてくれよ。=Legal, entendi. Me ligue mais tarde, se precisar de alguma coisa, sim?
+何でもないのか。なんかあるんじゃないのか？　まぁ、別にいいけど。=Você tem certeza? Porque tenho certeza de que há algo em sua mente...
 //好意{0}=Amor{0}
-//そうか。でもちょっとだけでもお前と会えてよかったよ。それじゃあな。=
-//いいよ、別に。お前が俺に声をかけてくれただけで嬉しいぜ。=
+そうか。でもちょっとだけでもお前と会えてよかったよ。それじゃあな。=Muito bem. Mesmo assim, foi um prazer ver você e tudo mais! Tchau!
+いいよ、別に。お前が俺に声をかけてくれただけで嬉しいぜ。=Claro, tanto faz. Estou feliz por termos conseguido nos ver, está me entendendo?
 //享楽{0}=Excitada {0}
-//なんだよ？　なんか変なもん拾い食いしたんじゃねぇだろうな。=
-//そうか。それじゃまたなんかあった時によろしくな。=
+なんだよ？　なんか変なもん拾い食いしたんじゃねぇだろうな。=O que é isso? Você tem algum lugar onde precisa estar de repente?
+そうか。それじゃまたなんかあった時によろしくな。=Certo. Então, vamos botar a conversa em dia mais tarde, beleza?
 //嫌悪{0}=Ódio {0}
-//俺もだ。気が合うな……じゃあな。=
-//俺も用はねぇよ、んじゃ、さいなら。=
+俺もだ。気が合うな……じゃあな。=Tudo bem para mim. Até mais.
+俺も用はねぇよ、んじゃ、さいなら。=Muito bem. Vou agora.
 //隷属{0}=Submissa {0}
-//放置プレイでもするつもりなのか？　だったら乗ってやるよ。じゃあ、後でな。=
-//あれ、なんでもないとは穏やかじゃないな……お前はいつも何かあると思ってたのにな。=
+放置プレイでもするつもりなのか？　だったら乗ってやるよ。じゃあ、後でな。=Você está tentando agir de forma misteriosa e de merda? Porque está funcionando...
+あれ、なんでもないとは穏やかじゃないな……お前はいつも何かあると思ってたのにな。=Huh, isso é estranho... Porque se eu o conheço bem, geralmente há algo que você quer.

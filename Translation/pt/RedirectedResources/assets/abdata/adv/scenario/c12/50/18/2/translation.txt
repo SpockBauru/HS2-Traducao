@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ありがと、本当に助かったぜ。=
-//本当に、本当に助かった……それじゃあ、またな！=
-//なんか、悪かったな、世話かけちゃって……こ、今後ともよろしくな。=
-//ありがとな、おかげで助かったぜ。=
-//本当にありがとな……んじゃ、俺もう行くわ。=
-//いやぁ、お前が来てくれて良かったぜぇ。またなんかあったらよろしくな。=
-//……ありがと、世話かけるな。=
-//お陰で助かったよ……わ、悪いけど、俺急いでっから……！=
-//まぁ、少しだけ見直したぜ。=
-//あれ、助けちゃうのかよ……襲わないで？　まぁいいけど。=
-//助かったぜ、本当に漏れそうだったんだ……それじゃな。=
-//ありがとう、助かったよ……正直、物足りねぇけどな。=
+ありがと、本当に助かったぜ。=Obrigada, cara. Você realmente me salvou a pele!
+本当に、本当に助かった……それじゃあ、またな！=Não vou esquecer isto tão cedo... Enfim, tenho que correr, te vejo mais tarde!
+なんか、悪かったな、世話かけちゃって……こ、今後ともよろしくな。=Desculpe por ser tão chata, hein? Espero que ainda possamos ser amigos...
+ありがとな、おかげで助かったぜ。=Muito obrigada, cara. Eu estava na merda até que você apareceu!
+本当にありがとな……んじゃ、俺もう行くわ。=Eu lhe devo por esta! Vejo você por aí, cara!
+いやぁ、お前が来てくれて良かったぜぇ。またなんかあったらよろしくな。=A sério, ainda bem que você apareceu! É ótimo ter alguém com quem eu possa contar!
+……ありがと、世話かけるな。=Eu aprecio isso, cara.
+お陰で助かったよ……わ、悪いけど、俺急いでっから……！=Você realmente me ajudou. De qualquer forma, olha, tenho que ir agora mesmo, então té mais tarde!
+まぁ、少しだけ見直したぜ。=Hmph... Talvez você não seja tão mau afinal de contas.
+あれ、助けちゃうのかよ……襲わないで？　まぁいいけど。=Ah, vamos lá mano! Eu estava esperando um pouco mais de ação do que isso! Mesmo assim, acho que isto está bem...
+助かったぜ、本当に漏れそうだったんだ……それじゃな。=Eu realmente lhe devo por isso, no entanto, as coisas estavam tão perto de ficar realmente interessantes! De qualquer forma, até mais tarde!
+ありがとう、助かったよ……正直、物足りねぇけどな。=Obrigada, cara, você realmente me fez um bom trabalho. Mas eu também gostaria que você me tivesse dado uma dura... Uma pica dura! Heh!

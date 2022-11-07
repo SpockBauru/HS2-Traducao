@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //H事後B普通{0}=
-//これでお開きだな。それじゃあ、またな。=
-//それじゃ、また三人でするのも、悪くないかもな。=
+これでお開きだな。それじゃあ、またな。=Legal, bem, acho que nos veremos depois!
+それじゃ、また三人でするのも、悪くないかもな。=Talvez nós três pudéssemos fazer isso novamente algum dia, hein?
 //H事後B好意{0}=
-//それじゃあ、俺はもう帰るから。次も声かけてくれよな。=
-//三人も悪くなかったけど……やっぱり、お前と二人が……いや、なんでもない、んじゃ、またな。=
+それじゃあ、俺はもう帰るから。次も声かけてくれよな。=Bem, eu vou embora, mas me ligue de novo um dia destes, tá?
+三人も悪くなかったけど……やっぱり、お前と二人が……いや、なんでもない、んじゃ、またな。=Foi muito bom, mas gosto mais quando são só os nós dois... Ah, espere, não importa! Esqueça o que eu disse!
 //H事後B享楽{0}=
-//盛り上がったなぁ！　次も待ってるぜ。=
-//勿体ないけど、とりあえずこの辺で終わりだな。=
+盛り上がったなぁ！　次も待ってるぜ。=Caramba, isso foi divertido! Mal posso esperar pela próxima vez, mano!
+勿体ないけど、とりあえずこの辺で終わりだな。=Então terminamos, hein? Eu não sei, cara... Parece uma vergonha parar agora!
 //H事後B嫌悪{0}=
-//……じゃあな、お疲れさん。=
-//……んじゃ、さよなら。=
+……じゃあな、お疲れさん。=Então, nos vemos depois pessoal.
+……んじゃ、さよなら。=Vejo vocês por aí.
 //H事後B隷属{0}=
-//いい感じだったな。また、この続きをやろうぜ。=
-//こういう遊びなら、いつでも誘ってくれ。それじゃあ、またな。=
+いい感じだったな。また、この続きをやろうぜ。=Isso correu muito bem! Vamos fazer de novo, sim?
+こういう遊びなら、いつでも誘ってくれ。それじゃあ、またな。=Só para que você saiba, eu estaria disposta a mais deste tipo de coisa se você organizasse um dia...

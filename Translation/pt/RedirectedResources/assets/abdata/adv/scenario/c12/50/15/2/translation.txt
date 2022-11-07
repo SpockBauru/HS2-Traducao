@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=
+実はさ、お前の部屋の方が落ち着くんだよな……これからも、ちょくちょく来てもいいかな？=Algo em seu quarto realmente me ajuda a relaxar... Então nada de reclamar se eu começar a aparecer o tempo todo, entendeu?
 //汎用{0}=
-//やっぱり、お前と一緒の時間が一番きもちいいぜ……なんか、照れちまうな、アハハ……=
-//このままずっと一緒にいたい……なんて、わけにはいかねぇよな……我儘はいわねぇよ。=
-//ありがとな、すげぇ嬉しかった。これ以上いたら帰りたくなくなっちまうから……じゃあ、またな。=
+やっぱり、お前と一緒の時間が一番きもちいいぜ……なんか、照れちまうな、アハハ……=Heh, você realmente me faz sentir melhor do que qualquer outra pessoa, cara. É meio embaraçoso, honestamente.
+このままずっと一緒にいたい……なんて、わけにはいかねぇよな……我儘はいわねぇよ。=Seria muito bom se pudéssemos ficar assim para sempre, não é? Heh, aposto que isso deixaria as outras vadias loucas!
+ありがとな、すげぇ嬉しかった。これ以上いたら帰りたくなくなっちまうから……じゃあ、またな。=Obrigada cara, isto realmente fez meu dia. Vou sair agora antes de começar a ficar toda boba com você, heh...

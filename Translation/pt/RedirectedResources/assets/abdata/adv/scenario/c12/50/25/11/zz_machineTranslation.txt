@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-なんか、色々あって面白そうな部屋だな。=É uma sala interessante, com muita coisa acontecendo.
-ここは……何する部屋って……見たら何となくわかるぜ。=Você sabe... Para que serve esta sala... Quando você a vir.
-ここでお前と遊べるのか？　だったら大歓迎だぜ。=Posso brincar com você aqui? Você é mais do que bem-vindo.
-何のための部屋なんだ？　用がないなら、もう戻るぞ。=Para que serve o espaço? Se você não me quer, eu vou voltar.
-この部屋、なかなか悪くないな……お前と一緒なら楽しめそうだぜ。=Esta sala não é tão ruim... Você e eu poderíamos nos divertir um pouco juntos.

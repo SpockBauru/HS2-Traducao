@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//行っちまうのかよ？！　なんだよ、助けてくれないんだな。=
-//あれ、何にもしないのか？　じゃあせめて誰か呼んできてくれよ。=
-//お前、マジでなんにもしないで行くつもりか？　いいよ、勝手にしろ。=
-//まさか放置プレイのつもりかよ……上級者過ぎて思いもつかなかったぜ。=
+行っちまうのかよ？！　なんだよ、助けてくれないんだな。=Cara, não faça eu me sujar dessa maneira! Você tem que me ajudar, eu lhe imploro!
+あれ、何にもしないのか？　じゃあせめて誰か呼んできてくれよ。=Irmão, sério? Pelo menos chame outra pessoa para me ajudar, cara...
+お前、マジでなんにもしないで行くつもりか？　いいよ、勝手にしろ。=Espere, então você vai me deixar aqui? Você é um idiota, cara.
+まさか放置プレイのつもりかよ……上級者過ぎて思いもつかなかったぜ。=Heh, entendo, esta é uma daquelas coisas sexy em que você me deixa suar um pouco primeiro, certo? Droga, mano... Você tem habilidade!

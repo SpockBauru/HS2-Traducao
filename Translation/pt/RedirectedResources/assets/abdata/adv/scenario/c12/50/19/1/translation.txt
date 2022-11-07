@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//なんだか、急に腰がおかしくなっちゃって……うまく動けないんだよ。=
-//う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=
-//なぁ、腰に全然力が入らなくてやばいんだよ……ちょっと、助けてくれ。=
-//やばい……俺、すげぇオシッコしたくなってきちゃった……=
-//なぁ、もしお前に少しでも良心があるなら、少しだけ手をかしてくれねぇか？=
-//待て、頼むから、早く……助けてくれ……理由はいいから、早くぅ……！=
-//突然、腰に力が入らなくなるとはなぁ……日頃の行いが、悪すぎたか。=
-//まずい……漏れそうだ……我慢の限界が、来てる……=
+なんだか、急に腰がおかしくなっちゃって……うまく動けないんだよ。=Minhas malditas costas travaram repente! Eu não consigo me mexer nem um centímetro, mano!
+う、ウソだろ……こんな時に、オシッコ、したくなるなんて……=Minha bexiga estúpida está me traindo muito agora mesmo, cara!
+なぁ、腰に全然力が入らなくてやばいんだよ……ちょっと、助けてくれ。=Cara, você tem que me ajudar, algo está errado com minhas costas e eu estou meio paralisada aqui!
+やばい……俺、すげぇオシッコしたくなってきちゃった……=Porcaria, estou absolutamente louca para dar uma mijada!
+なぁ、もしお前に少しでも良心があるなら、少しだけ手をかしてくれねぇか？=Olhe, cara, eu sei que você não é exatamente um santo ou nada, mas você acha que poderia ajudar uma garota?
+待て、頼むから、早く……助けてくれ……理由はいいから、早くぅ……！=Mesmo assim, aceito o que posso conseguir! Então, uh, ajude-me a sair daqui? E nada de perguntas também!
+突然、腰に力が入らなくなるとはなぁ……日頃の行いが、悪すぎたか。=Então lá estava eu, quando de repente, bam! Minhas costas me travaram totalmente, você acha que eu preciso explicar mais?
+まずい……漏れそうだ……我慢の限界が、来てる……=Droga, acho que vou estourar...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

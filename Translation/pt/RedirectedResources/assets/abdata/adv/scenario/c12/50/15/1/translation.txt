@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=
+悪いな、突然来ちまって……ちょっとだけ俺と付き合ってくれねぇか？=Desculpe por aparecer assim, mas você ficar comigo um pouco?
 //好意50_汎用{0}=
-//気が付いたらお前の部屋まで来てたんだよなぁ……ちょっとだけ邪魔してもいいか？=
-//忙しい所悪いな……なんか、急にお前の顔が見たくなっちまって……=
-//お前の傍にいると、なんか安心するんだよ……今日も一緒にいてくれるか？=
+気が付いたらお前の部屋まで来てたんだよなぁ……ちょっとだけ邪魔してもいいか？=... E quando dei por mim, estava do lado de fora da sua porta, mano! Vou entrar agora, está bem?
+忙しい所悪いな……なんか、急にお前の顔が見たくなっちまって……=Você não está ocupado nem nada, está? Não? Legal! Só queria passar um tempo com você, cara!
+お前の傍にいると、なんか安心するんだよ……今日も一緒にいてくれるか？=Eu esperava que pudéssemos passar o dia de hoje juntos, talvez... É tão relaxante quando nos encontramos, cara.
 ・・・・・=...
 //好意50続き{0}=
-//ありがとな……それじゃ、俺はこれで帰るよ。=
-//もうこんな時間かよ……悪いな、長居しちまって……それじゃ、ありがとな。=
-//やっぱ、お前と一緒にいられるのが一番楽しいな……それじゃ、またな。=
-//なんか、ちょっとお前が何してんのかなぁって思って……押しかけちまったぜ。=
+ありがとな……それじゃ、俺はこれで帰るよ。=Isto foi divertido... De qualquer forma, acho melhor eu ir andando.
+もうこんな時間かよ……悪いな、長居しちまって……それじゃ、ありがとな。=Caramba, desculpe por ficar até tão tarde. Vejo você por aí, beleza?
+やっぱ、お前と一緒にいられるのが一番楽しいな……それじゃ、またな。=Estar com você é sempre um prazer. Até mais!
+なんか、ちょっとお前が何してんのかなぁって思って……押しかけちまったぜ。=Eu estava me perguntando o que você estava fazendo, então decidi passar por aqui e ver com os meus próprios olhos!
 //好意80_汎用{0}=

@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ここが俺の部屋だ。まぁ、あんまり大したもんはねぇけど、ゆっくりしていってくれ。=
-//一応、ここが俺の部屋だよ……なんだよ、あんまりじろじろ見なくていいからな。=
-//ここが俺が使ってる部屋だ。お前が一緒だともっと楽しい部屋になりそうだな。=
-//お前を連れてきたくなかったけど、しょうがねぇから入れてやったんだぞ、変な事すんなよ。=
-//別に、普通の部屋だと思うけど……お前と一緒に使うならちょっと普通じゃない部屋になりそうだな。=
+ここが俺の部屋だ。まぁ、あんまり大したもんはねぇけど、ゆっくりしていってくれ。=Sim, então este é o meu lugar. Não é nada de especial, mas sita-se como se estivesse em casa!
+一応、ここが俺の部屋だよ……なんだよ、あんまりじろじろ見なくていいからな。=Muito bem, aqui é onde estou ficando... Por que você está olhando assim? É apenas um quarto normal!
+ここが俺が使ってる部屋だ。お前が一緒だともっと楽しい部屋になりそうだな。=Bem-vindo ao meu quarto, cara. Agora que você está aqui, eu acho que posso finalmente começar a me divertir como deve ser, heh!
+お前を連れてきたくなかったけど、しょうがねぇから入れてやったんだぞ、変な事すんなよ。=Honestamente, cara, você é a última pessoa que eu queria trazer aqui, mas o que quer que seja... Tente não destruir o lugar, está bem?
+別に、普通の部屋だと思うけど……お前と一緒に使うならちょっと普通じゃない部屋になりそうだな。=Este lugar é bem normal... Por enquanto, de qualquer forma. Quem sabe como será quando terminarmos com isso!

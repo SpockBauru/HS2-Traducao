@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-いいじゃん……こんな場所あったんだな。=É bom... Ter um lugar como este.
-へぇ……お前、こんな所知ってたなんて、すげぇな。=Uau... Você é incrível, você conhece este lugar?
-ふぅん、なかなかおしゃれな所じゃん……悪くねぇな。=É um lugar bem legal... Não é nada mal.
-ここが、どうかしたのか？　別に何とも思わねぇけどな。=O que há de errado com este lugar? Acho que não há nada de errado com isso.
-さすがだな、こんな場所まで抑えてるなんて。=Isso é ótimo. Não posso acreditar que você esteja ocupando um lugar como este.

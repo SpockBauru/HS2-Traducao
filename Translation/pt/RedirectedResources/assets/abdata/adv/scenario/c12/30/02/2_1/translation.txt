@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//お前はどう思う？=
-//お前の場合はどうなんだ？=
-//お前の考えってどうなの？=
-//お前はどうなの？　正直興味ないけど……=
-//お前はどうなんだ？　聞かせてくれよ。=
+お前はどう思う？=O que você acha?
+お前の場合はどうなんだ？=Bem, o que você faria?
+お前の考えってどうなの？=Vamos ouvir o que você tem a dizer!
+お前はどうなの？　正直興味ないけど……=Não sei por que estou perguntando isto, mas... O que você acha?
+お前はどうなんだ？　聞かせてくれよ。=Eu quero saber o que você pensa, na verdade!

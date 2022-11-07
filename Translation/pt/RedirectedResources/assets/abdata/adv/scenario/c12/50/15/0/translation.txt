@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//おぉい、俺だけど……部屋にいるのか？=
+おぉい、俺だけど……部屋にいるのか？=E aí, cara, sou eu. Você está por aí?
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//あれ、いないのか……しょうがねぇ、また今度にするか。=
+あれ、いないのか……しょうがねぇ、また今度にするか。=Não me parece. Talvez eu o pegue mais tarde...

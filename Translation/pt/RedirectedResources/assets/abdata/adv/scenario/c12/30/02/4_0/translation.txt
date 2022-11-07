@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //会話事後A普通{0}=
-//それじゃあ、これで帰るぜ。=
-//俺たちはこれで帰るから、んじゃ、またな。=
+それじゃあ、これで帰るぜ。=Bem, eu vou sair.
+俺たちはこれで帰るから、んじゃ、またな。=Nós estamos indo, certo? Vejo vocês por aí!
 //会話事後A好意{0}=
-//また良かったら話に付き合ってくれよ、じゃあな。=
-//今度は、俺とお前の二人で話してもいいかな……んじゃ、また。=
+また良かったら話に付き合ってくれよ、じゃあな。=Se você quiser fazer isso novamente algum dia, nós provavelmente topamos. Tchau!
+今度は、俺とお前の二人で話してもいいかな……んじゃ、また。=Talvez da próxima vez você e eu devêssemos conversar... Tipo só nós dois?
 //会話事後A享楽{0}=
-//話し終わったし、帰ろうかな……んじゃ、またな。=
-//三人で話すのも、中々楽しかったな。たまにはこういうのもいいもんだぜ。=
+話し終わったし、帰ろうかな……んじゃ、またな。=Bem, parece que terminamos aqui. Até mais tarde cara.
+三人で話すのも、中々楽しかったな。たまにはこういうのもいいもんだぜ。=Nada de errado com uma pequena conversa em grupo, né? É bom variar de vez em quando!
 //会話事後A嫌悪{0}=
-//じゃ、俺は帰るから。=
-//もう話も終わったし、これで帰るからな。=
+じゃ、俺は帰るから。=E eu estou fora daqui.
+もう話も終わったし、これで帰るからな。=Já terminamos, certo? Portanto, não há necessidade de ficar por aqui.
 //会話事後A隷属{0}=
-//それじゃあ、俺たちはこれで消えるから。またよろしくな。=
-//次は話だけじゃなくて、セックスもしたいよな？=
+それじゃあ、俺たちはこれで消えるから。またよろしくな。=Legal, bem, nós vamos sair, mas nos vemos por aí!
+次は話だけじゃなくて、セックスもしたいよな？=Da próxima vez, vamos pular a conversa e ir direto para a foda, certo?

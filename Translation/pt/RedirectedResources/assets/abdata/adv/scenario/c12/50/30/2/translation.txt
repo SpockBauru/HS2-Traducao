@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//悪い、待たせたな。……どうかしたのか？　息が上がってるけど？=
-//お待たせ……悪いな、一人にしちまって。=
-//待っててくれたのか、ありがとな。　覗いてたりは、してないのか？=
-//……お前、本当についてきてないよな？=
-//トイレ、覗きに来なかったのか？　それとも俺が気が付かなかっただけか。=
+悪い、待たせたな。……どうかしたのか？　息が上がってるけど？=E aí, eu meio que o fiz esperar por muito tempo, hein? Você está bem? Você está respirando meio engraçado...
+お待たせ……悪いな、一人にしちまって。=Ei, estou de volta. Desculpe por deixá-lo sozinho dessa maneira.
+待っててくれたのか、ありがとな。　覗いてたりは、してないのか？=Ah, você esperou por mim? Obrigada, cara. Você, uh, não tentou me espiar nem nada, certo?
+……お前、本当についてきてないよな？=Você tem certeza de ter ficado aqui todo esse tempo? Hmm...
+トイレ、覗きに来なかったのか？　それとも俺が気が付かなかっただけか。=E então, você não veio tentar me espiar de surpresa? Ou talvez eu simplesmente não tenha notado?

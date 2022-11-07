@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//悪い、ちょっとだけ待っててくれねぇか？=
-//直ぐ戻るからさ、ちょっとだけ待っててくれよ？=
-//悪いな、ちょっと用足してくるから。=
-//俺、用事を思い出したから……ついてくんなよ。=
-//すまない……トイレに行ってくるから、待っててくれ。=
+悪い、ちょっとだけ待っててくれねぇか？=Desculpe, você pode esperar um momento?
+直ぐ戻るからさ、ちょっとだけ待っててくれよ？=Voltarei em breve, então espere um minuto?
+悪いな、ちょっと用足してくるから。=Desculpe, vou demorar um pouco.
+俺、用事を思い出したから……ついてくんなよ。=Lembrei-me dos meus recados...
+すまない……トイレに行ってくるから、待っててくれ。=Sinto muito... Vou ao banheiro, por isso, por favor, espere.
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

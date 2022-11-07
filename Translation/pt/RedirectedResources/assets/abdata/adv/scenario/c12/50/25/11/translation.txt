@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//なんか、色々あって面白そうな部屋だな。=
-//ここは……何する部屋って……見たら何となくわかるぜ。=
-//ここでお前と遊べるのか？　だったら大歓迎だぜ。=
-//何のための部屋なんだ？　用がないなら、もう戻るぞ。=
-//この部屋、なかなか悪くないな……お前と一緒なら楽しめそうだぜ。=
+なんか、色々あって面白そうな部屋だな。=Huh, olha tudo isso... Você e eu vamos nos divertir muito aqui dentro!
+ここは……何する部屋って……見たら何となくわかるぜ。=Heh, está bem, está bem... Acho que entendi aonde você quer chegar!
+ここでお前と遊べるのか？　だったら大歓迎だぜ。=Então é aqui que vamos nos encontrar? Que maravilha!
+何のための部屋なんだ？　用がないなら、もう戻るぞ。=Então, eu realmente não entendo o apelo deste lugar, está me entendendo? Talvez eu vá embora...
+この部屋、なかなか悪くないな……お前と一緒なら楽しめそうだぜ。=Sim, isto vai servir muito bem! Vamos para a cidade neste lugar, cara!

@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//あはは……きもひよはったぁ……=
-//まは……やろうれぇ……=
-//せっくしゅ……らいしゅきらぁ……=
-//もっほ……きもひよふなりはいれ……=
-//いっはい……かんひひゃった……=
-//きもひよふて……ひにそうられ……=
+あはは……きもひよはったぁ……=Isso foi... Demais...
+まは……やろうれぇ……=Vamos... Fazer isto... Novamente... Em algum momento
+せっくしゅ……らいしゅきらぁ……=Eu amo... Foda...
+もっほ……きもひよふなりはいれ……=Vamos... Mais forte... Da próxima vez!
+いっはい……かんひひゃった……=Caramba... Isso foi bom, mano...
+きもひよふて……ひにそうられ……=Acho que eu vou... Desmaiar!

@@ -1,4 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あれ、もしかして、具合悪かったのか？　だったら、早く休んだ方がいいぞ……それじゃ、また来るからな。=Ei, talvez você não estivesse se sentindo bem? Se assim for, é melhor descansar um pouco... Então eu voltarei.

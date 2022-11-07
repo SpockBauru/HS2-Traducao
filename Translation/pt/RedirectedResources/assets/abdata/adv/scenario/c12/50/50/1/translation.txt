@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//いい時間だったぜ……やっぱり、場所の雰囲気って大事なんだな。=
-//お前の事、もっと好きになりそうだぜ。=
-//何だか、いつもより感じてたかも知れないぜ……=
-//こういう雰囲気でするのも、悪くなかったな。=
-//お前と、いい時間が過ごせて嬉しかったぜ。=
-//また、こういう所に連れてきてくれよな。=
+いい時間だったぜ……やっぱり、場所の雰囲気って大事なんだな。=Isso com certeza foi algo... Acho que o ambiente realmente ajuda a aumentar o calor, não é?
+お前の事、もっと好きになりそうだぜ。=Acho que esta noite me fez gostar ainda mais de você, cara...
+何だか、いつもより感じてたかも知れないぜ……=Fui eu, ou estava tudo super quente entre nós esta noite?
+こういう雰囲気でするのも、悪くなかったな。=Heh, não há nada de errado em fazer isso em algum lugar chique de vez em quando, huh?
+お前と、いい時間が過ごせて嬉しかったぜ。=Eu me diverti muito com você esta noite, cara.
+また、こういう所に連れてきてくれよな。=Certifique-se de me trazer de volta em breve, está bem?

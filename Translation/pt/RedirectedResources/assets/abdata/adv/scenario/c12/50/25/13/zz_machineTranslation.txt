@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-これは……何が動いてんだよ？！=Isso é... Que porra está acontecendo?
-その動いてるのって……一体なんなんだ？！=Que diabos é aquela coisa que está se movendo?
-なんか、面白そうなのがいるな？　それも使えるのか？=O que é que isso parece? Algo interessante? Você pode usar isso também?
-なんなんだよ、その気持ち悪いの？！　変なもん持ちだすなよ！=Por que toda essa estranheza? Não fale dessa merda esquisita!
-一体なんだそれ？　触手なのか？=Que diabos é isso? É um tentáculo?

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリA普通{0}=
-//ふ～ん、そうなのか。……あ、よぉ！=
-//そんな話もあるんだな……お、こんちは！=
+ふ～ん、そうなのか。……あ、よぉ！=Huh, nem pensar... Oh, ei cara!
+そんな話もあるんだな……お、こんちは！=Você nunca pode dizer, hein? Oh, e aí, mano!
 //前フリA好意{0}=
-//それは面白いな。……ん？　お前も来てたのか、こんちは。=
-//いいな、その話……あ、お前だったのか、元気そうだな。=
+それは面白いな。……ん？　お前も来てたのか、こんちは。=Heh, interessante... Hein? Você também está aqui? Que bom!
+いいな、その話……あ、お前だったのか、元気そうだな。=Muito legal, cara... Oh, não te vi aí. Tá bonitão hoje!
 //前フリA享楽{0}=
-//そうか、なるほどねぇ……ん？　なんだお前、女がいるからやって来たのか？=
-//その話、もうちょっと詳しく……ああ？　お前もここに来てたんだな。=
+そうか、なるほどねぇ……ん？　なんだお前、女がいるからやって来たのか？=Sim, eu entendi... Heh, você também está aqui? Acho que você não poderia ficar longe de nós garotas!
+その話、もうちょっと詳しく……ああ？　お前もここに来てたんだな。=Sério? E o que ele fez então? Oh, ei mano. Prazer em vê-lo!
 //前フリA嫌悪{0}=
-//正直言って、良くわかんねぇな……ん？　何んだお前、何か用かよ？=
-//本当にそう思ってんのか？　……あ、なんだよ？　話の途中なんだけど。=
+正直言って、良くわかんねぇな……ん？　何んだお前、何か用かよ？=Sim, eu não sei sobre isso... Oh, você também está aqui, hein? Como assim? Algo que você precisa?
+本当にそう思ってんのか？　……あ、なんだよ？　話の途中なんだけど。=Ha, sim, é verdade... Ah, sim... Você não vê que estamos tentando ter uma conversa aqui?
 //前フリA隷属{0}=
-//分からなくはないか……ん？　やっぱりお前も来てたのか。=
-//確かに、それも悪くないな。……ん？　お前か、よく来たな。=
+分からなくはないか……ん？　やっぱりお前も来てたのか。=Sim, eu ouvi dizer que... Hm? Ha, eu tinha um pressentimento de que você apareceria.
+確かに、それも悪くないな。……ん？　お前か、よく来たな。=Hehe, uau... Nada mal! Hm? Ah, é você! Legal!

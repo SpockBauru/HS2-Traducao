@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なにしてたのA普通{0}=
-//食べ物の好みについてだ。甘いの辛いの酸っぱいの……色々あるからな。=
-//昨日のスポーツの結果についてだな。=
+食べ物の好みについてだ。甘いの辛いの酸っぱいの……色々あるからな。=Estávamos falando de nossa comida favorita... Algumas pessoas gostam dela doce, enquanto outras gostam dela bem picante! Heh...
+昨日のスポーツの結果についてだな。=Oh, apenas conversando sobre a partida de futebol de ontem.
 //なにしてたのA好意{0}=
-//何って、ちょっと……恋バナ、的な感じ？=
-//まぁ……恋人ができたらどうするぅ……的な話だよ、うん。=
+何って、ちょっと……恋バナ、的な感じ？=Bem, uh... Estávamos falando de amor e outras coisas, se você realmente quer saber.
+まぁ……恋人ができたらどうするぅ……的な話だよ、うん。=Ah, você sabe... Só me pergunto o que faríamos se alguma de nós acabássemos namorando um cara.
 //なにしてたのA享楽{0}=
-//好きな体位とかあるのかぁ、みたいな話だよ。=
-//性感帯の話だよ……やっぱ、人によって違ってるんだな。=
+好きな体位とかあるのかぁ、みたいな話だよ。=Trocando dicas sobre nossas posições sexuais favoritas, na verdade!
+性感帯の話だよ……やっぱ、人によって違ってるんだな。=Apenas compartilhando dicas sobre as melhores partes do corpo de um cara para mexer na cama, heh!
 //なにしてたのA嫌悪{0}=
-//別に……ちょっと話してただけだけど。=
-//……話してただけだよ……お前の事は話題になってないから。=
+別に……ちょっと話してただけだけど。=Nada. Duas garotas não pode mais falar? Caramba...
+……話してただけだよ……お前の事は話題になってないから。=Apenas conversando... E não sobre você, está bem!
 //なにしてたのA隷属{0}=
-//お前の話だよ。気になるか？=
-//実はお前のことを話してたんだよ……中々盛り上がったぜ。=
+お前の話だよ。気になるか？=Falando de você, na verdade! Quer saber o que estávamos dizendo? Heh...
+実はお前のことを話してたんだよ……中々盛り上がったぜ。=Para ser honesta, ambas estávamos falando de você... E de nos divertindo muito fazendo isso também!

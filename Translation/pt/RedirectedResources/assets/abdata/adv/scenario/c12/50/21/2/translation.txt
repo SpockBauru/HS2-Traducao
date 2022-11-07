@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//どこへ行くつもりだ？　俺から離れられると思ってるのかよ。=
-//俺とセックスしろよ……それ以外、お前に選択肢ねぇから……=
+どこへ行くつもりだ？　俺から離れられると思ってるのかよ。=Ha, vamos cara, como se eu fosse deixar você fugir dessa maneira!
+俺とセックスしろよ……それ以外、お前に選択肢ねぇから……=Olhe, vou deixar isto simples para você: sexo, agora mesmo, você e eu. Entendeu?
 逃げ出した=Você escapou

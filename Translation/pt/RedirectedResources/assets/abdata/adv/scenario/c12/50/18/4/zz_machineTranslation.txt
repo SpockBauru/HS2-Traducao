@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-行っちまうのかよ？！　なんだよ、助けてくれないんだな。=Você vai simplesmente embora? ! Mas que diabos, você não vai me ajudar, vai?
-あれ、何にもしないのか？　じゃあせめて誰か呼んできてくれよ。=Oh, você não vai fazer nada a respeito disso? Então, pelo menos vá buscar alguém para fazer isso.
-お前、マジでなんにもしないで行くつもりか？　いいよ、勝手にしろ。=Você realmente não vai fazer nada? Tudo bem, sirva-se.
-まさか放置プレイのつもりかよ……上級者過ぎて思いもつかなかったぜ。=Não me diga que vai me deixar pendurado... Estou muito avançado para que isso me tenha ocorrido.

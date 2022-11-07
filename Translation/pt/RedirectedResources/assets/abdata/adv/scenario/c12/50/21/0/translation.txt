@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//……最後に俺の所に戻ってくるなら……誰と何しようが気にしねぇよ。=
-//楽しかったか？　わかってるよ、俺ぬきじゃ気分も乗らなかっただろ？　そうだよな？=
+……最後に俺の所に戻ってくるなら……誰と何しようが気にしねぇよ。=Desde que você volte rastejando para mim em algum momento, não me importo muito onde você esteve... Nem com quem estave!
+楽しかったか？　わかってるよ、俺ぬきじゃ気分も乗らなかっただろ？　そうだよな？=Você se divertiu? Ha, claro que não, não é uma festa a menos que eu esteja lá, certo?
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

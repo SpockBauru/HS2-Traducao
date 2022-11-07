@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-な、何だよ……ただ、汗を流してただけだって…別になんにもしてねぇよ。=Eu só estava suando... Eu não fiz nada.
-ちょっと風呂で楽しみすぎちゃったかな……お前、覗いてたんじゃねぇの？=Acho que me diverti um pouco demais na banheira... Você estava me espionando, não é mesmo?

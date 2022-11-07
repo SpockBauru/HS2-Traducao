@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答B普通{0}=
-//俺たちに用があったら、また声をかけてくれよな。=
-//んじゃ、また時間があったら遊ぼうぜ。=
+俺たちに用があったら、また声をかけてくれよな。=Bem, se você precisa de nós, você sabe onde nos encontrar!
+んじゃ、また時間があったら遊ぼうぜ。=Legal. Vamos sair mais tarde se você tiver tempo, sim?
 //なんでもない返答B好意{0}=
-//本当に良いのか？　用があったらいつでも言ってくれよ。=
-//分かった、それじゃまた今度よろしくな。=
+本当に良いのか？　用があったらいつでも言ってくれよ。=Tem certeza de que você não está apenas sendo tímido? Você pode nos dizer qualquer coisa, certo?
+分かった、それじゃまた今度よろしくな。=Muito fácil. Vejo você depois, cara!
 //なんでもない返答B享楽{0}=
-//そうか、ならしょうがねぇな……また今度気持ちいい事しようぜ。=
-//何でもないのか？　それじゃまた、なんかあるときに一緒に楽しもうぜ。=
+そうか、ならしょうがねぇな……また今度気持ちいい事しようぜ。=Hmph, tudo bem então... Apenas prometa que um dia nos compensará!
+何でもないのか？　それじゃまた、なんかあるときに一緒に楽しもうぜ。=Ah, sim? Bem, volte sempre que tiver algo para falar!
 //なんでもない返答B嫌悪{0}=
-//俺の方も用はないから……さよなら。=
-//だったら用はないだろ……それじゃあな。=
+俺の方も用はないから……さよなら。=Tudo bem para mim, cara.
+だったら用はないだろ……それじゃあな。=Então por que estamos conversando?
 //なんでもない返答B隷属{0}=
-//もう少し一緒にいたかったんだけど、忙しいならしょうがないか。=
-//分かったよ……次は、まとめて相手してくれよな。=
+もう少し一緒にいたかったんだけど、忙しいならしょうがないか。=É uma pena, mas se você está ocupado, acho que não tem o que fazer...
+分かったよ……次は、まとめて相手してくれよな。=Hm, tudo bem... Tente ser mais interessante da próxima vez, entendeu?

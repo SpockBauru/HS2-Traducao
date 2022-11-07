@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 ・・・・・=...
-//あ、おはよう。なんだ、部屋の前で待っててくれたのか？　嬉しいな。=
-//おはよう！　来てたんなら、起こしてくれても良かったんだぜ。=
-//お、なんだよ……俺が起きるの待ってたのか？　嬉しいぜ、それじゃ、今日も一緒に楽しもうか。=
-//あぁ、おはよう……朝からお前の顔、見たくなかったけどな。=
-//なんだ、寝込みを襲いに来たんじゃないのか？　ちょっと期待してたんだけどな。=
+あ、おはよう。なんだ、部屋の前で待っててくれたのか？　嬉しいな。=Bom dia, cara. Você está esperando por mim ou algo assim? Que bom!
+おはよう！　来てたんなら、起こしてくれても良かったんだぜ。=Ei, se você estivesse aqui, deveria ter me acordado!
+お、なんだよ……俺が起きるの待ってたのか？　嬉しいぜ、それじゃ、今日も一緒に楽しもうか。=Você estava esperando eu acordar? Que homem! Etnão vamos começar a festa, certo?
+あぁ、おはよう……朝からお前の顔、見たくなかったけどな。=Oh, sim mano... Desculpe, é um pouco difícil para eu ter que falar com você logo no início do dia, sabe?
+なんだ、寝込みを襲いに来たんじゃないのか？　ちょっと期待してたんだけどな。=Ah, vamos lá, cara! Eu fiquei deitada lá dentro esperando que você viesse mexer comigo durante muito tempo!

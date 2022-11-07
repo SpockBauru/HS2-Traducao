@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//見たまんまの部屋だな……あんまり無茶苦茶するなよな。=
-//お前ってこういう感じのが好きなのか……まぁ、お前が喜ぶなら、付き合ってやってもいいけどな。=
-//うおぉ、すごいなこの部屋？！　完全に目的決まってるじゃん、お手柔らかに頼むぜ！=
-//なんだよ、この部屋……分かりやすすぎて嫌なんだけど……お前ひとりで遊べよ。=
-//ここでするのか？　ちょっと不安だけど、まぁ頑張って付き合ってやるよ。=
+見たまんまの部屋だな……あんまり無茶苦茶するなよな。=Heh, então este é o tipo de lugar que você queria me trazer, huh? Ouça, não seja muito duro comigo, está bem? Por favor...
+お前ってこういう感じのが好きなのか……まぁ、お前が喜ぶなら、付き合ってやってもいいけどな。=Droga, eu não sabia que este tipo de coisa era sua praia. Espero que você não esteja planejando nada muito esquisito...
+うおぉ、すごいなこの部屋？！　完全に目的決まってるじゃん、お手柔らかに頼むぜ！=Caramba, olha tudo isso! Acho que hoje vamos realmente com tudo, não é? Caramba!
+なんだよ、この部屋……分かりやすすぎて嫌なんだけど……お前ひとりで遊べよ。=Ugh, sério cara, este lugar poderia ser mais óbvio? Você não pode fazer este tipo de coisa por conta própria?
+ここでするのか？　ちょっと不安だけど、まぁ頑張って付き合ってやるよ。=Vamos fazer isso aqui? Hm, este lugar é meio assustador, mas ei, se isto é o que você quer, acho que estou a fim disso...

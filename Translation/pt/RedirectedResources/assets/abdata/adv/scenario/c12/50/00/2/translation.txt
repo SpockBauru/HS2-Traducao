@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//いいぜ、俺もそうしたいと思ってたんだ。=
+いいぜ、俺もそうしたいと思ってたんだ。=Sim, garoto, exatamente o que eu esperava!
 いいに決まってるだろ。一緒に楽しもうぜ。=É claro que sim. Vamos nos divertir juntos.
 //好意{0}=Amor{0}
-//そうか、俺で良ければ喜んで付き合うぜ。=
-//やっぱりそうだったんだな。おぉ、いいぜ。俺が相手になってやるよ。=
+そうか、俺で良ければ喜んで付き合うぜ。=Claro, se você me quer, então eu estou disposta a isso.
+やっぱりそうだったんだな。おぉ、いいぜ。俺が相手になってやるよ。=Haha, eu sabia que isso ia acontecer! Tudo bem para mim...
 //享楽{0}=Excitada {0}
-//だよなぁ！　ＯＫＯＫ、それじゃさっそく始めようぜ！=
+だよなぁ！　ＯＫＯＫ、それじゃさっそく始めようぜ！=Boa idéia, mano! Vamos começar já!
 いいねぇ、俺も身体が疼いちゃってたまらなかったんだよなぁ！=Isso é ótimo, eu também tenho tido muita vontade de fazer isso!
 //嫌悪{0}=Ódio {0}
-//お前は、バカだな。=
-//そうかよ……好きにすればいいだろ。=
+お前は、バカだな。=Ugh, você é um idiota...
+そうかよ……好きにすればいいだろ。=Tudo bem, eu acho...
 //隷属{0}=Submissa {0}
-//やっぱりセックスか。お前とのセックスなら、いつでも相手してやるぞ。=
-//分かりやすいな、お前は……もちろん答えはイエスに決まってるだろ。=
+やっぱりセックスか。お前とのセックスなら、いつでも相手してやるぞ。=Ha, eu sabia que você queria isso! Claro, se for com você, a gente transa sempre que quiser.
+分かりやすいな、お前は……もちろん答えはイエスに決まってるだろ。=Não é exatamente de fazer cu doce, hein? Mas ei, eu não estou reclamando!

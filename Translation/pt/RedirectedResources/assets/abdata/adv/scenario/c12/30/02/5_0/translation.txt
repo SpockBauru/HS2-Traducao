@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //HしようA普通{0}=
-//いいぜ、俺は問題ないからな。=
-//三人か。お前、大変じゃないのか？=
+いいぜ、俺は問題ないからな。=Claro, por mim tudo bem, mano!
+三人か。お前、大変じゃないのか？=O quê, com nós duas? Tem certeza de que você está disposto a isso?
 //HしようA好意{0}=
-//三人でか？　まぁ、お前がやりたいなら付き合うけど。=
-//三人でするんだな？　ちゃんとできるかわかんねぇけど、やってみるか。=
+三人でか？　まぁ、お前がやりたいなら付き合うけど。=Uma ménage à trois? Ei, se é isso que você quer, então eu estou dentro!
+三人でするんだな？　ちゃんとできるかわかんねぇけど、やってみるか。=Um trio, huh... Hrm, não sei se serei muito boa nisso, mas ei, eu posso tentar!
 //HしようA享楽{0}=
-//言うまでもないだろ？　OKだよ、OK！=
-//俺たちを相手にしてくれるのか？　さすがお前、元気だな！=
+言うまでもないだろ？　OKだよ、OK！=Ha, você não precisa me perguntar duas vezes! Vamos fazer isso!
+俺たちを相手にしてくれるのか？　さすがお前、元気だな！=Você vai nos mostrar aos duas um bom momento, é isso? Caramba, você com certeza tem muita energia...
 //HしようA嫌悪{0}=
-//……俺は、別にいいぜ。=
-//いいぜ、もう一人は知らねぇけど。=
+……俺は、別にいいぜ。=... Oh claro, continue então.
+いいぜ、もう一人は知らねぇけど。=Muito bem, eu acho. Mas eu não posso dizer sobre ela.
 //HしようA隷属{0}=
-//勿論OKだ……断る理由がねぇよ。=
-//やっぱり3Pがやりたかったんだな、当然俺も付き合うぜ。=
+勿論OKだ……断る理由がねぇよ。=Claro, estou dentro. Como se eu fosse dizer que não!
+やっぱり3Pがやりたかったんだな、当然俺も付き合うぜ。=Heh, sempre quis experimentar uma ménage à trois! Estou super entusiasmada!

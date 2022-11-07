@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//結構話しちまったな。それじゃ、俺は戻るからな。=
-//色々話せてたのしかったぜ。それじゃあ、またな。=
+結構話しちまったな。それじゃ、俺は戻るからな。=Com certeza, falamos muito... Eu vou agora, está bem?
+色々話せてたのしかったぜ。それじゃあ、またな。=Isso foi muito divertido! Te vejo mais tarde, sim?
 //好意{0}=Amor{0}
-//あれ、もうこんな時間かよ……俺、もう行くわ…話しできて楽しかったぜ。=
-//ありがとな、色々話してくれて……すげぇ楽しかったぜ、んじゃ、またな！=
+あれ、もうこんな時間かよ……俺、もう行くわ…話しできて楽しかったぜ。=Caramba, olha só as horas! Eu tenho que ir, mas obrigada pela conversa!
+ありがとな、色々話してくれて……すげぇ楽しかったぜ、んじゃ、またな！=Obrigada por falar, cara... Eu me diverti muito. Nos vemos por aí!
 //享楽{0}=Excitada {0}
-//話してるうちに時間経っちまったな。んじゃ、また遊ぼうぜ。=
-//いやぁ、色々話しできて楽しかったぜ……こういうのもたまにはいいかもな。=
+話してるうちに時間経っちまったな。んじゃ、また遊ぼうぜ。=Rapaz, o tempo passou voando, não é mesmo? Espero te ver por aí mais tarde!
+いやぁ、色々話しできて楽しかったぜ……こういうのもたまにはいいかもな。=Ahhh, nada como uma boa conversa... Eu estaria disposta a mais disto algum dia, se você estiver!
 //嫌悪{0}=Ódio {0}
-//……もう終りでいいだろ？　んじゃな。=
-//なんの話だったか覚えてねぇけど……まぁ、いいや。=
+……もう終りでいいだろ？　んじゃな。=Eu estou pronta para ir, certo? Tchau.
+なんの話だったか覚えてねぇけど……まぁ、いいや。=Estranho... Não consigo me lembrar de nada do que acabamos de falar. Meh, tanto faz.
 //隷属{0}=Submissa {0}
-//……本当に話だけで終わりなのか？　いや、別にいいけどな。=
-//中々有意義な時間だったぜ……お前、セックス以外にも知識があったんだな。=
+……本当に話だけで終わりなのか？　いや、別にいいけどな。=Você tem certeza de que só precisava de mim para conversar? É legal e tudo mais, eu acho...
+中々有意義な時間だったぜ……お前、セックス以外にも知識があったんだな。=Huh... E eu aqui pensando que a única coisa que você podia falar era sobre sexo!

@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //汎用{0}=
-//俺を探しにきてたのか？　わざわざありがとな。=
-//やっぱり、俺たちってお互いに求め合ってるんだろうな。=
-//会いたいと思ったら、お前に会えるなんて……これってやっぱり運命だよな。=
+俺を探しにきてたのか？　わざわざありがとな。=Huh, você veio me procurar? Obrigada, mano!
+やっぱり、俺たちってお互いに求め合ってるんだろうな。=Heh... Você e eu estamos mesmo interessados um no outro, huh?
+会いたいと思ったら、お前に会えるなんて……これってやっぱり運命だよな。=Mesmo o cara que eu esperava ver! Você tem um ótimo timing, sabia disso?
 //風呂{0}=
-//よぉ……！　わざわざ風呂まで俺を探しにきてくれたんだな。嬉しいぜ。=
-//風呂で出会えるなんて、一緒に入るのが決まりみたいだな。=
+よぉ……！　わざわざ風呂まで俺を探しにきてくれたんだな。嬉しいぜ。=Yo! Você veio até aqui por mim? É assim que se faz o dia de uma garota!
+風呂で出会えるなんて、一緒に入るのが決まりみたいだな。=Heh, acho que não temos escolha, não é mesmo? Está na hora do banho!
 //用件{0}=
-//用件はわかってるよ。俺とセックスをするためなんだよな？=
-//一応聞いておくけど、俺とのセックス以外に何か用があるのか？=
+用件はわかってるよ。俺とセックスをするためなんだよな？=Tenho uma boa idéia de onde isto vai parar... Você está aqui porque quer transar, certo?
+一応聞いておくけど、俺とのセックス以外に何か用があるのか？=Deixe-me só ter certeza de que não estou enganada nem nada... Você quer transar comigo, não é mesmo?
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

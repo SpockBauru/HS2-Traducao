@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//この電車、どこにつながってるんだ？=
-//こんな所に電車が走ってたんだな……知らなかったぜ。=
-//電車なんかに乗って、どこに行くつもりだ？=
-//電車なんか乗って……一体、どうするつもりなんだよ？=
-//こんな電車の中で、何するつもりなんだ？=
+この電車、どこにつながってるんだ？=Espere... Para onde este trem vai, afinal?
+こんな所に電車が走ってたんだな……知らなかったぜ。=Huh, há uma linha de trem que vem até aqui? Novidades para mim!
+電車なんかに乗って、どこに行くつもりだ？=Que bom, eu adoro andar de trem! Então, para onde estamos indo?
+電車なんか乗って……一体、どうするつもりなんだよ？=Espere... Isto não vai se transformar em um daqueles estranhos negócios sexuais de trem, vai?
+こんな電車の中で、何するつもりなんだ？=Um trem? Mas o que nós dois vamos fazer num maldito trem?

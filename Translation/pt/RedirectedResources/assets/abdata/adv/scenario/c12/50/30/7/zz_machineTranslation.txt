@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-悪い悪い、待たせちまったな。=Desculpe-me, desculpe-me por tê-lo feito esperar.
-待たせたな。もう用は済んだから、ゆっくりしようぜ。=Desculpe-me por tê-los feito esperar. Já terminamos aqui, então vamos relaxar.
-お待たせぇ！　悪かったな、待たせちゃって……いやぁ、スッキリしたぜぇ。=Ei, pessoal! Sinto muito por fazê-los esperar, mas... Bem, isso é refrescante.
-なんだ、待ってたのかよ？　まぁ、別にいいけど。=O quê, você tem estado esperando por mim? Bem, eu não me importo.
-確かに待っててくれとは言ったけど……別に覗きに来てくれても良かったんだぜ。=Eu lhe disse para esperar por mim... Mas não queria que você viesse e desse uma olhada.

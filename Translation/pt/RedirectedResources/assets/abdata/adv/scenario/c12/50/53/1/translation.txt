@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //隷属{0}=Submissa {0}
-//触手ってすげぇんだな……あんなに気持ち良くなれるなんてさ。=
-//これだったら、また遊んでもいいかな、うん。=
-//すげぇ……俺、触手で遊んじまったぜ。=
-//触手が、こんなに面白いもんだなんて、知らなかったぜ、まったく。=
-//お前、こんな所に触手があるなんて、良く知ってたな？=
-//ひょっとして、誰かが飼ってたりするのか、これ……=
+触手ってすげぇんだな……あんなに気持ち良くなれるなんてさ。=Droga, cara, tentáculos... Tipo quem diria?
+これだったら、また遊んでもいいかな、うん。=Pode apostar que amanhã estarei de volta a esta hora!
+すげぇ……俺、触手で遊んじまったぜ。=Caramba... Acabei mesmo de fazer aquilo com uns tentáculos aleatórios!
+触手が、こんなに面白いもんだなんて、知らなかったぜ、まったく。=Honestamente, nunca pensei que fariam me sentir tão bem!
+お前、こんな所に触手があるなんて、良く知ってたな？=Como raios você descobriu essas coisas, afinal?
+ひょっとして、誰かが飼ってたりするのか、これ……=Quem será que os alimenta e lava?

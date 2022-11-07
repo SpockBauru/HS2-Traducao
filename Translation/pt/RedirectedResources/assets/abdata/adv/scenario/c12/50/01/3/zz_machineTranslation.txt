@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-何を言ってるんだ？　俺と出会った時点でセックスするのは確定だ。=Do que você está falando? Tenho quase certeza de que você vai fazer sexo comigo quando me conhecer.
-俺と会って、なんでもないなんて事はないだろ。わかってるよ、ちょっと焦らしてるだけなんだろ？=Você não pode simplesmente me encontrar e esperar que não seja nada. Eu sei, eu sei. Você só está sendo um pouco impaciente, certo?

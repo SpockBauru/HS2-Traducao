@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あれ？　俺が出るまで待っててくれたのか？　わかった、一緒に過ごそうぜ。=O que é isso? Você estava esperando que eu partisse? Muito bem, vamos passar algum tempo juntos.
-これから俺と一緒に？　うん、いいぜ。風呂入ったばっかりだからちょうどいいな。=Você vem comigo agora? Sim, claro. Acabei de tomar um banho, por isso é perfeito.
-風呂上りで綺麗になった俺を、さっそく汚しに来たんだな。=Fui limpo depois do meu banho, e você veio aqui para me sujar.
-何してんだよ、そんな所で？　用がないなら帰れよ。=O que você está fazendo aqui? Se você não precisa de mim, vá para casa.
-風呂の次はお前のシャワーを浴びさせてくれるのか？　いいぜ、付き合おうか。=Depois do banho, você vai me deixar tomar seu banho? Tudo bem, eu vou com você.

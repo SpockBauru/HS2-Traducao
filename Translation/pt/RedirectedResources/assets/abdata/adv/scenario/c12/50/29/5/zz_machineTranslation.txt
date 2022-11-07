@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-なんだよ？！　急に入ってきやがって。お前ってホントせっかちだな。=Mas que diabos? Você entrou aqui tão de repente. Você é tão impaciente.
-な、何だよ？　どうしたんだ。そんなに俺と一緒に入りたかったのか？=Ei, o que está acontecendo? Qual é o seu problema? Você queria assim tanto entrar comigo?
-いきなり風呂に押しかけてくるなんて、お前も好きだなぁ！=Eu adoro quando você me invade de barcaça na banheira do nada!
-バカ！　急に入ってくるなよ！　ノックとかしろよな。=Idiota! Não entrem aqui tão de repente! Você deve bater à porta ou algo assim.
-どうした？　急に一緒に入りたくなったっていうのか？　しょうがない奴だな。=O que está acontecendo? Vocês têm vontade de entrar juntos de repente? Você não pode evitá-lo.

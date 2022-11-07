@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ここが俺の部屋だ。まぁ、あんまり大したもんはねぇけど、ゆっくりしていってくれ。=Este é o meu quarto. Bem, não há muito aqui, mas você pode levar seu tempo.
-一応、ここが俺の部屋だよ……なんだよ、あんまりじろじろ見なくていいからな。=Caso você esteja se perguntando, este é o meu quarto... Que diabos, você não precisa ficar olhando muito para ele.
-ここが俺が使ってる部屋だ。お前が一緒だともっと楽しい部屋になりそうだな。=Este é o quarto que estou usando. Vai ser mais divertido com você dentro dela.
-お前を連れてきたくなかったけど、しょうがねぇから入れてやったんだぞ、変な事すんなよ。=Eu não queria trazê-lo aqui, mas tinha que fazê-lo, então deixei-o entrar. Não faça nada de estranho.
-別に、普通の部屋だと思うけど……お前と一緒に使うならちょっと普通じゃない部屋になりそうだな。=Nada, eu acho que é um quarto normal... Mas será um pouco fora do comum se eu tiver que compartilhá-lo com você.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //HしようB普通{0}=
-//俺も全然大丈夫！　それじゃ早速始めようぜ。=
-//３Pだったら、俺も混ぜてくれよ。=
+俺も全然大丈夫！　それじゃ早速始めようぜ。=Ha, boa idéia! Vamos ao rock n' roll!
+３Pだったら、俺も混ぜてくれよ。=Uma ménage à trois? Ooh, deixe-me entrar em ação!
 //HしようB好意{0}=
-//しょうがねぇな、俺も付き合うよ。=
-//三人でするのかよ？　わかった、わかった、俺も付き合うから。=
+しょうがねぇな、俺も付き合うよ。=Pft, é claro que estou dentro, vocês dois estariam perdidos sem mim!
+三人でするのかよ？　わかった、わかった、俺も付き合うから。=Pequena ação dois contra um, hein? Acho que eu poderia fazer isso.
 //HしようB享楽{0}=
-//俺だって大賛成だぜ。さあ、一緒に楽しもうぜ。=
-//そういうことなら、俺だって、お前らと気持ち良くなりたいぜ。=
+俺だって大賛成だぜ。さあ、一緒に楽しもうぜ。=Eu pensei que você nunca perguntaria! Claro, vamos nos divertir um com o outro!
+そういうことなら、俺だって、お前らと気持ち良くなりたいぜ。=Ha, você age como se fosse o único a planejar secretamente uma ménage à trois!
 //HしようB嫌悪{0}=
-//俺も、別に付き合ってもいいけどな。=
-//好きにしてくれよ。俺もちょっとだけ付き合うから。=
+俺も、別に付き合ってもいいけどな。=Meh, acho que não tenho nada melhor para fazer...
+好きにしてくれよ。俺もちょっとだけ付き合うから。=Meh, claro. Seja lá o que funcione para você.
 //HしようB隷属{0}=
-//３Pなら、俺も大歓迎だぜ。たっぷり楽しませてもらうからな。=
-//俺だって付き合うぜ……お前、頑張って感じさせてくれよ？=
+３Pなら、俺も大歓迎だぜ。たっぷり楽しませてもらうからな。=Oh-hoh, um ménage à trois? Tenho certeza que não vou perder isto!
+俺だって付き合うぜ……お前、頑張って感じさせてくれよ？=Eu estou dentro. Apenas certifique-se de me dar um bom momento, entendeu?

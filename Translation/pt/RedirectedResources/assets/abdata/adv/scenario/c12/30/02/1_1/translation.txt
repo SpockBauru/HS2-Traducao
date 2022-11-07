@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリB普通{0}=
-//どうしたんだ？　誰か探してんのか？=
-//俺たちに何か用でもあるのか？=
+どうしたんだ？　誰か探してんのか？=O que está acontecendo? Você está procurando alguém ou o quê?
+俺たちに何か用でもあるのか？=Há algo em que nós duas podemos ajudá-lo?
 //前フリB好意{0}=
-//よぉ、良かったら、お前も話していかないか？=
-//どうかしたのか？　俺で良かったら話ぐらい聞くけど……ま、もう一人いるけどな。=
+よぉ、良かったら、お前も話していかないか？=O que está acontecendo! Quer participar da diversão?
+どうかしたのか？　俺で良かったら話ぐらい聞くけど……ま、もう一人いるけどな。=O que está acontecendo, mano? Estou feliz em falar, desde que você não ignore esta outra garota!
 //前フリB享楽{0}=
-//俺たちになんか用か？　まぁ、何となく察しはつくけどな。=
-//俺たち相手に、何かするつもりか？　楽しみにしていいんだろうな。=
+俺たちになんか用か？　まぁ、何となく察しはつくけどな。=Você nos quer para alguma coisa? Heh, tenho certeza que sei o que isso pode ser...
+俺たち相手に、何かするつもりか？　楽しみにしていいんだろうな。=Você tem planos para nós três, certo? Legal... Aposto que isto vai ser divertido!
 //前フリB嫌悪{0}=
-//お前が来たなら、もう終りにしようかな。=
-//特に用がないなら、もう行っていいぞ。=
+お前が来たなら、もう終りにしようかな。=Ugh, você está aqui? Talvez esteja na hora de eu ir...
+特に用がないなら、もう行っていいぞ。=Se você não precisar de nada, vou sair...
 //前フリB隷属{0}=
-//俺たちに遊んでもらいたいんだな？　俺は問題ないぜ。=
-//お前が望むんだったら、仲間に入れてやるぞ？=
+俺たちに遊んでもらいたいんだな？　俺は問題ないぜ。=Você quer sair com nós duas, eh? Claro, tudo bem para mim!
+お前が望むんだったら、仲間に入れてやるぞ？=Cara, se você quiser se juntar a nós, seja meu convidado!

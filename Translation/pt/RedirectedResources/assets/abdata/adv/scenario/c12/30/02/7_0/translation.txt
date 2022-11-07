@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答A普通{0}=
-//そうなのか？　まぁいいけど。=
-//なんか、他に用事があったのか？=
+そうなのか？　まぁいいけど。=Você tem certeza? Muito bem, então...
+なんか、他に用事があったのか？=O quê, você tem algo para fazer que eu não saiba?
 //なんでもない返答A好意{0}=
-//何か用があったんじゃないのか？=
-//てっきりなんか用事かと思ったんだけどな……=
+何か用があったんじゃないのか？=Tem certeza de que não havia algo que você precisava de nós?
+てっきりなんか用事かと思ったんだけどな……=Huh, eu pensei com certeza que você ia sugerir que nós... Meh, não importa.
 //なんでもない返答A享楽{0}=
-//なんでもないなんて……らしくねぇな。=
-//3Pしようぜって話じゃなかったのか？　残念だぜ。=
+なんでもないなんて……らしくねぇな。=Hmm, mas agora eu meio que me importo...
+3Pしようぜって話じゃなかったのか？　残念だぜ。=Espere, então nada de ménage à trois? Pft, chato...
 //なんでもない返答A嫌悪{0}=
-//そうか、じゃあな。=
-//俺の方も同じだよ。=
+そうか、じゃあな。=Tudo bem, então adeus.
+俺の方も同じだよ。=Legal, eu também.
 //なんでもない返答A隷属{0}=
-//何だ、忙しかったのか？=
-//俺たちに用事があったんじゃないのか？=
+何だ、忙しかったのか？=Huh, e daí, você está ocupado ou algo assim?
+俺たちに用事があったんじゃないのか？=Tem certeza de que não há nada que possamos fazer por você?
