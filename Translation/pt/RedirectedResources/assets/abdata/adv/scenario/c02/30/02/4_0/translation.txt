@@ -14,5 +14,5 @@
 それではさようなら。=Tchau. Espero que seja para sempre.
 次は邪魔しないでください、では。=Tchau. E oh, não nos incomode da próxima vez.
 //会話事後A隷属{0}=
-今度は別の口で語り合いましょう、では。=Vamos renunciar às palavras e trocar algo mais da próxima vez.
+今度は別の口で語り合いましょう、では。=Vamos trocar algo mais do que palavras da próxima vez.
 次は、お話以外も期待させてもらいますね、では。=Espero algo mais do que conversar na próxima vez. Adeus, então.

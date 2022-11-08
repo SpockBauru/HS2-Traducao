@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.4 by Text Dump v1.4.1
 //
-//もし、いらっしゃいますか……？=
+もし、いらっしゃいますか……？=Olá, você está aí?
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//……お留守のようですわね……残念ですわ……=
+……お留守のようですわね……残念ですわ……=Parece que não está no quarto... Que triste...
