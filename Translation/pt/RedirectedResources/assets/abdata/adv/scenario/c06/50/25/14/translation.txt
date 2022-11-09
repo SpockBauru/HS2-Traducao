@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//静かで、とても素敵な場所ですわね。=
-//ここは……なんだかロマンチックですわね。=
-//こんな所で、何をするおつもりですか？　うふふ。=
-//夜のこんな場所に、何か用があるんですの？=
-//静かな場所に来ると……何故だか気持ちが昂ってきますわ。=
+静かで、とても素敵な場所ですわね。=Ahh... É tão tranqüilo e pacífico aqui.
+ここは……なんだかロマンチックですわね。=Você não acha que este lugar é maravilhosamente romântico?
+こんな所で、何をするおつもりですか？　うふふ。=E o que quer que você esteja planejando fazer comigo aqui, eu me pergunto? Hehe!
+夜のこんな場所に、何か用があるんですの？=Há alguma razão em particular que você me arrastou para o meio de um parque à noite?
+静かな場所に来ると……何故だか気持ちが昂ってきますわ。=Algo nesta atmosfera tranqüila é realmente bastante excitante!

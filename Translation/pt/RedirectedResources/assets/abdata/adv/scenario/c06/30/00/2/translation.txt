@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//まあ、今日も性のお勉強に付き合って頂けるのですね、喜んでお受けいたしますわ……=
-//はい、しっかりと励みましょう……=
+まあ、今日も性のお勉強に付き合って頂けるのですね、喜んでお受けいたしますわ……=Mas é claro que sim. Nada me faria mais feliz do que continuarmos juntos nossa educação carnal!
+はい、しっかりと励みましょう……=Certamente. Eu adoraria isso...
 //好意{0}=Amor{0}
-//実は、誘って頂きたいと思っておりました……喜んで……=
-//喜んで……今日も優しくして頂けますか……？=
+実は、誘って頂きたいと思っておりました……喜んで……=Para ser completamente honesta, eu esperava que você fizesse um movimento. Eu ficaria encantado...
+喜んで……今日も優しくして頂けますか……？=É claro. Você vai prometer ser gentil, não vai?
 //享楽{0}=Excitada {0}
-//うふふ、私もお誘いしようと思っていたところです、先を越されてしまいましたわ……♪=
-//あなたから誘って頂けるなんて……今の私を受け入れてくれるようで、嬉しいですわ……♪=
+うふふ、私もお誘いしようと思っていたところです、先を越されてしまいましたわ……♪=Hehe, como é bom ser compreendida ♪ Eu estava prestes a fazer exatamente a mesma proposta ♪
+あなたから誘って頂けるなんて……今の私を受け入れてくれるようで、嬉しいですわ……♪=A resposta é sim ♪ Nada poderia me fazer mais feliz do que saber que você me quer...
 //嫌悪{0}=Ódio {0}
-//やはりそうでしたか……かしこまりました……=
-//ええ、そう仰ると思っていましたわ、どうぞよしなに……=
+やはりそうでしたか……かしこまりました……=Ah, então chegou a este ponto... Muito bem.
+ええ、そう仰ると思っていましたわ、どうぞよしなに……=Estava esperando isto. Vá em frente, então.
 //隷属{0}=Submissa {0}
-//沢山の女性の中から私を選んでくださったのですね、光栄ですわ……=
-//本日も謹んでお相手させて頂きますわ……=
+沢山の女性の中から私を選んでくださったのですね、光栄ですわ……=Pensar que me escolheu em vez de todas aquelas outras mulheres... Que honra!
+本日も謹んでお相手させて頂きますわ……=Naturalmente. O que mais eu poderia querer?

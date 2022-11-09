@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//とても素晴らしい時間でした……あなたがいてくれたおかげですわね。=
-//また、誘っていただきたいですわ。=
-//あなたといただくお酒に、酔ってしまったみたいです……=
-//こんなに楽しいお酒なら、いくらでも酔いたい気分ですわ。=
-//素敵な時間を過ごさせていただき、ありがとうございました。=
-//また、連れてきてくださいましね。=
+とても素晴らしい時間でした……あなたがいてくれたおかげですわね。=Isso foi incrível... E tudo graças a você, é claro.
+また、誘っていただきたいですわ。=Espero que você me encontre de novo em breve.
+あなたといただくお酒に、酔ってしまったみたいです……=Por alguma razão, parece que fico bêbada mais facilmente quando estou com você...
+こんなに楽しいお酒なら、いくらでも酔いたい気分ですわ。=Uma senhora poderia se acostumar a esta sensação, você sabe!
+素敵な時間を過ごさせていただき、ありがとうございました。=Obrigada por uma noite tão memorável.
+また、連れてきてくださいましね。=Espero que você me traga aqui novamente algum dia em breve?

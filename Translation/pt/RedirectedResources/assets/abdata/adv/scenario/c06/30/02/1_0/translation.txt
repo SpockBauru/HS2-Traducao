@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリA普通{0}=
-//ええ、わかりますわ……あら、ご機嫌よう。=
-//とても興味深いお話ですわね……まあ、こんにちは。=
+ええ、わかりますわ……あら、ご機嫌よう。=Sim, exatamente... Oh, olá para você.
+とても興味深いお話ですわね……まあ、こんにちは。=Que fascinante... Ah, vejo que temos um convidado.
 //前フリA好意{0}=
-//そう言われてみますと、納得ですわね……あら、お散歩ですか？=
-//私とは違う考えをなさっているのですね……まあ、ご機嫌いかが？=
+そう言われてみますと、納得ですわね……あら、お散歩ですか？=Bem, quando você coloca dessa forma... Oh, olá. Você está dando um passeio?
+私とは違う考えをなさっているのですね……まあ、ご機嫌いかが？=Não posso dizer que compartilho seus sentimentos, exatamente, mas... Ah, se não é você!
 //前フリA享楽{0}=
-//その遊び、とても面白そうですわね……♪　あら、あなたもいらしていたのですね……♪=
-//私最近、目覚めてしまいましたの……♪　まあ、いつからお聞きになっていたのですか……？=
+その遊び、とても面白そうですわね……♪　あら、あなたもいらしていたのですね……♪=Isso soa como uma maneira divertida de fazer um homem. Oh! Eu não sabia que você também estava aqui ♪
+私最近、目覚めてしまいましたの……♪　まあ、いつからお聞きになっていたのですか……？=Desde então, tenho feito isso todas as noites antes de ir dormir. Ah! Há quanto tempo você está aqui?
 //前フリA嫌悪{0}=
-//もう、ご冗談はおやめになって、うふふ……あら……=
-//こんなに会話が弾んだのは久しぶりですわ……まあ……=
+もう、ご冗談はおやめになって、うふふ……あら……=Hehe, mas não pode querer dizer seriamente... Ah, é você.
+こんなに会話が弾んだのは久しぶりですわ……まあ……=Não tenho gostado tanto de falar com alguém há séculos! Ah. Você também está aqui?
 //前フリA隷属{0}=
-//それは参考になりますわ……あら、お疲れ様でございます。=
-//今度、試してみようかと思います……まあ、私をお探しですか……？=
+それは参考になりますわ……あら、お疲れ様でございます。=Vou certamente ter isso em mente... Oh, se não é a minha pessoa favorita!
+今度、試してみようかと思います……まあ、私をお探しですか……？=Eu certamente gostaria de pelo menos tentar isso, especialmente com... Oh! Falando no diabo, hehe!

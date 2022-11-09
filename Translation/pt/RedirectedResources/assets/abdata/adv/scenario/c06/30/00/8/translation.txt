@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//お話をするだけでも性のお勉強になりますわ、ありがとうございました。=
-//またお話いたしましょうね。=
+お話をするだけでも性のお勉強になりますわ、ありがとうございました。=Falar com você sempre promove minha educação sexual da maneira mais gratificante. Obrigada.
+またお話いたしましょうね。=Espero que nos encontremos novamente em breve.
 //好意{0}=Amor{0}
-//あら、もうこんな時間ですのね、あなたとお話するとすぐに時間が過ぎてしまいます。=
-//今日は改めてあなたがパートナー様でよかったと思いましたわ、それではご機嫌よう。=
+あら、もうこんな時間ですのね、あなたとお話するとすぐに時間が過ぎてしまいます。=Céus, como o tempo voa... Particularmente quando falo com você!
+今日は改めてあなたがパートナー様でよかったと思いましたわ、それではご機嫌よう。=Mais uma vez, me encontro extremamente satisfeita com minha escolha de parceiro de conversa. Infelizmente, adeus, por enquanto.
 //享楽{0}=Excitada {0}
-//お話だけで時間が来てしまいましたわね、次は必ず……うふふ……♪=
-//よろしければ、この後も誘ってくださいましね……♪=
+お話だけで時間が来てしまいましたわね、次は必ず……うふふ……♪=Conversar com você transforma horas em meros momentos. Talvez um dia possamos desfrutar mais plenamente da companhia um do outro?
+よろしければ、この後も誘ってくださいましね……♪=Espero que você tenha o hábito de falar comigo assim...
 //嫌悪{0}=Ódio {0}
-//それでは、失礼いたします……=
-//もうお時間ですわね、さようなら……=
+それでは、失礼いたします……=Desculpe-me...
+もうお時間ですわね、さようなら……=Parece que estamos sem tempo. Adeus.
 //隷属{0}=Submissa {0}
-//またひとつあなたのことが理解できましたわ、次も宜しくお願いいたします。=
-//私との会話にご不満な点がありましたら何でも仰ってくださいね。=
+またひとつあなたのことが理解できましたわ、次も宜しくお願いいたします。=Sinto-me como se tivesse chegado a entendê-lo um pouco melhor hoje. Estou ansiosa para a próxima vez.
+私との会話にご不満な点がありましたら何でも仰ってくださいね。=Espero que esta conversa não tenha sido muito enfadonha para você? Por favor, não hesite em me dizer se foi...

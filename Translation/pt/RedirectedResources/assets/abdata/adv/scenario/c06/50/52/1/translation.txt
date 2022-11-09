@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//まったく、あなたという人は……=
-//怒る事すら、馬鹿馬鹿しく思えてきますわ……=
-//電車で強引にされるなんて……身勝手な方ですのね。=
-//もう二度と、やらないで下さいまし。=
-//あんな事、電車内でする事ではありませんから。=
-//もし今度同じことをしたら、本気で怒りますからね。=
+まったく、あなたという人は……=Grr, não acredito que você...
+怒る事すら、馬鹿馬鹿しく思えてきますわ……=Nem sei se posso me incomodar em ficar bravo com você depois daquele desempenho ridículo...
+電車で強引にされるなんて……身勝手な方ですのね。=Você é muito egoísta para empurrar isso para mim no trem.
+もう二度と、やらないで下さいまし。=Não volte a fazer nada parecido.
+あんな事、電車内でする事ではありませんから。=Não acho que esse seja realmente o tipo de comportamento que se deve ter enquanto se anda de transporte público...
+もし今度同じことをしたら、本気で怒りますからね。=Não tente isso novamente, a menos que você queira me deixar extremamente chateada com você.

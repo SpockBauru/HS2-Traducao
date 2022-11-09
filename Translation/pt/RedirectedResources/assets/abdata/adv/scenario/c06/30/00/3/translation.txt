@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//ご挨拶をしに来てくださったのですね、それではまたお会いいたしましょう。=
-//え……少しびっくりしましたけれど、あなたがそう仰るなら……ご機嫌よう。=
+ご挨拶をしに来てくださったのですね、それではまたお会いいたしましょう。=Ah, você simplesmente passou por aqui para dizer um oi? Que gentileza!
+え……少しびっくりしましたけれど、あなたがそう仰るなら……ご機嫌よう。=Oh? Bem, se você tem certeza...
 //好意{0}=Amor{0}
-//名残惜しいですけれど、お急ぎなら仕方ありませんわね、さようなら。=
-//そうですか……次はきっと、楽しくお喋りいたしましょうね……=
+名残惜しいですけれど、お急ぎなら仕方ありませんわね、さようなら。=Que pena. Se você estiver ocupado de outra forma, suponho que não possa ser evitado.
+そうですか……次はきっと、楽しくお喋りいたしましょうね……=Muito bem. Vamos nos divertir mais na próxima vez, certo?
 //享楽{0}=Excitada {0}
-//またいつでもいらしてくださいまし……うふふ……♪=
-//では、なんでもなくなくなったときは私のもとへ帰ってきてくださいましね……♪=
+またいつでもいらしてくださいまし……うふふ……♪=Espero que você não me deixe esperando muito tempo por sua próxima visita ♪
+では、なんでもなくなくなったときは私のもとへ帰ってきてくださいましね……♪=Nesse caso, por favor, volte logo quando quiser, ahem, tomar um café...
 //嫌悪{0}=Ódio {0}
-//そうですか、それでは失礼いたします……=
-//はい、それでは……=
+そうですか、それでは失礼いたします……=Estou vendo. Adeus, então.
+はい、それでは……=Não me deixe prendê-lo...
 //隷属{0}=Submissa {0}
-//かしこまりました、またお時間のあるときにお越しください。=
-//はい、ご機嫌麗しゅう……=
+かしこまりました、またお時間のあるときにお越しください。=Mas é claro que sim. Espero que possamos conversar novamente algum dia...
+はい、ご機嫌麗しゅう……=Certamente. Por favor, tome cuidado.

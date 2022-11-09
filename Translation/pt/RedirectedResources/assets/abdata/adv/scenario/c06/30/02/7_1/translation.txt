@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答B普通{0}=
-//それでは、また今度お話いたしましょう。=
-//また性のお勉強を致しましょうね、さようなら。=
+それでは、また今度お話いたしましょう。=Eu entendo. Vamos conversar mais tarde, então.
+また性のお勉強を致しましょうね、さようなら。=Continuemos nosso estudo sobre as artes sensuais mais tarde, sim?
 //なんでもない返答B好意{0}=
-//今度は３人でお話いたしましょうね、失礼いたします。=
-//また愛を語らいましょうね、ご機嫌麗しゅう。=
+今度は３人でお話いたしましょうね、失礼いたします。=Espero que nós três possamos conversar novamente mais tarde. Adeus, por enquanto.
+また愛を語らいましょうね、ご機嫌麗しゅう。=Estou ansiosa para discutir assuntos do coração... E do corpo, com você mais tarde.
 //なんでもない返答B享楽{0}=
-//では、また後程……うふふ……♪=
-//うふふ、早めに帰ってきてくださいましね……♪=
+では、また後程……うふふ……♪=Espero que nos encontremos de novo muito em breve ♪
+うふふ、早めに帰ってきてくださいましね……♪=Hehe, desde que você prometa voltar em breve ♪
 //なんでもない返答B嫌悪{0}=
-//はぁ……=
-//困った人ですわ……=
+はぁ……=*suspiro*
+困った人ですわ……=Que incômodo...
 //なんでもない返答B隷属{0}=
-//それでは失礼いたします。=
-//どうかお元気で。=
+それでは失礼いたします。=É claro. Desculpe-me.
+どうかお元気で。=Certamente. Cuide-se.

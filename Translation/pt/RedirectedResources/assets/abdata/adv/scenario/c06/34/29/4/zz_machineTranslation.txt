@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ま、まあ、今いらっしゃったのですか……？　あの、何か変な声が聞こえてきませんでした……？=Ohhh, você está aqui agora? Você ouviu algumas vozes estranhas?
-あらあら……噂をすれば影という……うふふ、ただの独り言ですわ……♪=Oh meu... Falar de sombras... Hihihi, eu só estou falando comigo mesmo...

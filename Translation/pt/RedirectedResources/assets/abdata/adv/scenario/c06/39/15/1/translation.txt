@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.4 by Text Dump v1.4.1
 //
-//あなたにお会いしたくなってしまいまして……宜しければ、少しお話いたしませんか……？=
+あなたにお会いしたくなってしまいまして……宜しければ、少しお話いたしませんか……？=Fui repentinamente dominada pelo desejo mais forte de vê-lo... Poderíamos conversar um pouco juntos, talvez?
 //好意50_汎用{0}=
-//何度もお訪ねしてしまい申し訳ございません、あなたの側を片時も離れたくなくて……=
-//今、お手すきでしょうか？　限りある時をあなたと共に過ごしたいのですが、いかがでしょう。=
-//お邪魔いたします……あの、今日の服、いかがでしょう、変ではありませんか……？=
+何度もお訪ねしてしまい申し訳ございません、あなたの側を片時も離れたくなくて……=Deve ser um incômodo terrível para você receber minhas visitas repetidamente assim, mas eu simplesmente não posso ficar longe...
+今、お手すきでしょうか？　限りある時をあなたと共に過ごしたいのですが、いかがでしょう。=Por acaso você está livre neste momento? O tempo é precioso demais para que eu o passe sem você.
+お邪魔いたします……あの、今日の服、いかがでしょう、変ではありませんか……？=Oh, olá... Ahem, eu estava imaginando o que você pensaria do meu traje hoje. Você gosta?
 ・・・・・=...
 //好意50続き{0}=
-//昨日はお邪魔ではありませんでしたか？　私の為に無理をなさっていないか心配ですわ。=
-//あなたとお話できて、素敵なひと時を過ごすことができました、またお伺いしても宜しいでしょうか。=
-//昨日ほど時間が早く過ぎた日はありません、あなたとずっと一緒にいれたらよいのですが……=
-//あなたのことを想っていたら、居ても立っても居られず……お側に置いて頂けますか……？=
+昨日はお邪魔ではありませんでしたか？　私の為に無理をなさっていないか心配ですわ。=Espero que minha visita a você assim não tenha sido um incômodo... Certamente não gostaria de incomodá-lo de forma alguma...
+あなたとお話できて、素敵なひと時を過ごすことができました、またお伺いしても宜しいでしょうか。=Gostei sinceramente do tempo que passamos conversando juntos. Espero que você me permita fazer uma nova visita em breve.
+昨日ほど時間が早く過ぎた日はありません、あなたとずっと一緒にいれたらよいのですが……=Nunca senti as horas voarem tão rápido como ontem. Se ao menos pudéssemos estar sempre juntos assim...
+あなたのことを想っていたら、居ても立っても居られず……お側に置いて頂けますか……？=Simplesmente não fico bem sem você, parece... Você se importaria se eu dissesse que queria ficar ao seu lado para sempre?
 //好意80_汎用{0}=

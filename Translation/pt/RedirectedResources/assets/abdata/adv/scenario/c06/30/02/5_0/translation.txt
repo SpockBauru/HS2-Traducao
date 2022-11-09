@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようA普通{0}=
-//え、ええ、私は、その、構いませんけれど……=
-//はい、喜んで……あ、宜しいでしょうか？　３人ですることになってしまいますが……=
+え、ええ、私は、その、構いませんけれど……=Por que certamente. Eu não teria objeções a isso...
+はい、喜んで……あ、宜しいでしょうか？　３人ですることになってしまいますが……=Mas é claro... Ah, você percebe que isso significaria que nós três faríamos amor juntos?
 //HしようA好意{0}=
-//あなたがしたいのでしたら、私に否やはございませんわ……=
-//まあ、３人でなんて大胆ですわ……私は良いと思いますけれど、いかが？=
+あなたがしたいのでしたら、私に否やはございませんわ……=Se é isso que você deseja, então certamente não tenho objeções.
+まあ、３人でなんて大胆ですわ……私は良いと思いますけれど、いかが？=Três pessoas, todas perdidas no auge da paixão ao mesmo tempo? Quão escandaloso... E tentador!
 //HしようA享楽{0}=
-//うふふ、３人でなんて、素敵ですわね……♪　是非、致しましょう……♪=
-//私たちを見て、催してしまったのですね、もちろんお受けいたしますわ……♪=
+うふふ、３人でなんて、素敵ですわね……♪　是非、致しましょう……♪=Hehe, que idéia encantadora! Por todos os meios, vamos transformar esta fantasia em realidade ♪
+私たちを見て、催してしまったのですね、もちろんお受けいたしますわ……♪=Ahh, eu vejo que a visão de nós juntos despertou em você um desejo avassalador ♪ Deixe-nos ajudá-lo a saciá-lo...
 //HしようA嫌悪{0}=
-//私は構いませんけれど、この方がお嫌なのではなくて……？=
-//どういたしましょう？=
+私は構いませんけれど、この方がお嫌なのではなくて……？=Eu mesmo não tenho objeções, mas talvez você devesse confirmar com nossa amiga primeiro?
+どういたしましょう？=Hmm, eu me pergunto...
 //HしようA隷属{0}=
-//はい、あなたが３人でしたいと仰るなら。=
-//わかりました、できればふたりでご奉仕させて頂きたいのですけれど、宜しいでしょうか？=
+はい、あなたが３人でしたいと仰るなら。=Se é isso que você deseja, então é isso que você terá.
+わかりました、できればふたりでご奉仕させて頂きたいのですけれど、宜しいでしょうか？=É claro, desde que você não tenha objeção de ser agradado por duas mulheres ao mesmo tempo?

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後A普通{0}=
-//本日は有難うございました、それでは失礼いたします。=
-//またお話を聞かせてくださいましね、またお会い致しましょう。=
+本日は有難うございました、それでは失礼いたします。=Obrigada pela conversa. Adeus, por enquanto...
+またお話を聞かせてくださいましね、またお会い致しましょう。=Espero que todos possamos nos encontrar novamente assim algum dia?
 //会話事後A好意{0}=
-//それでは、ご機嫌麗しゅう……=
-//そろそろお時間ですか？　名残惜しいですが、またお会い致しましょう。=
+それでは、ご機嫌麗しゅう……=Até a próxima vez.
+そろそろお時間ですか？　名残惜しいですが、またお会い致しましょう。=Acredito que estamos quase sem tempo. Vamos fazer isso novamente em breve, sim?
 //会話事後A享楽{0}=
-//ではまた、後でお会いいたしましょうね……♪=
-//では、あなたさえ宜しければ後で誘ってくださいまし……♪=
+ではまた、後でお会いいたしましょうね……♪=Aguardo com expectativa a nossa próxima reunião ♪
+では、あなたさえ宜しければ後で誘ってくださいまし……♪=Bem, eu espero que nos veremos novamente em breve ♪
 //会話事後A嫌悪{0}=
-//それでは、失礼いたします……=
-//では、さようなら……=
+それでは、失礼いたします……=Desculpe-me...
+では、さようなら……=Adeus.
 //会話事後A隷属{0}=
-//貴重なお時間を割いて頂き、有難うございました。=
-//もし他にご用がありましたら、あとで個別で仰ってくださいまし。=
+貴重なお時間を割いて頂き、有難うございました。=Obrigada por passar tanto tempo conosco.
+もし他にご用がありましたら、あとで個別で仰ってくださいまし。=Se você precisar de algo, não hesite em entrar em contato comigo em particular.

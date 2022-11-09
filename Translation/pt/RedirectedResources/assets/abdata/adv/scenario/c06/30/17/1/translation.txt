@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//まあ！　私、今あなたに助けてほしいと願った所でしたの、きっと願いが叶ったのですわ……=
-//お手数をおかけいたしますが……はぁ、はぁ、た、助けてくださいませんか……？=
-//まあ、大変な方に見つかってしまいましたわ……♪　きっと、ただでは助けてもらえないのでしょう……？=
-//それから、あなたにだけはお伝えしておきます……私、尿意が……うふ……どういたしましょう……♪=
-//そんな……どうしてこんな時にあなたが……=
-//あの……うう……た、助けて……くださいまし……はぁ、はぁ、お願いいたします……=
-//ああ、こんなみっともない姿……あなたにだけは見られたくありませんでしたわ……=
-//本来なら自分でなんとかするべきなのですが……その、今日はもう、我慢の限界で……あ、あ……=
+まあ！　私、今あなたに助けてほしいと願った所でしたの、きっと願いが叶ったのですわ……=Céus! Eu só queria que você aparecesse e me resgatasse, e aqui está você! Talvez minha sorte esteja finalmente virando!
+お手数をおかけいたしますが……はぁ、はぁ、た、助けてくださいませんか……？=*aff* Peço desculpas por incomodá-lo, mas, *puff*, você se importaria de me ajudar?
+まあ、大変な方に見つかってしまいましたわ……♪　きっと、ただでは助けてもらえないのでしょう……？=Oh, exatamente a pessoa que eu esperava que aparecesse! Você vai me ajudar a sair desta situação horrível, não vai?
+それから、あなたにだけはお伝えしておきます……私、尿意が……うふ……どういたしましょう……♪=Posso dizer isto a você e somente a você. O que... Você quer que eu faça com a minha bexiga cheia? ♪
+そんな……どうしてこんな時にあなたが……=Oh, mas por que tinha que ser assim?! Por que tinha que ser VOCÊ, de todas as pessoas?
+あの……うう……た、助けて……くださいまし……はぁ、はぁ、お願いいたします……=Você poderia, *puff*, me ajudar aqui, por favor? Eu lhe imploro...
+ああ、こんなみっともない姿……あなたにだけは見られたくありませんでしたわ……=Ah, mas você é a ÚLTIMA pessoa por quem eu gostaria de ser visto num estado tão embaraçoso...
+本来なら自分でなんとかするべきなのですが……その、今日はもう、我慢の限界で……あ、あ……=Normalmente eu tentaria me livrar desta confusão, mas temo estar quase no meu limite...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

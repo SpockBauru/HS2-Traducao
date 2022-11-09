@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//こんな所にまで電車が通っているなんて、すごいですわ。=
-//この電車、どこから来ているのかしら？=
-//電車に乗るなんて、なんだか楽しいですわね。=
-//電車ですか……特に興味はありませんけど……=
-//電車の中で、変な気を起こさないで下さいね。=
+こんな所にまで電車が通っているなんて、すごいですわ。=Mas o que um trem está fazendo aqui?
+この電車、どこから来ているのかしら？=De onde você acha que este trem vem, exatamente?
+電車に乗るなんて、なんだか楽しいですわね。=Há algo terrivelmente emocionante em andar de trem juntos, você não acha?
+電車ですか……特に興味はありませんけど……=A... Trem, sim? Fascinante.
+電車の中で、変な気を起こさないで下さいね。=Espero certamente que andar de trem juntos não lhe dê nenhuma idéia, hehe!

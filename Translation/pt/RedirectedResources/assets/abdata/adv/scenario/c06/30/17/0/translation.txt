@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//困りましたわ……=
-//どうしましょう……=
+困りましたわ……=Oh meu Deus...
+どうしましょう……=O que devo fazer agora?
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

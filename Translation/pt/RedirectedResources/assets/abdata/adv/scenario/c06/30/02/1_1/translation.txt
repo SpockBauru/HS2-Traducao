@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリB普通{0}=
-//ふたりでお話をしておりましたの、あなたもいかがですか？=
-//この方とおしゃべりをすると止まらなくて……まるで井戸端会議ですわね。=
+ふたりでお話をしておりましたの、あなたもいかがですか？=Estávamos tendo a conversa mais fascinante. Você não quer se juntar a nós?
+この方とおしゃべりをすると止まらなくて……まるで井戸端会議ですわね。=Eu estava falando com esta jovem escandalosa. Ela estava me contando sobre todos os muitos usos da cera quente.
 //前フリB好意{0}=
-//もしお時間があれば、３人でお話いたしませんか……？=
-//私、３人でおしゃべりしたいですわ、もちろん、みなさんが宜しければですけれど……=
+もしお時間があれば、３人でお話いたしませんか……？=Se você não está ocupado, por que não se junta a nós e descobre por si mesmo?
+私、３人でおしゃべりしたいですわ、もちろん、みなさんが宜しければですけれど……=Na verdade eu esperava que pudéssemos conversar todos juntos, quero dizer, se você estivesse interessado em algo assim...
 //前フリB享楽{0}=
-//是非３人でお話いたしましょう、きっと話が弾みますわ……♪=
-//ちょうどいいですわ、あなたの意見も聞かせてくださらない……？=
+是非３人でお話いたしましょう、きっと話が弾みますわ……♪=Por que não compartilhamos histórias de nossas memórias mais íntimas? Eu vou primeiro: eu tinha acabado de sair do carrinho de golfe, quando todos...
+ちょうどいいですわ、あなたの意見も聞かせてくださらない……？=Ah, exatamente quem eu esperava ver! Precisamos de alguém para resolver uma disputa, está vendo? O que você acha do vermelho vivo...
 //前フリB嫌悪{0}=
-//申し訳ございません、今ふたりでお話をしているのですが……=
-//奇遇ですこと……=
+申し訳ございません、今ふたりでお話をしているのですが……=Desculpe-me, mas esta é uma conversa particular...
+奇遇ですこと……=Oh, você também está aqui?
 //前フリB隷属{0}=
-//まあ、気付くのが遅くなってしまって……お疲れ様でございます。=
-//こちらにいらしていたのですね、何かご用でしょうか？=
+まあ、気付くのが遅くなってしまって……お疲れ様でございます。=Oh, não estamos sozinhas? Que bom ver você novamente!
+こちらにいらしていたのですね、何かご用でしょうか？=Ah, é você. Há algo em que possamos ajudá-lo?

@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//私とどんなお喋りをしたいのですか……？=
-//何についてお話いたしましょう……？=
+私とどんなお喋りをしたいのですか……？=Bem, então, sobre o que você gostaria de falar?
+何についてお話いたしましょう……？=Muito bem. O que está em sua mente?
 //好意{0}=Amor{0}
-//あなたとゆっくりお話しできるなんて幸せです、どんなお話をいたしましょう……？=
-//夫婦のような会話ができればよいのですが……=
+あなたとゆっくりお話しできるなんて幸せです、どんなお話をいたしましょう……？=Nada me faria mais feliz. Há algo em particular que você gostaria de discutir?
+夫婦のような会話ができればよいのですが……=Talvez pudéssemos falar sobre algo... Íntimo?
 //享楽{0}=Excitada {0}
-//うふふ……あなたのことですから、やはりエッチなお話でしょうか……？=
-//いやらしいお話をするおつもりですか……？　大きな声では言えませんけれど、大歓迎です♪=
+うふふ……あなたのことですから、やはりエッチなお話でしょうか……？=Hehe... Conhecendo você, tenho certeza de que a conversa será altamente inapropriada...
+いやらしいお話をするおつもりですか……？　大きな声では言えませんけれど、大歓迎です♪=Imagino que você gostaria de discutir algo malicioso?
 //嫌悪{0}=Ódio {0}
-//はあ……私と何をお話したいのですか……？=
-//お好きに話してくださいまし……=
+はあ……私と何をお話したいのですか……？=*suspiro* Sim? O que é que você quer, exatamente?
+お好きに話してくださいまし……=Por favor, por favor, por todos os meios. Não deixe que eu o impeça de falar... E de falar... E de falar...
 //隷属{0}=Submissa {0}
-//私のわからないようなお話でも、なんでも話してください、聞いているだけで楽しいので……=
-//あなたの好きな話題にいたしましょう。=
+私のわからないようなお話でも、なんでも話してください、聞いているだけで楽しいので……=Fale comigo sobre qualquer coisa que você queira. Eu apenas ADORO o som de sua voz.
+あなたの好きな話題にいたしましょう。=Vamos falar sobre o que quer que lhe agrade, sim?
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

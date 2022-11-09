@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-こんな素晴らしい場所があったのですね。=Um lugar tão maravilhoso para se visitar.
-こんな所まで知っているなんて、あなたっておしゃれな方なのですわね。=Você deve ser uma pessoa muito elegante para saber tudo isso.
-なかなか、素敵な雰囲気の場所ですわ、うふふ。=É um lugar muito agradável, com uma atmosfera agradável.
-プールですの？　あまり興味はありませんわ。=Uma piscina? Eu não estou realmente interessado.
-こんな所に連れてきてくださるなんて、嬉しいですわ。=Estou tão feliz que você me trouxe a este lugar.

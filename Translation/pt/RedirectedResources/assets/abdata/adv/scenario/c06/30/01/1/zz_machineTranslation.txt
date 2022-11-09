@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-おしゃべり……それは勿論あなたの立派なものと私の濡れたもので、ということですわね……？=Conversar... O que significa, claro, com suas coisas finas e minhas coisas molhadas?
-いいえ、私たちの間にもはや言葉は不要ですわぁ、あなたの性欲をもっと解放してくださいましぃ……♪=Não, não há mais necessidade de palavras entre nós, por favor libere seu desejo sexual ♪

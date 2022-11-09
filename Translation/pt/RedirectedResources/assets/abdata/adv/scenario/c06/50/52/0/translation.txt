@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//こんな所で……何をするおつもりなんですか？=
-//いたずらはお控えくださいね。=
-//変なことをしたら、許しませんから。=
-//お待ちください……ここは、電車の車内なんですよ？=
-//変なことを……しないで下さいませ……=
-//あまり度が過ぎると、怒りますからね。=
-//電車内なんだから、大人しくしてくださいませ。=
-//いたずらしては、いけませんよ。=
-//ダメですから……おやめくださいませ。=
+こんな所で……何をするおつもりなんですか？=O que exatamente você planeja fazer em um lugar como este, afinal?
+いたずらはお控えくださいね。=Espero que não se comporte mal...
+変なことをしたら、許しませんから。=Porque eu nunca o perdoaria se o fizesse!
+お待ちください……ここは、電車の車内なんですよ？=Espere um momento, por favor... Você percebe que estamos em um trem, não é mesmo?
+変なことを……しないで下さいませ……=Espero que você se abstenha de fazer qualquer coisa... Inapropriada, sim?
+あまり度が過ぎると、怒りますからね。=Eu não levo o embaraço público de bom grado, você sabe!
+電車内なんだから、大人しくしてくださいませ。=Controle-se, por favor! Estamos em público!
+いたずらしては、いけませんよ。=Este não é certamente o momento para começar a me testar...
+ダメですから……おやめくださいませ。=Por favor, contenha-se. Por favor...

@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //壊れ{0}=Quebrada {0}
-//おしゃんぽぉ、しゃへてくらはい……=
-//ろこれも、ちゅいていひまふよ……=
-//このばひょ……たのひいれふわぁ……=
-//おしゃんぽ、いっはいしゃせへくらはい……=
-//いっはい、いいこほ、ひてくらはいね……=
-//なんれも……ひたがいまふからぁ……=
+おしゃんぽぉ、しゃへてくらはい……=Por favor, leve-me para um passeio.
+ろこれも、ちゅいていひまふよ……=Aonde quer que você conduza, eu seguirei...
+このばひょ……たのひいれふわぁ……=Que belo lugar para onde você me trouxe!
+おしゃんぽ、いっはいしゃせへくらはい……=Espero que você me acompanhe bem hoje, sim?
+いっはい、いいこほ、ひてくらはいね……=Espero que você tenha muitas atividades divertidas planejadas para nós, sim?
+なんれも……ひたがいまふからぁ……=Estou me sentindo particularmente obediente hoje, sabe, então não se retraia!

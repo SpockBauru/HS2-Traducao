@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//え……あ、あのう……ま、待ってくださいまし……！=
-//あらあら……うふふ、振られてしまいましたわね……=
-//あ……=
-//ああ、そんな……私に失望しないでくださいまし……何でもいたしますから……=
+え……あ、あのう……ま、待ってくださいまし……！=Hm?! Mas espere, por favor, eu lhe imploro!
+あらあら……うふふ、振られてしまいましたわね……=Hehe, oh querido... Você está brincando comigo, não está?
+あ……=Ugh...
+ああ、そんな……私に失望しないでくださいまし……何でもいたしますから……=Mas certamente não o faria... Por favor, não me abandone desta maneira! Eu farei qualquer coisa!

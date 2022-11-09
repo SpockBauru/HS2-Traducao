@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ここが、教会なのですね……荘厳な雰囲気ですわ。=
-//私を教会に連れてきたという事は……結婚的な意味ですの？=
-//教会に連れてきていただけるなんて、素敵な事ですわ。=
-//あなたが教会を選ぶなんて、不思議な気分ですわね。=
-//この教会で、式をあげるおつもりですか？　私はいつでも大丈夫ですわ。=
+ここが、教会なのですね……荘厳な雰囲気ですわ。=Isto é uma igreja, sim? Há um certo sentimento solene no ar...
+私を教会に連れてきたという事は……結婚的な意味ですの？=Você me trouxe aqui porque deseja que sejamos unidos como marido e mulher?
+教会に連れてきていただけるなんて、素敵な事ですわ。=Que gentileza sua, trazer-me a um lugar tão significativo...
+あなたが教会を選ぶなんて、不思議な気分ですわね。=Não consigo imaginar o que alguém como você pensa que está fazendo em uma igreja, de todos os lugares...
+この教会で、式をあげるおつもりですか？　私はいつでも大丈夫ですわ。=Você pretende realizar uma cerimônia de casamento para nós, então? Porque eu estou pronta se você estiver!

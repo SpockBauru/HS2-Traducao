@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-色よいお返事、嬉しいですわぁ……♪　それでは私と快楽うずまく桃源郷へ参りましょう……♪=Fico feliz em ouvir sua resposta colorida... Vamos comigo para o jardim do prazer do pêssego...
-はい……♪　あの方との快楽を否定するつもりはありませんわ、より深くは潜って頂きますけれども♪=Sim, não pretendo negar-lhe o prazer de estar com ela, embora você tenha que ir mais fundo.

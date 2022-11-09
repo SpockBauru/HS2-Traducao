@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あ、あのっ、あの、見ていらしたのですか……？　私が口にしていた言葉も……聞こえていまして……？=Oh, hum, você me viu? Você ouviu as palavras que eu disse?
-うふふ……私が自分を慰めている所、見ていらしたのね……♪　興奮いたしまして……？=Então... Você me viu me agradando... E eu fiquei empolgado?

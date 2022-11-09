@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//お待たせいたしました……どちらに参りましょう……？=
-//お待たせして申し訳ございません……少々、時間がかかってしまいましたわ……=
-//うふふ、もしかして、覗いていらっしゃいました？　やっぱり……あなたの熱い視線を感じましたわ……♪=
-//遅くなりました……=
-//デートの途中で大変失礼いたしました……=
+お待たせいたしました……どちらに参りましょう……？=Obrigada por esperar. Agora, para onde você vai me levar a seguir?
+お待たせして申し訳ございません……少々、時間がかかってしまいましたわ……=Por favor, perdoe a espera... Isso demorou um pouco mais do que eu esperava.
+うふふ、もしかして、覗いていらっしゃいました？　やっぱり……あなたの熱い視線を感じましたわ……♪=Hehe, espero que você não estivesse tentando dar uma espiada? Estou certa de ter sentido seu olhar ardente sobre mim ♪
+遅くなりました……=Meus pedidos de desculpas pela espera.
+デートの途中で大変失礼いたしました……=... Agora, então, espero não ter estragado o clima?

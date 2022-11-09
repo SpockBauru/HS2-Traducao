@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //汎用{0}=
-//あらあら、私を探しに来てくださったの？　それとも偶然ですかぁ？　まあ、どちらにせよ……うふふ♪=
-//うふふ、なんだか私を見て身構えたように思えましたけど、私の気のせいでしょうかぁ……？=
-//あら、もう禁断症状が出始めてしまったのかしら？　私が恋しくなってしまわれたのですねぇ……♪=
+あらあら、私を探しに来てくださったの？　それとも偶然ですかぁ？　まあ、どちらにせよ……うふふ♪=Oh, você estava me procurando? Ou isto foi apenas um feliz acidente? Não que isso realmente importe de qualquer maneira ♪
+うふふ、なんだか私を見て身構えたように思えましたけど、私の気のせいでしょうかぁ……？=Hehe, não posso deixar de sentir que seus olhos estão me despindo enquanto falamos... Certamente eu não estou imaginando isso?
+あら、もう禁断症状が出始めてしまったのかしら？　私が恋しくなってしまわれたのですねぇ……♪=Já desejando minha companhia, hm? Que fardo é ser admirada, hehe ♪
 //風呂{0}=
-//あら……ここでお会いしたからには、することは一つですわぁ♪=
-//うふふ、私を見た瞬間、あなたの立派なものがぴくんと反応しましたわよぉ……♪=
+あら……ここでお会いしたからには、することは一つですわぁ♪=Oh, meu... Encontrando você aqui? Só há uma maneira de as coisas poderem acabar ♪
+うふふ、私を見た瞬間、あなたの立派なものがぴくんと反応しましたわよぉ……♪=Hehe, no momento em que você me viu sua nobre ereção simplesmente tomou vida ♪
 //用件{0}=
-//では、セックスをいたしましょうか、そのために会いにいらしたんでしょう……？=
-//素晴らしき性愛の園へあなたをご招待いたしましたわ、受けて頂けます？=
+では、セックスをいたしましょうか、そのために会いにいらしたんでしょう……？=Que nossos dois corpos se tornem um só, então. É por isso que você está aqui, afinal de contas, certo?
+素晴らしき性愛の園へあなたをご招待いたしましたわ、受けて頂けます？=Venha se juntar a mim em uma terra maravilhosa de prazeres sensuais.
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

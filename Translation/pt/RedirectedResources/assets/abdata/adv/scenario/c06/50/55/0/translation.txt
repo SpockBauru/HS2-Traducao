@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //依存{0}=Dependência {0}
-//結婚式の次にすることは、お分かりですか？=
-//結婚と言えば、初夜のちぎりですわ。=
-//それでは、早速始めましょう……=
-//結婚で心が繋がったんですから、次は身体も繋がりましょう。=
-//私、あなたの子供が孕みたいのです。=
-//さぁ……早く、私を孕ませて下さいませ。=
-//結婚したんですね、私達……=
-//次は、家族を増やしていく番ですよ。=
-//さぁ……早く、一緒に子作りに励みましょう。=
+結婚式の次にすることは、お分かりですか？=Você sabe que tipo de atividade geralmente acompanha a cerimônia, presumo?
+結婚と言えば、初夜のちぎりですわ。=Sempre achei que havia algo terrivelmente romântico na frase "noite de núpcias".
+それでは、早速始めましょう……=Bem, então... Do que estamos esperando?
+結婚で心が繋がったんですから、次は身体も繋がりましょう。=Um casamento pode unir corações e almas, mas é preciso uma noite de núpcias para fazer dois corpos um só...
+私、あなたの子供が孕みたいのです。=Nada me faria mais feliz do que ter seus filhos...
+さぁ……早く、私を孕ませて下さいませ。=E não preciso lhe dizer o que isso exigiria, não é mesmo? Hehe...
+結婚したんですね、私達……=E então nos casamos...
+次は、家族を増やしていく番ですよ。=O próximo passo, como tenho certeza que concordará, é começar a fazer crescer nossa família...
+さぁ……早く、一緒に子作りに励みましょう。=Assim, então... Vamos fazer amor... E um bebê, já que estamos nisso!

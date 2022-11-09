@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あのう……申し訳ございません、その……おトイレに……=
-//パートナー様……少し……ここで、お待ち頂けませんか……？=
-//ちょっとお花を摘んで参りますわ、ここでお待ちになって……♪=
-//申し訳ございません、少々席を外させて頂きますわ。=
-//すみません、先に……その、おトイレを済ませておいても宜しいですか……？=
+あのう……申し訳ございません、その……おトイレに……=Desculpe-me, mas... Preciso usar o lavador...
+パートナー様……少し……ここで、お待ち頂けませんか……？=Você... Importa-se de esperar aqui por mim, apenas por alguns minutos?
+ちょっとお花を摘んで参りますわ、ここでお待ちになって……♪=Sabe... Eu ouço as delicadas notas de campainha da natureza ♪ Me dê licença por um momento...
+申し訳ございません、少々席を外させて頂きますわ。=Peço desculpas, mas receio ter que me ausentar por alguns minutos.
+すみません、先に……その、おトイレを済ませておいても宜しいですか……？=Por favor, me perdoe por perguntar em tal momento, mas... Seria aceitável para mim visitar primeiro o banheiro feminino?
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

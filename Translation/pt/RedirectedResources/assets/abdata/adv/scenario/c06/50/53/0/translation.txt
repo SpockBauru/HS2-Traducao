@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //隷属{0}=Submissa {0}
-//なんだか、とても元気に蠢いているようですわね。=
-//ちょっとだけ不安ですが、期待もしていますわ。=
-//早速……試してみましょう。=
-//素晴らしい触手ですわね……こんな大きなもの、どこにいたのかしら？=
-//あなたが飼っているのですか？　大変ですね。=
-//私も……この子の飼育に一役買わせていただきますね。=
-//この触手……かなり本格的な物なんですのね……=
-//私の穴という穴をねらっているのかしら？=
-//なんだか、とても楽しみですわ。=
+なんだか、とても元気に蠢いているようですわね。=Vejam como eles são animados!
+ちょっとだけ不安ですが、期待もしていますわ。=Devo admitir que estou um pouco nervosa... Mas também intrigada...
+早速……試してみましょう。=Bem, então... Vamos começar?
+素晴らしい触手ですわね……こんな大きなもの、どこにいたのかしら？=Que tentáculos esplêndidos! Onde você encontrou espécimes tão enormes?
+あなたが飼っているのですか？　大変ですね。=Eles devem ser terrivelmente difíceis de treinar...
+私も……この子の飼育に一役買わせていただきますね。=Sempre fui boa com os animais, sabe. Importa-se se eu tentar?
+この触手……かなり本格的な物なんですのね……=Hmm... Estes certamente parecem reais, não parecem?
+私の穴という穴をねらっているのかしら？=Eles estão interessados nos meus, erm, orifícios, você acha?
+なんだか、とても楽しみですわ。=... Meu Deus, que emocionante!

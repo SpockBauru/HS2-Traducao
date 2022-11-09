@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//とても変わったものがそろっている部屋ですね。=
-//なるほど、そういう趣味の部屋ですのね？=
-//こんな部屋に連れて来るなんて、いやらしい方ですわね。=
-//なんでしょうか、この部屋は……あまりいい趣味ではありませんね。=
-//なるほど、なかなかいい部屋ですわね……あなたと一緒なら、一層楽しめそうですわ。=
+とても変わったものがそろっている部屋ですね。=Hmm... O que são todos esses estranhos implementos?
+なるほど、そういう趣味の部屋ですのね？=Ahh, estou vendo. Então vai ser esse tipo de sessão?
+こんな部屋に連れて来るなんて、いやらしい方ですわね。=Hehe, sua depravação não conhece limites.
+なんでしょうか、この部屋は……あまりいい趣味ではありませんね。=Qual é exatamente o objetivo desta sala? Não posso imaginar que alguém de bom gosto venha aqui de boa vontade.
+なるほど、なかなかいい部屋ですわね……あなたと一緒なら、一層楽しめそうですわ。=Nossa, não é maravilhoso? E com você, eu sei que estou numa sessão muito esclarecedora...
