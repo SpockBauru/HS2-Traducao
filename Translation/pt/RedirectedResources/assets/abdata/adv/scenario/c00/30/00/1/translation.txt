@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=
-//分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=
+私とお話を？　楽しい話題を提供できる自信はありませんが、分かりました。=Você quer conversar comigo? Eu sou péssima em conversa fiada... Mas muito bem.
+分かりました。気の利いた返事は出来ないかもしれませんが、そこはご了承ください。=Entendido. Você terá que me desculpar se eu não tiver nenhuma resposta espirituosa para oferecer.
 //好意{0}=Amor{0}
-//ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=
-//勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=
+ええ、喜んで。何について話ましょう？　個人的にはあなたの恋愛話に興味があります。=Com prazer. Pessoalmente, adoraria ouvir sobre suas paixões.
+勿論、お付き合い致します。私、相槌のタイミングには定評があるんです。=É claro. Minhas habilidades de escuta ativa são inigualáveis.
 //享楽{0}=Excitada {0}
-//猥談でしたら、お任せください。=
-//……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=
+猥談でしたら、お任せください。=Sou toda ouvidos, desde que se trate de uma conversa que envolva sexo.
+……なるほど、卑猥な話で気分を盛り上げてからセックスをするのですね。承知いたしました。=Entendo, então você gosta de aquecer com histórias obscenas antes de fazer sexo. Então, Vamos prosseguir.
 //嫌悪{0}=Ódio {0}
-//ちょうど暇をしていたところでしたので、お付き合いしますよ。=
-//盛り上がるとは到底思えませんが……分かりました。=
+ちょうど暇をしていたところでしたので、お付き合いしますよ。=Não tenho nada em minha agenda no momento, então posso fazer-lhe companhia
+盛り上がるとは到底思えませんが……分かりました。=Acredito que não será uma conversa produtiva, mas tudo bem.
 //隷属{0}=Submissa {0}
-//身体ではなく、言葉でコミュニケーションを……分かりました。=
-//言葉攻めですか、分かりました。=
+身体ではなく、言葉でコミュニケーションを……分かりました。=Eu entendo. Vejo que você precisa de comunicação verbal, e não física.
+言葉攻めですか、分かりました。=Você deve me estimular verbalmente antes de nossas relações sexuais. Muito bem.
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

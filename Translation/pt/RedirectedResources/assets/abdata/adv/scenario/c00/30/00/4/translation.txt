@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=
-//――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=
+……そうですね。余程憎い相手でもない限り、人から寄せられる好意は嬉しいものだと思います。=... Bem, eu ficaria lisonjeada se alguém gostasse de mim, desde que não seja um indivíduo que eu despreze.
+――私も昔は生娘でしたから、恋に苦い経験はございます。今では笑って話せる良い思い出ではありますが。=-Eu costumava ser uma garota inexperiente, por isso tenho experiências amargas de amor. É uma boa memória da qual posso rir agora, no entanto.
 //好意{0}=Amor{0}
-//……お恥ずかしい話ですが、当時好きだったドラマの告白シーンが印象的だったせいか、少し恋に夢見がちになってしまいました。=
-//――ロマンティックなシチュエーションに憧れがあります。ですが、無理に背伸びをしてほしくはありませんね。=
+……お恥ずかしい話ですが、当時好きだったドラマの告白シーンが印象的だったせいか、少し恋に夢見がちになってしまいました。=Um espetáculo que assisti deixou uma impressão em mim, me deu uma visão irrealista, porém romântica, do amor.
+――ロマンティックなシチュエーションに憧れがあります。ですが、無理に背伸びをしてほしくはありませんね。=Eu sonho com situações românticas, mas não quero que elas sejam artificiais. Quero que elas se sintam orgânicas.
 //享楽{0}=Excitada {0}
-//一夜限りの関係を持つ女性は意外と多と聞いたことがあります。真偽の程は不明ですが……=
-//……結婚している自分の姿は、あまり想像がつきませんね。良い妻になれる自信もありません。=
+一夜限りの関係を持つ女性は意外と多と聞いたことがあります。真偽の程は不明ですが……=Ouvi dizer que há surpreendentemente muitas mulheres que têm casos de uma noite. Não sei se é verdade ou não...
+……結婚している自分の姿は、あまり想像がつきませんね。良い妻になれる自信もありません。=Não consigo me imaginar me casando, muito menos sendo uma esposa modelo.
 //嫌悪{0}=Ódio {0}
-//――参考になるかは分かりませんが、プレゼントは消え物が無難かと思います。=
-//……あなたも誰かを好きになったりするのですね、正直意外です。=
+――参考になるかは分かりませんが、プレゼントは消え物が無難かと思います。=Não sei se isto o ajudará, mas acho que é seguro assumir que o presente não é um item perdido.
+……あなたも誰かを好きになったりするのですね、正直意外です。=Interessante. Nunca teria pensado que mesmo indivíduos como você têm a capacidade de se apaixonar
 //隷属{0}=Submissa {0}
-//……何が切っ掛けで恋に落ちるかは分かりませんから、その様なこともあるのでしょうね。=
-//……なるほど。相手に尽くすのは良いことですが、盲目的にならないように注意しなければいけませんね。=
+……何が切っ掛けで恋に落ちるかは分かりませんから、その様なこともあるのでしょうね。=... Eu não duvidaria. Nunca se sabe de onde o amor pode brotar.
+……なるほど。相手に尽くすのは良いことですが、盲目的にならないように注意しなければいけませんね。=... Estou vendo. Deve-se ser gentil com suas paixões, mas nunca colocá-las sobre um pedestal.

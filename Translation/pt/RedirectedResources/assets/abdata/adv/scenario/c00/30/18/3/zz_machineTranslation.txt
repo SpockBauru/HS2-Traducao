@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-この様な姿のままで良いのでしたら、どうぞお好きになさってください。=Se é assim que você quer, por favor, faça o que quiser.
-逆の立場でしたら、私も同じことをすると思うので……致し方ありませんね。=Se nossos papéis fossem invertidos, eu faria a mesma coisa... Não há nada que possa ser feito.
-あなたに期待した私が馬鹿でしたね。=Fui estúpida em esperar mais alguma coisa de você.
-好き放題されてしまうのですね……昂ります。=Não posso impedi-lo de fazer o que quiser... Está ficando excitado.

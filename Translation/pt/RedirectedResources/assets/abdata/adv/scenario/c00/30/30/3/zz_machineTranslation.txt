@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-これは……お見苦しいものをお見せして申し訳ございません。=Oh meu... Lamento que você tenha que ver isto.
-押し入らずにずっと覗かれていたのですか？　お人が悪いですよ。=Você continuou a espreitar sem nunca entrar? Isso não é muito simpático da sua parte.

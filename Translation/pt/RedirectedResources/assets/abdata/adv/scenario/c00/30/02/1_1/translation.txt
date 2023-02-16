@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリB普通{0}=
-//こんにちは。どなたかをお探しでしょうか？=
-//私か彼女に何かご用でしょうか？=
+こんにちは。どなたかをお探しでしょうか？=Olá. Procurando por alguém?
+私か彼女に何かご用でしょうか？=Você queria falar com ela? Ou talvez comigo?
 //前フリB好意{0}=
-//こんにちは。良かったら、あなたもお話しませんか？=
-//どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=
+こんにちは。良かったら、あなたもお話しませんか？=Olá. Você gostaria de se juntar a nós e fazer disso uma discussão em grupo?
+どうされました？　お話でしたら喜んで……とは私の一存では言えませんね。=Eu adoraria se você se juntasse a nós... Se minha amiga aqui não se opuser.
 //前フリB享楽{0}=
-//3Pをしたいとという本音がお顔に出ていますよ。=
-//私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=
+3Pをしたいとという本音がお顔に出ていますよ。=Posso inferir de sua expressão que você quer ter uma ménage à trois.
+私たちを前にして昂るのは分かりますが、興奮を抑えてくださいね。=Entendo que somos irresistivelmente sedutoras, mas por favor, comporte-se.
 //前フリB嫌悪{0}=
-//普通の人なら、会話中に声をかけたりしませんよ。=
-//楽しい気分が霧散しました。=
+普通の人なら、会話中に声をかけたりしませんよ。=É incrivelmente rude intrometer-se na conversa de alguém.
+楽しい気分が霧散しました。=Adeus alegria. Olá desapontamento.
 //前フリB隷属{0}=
-//二人纏めて犯したい、そう考えているお顔ですね。=
-//あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=
+二人纏めて犯したい、そう考えているお顔ですね。=Parece que você quer foder as duas juntas, não é mesmo?
+あなたに犯されながら彼女と会話をするのも、趣がありそうですね。=Hmm... Ter uma conversa com ela, enquanto você me fode pode ser... Interessante.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答A普通{0}=
-//そうなのですか？=
-//見かけたので、声をかけてくださった、ということでしょうか。=
+そうなのですか？=Ah, é mesmo?
+見かけたので、声をかけてくださった、ということでしょうか。=Acho que você só quis passar por aqui para dizer olá.
 //なんでもない返答A好意{0}=
-//何かご用事かと思いましたが、勘違いでしたか。=
-//てっきりお話でもあるのかと……=
+何かご用事かと思いましたが、勘違いでしたか。=Parece que li mal suas intenções.
+てっきりお話でもあるのかと……=Pensei que você queria conversar comigo.
 //なんでもない返答A享楽{0}=
-//3Pに誘おうとしたけど怖気づいた……当たっていますか？=
-//3Pのお誘いだと思っていたのですが、残念です。=
+3Pに誘おうとしたけど怖気づいた……当たっていますか？=Se eu tivesse que adivinhar... Diria que você queria um ménage, mas estava com muito medo de perguntar.
+3Pのお誘いだと思っていたのですが、残念です。=Que infelicidade. Eu estava antecipando uma proposta para uma ménage à trois.
 //なんでもない返答A嫌悪{0}=
-//ただの冷やかしですか？=
-//挨拶に来られたのですか？　その様な配慮は無用です。=
+ただの冷やかしですか？=Você veio para me incomodar?
+挨拶に来られたのですか？　その様な配慮は無用です。=Veio só dizer um oi? Eu não espero, nem quero esse tipo de reconhecimento de você.
 //なんでもない返答A隷属{0}=
-//3Pの気分ではなかったのでしょうか？=
-//これから犯していただけると期待していたのですが、違ったのですね。=
+3Pの気分ではなかったのでしょうか？=Você não quer uma ménage à trois?
+これから犯していただけると期待していたのですが、違ったのですね。=Meu corpo estava pronto para que você me devorasse, mas, infelizmente, essa não era sua intenção.

@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//お待たせしました。……どうなさいました？　息が上がっているようですが？=
-//お待たせしました。……何をしていたかは、ご想像にお任せ致します。=
-//お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=
+お待たせしました。……どうなさいました？　息が上がっているようですが？=Estou de volta. Embora... Você parece estar sem fôlego. Você não está bem?
+お待たせしました。……何をしていたかは、ご想像にお任せ致します。=Peço desculpas pela espera. Vou mantê-lo adivinhando o que estava fazendo.
+お待ちいただき、ありがとうございます。……覗かれてもよかったのですよ？=Peço desculpas pelo inconveniente. Também lhe comunicarei que não me importaria se você me seguisse.
 ……まさかとは思いますが、覗いてはいませんよね？=Você não está espreitando, está?
-//私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=
+私の黄金色のシャワーはご覧になっていただけたでしょうか？　見ていない？　嘘はいけませんよ。=Você gostou do meu banho dourado? Você não estava espreitando? Você é um mentiroso tão terrível quanto um espião.

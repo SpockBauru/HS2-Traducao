@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//折角ですし、このままセックスしませんか？=
-//無性にムラムラとしてきました……もし同じ気持ちでしたら、付き合っていただけませんか？=
+折角ですし、このままセックスしませんか？=Bem, já que você está aqui... Vamos fazer sexo?
+無性にムラムラとしてきました……もし同じ気持ちでしたら、付き合っていただけませんか？=Sinto a excitação arder dentro de mim. Você vai me satisfazer... Se você sentir o mesmo?
 //好意{0}=Amor{0}
-//もしよかったら、今度は身体でコミュニケーションを取りませんか？=
-//ずっとあなたの声を聴いていたせいか、身体が火照ってきました。……抱いてはくれませんか？=
+もしよかったら、今度は身体でコミュニケーションを取りませんか？=Agora que nossa conversa está concluída, você gostaria de tentar se comunicar com nossos corpos?
+ずっとあなたの声を聴いていたせいか、身体が火照ってきました。……抱いてはくれませんか？=Posso sentir minha temperatura corporal subir depois de conversar com você. Poderia ter a gentileza de... Dormir comigo?
 //享楽{0}=Excitada {0}
-//お話も楽しいのですが、そろそろセックスをしませんか？=
-//猥談も大いに盛り上がったことですし、次はセックスの時間ですね。=
+お話も楽しいのですが、そろそろセックスをしませんか？=Por mais que eu gostasse de nossa conversa, preferiria que passássemos a ter relações sexuais agora.
+猥談も大いに盛り上がったことですし、次はセックスの時間ですね。=Agora que apreciamos muito nossa conversa corajosa, vamos em frente e fazer sexo.
 //嫌悪{0}=Ódio {0}
-//傍にあなたしかいないので妥協します。セックスに付き合ってもらえませんか？=
-//不本意ですが、あなたしかいないので致し方ありません。これからセックスでもどうですか？=
+傍にあなたしかいないので妥協します。セックスに付き合ってもらえませんか？=Acredito que tenho que chegar a um acordo. Você estaria disposto a transar comigo?
+不本意ですが、あなたしかいないので致し方ありません。これからセックスでもどうですか？=Como você é o único parceiro por perto, terei que improvisar. Gostaria de transar?
 //隷属{0}=Submissa {0}
-//楽しいお話の後はセックスですね。勿論、お付き合いいただけますよね？=
-//焦らしプレイもそろそろ限界なので、セックスしていただけませんか？=
+楽しいお話の後はセックスですね。勿論、お付き合いいただけますよね？=Uma boa conversa deve ser sempre seguida de sexo. Você não se oporia, certo?
+焦らしプレイもそろそろ限界なので、セックスしていただけませんか？=Eu não suporto mais suas provocações. Tire suas calças, por favor.

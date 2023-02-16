@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//勘違いでしたか、失礼しました。=
-//そうですか。何かありましたら、お声がけください。=
+勘違いでしたか、失礼しました。=Parece que li mal suas intenções. Desculpas.
+そうですか。何かありましたら、お声がけください。=Entendido. Se você tiver mais alguma coisa, não hesite em me perguntar.
 //好意{0}=Amor{0}
-//そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=
-//私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=
+そうでしたか。少しの時間でしたが、お話出来て嬉しかったです。それでは。=É claro. Foi uma conversa curta, mas mesmo assim gostei de sua companhia.
+私を見かけたのでわざわざ声をかけてくださったのですね、嬉しいです。=Você só queria verificar como eu estava me saindo? Você me faz corar.
 //享楽{0}=Excitada {0}
-//そうですか、セックスできると思っていたので残念です。=
-//では、性欲が高まった際にでも、お声がけください。=
+そうですか、セックスできると思っていたので残念です。=Estou vendo. Eu esperava que pudéssemos fazer sexo, mas vejo que você está ocupado.
+では、性欲が高まった際にでも、お声がけください。=Bem, então, chame minha atenção novamente quando sua libido for reativada.
 //嫌悪{0}=Ódio {0}
-//特にないのでしたら、私はこれで。=
-//私も用はないので、失礼致します。=
+特にないのでしたら、私はこれで。=Então, se me der licença, tenho assuntos a tratar.
+私も用はないので、失礼致します。=Certo. Adeus, então.
 //隷属{0}=Submissa {0}
-//……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=
-//犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=
+……一旦放置して私の性欲を高めようという魂胆でしたか。では、また後程。=Ah, então você planeja alimentar lentamente minha libido, negando-me agora o prazer. Vejo você mais tarde então.
+犯していただけることを期待しておりましたが、そういう気分ではなかったのですね。=Eu esperava que você fosse me foder, mas talvez lhe falte coragem no momento.

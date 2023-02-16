@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//ここであれば、何でも許されると思っていませんか？　それは違いますよ。=
-//あなたに手錠がかかる日が楽しみですね。=
-//はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=
-//あなたには恥という感情が欠落しているのでしょうね。=
-//よく平気で人が嫌がることを出来ますね。心がないのですか？=
-//良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=
+ここであれば、何でも許されると思っていませんか？　それは違いますよ。=Você está enganado se acredita que pode fazer o que quiser aqui dentro.
+あなたに手錠がかかる日が楽しみですね。=Estou ansiosa para vê-lo algemado.
+はぁ……痴漢をして、何故誇らしげな顔が出来るのですか？=*affe* Como você pode fazer uma expressão tão presunçosa depois de fazer algo tão desprezível?
+あなたには恥という感情が欠落しているのでしょうね。=Isso me leva a acreditar que a emoção da vergonha é algo que lhe falta congênitamente.
+よく平気で人が嫌がることを出来ますね。心がないのですか？=Como você pode fazer uma coisa dessas com tanta facilidade? Você não tem coração?
+良心が痛んでいないのなら、あなたは世の中に出てはいけないタイプの人です。=Vivemos em uma sociedade. Se você realmente não sente nenhum remorso, não deveria estar vivendo nela.

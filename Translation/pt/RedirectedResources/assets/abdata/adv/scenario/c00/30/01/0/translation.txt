@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //汎用{0}=
-//私を探しにきてくださったのですか？　わざわざありがとうございます。=
-//ここまでの道すがら、他の方を抱いてはいませんか？=
-//会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=
+私を探しにきてくださったのですか？　わざわざありがとうございます。=Você veio até aqui por mim? Sinto-me lisonjeada.
+ここまでの道すがら、他の方を抱いてはいませんか？=Espero que você não tenha dormido com muitas mulheres no caminho até aqui...
+会いたいと思った傍から、目の前に来て下さるとは……これは運命でしょうか。=I... Estava pensando em você. Talvez tenha sido o destino que nos uniu.
 //風呂{0}=
-//こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=
-//お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=
+こんにちは。わざわざお風呂場まで私を探しにきてくださったのですね。=Olá. Você veio no banho só para me ver?
+お会いできて嬉しいです。お風呂に入ろうかと思っていましたが、止めにしますね。=Vê-lo nunca deixa de colocar um sorriso no meu rosto. Suponho que o banho pode esperar.
 //用件{0}=
-//用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=
-//大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=
+用件は口にせずとも結構ですよ。私とセックスをするために、ここへ来られたのですよね？=Não há necessidade de soletrar para mim. É óbvio que você veio aqui para ter sexo comigo.
+大丈夫です、ご用件は理解していますから。セックスのお誘いですよね？　今日はどの様なプレイをご希望ですか？=Eu sei exatamente o que você quer. Que tipo de fetiche você gostaria de tentar hoje?
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

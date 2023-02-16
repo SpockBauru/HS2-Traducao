@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//少しだけ、お時間を頂戴してもよろしいでしょうか？=
-//直ぐに戻りますので、少しだけお待ちいただけますか？=
-//ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=
-//少し用事を思い出しましたので、失礼致します。=
-//すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=
+少しだけ、お時間を頂戴してもよろしいでしょうか？=Será apenas um momento, eu já volto.
+直ぐに戻りますので、少しだけお待ちいただけますか？=Posso pedir-lhe que espere aqui, por favor? Estarei de volta em exatamente trezentos segundos.
+ここで粗相をしてはいけないので、お手洗いへ寄ってもよろしいでしょうか？=Posso ir primeiro ao banheiro? Prefiro não me envergonhar na frente de todos.
+少し用事を思い出しましたので、失礼致します。=Acabo de me lembrar que tenho assuntos urgentes a tratar. Desculpe-me.
+すみません、お手洗いに寄りたいのですが……もちろん、覗いてもらって結構ですよ。=Desculpe-me, mas preciso me aliviar. Embora... Você pode sempre dar uma olhada, se quiser.
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

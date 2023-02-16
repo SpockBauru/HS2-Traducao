@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後A普通{0}=
-//それでは、失礼させていただきます。=
-//私たちはこれで失礼します。=
+それでは、失礼させていただきます。=Você terá que nos desculpar agora.
+私たちはこれで失礼します。=Vamos partir agora. Adeus.
 //会話事後A好意{0}=
-//機会がありましたら、またお話にお付き合いいただけると嬉しいです。=
-//今度二人きりでゆっくりお話ししたいものです。=
+機会がありましたら、またお話にお付き合いいただけると嬉しいです。=Terei prazer em ter outra discussão com você em algum momento. Mas até lá, adeus.
+今度二人きりでゆっくりお話ししたいものです。=Deveríamos conversar a sós um dia destes. Cuide-se.
 //会話事後A享楽{0}=
-//このまま三人でセックスをと思いましたが、そういった雰囲気ではありませんね。では、私は失礼します。=
-//三人でお話するのも楽しいものですね。機会がありましたら、またお付き合いください。=
+このまま三人でセックスをと思いましたが、そういった雰囲気ではありませんね。では、私は失礼します。=Eu esperava que pudéssemos ter um ménage, mas parece que agora não é o momento certo. Adeus.
+三人でお話するのも楽しいものですね。機会がありましたら、またお付き合いください。=Três cabeças são melhores do que duas. Deveríamos ter outra discussão um dia destes.
 //会話事後A嫌悪{0}=
-//では、私はこれで失礼します。=
-//これ以上話すことはないので、私は失礼させていただきます。=
+では、私はこれで失礼します。=Tenho que voltar aos negócios. Com licença.
+これ以上話すことはないので、私は失礼させていただきます。=Não tenho mais nada a acrescentar, portanto, com licença.
 //会話事後A隷属{0}=
-//それでは、私たちはこれで失礼致します。=
-//次回はお話だけでなく、セックスもしませんか？=
+それでは、私たちはこれで失礼致します。=Vamos deixar as coisas assim e nos despedirmos.
+次回はお話だけでなく、セックスもしませんか？=Da próxima vez, você gostaria de fazer sexo enquanto conversamos?

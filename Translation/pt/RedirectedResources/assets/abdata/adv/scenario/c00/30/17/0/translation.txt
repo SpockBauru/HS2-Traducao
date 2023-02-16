@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//端的に言って、ピンチですね……=
-//私としたことが、不覚です……=
+端的に言って、ピンチですね……=Isto é uma violação do código da construção! Eu deveria processar!
+私としたことが、不覚です……=Raios! Eu sou um alvo fácil aqui...
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

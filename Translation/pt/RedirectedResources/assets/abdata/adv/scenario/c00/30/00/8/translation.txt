@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//長々と話し込んでしまいましたね。では、これで失礼します。=
-//色々お話できて楽しかったです。それでは。=
+長々と話し込んでしまいましたね。では、これで失礼します。=Desculpas, o tempo voa quando eu estou explicando um conceito tão grandioso. Adeus.
+色々お話できて楽しかったです。それでは。=Essa foi uma grande discussão. Adeus.
 //好意{0}=Amor{0}
-//……時が立つのは早いですね。またの機会をお待ちしています、さようなら。=
-//あなたのことを色々知れて有意義な時間でした。ありがとうございます。=
+……時が立つのは早いですね。またの機会をお待ちしています、さようなら。=Ah, o tempo voa. Aguardo com expectativa a nossa próxima reunião.
+あなたのことを色々知れて有意義な時間でした。ありがとうございます。=Obrigada. Esta foi uma discussão produtiva.
 //享楽{0}=Excitada {0}
-//今日はありがとうございました。また、お話でもセックスでもお誘いをお待ちしています。=
-//中々興味深いお話でした。次も楽しみにしていますね。=
+今日はありがとうございました。また、お話でもセックスでもお誘いをお待ちしています。=Obrigada por seu tempo. Aguardarei nossa próxima conversa e/ou relação sexual.
+中々興味深いお話でした。次も楽しみにしていますね。=Partirei com a esperança de que nossa próxima conversa seja tão perspicaz quanto esta.
 //嫌悪{0}=Ódio {0}
-//もう話すこともありませんし、失礼させていただきます。=
-//次はもう少しまともな話題を振っていただきたいですね。=
+もう話すこともありませんし、失礼させていただきます。=Não tenho mais absolutamente nada a dizer a você. Adeus.
+次はもう少しまともな話題を振っていただきたいですね。=Tenho que ir em frente e pedir que você tenha um tópico digno de discussão preparado da próxima vez.
 //隷属{0}=Submissa {0}
-//……本当にセックスはしないのですね。いえ、何でもありません。=
-//もっと猥談をしていたかったのですが、続きは次の機会に持ち越しですね。=
+……本当にセックスはしないのですね。いえ、何でもありません。=Estamos realmente renunciando ao sexo? Eu- não importa.
+もっと猥談をしていたかったのですが、続きは次の機会に持ち越しですね。=Eu esperava que pudéssemos ter mais discussões obscenas, mas talvez da próxima vez.
