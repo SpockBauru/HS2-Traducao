@@ -3,7 +3,7 @@
 //***********************************************************************
 おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, o que foi, cara? Você não sabe como fazer isso, sabe?
 ビビってんじゃねぇよ。オレを退屈させるな。=Não se assuste. Você está me aborrecendo.
-焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
+//焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
 少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
 はぁっ、オレのペースでやらせてもらう……文句は言わせねぇ。=Huh, eu vou pegar no meu próprio ritmo... E não reclame.
 んんっ、待ってろ。すぐに馴染む……=Mmm, espere por isso. Você vai se encaixar bem...
@@ -11,7 +11,7 @@
 んぅっ……悪くない感じだ……身体がゆっくり火照ってく……=Mmm... Não é uma sensação ruim... Corpo queimando lentamente...
 んっ、こんな中途半端なのがいいのか？=Hmm, você quer isso meio cozido?
 んぅっ、擦ってるだけでいいのか？　つまんねぇ遠慮するなよ？=Mmm. Você quer que eu apenas esfregue isso? Não seja maricas, está bem?
-んっ、弱っちい腰使いだな……少しはまぁ、感じるが……=Mmm, você está um pouco sensível nos quadris... Mas eu posso senti-lo... Um pouco.
+//んっ、弱っちい腰使いだな……少しはまぁ、感じるが……=Mmm, você está um pouco sensível nos quadris... Mas eu posso senti-lo... Um pouco.
 はぁっ、んっ、遠慮はいらないぞ……ちゃんと濡れてるだろ？=Huh, mmm, não seja tímido... Você está todo molhado, não está?
 ろうら？　こぇくぁいらら、さすがりいらくはらいらろ……？（どうだ？　これくらいなら、流石に痛くはないだろ？）=(O que você acha? Isso não vai machucar as pedras, certo?
 んぅ、おまぇろあじ……みょうにこいら……風呂入っれるろか？（オマエの味、妙に濃いな、風呂入ってるのか？）=Seu gosto é estranho. Você está tomando banho?

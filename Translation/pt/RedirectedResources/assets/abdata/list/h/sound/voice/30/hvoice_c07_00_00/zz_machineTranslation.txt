@@ -3,7 +3,7 @@
 //***********************************************************************
 おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, o que foi, cara? Você não sabe como fazer isso, sabe?
 ビビってんじゃねぇよ。オレを退屈させるな。=Não se assuste. Você está me aborrecendo.
-焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
+//焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
 少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
 んっ、はぁっ、随分優しいじゃねぇか……オレを女扱いか？=Você está me tratando como uma mulher?
 んぅっ……悪くない感じだ……身体がゆっくり火照ってく……=Mmm... Não é uma sensação ruim... Corpo queimando lentamente...
