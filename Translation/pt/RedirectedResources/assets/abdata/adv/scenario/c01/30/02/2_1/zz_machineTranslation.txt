@@ -3,6 +3,6 @@
 //***********************************************************************
 あなただったらどうなの？=E se fosse você?
 あなたならどう思うの？=O que você pensaria?
-あなたの考えも気になるわ。=Estou curioso para saber o que você pensa também.
+あなたの考えも気になるわ。=estou curiosa para saber o que você pensa também.
 あなたはどう？=E você?
 あなたならどう考えるの？=O que você pensaria?

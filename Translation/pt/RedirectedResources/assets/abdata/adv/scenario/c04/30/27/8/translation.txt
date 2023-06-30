@@ -15,7 +15,7 @@
 へぇ～、いざとなったら怖くなったってやつ？　キモくてビビりとか、救えないね。=Aww, você é um daqueles caras que não consegue aguentar quando está nervoso? Então isso o torna feio e patético, certo?
 //隷属{0}=Submissa {0}
 えぇ……流石に萎えるんですけどぉ……アタシのこの火照りは、どーしてくれんの？=Ugh, falando sobre uma desilusão... Então, o que devo fazer com todo esse tesão, hein? Apenas engarrafá-lo ou algo assim?!
-うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=Aff, o pior de todos! Tipo, se eu soubesse que ia ser ignorada, eu teria ficado em casa em meus pijamas!
+うっわ、マジ最悪……なんもされないとか、誰が予想できるん？=Aff, o pior de todos! Tipo, se eu soubesse que ia ser ignorada, eu teria ficado em casa de pijama!
 //依存{0}=Dependência {0}
 なに？　チョーシ悪かった？　そーいうのはさ、先に言ってくれないと困るんですけどー……=Você está com resfriado ou algo assim? Quero dizer, não tem problema se você estiver, mas me deixe saber mais cedo da próxima vez, certo?
 アンタさー、なんか勘違いしてない？　アンタのやる気とかカンケーないから。アタシを気持ちよくしないで、他に何すんの？=Então eu não sei se alguém já lhe explicou isso, mas você deve me dar prazer, certo? Quer você esteja excitado ou não!

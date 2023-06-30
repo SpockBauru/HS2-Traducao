@@ -9,7 +9,7 @@
 あなたが一緒にいてくれるなら私も嬉しいわ。=Eu ficaria feliz em tê-lo comigo.
 //前フリB享楽{0}=Prelúdio B Kyouraku {0}
 私たちと一緒に楽しくおしゃべりしない？=Por que você não vem e tem uma boa conversa conosco?
-あなたも一緒なら私たちも楽しいわ。=Se você está conosco, estamos nos divertindo.
+あなたも一緒なら私たちも楽しいわ。=Nós também nos divertiríamos se você estivesse conosco.
 //前フリB嫌悪{0}=Prelúdio B Disgust {0}
 こんな所でどうしたの？=O que está acontecendo aqui?
 何か用事でもあったのかしら？=Há algo que eu possa fazer por você?

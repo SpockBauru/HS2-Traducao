@@ -30,7 +30,7 @@
 なにをまごついてやがる。用が無いなら、最初からオレの視界に入るな。=Está vendo aquele caixote do lixo ali? Entre dentro dele, imediatamente.
 なんだ？　ビビって口も聞けなくなったか？　情けねぇ。=O quê, o gato comeu sua língua? Patético.
 //汎用隷属{0}=
-あぁ、いたのか。挨拶くらいしろ。=Você novamente. Você morreria ao dar um sorriso a uma garota de vez em quando?
+あぁ、いたのか。挨拶くらいしろ。=Você de novo. Seria muito pedir para cumprimentar de vez em quando?
 よう、オマエはいつも気楽そうでいいな。=Digo isto por você: pelo menos parece que você sempre está se divertindo.
 オマエ、毎日いないか？　ハマリ過ぎだろ。=Você está aqui praticamente todos os dias, hein? Viciado em sexo.
 //汎用隷属用件{0}=
