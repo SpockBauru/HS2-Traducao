@@ -3,7 +3,7 @@
 //
 悪いわね、ちょっとだけ待っててもらえるかしら。=Desculpe, pode aguardar um minuto?
 ごめんなさい、少し時間をもらっていいかしら？=Desculpe, pode me dar um momento?
-ごめんなさい、ちょっと用事を済ませてくるわ。=Desculpe, eu tenho alguns... negócios que preciso resolver.
+ごめんなさい、ちょっと用事を済ませてくるわ。=Desculpe, eu tenho alguns... Negócios que preciso resolver.
 悪いんだけど、少し用があるから……=Você se importa? Preciso de um segundo aqui.
 ごめんなさい、少しだけ待ってもらいたいんだけど。=Sinto muito, voltarei em um instante. Por favor, não vá embora.
 CHOICE:覗く=Espiar

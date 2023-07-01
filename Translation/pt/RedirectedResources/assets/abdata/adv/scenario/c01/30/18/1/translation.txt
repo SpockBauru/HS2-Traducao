@@ -8,7 +8,7 @@
 縄がこんなに絡まっちゃうなんて……見てないで何とかして。=Ugh, essas instruções não são claras! Pare de ficar aí parado como um idiota e faça alguma coisa!
 べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=Não se preocupe comigo. Vou me conter até que apareça outra pessoa.
 なんとか外そうとしたんだけど、余計に絡まって……ちょっと、助けて欲しいの。=Puxa, eles estão cada vez mais apertados. Desculpe-me, mas você pode me ajudar?
-なんだか、トイレに行きたくてしょうがないわ。=Ughh... acho que minha bexiga está prestes a explodir.
+なんだか、トイレに行きたくてしょうがないわ。=Ughh... Acho que minha bexiga está prestes a explodir.
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

@@ -6,7 +6,7 @@
 えっと……あなたさえよければエッチしない？=Então, hmmm... Eu estava pensando... Você quer fazer sexo?
 その、なんだかエッチな気分になったって言ったら引いちゃう？　それとも付き合ってくれる？=Hmm, digamos que eu esteja excitada. Você me acharia repulsivo ou... Você me daria prazer?
 //好意{0}=Amor{0}
-ねえ、お話だけで終わりじゃないでしょ？　エッチしたいって顔に書いてあるわ。=Ei, não é só uma histórinha, né?　Está escrito na sua cara que você quer fazer sexo.
+ねえ、お話だけで終わりじゃないでしょ？　エッチしたいって顔に書いてあるわ。=Ei, não é só uma histórinha, né? Está escrito na sua cara que você quer fazer sexo.
 わがままを言うと、もう少しあなたと一緒にいたいわ。……あなたの温もりを感じていたいの。=Sei que pareço egoísta, mas... Quero passar mais tempo com você... E estar perto o suficiente para sentir o seu calor.
 //享楽{0}=Excitada {0}
 ふふ、あなたと話してたら身体が火照ってきちゃった。エッチ、付き合って貰うわよ？=Hehe, só de falar com você já fico excitada - e você vai ter que transar comigo, quer queira ou não.

@@ -15,5 +15,5 @@
 その話題を受け入れるのは難しいわね。=Acho que não estou gostando desse assunto.
 その話、私にはよくわからないわ。=Eu realmente não entendo isso.
 //隷属{0}=Submissa {0}
-いいわね、この話題……すごく納得できるわ。=Gosto desse tópico... faz muito sentido.
+いいわね、この話題……すごく納得できるわ。=Gosto desse tópico... Faz muito sentido.
 相手のすべてを受け入れるっていうのは、すごく気持ちがいいのよ。=Aceitar totalmente uma pessoa é a melhor sensação do mundo.
