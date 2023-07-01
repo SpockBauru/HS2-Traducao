@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話{0}=
-//わかってるわ……私があなたを求めるように、あなたも私を求めてるって事。=
-//あなたが求めてるのに、私が拒否するわけないでしょ？=
+わかってるわ……私があなたを求めるように、あなたも私を求めてるって事。=Eu sei... Que você me quer tanto quanto eu o quero.
+あなたが求めてるのに、私が拒否するわけないでしょ？=Você realmente acha que eu vou rejeitá-lo quando você precisa tanto de mim?

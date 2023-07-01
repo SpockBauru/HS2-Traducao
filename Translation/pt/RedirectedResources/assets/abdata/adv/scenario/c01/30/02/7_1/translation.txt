@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答B普通{0}=
-//次はゆっくりお話ししましょう。=
-//何かあったらいつでも声をかけてね。=
+次はゆっくりお話ししましょう。=Então, vamos deixar isso para outra ocasião.
+何かあったらいつでも声をかけてね。=Você sabe onde me encontrar.
 //なんでもない返答B好意{0}=
-//あなたとお話したかったけど、仕方がないわね。=
-//何かあるのかと、期待しちゃったわ。=
+あなたとお話したかったけど、仕方がないわね。=É uma pena, eu queria conversar com você.
+何かあるのかと、期待しちゃったわ。=Você me deixou empolgada por um segundo.
 //なんでもない返答B享楽{0}=
-//私はお話したかったけど、残念だわ。=
-//なんでもないなら、それでいいけど、なんだか寂しいわね。=
+私はお話したかったけど、残念だわ。=Ah... Mas eu queria falar com você.
+なんでもないなら、それでいいけど、なんだか寂しいわね。=Tudo bem, mas... Mas gostaria que você tivesse feito algo.
 //なんでもない返答B嫌悪{0}=
-//それで良ければ、私からは特にないわ。=
-//それなら別に問題ないわ。=
+それで良ければ、私からは特にないわ。=Certo... Por que você ainda está aqui? Não tenho nada para você.
+それなら別に問題ないわ。=Então, terminamos por aqui.
 //なんでもない返答B隷属{0}=
-//あなたが望むなら、それで問題ないわ。=
-//あなたが望むなら、また今度お話がしたいわ。=
+あなたが望むなら、それで問題ないわ。=Se é isso que você quer, não há problema.
+あなたが望むなら、また今度お話がしたいわ。=Gostaria de conversar com você em outro momento, se quiser.

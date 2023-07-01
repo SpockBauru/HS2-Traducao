@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//あなたを本当に気持ちよくさせられるのは、私だけなんだから。=
-//さぁ、私とエッチしましょう。本当の快楽を味わいましょうよ。=
+あなたを本当に気持ちよくさせられるのは、私だけなんだから。=Sou a única pessoa que pode fazer você se sentir vivo. Somente eu.
+さぁ、私とエッチしましょう。本当の快楽を味わいましょうよ。=Me foda agora. Nós sabemos como é o prazer de verdade. Ninguém mais sabe.
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

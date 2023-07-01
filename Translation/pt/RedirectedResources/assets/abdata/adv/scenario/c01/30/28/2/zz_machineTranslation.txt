@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あれ……ここにいたの？　もしかして、待っててくれたとか？=Ei... Você está aqui? Talvez você estivesse esperando por mim ou algo assim?
-気が付かなくてごめんね……=Desculpe por não tê-lo reconhecido...
-一緒に入ろうって、声かけてくれれば良かったのに。=Você deveria ter me pedido para entrar com você.
-ここで……私が上がるのを待ってたの……？=Você estava apenas... Esperando que eu viesse até aqui?
-どうせならあなたと一緒に浴びたかったわ……うふふ。=Eu teria tomado banho com você de qualquer forma... Hihihi.

@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//こんな所に入ってくるなんて？！　何考えてるの。=
-//ど、どうしたの？！　こんな所に入ってくるなんて、恥ずかしいわ。=
-//ちょっと、いくら何でもいきなりこんな所に入ってくるなんて。=
-//何考えてるのよ？！　こんな所にまで入り込もうだなんて……=
-//どうしたの？　私がトイレしてる所見たいのかしら？=
+こんな所に入ってくるなんて？！　何考えてるの。=Como ousa entrar aqui? O que está pensando?
+ど、どうしたの？！　こんな所に入ってくるなんて、恥ずかしいわ。=Do, o que há de errado com você? Isto é constrangedor.
+ちょっと、いくら何でもいきなりこんな所に入ってくるなんて。=Ei, como você se atreve a vir aqui do nada?
+何考えてるのよ？！　こんな所にまで入り込もうだなんて……=O que raios você estava pensando?　Não acredito que esteja tentando entrar neste lugar...
+どうしたの？　私がトイレしてる所見たいのかしら？=Sim? Você veio para uma aula de anatomia?

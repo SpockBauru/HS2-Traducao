@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//ありがとう、楽しい話だったわ。=
-//あなたとのおしゃべり、すごく楽しかったわ。=
+ありがとう、楽しい話だったわ。=Obrigada, essa foi uma história divertida.
+あなたとのおしゃべり、すごく楽しかったわ。=Eu realmente gostei muito de conversar com você.
 //好意{0}=Amor{0}
-//ありがとう、本当に楽しい時間だったわ。=
-//こんなに素敵なお話、聞かせてくれてありがとう。=
+ありがとう、本当に楽しい時間だったわ。=Obrigada, foi um momento realmente divertido.
+こんなに素敵なお話、聞かせてくれてありがとう。=Foi uma conversa incrível, muito obrigada.
 //享楽{0}=Excitada {0}
-//お話だけでこんなに盛り上がるなんて、あなたって最高ね。=
-//あなたとのお話、最高に盛り上がったわ、ちょっと感じちゃったかも。=
+お話だけでこんなに盛り上がるなんて、あなたって最高ね。=Nunca pensei que me divertiria tanto apenas conversando. Você é o melhor.
+あなたとのお話、最高に盛り上がったわ、ちょっと感じちゃったかも。=Eu me diverti muito conversando com você. Talvez até tenha me excitado um pouco.
 //嫌悪{0}=Ódio {0}
-//話してくれてありがとう、それじゃあね。=
-//それなりにいい話だったわ、それじゃあまたね。=
+話してくれてありがとう、それじゃあね。=Obrigado pela conversa. Tchau.
+それなりにいい話だったわ、それじゃあまたね。=Essa conversa não foi tão ruim quanto eu pensava. Tchau.
 //隷属{0}=Submissa {0}
-//ありがとう、こんなに話してもらえるなんて幸せよ。=
-//あなたの話しならいつでも聞くから、好きな時に声をかけてね。=
+ありがとう、こんなに話してもらえるなんて幸せよ。=Obrigada, estou muito feliz por você estar disposto a passar tanto tempo conversando comigo.
+あなたの話しならいつでも聞くから、好きな時に声をかけてね。=Falarei com você a qualquer momento, basta me chamar.

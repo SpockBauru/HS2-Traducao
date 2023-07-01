@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//良かったわ、ねぇ、少しお話でもしない？=
+良かったわ、ねぇ、少しお話でもしない？=Olá, você se importaria se conversássemos um pouco?
 //好意50_汎用{0}=
-//あなたと少しでも話したくて、来ちゃったのよ。=
-//もしよかったら、ちょっとお話しない？=
-//会いたくて来ちゃったわ。=
+あなたと少しでも話したくて、来ちゃったのよ。=Não posso evitar, eu queria ouvir sua voz.
+もしよかったら、ちょっとお話しない？=O que você acha de uma pequena conversa para passar o tempo?
+会いたくて来ちゃったわ。=Eu... Queria estar com você.
 ・・・・・=...
 //好意50続き{0}=
-//付き合ってくれてありがとう。=
-//とっても楽しかったわ。=
-//ありがとう。また会いに来てもいいかしら？=
-//良かったわ、居てくれて……ねぇ、少しだけ話せないかしら？=
+付き合ってくれてありがとう。=Obrigada por me fazer companhia.
+とっても楽しかったわ。=Eu poderia fazer isso por horas.
+ありがとう。また会いに来てもいいかしら？=Obrigada. Espero não ser um incômodo se eu for visitá-lo novamente.
+良かったわ、居てくれて……ねぇ、少しだけ話せないかしら？=Que bom que você está aqui... Podemos conversar por um segundo?
 //好意80_汎用{0}=

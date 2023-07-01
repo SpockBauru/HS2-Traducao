@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//なるほど……そういうことはあるかも知れないわね。=
-//それは……ちょっと恥ずかしいんじゃないの？=
+なるほど……そういうことはあるかも知れないわね。=Bem... Talvez seja esse o caso.
+それは……ちょっと恥ずかしいんじゃないの？=Isso é... Um pouco inapropriado, você não acha?
 //好意{0}=Amor{0}
-//そんなＨな話してたら、恥ずかしくなっちゃうわ。=
-//そういう話が好きなの？　困った人ね。=
+そんなＨな話してたら、恥ずかしくなっちゃうわ。=Falando sobre tópicos obscenos, você está me fazendo passar vergonha aqui.
+そういう話が好きなの？　困った人ね。=Essa é sua ideia de uma boa conversa? Seu tarado.
 //享楽{0}=Excitada {0}
-//Ｈな話をしていたら、身体が熱くなっちゃうわ。=
-//あなたと、もっとＨなお話がしたいわ。=
+Ｈな話をしていたら、身体が熱くなっちゃうわ。=Esses temas picantes estão me deixando molhada.
+あなたと、もっとＨなお話がしたいわ。=Adoro quando você fala de sacanagem. Fale mais!
 //嫌悪{0}=Ódio {0}
-//あんまり、Ｈな話に興味はないんだけど。=
-//そういう話、聞いても仕方がないのよね。=
+あんまり、Ｈな話に興味はないんだけど。=Isso é nojento. Realmente não estou interessado em falar sobre isso.
+そういう話、聞いても仕方がないのよね。=Onde quer chegar com esse assunto?
 //隷属{0}=Submissa {0}
-//あなたが望むなら、どんなＨな話だって聞くわよ。=
-//いいわよ……そういうＨな話、どんどん聞きたいわ。=
+あなたが望むなら、どんなＨな話だって聞くわよ。=Quanto mais obsceno for, melhor. É isso que você quer, certo?
+いいわよ……そういうＨな話、どんどん聞きたいわ。=Sim, fale mais sobre esses assuntos picantes para mim.

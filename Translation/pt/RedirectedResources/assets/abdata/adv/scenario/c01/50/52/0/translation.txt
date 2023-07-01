@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//こんな所で……何を考えてるの？=
-//言っておくけど、おかしな事、しないでちょうだい。=
-//変なことしたら、許さないから。=
-//ちょっと待って……ここ、電車の中なのよ？=
-//ダメよ、変なことしないで……=
-//いい加減にしないと、怒るわよ。=
-//こら、電車内なんだから、大人しくして。=
-//いたずらしたら、許さないわよ。=
-//ダメだって言ってるでしょ……もう。=
+こんな所で……何を考えてるの？=Aqui? Você está louco?
+言っておくけど、おかしな事、しないでちょうだい。=Vou pedir que você apenas... PARE.
+変なことしたら、許さないから。=Toque em mim e você estará morto, está me ouvindo?
+ちょっと待って……ここ、電車の中なのよ？=Olá? Você não está vendo todas essas outras pessoas no vagão?
+ダメよ、変なことしないで……=Você poderia... PARAR com isso.
+いい加減にしないと、怒るわよ。=Pare com isso antes que eu faça algo de que nós dois vamos nos arrepender.
+こら、電車内なんだから、大人しくして。=Não pode ficar com isso dentro da calça só por um segundo? Estamos em um espaço público.
+いたずらしたら、許さないわよ。=Não, não me toque ou eu juro que...
+ダメだって言ってるでしょ……もう。=Você... *affe* Tudo bem.

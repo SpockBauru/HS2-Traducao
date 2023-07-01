@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後A普通{0}=
-//それじゃ、私たちはこれで。=
-//じゃあ、また会いましょう。=
+それじゃ、私たちはこれで。=Vou deixá-lo ir agora, tchau.
+じゃあ、また会いましょう。=Vejo você mais tarde.
 //会話事後A好意{0}=
-//今度また、ゆっくり話しましょう。=
-//それじゃあ、またお話しましょう。=
+今度また、ゆっくり話しましょう。=Gostaria muito de conversar novamente.
+それじゃあ、またお話しましょう。=Vamos nos falar novamente em breve.
 //会話事後A享楽{0}=
-//それじゃ、またおしゃべりを楽しみましょう。=
-//この次も、また盛り上がりましょうね。=
+それじゃ、またおしゃべりを楽しみましょう。=Gostaria muito de falar com você novamente. Tchau.
+この次も、また盛り上がりましょうね。=Espero que nossa próxima conversa seja tão empolgante quanto.
 //会話事後A嫌悪{0}=
-//楽しかったわ、それじゃあ、また。=
-//私たちは、これで……また会いましょう。=
+楽しかったわ、それじゃあ、また。=Foi divertido. Tchau.
+私たちは、これで……また会いましょう。=É melhor irmos embora. Tchau.
 //会話事後A隷属{0}=
-//あなたとお話しできて嬉しかったわ。=
-//あなたとのおしゃべり、素敵な時間だったわ。=
+あなたとお話しできて嬉しかったわ。=Foi muito bom conversar com você.
+あなたとのおしゃべり、素敵な時間だったわ。=Apreciei cada segundo de nossa conversa.

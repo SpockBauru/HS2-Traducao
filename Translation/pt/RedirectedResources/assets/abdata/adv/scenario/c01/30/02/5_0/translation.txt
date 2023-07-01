@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようA普通{0}=
-//エッチするの？　私は別にいいけど。=
-//いいわよ、あなたのお誘いですもの。=
+エッチするの？　私は別にいいけど。=Você quer fazer sexo? Não me importo.
+いいわよ、あなたのお誘いですもの。=Com você, claro.
 //HしようA好意{0}=
-//エッチに誘ってくれるなんて嬉しいわ。=
-//勿論いいわよ。=
+エッチに誘ってくれるなんて嬉しいわ。=Estou muito feliz por você me convidandar para fazer sexo.
+勿論いいわよ。=Claro, com certeza.
 //HしようA享楽{0}=
-//私もあなたとエッチしたいと思ってたのよ。=
-//きっとそう言うと思ってわ……たくさんエッチしましょう。=
+私もあなたとエッチしたいと思ってたのよ。=Eu estava pensando que também queria fazer sexo com você.
+きっとそう言うと思ってわ……たくさんエッチしましょう。=Achei que você nunca perguntaria... Vamos transar até não poder mais.
 //HしようA嫌悪{0}=
-//そう来ると思ったわ、別にいいけど。=
-//他にすることないのかしら。=
+そう来ると思ったわ、別にいいけど。=Eu já esperava por isso. Que nojo. Muito bem.
+他にすることないのかしら。=Você não tem nada melhor para fazer?
 //HしようA隷属{0}=
-//あなたが望むなら、私はいつでもエッチＯＫよ。=
-//せっかくなんだからエッチしないと勿体ないわよね。=
+あなたが望むなら、私はいつでもエッチＯＫよ。=Estou sempre pronta para o sexo, se você quiser.
+せっかくなんだからエッチしないと勿体ないわよね。=Será um desperdício de uma boa ereção se não fizermos sexo agora, certo?

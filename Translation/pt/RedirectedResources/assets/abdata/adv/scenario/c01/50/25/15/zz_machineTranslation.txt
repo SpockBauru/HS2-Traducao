@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ここが、教会なのね……素敵な場所だわ。=Então esta é a igreja... É um lugar lindo.
-私と教会に来たっていう事は……そういう事なの？=Então, se você veio à igreja comigo... É disso que se trata?
-教会に連れて来るなんて、どれだけ私の事が好きなの？=O quanto você me ama por trazê-lo à igreja?
-あなたと教会は、なんだかミスマッチだわ。=Você e a igreja estão um pouco desajustados.
-ここって教会でしょ？　いいわよ……私はいつでもOKだから。=Isto é uma igreja, certo? Tudo bem... Está sempre bem para mim.

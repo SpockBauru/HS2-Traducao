@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-おしゃべりより、一緒に気持ち良くなりたいわ。=Eu prefiro me sentir bem com você do que conversar com você.
-お話もいいけど、もっと素敵な喘ぎ声を聞かせてあげたいわ。=Eu adoraria falar com você, mas gostaria de ouvi-lo gemer ainda mais maravilhosamente.

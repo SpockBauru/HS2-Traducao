@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 ・・・・・=...
-//あら、どうしたの？　まさか、起きるまで待っててくれたの？=
-//あら、おはよう。もしかして、ずっとここにいたの？=
-//ひょっとして私を待っててくれたの？　嬉しいわ、ありがとう。=
-//どうしてこんな所にいるの？=
-//どうしたの、こんな所で？　呼んでくれたらすぐに起きたのに。=
+あら、どうしたの？　まさか、起きるまで待っててくれたの？=Oh, olá... Espero que eu não estivesse roncando.
+あら、おはよう。もしかして、ずっとここにいたの？=Oh, bom dia. Você estava me vendo dormir?
+ひょっとして私を待っててくれたの？　嬉しいわ、ありがとう。=Se eu era a Bela Adormecida, então você deve ser o Príncipe.
+どうしてこんな所にいるの？=Você é assustador. Quero que você saiba disso.
+どうしたの、こんな所で？　呼んでくれたらすぐに起きたのに。=O que está acontecendo aqui? Eu teria acordado assim que você me chamasse.

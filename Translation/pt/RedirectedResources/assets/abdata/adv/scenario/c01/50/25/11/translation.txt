@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//何かしら？　色々面白そうな物がそろってる部屋ね。=
-//何よココ？　あなたって、そういう趣味があるの？=
-//こんな所であなたと一緒に遊べるなんて、大歓迎だわ。=
-//何なのこの部屋……正直、悪趣味だわ。=
-//ふぅん、すごいわね、この部屋……あなたとならたっぷり楽しめそうだわ。=
+何かしら？　色々面白そうな物がそろってる部屋ね。=O que é isso? É um quarto com todos os tipos de coisas interessantes.
+何よココ？　あなたって、そういう趣味があるの？=Que lugar é esse? Essas coisas pertencem a você?
+こんな所であなたと一緒に遊べるなんて、大歓迎だわ。=Bem, agora eu sei por que eles a chamam de sala de jogos.
+何なのこの部屋……正直、悪趣味だわ。=Este quarto... É a própria definição de mau gosto.
+ふぅん、すごいわね、この部屋……あなたとならたっぷり楽しめそうだわ。=Hmm, uau, esse quarto... Vou me divertir muito com você.

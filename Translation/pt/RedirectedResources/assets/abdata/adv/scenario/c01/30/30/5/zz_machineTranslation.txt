@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-こんな所に入ってくるなんて？！　何考えてるの。=Eu não acredito que você acabou de entrar aqui! O que você estava pensando?
-ど、どうしたの？！　こんな所に入ってくるなんて、恥ずかしいわ。=O que há de errado com você? Tenho tanta vergonha de vir aqui assim.
-ちょっと、いくら何でもいきなりこんな所に入ってくるなんて。=Ei, não acredito que você entrou aqui assim.
-何考えてるのよ？！　こんな所にまで入り込もうだなんて……=Em que diabos você estava pensando? Você não pode simplesmente entrar aqui e...
-どうしたの？　私がトイレしてる所見たいのかしら？=O que está acontecendo? Você quer me ver ir ao banheiro?

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようB普通{0}=
-//そういう事なら、私もＯＫよ。=
-//私もエッチしたいと思ってたわ。=
+そういう事なら、私もＯＫよ。=Se é isso que você quer, não me importo.
+私もエッチしたいと思ってたわ。=Eu também queria fazer sexo com você.
 //HしようB好意{0}=
-//だったら、私もエッチしたいわ。=
-//勿論、私の方もＯＫよ。=
+だったら、私もエッチしたいわ。=Então eu gostaria de transar com você.
+勿論、私の方もＯＫよ。=Claro que não me importo com isso.
 //HしようB享楽{0}=
-//気持ち良くなれるなら、私だってしたいわ。=
-//いいわね、エッチ、私も賛成よ。=
+気持ち良くなれるなら、私だってしたいわ。=Uma chance de se sentir bem? Eu também quero!
+いいわね、エッチ、私も賛成よ。=Estou gostando do que estou ouvindo. Eu apoio a idéia de fazer sexo!
 //HしようB嫌悪{0}=
-//そっちが構わないなら、私は別にいいわよ。=
-//私の方も特に問題はないけど。=
+そっちが構わないなら、私は別にいいわよ。=Se você não se importa, eu não me importo.
+私の方も特に問題はないけど。=Não tenho nenhum problema com isso.
 //HしようB隷属{0}=
-//あなたが望むなら、私に異論はないわ。=
-//私もあなたの望み通り、エッチがしたいわ。=
+あなたが望むなら、私に異論はないわ。=Se é isso que você quer, não tenho objeção.
+私もあなたの望み通り、エッチがしたいわ。=Quero fazer sexo com você, do jeito que você quiser.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//そうなの？　ならいいけど。=
-//そう、ちょっと残念ね。=
+そうなの？　ならいいけど。=É mesmo? Então está bem.
+そう、ちょっと残念ね。=Ah, é uma pena.
 //好意{0}=Amor{0}
-//本当に偶然会っただけなのね。=
-//あら、なんでもないの？　でも、声をかけてくれただけでも嬉しいわ。=
+本当に偶然会っただけなのね。=Então você me encontrou só por acaso.
+あら、なんでもないの？　でも、声をかけてくれただけでも嬉しいわ。=Ah? Tudo bem, então. Fico feliz só de cumprimentar.
 //享楽{0}=Excitada {0}
-//本当に何でもないの？　何か用があるなら遠慮なく言ってね。=
-//なんでもないなんて、何かあるように思っちゃうわ。=
+本当に何でもないの？　何か用があるなら遠慮なく言ってね。=Tem certeza de que não é nada? Se você precisar de alguma coisa é só pedir.
+なんでもないなんて、何かあるように思っちゃうわ。=Não é nada? Mas eu queria que fosse alguma coisa.
 //嫌悪{0}=Ódio {0}
-//なんでもないなら、別にいいわよ。=
-//そう、なら問題ないわね。=
+なんでもないなら、別にいいわよ。=Se não for nada, não me importo.
+そう、なら問題ないわね。=Certo, então não há problema.
 //隷属{0}=Submissa {0}
-//あなたがなんでもないなら、それでいいんだけど……=
-//本当に何でもないの？　用があればいつでも声をかけてくれていいのよ。=
+あなたがなんでもないなら、それでいいんだけど……=Se não é nada para você, tudo bem, mas...
+本当に何でもないの？　用があればいつでも声をかけてくれていいのよ。=Tem certeza de que não é nada? Estarei aqui se você precisar de alguma coisa.

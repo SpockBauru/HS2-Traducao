@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//まったく、あなたには困った物ね。=
-//あんな事するなら、二度と一緒に電車なんか乗らないから。=
-//電車で無理やりなんて……何考えてるのよ。=
-//おかげで……すごく恥ずかしかったんだから。=
-//電車内であんな事するなんて、考えられないわ。=
-//今度あんな事したら、本気で怒るわよ。=
+まったく、あなたには困った物ね。=Você é muito chato, sabia?
+あんな事するなら、二度と一緒に電車なんか乗らないから。=Não posso nem fazer uma viagem de trem sem que você aja como um cão no cio.
+電車で無理やりなんて……何考えてるのよ。=Onde diabos você estava com a cabeça? Fazer isso em um trem, entre todos os lugares.
+おかげで……すごく恥ずかしかったんだから。=Quase consegui bloquear isso de minha memória... Quase.
+電車内であんな事するなんて、考えられないわ。=Não posso acreditar... Espere, mas este é você. Eu posso acreditar...
+今度あんな事したら、本気で怒るわよ。=Faça essa besteira novamente e, da próxima vez, você irá a pé.

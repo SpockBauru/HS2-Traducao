@@ -3,16 +3,16 @@
 //
 //前フリA普通{0}=
 あら、こんにちは。=Oh, oi.
-//ちょうどいい所にいたわね。=
+ちょうどいい所にいたわね。=O momento é perfeito.
 //前フリA好意{0}=
-//こんな所で会えるなんてラッキーだわ。=
-//あなたに会えるなんて嬉しいわ。=
+こんな所で会えるなんてラッキーだわ。=Tenho tanta sorte em vê-lo aqui.
+あなたに会えるなんて嬉しいわ。=Fico feliz em ver um rosto amigo aqui.
 //前フリA享楽{0}=
-//あなただったのね、会えて嬉しいわ。=
-//あなたにこんな所で会えるなんて。=
+あなただったのね、会えて嬉しいわ。=Fico feliz em ver um rosto amigo aqui.
+あなたにこんな所で会えるなんて。=Nunca pensei que o veria aqui.
 //前フリA嫌悪{0}=
-//なんだ、あなたも来たのね。=
-//あら、あなただったのね？=
+なんだ、あなたも来たのね。=Que droga, você também está aqui.
+あら、あなただったのね？=Ah, é você, não é?
 //前フリA隷属{0}=
-//嬉しいわ、あなたがここに来るなんて。=
-//あら、あなただったのね、嬉しいわ。=
+嬉しいわ、あなたがここに来るなんて。=Estou tão feliz por você estar aqui.
+あら、あなただったのね、嬉しいわ。=Ohhh, é você. Estou feliz por você estar aqui.

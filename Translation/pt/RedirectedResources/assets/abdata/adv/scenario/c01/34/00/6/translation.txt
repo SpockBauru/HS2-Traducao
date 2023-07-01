@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//あなたが喜ぶなら、私は良いと思うわ。=
-//この話題なら、私も楽しめると思うわ。=
+あなたが喜ぶなら、私は良いと思うわ。=Se isso lhe agrada, acho que estou bem.
+この話題なら、私も楽しめると思うわ。=Sim, eu poderia falar sobre isso.
 //好意{0}=Amor{0}
-//こんなお話もできるなんて、やっぱりあなたの事、好きだわ。=
-//あなたとなら、いつまでもおしゃべりしていられるわ。=
+こんなお話もできるなんて、やっぱりあなたの事、好きだわ。=Você é a única pessoa com quem posso falar sobre esse tipo de coisa. Nossa, como eu amo você.
+あなたとなら、いつまでもおしゃべりしていられるわ。=Eu poderia conversar com você o dia todo.
 //享楽{0}=Excitada {0}
-//この話題でおしゃべりしてたら、気持ち良くなってきたわ。=
-//なんだか、あなたの声を聴いているだけで、身体が感じてるみたい。=
+この話題でおしゃべりしてたら、気持ち良くなってきたわ。=Sinto-me melhor agora que estamos conversando sobre isso.
+なんだか、あなたの声を聴いているだけで、身体が感じてるみたい。=Sua voz, por si só, faz meu corpo arrepiar.
 //嫌悪{0}=Ódio {0}
-//その話題を受け入れるのは難しいわね。=
-//その話、私にはよくわからないわ。=
+その話題を受け入れるのは難しいわね。=Acho que não estou gostando desse assunto.
+その話、私にはよくわからないわ。=Eu realmente não entendo isso.
 //隷属{0}=Submissa {0}
-//いいわね、この話題……すごく納得できるわ。=
-//相手のすべてを受け入れるっていうのは、すごく気持ちがいいのよ。=
+いいわね、この話題……すごく納得できるわ。=Gosto desse tópico... faz muito sentido.
+相手のすべてを受け入れるっていうのは、すごく気持ちがいいのよ。=Aceitar totalmente uma pessoa é a melhor sensação do mundo.

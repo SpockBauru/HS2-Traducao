@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あなたなの？　ちょっと待って……縄が、絡まってるのよ。=
-//ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=
-//あのね……色々試してたら絡まっちゃってすごく困ってるのよ。=
-//トイレ行きたいわ……我慢できなくなりそう。=
-//縄がこんなに絡まっちゃうなんて……見てないで何とかして。=
-//べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=
-//なんとか外そうとしたんだけど、余計に絡まって……ちょっと、助けて欲しいの。=
-//なんだか、トイレに行きたくてしょうがないわ。=
+あなたなの？　ちょっと待って……縄が、絡まってるのよ。=É você? Pode me ajudar? Estou um pouco... Enrolada aqui.
+ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Isso vai parecer bobagem, mas preciso ir ao banheiro. Estou me segurando há algum tempo.
+あのね……色々試してたら絡まっちゃってすごく困ってるのよ。=Então, eu estava experimentando uma coisa nova chamada "Shibe"... Ou seria "Shibari"? Você pode ver o resultado.
+トイレ行きたいわ……我慢できなくなりそう。=Tenho que ir ao banheiro... Não tenho certeza se posso segurar muito.
+縄がこんなに絡まっちゃうなんて……見てないで何とかして。=Ugh, essas instruções não são claras! Pare de ficar aí parado como um idiota e faça alguma coisa!
+べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=Não se preocupe comigo. Vou me conter até que apareça outra pessoa.
+なんとか外そうとしたんだけど、余計に絡まって……ちょっと、助けて欲しいの。=Puxa, eles estão cada vez mais apertados. Desculpe-me, mas você pode me ajudar?
+なんだか、トイレに行きたくてしょうがないわ。=Ughh... acho que minha bexiga está prestes a explodir.
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

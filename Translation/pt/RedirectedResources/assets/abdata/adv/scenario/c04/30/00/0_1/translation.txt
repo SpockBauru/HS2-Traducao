@@ -13,7 +13,7 @@
 もしかして、アタシを探してたん？=Procurando por mim? Legal!
 んふ～、ただニヤけてるだけだから、気にしないで。=Meu Deus, será que meu rosto não poderia sorrir tanto toda vez que te vejo?!
 //汎用好意用件{0}=
-何か用事？　アタシで良ければ話聞くよ～。=O que está acontecendo? Você está com vontade de conversar?
+何か用事？　アタシで良ければ話聞くよ～。=E aí? Você está com vontade de conversar?
 とりま、どっかでダベる？=Quer comer alguma coisa depois disto?
 //汎用享楽{0}=
 やっほ♪　元気に発情してるー？=Como você está? Com tesão, como sempre?

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//悪くないと思うわ、その話。=
-//いいわね、私この話、大好きよ。=
+悪くないと思うわ、その話。=Eu não acho que seja uma má idéia.
+いいわね、私この話、大好きよ。=SIM, eu adoro essa conversa.
 //好意{0}=Amor{0}
-//あなたと、この話ができるなんて、すごく嬉しいわ。=
-//こんなに楽しくおしゃべりができるなんて、相手があなただからかしら？=
+あなたと、この話ができるなんて、すごく嬉しいわ。=Estou feliz por termos tido essa conversa.
+こんなに楽しくおしゃべりができるなんて、相手があなただからかしら？=Por que estou me divertindo tanto apenas conversando? Talvez porque é com você?
 //享楽{0}=Excitada {0}
-//いいわね、おしゃべりしてるだけで、なんだか身体が火照ってくるわ。=
-//おしゃべりも楽しいけど、私、気持ちいい事も大好きよ。=
+いいわね、おしゃべりしてるだけで、なんだか身体が火照ってくるわ。=Sinto-me quente e excitada só de falar com você.
+おしゃべりも楽しいけど、私、気持ちいい事も大好きよ。=É divertido falar, mas eu também gosto de um pouco mais... Ação, entende?
 //嫌悪{0}=Ódio {0}
-//あなたの話も、退屈しのぎにはなりそうね。=
-//この話、正直あんまりよくわからないのよね。=
+あなたの話も、退屈しのぎにはなりそうね。=Acho que esse papo é uma maneira de passar o tempo.
+この話、正直あんまりよくわからないのよね。=Sinceramente, não sei muito sobre este assunto.
 //隷属{0}=Submissa {0}
-//あなたとこんな事お話できるなんて、私本当に幸せだわ。=
-//楽しいわね……あなたのお話、もっと聞きたいわ。=
+あなたとこんな事お話できるなんて、私本当に幸せだわ。=Você não tem ideia de como essa conversa com você me faz sentir feliz.
+楽しいわね……あなたのお話、もっと聞きたいわ。=Estou me divertindo muito. Fale mais!

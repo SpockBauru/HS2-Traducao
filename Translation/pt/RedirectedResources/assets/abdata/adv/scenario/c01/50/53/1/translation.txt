@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //隷属{0}=Submissa {0}
-//あんなに気持ち良くなれるなんて……触手ってすごいのね。=
-//私も飼おうかしら、この子。=
-//触手って、あんなに感じちゃうのね……すごかったわ。=
-//こんなに面白いだなんて……クセになっちゃいそうだわ。=
-//あなたと会えない時は、この子としようかしら……=
-//なんて冗談よ……うふふ。=
+あんなに気持ち良くなれるなんて……触手ってすごいのね。=Isso foi... Extraordinário. Os tentáculos são grandes amantes, aparentemente.
+私も飼おうかしら、この子。=Gostaria de saber quanto custam essas coisas em uma loja de animais.
+触手って、あんなに感じちゃうのね……すごかったわ。=Eu não esperava que os tentáculos fossem tão incríveis.
+こんなに面白いだなんて……クセになっちゃいそうだわ。=Não sei por que as pessoas fazem piadas sobre isso... Isso realmente foi muito bom.
+あなたと会えない時は、この子としようかしら……=Bem, agora eu sei o que vou fazer quando você estiver fora...
+なんて冗談よ……うふふ。=É claro que estou brincando... Hehe.

@@ -11,7 +11,7 @@
 誰を覗きに来たのかな～？　アタシ？　ねぇアタシでしょ？=Quem você está aqui para dar uma espiada? Sou eu? Sou totalmente eu, certo?!
 お風呂入りに来たの？　清潔なのはポイント高いね～♪=Hora de tomar banho? Muito bom! Eu gosto quando um cara tem aquele cheiro fresco e ensaboado ♪
 //風呂好意用件{0}=
-何か用事？　アタシで良ければ話聞くよ～。=O que está acontecendo? Você está com vontade de conversar?
+何か用事？　アタシで良ければ話聞くよ～。=E aí? Você está com vontade de conversar?
 とりま、どっかでダベる？=Quer comer alguma coisa depois disto?
 //風呂享楽{0}=
 うんうん、アンタの目的はだいたい分かってるから。お風呂といえばってやつだよねぇ……んふふ♪=Ha, ok, eu vejo totalmente onde isto vai dar... "hora do banho", huh? Claro, claro... Uma história provável ♪

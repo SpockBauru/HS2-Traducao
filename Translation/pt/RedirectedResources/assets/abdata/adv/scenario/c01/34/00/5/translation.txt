@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//いいわね、この話題……すごく盛り上がるわ。=
-//なかなか興味のある話だわ……楽しくなりそうね。=
+いいわね、この話題……すごく盛り上がるわ。=Eu adoro este tópico... É tão interessante.
+なかなか興味のある話だわ……楽しくなりそうね。=Essa é uma história muito interessante... Vai ser divertida.
 //好意{0}=Amor{0}
-//いいわね、あなたの話題……本当に楽しいわ。=
-//やっぱりその話よね……私も大好きなの。=
+いいわね、あなたの話題……本当に楽しいわ。=Gosto deste assunto. Estou me divertindo muito.
+やっぱりその話よね……私も大好きなの。=Conheço essa história... E eu também adoro.
 //享楽{0}=Excitada {0}
-//あなたとおしゃべりしてたら飽きないわ。最高に楽しい気分よ。=
-//あなたと話しているだけで、身体が熱くなってくるのよ。=
+あなたとおしゃべりしてたら飽きないわ。最高に楽しい気分よ。=Nunca me canso de conversar com você. Fico com o humor mais agradável.
+あなたと話しているだけで、身体が熱くなってくるのよ。=Só de falar com você já fico excitada.
 //嫌悪{0}=Ódio {0}
-//この話って、今聞かなきゃダメかしら。=
-//この話題、特に興味ないのよね。=
+この話って、今聞かなきゃダメかしら。=Tenho que ouvir esta história agora?
+この話題、特に興味ないのよね。=Eu não estou particularmente interessada neste assunto.
 //隷属{0}=Submissa {0}
-//おしゃべりでも、あなたを楽しませてあげたいわ。=
-//この話題が好きなら、いつでもおしゃべりに付き合うわ。=
+おしゃべりでも、あなたを楽しませてあげたいわ。=Mesmo que seja apenas para conversar, quero ter certeza de que você está se divertindo.
+この話題が好きなら、いつでもおしゃべりに付き合うわ。=Se você gosta desse tipo de coisa, sempre estarei disposta a conversar sobre isso.

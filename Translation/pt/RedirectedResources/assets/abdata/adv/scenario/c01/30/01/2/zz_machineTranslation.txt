@@ -1,6 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//会話{0}=Conversação {0}
-わかってるわ……私があなたを求めるように、あなたも私を求めてるって事。=Eu sei... Que você me quer tanto quanto eu o quero.
-あなたが求めてるのに、私が拒否するわけないでしょ？=Como posso recusá-lo quando é você quem o está pedindo?

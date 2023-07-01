@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //隷属{0}=Submissa {0}
-//なんだか、かなり動き回ってるけど、大丈夫なの？=
-//一応安全なのよね？　ならいいけど。=
-//いいわよ……試しに遊んでみるから。=
-//すごい触手よね……どこから連れてきたのかしら？=
-//生きてるのよね、これ？　機械じゃないんでしょ？=
-//とにかく、この子で……楽しませてもらうから。=
-//この触手……かなり暴れてるんだけど……=
-//肉食だったりしないわよね？=
-//私は、楽しめればそれでいいんだけど。=
+なんだか、かなり動き回ってるけど、大丈夫なの？=Está se movimentando muito, está tudo bem?
+一応安全なのよね？　ならいいけど。=Essa coisa é segura? É bom que tenha algum tipo de certificação...
+いいわよ……試しに遊んでみるから。=Está bem... Vou tentar e brincar com isso.
+すごい触手よね……どこから連れてきたのかしら？=Isso é um tentáculo, sem dúvida. Onde será que eles o pegaram? Ou o invocaram, talvez...
+生きてるのよね、これ？　機械じゃないんでしょ？=Está vivo, não está? Não é uma máquina, não é?
+とにかく、この子で……楽しませてもらうから。=De qualquer forma, vou me divertir com isso...
+この触手……かなり暴れてるんだけど……=Esses tentáculos... Eles parecem ameaçadores, mas...
+肉食だったりしないわよね？=Isso não seria um carnívoro ou algo do gênero, seria?
+私は、楽しめればそれでいいんだけど。=Mas, pensando bem, não me importo, desde que eu possa me divertir.

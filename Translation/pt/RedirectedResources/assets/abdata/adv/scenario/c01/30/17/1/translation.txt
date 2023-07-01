@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あなただったのね……ちょっと助けて欲しいの。穴にはまっちゃって……=
-//ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=
-//ちょっと困ってるのよ……穴から抜けれなくなっちゃって。=
-//トイレ行きたいわ……我慢できなくなりそう。=
-//こんな状況なんだから、見て見ぬふりなんてしないわよね。=
-//べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=
-//あなたに、こんな所見られちゃうなんて、なんだか恥ずかしいわ。=
-//なんだか、トイレに行きたくてしょうがないわ。=
+あなただったのね……ちょっと助けて欲しいの。穴にはまっちゃって……=Ei, você pode me dar uma mãozinha aqui? Como você pode ver, estou... Em uma situação difícil.
+ちょっと、お手洗いに行きたいわ……ずっと、我慢してるのよね。=Isso vai parecer bobagem, mas preciso ir ao banheiro. Estou me segurando há algum tempo.
+ちょっと困ってるのよ……穴から抜けれなくなっちゃって。=Você pode me ajudar aqui? Estou presa.
+トイレ行きたいわ……我慢できなくなりそう。=Tenho que ir ao banheiro... Não tenho certeza se posso segurar muito.
+こんな状況なんだから、見て見ぬふりなんてしないわよね。=Não se pode fechar os olhos para uma situação como essa.
+べ、別に話しかけてこなくてもいいのよ。ずっと、我慢してるんだから。=Não se preocupe comigo. Vou me conter até que apareça outra pessoa.
+あなたに、こんな所見られちゃうなんて、なんだか恥ずかしいわ。=Droga, eu gostaria que você não me visse assim...
+なんだか、トイレに行きたくてしょうがないわ。=Ughh... acho que minha bexiga está prestes a explodir.
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

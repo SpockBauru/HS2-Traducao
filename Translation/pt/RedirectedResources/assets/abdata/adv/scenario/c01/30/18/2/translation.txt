@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//助けてくれるのね、ありがとう。=
-//もうギリギリだったから助かったわ、ありがとう。=
-//あなたが来てくれて助かったわ。=
-//ありがとう、嬉しいわ。=
-//我慢している間、少しだけ興奮したわ。=
-//あなたって優しいのね。=
-//助けてくれるの？=
-//我慢できなくなる所だったわ。悪いけど、それじゃあね。=
-//一応感謝しておくわ。=
-//ありがとう、助けてくれるなんて……=
-//あなたが我慢しろって言うなら、もっと我慢しても良かったのよ。=
-//本当に嬉しいわ。=
+助けてくれるのね、ありがとう。=Você me salvou, obrigada.
+もうギリギリだったから助かったわ、ありがとう。=Um pouco mais e eu teria feito uma poça. Obrigada.
+あなたが来てくれて助かったわ。=Ainda bem que você apareceu.
+ありがとう、嬉しいわ。=Obrigada, é muito gentil de sua parte.
+我慢している間、少しだけ興奮したわ。=Na verdade, acho que o fato de segurar me excitou...
+あなたって優しいのね。=Você é muito gentil.
+助けてくれるの？=Você pode me ajudar?
+我慢できなくなる所だったわ。悪いけど、それじゃあね。=Quase passei do meu limite. Desculpe, tchau.
+一応感謝しておくわ。=Obrigada, eu acho.
+ありがとう、助けてくれるなんて……=Oh, que alívio...
+あなたが我慢しろって言うなら、もっと我慢しても良かったのよ。=Sabe, se você tivesse me perguntado, eu teria aguentado até você me mandar...
+本当に嬉しいわ。=Você me ajudou? Obrigada!

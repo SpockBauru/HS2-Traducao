@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//あら、こんな素敵な場所あったのね。=
-//あなたってこんな所も知ってるのね……素敵だわ。=
-//いいわね、なかなかいい雰囲気だわ、うふふ。=
-//あら、こんな所があったの？　知らなかったわ。=
-//こんな場所に連れてきてくれるなんて、あなたって素敵ね。=
+あら、こんな素敵な場所あったのね。=Oh, eu não sabia que havia um lugar tão bonito.
+あなたってこんな所も知ってるのね……素敵だわ。=Você realmente sabe como tratar uma garota... Isso é fantástico.
+いいわね、なかなかいい雰囲気だわ、うふふ。=Eu gostei, é uma atmosfera muito agradável, hehe.
+あら、こんな所があったの？　知らなかったわ。=Oh, eu não sabia que existia um lugar assim.
+こんな場所に連れてきてくれるなんて、あなたって素敵ね。=É muito gentil da sua parte me trazer para um lugar como este.

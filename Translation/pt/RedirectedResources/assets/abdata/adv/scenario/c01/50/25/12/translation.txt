@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//こんな所にまで電車が繋がってるなんて、すごいわ。=
-//この電車、どこに向かっているのかしら？=
+こんな所にまで電車が繋がってるなんて、すごいわ。=Eu não sabia que havia uma parada de trem tão próxima. Isso é que é conveniente!
+この電車、どこに向かっているのかしら？=Essa viagem parece durar para sempre. Para onde será que estamos indo?
 一緒に電車に乗るなんて、なんだか楽しみね。=É meio excitante estarmos juntos em um trem.
-//電車ね……私は別に興味ないんだけど……=
-//電車の中で、私に何かするつもりなんじゃないの？=
+電車ね……私は別に興味ないんだけど……=Trens... eles realmente não me interessam...
+電車の中で、私に何かするつもりなんじゃないの？=Espero que essa viagem de trem não lhe dê ideias estranhas.
