@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//やっほぉ♪　見てたよぉ、お前さっきの女としこたまパコってたでしょお？　んふふ、私ともヤらなぁい？=
-//さっきの女とヤりまくって汚れてるでしょ？　私が綺麗にしてやるからさ、ちょっと面貸しなよぉ♪=
+やっほぉ♪　見てたよぉ、お前さっきの女としこたまパコってたでしょお？　んふふ、私ともヤらなぁい？=Olá ♪ Eu vi, você fez muito sexo com aquela garota, não foi? Você quer me foder também?
+さっきの女とヤりまくって汚れてるでしょ？　私が綺麗にしてやるからさ、ちょっと面貸しなよぉ♪=Você está um pouco sujo por foder com aquela garota, não está? Venha eu vou te limpar. Vamos, me dê seu rosto ♪
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

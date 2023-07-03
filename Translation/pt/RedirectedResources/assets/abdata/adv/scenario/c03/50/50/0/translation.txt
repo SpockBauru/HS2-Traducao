@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//お前が、こんなおしゃれな場所に連れてきてくれるなんてな。=
-//ちょっとだけ、見直したかな……まぁちょっとだけ。=
-//で、ここで何するわけ？　なんでも付き合ったげるよ♪=
-//こんないい場所知ってるなんて、流石じゃん。=
-//なんか、セレブって感じがする……=
-//ここだったら……何されてもいいかなぁ。=
-//ナイトプールなんて、洒落たところに連れてきたね。=
-//悪くないよ、ここ……どっちかって言うと好きかも。=
-//うんいいね……ここでなら素敵な時間が過ごせそうじゃん。=
+お前が、こんなおしゃれな場所に連れてきてくれるなんてな。=Não acredito que está me trazendo para um lugar tão chique.
+ちょっとだけ、見直したかな……まぁちょっとだけ。=Talvez eu o tenha subestimado? Só um pouco, pelo menos!
+で、ここで何するわけ？　なんでも付き合ったげるよ♪=Afinal, o que fazemos aqui exatamente? Estou disposto a fazer praticamente qualquer coisa ♪
+こんないい場所知ってるなんて、流石じゃん。=Ha, você sempre conhece os melhores lugares.
+なんか、セレブって感じがする……=Estar aqui faz você se sentir como os ricos e famosos, não é?
+ここだったら……何されてもいいかなぁ。=Vou te dar um presente por me trazer aqui: eu.
+ナイトプールなんて、洒落たところに連れてきたね。=Uma piscina noturna? Huh, uma escolha muito elegante!
+悪くないよ、ここ……どっちかって言うと好きかも。=Nada mal, nada mal mesmo... Na verdade, esse tipo de lugar é bem a minha praia!
+うんいいね……ここでなら素敵な時間が過ごせそうじゃん。=Sinto que você e eu vamos ter lembranças incríveis juntos aqui...

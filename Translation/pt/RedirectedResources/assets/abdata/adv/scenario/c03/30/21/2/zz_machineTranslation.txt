@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-//はい、逃がさなぁい♪　いいねいいねぇ、そそるじゃぁん♪　このまま押し倒しちゃおっかなぁ♪=Sim, eu não quero fugir ♪ Eu gosto, é tentador ♪ Acho que vou empurrá-lo para lá ♪
-ムラムラしてる私から逃げられると思ったぁ？　安心しなよ、ちゃあんと気持ちよくしてあげるから♪=Você acha que poderia se afastar de mim quando estou com tesão? Não se preocupe, vou fazer você se sentir bem...
-//逃げ出した=Você escapou

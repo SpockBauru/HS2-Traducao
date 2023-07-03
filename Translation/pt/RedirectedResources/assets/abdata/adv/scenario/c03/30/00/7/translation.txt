@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//へぇ、そういう趣味があったんだ……=
-//うそ、そんなことまでしちゃうの？=
+へぇ、そういう趣味があったんだ……=Não sabia que você gostava disso...
+うそ、そんなことまでしちゃうの？=Espere, é mesmo? Quer dizer que o cara usa seu... Com ela o quê?!
 //好意{0}=Amor{0}
-//えっと……もうちょっと詳しく聞かせて？=
-//うーん……ちょっと変態っぽくない？=
+えっと……もうちょっと詳しく聞かせて？=Hmm... Você pode ser um pouco mais específico?
+うーん……ちょっと変態っぽくない？=Hmm... Um pouco pervertido, você não acha?
 //享楽{0}=Excitada {0}
-//それ分かる。ほら、私も性欲バカだし……=
-//なるほどね、お前はそっち系が好きなわけだ？=
+それ分かる。ほら、私も性欲バカだし……=Eu sei o que você quer dizer. Veja, eu também fico excitada, então...
+なるほどね、お前はそっち系が好きなわけだ？=Estou vendo. Então você gosta desse tipo de coisa, não é?
 //嫌悪{0}=Ódio {0}
-//お前さぁ……下ネタしか話せないの？=
-//これさぁ……セクハラってやつじゃないの？=
+お前さぁ……下ネタしか話せないの？=Você poderia falar sobre qualquer outra coisa?
+これさぁ……セクハラってやつじゃないの？=Tenho certeza de que isso conta como assédio sexual...
 //隷属{0}=Submissa {0}
-//いっつも下ネタばっかり……でも、嬉しいな……=
-//えっぐ……そこまでは私も流石に……=
+いっつも下ネタばっかり……でも、嬉しいな……=Hehe, você é um garoto tão safado, tão sacana...
+えっぐ……そこまでは私も流石に……=Não tenho certeza se eu iria tão longe...

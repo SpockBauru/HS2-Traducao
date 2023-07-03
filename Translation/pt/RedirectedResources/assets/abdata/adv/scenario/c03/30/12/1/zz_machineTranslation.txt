@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//………………=・・・・・・
-//…………=...
-//……ん……？=... O que é isso?
-ぁ、ようやくおきら？　私のフェア、気持ひよくらいのかろおもっれ……心配したおぉ……=Oh, finalmente você está de pé? Minha feira, é bom demais para ser verdade...
-おあよ……目覚まひフェアなんれ、贅沢れしょ？　ほぁ、ぼーっろしれると、すぐイかせりゃうお？=Oyo... Acorde feira, que luxo, huh? Quando você está acordando, mal pode esperar para colocá-lo.

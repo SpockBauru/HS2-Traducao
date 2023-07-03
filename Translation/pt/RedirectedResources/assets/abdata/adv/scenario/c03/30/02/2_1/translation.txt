@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//ねぇ、お前の意見も聞かせてよ。=
-//お前はどう思う？　正直に言ってくれていいよ？=
-//お前の意見も聞きたいなぁ♪=
-//で？　お前はどう思うのー？=
-//うーん、お前の意見も聞いてみたいかな～。=
+ねぇ、お前の意見も聞かせてよ。=Ei, diga-me o que você acha.
+お前はどう思う？　正直に言ってくれていいよ？=O que você acha? Vá em frente, seja honesto!
+お前の意見も聞きたいなぁ♪=Na verdade, estou curiosa para saber sua opinião ♪
+で？　お前はどう思うのー？=Então? O que você acha?
+うーん、お前の意見も聞いてみたいかな～。=Hmmm, acho que eu também gostaria de ouvir sua opinião!

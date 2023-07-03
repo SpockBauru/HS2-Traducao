@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ここが、教会……なんか、荘厳な雰囲気だね。=Esta é uma igreja... Tem uma atmosfera majestosa.
-教会なんかに連れてきて……どういう事？　何かあるの？=Você me trouxe a uma igreja... O que isso significa? O que está acontecendo?
-教会ねぇ……なんか背徳的な雰囲気もあって嫌いじゃないんだよね♪=Eu não me importo com a igreja... Ela tem uma espécie de atmosfera imoral.
-教会ね……私、特に信心深いわけじゃないんだけど。=Igreja... Não sou uma pessoa particularmente religiosa.
-教会に連れてきたって事は……そういう意味って事なの？=Se você o trouxe para a igreja, isso quer dizer... Era isso que você queria dizer?

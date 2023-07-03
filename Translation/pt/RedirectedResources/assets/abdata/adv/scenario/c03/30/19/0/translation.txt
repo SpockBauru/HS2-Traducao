@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//おーい……ちょっとー、誰かー？=
-//ねぇー……誰かいるなら、こっち来てー！=
+おーい……ちょっとー、誰かー？=Aloooo... Alguém? QUALQUER UM?
+ねぇー……誰かいるなら、こっち来てー！=Se puder me ouvir, venha me dar uma mãozinha!
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

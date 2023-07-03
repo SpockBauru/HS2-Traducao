@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//すごい……何かが動いてるけど？！=
-//何それ……うねうねしてない？=
-//なんか、すごいのいるね？　それなんなの？=
-//何それ？　気持ち悪いんだけど……=
-//うそ？　それって本物の触手なの？=
+すごい……何かが動いてるけど？！=Oh, uau... Espere, eles estão se movendo?
+何それ……うねうねしてない？=O que exatamente são essas coisas? E por que elas... Se contorcem?
+なんか、すごいのいるね？　それなんなの？=Ok, bem, isso com certeza é novo! O que são essas coisas, afinal?
+何それ？　気持ち悪いんだけど……=O que é isso? Eca.
+うそ？　それって本物の触手なの？=Não pode ser! Esses tentáculos são de verdade?!

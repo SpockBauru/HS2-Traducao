@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリA普通{0}=
-//あ、面白いヤツが来たよ～……いや訂正、ありゃただのエロいヤツだわ。=
-//あ、なんか仲間に入れて欲しそうな目してる～。=
+あ、面白いヤツが来たよ～……いや訂正、ありゃただのエロいヤツだわ。=Oh, há um cara interessante aqui... Não, correção, isso é só um cara tarado.
+あ、なんか仲間に入れて欲しそうな目してる～。=Parece que alguém quer participar...
 //前フリA好意{0}=
-//あ……やっほ、元気してる？=
-//ほら、そんなとこいないで、こっちに混ざりなって。=
+あ……やっほ、元気してる？=Oh, olá. Como estão as coisas?
+ほら、そんなとこいないで、こっちに混ざりなって。=Não seja tímido - venha conversar conosco!
 //前フリA享楽{0}=
-//あ、来たぞー、女子の匂いに敏感なやつが。=
-//ねぇ、お前さ♪　あわよくば二人とも、とか……絶対考えてるでしょ？=
+あ、来たぞー、女子の匂いに敏感なやつが。=Ha, bem na hora! Eu juro, é quase como se você pudesse sentir as mulheres de longe ou algo assim...
+ねぇ、お前さ♪　あわよくば二人とも、とか……絶対考えてるでしょ？=Hehe, deixe-me adivinhar: você está tentando descobrir uma estratégia para fazer aquilo com nós duas, certo?
 //前フリA嫌悪{0}=
-//うわ来た……女子で集まってるとすぐだよね……=
-//あー、解散する？　変なの来たし……=
+うわ来た……女子で集まってるとすぐだよね……=*affe* No momento em que duas garotas se juntam, você surge como um mau cheiro.
+あー、解散する？　変なの来たし……=Quer acabar com as coisas? Esse canalha está aqui agora, então...
 //前フリA隷属{0}=
-//あ、今この子と話してたんだ。用事があるなら抜けられるけど……=
-//えへへ、もしかして私たちとエッチしたいのかな？=
+あ、今この子と話してたんだ。用事があるなら抜けられるけど……=O quê? Estou conversando com uma garota agora, mas se precisar de mim, posso me despedir.
+えへへ、もしかして私たちとエッチしたいのかな？=Hehe, você quer fazer sexo com nós duas juntas, certo?

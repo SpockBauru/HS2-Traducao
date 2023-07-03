@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//うわ、これはまた……ストレートに来たねぇ。まぁ、悪い気はしないけどさ。=
-//あは、単刀直入だね。うん、いいよ……=
+うわ、これはまた……ストレートに来たねぇ。まぁ、悪い気はしないけどさ。=Uau, você não está com rodeios! Bem, eu não me sinto mal com isso.
+あは、単刀直入だね。うん、いいよ……=Ah, direto ao ponto, hein? Claro, estou disposta a isso.
 //好意{0}=Amor{0}
-//あ……ふふ、なんか照れちゃうね。いいよ、私でよければ……=
-//ちょっ、声が大きいって。誘ってくれたのは、すっごく嬉しいけどね……♪=
+あ……ふふ、なんか照れちゃうね。いいよ、私でよければ……=Oh... Hehe... Isso é meio vergonhoso. Mas tudo bem, vamos fazer isso.
+ちょっ、声が大きいって。誘ってくれたのは、すっごく嬉しいけどね……♪=Shh, outras pessoas vão ouvi-lo! Mesmo assim, estou muito feliz por você ter me convidado ♪
 //享楽{0}=Excitada {0}
-//欲望には素直が一番ってね♪　もちろんOK♪=
-//んふふ、お前が誘ってくれなかったら私から誘ってたとこ♪　んじゃ、シよっか♪=
+欲望には素直が一番ってね♪　もちろんOK♪=Gosto quando você fala abertamente sobre o que quer. Ah, por falar nisso, a resposta é sim ♪
+んふふ、お前が誘ってくれなかったら私から誘ってたとこ♪　んじゃ、シよっか♪=Hehe, boa hora. Na verdade, eu estava prestes a perguntar se você queria fazer isso ♪
 //嫌悪{0}=Ódio {0}
-//気持ちわる……そういう事しか考えてないの？　まぁ、そういう場所だから……仕方ないとは思うけど。=
-//はぁ、私が誘われるのは、こんなのばっか。=
+気持ちわる……そういう事しか考えてないの？　まぁ、そういう場所だから……仕方ないとは思うけど。=Eca, nojento! Você só pensa em sexo? Quero dizer, acho que é por isso que estamos aqui, mas mesmo assim...
+はぁ、私が誘われるのは、こんなのばっか。=*affe* Por que os únicos caras que se aproximam de mim são todos do tipo... Você?
 //隷属{0}=Submissa {0}
-//え、いいの？　あ、や、私から言い出したことだけど普通にスルーされると思ってたから……えへへ♪=
-//うん……お前のヤりたいこと、全部シよ……♪=
+え、いいの？　あ、や、私から言い出したことだけど普通にスルーされると思ってたから……えへへ♪=Espere, sério?! Na verdade, eu ia perguntar se você estava interessado, mas achei que você ia rir de mim...
+うん……お前のヤりたいこと、全部シよ……♪=Claro. Vamos fazer absolutamente tudo juntos, certo? ♪

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリB普通{0}=
-//あれ、お前たち、仲良かったの？=
-//３人で話そっか。=
+あれ、お前たち、仲良かったの？=Oh, vocês se conhecem?
+３人で話そっか。=Vamos conversar.
 //前フリB好意{0}=
-//どもども、私もいるよー♪　お忘れなくー。=
-//もしかしてふたりとも、仲いい感じ？=
+どもども、私もいるよー♪　お忘れなくー。=Ei, eu também estou aqui ♪ Não se esqueça disso!
+もしかしてふたりとも、仲いい感じ？=Ah, espera aí, vocês dois já estão meio que gostando um do outro?
 //前フリB享楽{0}=
-//３Ｐ、じゃなくて、３人で話そっか♪=
-//おー、賑やかになってきた。いいねいいね♪=
+３Ｐ、じゃなくて、３人で話そっか♪=Porque não fazemos um ménage... Uma conversa a três ♪
+おー、賑やかになってきた。いいねいいね♪=Ah, isso vai ser tão divertido ♪
 //前フリB嫌悪{0}=
-//えー、お前はお呼びじゃないんだけどなぁ……=
-//なに？　このまま私達に混ざる気？　図々しい。=
+えー、お前はお呼びじゃないんだけどなぁ……=Hum, estou tentando falar com ELA agora, não com você...
+なに？　このまま私達に混ざる気？　図々しい。=O quê? Você vai se juntar a nós? Você é tão descarado.
 //前フリB隷属{0}=
-//やっほー、私のこともちゃんと構ってくれたら嬉しいな……=
-//あ、３Ｐしにきたの……？=
+やっほー、私のこともちゃんと構ってくれたら嬉しいな……=Olá! Espero que você não comece a me ignorar ou algo assim...
+あ、３Ｐしにきたの……？=Ooh, aqui para um ménage à trois?

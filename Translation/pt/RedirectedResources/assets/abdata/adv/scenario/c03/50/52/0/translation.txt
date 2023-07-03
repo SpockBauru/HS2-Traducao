@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//電車とか……こんな所で何するつもり？=
-//言っておくけど……変なまね、しないでよね=
-//ちょっと、言った傍から何してんのっ……=
-//ちょっと待って、お前……ここ、電車の中だって……=
-//分かってんの？　変なことしちゃダメなの……=
-//バカ……なんで大人しくできないわけ……=
-//電車の中では、変なことしたらダメなんだよ。=
-//ダメだって言ってるだろ、このバカっ。=
-//いい加減にしろって、人に見られちゃうだろっ。=
+電車とか……こんな所で何するつもり？=Um... Trem? Qual é o plano aqui, exatamente?
+言っておくけど……変なまね、しないでよね=Vou deixar uma coisa bem clara: nada de gracinhas, ok?
+ちょっと、言った傍から何してんのっ……=Ei! Tenho certeza de que isso conta como uma gracinha...
+ちょっと待って、お前……ここ、電車の中だって……=Você sabe que estamos em um trem, certo?
+分かってんの？　変なことしちゃダメなの……=O que significa que você DEFINITIVAMENTE não deve fazer nada... Indecente...
+バカ……なんで大人しくできないわけ……=Idiota! Admita: você só pensa com o seu pinto, não é?!
+電車の中では、変なことしたらダメなんだよ。=Você sabe que os trens não são o lugar certo para começar a fazer brincadeiras, certo?
+ダメだって言ってるだろ、このバカっ。=Espere, como assim, você não sabe nada disso?
+いい加減にしろって、人に見られちゃうだろっ。=Pare com isso, imbecil, antes que alguém nos note!

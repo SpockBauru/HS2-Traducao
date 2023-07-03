@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話事後A普通{0}=
-//それじゃ、そろそろ解散しよっか。楽しかったね♪=
-//うん、皆で話すと面白いね。またそのうち集まろ？=
+それじゃ、そろそろ解散しよっか。楽しかったね♪=Bem, acho que está na hora de encerrarmos isso! Mas foi muito divertido, não foi?
+うん、皆で話すと面白いね。またそのうち集まろ？=É muito divertido quando todos nós conversamos juntos dessa forma! Vamos fazer isso de novo algum dia, ok?
 //会話事後A好意{0}=
-//さて、それじゃあこの辺で。あんまり話し込むと、それぞれの時間がなくなっちゃうしね。=
-//よっし、ではかいさーん！　あ、話を続けたい人は、そのまま残ってもいいよ？=
+さて、それじゃあこの辺で。あんまり話し込むと、それぞれの時間がなくなっちゃうしね。=Provavelmente deveríamos parar por aqui, certo? Caso contrário, não teremos tempo um para o outro.
+よっし、ではかいさーん！　あ、話を続けたい人は、そのまま残ってもいいよ？=Muito bem, então! Oh, se você quiser continuar falando, você pode ficar aqui, ok?
 //会話事後A享楽{0}=
-//ほいほい、こんなもんかな？　じゃ、皆まったね～♪=
-//とりあえずまとまった感じかな？　まぁ続きは、またそのうちってことで。=
+ほいほい、こんなもんかな？　じゃ、皆まったね～♪=Ok, acho que é tudo por hoje! Tchau, pessoal ♪
+とりあえずまとまった感じかな？　まぁ続きは、またそのうちってことで。=Sinto que este é o momento certo para terminar por hoje, certo? Mas vamos fazer isso novamente em breve!
 //会話事後A嫌悪{0}=
-//じゃあ、これで終わりでいい？　結構な時間使っちゃたし、私はもう行くね？=
-//はい、それじゃ終わり。まだ何かあるなら、私抜きでお願いね。=
+じゃあ、これで終わりでいい？　結構な時間使っちゃたし、私はもう行くね？=Bem, podemos simplesmente acabar com isto? Passamos muito tempo juntos. Estou indo, está bem?
+はい、それじゃ終わり。まだ何かあるなら、私抜きでお願いね。=Pronto, já chega. Se houver mais alguma coisa, por favor, faça-o sem mim.
 //会話事後A隷属{0}=
-//それじゃ、二人ともありがとね。話ができて楽しかった。=
-//じゃあ解散しますか。二人とも、風邪引かないようにね。=
+それじゃ、二人ともありがとね。話ができて楽しかった。=Graças a vocês dois, eu me diverti muito!
+じゃあ解散しますか。二人とも、風邪引かないようにね。=Acho que é melhor nos despedirmos. Cuidem-se, vocês dois!

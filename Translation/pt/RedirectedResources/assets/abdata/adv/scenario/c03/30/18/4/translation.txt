@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//へ……うそ？　待って待って！　お前はそんなやつじゃないでしょ！=
-//えぇ、あえて！？　あえてかぁ、深いなぁ、まあ、これはこれで楽しい……かな？=
-//うん、予想通り……お前はそういうやつだよ。別に、期待してなかったし……じゃあね。=
-//ちょっ、まさかの放置プレイ！？　ハニートラップ失敗ぃ……=
+へ……うそ？　待って待って！　お前はそんなやつじゃないでしょ！=Espere, o quê?! Espere um segundo, senhor! Isso não é do seu feitio!
+えぇ、あえて！？　あえてかぁ、深いなぁ、まあ、これはこれで楽しい……かな？=Sério?! Ah, entendi - você está me deixando aqui de propósito para suar, certo? Acho que isso pode ser um pouco excitante.
+うん、予想通り……お前はそういうやつだよ。別に、期待してなかったし……じゃあね。=Pah, típico. Não que eu esperasse algo mais de você.
+ちょっ、まさかの放置プレイ！？　ハニートラップ失敗ぃ……=E-Espere, você vai me deixar aqui? Droga, minha armadilha falhou...

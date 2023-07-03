@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//うぅ、恥ずかしい姿を見せちゃったなぁ……ちょっと腰が抜けちゃってね。動けないの。=
-//えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=
-//いやー、何で動けないのかって感じだよね？　もし助けてくれたら、たっぷりお礼してあげるよ♪=
-//あー、匂いとかで、もう分かっちゃってたりする？　いや、何の話か分からないなら、いいんだけど……=
-//あーうそ……やっと誰か来てくれたと思ったのに……まさかのお前？　もうダメだ……私、運なさすぎ……=
-//その……助けないなら、さっさとどっか行って？　そこにいられると迷惑だから……=
-//あのぅ、腰に力が入らなくて……勘違いされると思うけど、変なことしてないよ？　確かめてみる？=
-//え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=
+うぅ、恥ずかしい姿を見せちゃったなぁ……ちょっと腰が抜けちゃってね。動けないの。=Isso é muito constrangedor, mas... Eu distendi um músculo das costas ou algo assim, e não consigo me mexer.
+えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=Então, sobre essa história de me ajudar ou simplesmente me deixar aqui... Poderia se apressar e já tomar uma decisão?
+いやー、何で動けないのかって感じだよね？　もし助けてくれたら、たっぷりお礼してあげるよ♪=Não tenho ideia do que há de errado comigo, mas realmente não consigo me mexer agora... Ajude-me e eu vou, uh, compensá-lo ♪
+あー、匂いとかで、もう分かっちゃってたりする？　いや、何の話か分からないなら、いいんだけど……=Eu estou... Meio que em uma situação delicada aqui, tipo, em uma espécie de chamada da natureza? Se é que você me entende...
+あーうそ……やっと誰か来てくれたと思ったのに……まさかのお前？　もうダメだ……私、運なさすぎ……=Quando eu pensava que o dia de hoje não poderia ser pior, olha quem aparece? Por falar em má sorte...
+その……助けないなら、さっさとどっか行って？　そこにいられると迷惑だから……=E se estiver planejando me deixar aqui, então vá embora. Eu... Vou precisar de um tempo sozinha muito em breve...
+あのぅ、腰に力が入らなくて……勘違いされると思うけど、変なことしてないよ？　確かめてみる？=Então, não consigo mover a parte inferior do meu corpo... Juro que isso não é uma questão de sexo - verifique minhas partes se quiser!
+え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=Mas talvez se você me deixar aqui as coisas fiquem interessantes? Hehe...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

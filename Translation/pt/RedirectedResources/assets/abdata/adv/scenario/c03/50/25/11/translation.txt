@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//なんか、色々あるね～、この部屋。=
-//ここは……普通の部屋じゃないね……何をするの？=
-//ここで遊ぶの？　なんか面白そうなんだけど♪=
-//何なのこの部屋？　趣味悪いんだけど。=
-//いいじゃん、この部屋！　なかなか面白そうだね♪=
+なんか、色々あるね～、この部屋。=Uau, olhe para tudo isso!
+ここは……普通の部屋じゃないね……何をするの？=Algo nesta sala parece um pouco diferente... O que fazemos aqui, exatamente?
+ここで遊ぶの？　なんか面白そうなんだけど♪=Então, vamos curtir aqui juntos por um tempo? Parece divertido ♪
+何なのこの部屋？　趣味悪いんだけど。=Olhe para toda essa porcaria - por que você tem que ser tão ESTRANHO o tempo todo?
+いいじゃん、この部屋！　なかなか面白そうだね♪=Ohh, esse quarto tem tudo o que uma garota poderia desejar ♪

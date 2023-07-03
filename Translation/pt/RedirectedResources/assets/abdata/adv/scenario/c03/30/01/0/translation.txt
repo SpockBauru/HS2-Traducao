@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //汎用{0}=
-あぁ、この世で一番身体の相性がいいヤツ、見ぃつけたぁ♪=Ah, encontrei o cara mais compatível do mundo ♪
-//ヤバ……お前見た瞬間、身体が……じゃなくて、子宮がドクンって言った……喉乾いたってさぁ♪=
-//あれ、私をドスケベの沼に叩き落してくれたヤツじゃぁん♪　くすくすっ♪=
+あぁ、この世で一番身体の相性がいいヤツ、見ぃつけたぁ♪=Ah, aí está você - o cara cujo corpo me excita mais do que qualquer outra coisa ♪
+ヤバ……お前見た瞬間、身体が……じゃなくて、子宮がドクンって言った……喉乾いたってさぁ♪=Puxa vida... Toda vez que eu vejo você, juro que é como se meu ventre começasse a pulsar ou algo assim... Talvez ela esteja com sede? ♪
+あれ、私をドスケベの沼に叩き落してくれたヤツじゃぁん♪　くすくすっ♪=Olá, senhor ♪ Você está aqui para me sujar? Hehe ♪
 //風呂{0}=
-//ここで私に会うって、それイコールセックスだけど大丈夫？　まぁもう遅いし、逃がさないけどねぇ♪=
-//ちょうど性欲が爆発しそうでさぁ♪　パートナーが来てくれないかなぁって思ってたんだよねぇ♪=
+ここで私に会うって、それイコールセックスだけど大丈夫？　まぁもう遅いし、逃がさないけどねぇ♪=Você sabe o que significa encontrar-me em um lugar como este, certo? Sexo! Claro que você deve estar disposto a isso!
+ちょうど性欲が爆発しそうでさぁ♪　パートナーが来てくれないかなぁって思ってたんだよねぇ♪=Ufa, ainda bem que você está aqui - estou com tanto tesão que estou prestes a explodir. Eu realmente esperava que você aparecesse ♪
 //用件{0}=
-一応聞いておいてあげるけど、求められているのは私の身体？　そして、要件は私とのエッチ？=Deixe-me perguntar-lhe uma coisa. É do meu corpo que você está atrás? Você quer transar comigo?
-//じゃあ、エッチしよっかぁ♪　もうガチガチじゃん、口では嘘つけても身体じゃつけないんだからぁ♪=
+一応聞いておいてあげるけど、求められているのは私の身体？　そして、要件は私とのエッチ？=Deixe-me perguntar-lhe uma coisa. Você quer meu corpo, certo? Tipo, para fazer sexo?
+じゃあ、エッチしよっかぁ♪　もうガチガチじゃん、口では嘘つけても身体じゃつけないんだからぁ♪=Então vamos transar ♪ E não tente fingir que não quer - eu vejo esse olhar na sua face ♪
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

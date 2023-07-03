@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-何この電車、どこにつながってるわけ？=O que este trem está fazendo? Para onde ele vai?
-ここまで電車が走ってたんだ……知らなかった。=Não sabia que o trem corria tão longe...
-電車に乗って、どこかに行くわけ？=Então você está entrando em um trem e indo a algum lugar?
-電車とか……特に興味ないけど。=Não estou particularmente interessado em trens ou...
-電車の中で、どうするつもりなわけ？=O que você vai fazer no trem?

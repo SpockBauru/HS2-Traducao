@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//何この電車、どこにつながってるわけ？=
-//ここまで電車が走ってたんだ……知らなかった。=
-//電車に乗って、どこかに行くわけ？=
-//電車とか……特に興味ないけど。=
-//電車の中で、どうするつもりなわけ？=
+何この電車、どこにつながってるわけ？=Espere, espere um pouco - para onde vai esse trem, exatamente?
+ここまで電車が走ってたんだ……知らなかった。=Eu não sabia que havia uma linha de trem por aqui...
+電車に乗って、どこかに行くわけ？=Então, deixe-me ver se entendi: entramos no trem e vamos... Para onde, exatamente?
+電車とか……特に興味ないけど。=Sim, toda essa coisa de sexo em um trem? Não me agrada muito.
+電車の中で、どうするつもりなわけ？=Sinto que você me trouxe aqui por um motivo, certo?

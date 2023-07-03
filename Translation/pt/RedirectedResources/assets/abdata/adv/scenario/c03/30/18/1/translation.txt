@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あー……縄がね……絡まっちゃって。別に変なことしてたわけじゃないんだ……=
-//えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=
-//あー、良かったぁ、丁度いいとこに来てくれたぁ……なんかこの縄、全然ほどけないんだよね。=
-//あー、匂いとかで、もう分かっちゃってたりする？　いや、何の話か分からないなら、いいんだけど……=
-//うわ、最悪なやつに見つかっちゃった……変な悪戯とかしないでよ？　ほんと勘弁だからね？=
-//その……助けないなら、さっさとどっか行って？　そこにいられると迷惑だから……=
-//あれ……私、今勘違いされてる？　へ、変なことはしてないよ？　お前がするのは、いいけど……？=
-//え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=
+あー……縄がね……絡まっちゃって。別に変なことしてたわけじゃないんだ……=Então, juro que não estava fazendo nada de estranho, mas essas cordas estúpidas ficaram totalmente enroladas...
+えっと、助けるにしても、放置するにしても……なるべく早く決めてもらって、いいかな？=Então, sobre essa história de me ajudar ou simplesmente me deixar aqui... Poderia se apressar e já tomar uma decisão?
+あー、良かったぁ、丁度いいとこに来てくれたぁ……なんかこの縄、全然ほどけないんだよね。=Ufa, ainda bem que você está aqui - eu estava começando a entrar em pânico. Não importa o quanto eu torça, essas cordas não soltam!
+あー、匂いとかで、もう分かっちゃってたりする？　いや、何の話か分からないなら、いいんだけど……=Eu estou... Meio que em uma situação delicada aqui, tipo, em uma espécie de chamada da natureza? Se é que você me entende...
+うわ、最悪なやつに見つかっちゃった……変な悪戯とかしないでよ？　ほんと勘弁だからね？=Por que tinha que ser você, dentre todas as pessoas? Não se atreva a brincar comigo agora, está bem? Por favor?
+その……助けないなら、さっさとどっか行って？　そこにいられると迷惑だから……=E se estiver planejando me deixar aqui, então vá embora. Eu... Vou precisar de um tempo sozinha muito em breve...
+あれ……私、今勘違いされてる？　へ、変なことはしてないよ？　お前がするのは、いいけど……？=O quê? Não olhe para mim desse jeito! Eu não sou uma pervertida! Você é um pervertido! Ou, pelo menos, espero que você seja...
+え、えっと……放置したら、ちょっと面白いもの、見られるかも……？　あはは……=Mas talvez se você me deixar aqui as coisas fiquem interessantes? Hehe...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

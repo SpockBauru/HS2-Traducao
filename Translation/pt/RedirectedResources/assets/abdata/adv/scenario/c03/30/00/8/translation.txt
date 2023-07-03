@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//うん、結構色々話せたんじゃない。楽しかったよ♪=
-//よっし、お話終了！　有意義な時間でしたっ♪=
+うん、結構色々話せたんじゃない。楽しかったよ♪=Nós nos divertimos muito. Gostei de conversar com você ♪
+よっし、お話終了！　有意義な時間でしたっ♪=Isso foi ótimo, mas acho que está na hora de encerrarmos o assunto ♪
 //好意{0}=Amor{0}
-//もっと話してたかったけど、際限なくなっちゃいそうだしね。=
-//いっぱい話せて嬉しかった。またお話しようね♪=
+もっと話してたかったけど、際限なくなっちゃいそうだしね。=Quero conversar mais com você, mas tenho medo de não conseguirmos parar.
+いっぱい話せて嬉しかった。またお話しようね♪=Foi ótimo! Vamos nos falar novamente algum dia, ok? ♪
 //享楽{0}=Excitada {0}
-//ふぅ、しゃべったしゃべった。喉乾いちゃった。=
-//ふふ、喋るだけでも、結構時間使っちゃったね～。=
+ふぅ、しゃべったしゃべった。喉乾いちゃった。=Ufa, conversamos muito... Estou com muita sede agora!
+ふふ、喋るだけでも、結構時間使っちゃったね～。=Hehe, quem diria que você poderia passar tanto tempo apenas conversando?
 //嫌悪{0}=Ódio {0}
-//喋るの疲れちゃった。もう終わりでいいでしょ？=
-//はぁ……退屈な話ばっかり、よくあんなにできるね？=
+喋るの疲れちゃった。もう終わりでいいでしょ？=Estou ficando cansada disso. Já terminamos?
+はぁ……退屈な話ばっかり、よくあんなにできるね？=*affe* Como você sempre consegue deixar tudo tão chato?
 //隷属{0}=Submissa {0}
-//じっくり話すのもいいね。普通に楽しかった。=
-//色々話して、お前のこと、ちょっと分かった気がする。=
+じっくり話すのもいいね。普通に楽しかった。=Gostei muito disso. É bom conversarmos juntos, não é?
+色々話して、お前のこと、ちょっと分かった気がする。=Sinto que o conheço um pouco melhor agora que conversamos.

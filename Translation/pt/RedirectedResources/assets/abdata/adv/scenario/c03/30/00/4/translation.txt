@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//まぁ、私はいい友達で終わりやすいからなぁ……=
-//え、もしかして……恋の話ですか？=
+まぁ、私はいい友達で終わりやすいからなぁ……=I... Tenho a tendência de levar o toco...
+え、もしかして……恋の話ですか？=Espere, então você quer falar sobre... Coisas românticas?
 //好意{0}=Amor{0}
-//ふふ、ずっと話してたいってことなら、私もよくあるよ。=
-//なんか……ちょっとドキドキしてきちゃった……。=
+ふふ、ずっと話してたいってことなら、私もよくあるよ。=Hehe, sabe, você não é o único que tem coisas sobre as quais quer falar...
+なんか……ちょっとドキドキしてきちゃった……。=Huh... Meu coração está acelerado de repente...
 //享楽{0}=Excitada {0}
-//セフレと恋人って、何が違うんだろうねぇ……=
-//好きだとやっぱ、気持ちよさも違うと思うよ？=
+セフレと恋人って、何が違うんだろうねぇ……=Afinal, o que significa exatamente "amizade colorida"?
+好きだとやっぱ、気持ちよさも違うと思うよ？=Tenho certeza de que é melhor se os dois gostarem um do outro, sabe?
 //嫌悪{0}=Ódio {0}
-//いーよ別に、ご機嫌取りとかしなくて……=
-//どうせお世辞でしょ？　中身スカスカ……=
+いーよ別に、ご機嫌取りとかしなくて……=Por favor. Não se sinta como se precisasse me animar ou algo assim.
+どうせお世辞でしょ？　中身スカスカ……=Mais conversa fiada? *affe* Você nunca muda...
 //隷属{0}=Submissa {0}
-うー、なんか背中がくすぐったくなる話だぁ……=Algo nesta história me causa arrepios nas costas...
-//いーなぁー、そういうの憧れちゃうなぁ……=
+うー、なんか背中がくすぐったくなる話だぁ……=Sabe, esse tipo de conversa me arrepia toda...
+いーなぁー、そういうの憧れちゃうなぁ……=Sabe, eu sempre quis experimentar algo assim...

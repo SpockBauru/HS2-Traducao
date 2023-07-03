@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//……へ？　あー、さてはからかったなぁ？　私としたことが、やられたぁ！=
-//はいはーい、ひやかしおことわりでーす。=
+……へ？　あー、さてはからかったなぁ？　私としたことが、やられたぁ！=O quê? Ooh, espere, você estava apenas brincando comigo? Ugh, como pude cair nessa...
+はいはーい、ひやかしおことわりでーす。=Pft! Não gosto de ser provocada, certo?
 //好意{0}=Amor{0}
-//はぁ……あんまりそういう事ばっかりしてると、誰からも相手されなくなっちゃうよ？=
-//思わせぶりな態度ってやつ？　はっきり言ってくれないと分からないよ？=
+はぁ……あんまりそういう事ばっかりしてると、誰からも相手されなくなっちゃうよ？=*suspiro*... Se você continuar fazendo esse tipo de coisa, as garotas não vão mais querer falar com você!
+思わせぶりな態度ってやつ？　はっきり言ってくれないと分からないよ？=Olhe, sou uma garota simples, portanto, pare com essa história de ser sexy e misterioso e seja sincero comigo!
 //享楽{0}=Excitada {0}
-//えー、気になるってばぁ♪　恥ずかしいこと？　アブノーマルなプレイでも受け入れるよぉ♪=
-//もしかして、人違い！？　ってー、こんなエロいのはさすがに見分けがつくかぁ♪=
+えー、気になるってばぁ♪　恥ずかしいこと？　アブノーマルなプレイでも受け入れるよぉ♪=Ugh, agora estou super curiosa! Há algo com que você seja tímido? Se for uma brincadeira esquisita, eu gostaria de participar ♪
+もしかして、人違い！？　ってー、こんなエロいのはさすがに見分けがつくかぁ♪=Espere, significa que você quer falar com outra pessoa? Não, não pode ser isso. Quero dizer, você só tem olhos para mim!
 //嫌悪{0}=Ódio {0}
-//あっそ、じゃね。=
-//なにそれ……=
+あっそ、じゃね。=Certo. Tchau.
+なにそれ……=Quê?
 //隷属{0}=Submissa {0}
-//え？　本当に何もなし？　ちょっと残念かな……=
-//あはは、焦らされちゃった……♪=
+え？　本当に何もなし？　ちょっと残念かな……=Ah, é sério? Que pena...
+あはは、焦らされちゃった……♪=Hehe, você está apenas brincando comigo ♪

@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//まったく、最悪だったんだけど。=
-//お前のせいで……とんでもない目に合っちゃった。=
-//こんな所で、よく無理やりやろうとしたよな……=
-//私には……まったく理解できないんだけど。=
-//電車内なんかで、無理やりしないで欲しいんだけど！=
-//次やったら、許さないから。=
+まったく、最悪だったんだけど。=Arght, foi uma porcaria total.
+お前のせいで……とんでもない目に合っちゃった。=Você realmente causou muitos problemas para mim hoje!
+こんな所で、よく無理やりやろうとしたよな……=Como você ousa tentar me forçar a fazer isso em um lugar como este...
+私には……まったく理解できないんだけど。=Eu simplesmente... Não entendo isso.
+電車内なんかで、無理やりしないで欲しいんだけど！=Muito bem, deixe-me esclarecer uma coisa: os trens estão fora dos limites para o sexo, entendeu?
+次やったら、許さないから。=Da próxima vez que você tentar algo assim, vou fazer você se arrepender!

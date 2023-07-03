@@ -25,7 +25,7 @@
 まあ、私を呼んだってことは否定するつもりはないのかな？　とりあえず、お手柔らかにね……=Bem, eu acho que você não vai negar já que me chamou, vai? De qualquer forma, tenha calma comigo...
 //壊れ{0}=Quebrada {0}
 ………………=...
-お前……あうぅ……♪=Você... Ahh ♪
+お前……あうぅ……♪=Oh... Olá, bonitão ♪
 //依存{0}=Dependência {0}
 あぁ、本当に女だぁ♪　私、女の身体を好き勝手できちゃうのぉ？=Ah, você realmente é uma mulher ♪ Posso fazer o que eu quiser com o corpo de uma mulher?
 あ、さすがに好き勝手は怖かったかな？　大丈夫大丈夫、ちゃんと気持ち良くするからぁ♪=Oh, como esperado, você estava com medo de fazer aquilo? Não se preocupe, eu a farei sentir-se bem.

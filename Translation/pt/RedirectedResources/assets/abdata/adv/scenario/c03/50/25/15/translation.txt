@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ここが、教会……なんか、荘厳な雰囲気だね。=
-//教会なんかに連れてきて……どういう事？　何かあるの？=
-//教会ねぇ……なんか背徳的な雰囲気もあって嫌いじゃないんだよね♪=
-//教会ね……私、特に信心深いわけじゃないんだけど。=
-//教会に連れてきたって事は……そういう意味って事なの？=
+ここが、教会……なんか、荘厳な雰囲気だね。=Esta é a igreja... É um tanto majestosa.
+教会なんかに連れてきて……どういう事？　何かあるの？=Espere, por que você me levou a uma igreja? Você... Tem algo em sua mente, ou?
+教会ねぇ……なんか背徳的な雰囲気もあって嫌いじゃないんだよね♪=Perfeito. Fazer isso em um lugar sagrado como esse vai ser muito sexy ♪
+教会ね……私、特に信心深いわけじゃないんだけど。=Uma igreja, hein? Olhe, só há uma coisa em que acredito: sua capacidade de me enojar o dia todo, todos os dias.
+教会に連れてきたって事は……そういう意味って事なの？=Uma igreja? Espere, isso significa que você quer...

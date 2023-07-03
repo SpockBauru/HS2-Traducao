@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-へ……うそ？　待って待って！　お前はそんなやつじゃないでしょ！=Sexo... Não? Espera espera! Você não é esse tipo de cara!
-えぇ、あえて！？　あえてかぁ、深いなぁ、まあ、これはこれで楽しい……かな？=Sim, uma ousadia! Uma ousadia... Que é profunda... Bem, isto é divertido... Não é?
-うん、予想通り……お前はそういうやつだよ。別に、期待してなかったし……じゃあね。=Sim, é de se esperar... Você é esse tipo de cara. Eu não estava esperando isso, então... Até mais.
-ちょっ、まさかの放置プレイ！？　ハニートラップ失敗ぃ……=Espere, eu não esperava que você me deixasse em paz! A armadilha do mel falhou...

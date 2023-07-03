@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あーちょっと……お手洗いに、行ってきてもいい？=
-//ごめん。雰囲気ぶち壊しなんだけどさ……おトイレ……行ってくるね……！=
-//おっと、ちょっとムズムズしてきちゃったかな。ふふ、おトイレって意味ね、エッチな事じゃないよ？=
-//あ……ちょっとその、急用ができたかも。別に待ってなくてもいいけど……私、行ってくるね。=
-//あ、あのね……お前が許可してくれるなら、おトイレ、行きたいんだけど、どうかな……？=
+あーちょっと……お手洗いに、行ってきてもいい？=Uh, posso... Ir ao banheiro, por favor?
+ごめん。雰囲気ぶち壊しなんだけどさ……おトイレ……行ってくるね……！=Desculpe, isso pode estragar um pouco o clima, mas preciso ir ao banheiro!
+おっと、ちょっとムズムズしてきちゃったかな。ふふ、おトイレって意味ね、エッチな事じゃないよ？=Ugh, eu realmente preciso cuidar disso... Hã? Não, não é sexo, bobão! Preciso do banheiro!
+あ……ちょっとその、急用ができたかも。別に待ってなくてもいいけど……私、行ってくるね。=Ah. I... Preciso cuidar de uma coisa. Não se sinta como se precisasse esperar ou algo assim, ok?
+あ、あのね……お前が許可してくれるなら、おトイレ、行きたいんだけど、どうかな……？=Então, senhor? Eu estava pensando se eu poderia ir ao banheiro? Por favor?!
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おーい、私だよー！　遊びに来てやったよーん！=
+おーい、私だよー！　遊びに来てやったよーん！=Olá, sou eu! Estou aqui para uma sessão de bate-papo!
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//なんだ、いないのか……ちぇ～、つまんないの。いや、あいつのことだから居留守って線も……=
+なんだ、いないのか……ちぇ～、つまんないの。いや、あいつのことだから居留守って線も……=Puxa, ele está fora? Que pena... Ou, espere, talvez ele só queira que eu PENSE que ele saiu... Isso seria bem típico dele!

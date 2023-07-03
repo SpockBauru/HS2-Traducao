@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //HしようA普通{0}=
-//ああ、言うと思った……よりにもよって３人のときに誘ってくるなんて……まあ、断らないけどね。=
-//……私はいいよ、お前に話しかけられた時点で覚悟はしてたし。=
+ああ、言うと思った……よりにもよって３人のときに誘ってくるなんて……まあ、断らないけどね。=Ah, eu sabia que você iria agir mais cedo ou mais tarde... E com duas garotas ao mesmo tempo, também! Mas claro, eu também quero.
+……私はいいよ、お前に話しかけられた時点で覚悟はしてたし。=Claro. Na verdade, estou pronta desde o momento em que você nos cumprimentou.
 //HしようA好意{0}=
-//はぁ、だよねぇ。お前はそういうヤツだよ……でもま、私も似たようなものだし……いいけどね。=
-//えっと……私はいいけど、どうかな？　コイツ、いきなりすぎるよねー？=
+はぁ、だよねぇ。お前はそういうヤツだよ……でもま、私も似たようなものだし……いいけどね。=Você é mesmo um completo tarado, não é? Mas acho que não sou muito melhor. Vamos fazer isso.
+えっと……私はいいけど、どうかな？　コイツ、いきなりすぎるよねー？=Quero dizer... Eu estou disposta a isso, mas será que todos nós estamos? É um pouco repentino, sabe!
 //HしようA享楽{0}=
-//ハイハイ！　私は大賛成♪　３Ｐ３Ｐ～♪=
-//そうこなくっちゃねぇ♪　もう濡れてるもん♪=
+ハイハイ！　私は大賛成♪　３Ｐ３Ｐ～♪=Ora, ora! Eu sou totalmente a favor. ♪ Ménage, Ménage ♪
+そうこなくっちゃねぇ♪　もう濡れてるもん♪=Com certeza ♪ Vou lhe contar um pequeno segredo: já estou molhada ♪
 //HしようA嫌悪{0}=
-//は？　流石に調子に乗り過ぎじゃない？　まぁ、もう一人がいいって言えば、私もいいけど。=
-//ふーん、自分から恥かきにきたんだ？　マゾなの？=
+は？　流石に調子に乗り過ぎじゃない？　まぁ、もう一人がいいって言えば、私もいいけど。=Uau. Simplesmente uau. Quero dizer, você já verificou se está tudo bem com ELA? Mesmo assim, se ela está dentro, acho que eu também estou.
+ふーん、自分から恥かきにきたんだ？　マゾなの？=Ah, acho que você realmente quer passar vergonha! Por mim, tudo bem...
 //HしようA隷属{0}=
-//３人か……なんか、凄い事になりそう♪=
-//いいと思う……３人でするのって、絶対気持ちいいよ……♪=
+３人か……なんか、凄い事になりそう♪=Um ménage à trois, hein? Uau, isso vai ficar super intenso ♪
+いいと思う……３人でするのって、絶対気持ちいいよ……♪=Ótima ideia ♪ Mais pessoas significam mais prazer, certo?

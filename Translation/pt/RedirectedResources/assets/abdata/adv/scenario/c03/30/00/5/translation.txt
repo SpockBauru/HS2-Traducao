@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//ちょっ、それは流石に過激じゃない？=
-//うわー、そこまで考えたことはなかった……=
+ちょっ、それは流石に過激じゃない？=E-Espere um segundo, isso não pode estar certo!
+うわー、そこまで考えたことはなかった……=Uau, eu não tinha pensado tão à frente...
 //好意{0}=Amor{0}
-//まぁ、一度意識しちゃうとね……=
-//夢中になれるものがあるっていいよね……=
+まぁ、一度意識しちゃうとね……=Sim, esse tipo de coisa realmente incomoda quando você percebe, não é?
+夢中になれるものがあるっていいよね……=É bom se perder totalmente em algo, certo?
 //享楽{0}=Excitada {0}
-//ほんとそれ。お前はよく分かってる。=
-//同志よ……ここにいたか……！=
+ほんとそれ。お前はよく分かってる。=Há, foi exatamente isso que pensei!
+同志よ……ここにいたか……！=Finalmente, alguém que entende!
 //嫌悪{0}=Ódio {0}
-//早口になると……更に気持ち悪くなるね。=
-//あーはいはい、分かった分かった……=
+早口になると……更に気持ち悪くなるね。=Você é tão nojento quando fica animado desse jeito...
+あーはいはい、分かった分かった……=Uh-huh. Sim. Sim, claro...
 //隷属{0}=Submissa {0}
-//まぁ、楽しんだもん勝ちってことかな？=
-//それはわりと……凄いことなんじゃ？=
+まぁ、楽しんだもん勝ちってことかな？=Quero dizer, o que importa é que você se divertiu, certo?
+それはわりと……凄いことなんじゃ？=Huh, isso é realmente impressionante...
