@@ -99,7 +99,7 @@
 はぁ……逆ハーレムってやつ？　ぁはは……すっご……=Huh... Harém invertido, huh? Hahaha... Uau...
 さぁ、来て……ちゃんとアタシを気持ちよくしてね？=Agora, vamos lá... Me faça sentir bem, certo?
 アンタの好きにしちゃっていーからさ……よろ♪=Você pode fazer o que quiser ♪
-どうやって気持ちよくしてくれんの？　んふ、楽しみ……♪=Como você vai me fazer sentir? Mmm, divertido ♪
+//どうやって気持ちよくしてくれんの？　んふ、楽しみ……♪=Como você vai me fazer sentir? Mmm, divertido ♪
 がっついても引いたりしないから、襲う勢いで来ていーよ♪=Eu não vou recuar se você atacar, então você pode vir até mim o ímpeto para atacar ♪
 どーしよっかなー。あんま痛くしないって約束するならいーよ。=O que será que eu deveria fazer? Não há problema se você prometer não fazer doer muito.
 このちょっと不安になる感じ、なんか癖になりそ……=Este sentimento de desconforto é um pouco viciante.
@@ -486,9 +486,9 @@
 いーんじゃない。二人でアタシを落としてみなよ♪=Está tudo bem. Por que vocês dois não me deixam cair?
 アタシ、キスでどこでも気持ちよくする自信あるからっ♪=Estou confiante de que posso fazer você se sentir bem em qualquer lugar com um beijo ♪
 は……ふぁ……アンハやばしゅぎ……しぇつりんてやつ……？=Ha... Hah... Anha yabasagi... Shetsurin, o cara?
-んぅ……こんらん……マジひんじゃぁいそ……ぁ、ふぅ……=Mmm... Koran... Você é realmente mau... Ah, phew...
+//んぅ……こんらん……マジひんじゃぁいそ……ぁ、ふぅ……=Mmm... Koran... Você é realmente mau... Ah, phew...
 へ……？　まらすんの？　アンハ……狂ってんひゃない？=Heh? Você está louco? Você é louco, não é?
-も―好きならけしてぇ……はぁ、どーせアーシ、動けらいし……=Se você gosta de mim, então deixe-me ir... Mas eu não posso me mover, então...
+//も―好きならけしてぇ……はぁ、どーせアーシ、動けらいし……=Se você gosta de mim, então deixe-me ir... Mas eu não posso me mover, então...
 へ……うそ……むり……ふたぃは……むぃぃ……（二人は無理）=Não posso aceitar dois.
 ぁー……おねがぃ……どっちか……ひとぃにしれぇ……（おねがい、どっちか一人にして）=Por favor, deixe-me em paz com um deles.
 ぅ……ぁ……むり……しぬ……マジ……ん、ヤバイっれぇ……=Oh... Não... Você vai morrer... A sério... Oh, não...

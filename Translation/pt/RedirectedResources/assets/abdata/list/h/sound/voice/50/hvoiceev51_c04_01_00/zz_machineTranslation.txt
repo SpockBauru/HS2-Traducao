@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-どう？　焦れてきた？　んふ、すぐシないのもテクだから♪=O que você acha? Você está ficando impaciente? Uma coisa é não vir logo ♪
-アハッ、期待した目しちゃって、マジきゃわたんかよ♪=Aha, você tem os olhos que eu esperava. Você é realmente bonito ♪
+//どう？　焦れてきた？　んふ、すぐシないのもテクだから♪=O que você acha? Você está ficando impaciente? Uma coisa é não vir logo ♪
+//アハッ、期待した目しちゃって、マジきゃわたんかよ♪=Aha, você tem os olhos que eu esperava. Você é realmente bonito ♪
 //んっ、どう？　気持ちよかったら、ちゃんと言ってよ？=Mmm. O que você acha? Apenas me diga se é bom, está bem?
 //うーん、こんなもん？　もっと強めの方が、やっぱいい？=Hmm. É assim? Seria melhor se fosse mais forte?
 //ねぇ、アタシの足おいし？　んふ、この硬くしてるのが気持ち良すぎて、答える余裕ないか？=Ei, você gosta dos meus pés? Mmm, esta tesão é tão boa que você não tem tempo para responder?
