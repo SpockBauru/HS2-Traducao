@@ -29,8 +29,8 @@
 くっさ……何食ったらこんなん出せるの？　マジ信じらんない。=Maldição... O que você come que o faz fazer isso? Eu não posso acreditar.
 ねぇ……流石のアタシも……これはマジおこなんですけど？=Ei... Até eu estou realmente chateado com isso, você não está?
 は？　なにかけてくれちゃってんの？　握りつぶされたい？=O quê? O que você está jogando? Você quer ser espremido?
-んふ～、放置プレイ中です♪　どう？　焦れてきた？=Mmm-hmm. Vou deixar isso em paz. ♪ Como vai isso? Você está ficando impaciente?
-なんか目が潤んできてない？　なに、泣いちゃうの？=Seus olhos não estão ficando todos úmidos? O quê, você vai chorar?
+//んふ～、放置プレイ中です♪　どう？　焦れてきた？=Mmm-hmm. Vou deixar isso em paz. ♪ Como vai isso? Você está ficando impaciente?
+//なんか目が潤んできてない？　なに、泣いちゃうの？=Seus olhos não estão ficando todos úmidos? O quê, você vai chorar?
 //んぁっ、そこ好きっ……んんっ、もっと強くしちゃっていーよ♪=Mmm, eu gosto de lá... Mmm, você pode tornar mais forte ♪
 //はぁっ、他人にされるだけで、なんでこんな気持ちいーんだろ。=Huh, por que se sente tão bem só de ser feito por outra pessoa?
 //あぁっ、焦らされるとさぁ……奥がめっちゃ疼くんだよねぇ……=Ahh, quando você me deixa nervoso... Faz minhas entranhas formigarem tanto...
