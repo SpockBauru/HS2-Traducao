@@ -171,9 +171,9 @@
 全部オマエ任せか……ヤるならしっかりやれよ。=Você deixa tudo comigo... Se você vai transar, faça certo.
 フッ、そのデカくしてるもんで、今ならやりたい放題だぞ……=Huh, você pode fazer o que quiser com essa coisa grande agora...
 待て、このタイミングでそれは無いだろうが。ヘタクソ。=Espere, isso não vai acontecer neste momento. Você é uma droga.
-なんだ？　我慢できなくなったのか？　仕方ないやつだ。=O que é isso? Você não aguenta mais? Não posso evitá-lo.
-さて、もう一回だ。まだまだオレはいけるぞ。=Muito bem, mais uma vez. Eu ainda não terminei.
-おい、やるぞ。まさかもう満足したなんて言わねぇよな？=Ei, vamos fazer isso. Você não vai me dizer que está satisfeito agora, vai?
+//なんだ？　我慢できなくなったのか？　仕方ないやつだ。=O que é isso? Você não aguenta mais? Não posso evitá-lo.
+//さて、もう一回だ。まだまだオレはいけるぞ。=Muito bem, mais uma vez. Eu ainda não terminei.
+//おい、やるぞ。まさかもう満足したなんて言わねぇよな？=Ei, vamos fazer isso. Você não vai me dizer que está satisfeito agora, vai?
 オマエはオレの小便を舐めたいのか？　変態だな。=Você quer lamber meu mijo? Você é um pervertido.
 そうか、オマエはキスで啜りたいのか。面白いやつだな。=Oh, então você quer beber com um beijo, hein? Você é um cara engraçado.
 よし、ヤるぞ。オレは気が短いんだ。ぐずぐずするなよ。=Muito bem, vamos fazer isso. Eu tenho mau feitio. Não se precipite.

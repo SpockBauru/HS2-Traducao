@@ -45,10 +45,10 @@
 うぅ、好き放題かけやがって……ぶっ飛ばされたいのか？=Ugh, você está tão cheio disso... Você quer ser explodido?
 オマエのなんて飲むか……付き合ってやっただけ感謝しろ。=Eu não sei se eu beberia o seu... Mas você deveria estar grato por ter saído com você.
 ふぅ……やっと終わったか……結構難しいもんだな……=Finalmente feito... Muito difícil de fazer...
-おい、誰が休んでいいなんて言った？　早くしろ。=Ei, quem disse que você poderia tirar o dia de folga? Vamos lá, vamos lá.
-情けねぇな、もう体力の限界か？=Você é patético. Você está no fim da corda?
-ちょっと休憩だ。オマエも適当に休んどけ。=Faça uma pausa. Você também deveria fazer uma pausa.
-焦らしてんだよ。すぐにイカせたら面白くねぇだろ？=Estou apenas enganando você. Não seria divertido se eu o fizesse gozar imediatamente, seria?
+//おい、誰が休んでいいなんて言った？　早くしろ。=Ei, quem disse que você poderia tirar o dia de folga? Vamos lá, vamos lá.
+//情けねぇな、もう体力の限界か？=Você é patético. Você está no fim da corda?
+//ちょっと休憩だ。オマエも適当に休んどけ。=Faça uma pausa. Você também deveria fazer uma pausa.
+//焦らしてんだよ。すぐにイカせたら面白くねぇだろ？=Estou apenas enganando você. Não seria divertido se eu o fizesse gozar imediatamente, seria?
 フッ、すこひなめらだけれ……ふぅえすぎらろ……（少し舐めただけで震え過ぎだろ）=(Você está tremendo demais depois de apenas algumas lambidas)
 おまぇのからだ……おぇのだぇきまみぇにしれやる……（オマエのからだ、オレの唾液まみれにしてやる）=Você vai ficar coberto com minha saliva.
 んっ……こぇくぁいなら……おらがいまら余裕らな……（これくらいならお互いまだ余裕だな）=(Isto nós dois ainda podemos pagar)
@@ -64,7 +64,7 @@
 あぁ……これだけ出せるなら……大分期待できそうだな……=Bem... Se conseguirmos tirar tanto disto... Podemos esperar muito...
 よし、イったな……さぁ、こっからが本当の勝負だぞ……=Tudo bem, você conseguiu... E agora é hora de ir para o verdadeiro negócio...
 あぁ……オマエの匂いが……染み付きそうだ……=Ahhh, seu cheiro... É tão forte.
-まぁ……そんだけ出しゃ、かかるのも仕方ねぇわな……=Bem... Não pode ser evitado se custa assim tanto...
+//まぁ……そんだけ出しゃ、かかるのも仕方ねぇわな……=Bem... Não pode ser evitado se custa assim tanto...
 はぁ、大量に出したな……ま、オレも人の事は言えねぇが……=Huh, isso é muita coisa... Bem, eu não posso falar por mais ninguém, mas...
 ん……オレのイクとこを一番近くで見れて……良かったな。=Bem... É bom poder me ver ejacular de perto.
 //おい、何も出来ないんなら、オレからするぞ？=Ei, se você não pode fazer algo, por que eu não faço algo?
@@ -111,8 +111,8 @@
 おっと、かけられちまったか……フッ、元気で結構……=Oh, você foi chamado... Bem, é bom vê-lo...
 ふぅ……一段落だな……こいつはセックス並に疲れる……=Hmm... Um degrau abaixo... Este cara é tão cansativo quanto o sexo...
 フッ、たっぷりオレの愛液を飲めて……嬉しかったろ？=Aposto que você está feliz por ter bebido tanto do meu suco de amor, não é?
-なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=O que você está fazendo, fazendo uma pausa? Você não está nem mesmo me apressando, está?
-おい、何してんだ？　オレを待たせるんじゃねぇ。=Ei, o que você está fazendo? Não me faça esperar.
+//なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=O que você está fazendo, fazendo uma pausa? Você não está nem mesmo me apressando, está?
+//おい、何してんだ？　オレを待たせるんじゃねぇ。=Ei, o que você está fazendo? Não me faça esperar.
 焦らされるとかなり効くだろう？　それが狙いだよ。=Funciona muito bem quando você está impaciente, não é mesmo? Isso é o que estou tentando fazer.
 いい顔になってきたな。して欲しくてたまらねぇって顔だ。=Você tem um rosto bonito. Parece que você está morrendo de vontade de fazer isso.
 おぇの匂いをしみつけれやる、当分オナニーには困らないな？（オレの匂いをしみつけてやる。当分オナニーには困らないな？）=Vou sentir o cheiro em você. Você não precisará se masturbar por um tempo, não é mesmo?

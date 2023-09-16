@@ -109,8 +109,8 @@
 はぁっ、んっ……ここまで攻められれば、大したもんだよ……=Huh, hmm... Se você pode me atacar até aqui, é uma grande coisa...
 //んぅ……いだぃぃ……やぁ……やぇれぇ……（痛い、やだ、やめて）=... Me desculpe... Yaa... Sim... (Dor, não, pare)
 くぅっ……なんれ……いたくしゅぅろぉ……あぅぅっ……（なんで痛くするの）=Por que você está fazendo isso doer?
-ぁああっ……ひろぃころ……んぅっ……もうしなぁれぇ……（酷い事もうしないで）=Não faça isso novamente.
-んやぁ……いだいのぉ……んぅ……ほんろむぃぃっ……（痛いのほんと無理）=Eu realmente não posso aguentar a dor.
+//ぁああっ……ひろぃころ……んぅっ……もうしなぁれぇ……（酷い事もうしないで）=Não faça isso novamente.
+//んやぁ……いだいのぉ……んぅ……ほんろむぃぃっ……（痛いのほんと無理）=Eu realmente não posso aguentar a dor.
 くひっ……ふぅっ……イきらくらぃ……イっららしんりゃぅ……（イキたくない、イったら死んじゃう）=Eu não quero vir. Morrerei se o fizer.
 //んぁぁ……もっ……いらぁのれ……イクのやらぁっ……（もう痛いのでイクのやだ）=Eu não quero mais gozar.
 //ぅぅ……いたぃろ……もぅやぇれぇ……んぅぅぅ……（痛いのもうやめて）=Pare de me machucar.

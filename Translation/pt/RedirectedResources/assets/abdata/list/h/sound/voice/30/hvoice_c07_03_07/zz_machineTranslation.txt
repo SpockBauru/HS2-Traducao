@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-おい、誰が休んでいいなんて言った？　早くしろ。=Ei, quem disse que você poderia tirar o dia de folga? Vamos lá, vamos lá.
-情けねぇな、もう体力の限界か？=Você é patético. Você está no fim da corda?
+//おい、誰が休んでいいなんて言った？　早くしろ。=Ei, quem disse que você poderia tirar o dia de folga? Vamos lá, vamos lá.
+//情けねぇな、もう体力の限界か？=Você é patético. Você está no fim da corda?
 んぎっ、ばか……こんなもん……股が裂けるっ……！=Migy, idiota... Tal peça... As lágrimas da virilha!
 やめっ……押し付けるな……あぁっ、これはやばいっ……！=Não... Não abuse... Oh, não...
 んぁあぐ！　なんだこれ、痛いのにっ、濡れてきちまうっ！=Aaagh! O que é isso? Dói, mas estou ficando molhada!
@@ -51,8 +51,8 @@
 あぐっ、痛めつけるのはもういいだろっ！　普通にイカせろ！=Agh, já chega de dor! Deixe-me só ejacular!
 んぁ……そんなにオレを……マゾに調教したいのか……？=Você realmente quer me treinar para ser masoquista?
 んん……流石に少し休憩だ……身体がぶっ壊れちまう……=Hmmm... Devemos fazer uma pausa... Meu corpo está quebrando...
-なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=O que você está fazendo, fazendo uma pausa? Você não está nem mesmo me apressando, está?
-おい、何してんだ？　オレを待たせるんじゃねぇ。=Ei, o que você está fazendo? Não me faça esperar.
+//なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=O que você está fazendo, fazendo uma pausa? Você não está nem mesmo me apressando, está?
+//おい、何してんだ？　オレを待たせるんじゃねぇ。=Ei, o que você está fazendo? Não me faça esperar.
 あふっ、擦れ方がエグいな……はぁっ、それがいいんだが。=Aww, a fricção é tão excruciante... Haha, é disso que eu gosto.
 //んんぅっ、もっと押し付けてもいいぞ……オレなら大丈夫だ。=Mmmm, você pode empurrar com mais força... Eu posso lidar com isso.
 ふぁあっ、この食い込みがいいんだ……マンコ、濡れるぅ……=Oh, eu gosto da maneira como se escava... A boceta fica molhada...

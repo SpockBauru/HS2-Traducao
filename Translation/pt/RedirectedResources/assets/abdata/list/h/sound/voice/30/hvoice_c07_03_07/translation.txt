@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おい、誰が休んでいいなんて言った？　早くしろ。=
-//情けねぇな、もう体力の限界か？=
+おい、誰が休んでいいなんて言った？　早くしろ。=Ei, quem disse que você poderia fazer uma pausa? Se apresse.
+情けねぇな、もう体力の限界か？=Você é patético. Está no limite de suas forças?
 //んぎっ、ばか……こんなもん……股が裂けるっ……！=
 //やめっ……押し付けるな……あぁっ、これはやばいっ……！=
 //んぁあぐ！　なんだこれ、痛いのにっ、濡れてきちまうっ！=
@@ -51,8 +51,8 @@
 //あぐっ、痛めつけるのはもういいだろっ！　普通にイカせろ！=
 //んぁ……そんなにオレを……マゾに調教したいのか……？=
 //んん……流石に少し休憩だ……身体がぶっ壊れちまう……=
-//なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=
-//おい、何してんだ？　オレを待たせるんじゃねぇ。=
+なに勝手に休憩してんだ？　焦らしにもなってねぇぞ？=O que está fazendo, dando um tempo? Você não está brincando comigo, está?
+おい、何してんだ？　オレを待たせるんじゃねぇ。=Ei, o que está fazendo? Não me deixe esperando.
 //あふっ、擦れ方がエグいな……はぁっ、それがいいんだが。=
 んんぅっ、もっと押し付けてもいいぞ……オレなら大丈夫だ。=Mmmm, você pode enfiar com mais força... Eu posso lidar com isso.
 //ふぁあっ、この食い込みがいいんだ……マンコ、濡れるぅ……=

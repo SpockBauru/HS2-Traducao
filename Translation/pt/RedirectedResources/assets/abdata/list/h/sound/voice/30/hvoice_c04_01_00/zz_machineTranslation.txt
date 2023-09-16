@@ -98,7 +98,7 @@
 //ろーお？　にゃめにゃめさえれ、うれひみぃ？（どう？　ナメナメされて、うれしみ？）=Como assim? Você está feliz em ser açaimado?
 //んふっ、にゃめるたびに、ふぅえるのおもひろぉっ……♪（舐める度にふるえるのおもしろ）=(É engraçado como você treme cada vez que o lambe)
 //あぁむっ、ほあ、あんらのこと、たべひゃうぉ～♪（ほら、アンタのこと食べちゃうよ）=Olha, eu vou te comer.
-んふ、あーしのくちんらか、あっらかいれひょぉ～♪（アタシの口の中、あったかいでしょ）=Está quente na minha boca, não está?
+//んふ、あーしのくちんらか、あっらかいれひょぉ～♪（アタシの口の中、あったかいでしょ）=Está quente na minha boca, não está?
 んぅぶ……しゃすがらあらしも……ちょっろくうひ……（流石のアタシもちょっと苦しい）=(Até eu estou um pouco amargo)
 んぐっ……あんらのでおくひいっぱぁい……（アンタのでお口いっぱい）=(sua boca cheia)
 //あはっ、かわたんな声出しちゃって、ヤリ甲斐ある～♪=Haha, você tem uma voz bonita. Vale a pena ♪
