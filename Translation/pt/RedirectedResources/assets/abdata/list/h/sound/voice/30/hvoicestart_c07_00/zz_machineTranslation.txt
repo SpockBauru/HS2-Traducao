@@ -332,7 +332,7 @@
 さぁ、オマエのもので、オレをどれだけ喘がせられるかな？=Agora, vamos ver o quanto você pode me fazer gemer com o seu.
 何されても抵抗できないってのは、それはそれで燃えるな。=Você não pode resistir a nada que eles fazem com você, é isso que me queima.
 はっ、ここで寸止めとか、お前にしては気が利くじゃねえか=Haha, você é muito esperto para que um cara como você pare aqui mesmo.
-我慢のできないやつだ。まぁ、攻められるのは嫌いじゃないが。=Eu não aguento o cara. Bem, eu não me importo de ser atacado.
+//我慢のできないやつだ。まぁ、攻められるのは嫌いじゃないが。=Eu não aguento o cara. Bem, eu não me importo de ser atacado.
 おい、ヘバってんじゃねぇぞ？　こっからがいいとこなんだ。=Ei, não estrague isso, está bem? Este é um bom lugar para começar.
 休憩なんてさせるかよ。お互いぶっ壊れるまでやるぞ。=Não vou deixá-lo fazer uma pausa. Vamos fazer isso até nos quebrarmos um ao outro.
 まだビショビショだからな。好きなだけしゃぶっていいぞ。=Ainda estou encharcado. Você pode sugá-lo o quanto quiser.
