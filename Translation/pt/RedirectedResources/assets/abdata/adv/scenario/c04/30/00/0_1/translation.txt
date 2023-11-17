@@ -9,7 +9,7 @@
 それでー、アタシに何か用？=Mm? Você quer alguma coisa?
 ご指名はアタシですかー？　なんて♪=Deixe-me adivinhar: você quer um pouco disto, certo?
 //汎用好意{0}=
-お、ラッキー♪　アンタに会えた～♪=Uhuul! Tão excitada com isso ♪
+お、ラッキー♪　アンタに会えた～♪=Que sorte! Estou tão excitada com isso ♪
 もしかして、アタシを探してたん？=Procurando por mim? Legal!
 んふ～、ただニヤけてるだけだから、気にしないで。=Meu Deus, será que meu rosto não poderia sorrir tanto toda vez que te vejo?!
 //汎用好意用件{0}=
