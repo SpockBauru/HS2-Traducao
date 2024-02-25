@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-あ……こんなところに……もしかしてわたしのことを待ってたんですか？=Você está me esperando aqui, por acaso?
-わぁ、お待たせしてすみませんー！=Uau, desculpe por tê-lo feito esperar!
-あれあれー、もしかして……妄想してたりしませんでしたかー？　なんちゃって♪=Ei, ei, ei... Você está... Você está tendo uma fantasia? Eu não sei...
-ええ……本当にただ待ってただけですか？　変なこととかしてないでしょーね？=Você tem certeza de que estava esperando por mim? Você não está fazendo nada de estranho, está?
-あらら、せっかくなら一緒に温まれたら良かったのにー……なんて、ちょっと照れちゃいますよねー。=Oh meu, teria sido bom se pudéssemos ter nos aquecido juntos... Estou um pouco envergonhada, não estou?

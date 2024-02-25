@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ん……すぅ……なんかぁ……変な感じぃ……すぅぅ……=Tenho uma estranha sensação..
-はぁ……ん……なんか……いい匂い……んふぅ……=Cheira tão bem
-はぁ……ん、すぅ……身体ぁ……熱いよぉ……すぅ……=Hmm, tão gostoso.
-ん……ふぅ……なんか……ん……気持ち悪い……すぅ……=Hmm, algo está errado.
-ふぅ……ん……ぞくぞく……ん……しちゃう……はぁぁ……=Hmm... Estou a ficar arrepiado.

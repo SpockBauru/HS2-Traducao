@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答B普通{0}=
-//ゆっくりお話できると嬉しかったんですがー……=
-//うーん、残念オブ残念ですよー！=
+ゆっくりお話できると嬉しかったんですがー……=Eu esperava que você pudesse relaxar conosco... Bem...
+うーん、残念オブ残念ですよー！=Bem, é uma vergonha!
 //なんでもない返答B好意{0}=
-//またお時間ある時にでも、まったりお話しましょー！=
-//次回はきっと、あなたさんも一緒に盛り上がりましょーねー！=
+またお時間ある時にでも、まったりお話しましょー！=Falarei com você novamente quando tiver tempo para sair!
+次回はきっと、あなたさんも一緒に盛り上がりましょーねー！=Venha participar da diversão da próxima vez, ok?
 //なんでもない返答B享楽{0}=
-//ふむー……一緒に色んなことが出来るかと思ったのですがー……=
-//今度、もっと時間がある時に……お話と言わず、その他のこともやっちゃいましょー！=
+ふむー……一緒に色んなことが出来るかと思ったのですがー……=Hmmm... Bem, eu estava esperando que pudéssemos fazer algumas coisas legais e bacanas...
+今度、もっと時間がある時に……お話と言わず、その他のこともやっちゃいましょー！=Bem, quando você tiver tempo, vamos conversar! Talvez possamos fazer algo a mais também!
 //なんでもない返答B嫌悪{0}=
-//はーい、ではではこれで、お疲れ様でーす。=
-//はぁ……疲れなくて良かった……今日はいー日かも！=
+はーい、ではではこれで、お疲れ様でーす。=Bem, nos vemos por aí...
+はぁ……疲れなくて良かった……今日はいー日かも！=Ufa, meu dia não está tão ruim quanto eu pensava. Tudo está indo bem!
 //なんでもない返答B隷属{0}=
-//はぁぁ……せっかくあなたさんと過ごせると思ったのに……ちょっと寂しいですね……=
-//なんか切ないですけど……その分、次にお会いできるのを楽しみにしてますよー！=
+はぁぁ……せっかくあなたさんと過ごせると思ったのに……ちょっと寂しいですね……=Huh... Eu pensei em passar um tempo com você... Mas estou meio triste...
+なんか切ないですけど……その分、次にお会いできるのを楽しみにしてますよー！=É triste, mas vou guardar toda a energia positiva para quando eu o vir novamente.

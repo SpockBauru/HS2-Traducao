@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おお、いらっしゃいましたか！　えーっと特に用事はないのですが、ちょっとあなたさんに会いたいなーと思いまして！　えへへ！=
+おお、いらっしゃいましたか！　えーっと特に用事はないのですが、ちょっとあなたさんに会いたいなーと思いまして！　えへへ！=Ooo, oi! Então, ouça, eu não tenho nada para você, por si só... Mas eu queria ver você! Hehe.
 //好意50_汎用{0}=
-//なんか一人だと寂しくなっちゃって……また会いに来ちゃいました、えへへ。=
-//今日もたくさんお話してくれるとうれしーですー！=
-//あなたさんと一緒にいると落ち着けるから……ついつい来ちゃうんですよ、えへへ。=
+なんか一人だと寂しくなっちゃって……また会いに来ちゃいました、えへへ。=Eu estava me sentindo um pouco solitária... Então, vim aqui novamente. Espero que você não se importe, hehe.
+今日もたくさんお話してくれるとうれしーですー！=Oo! Conte-me aquela história de novo! Você sabe qual é!
+あなたさんと一緒にいると落ち着けるから……ついつい来ちゃうんですよ、えへへ。=Sua voz é muito suave! Vim aqui sem nem pensar, hehe.
 ・・・・・=...
 //好意50続き{0}=
-//一緒にいてくれてありがとうございました！　また甘えちゃうかもしれませんけど、その時はよろしくお願いしますーっ！=
-//あなたさんと過ごせた日は一日心がぽかぽかするんですよー。だから、今日はもう幸せな日です、えへへ。=
-//なんかあなたさんの傍にいられる時が、一番ほっとするんです。対わたし癒し効果抜群ですよー！=
-//いてくれて良かったですー！　えっと……少しだけお話したいなと思ったんですけど……いーですか？=
+一緒にいてくれてありがとうございました！　また甘えちゃうかもしれませんけど、その時はよろしくお願いしますーっ！=Obrigada por me receber! Provavelmente voltarei a aparecer por aqui em algum momento, se você não se importar!
+あなたさんと過ごせた日は一日心がぽかぽかするんですよー。だから、今日はもう幸せな日です、えへへ。=Quando posso ficar com você, meu coração fica aquecido o dia inteiro! Portanto, hoje já é um dia feliz, ehehe.
+なんかあなたさんの傍にいられる時が、一番ほっとするんです。対わたし癒し効果抜群ですよー！=Sinto-me mais aliviada quando posso estar com você. Isso tem um grande efeito curativo em mim!
+いてくれて良かったですー！　えっと……少しだけお話したいなと思ったんですけど……いーですか？=Ah, legal, você está em casa! Escuta, posso conversar um pouco com você?
 //好意80_汎用{0}=

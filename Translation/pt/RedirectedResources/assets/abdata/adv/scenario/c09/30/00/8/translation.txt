@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//はいー、ありがとうございましたー！=
-//ではでは、また！=
+はいー、ありがとうございましたー！=Sim! Muito obrigada!
+ではでは、また！=Tchauzinho!
 //好意{0}=Amor{0}
-//色んなことが聞けて楽しかったですよー！=
-//またいっぱいお話してくださいねー！=
+色んなことが聞けて楽しかったですよー！=Foi um prazer falar com você!
+またいっぱいお話してくださいねー！=Deveríamos conversar mais algum dia!
 //享楽{0}=Excitada {0}
-//なんか……すごく勉強になった気がします！　また色々教えてくださいー！=
-//あなたさんとお話してると、頭良くなった気になっちゃいますよー。またたくさんお話しましょーね。=
+なんか……すごく勉強になった気がします！　また色々教えてくださいー！=Eu sinto que... Aprendi muito! Por favor, me ensine mais coisas!
+あなたさんとお話してると、頭良くなった気になっちゃいますよー。またたくさんお話しましょーね。=Quando falo com você, sinto que estou ficando mais esperta! Vamos conversar novamente.
 //嫌悪{0}=Ódio {0}
-//はいはい、それではー！=
-//思ったよりも時間使っちゃいましたね、ではー！=
+はいはい、それではー！=Bem, então até logo!
+思ったよりも時間使っちゃいましたね、ではー！=Isso demorou mais do que eu pensava, mas tudo bem. Então, tchau!
 //隷属{0}=Submissa {0}
-//うーん、もう少し詳しく聞きたい気もしましたけど……今日はここまでですね！　ではまたの機会に！=
-//次回はぜひ一晩中語り合いましょー！　もちろん、ぺったりくっつきながら……です♪　えへへ。=
+うーん、もう少し詳しく聞きたい気もしましたけど……今日はここまでですね！　ではまたの機会に！=Estávamos quase chegando à parte boa, mas acho que podemos deixar para a próxima vez. Abraços!
+次回はぜひ一晩中語り合いましょー！　もちろん、ぺったりくっつきながら……です♪　えへへ。=Oo, deveríamos conversar a noite toda da próxima vez ♪ Com um acompanhamento de carinhos de namorados, hehe...

@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //普通{0}=Normal{0}
-//さてさて、どーいったお話をしましょー？=
-//なにを話してくれるんでしょーか？=
+さてさて、どーいったお話をしましょー？=Muito bem, então! Sobre o que você quer falar?
+なにを話してくれるんでしょーか？=Então, o que você vai me dizer?
 //好意{0}=Amor{0}
-//あなたさんとだったらどんなお話でも楽しいですけど……なに話しましょー？=
-//えへへ、どんな内容のお話でもいーですよー！=
+あなたさんとだったらどんなお話でも楽しいですけど……なに話しましょー？=Se for com meu melhor parceiro, posso falar sobre qualquer coisa, o dia todo! Sobre o que você quer conversar?
+えへへ、どんな内容のお話でもいーですよー！=Hehe, podemos falar sobre qualquer coisa! Fala!
 //享楽{0}=Excitada {0}
-//ふふっ、なにを聞かれちゃうか、どーしても期待しちゃいますねー！=
-//どんなにエッチな内容でも引いたりしないから、ばんばん言ってくれちゃっていーですよー！=
+ふふっ、なにを聞かれちゃうか、どーしても期待しちゃいますねー！=Não se importe comigo, só estou tentando adivinhar o que vai me perguntar. Isso? Não... Talvez... Ah, bem!
+どんなにエッチな内容でも引いたりしないから、ばんばん言ってくれちゃっていーですよー！=Não vou me importar, não importa o quão sujo seja o assunto. Fale sobre isso!
 //嫌悪{0}=Ódio {0}
-//はぁ……で、なんの話がしたいんですか？=
-//一応聞きますけどー……どんな内容の話です？=
+はぁ……で、なんの話がしたいんですか？=*affe* Então? Sobre o que você queria falar?
+一応聞きますけどー……どんな内容の話です？=Suponho que eu deva lhe perguntar do que se trata...
 //隷属{0}=Submissa {0}
-//こーしてるだけでも嬉しいって思ってますから、どんなお話でもいーですよ♪=
-//なんか私のこととか聞いちゃったりしますかー？=
+こーしてるだけでも嬉しいって思ってますから、どんなお話でもいーですよ♪=Qualquer assunto, na verdade. Fico muito feliz em conversar com você ♪
+なんか私のこととか聞いちゃったりしますかー？=Você gostaria de talvez... Me perguntar alguma coisa?
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

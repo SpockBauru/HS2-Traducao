@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //会話{0}=
-//あはっ、はいっ、しましょう！　すごくすごぉく嬉しいです！　やっぱり愛は大切ですよね。=
-//そう言ってくれると信じてました。やっぱり……あなたさんはいつでもわたしのことを考えてくれてるんですね。どうか今日もいっぱい可愛がってくださいませ。=
+あはっ、はいっ、しましょう！　すごくすごぉく嬉しいです！　やっぱり愛は大切ですよね。=Viva! Você acabou de me deixar muito, muito, MUITO feliz! O amor é tudo o que importa, certo?
+そう言ってくれると信じてました。やっぱり……あなたさんはいつでもわたしのことを考えてくれてるんですね。どうか今日もいっぱい可愛がってくださいませ。=Eu sabia que você diria sim. Isso só prova que você está sempre pensando e torcendo por mim... Agora venha me abraçar.

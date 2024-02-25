@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//はうっ……こんな時に突然……生理現象がっ……えっと……少しだけ待っててもらっていーですか？=
-//あっ、すみませんっ！　わたしー、ちょっとお花を摘みに行ってきていーでしょーか？=
-//急におしっこしたくなっちゃったんですけどー……このままお待ち頂いていーですか？=
-//ちょっと離れてもいーですか？　理由？　もぉぉ、何だっていーじゃないですか。おしっこです、おしっこ！=
-//あの……おトイレに行ってもいーですか？　なんか突然行きたくなっちゃってー。=
+はうっ……こんな時に突然……生理現象がっ……えっと……少しだけ待っててもらっていーですか？=Ai... Tenho que ir... Fazer xixi. Espere aqui um momento, ok?
+あっ、すみませんっ！　わたしー、ちょっとお花を摘みに行ってきていーでしょーか？=Oh, desculpe-me! Posso ir colher algumas flores?
+急におしっこしたくなっちゃったんですけどー……このままお待ち頂いていーですか？=Eu... Preciso fazer xixi... Você pode me esperar por um segundo?
+ちょっと離れてもいーですか？　理由？　もぉぉ、何だっていーじゃないですか。おしっこです、おしっこ！=Eu já volto... "Aonde estou indo"? Santa paciência! Você é a minha mãe?! Preciso ir fazer xixi, está bem?!
+あの……おトイレに行ってもいーですか？　なんか突然行きたくなっちゃってー。=Importa-se se eu for ao banheiro rapidinho? Acho que bebi muita água...
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

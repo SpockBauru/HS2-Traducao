@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //なんでもない返答A普通{0}=
-//はえー、そーなんですかー？=
-//なーんだ、残念ですよー。=
+はえー、そーなんですかー？=É isso mesmo?
+なーんだ、残念ですよー。=Não, é uma pena!
 //なんでもない返答A好意{0}=
-//あらら……なんか寂しいですねー。=
-//せっかく会えたのにー……でも仕方ないですね。=
+あらら……なんか寂しいですねー。=Ah, tudo bem. Acho que você fez uma besteira.
+せっかく会えたのにー……でも仕方ないですね。=Mas, você acabou de chegar aqui... Tá bom...
 //なんでもない返答A享楽{0}=
-//あはは……わたし、なんかちょっとだけ期待しちゃいましたよ、もー。=
-//ふぇぇ、がっかりですー……色々楽しいお話できると思ったんですがー。=
+あはは……わたし、なんかちょっとだけ期待しちゃいましたよ、もー。=Hehe, você me deixou toda arrepiada e animada por um segundo...
+ふぇぇ、がっかりですー……色々楽しいお話できると思ったんですがー。=O quê? Eu estava esperando para lhe contar o que aconteceu comigo ontem... Mas tudo bem.
 //なんでもない返答A嫌悪{0}=
-//はぁぁ……だったら最初から声なんてかけないでほしーんですけどー。=
-//なんでもないならそれでいーです、はいー。=
+はぁぁ……だったら最初から声なんてかけないでほしーんですけどー。=Huh... Se for esse o caso, eu gostaria que você não tivesse me abordado em primeiro lugar.
+なんでもないならそれでいーです、はいー。=Bem, você não quer nada, e eu não quero nada. Pois é.
 //なんでもない返答A隷属{0}=
-//はぅ……お忙しいところ、お呼び止めして申し訳ありましぇっ……ありませにゅー！=
-//そーですか……ちょっと悲しいけど、次に期待しておきますねー。=
+はぅ……お忙しいところ、お呼び止めして申し訳ありましぇっ……ありませにゅー！=Epa! Vejo que você está muito ocupado... Sinto muito.
+そーですか……ちょっと悲しいけど、次に期待しておきますねー。=Tudo bem... Tenho certeza de que você terá algo bom para falar da próxima vez.

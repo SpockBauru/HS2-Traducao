@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-すぅ……ふふっ、あなたさんったらー……すぅ……ふふっ……=Suu... Fufu, você é tão... Suu... Fufu...
-ん……はぁ……ん……好き……ですよ……すぅ……=Mmm... Haha... Eu gosto... Você... Soooo...
-すぅ……あ……ふ……んん、はいぃ……いいですよぉ……すぅ……=Mmm-hmm, sim, isso é bom.
-ん……あ……そーいうのは……ん……やだぅ……すぅ……=Não, não.

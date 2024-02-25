@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//あっ、やだっ、どうして逃げるんですかっ……別に責めたりしませんからっ、どうか、片手間でもいいからっ、わたしのことも愛してくださいーっ！=
-//待ってっ、逃げないでくださいっ！　わたしっ、あなたさんがいないとダメなんですっ！　本当の本当にダメなんですっ！　だから……お願い、愛してぇ……=
+あっ、やだっ、どうして逃げるんですかっ……別に責めたりしませんからっ、どうか、片手間でもいいからっ、わたしのことも愛してくださいーっ！=Espere! Para onde você está indo? Olhe, não vou me importar se você fizer tudo pela metade! Por favor, apenas me ame!
+待ってっ、逃げないでくださいっ！　わたしっ、あなたさんがいないとダメなんですっ！　本当の本当にダメなんですっ！　だから……お願い、愛してぇ……=Espere! Volte! Eu realmente, realmente, realmente... REALMENTE não posso viver sem você! Por favor, me ame!
 逃げ出した=Você escapou

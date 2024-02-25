@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//あ……こんなところに……もしかしてわたしのことを待ってたんですか？=
-//わぁ、お待たせしてすみませんー！=
-//あれあれー、もしかして……妄想してたりしませんでしたかー？　なんちゃって♪=
-//ええ……本当にただ待ってただけですか？　変なこととかしてないでしょーね？=
-//あらら、せっかくなら一緒に温まれたら良かったのにー……なんて、ちょっと照れちゃいますよねー。=
+あ……こんなところに……もしかしてわたしのことを待ってたんですか？=Ah, que bom vê-lo aqui, parceiro! Diga-me, estava esperando por mim?
+わぁ、お待たせしてすみませんー！=Uau! Desculpe por tê-lo feito esperar!
+あれあれー、もしかして……妄想してたりしませんでしたかー？　なんちゃって♪=Eu sei que você estava fantasiando comigo, tonto, apenas admita! Ahh, só estava brincando com você, parceiro ♪
+ええ……本当にただ待ってただけですか？　変なこととかしてないでしょーね？=Oh. Você estava aqui parado esperando, certo? Não estava fazendo nada maluco ou imoral, espero?
+あらら、せっかくなら一緒に温まれたら良かったのにー……なんて、ちょっと照れちゃいますよねー。=Oh... Poderíamos ter nos aquecido juntos... Ha, espero não tê-la feito corar.

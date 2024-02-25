@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//うぅ、距離が近すぎますよー。もっとあっちにいけないんですか？　しっしっ。=
-//っ……な、なにをするんですかぁ……他にも人がいるんですよ？=
-//い、いやっ……電車の中でなんて、絶対ダメですからー……=
-//っ……ちょ、ちょっとぉ……！　どうしておっきくさせてるんですかっ……！=
-//今は人がいっぱいいる電車の中ですっ、早く小さくしてくださいっ……=
-//って、なにをしようとしてるんですか？　小さくするのに、必要ないことですよっ……=
-//あ、あなたさんっ……どうして、ここでしようとしてるんですか？　いけないことですよっ……=
-//いくら施設の中でも、これはマナー違反だと思います……というかわたしが普通に嫌ですっ……=
-//うぅ、なんで考え直そうとしないんですか、もぉぉ……=
+うぅ、距離が近すぎますよー。もっとあっちにいけないんですか？　しっしっ。=Eca, você está muito perto... Você não pode ficar ali? Xô!
+っ……な、なにをするんですかぁ……他にも人がいるんですよ？=O que você está... Puxa, você não está vendo todas as pessoas ao nosso redor?
+い、いやっ……電車の中でなんて、絶対ダメですからー……=Tudo bem, tudo bem! Mas não gosto nem um pouco dessa ideia! Você sabe que estamos em um trem, certo?
+っ……ちょ、ちょっとぉ……！　どうしておっきくさせてるんですかっ……！=Ack! Isso é uma barraca em suas calças? Porque você está me dando arrepio...
+今は人がいっぱいいる電車の中ですっ、早く小さくしてくださいっ……=Estamos em um trem, cheio de pessoas! Você não pode, tipo... Sei lá? Imaginar um poste de luz ou algo assim para fazê-lo ficar mole?
+って、なにをしようとしてるんですか？　小さくするのに、必要ないことですよっ……=O que está fazendo?! Isso é totalmente o oposto de fazer seu pipi ficar mole! Argh, tudo bem!
+あ、あなたさんっ……どうして、ここでしようとしてるんですか？　いけないことですよっ……=O que você está fazendo... Isso é um não-não... Um enorme não-não!
+いくら施設の中でも、これはマナー違反だと思います……というかわたしが普通に嫌ですっ……=Mesmo em um lugar como este, isso provavelmente é contra as regras! Sem falar que é constrangedor...
+うぅ、なんで考え直そうとしないんですか、もぉぉ……=Argh! Você não está me ouvindo! Tudo bem, nossa, tanto faz!

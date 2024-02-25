@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-//セリフ{0}=Serif {0}
-//………………=・・・・・・
-//はぁぁ……お願いしましゅぅ……おバカなわらしにぃ……エッチなおべんきょー……いっぱい教えてくらさぁい……=Huh... Por favor... Ensinar ao meu menino tolo... Muitos truques maliciosos...
-んひゃぁぁ……あなたしゃんとのえっちぃ……はやく、はやくくだしゃいぃ……もぉ、おみゃんことろけてぇ、まちくたびれてましゅよぉ……=Estou tão cansado de esperar que você derreta...

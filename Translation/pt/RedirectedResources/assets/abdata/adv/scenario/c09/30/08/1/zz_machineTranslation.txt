@@ -1,7 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ふふーっ、せっかくですから、お風呂、一緒に入りましょー！=Já que estamos aqui, vamos tomar um banho juntos!
-たまにはこーやって、一緒にお風呂とかどーでしょー？　お風呂なのに水入らず、なんちゃってー。=Por que não tomamos um banho juntos um dia destes? Mesmo sendo um banho, não temos que estar juntos.
-お邪魔しますー！　今日はわたしが背中流してあげますよー！=Desculpe incomodá-lo! Vou lavar suas costas hoje!
-ふふっ、わたしとあなたさんの仲ですから……当然、お風呂くらい一緒に入ってもいいですよね？=Estou certo de que você ficará feliz em saber que não sou o único que tem um problema com isso.

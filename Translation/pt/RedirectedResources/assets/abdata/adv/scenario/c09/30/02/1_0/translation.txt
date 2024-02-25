@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //前フリA普通{0}=
-//おお、これはこれは！=
-//あ、あなたさんじゃないですかー。=
+おお、これはこれは！=Ora, ora, ora!
+あ、あなたさんじゃないですかー。=É o meu parceiro! Olá.
 //前フリA好意{0}=
-//あっ、こんにちはー！=
-//おおっ、ちょうどいいところにー。=
+あっ、こんにちはー！=Oh, olá!
+おおっ、ちょうどいいところにー。=Oh, bem na hora.
 //前フリA享楽{0}=
-//今、お話が盛り上がってるとこですよー。=
-//あはっ、あなたさんに会えるとテンション上がっちゃいますー！=
+今、お話が盛り上がってるとこですよー。=Ei, estávamos chegando às partes mais interessantes.
+あはっ、あなたさんに会えるとテンション上がっちゃいますー！=Hehe, fico toda animada quando vejo meu parceiro favorito!
 //前フリA嫌悪{0}=
-//うわぁ……会っちゃったー……=
-//えー、まさかあなたさんが来るなんてー。=
+うわぁ……会っちゃったー……=E meu dia está arruinado...
+えー、まさかあなたさんが来るなんてー。=Eu perguntaria por que você está aqui... Se eu me importasse.
 //前フリA隷属{0}=
-//もしかしてわたしに会いに来てくれたんですか……なんちゃって、えへへ。=
-//おお、噂をすれば……って感じですねー！=
+もしかしてわたしに会いに来てくれたんですか……なんちゃって、えへへ。=Por acaso você veio só para me ver? Estava brincando, heh heh.
+おお、噂をすれば……って感じですねー！=Oh, por falar no diabo!

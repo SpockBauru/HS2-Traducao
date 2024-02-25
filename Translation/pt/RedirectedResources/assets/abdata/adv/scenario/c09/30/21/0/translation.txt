@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
 //セリフ{0}=
-//あなたさんの愛を独り占めできないのは分かっています……でも……わたしのこともきちんと愛して欲しいですよ。=
-//お願いします……今、身体が火照って堪らないんです……あなたさんの愛で癒やしてください……=
+あなたさんの愛を独り占めできないのは分かっています……でも……わたしのこともきちんと愛して欲しいですよ。=Sei que não posso ter você só para mim... Mas ainda quero que você me ame de verdade...
+お願いします……今、身体が火照って堪らないんです……あなたさんの愛で癒やしてください……=Por favor... O calor... Não consigo parar... Me acalme fazendo amor, está bem?
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

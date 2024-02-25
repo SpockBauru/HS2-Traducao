@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//まー、好きな人相手なら……やっぱり喜んで欲しいって思うんじゃないですかねー？=
-//それだけ自分が求められてるってことですよね？　うーん、悪いことじゃないよーな気もするなー。でもわたし、おバカですからね、自信ないですー。=
+まー、好きな人相手なら……やっぱり喜んで欲しいって思うんじゃないですかねー？=Bem, se for alguém de quem você gosta, então... Ela faria qualquer coisa para fazer você feliz, certo?
+それだけ自分が求められてるってことですよね？　うーん、悪いことじゃないよーな気もするなー。でもわたし、おバカですからね、自信ないですー。=Isso não parece ser uma coisa tão ruim... Mas, por outro lado, o que uma tonta como eu sabe sobre isso?
 //好意{0}=Amor{0}
-//なんていうかー、こー、無条件で受け入れられる瞬間があるんですよ、きっと！　多分！=
-//あー、わたしにもありますよ？　頼まれたら応えてあげたいなって気持ち……もちろん、相手は限定されますけどっ！　されますけどっ！=
+なんていうかー、こー、無条件で受け入れられる瞬間があるんですよ、きっと！　多分！=Bem, provavelmente haverá um momento em que eles aceitarão qualquer coisa que você pedir a eles. Eu acho que sim. Talvez.
+あー、わたしにもありますよ？　頼まれたら応えてあげたいなって気持ち……もちろん、相手は限定されますけどっ！　されますけどっ！=É claro que eu ouviria os pedidos de outras pessoas! Mas somente para algumas pessoas seletas. Quero dizer, REALMENTE poucas.
 //享楽{0}=Excitada {0}
-//ふぉぉ、まさかあなたさんも同じ気持ちだったとはー！　お互いにお互いを思うなんて素敵じゃないですか！　なんかの昔話みたい！=
-//まぁ、エッチな話に限定すれば……どんなことでも出来ちゃいますよねー。だって何しても気持ちいーですもん、あはは。=
+ふぉぉ、まさかあなたさんも同じ気持ちだったとはー！　お互いにお互いを思うなんて素敵じゃないですか！　なんかの昔話みたい！=Uau, sério?! Você também acha isso? Duas pessoas, vivendo felizes para sempre... É como um conto de fadas! Tirando as fadas.
+まぁ、エッチな話に限定すれば……どんなことでも出来ちゃいますよねー。だって何しても気持ちいーですもん、あはは。=Bem, se estivermos falando de coisas sexuais... Eu poderia fazer qualquer coisa... É tudo tão gostoso!
 //嫌悪{0}=Ódio {0}
-//いやー、それは無理ですよー、ないない、ないのない！=
-//えー、どーなんですかー？　それ、本気で言ってます？　本気だとしたらそーとーヤバい感じのあれですよ？=
+いやー、それは無理ですよー、ないない、ないのない！=Não, não é possível. Não senhor. Nana nina não!
+えー、どーなんですかー？　それ、本気で言ってます？　本気だとしたらそーとーヤバい感じのあれですよ？=Espere... Você está falando sério, não está? Puxa vida... Isso é uma coisa muito ruim, sabe?
 //隷属{0}=Submissa {0}
-//その話……もしも相手があなたさんだったら……わたしはやっぱり受け入れちゃうと思いますよ……理由は……分かりますよね？　えへへ。=
-//わぁ、ありがとうございますーっ！　あなたさんの気持ち、すごい嬉しい！　わたしも……いつも同じこと、考えてますよ♪=
+その話……もしも相手があなたさんだったら……わたしはやっぱり受け入れちゃうと思いますよ……理由は……分かりますよね？　えへへ。=Falando nisso... Se for com você, parceiro, eu aceitaria de bom grado. Não preciso lhe dizer o motivo, certo? Hehe.
+わぁ、ありがとうございますーっ！　あなたさんの気持ち、すごい嬉しい！　わたしも……いつも同じこと、考えてますよ♪=É mesmo?! O sentimento é mútuo, parceiro! Eu também sempre penso em você ♪
