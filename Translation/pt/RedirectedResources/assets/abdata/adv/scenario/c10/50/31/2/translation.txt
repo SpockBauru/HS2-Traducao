@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//お待たせしました。退屈……でしたよね？　この埋め合わせは、きちんといたしますので。=
-//待って頂いてありがとうございます。あの……匂いとか……気になったりしますか？=
-//もしかして、覗いていたりしましたか？　いえ、特に何かに気付いたわけではありませんが……ふふ、少しカマをかけさせて頂きました。=
-//あら、待っていたのですか。貴方のことですから、もう帰られたかと思っていました。=
-//手持無沙汰にさせてしまって、申し訳ございません。こればかりは、我慢できるものでも無いので……=
+お待たせしました。退屈……でしたよね？　この埋め合わせは、きちんといたしますので。=Perdão pela demora. Você estava entediado? Se sim, eu o compensarei.
+待って頂いてありがとうございます。あの……匂いとか……気になったりしますか？=Obrigada por sua paciência. Erm... Você é uma pessoa que se importa muito com o cheiro das pessoas?
+もしかして、覗いていたりしましたか？　いえ、特に何かに気付いたわけではありませんが……ふふ、少しカマをかけさせて頂きました。=Você não deu uma espiada, não é? Não, não, eu não vi você, hehe. Foi apenas um blefe.
+あら、待っていたのですか。貴方のことですから、もう帰られたかと思っていました。=Ah, você esperou. Conhecendo-o, eu tinha certeza de que você teria ido para casa.
+手持無沙汰にさせてしまって、申し訳ございません。こればかりは、我慢できるものでも無いので……=Peço desculpas por tê-lo deixado sozinho. Ainda assim, há algumas coisas que não podem ser evitadas.

@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//私、お話は好きですよ♪　では、どんなお話をしましょうか？=
-//お話って素敵ですよね。貴方がどんな人なのか、色々話してみたいです。=
+私、お話は好きですよ♪　では、どんなお話をしましょうか？=Conversar? Eu adoro conversar! Então, sobre o que vamos conversar hoje?
+お話って素敵ですよね。貴方がどんな人なのか、色々話してみたいです。=Gosto muito de conversar. Por que não começa me contando sobre você?
 //好意{0}=Amor{0}
-//何のお話をしましょうか？　なんだか少し、緊張してしまいますね。=
-//貴方のお話なら、どんなことでも聞きたいです。あと、私のことも、色々知って欲しいです……=
+何のお話をしましょうか？　なんだか少し、緊張してしまいますね。=Sobre o que devemos falar? Oh, que incômodo, estou estranhamente nervosa.
+貴方のお話なら、どんなことでも聞きたいです。あと、私のことも、色々知って欲しいです……=Terei prazer em conversar sobre qualquer coisa com você. Estou... Ansiosa para aprendermos um sobre o outro.
 //享楽{0}=Excitada {0}
-//さて、どんなお話がお好きですか？　ふふ、多少下品な話でも、私は引いたりしませんよ。=
-//雰囲気作りは大事ですからね。さぁ、この後なにを話すのか、重要な選択ですよ？　ふふ♪=
+さて、どんなお話がお好きですか？　ふふ、多少下品な話でも、私は引いたりしませんよ。=Então, de que tipo de conversa você gosta? Hehe, fique sabendo que eu não me importo com assuntos maliciosos!
+雰囲気作りは大事ですからね。さぁ、この後なにを話すのか、重要な選択ですよ？　ふふ♪=É importante definir o ambiente. Portanto, é hora de fazer uma escolha importante. Sobre o que falaremos primeiro? Hehe ♪
 //嫌悪{0}=Ódio {0}
-//お話ですか？　私は特にありませんので、貴方の要件をどうぞ。=
-//では、好きに話してみてください。内容によって、返事をするかどうか考えます。=
+お話ですか？　私は特にありませんので、貴方の要件をどうぞ。=Quer conversar? Infelizmente, não tenho nada a dizer. Por que não diz o que quer e vai embora?
+では、好きに話してみてください。内容によって、返事をするかどうか考えます。=Portanto, fale o que pensa. Saiba que, dependendo do conteúdo, posso optar por não responder.
 //隷属{0}=Submissa {0}
-//お話……お話……うぅ、特に話題が思いつきません。貴方は何かありますか？=
-//まずは、貴方のお話を聞かせてください。私、これでも聞き上手と言われていますので。=
+お話……お話……うぅ、特に話題が思いつきません。貴方は何かありますか？=Tópico de conversa, tópico de conversa... Erm, não consigo pensar em nenhum! E quanto a você?
+まずは、貴方のお話を聞かせてください。私、これでも聞き上手と言われていますので。=Ficaria muito feliz se você desse início a esse pequeno bate-papo. Fique sabendo que sou uma ótima ouvinte.
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

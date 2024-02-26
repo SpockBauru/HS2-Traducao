@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //汎用{0}=
-//ふふ、貴方なら絶対ここにいると思いました。私は何でもお見通しですよ♪=
-//ほら、会えました。特に意識もしていないのに会ってしまうのは、私達が運命のパートナーだという証拠ですね。=
-//誰に会いに来たのですか？　もちろん私ですよね？　他の女性なんて、一瞬たりとも目に入れてはいけませんよ。=
+ふふ、貴方なら絶対ここにいると思いました。私は何でもお見通しですよ♪=Hehe, eu sabia que o encontraria aqui. Posso ver através de você ♪
+ほら、会えました。特に意識もしていないのに会ってしまうのは、私達が運命のパートナーだという証拠ですね。=Aha, aí está você. Eu sempre o encontro, mesmo quando não estou procurando. Isso significa que estamos fadados a ficar juntos?
+誰に会いに来たのですか？　もちろん私ですよね？　他の女性なんて、一瞬たりとも目に入れてはいけませんよ。=Está aqui para ver alguém? É claro que sou eu, não é? Tenho certeza de que não tem nenhuma outra garota na sua mira.
 //風呂{0}=
-//私のお風呂を覗きに来たのですか？　そんな面倒なことをしなくても、見ることはできますよ。ふふ♪=
-//いつも清潔感を意識するのは大事ですね。まぁ、貴方が汚かったら、私が洗うだけなのですが……=
+私のお風呂を覗きに来たのですか？　そんな面倒なことをしなくても、見ることはできますよ。ふふ♪=Veio me espiar? Não precisa fazer isso - fico feliz em lhe dar um show a qualquer momento, hehe ♪
+いつも清潔感を意識するのは大事ですね。まぁ、貴方が汚かったら、私が洗うだけなのですが……=É importante manter um corpo limpo e um mínimo de dignidade. É claro que se sujar é só laver de novo...
 //用件{0}=
-//言わなくても分かっていますよ。エッチですよね？　貴方の目、もう完全に私しか見ていませんもの。=
-//お話ですか？　エッチですか？　なんて、聞くまでもありませんよね。エッチ……しましょう？=
+言わなくても分かっていますよ。エッチですよね？　貴方の目、もう完全に私しか見ていませんもの。=Não precisa dizer: você está aqui para fazer sexo, certo? Posso ver seu olhar faminto fixado em mim.
+お話ですか？　エッチですか？　なんて、聞くまでもありませんよね。エッチ……しましょう？=Está aqui para conversar ou para transar? Precisa perguntar? Eu sei que é a última opção. Então, vamos lá?
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

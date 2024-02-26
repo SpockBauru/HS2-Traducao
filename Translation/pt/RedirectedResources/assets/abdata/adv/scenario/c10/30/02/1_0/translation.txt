@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリA普通{0}=
-//あ……丁度貴方のお話をしていたところです。どこかで聞いていたのですか？=
-//どうも。貴方も仲間に入りますか？　ふふ、遠慮することはありませんよ。=
+あ……丁度貴方のお話をしていたところです。どこかで聞いていたのですか？=Ah... Na hora certa. Estávamos falando sobre você. O que você ouviu?
+どうも。貴方も仲間に入りますか？　ふふ、遠慮することはありませんよ。=Olá. Quer se juntar a nós? Hehe, não precisa ser tímido.
 //前フリA好意{0}=
-//どうやら、思いが通じたみたいですね。ここに貴方がいたら、絶対楽しいのにと……思っていたところです。=
-//ふふ、私達のお話に混ざりに来たのですか？　貴方なら大歓迎ですよ♪=
+どうやら、思いが通じたみたいですね。ここに貴方がいたら、絶対楽しいのにと……思っていたところです。=Parece que meu chamado psíquico foi atendido. Eu estava pensando muito sobre como seria maravilhoso tê-lo aqui.
+ふふ、私達のお話に混ざりに来たのですか？　貴方なら大歓迎ですよ♪=Hehe, quer se juntar a nós? Gostaríamos muito de tê-lo conosco ♪
 //前フリA享楽{0}=
-//二人で固まっていれば、絶対に来ると思いました。貴方の女性好きは有名ですから。=
-//少し、目がギラついていますよ？　私達、品定めされてしまっていますか？=
+二人で固まっていれば、絶対に来ると思いました。貴方の女性好きは有名ですから。=Eu sabia que você iria aparecer se nós duas estivéssemos juntas. Você é famoso em toda parte por seu amor por belas mulheres.
+少し、目がギラついていますよ？　私達、品定めされてしまっていますか？=Você tem uma luz perigosa em seus olhos, sabia? Está nos avaliando, por acaso?
 //前フリA嫌悪{0}=
-//はぁ、少しでも女性が固まってるいると、すぐ来るのですね。まるでハイエナです。=
-//んぅ……楽しい一時が台無しです。貴方が来たからですよ。分かっていますか？=
+はぁ、少しでも女性が固まってるいると、すぐ来るのですね。まるでハイエナです。=*affe* Você sempre aparece onde as garotas se reúnem. Como uma hiena voraz.
+んぅ……楽しい一時が台無しです。貴方が来たからですよ。分かっていますか？=Ah. E lá se foi toda a diversão. Para ser claro, o fato de você ter aparecido arruinou tudo. Entendeu?
 //前フリA隷属{0}=
-//あ、えぇと、私達二人だけでは、会話が詰まりがちだったので……来て頂けて助かりました。=
-//あの、私達とお話しませんか？　貴方は私より、お話が上手ですから。きっと楽しい時間になると思います。=
+あ、えぇと、私達二人だけでは、会話が詰まりがちだったので……来て頂けて助かりました。=Ah, erm... Nenhuma de nós é uma pessoa comunicativa, então o fato de você aparecer é uma grande vantagem para nós duas.
+あの、私達とお話しませんか？　貴方は私より、お話が上手ですから。きっと楽しい時間になると思います。=Erm... Quer se juntar a nós? Você é muito melhor do que eu para manter uma conversa, por isso ficaria feliz se aceitasse.

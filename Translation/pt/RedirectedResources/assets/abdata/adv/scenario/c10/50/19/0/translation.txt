@@ -3,8 +3,8 @@
 //
 //セリフ{0}=
 ???=???
-//うぅ……どなたかいませんかー？=
-//助けてください……誰か……お願いします……=
+うぅ……どなたかいませんかー？=Hmm... Tem alguém aí?
+助けてください……誰か……お願いします……=Alguém pode me ajudar? Por favor...
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

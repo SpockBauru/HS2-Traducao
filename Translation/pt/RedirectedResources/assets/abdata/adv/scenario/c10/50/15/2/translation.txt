@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=
+ふふ、貴方の部屋に、私の匂いが残ってしまいましたね……なんて、少し調子に乗り過ぎでしょうか。=Hehe. Parece que deixei meu cheiro forte em sua cama. Espero que não se importe.
 //汎用{0}=
-//貴方は何でもお見通しなのですね。ふふ、私が期待して部屋に来たこと……最初から分かっていたのですよね？=
-//もういっそ、ここで一緒に暮らしたいくらいです♪　えぇと、貴方さえよければ……私はそれなりに本気で……言っていますよ？=
-//さて、あまり長居してもご迷惑になってしまうので……とても名残惜しいですが、失礼いたします。後は……自分の部屋で、思い出してシます……=
+貴方は何でもお見通しなのですね。ふふ、私が期待して部屋に来たこと……最初から分かっていたのですよね？=Seu safado! Você sabia o que eu vim fazer aqui. Hehe, não que eu esteja reclamando, claro.
+もういっそ、ここで一緒に暮らしたいくらいです♪　えぇと、貴方さえよければ……私はそれなりに本気で……言っていますよ？=Somos uma dupla tão boa que talvez eu deva me mudar para cá! Er, se você não se importar, é claro? Estou falando sério, sabe?
+さて、あまり長居してもご迷惑になってしまうので……とても名残惜しいですが、失礼いたします。後は……自分の部屋で、思い出してシます……=Então, muito bem! Sei que ficar por aqui seria um fardo, portanto, embora me custe, vou embora. Vou... Terminar novamente em meu quarto.

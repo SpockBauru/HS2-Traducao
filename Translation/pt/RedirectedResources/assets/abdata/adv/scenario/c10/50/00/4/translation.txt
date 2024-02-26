@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//それは……ロマンチックですね。とても素敵だと思います。=
-//ふふ、貴方は……思いやりのある人なのですね。=
+それは……ロマンチックですね。とても素敵だと思います。=Que... Romântico. Você tem ideias esplêndidas.
+ふふ、貴方は……思いやりのある人なのですね。=Hehe, você é uma pessoa muito simpática.
 //好意{0}=Amor{0}
-//その、凄く参考になります。メモを取りたいくらいです。=
-//ふふ、貴方が楽しそうに話していると、私まで嬉しくなります。=
+その、凄く参考になります。メモを取りたいくらいです。=Vou me lembrar disso. Na verdade, acho que preciso pegar meu caderno.
+ふふ、貴方が楽しそうに話していると、私まで嬉しくなります。=Hehe! Nossas adoráveis conversas me deixam muito feliz!
 //享楽{0}=Excitada {0}
-//私は、自分に素直になるのが一番だと思いますよ。=
-//そこまで難しく考える話でも無いと思いますよ。行動あるのみです。=
+私は、自分に素直になるのが一番だと思いますよ。=Acho que é importante sermos honestos com nós mesmos, certo?
+そこまで難しく考える話でも無いと思いますよ。行動あるのみです。=Não vejo necessidade de pensar demais. Eu digo que a prática supera a teoria.
 //嫌悪{0}=Ódio {0}
-//貴方がそう思うのなら、そうなのではありませんか。=
-//つまらない話ですね。まぁ、そうそう面白い話ばかりでは無いのでしょうが……=
+貴方がそう思うのなら、そうなのではありませんか。=Se você acha que isso é verdade, então deve ser falso.
+つまらない話ですね。まぁ、そうそう面白い話ばかりでは無いのでしょうが……=Que chato. Não que esse tópico seja realmente interessante.
 //隷属{0}=Submissa {0}
-//そうですねぇ……お気持ち、よく分かります。=
-//こういう話は、聞いていると幸せな気分になりますね。=
+そうですねぇ……お気持ち、よく分かります。=Interessante... Entendo muito bem esse ponto de vista.
+こういう話は、聞いていると幸せな気分になりますね。=Ouvir esse tipo de conversa me enche de uma sensação de satisfação absoluta!

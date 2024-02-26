@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//す、すみません。大変申し上げにくいのですが……その、少々お手洗いに寄らせて頂いても……よろしいでしょうか？=
-//あ、あの……こんな事を言ったら、引かれてしまうかもしれないのですが……お、お手洗いに、行かせてください……=
-//ん……少し、催してしまったようです。気分が高まっているからですかね……少々お手洗いが近くて……困りましたね。=
-//すみません。先にお手洗いに行かせて頂きます。変な事は考えずに、こちらでお待ちください。=
-//その……このままだと、貴方に大変な迷惑をかけてしまうと思うので……い、一度お手洗いに行ってきます。つ、ついてきては……ダメですよ？=
+す、すみません。大変申し上げにくいのですが……その、少々お手洗いに寄らせて頂いても……よろしいでしょうか？=Minhas desculpas... É difícil falar sobre isso, mas... Acho que preciso do banheiro. Posso ir?
+あ、あの……こんな事を言ったら、引かれてしまうかもしれないのですが……お、お手洗いに、行かせてください……=E-Erm... Isso pode ser um pouco desagradável, mas... Eu preciso usar o banheiro feminino.
+ん……少し、催してしまったようです。気分が高まっているからですかね……少々お手洗いが近くて……困りましたね。=Humm... Acho que talvez a minha empolgação tenha, erm... Tornado iminente a minha próxima visita ao banheiro.
+すみません。先にお手洗いに行かせて頂きます。変な事は考えずに、こちらでお待ちください。=Peço desculpas, mas preciso usar o banheiro feminino. Espere aqui e não faça nada engraçado.
+その……このままだと、貴方に大変な迷惑をかけてしまうと思うので……い、一度お手洗いに行ってきます。つ、ついてきては……ダメですよ？=Erm... Eu realmente preciso ir ao banheiro feminino. Caso contrário, as coisas podem dar... Errado. D-Não me siga até lá, sim?
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

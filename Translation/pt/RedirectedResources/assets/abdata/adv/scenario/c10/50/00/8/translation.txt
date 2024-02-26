@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//色々お話できて楽しかったです。貴方のことが、少し分かった気がします。=
-//会話だけでも、大分時間を使ってしまいましたね。ご迷惑ではなかったですか？=
+色々お話できて楽しかったです。貴方のことが、少し分かった気がします。=Fico feliz por termos tido uma conversa tão estimulante e acho que aprendi algo sobre você.
+会話だけでも、大分時間を使ってしまいましたね。ご迷惑ではなかったですか？=Olha só a hora! E passamos o tempo todo conversando como duas maritacas! Você se incomodou?
 //好意{0}=Amor{0}
-//お話、すごく面白かったです。色々と参考になることもありましたし、とても有意義な時間でした。=
-//時間が経つのも忘れるとは、こういう事を言うのですね。できればずっと貴方と、お話していたかったです。=
+お話、すごく面白かったです。色々と参考になることもありましたし、とても有意義な時間でした。=Que bate-papo divertido e um uso construtivo do tempo, não é mesmo? Aprendi muito hoje.
+時間が経つのも忘れるとは、こういう事を言うのですね。できればずっと貴方と、お話していたかったです。=Acho que é isso que os sábios querem dizer quando afirmam que "o tempo voa quando você está se divertindo". Eu adoraria conversar para sempre!
 //享楽{0}=Excitada {0}
-//お話だけで終わってしまうのは、少し勿体ないですね。やっと身体が、温まってきたところだったのですが……=
-//貴方のお話は、なかなか興味深いものが多かったです。もっと色々、貴方を知りたくなりました。=
+お話だけで終わってしまうのは、少し勿体ないですね。やっと身体が、温まってきたところだったのですが……=Estou um pouco desapontada por estarmos parando com apenas um bate-papo hoje. Eu, erm... Acabei de me aquecer, se é que você me entende.
+貴方のお話は、なかなか興味深いものが多かったです。もっと色々、貴方を知りたくなりました。=Você apresentou vários pontos fascinantes hoje. Eu adoraria ter outro desses encontros em breve.
 //嫌悪{0}=Ódio {0}
-//ふぅ……少し肩が凝りました。やはりジっとお話しているだけでは、身体にも良くないようですね。=
-//言いたいことは全部言い切れましたか？　あまり何度もお話したくはないので、未練がましい真似はやめてくださいね。=
+ふぅ……少し肩が凝りました。やはりジっとお話しているだけでは、身体にも良くないようですね。=Ufa... Meu pescoço está todo rígido. Ficar sentado tagarelando o dia todo não é saudável, certo?
+言いたいことは全部言い切れましたか？　あまり何度もお話したくはないので、未練がましい真似はやめてくださいね。=Já disse o que tinha a dizer, não é? Prefiro não falar novamente, portanto, tire tudo isso da sua cabeça agora.
 //隷属{0}=Submissa {0}
-//あ……もうお話は終わりですか？　少し、残念ですね……まだまだ色々、お話したいと思っていたので……=
-//私とお話をして頂いて、ありがとうございました。もし、退屈にさせてしまっていたら……申し訳ございません。=
+あ……もうお話は終わりですか？　少し、残念ですね……まだまだ色々、お話したいと思っていたので……=Ah... Já terminamos? É uma pena, eu tinha muito mais coisas para falar com você.
+私とお話をして頂いて、ありがとうございました。もし、退屈にさせてしまっていたら……申し訳ございません。=Brigado por me fazer companhia! E, erm... Peço desculpas se o aborreci.

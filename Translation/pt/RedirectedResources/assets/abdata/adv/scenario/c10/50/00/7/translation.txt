@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//まぁっ、そんなことまで……刺激的ですね……=
-//えっと、趣味は人それぞれですから……=
+まぁっ、そんなことまで……刺激的ですね……=Hm. Essa é uma ideia bastante... Estimulante.
+えっと、趣味は人それぞれですから……=Erm... Todo mundo tem seus próprios hobbies. Não vou julgar.
 //好意{0}=Amor{0}
-//そういうのが、お好きなんですね……覚えておきます。=
-//だ、大胆ですね……少し、憧れてしまいます。=
+そういうのが、お好きなんですね……覚えておきます。=Então é disso que você gosta? Vou me lembrar disso.
+だ、大胆ですね……少し、憧れてしまいます。=Que ousadia... Estou um pouco admirada com você.
 //享楽{0}=Excitada {0}
-//はぁ、なんだか身体が、熱くなってきました。=
-//ふふ、とても楽しそうに話すのですね。=
+はぁ、なんだか身体が、熱くなってきました。=Ah, Meu corpo está ficando quente.
+ふふ、とても楽しそうに話すのですね。=Hehe, você realmente parece gostar de falar sobre esse assunto, não é?
 //嫌悪{0}=Ódio {0}
-//そういう話しかできないのですか？　正直に言って、不快です。=
-//盛り上がっているところ悪いですが……この話、いつまで続きますか？=
+そういう話しかできないのですか？　正直に言って、不快です。=Essa é a única coisa sobre a qual você pode falar? Honestamente? Você me dá nojo.
+盛り上がっているところ悪いですが……この話、いつまで続きますか？=Desculpe interromper quando você está tão animado, mas... Por quanto tempo você vai continuar divagando?
 //隷属{0}=Submissa {0}
-//凄いですね。私も見習いたいです。=
-//なんと言うか……は、恥ずかしくなってきました。=
+凄いですね。私も見習いたいです。=Incrível. Preciso aprender com seu exemplo.
+なんと言うか……は、恥ずかしくなってきました。=Como posso dizer isso... Estou ficando um pouco confusa aqui.

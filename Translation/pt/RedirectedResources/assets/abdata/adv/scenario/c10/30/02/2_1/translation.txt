@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//悩み所ですね……貴方はどう思いますか？=
-//貴方の意見を聞いてみたいです。遠慮なさらず、どうぞ……=
-//この場合……貴方なら、面白いことを言ってくれそうですね。どうですか？=
-//あまり気は進みませんが……貴方はどう思っているか、聞いてもいいですか？=
-//まずは、貴方の意見を聞きたいです。色々と参考にしたいので……=
+悩み所ですね……貴方はどう思いますか？=Uma decisão difícil... O que você acha?
+貴方の意見を聞いてみたいです。遠慮なさらず、どうぞ……=Gostaria muito de ouvir sua opinião. Não seja tímido, diga logo.
+この場合……貴方なら、面白いことを言ってくれそうですね。どうですか？=Acho que... Você seria uma boa pessoa para perguntar. O que você acha?
+あまり気は進みませんが……貴方はどう思っているか、聞いてもいいですか？=Sei que vou me arrepender de perguntar, mas... O que você acha?
+まずは、貴方の意見を聞きたいです。色々と参考にしたいので……=Gostaria de começar ouvindo sua opinião. Tenho certeza de que ela será útil.

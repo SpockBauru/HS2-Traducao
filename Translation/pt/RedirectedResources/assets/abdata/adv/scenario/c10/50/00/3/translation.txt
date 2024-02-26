@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//あら……そうですか？　また、何かありましたら、お気軽に声をかけてくださいね。=
-//ふふ、おかしな人ですね。私、からかわれてしまいましたか？　なんて……怒っているわけではありませんので、安心してください。=
+あら……そうですか？　また、何かありましたら、お気軽に声をかけてくださいね。=Ah... Sério? Se precisar de alguma coisa, fique à vontade para perguntar.
+ふふ、おかしな人ですね。私、からかわれてしまいましたか？　なんて……怒っているわけではありませんので、安心してください。=Hehe, que pessoa estranha. Está me provocando? Hah, não estou com raiva, não se preocupe.
 //好意{0}=Amor{0}
-//私の考え過ぎかもしれませんが……何か私に出来ることがあれば、また話しかけてください。=
-//そうですか……お話だけでもと思ったのですが……いえ、なんでもありません。=
+私の考え過ぎかもしれませんが……何か私に出来ることがあれば、また話しかけてください。=Talvez eu esteja pensando demais nisso, mas se houver algo de que você precise e que tenha dificuldade de dizer, fique à vontade para perguntar.
+そうですか……お話だけでもと思ったのですが……いえ、なんでもありません。=Entendo... Achei que poderíamos pelo menos ter uma conversa agradável, mas... Ah, bem.
 //享楽{0}=Excitada {0}
-//あら、フラれてしまいましたか。いいお相手が見つからなかったら……私はいつでも待っていますよ。=
-//なんでもないは……寂しいですね。いえ、私が勝手に期待していただけなので……気にしないでください。=
+あら、フラれてしまいましたか。いいお相手が見つからなかったら……私はいつでも待っていますよ。=Oh. Fui rejeitada? Se não conseguir encontrar uma parceira melhor, estarei aqui esperando.
+なんでもないは……寂しいですね。いえ、私が勝手に期待していただけなので……気にしないでください。=Nada? Que triste para mim. Ah, isso é culpa minha por ter criado expectativas. Não se preocupe.
 //嫌悪{0}=Ódio {0}
-//はぁ……冷やかしはお断りです。本当に貴方という人は……不愉快です。=
-//私をおちょくって楽しいですか？　随分素敵な趣味をお持ちのようで……理解は一切できませんが。=
+はぁ……冷やかしはお断りです。本当に貴方という人は……不愉快です。=*affe* Não gosto de ser provocada. Você realmente é bom em estragar todo o meu bom humor, sabia?
+私をおちょくって楽しいですか？　随分素敵な趣味をお持ちのようで……理解は一切できませんが。=Que hábito repugnantemente você tem. Você gosta de me incomodar? Eu não consigo entender você, seu miserável sem personalidade.
 //隷属{0}=Submissa {0}
-//えっと、本当に何も用は無い……ということでいいのですよね？　ふ、フリなどは……正直よく分からないので……=
-//う……私は用無しですか？　冷たく扱われるのには慣れているつもりでしたが……少し、切ないですね。=
+えっと、本当に何も用は無い……ということでいいのですよね？　ふ、フリなどは……正直よく分からないので……=Erm... Nada? Tem certeza? Isso não é uma provocação, certo? Estou tão confusa.
+う……私は用無しですか？　冷たく扱われるのには慣れているつもりでしたが……少し、切ないですね。=*aaain* Você não precisa de mim? Estou acostumada a ser tratada com frieza, mas isso é um pouco deprimente.

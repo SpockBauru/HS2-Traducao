@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//つまりそれは……凄いことですね！=
-//そこまでは……私にはできそうにありません。=
+つまりそれは……凄いことですね！=Em resumo... Magnífico!
+そこまでは……私にはできそうにありません。=Não tenho certeza se posso ir tão longe.
 //好意{0}=Amor{0}
-//それは刹那的というか……別に否定はしませんが……=
-//あ、改めて……貴方の凄さを実感しました。=
+それは刹那的というか……別に否定はしませんが……=Uma alegria efêmera... Não que eu negue sua eficácia.
+あ、改めて……貴方の凄さを実感しました。=Mais uma vez, estou admirada com você.
 //享楽{0}=Excitada {0}
-//そうですね。結局は楽しんだもの勝ちですから。=
-//私、そういうお話は大好きです。ふふ♪=
+そうですね。結局は楽しんだもの勝ちですから。=Entendo... Portanto, no final, vence aquele que mais aproveita a vida.
+私、そういうお話は大好きです。ふふ♪=Ah, eu adoro esse tipo de tópico. Hehe ♪
 //嫌悪{0}=Ódio {0}
-//その、全然楽しくありませんが……どこが面白いのです？=
-//悪趣味ですね……自慢気に語るようなことでは無いと思います。=
+その、全然楽しくありませんが……どこが面白いのです？=Sua conversa é extremamente maçante. Qual é a graça disso?
+悪趣味ですね……自慢気に語るようなことでは無いと思います。=Que hobbies horríveis você tem. Eu evitaria me gabar deles no futuro.
 //隷属{0}=Submissa {0}
-//えぇと、私には真似できそうにありませんね……=
-//やはり貴方は、私には無いものを持っているようです。=
+えぇと、私には真似できそうにありませんね……=Erm... Acho que não conseguiria fazer isso.
+やはり貴方は、私には無いものを持っているようです。=Eu sabia disso. Você possui todas as qualidades que me faltam.

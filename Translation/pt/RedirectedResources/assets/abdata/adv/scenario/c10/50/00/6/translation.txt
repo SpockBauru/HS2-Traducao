@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//どうなのでしょう……何とも言えませんね。=
-//貴方は少し、素直過ぎるのかもしれません。=
+どうなのでしょう……何とも言えませんね。=O que você acha. Sinceramente, não tenho opinião.
+貴方は少し、素直過ぎるのかもしれません。=Acho que você pode ser um pouco honesto demais.
 //好意{0}=Amor{0}
-//私の知らない世界ですね……よく、調べておきます。=
-//あ、貴方の趣味は否定しませんよ。理解できるよう頑張ります。=
+私の知らない世界ですね……よく、調べておきます。=Você fala de um mundo sobre o qual não sei nada. Vou dar uma olhada nele.
+あ、貴方の趣味は否定しませんよ。理解できるよう頑張ります。=Ah. Não posso rejeitar seus gostos completamente. Na verdade, farei o possível para entendê-los.
 //享楽{0}=Excitada {0}
-//それは少し……理解に苦しみますね。=
-//貴方も、大分歪んでいるようですね。=
+それは少し……理解に苦しみますね。=Isso está... Um pouco além do meu alcance.
+貴方も、大分歪んでいるようですね。=Você também é bastante pervertido, não é?
 //嫌悪{0}=Ódio {0}
-//それ、本当ですか？　流石に少し、引きました……=
-//もうその話はやめましょう。聞いていて気持ち悪いです。=
+それ、本当ですか？　流石に少し、引きました……=Está falando sério? Isso é... Perturbador.
+もうその話はやめましょう。聞いていて気持ち悪いです。=Podemos parar de falar sobre isso? Isso está me fazendo engasgar.
 //隷属{0}=Submissa {0}
-//お気持ち、分かります！　もう痛いほどに……=
-//ふふ、貴方の感性は、私に似ているようですね。=
+お気持ち、分かります！　もう痛いほどに……=Eu entendo perfeitamente! Tanto que quase me dói.
+ふふ、貴方の感性は、私に似ているようですね。=Haha, acho que suas inclinações e as minhas coincidem.

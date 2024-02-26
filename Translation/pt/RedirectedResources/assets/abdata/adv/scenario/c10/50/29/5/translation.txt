@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ひゃっ！？　何故ここにいるのですかっ！？　うぅ、心の準備が……=
-//……へ？　あ……えぇと……大胆ですね。うぅ……私以外には、こんなことしたらダメですよ……=
-//まぁ、まさかの登場……ですね。一緒に汗を流したかったのですか？　なんて……それだけのわけ、ありませんよね？=
-//えっ！　なっ！　何を考えているのですか！？　本当にもう、最低ですね……=
-//きゃうっ！？　び、びっくりしました……もう、心臓に悪いです。=
+ひゃっ！？　何故ここにいるのですかっ！？　うぅ、心の準備が……=Heep! O que está fazendo aqui? Pelo menos se apresente!
+……へ？　あ……えぇと……大胆ですね。うぅ……私以外には、こんなことしたらダメですよ……=... Hrm? Ah... Erm... Você é ousado, né? Urk... Eu não recomendaria tentar isso com mais ninguém.
+まぁ、まさかの登場……ですね。一緒に汗を流したかったのですか？　なんて……それだけのわけ、ありませんよね？=Eu não esperava por isso, mas você quer tomar banho? Claro que não! Não é só isso que você quer, certo?
+えっ！　なっ！　何を考えているのですか！？　本当にもう、最低ですね……=Urk! O quê?! O QUE ESTÁ PENSANDO?! Você é realmente um ser humano horrível!
+きゃうっ！？　び、びっくりしました……もう、心臓に悪いです。=Eeeep! Você me assustou! Realmente, isso é ruim para o meu coração!

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //会話事後B普通{0}=
-//色々お話できて楽しかったですね♪　意見の交換は、やはり大事です。=
-//貴方のおかげで、また違った見かたができそうです。お話できて良かったです。=
+色々お話できて楽しかったですね♪　意見の交換は、やはり大事です。=Fico feliz por termos tido uma conversa tão agradável! Não é educativo trocar opiniões?
+貴方のおかげで、また違った見かたができそうです。お話できて良かったです。=Graças a você, aprendi uma nova maneira de ver as coisas. Fico feliz por termos tido essa pequena conversa.
 //会話事後B好意{0}=
-//貴方の言葉、全て参考にさせて頂きます。どれも貴重なご意見ばかりで、まとめるのが大変そうですが。=
-//うぅ、メモを取っておけば良かったです。とにかくお話するのが楽しくて……貴方の言葉を、聞き逃していた部分があるかもしれません。=
+貴方の言葉、全て参考にさせて頂きます。どれも貴重なご意見ばかりで、まとめるのが大変そうですが。=Vou me certificar de anotar tudo o que você disse. São todos detalhes fascinantes.
+うぅ、メモを取っておけば良かったです。とにかくお話するのが楽しくて……貴方の言葉を、聞き逃していた部分があるかもしれません。=Urk... Eu deveria ter feito anotações! Eu estava me divertindo muito... E me agarrando a cada palavra sua.
 //会話事後B享楽{0}=
-//三人でお喋りも楽しいものですね。特に貴方のお話は、凄く面白かったです。=
-//こうして、みんなでお話するだけでも、十分なストレス解消になりますね。なんだかスッキリしました。=
+三人でお喋りも楽しいものですね。特に貴方のお話は、凄く面白かったです。=Essas pequenas reuniões são deliciosas, não é? Especialmente quando você dá sua opinião. Pensamentos fascinantes, de fato.
+こうして、みんなでお話するだけでも、十分なストレス解消になりますね。なんだかスッキリしました。=Ter uma conversa amigável é uma ótima maneira de aliviar o estresse, certo? Estou me sentindo tão... Revigorada!
 //会話事後B嫌悪{0}=
-//少しですが、見聞は広まったと思います。貴方の意見も……まぁ、参考程度にはなりました。=
-//それなりに有意義が話ができたのではないでしょうか？　最初から高望みはしないのが吉ですね。=
+少しですが、見聞は広まったと思います。貴方の意見も……まぁ、参考程度にはなりました。=Sinto que aprendi... Alguma coisa hoje. Se sua opinião foi valiosa, ou não... Bem, vou considerá-la.
+それなりに有意義が話ができたのではないでしょうか？　最初から高望みはしないのが吉ですね。=Acredito que não tenha sido uma completa perda de tempo. É claro que minhas expectativas começaram na sarjeta.
 //会話事後B隷属{0}=
-//私、お二人の邪魔になっていませんでしたよね？　それだけでも、確認しておきたくて……=
-//貴方の意見は、どれも素晴らしかったです。私には無い物を、たくさん持っていらっしゃるのですね。=
+私、お二人の邪魔になっていませんでしたよね？　それだけでも、確認しておきたくて……=Espero que eu não tenha sido chata. Por favor, me avise se eu tiver sido...
+貴方の意見は、どれも素晴らしかったです。私には無い物を、たくさん持っていらっしゃるのですね。=A maneira como você pensa é fascinante! Você tem tanta percepção que me falta.

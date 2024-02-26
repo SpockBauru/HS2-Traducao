@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//美味しいお酒と、ムードの良いプールと、本当に至れり尽くせりですね。=
-//貴方はお酒とプール……どちらを楽しみにして来たのですか？=
-//それとも、私と同じで……もっと気持ちいいことを期待していましたか？=
-//妖艶な綺麗さと言えば良いのでしょうか……ここはそんな場所ですね。=
-//身体が火照ってしまっても、すぐにプールで冷やすことができますし……=
-//どうですか？　少し私と……熱くなるようなことをしてみませんか？=
-//お酒にしますか？　プールにしますか？　それとも……私ですか？=
-//なんて……ここはムードが良すぎて、少し変な気分になっているようです。=
-//ふふ、でも今の質問は……どう答えて頂いてもよろしいのですよ？=
+美味しいお酒と、ムードの良いプールと、本当に至れり尽くせりですね。=Drinques finos, uma piscina romântica, não deixou nada a desejar.
+貴方はお酒とプール……どちらを楽しみにして来たのですか？=O que você mais deseja: o vinho ou a água?
+それとも、私と同じで……もっと気持ちいいことを期待していましたか？=Ou você está ansioso para fazer algo ainda mais prazeroso comigo?
+妖艶な綺麗さと言えば良いのでしょうか……ここはそんな場所ですね。=A beleza desse lugar é de outro mundo, acho que se pode dizer. Esse é o tipo de lugar que é.
+身体が火照ってしまっても、すぐにプールで冷やすことができますし……=Um mergulho rápido na piscina também pode refrescar você se ficar superaquecido.
+どうですか？　少し私と……熱くなるようなことをしてみませんか？=Então, o que você acha? Quer ficar um pouco mais quente comigo?
+お酒にしますか？　プールにしますか？　それとも……私ですか？=Gostaria de tomar um drinque? Ou um mergulho? Ou... Eu?
+なんて……ここはムードが良すぎて、少し変な気分になっているようです。=Hah! Que frase clássica. Realmente, o clima deste lugar está me afetando.
+ふふ、でも今の質問は……どう答えて頂いてもよろしいのですよ？=Hehe, você ainda não respondeu à minha pergunta. Qual será?

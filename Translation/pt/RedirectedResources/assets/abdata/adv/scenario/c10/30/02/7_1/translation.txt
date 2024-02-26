@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答B普通{0}=
-//また、気が変わったら……いつでも声をかけてください。私達は待ってますよ。=
-//私達、入りにくい空気を作ってしまっていましたか？　だとしたら……すみません。=
+また、気が変わったら……いつでも声をかけてください。私達は待ってますよ。=Se você mudar de ideia, nós estaremos aqui. Pelo menos por um tempo.
+私達、入りにくい空気を作ってしまっていましたか？　だとしたら……すみません。=Desculpe, estávamos irradiando uma aura de "fique longe!"? Se sim, peço desculpas.
 //なんでもない返答B好意{0}=
-//何か、考え過ぎていないですか？　私達は別に、貴方を拒んだりしませんよ？=
-//あの……後でこちらから伺わせていただきます。余計なお世話で……なければですが……=
+何か、考え過ぎていないですか？　私達は別に、貴方を拒んだりしませんよ？=Está preocupado se vai nos incomodar? Por favor, não, nós duas gostamos de sua companhia.
+あの……後でこちらから伺わせていただきます。余計なお世話で……なければですが……=Erm... Vou procurá-lo mais tarde, então. A menos que minha companhia não seja bem-vinda...
 //なんでもない返答B享楽{0}=
-//本当にいいのですか？　後で後悔しませんか？　もう一度考えてみてもいいのですよ？=
-//貴方がそれでいいのなら、私は止めませんが……何か思い出したら、また来てください。=
+本当にいいのですか？　後で後悔しませんか？　もう一度考えてみてもいいのですよ？=Tem certeza de que não precisa de nada? Não vá se for se arrepender depois. De qualquer forma, pense melhor.
+貴方がそれでいいのなら、私は止めませんが……何か思い出したら、また来てください。=Se você não se importa em ir embora, não vou impedi-lo. Passe por aqui novamente se você se lembrar do que queria.
 //なんでもない返答B嫌悪{0}=
-//なんですか？　嫌がらせですか？　貴方のそういうところ、本当に迷惑です。=
-//意味不明ですね。私達に用が無いのなら、早く他のところへ行ったらどうですか？=
+なんですか？　嫌がらせですか？　貴方のそういうところ、本当に迷惑です。=Sim? O que é isso, uma tentativa de nos provocar? De todas as coisas que odeio em você, essa está no topo da lista.
+意味不明ですね。私達に用が無いのなら、早く他のところへ行ったらどうですか？=Você é incompreensível. Se não tem motivos para nos incomodar, então porque não vai embora?
 //なんでもない返答B隷属{0}=
-//なんだか、意味深ですね？　本当は何かあるのでは？　少し、気になってしまいますね……=
-//話に入るのって、勇気がいりますよね。私も、他人のことは言えませんが……三人でお話したら、きっと楽しいと思いますよ？=
+なんだか、意味深ですね？　本当は何かあるのでは？　少し、気になってしまいますね……=Isso é... Interessante. Tem certeza de que não precisa de nada? Ah, droga, agora estou morrendo de vontade de saber o que é!
+話に入るのって、勇気がいりますよね。私も、他人のことは言えませんが……三人でお話したら、きっと楽しいと思いますよ？=É difícil criar coragem para participar de uma conversa, não é? Ainda assim, aposto que nós três nos divertiríamos muito.

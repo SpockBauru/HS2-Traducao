@@ -1,4 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-な、なにか都合が悪かったのでしょうか？　えぇと、私の部屋なら、特に問題はありませんので……次はその、そちらでしましょうか？=Há algo errado? Bem, se for o meu quarto, não há problema... Devemos fazer o próximo lá?

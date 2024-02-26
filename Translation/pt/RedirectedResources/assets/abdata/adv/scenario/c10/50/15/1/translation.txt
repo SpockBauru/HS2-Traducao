@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//はぁ……良かったです。その、私とお話……しませんか？=
+はぁ……良かったです。その、私とお話……しませんか？=Ah, que alegria! Você está em casa. Gostaria de se juntar a mim para uma conversa agradável?
 //好意50_汎用{0}=
-//お邪魔します。貴方の部屋……ドキドキするのに落ち着くような、不思議な感覚です。=
-//本当に大丈夫ですか？　いえ、やはり一緒にいたいです。情緒不安定ですみません。=
-//また……来てしまいました♪　お話などさせて頂けると、嬉しいです。=
+お邪魔します。貴方の部屋……ドキドキするのに落ち着くような、不思議な感覚です。=Espero que não se importe que eu me intrometa. Meu coração bate acelerado e, ainda assim, me sinto tão à vontade. Que estranho.
+本当に大丈夫ですか？　いえ、やはり一緒にいたいです。情緒不安定ですみません。=Tem certeza de que tem tempo disponível? Não, ignore isso, eu insisto que você tenha. Desculpe-me pela hesitação.
+また……来てしまいました♪　お話などさせて頂けると、嬉しいです。=E... Estou de volta♪ É um prazer sentar e bater um papo descontraído com você.
 ・・・・・=...
 //好意50続き{0}=
-//貴方と一緒の時間は、とても有意義に感じます。しかも、貴方の部屋でなら尚更……その、また来ても……いいですか？=
-//貴方のお部屋での貴重な時間を、私のためだけに使って頂けるなんて……本当に私は、幸せ者ですね。=
-//楽しい時間はあっという間ですね。お話だけでも、とても楽しく過ごせました♪　貴方は……退屈でしたか？=
-//どうも……貴方の顔が、どうしても見たくなってしまって……ご迷惑でしたか？=
+貴方と一緒の時間は、とても有意義に感じます。しかも、貴方の部屋でなら尚更……その、また来ても……いいですか？=Estar com você é uma maneira extremamente construtiva de passar meu tempo. Posso... Visitá-lo novamente?
+貴方のお部屋での貴重な時間を、私のためだけに使って頂けるなんて……本当に私は、幸せ者ですね。=Sou realmente abençoada por ter a oportunidade de passar um tempo com você em seu quarto. Realmente, estou muito feliz.
+楽しい時間はあっという間ですね。お話だけでも、とても楽しく過ごせました♪　貴方は……退屈でしたか？=O tempo voa quando você está se divertindo e, embora tudo o que tenhamos feito tenha sido conversar, ele voou na velocidade de um jato ♪ Você também se divertiu?
+どうも……貴方の顔が、どうしても見たくなってしまって……ご迷惑でしたか？=Eu simplesmente desejava ouvir sua voz. Isso é tão errado assim?
 //好意80_汎用{0}=

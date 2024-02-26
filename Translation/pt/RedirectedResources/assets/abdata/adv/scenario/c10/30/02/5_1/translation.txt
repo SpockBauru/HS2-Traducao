@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //HしようB普通{0}=
-//あぁえぇと……お二人がＯＫなら、自動的に私も……いえ、流されてというわけではなく。きちんと自分の意思ですので。=
-//だ、大胆ですね……三人でするなんて、恥ずかしさはもちろんありますが……きょ、興味が無いわけではありません。=
+あぁえぇと……お二人がＯＫなら、自動的に私も……いえ、流されてというわけではなく。きちんと自分の意思ですので。=Ah, erm... Se vocês dois disserem sim, então suponho que naturalmente eu também direi. Não por educação, é claro, mas por interesse.
+だ、大胆ですね……三人でするなんて、恥ずかしさはもちろんありますが……きょ、興味が無いわけではありません。=Que ousadia! Tenho certeza de que será um pouco estranho no começo, mas... Não me oponho à ideia, não!
 //HしようB好意{0}=
-//三人は……少し予想外ですが。貴方とできるなら、私は問題ありません。お二人とも、よろしくお願いします。=
-//本当は……二人きりでしたかったのですが。それはただの私の我儘なので……いいですよ、三人でしましょうか。=
+三人は……少し予想外ですが。貴方とできるなら、私は問題ありません。お二人とも、よろしくお願いします。=Essa é... Uma proposta inesperada. E, no entanto, se isso significa que posso ficar com você... Claro que sim. Vamos nos divertir.
+本当は……二人きりでしたかったのですが。それはただの私の我儘なので……いいですよ、三人でしましょうか。=Eu... Preferiria muito mais um ambiente mais íntimo, mas isso é egoísmo da minha parte. Muito bem! Que venha o ménage!
 //HしようB享楽{0}=
-//はしたないと思われるかもしれませんが、願ってもないお誘いです。私だけ仲間外れにされたら、逆に恨みますよ。=
-//三人で……これは、凄いことになりそうですね♪　私も是非、ご一緒させてください！=
+はしたないと思われるかもしれませんが、願ってもないお誘いです。私だけ仲間外れにされたら、逆に恨みますよ。=Você pode me achar um pouco exagerada por dizer isso, mas eu estava rezando exatamente por isso. Na verdade, eu ficaria zangada se você me deixasse de fora.
+三人で……これは、凄いことになりそうですね♪　私も是非、ご一緒させてください！=Um ménage à trois... Oh, isso será divertido! Terei o maior prazer em me juntar a vocês dois!
 //HしようB嫌悪{0}=
-//不本意ですが……貴方が暴走しないように、私が見張ることにします。興奮し過ぎた貴方が、何をするか分かったものではないですから。=
-//貴方を一人だけに任せるというのは、かなり酷な話なので……ここは私も、不承不承ながら参加いたします。=
+不本意ですが……貴方が暴走しないように、私が見張ることにします。興奮し過ぎた貴方が、何をするか分かったものではないですから。=Eu preferiria não fazer isso, mas acho melhor ficar de olho em você. Estou preocupada com o que você fará sem supervisão.
+貴方を一人だけに任せるというのは、かなり酷な話なので……ここは私も、不承不承ながら参加いたします。=Seria cruel da minha parte deixá-la sozinha para atender às suas exigências nojentas. Eu participarei, mas sob protesto.
 //HしようB隷属{0}=
-//お二人とも、あまり抵抗がないようなので……ここで私だけ恥ずかしがっていたら、冷めてしまいますよね？　わ、私も、参加させて頂きます！=
-//えぇと、これは三人でする流れですよね……わ、分かりました。少々緊張していますが……お二人の足を引っ張らないよう、頑張ります！=
+お二人とも、あまり抵抗がないようなので……ここで私だけ恥ずかしがっていたら、冷めてしまいますよね？　わ、私も、参加させて頂きます！=Nenhum de vocês parece muito resistente à ideia. Agora, se eu me opusesse, isso estragaria o clima, certo? Bem, estou dentro!
+えぇと、これは三人でする流れですよね……わ、分かりました。少々緊張していますが……お二人の足を引っ張らないよう、頑張ります！=Erm... Nós três, você quer dizer? M-Muito bem. Estou um pouco nervosa, mas... Darei o meu melhor!

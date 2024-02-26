@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//その……この後、まだお時間はありますか？　よろしければ……お話以外でも、貴方のことを教えてください。=
-//えぇと、いきなりこんなことを言うのは、はしたないと思われてしまうかもですが……この後、シませんか？=
+その……この後、まだお時間はありますか？　よろしければ……お話以外でも、貴方のことを教えてください。=Então... Você tem tempo depois disso? Se estiver tudo bem para você, eu preferiria fazer mais do que apenas conversar.
+えぇと、いきなりこんなことを言うのは、はしたないと思われてしまうかもですが……この後、シませんか？=Erm... Sei que isso está saindo do nada e pode ser um pouco indecente, mas... Você quer fazer sexo depois?
 //好意{0}=Amor{0}
-//あ、貴方さえよければなのですが。これでお別れは寂しいので……できれば、二人で気持ちよくなりながら、お話の続き……しませんか？=
-//あの……お話だけで帰ってしまわれるのですか？　身体の方は、もうすっかり準備できていますから……貴方ともっと、一緒にいさせてください。=
+あ、貴方さえよければなのですが。これでお別れは寂しいので……できれば、二人で気持ちよくなりながら、お話の続き……しませんか？=Eu me sentiria triste por deixar as coisas assim, então... Se estiver tudo bem para você, gostaria de... Continuar com o sexo?
+あの……お話だけで帰ってしまわれるのですか？　身体の方は、もうすっかり準備できていますから……貴方ともっと、一緒にいさせてください。=Erm... Vai embora tão cedo? Estou pronto para mais do que uma conversa e... Adoraria que você me fizesse companhia... Na cama.
 //享楽{0}=Excitada {0}
-//折角、会話でいい雰囲気にしたのに……このまま帰ってしまうのは勿体なくありませんか？　私なら……きっと貴方を満足させられますよ？=
+折角、会話でいい雰囲気にしたのに……このまま帰ってしまうのは勿体なくありませんか？　私なら……きっと貴方を満足させられますよ？=Agora que já criamos um clima, seria uma pena irmos para casa, certo? Tenho certeza de que posso satisfazê-lo!
 すみません……実はお話をしながら、ずっと疼いてしまっていて……少しだけでもいいので、鎮めるのを手伝って頂けませんか？=Desculpe-me... Na verdade, estou sempre ofegante enquanto falamos... Você pode me ajudar a acalmar isso, só por um minuto?
 //嫌悪{0}=Ódio {0}
-//貴方のつまらない話に付き合わされて、私はストレスが溜まってしまいました……ですので、今度は私のストレス解消に付き合ってもらいます。=
-//意外と臆病者なのですね。お話だけして終わりなんて……ここでは相手を馬鹿にしているのと同じですよ？=
+貴方のつまらない話に付き合わされて、私はストレスが溜まってしまいました……ですので、今度は私のストレス解消に付き合ってもらいます。=Ouvir sua conversa chata me deixou estressada, então você vai me ajudar a resolver isso. Tire suas calças, agora.
+意外と臆病者なのですね。お話だけして終わりなんて……ここでは相手を馬鹿にしているのと同じですよ？=Que covarde você é. Você acha que isso não vai acabar em nada além de conversa fiada? Está tentando me insultar?
 //隷属{0}=Submissa {0}
-//素敵なお話のお礼に……私にご奉仕させて頂けませんか？　絶対に、気持ちよくいたしますから。=
-//私……きっと上手くお話できていなかったと思うので。その、身体を使ってなら、少しは埋め合わせもできるかと思うのですが……=
+素敵なお話のお礼に……私にご奉仕させて頂けませんか？　絶対に、気持ちよくいたしますから。=Gostaria de lhe retribuir a boa conversa com... Um presente feliz, não é? Vai ser incrível, prometo.
+私……きっと上手くお話できていなかったと思うので。その、身体を使ってなら、少しは埋め合わせもできるかと思うのですが……=Eu... Não sou muito de conversar, portanto, recomendo que isso seja acompanhado de uma pitada de comunicação física.

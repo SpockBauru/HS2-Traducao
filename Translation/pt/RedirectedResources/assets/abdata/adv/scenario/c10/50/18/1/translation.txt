@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//えぇと……縄を解いていただけますか？　貴方なら、困っている人を見捨てるなんてことは……しませんよね？=
-//あ、あの……大変言いにくいのですが……にょ、尿意が少々……ありまして。できればあまり、お腹のあたりを刺激しないで頂けると……=
-//あ……恥ずかしながら、縄が自分では解けない状況でして……ふふ、これではまるで貴方を挑発しているようですね？=
-//一つだけ注意して欲しいことがありまして。お漏らしプレイなどがお好きなら問題ないのですが……そうでない場合は、好きになってもらえると嬉しいです。=
-//お互い、余計なことは考えないようにしましょう。その……今、助けて頂ければ……貴方のことを、少しは見直せると思うのですが……=
-//これは、お互いのための忠告です。よく聞いてください……私は今、その……我慢しています。さ、察して頂けましたか？=
-//すみません……これはその、変なプレイをしているわけではなくてですね。純粋に困っている状況でして……助けて頂けますか？=
-//先に……言っておきますね。もし……もしですよ？　限界まで我慢するのが前提ですが……私が、お、おもらししてしまったら……申し訳ございません。=
+えぇと……縄を解いていただけますか？　貴方なら、困っている人を見捨てるなんてことは……しませんよね？=Erm... Você poderia desamarrar essas cordas? Você não seria tão insensível a ponto de abandonar uma dama indefesa e necessitada, certo?
+あ、あの……大変言いにくいのですが……にょ、尿意が少々……ありまして。できればあまり、お腹のあたりを刺激しないで頂けると……=Olá. É um pouco embaraçoso admitir isso, mas... Preciso do banheiro feminino. Me puxe para fora, mas não toque na minha bexiga ok?
+あ……恥ずかしながら、縄が自分では解けない状況でして……ふふ、これではまるで貴方を挑発しているようですね？=Ah... Isso é constrangedor, mas não posso desfazer essas amarras sozinho. Hehe, temo que essas palavras simplesmente o encorajem.
+一つだけ注意して欲しいことがありまして。お漏らしプレイなどがお好きなら問題ないのですが……そうでない場合は、好きになってもらえると嬉しいです。=Um aviso: minha bexiga está quase estourando. Se você gosta desse tipo de coisa, ótimo. Se não, por que não aprender a gostar?
+お互い、余計なことは考えないようにしましょう。その……今、助けて頂ければ……貴方のことを、少しは見直せると思うのですが……=Não repare demais nessa situação. Ainda assim... Se você me ajudar, talvez eu mude minha opinião sobre você...
+これは、お互いのための忠告です。よく聞いてください……私は今、その……我慢しています。さ、察して頂けましたか？=Este é um aviso para o bem de nós dois, portanto, ouça bem. Mal estou conseguindo segurar. Você pode entender a dica, certo?
+すみません……これはその、変なプレイをしているわけではなくてですね。純粋に困っている状況でして……助けて頂けますか？=Com licença... Não há nenhum motivo oculto aqui, apenas um pouco de dificuldade com um pedaço de corda... Poderia me ajudar?
+先に……言っておきますね。もし……もしですよ？　限界まで我慢するのが前提ですが……私が、お、おもらししてしまったら……申し訳ございません。=Então... Hipoteticamente falando? Se eu segurasse tanto tempo que depois soltasse como uma represa, você me perdoaria? C-Certo?
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

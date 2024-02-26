@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリB普通{0}=
-//えぇと……私もまだ、ご一緒させて頂いてよろしいですか？　なんだか楽しくなりそうなので。=
-//ふふ、貴方が来ると、場が明るくなりますね。最早、一つの才能だと思います。=
+えぇと……私もまだ、ご一緒させて頂いてよろしいですか？　なんだか楽しくなりそうなので。=Erm... Tudo bem se eu ficar mais um pouco? Parece que as coisas estão se tornando divertidas.
+ふふ、貴方が来ると、場が明るくなりますね。最早、一つの才能だと思います。=Hehe, sua presença é uma luz na escuridão. É um de seus dons, na verdade.
 //前フリB好意{0}=
-//あ、私もいます。いて……いいですよね？　貴方とお話……したいので。=
-//貴方が来てくれて嬉しいです。ここからは三人で、楽しくお喋りをいたしましょう。=
+あ、私もいます。いて……いいですよね？　貴方とお話……したいので。=Ah, eu também estou aqui. Posso... Ficar? Eu gostaria de conversar com você.
+貴方が来てくれて嬉しいです。ここからは三人で、楽しくお喋りをいたしましょう。=Estou muito feliz por você estar aqui! Vamos desfrutar de uma conversa agradável, nós três.
 //前フリB享楽{0}=
-//お邪魔でなければ、まだ私もいさせてください。二人にご迷惑はかけませんので。=
-//貴方が来たということは、お話だけでは済みそうにありませんね。ふふ、いえ……特にお気になさず。=
+お邪魔でなければ、まだ私もいさせてください。二人にご迷惑はかけませんので。=Se eu não estiver incomodando, adoraria me juntar a vocês. Não serei um incômodo, prometo.
+貴方が来たということは、お話だけでは済みそうにありませんね。ふふ、いえ……特にお気になさず。=Agora que você está aqui, tenho certeza de que o dia não terminará apenas com uma conversa. Hehe, não se importe comigo, só estou pensando em voz alta.
 //前フリB嫌悪{0}=
-//本当に……目ざといというか、女性の匂いに敏感な人ですね。褒めてはいませんよ？=
-//もう、解散でいいのでは？　貴方がいると、話が変な方向に行きそうですし……=
+本当に……目ざといというか、女性の匂いに敏感な人ですね。褒めてはいませんよ？=Como posso dizer isso? Você é como um rinoceronte no cio, correndo em direção a qualquer cheiro de mulher. Isso não é um elogio.
+もう、解散でいいのでは？　貴方がいると、話が変な方向に行きそうですし……=Acho que está na hora de nos retirarmos. Com você por perto, é provável que a conversa tome um rumo estranho...
 //前フリB隷属{0}=
-//私は……お邪魔でしょうか？　できればその、仲間外れにはしないで頂けると嬉しいです。=
-//あ、私のことはお気になさらず。お二人で楽しくお話して頂ければ、私はそれを聞いていますので。=
+私は……お邪魔でしょうか？　できればその、仲間外れにはしないで頂けると嬉しいです。=Estou... Me intrometendo? Eu preferiria - se não for muito incômodo - não ser excluída.
+あ、私のことはお気になさらず。お二人で楽しくお話して頂ければ、私はそれを聞いていますので。=Ah. Não se importe comigo, ficarei aqui, ouvindo sua conversa com prazer.

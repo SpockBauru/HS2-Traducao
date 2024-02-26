@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //H事後A普通{0}=
-//さ、三人でするというのも……新鮮でいいかもしれませんね。なんだか、新しい世界が見えそうです。=
-//こういうことも、また経験ですね。折角ここで会った三人ですから……縁は大事にしていきたいです。=
+さ、三人でするというのも……新鮮でいいかもしれませんね。なんだか、新しい世界が見えそうです。=Fazer com três pessoas é bastante... Inovador, não é? Sinto que meus olhos se abriram para um mundo totalmente novo.
+こういうことも、また経験ですね。折角ここで会った三人ですから……縁は大事にしていきたいです。=Essa foi uma nova experiência. Fico feliz por tê-la compartilhado com vocês dois.
 //H事後A好意{0}=
-//当たり前ですが……皆様それぞれ感じ方が違うのですね。それが分かっただけでも、良かったです。=
-//今度は二人きりで……なんて抜け駆けはいたしません。また三人で、仲良くシたいですね。=
+当たり前ですが……皆様それぞれ感じ方が違うのですね。それが分かっただけでも、良かったです。=Sei que isso pode parecer óbvio, mas... É interessante como cada pessoa é sensível de uma maneira diferente. Aprendi uma coisa nova.
+今度は二人きりで……なんて抜け駆けはいたしません。また三人で、仲良くシたいですね。=Que tal tirar ela do jogo... É algo que eu nunca diria! Vamos fazer isso de novo, nós três.
 //H事後A享楽{0}=
-//はぁっ、一人増えただけで、全然違うものですね。凄く刺激的で……癖になってしまいそうです。=
-//また、三人でしましょうね？　色々試したいことが、たくさんできてしまったので♪=
+はぁっ、一人増えただけで、全然違うものですね。凄く刺激的で……癖になってしまいそうです。=Ahh, com uma a mais é uma experiência totalmente diferente. Foi tão único, tão... Delicioso.
+また、三人でしましょうね？　色々試したいことが、たくさんできてしまったので♪=Vamos fazer outro ménage à trois em breve, sim? Tenho uma lista completa de coisas que gostaria de experimentar ♪
 //H事後A嫌悪{0}=
-//無事終了……でいいのですかね。まぁ、貴方以外がいた方が……楽しみやすいことは分かりました。=
-//貴方は贅沢者ですね。こんな機会、そうそう無いと思いますので……今日の幸運を、良く噛み締めるといいですよ。=
+無事終了……でいいのですかね。まぁ、貴方以外がいた方が……楽しみやすいことは分かりました。=Acabou. Hmph. Teria sido muito melhor se você não estivesse envolvido.
+貴方は贅沢者ですね。こんな機会、そうそう無いと思いますので……今日の幸運を、良く噛み締めるといいですよ。=Que sorte a sua - chances como essa não aparecem com frequência. Agradeça sua boa sorte.
 //H事後A隷属{0}=
-//お二人とも……凄かったですね。私は常に圧倒されて……お邪魔になっていなかったか、心配です……=
-//正直、始める前はどうなるかと心配だったのですが……終わってみると、とても良かったですね。=
+お二人とも……凄かったですね。私は常に圧倒されて……お邪魔になっていなかったか、心配です……=Vocês dois foram incríveis. Fiquei de queixo caído! Só espero que eu não tenha sido um obstáculo.
+正直、始める前はどうなるかと心配だったのですが……終わってみると、とても良かったですね。=Para ser sincera, eu não tinha certeza de como tudo isso funcionaria. Mas tudo está bem quando acaba bem, certo?

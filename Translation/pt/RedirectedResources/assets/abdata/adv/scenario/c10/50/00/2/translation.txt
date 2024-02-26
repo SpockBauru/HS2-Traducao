@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//ぁ……随分ストレートに言われるのですね。分かりました、それだけ欲求が溜まっている……ということですものね。=
-//い、いいですよ。ですがその、女性を誘う時は……もう少し雰囲気も大事にした方が良いかと……=
+ぁ……随分ストレートに言われるのですね。分かりました、それだけ欲求が溜まっている……ということですものね。=Ah... Você foi direto ao ponto. Muito bem. Eu também estou bastante... Excitada.
+い、いいですよ。ですがその、女性を誘う時は……もう少し雰囲気も大事にした方が良いかと……=M-Muito bem, eu adoraria. Mas, da próxima vez que propuser uma garota... Não seria melhor preparar um pouco melhor o ambiente antes?
 //好意{0}=Amor{0}
-//は、はい！　不束者ですが、よろしくお願いいたします。って……なんだか少し大袈裟に言ってしまいましたね。=
-//わ、私でいいのですか？　いえ、嫌とかではなくて……むしろ逆です。とても嬉しいです。=
+は、はい！　不束者ですが、よろしくお願いいたします。って……なんだか少し大袈裟に言ってしまいましたね。=Sim! Embora eu saiba que não sou nada de especial, vou dar o meu melhor! Urk. Acho que fui um pouco insegura demais.
+わ、私でいいのですか？　いえ、嫌とかではなくて……むしろ逆です。とても嬉しいです。=E-Eu? Tem certeza? Não, não é que eu seja contra a ideia - pelo contrário, na verdade. Eu adoraria.
 //享楽{0}=Excitada {0}
-//ふふ……まぁ、目的はそれですよね？　構いませんよ、私もシたい気分でしたから。=
-//あら、欲望に正直なのですね。そういう人は、私好きですよ。では、一緒に気持ちよくなりましょうか。=
+ふふ……まぁ、目的はそれですよね？　構いませんよ、私もシたい気分でしたから。=Hehe. Então, esse é o objetivo, não é? Não tem problema, eu também estava com vontade de foder.
+あら、欲望に正直なのですね。そういう人は、私好きですよ。では、一緒に気持ちよくなりましょうか。=Oh, você é honesto em relação aos seus desehos, não é mesmo? Gosto disso em um parceiro. Vamos ao que interessa!
 //嫌悪{0}=Ódio {0}
-//話が早いのは助かりますが……情緒の欠片もありませんね。別にいいですよ、そういうものを求めるところでは、無いのでしょうし。=
-//はぁ……口を開けばそれですか。期待はしていませんでしたが……貴方は本当にそればかりですね。=
+話が早いのは助かりますが……情緒の欠片もありませんね。別にいいですよ、そういうものを求めるところでは、無いのでしょうし。=Fico feliz por você não fazer rodeios, mas fico triste por você não ter decoro. Claro, tudo bem, não estou esperando por isso.
+はぁ……口を開けばそれですか。期待はしていませんでしたが……貴方は本当にそればかりですね。=*affe* Você abre a boca e sai lixo. Eu não esperava nada melhor de você, seu desperdício de espaço.
 //隷属{0}=Submissa {0}
-//はい、もちろん大丈夫です。自分から行動するのは不得意なので……誘って頂けると嬉しいです。=
-//その……実は私も、貴方にシてもらえないかなと思っていました。それでは、お手柔らかにお願いします。=
+はい、もちろん大丈夫です。自分から行動するのは不得意なので……誘って頂けると嬉しいです。=Sim, definitivamente sim. Não sou excelente em tomar a iniciativa, por isso fico feliz que você o faça.
+その……実は私も、貴方にシてもらえないかなと思っていました。それでは、お手柔らかにお願いします。=Eu... Na verdade, eu estava pensando se você poderia me foder. Seja gentil, ok?

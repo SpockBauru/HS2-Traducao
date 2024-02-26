@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//え……あの蠢いている大きなミミズのようなものは一体……まさか生きているのですか？=
-//あ、貴方の趣味は少々変わっているのですね。こんな、その……不気味なものがいる場所でシたいのですか？=
-//あら、触手ですね。まさか実物を見る日が来るとは……ふふ、こんな所でシたら、きっとあの子達も黙っていませんよ？=
+え……あの蠢いている大きなミミズのようなものは一体……まさか生きているのですか？=Erm... Essas minhocas gigantes se contorcendo são suas amigas ou? Elas estão vivas?
+あ、貴方の趣味は少々変わっているのですね。こんな、その……不気味なものがいる場所でシたいのですか？=Você tem alguns hobbies excêntricos. Quer mesmo transar em um lugar como esse, com essas... Coisas assustadoras?
+あら、触手ですね。まさか実物を見る日が来るとは……ふふ、こんな所でシたら、きっとあの子達も黙っていませんよ？=Ah, tentáculos! Nunca pensei que veria de verdade. Hehe, acho que eles não vão nos deixar festejar sozinhos, não é?
 な、何ですかここは！？　明らかに異常です……奥で蠢いている変な生き物を見ているだけで、背筋が震えて……=O que é este lugar? É claramente anormal... Só de olhar para as estranhas criaturas que se movimentam lá atrás me dá arrepios na espinha...
-//えぇと、あのウネウネしたもの……目は無くても私を見てるような気がするのですが……気のせいですよね？=
+えぇと、あのウネウネしたもの……目は無くても私を見てるような気がするのですが……気のせいですよね？=Erm... É impressão minha ou aquelas coisas ondulantes e pontiagudas estão me olhando? Embora não tenham olhos, tenho essa sensação...
