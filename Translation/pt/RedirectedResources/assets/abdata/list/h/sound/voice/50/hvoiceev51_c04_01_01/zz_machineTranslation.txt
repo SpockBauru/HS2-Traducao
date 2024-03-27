@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-ねぇ、おねだりは？　アタシ、待ってるんだけど？=Ei, você está me implorando? Estou esperando por você.
-アハ、その震えてるのって、もーたまらないってこと？=Aha, essa tremedeira significa que você não consegue resistir?
+//ねぇ、おねだりは？　アタシ、待ってるんだけど？=Ei, você está me implorando? Estou esperando por você.
+//アハ、その震えてるのって、もーたまらないってこと？=Aha, essa tremedeira significa que você não consegue resistir?
 //あはっ、こんなゆっくりでもぷるぷる震えちゃって、かわたん♪=Haha, mesmo tão devagar, você está tremendo como um bebê ♪
 //あぁ、その切なそうな顔見てると、めっちゃ苛めたくなるぅ♪=Oh, seu rosto patético me faz querer tanto atormentá-lo ♪
 //ねぇ、アタシの足おいし？　んふ、この硬くしてるのが気持ち良すぎて、答える余裕ないか？=Ei, você gosta dos meus pés? Mmm, esta tesão é tão boa que você não tem tempo para responder?
