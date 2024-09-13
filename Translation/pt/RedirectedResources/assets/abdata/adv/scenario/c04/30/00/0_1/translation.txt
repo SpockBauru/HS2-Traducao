@@ -32,7 +32,7 @@
 //汎用隷属{0}=
 お、会いにきてくれたん？　嬉しみ～♪=Oh, você veio me ver? Estou tão feliz ♪
 いたいた。アンタがいるって言うから、探してたんだ～♪=Aí está você! Ouvi dizer que você estava por perto, então decidi vir à sua procura ♪ Tão aleatório, certo?
-おー会えた～♪　マジ、この出会いに感謝♪=Estou muito feliz em vê-lo. Muito obrigado por se encontrar comigo.
+おー会えた～♪　マジ、この出会いに感謝♪=Estou muito feliz em vê-lo. Muito obrigada por se encontrar comigo.
 //汎用隷属用件{0}=
 これは、色々と期待しちゃっていい流れ？　それとも普通の用事？=Eu deveria estar esperando algo mais? Ou é apenas algo normal?
 んで、アタシに何かして欲しい系？=Então, você quer que eu faça algo por você?
