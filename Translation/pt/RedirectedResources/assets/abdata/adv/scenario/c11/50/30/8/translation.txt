@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//お、お待ち下さいっ。私はお手洗いに――=
-//えっ、あ、あの……直ぐに済ませますので、どうか、どうかっ――=
-//へ？　もしかして、意味が伝わらなかったのでしょうか……？=
-//や、やめて下さい。私は用事があるのですっ。=
-//えっ……？　気にせず粗相をしろ、ということでしょうか？=
+お、お待ち下さいっ。私はお手洗いに――=Ah, por favor, espere. Estou no banheiro...
+えっ、あ、あの……直ぐに済ませますので、どうか、どうかっ――=E-eu sairei em um momento! Em um momento, por favor!
+へ？　もしかして、意味が伝わらなかったのでしょうか……？=Eh? Eu lhe asseguro, eu não sou nenhuma donzela em perigo, não preciso de resgate no momento.
+や、やめて下さい。私は用事があるのですっ。=Comporte-se! Deixe uma mulher se aliviar em paz!
+えっ……？　気にせず粗相をしろ、ということでしょうか？=Eh? Você quer que eu abandone o decoro e me alivie fora do banheiro?

@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//お楽しみ頂けたのでしたら、幸いです。=
-//私で良ければ、また何時でもお付き合い致します。=
+お楽しみ頂けたのでしたら、幸いです。=Estou feliz por ter conseguido animar seu dia.
+私で良ければ、また何時でもお付き合い致します。=Eu ficaria feliz em ajudar a qualquer momento.
 //好意{0}=Amor{0}
-//うふふ、つい話し込んでしまいましたね。=
-//楽しい時間程、早く過ぎてしまいます……名残惜しいですが、続きはまた次回ですね。=
+うふふ、つい話し込んでしまいましたね。=*risos* Parece que perdemos a noção do tempo.
+楽しい時間程、早く過ぎてしまいます……名残惜しいですが、続きはまた次回ですね。=O tempo é apenas um momento fugaz quando em companhia agradável. E, no entanto, todas as coisas boas devem chegar ao fim.
 //享楽{0}=Excitada {0}
-//こうやってお話をするのも楽しいものですね。また、お誘い頂けると嬉しく存じます。=
-//あら……？　もうこんなに時間が過ぎていたのですね。お話が楽しくて、気づいていませんでした。=
+こうやってお話をするのも楽しいものですね。また、お誘い頂けると嬉しく存じます。=Devo agradecer por uma conversa tão cativante.
+あら……？　もうこんなに時間が過ぎていたのですね。お話が楽しくて、気づいていませんでした。=Oh? Parece que estávamos absolutamente absortos em nossa conversa.
 //嫌悪{0}=Ódio {0}
-//まともな話題を振れる様になってから、お声がけ頂きたいものです。=
-//分かり切っていたことですが、時間を無駄にしてしまいました。=
+まともな話題を振れる様になってから、お声がけ頂きたいものです。=Xô. Venha até mim novamente somente quando for capaz de reunir uma conversa decente.
+分かり切っていたことですが、時間を無駄にしてしまいました。=Acho que eu deveria ter esperado isso, mas você foi uma perda de tempo.
 //隷属{0}=Submissa {0}
-//貴方への理解度が深まった気がして、楽しい時間でした。有難うございます。=
-//貴方とお話出来て、大変嬉しく存じます。=
+貴方への理解度が深まった気がして、楽しい時間でした。有難うございます。=Tenho prazer em aprender mais sobre você, mas agora devo me despedir.
+貴方とお話出来て、大変嬉しく存じます。=Apenas um momento de conversa com você é tudo que preciso para ser feliz.

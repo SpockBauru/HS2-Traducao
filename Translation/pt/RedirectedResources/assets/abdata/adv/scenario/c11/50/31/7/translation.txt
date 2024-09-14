@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 ・・・・・=...
-//申し訳ございません、それでは参りましょう。=
-//お待ち頂き有難うございます。では、本日は何を致しましょう？=
-//うふふ、お待ち頂き有難うございます。これで何の憂いもなく快楽に耽ることが出来ます。=
-//……必要ないと申したはずですが、何故こちらにいらっしゃるのですか？=
-//すみません、只今戻りました。それでは、致しましょうか。=
+申し訳ございません、それでは参りましょう。=Desculpas, mas já vou indo.
+お待ち頂き有難うございます。では、本日は何を致しましょう？=Obrigada pela paciência. Agora, o que faremos hoje?
+うふふ、お待ち頂き有難うございます。これで何の憂いもなく快楽に耽ることが出来ます。=*risos* Obrigada pela paciência. Agora podemos nos empanturrar de prazer...
+……必要ないと申したはずですが、何故こちらにいらっしゃるのですか？=Nossa, você é teimoso. Eu esperava que você fosse embora.
+すみません、只今戻りました。それでは、致しましょうか。=Minhas desculpas. Vamos?

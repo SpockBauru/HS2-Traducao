@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //HしようA普通{0}=
-//それは……三人でということ、でしょうか？　私は問題ありませんが……=
-//えっと……私の方は、問題ございません。=
+それは……三人でということ、でしょうか？　私は問題ありませんが……=Com isso, você quer dizer com nós três? Não tenho problema com isso.
+えっと……私の方は、問題ございません。=Eu... Não tenho problemas com isso.
 //HしようA好意{0}=
-//三人で、ですか……貴方が望まれるのでしたら……=
-//さ、三人で……その様な行為をお望みなのですね……=
+三人で、ですか……貴方が望まれるのでしたら……=Com nós duas? Se é isso que você deseja, então é claro.
+さ、三人で……その様な行為をお望みなのですね……=Nós três?! S-Sim, se é isso que você deseja.
 //HしようA享楽{0}=
-//はい、私は喜んでお付き合い致します。=
-//うふふ、そう仰ることは予想しておりました。=
+はい、私は喜んでお付き合い致します。=Sim, terei prazer em participar.
+うふふ、そう仰ることは予想しておりました。=*risos* Eu tinha um pressentimento de que você proporia isso.
 //HしようA嫌悪{0}=
-//何故、二人同時なのですか？　理解に苦しみます……=
-//……彼女が問題ないのでしたら、私も構いません。=
+何故、二人同時なのですか？　理解に苦しみます……=Duas mulheres, ao mesmo tempo? Inconcebível.
+……彼女が問題ないのでしたら、私も構いません。=Se esta bela dama não se opõe, eu também não o farei.
 //HしようA隷属{0}=
-//三人で……自信はありませんが、努力致します。=
-//刺激的なお誘いですね。勿論、喜んでお付き合い致します。=
+三人で……自信はありませんが、努力致します。=Um clássico ménage à trois... Não acredito que meu temperamento seja adequado para isso, mas tentarei.
+刺激的なお誘いですね。勿論、喜んでお付き合い致します。=Uma proposta escandalosamente emocionante... Claro que vou me juntar a você!

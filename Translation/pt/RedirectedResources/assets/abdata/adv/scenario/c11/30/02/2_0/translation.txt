@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なにしてたのA普通{0}=
-//温故知新……昔の出来事から学べることも多い、そういったお話をしておりました。=
-//新しい技術についていくのが難しい、ということを話しておりました。=
+温故知新……昔の出来事から学べることも多い、そういったお話をしておりました。=Estávamos conversando sobre como um homem verdadeiramente sábio se esforça para aprender com seus erros.
+新しい技術についていくのが難しい、ということを話しておりました。=Ah. Estávamos discutindo o quanto de dificuldade eu tenho para me adaptar às novas tecnologias. Elas são tão... Frustrantes!
 //なにしてたのA好意{0}=
-//甘味について、色々と談義しておりました。=
-//お互い好きな詩について、語り合っていた所です。=
+甘味について、色々と談義しておりました。=Estávamos tendo uma grande discussão sobre vários doces deliciosos.
+お互い好きな詩について、語り合っていた所です。=Estávamos falando sobre nosso gosto por poesia.
 //なにしてたのA享楽{0}=
-//少々お恥ずかしいですが、性癖について赤裸々に話しておりました。=
-//好みの仕草について、熱く語り合っていました。=
+少々お恥ずかしいですが、性癖について赤裸々に話しておりました。=Por uma questão de civilidade, vou poupá-lo dos detalhes, mas estávamos discutindo nossos fetiches.
+好みの仕草について、熱く語り合っていました。=Estávamos no meio de uma discussão acalorada sobre quais maneirismos masculinos mais nos atraem.
 //なにしてたのA嫌悪{0}=
-//好ましくないことは、はっきりと伝えるべきという話です。=
-//好きな映画について、話をしていた所です。=
+好ましくないことは、はっきりと伝えるべきという話です。=Estávamos discutindo quando traçar um limite claro com alguém.
+好きな映画について、話をしていた所です。=Estávamos discutindo nossas peças cinematográficas favoritas.
 //なにしてたのA隷属{0}=
-//趣味にかけるお金に関して、話をしておりました。=
-//相手に合わせるか否か、という話をしておりました。=
+趣味にかけるお金に関して、話をしておりました。=Ah. Estávamos discutindo quanto costumamos gastar em atividades de lazer.
+相手に合わせるか否か、という話をしておりました。=Estávamos discutindo o quanto acomodar os outros.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリA普通{0}=
-//まあ……そうなのですか？　あら、こんにちは。=
-//その様な事が……あ、どうも。=
+まあ……そうなのですか？　あら、こんにちは。=Tolice! Sério, está falando sério? Oh, bom dia.
+その様な事が……あ、どうも。=Oh, nossa, esse é um dilema e tanto... Ah, como você está?
 //前フリA好意{0}=
-//納得のいく理由ですね……ぁ……うふふ、お会いできて嬉しく存じます。=
-//成程……ん？　貴方もいらしていたのですね。=
+納得のいく理由ですね……ぁ……うふふ、お会いできて嬉しく存じます。=Um motivo tão bom quanto qualquer outro, eu acho... *hihi* Oh, olá. Que bom ver você.
+成程……ん？　貴方もいらしていたのですね。=Entendo... Ah, bom dia para você.
 //前フリA享楽{0}=
-//それはそれは……うふふ、こんにちは。=
-//少数派であろうと意見は……あら？　こんにちは。=
+それはそれは……うふふ、こんにちは。=Hora, hora... *risos* Ah, olá.
+少数派であろうと意見は……あら？　こんにちは。=Suponho que a opinião menos popular seja... Ah, olá.
 //前フリA嫌悪{0}=
-//……意図的に無視をしていたのですが、伝わりませんでしたか？=
-//……私と彼女の会話を邪魔しないで頂けませんか？=
+……意図的に無視をしていたのですが、伝わりませんでしたか？=...*suspiro* Minha tentativa de evitar você parece não ter surtido efeito.
+……私と彼女の会話を邪魔しないで頂けませんか？=Eu ficaria grata se você não se intrometesse na nossa conversa.
 //前フリA隷属{0}=
-//確かにお仰る通りです……あ、直ぐにご挨拶できず、失礼致しました。=
-//その様な意見があるのですね……あら？　貴方の気配に気づかないとは……不覚です。=
+確かにお仰る通りです……あ、直ぐにご挨拶できず、失礼致しました。=Eu concord— Oh, onde estão minhas maneiras! Bom dia para você.
+その様な意見があるのですね……あら？　貴方の気配に気づかないとは……不覚です。=É assim? Oh, me perdoe, você estava tão quieto que eu não o ouvi chegando.

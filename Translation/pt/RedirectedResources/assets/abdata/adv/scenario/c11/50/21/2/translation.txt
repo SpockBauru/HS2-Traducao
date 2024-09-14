@@ -2,6 +2,6 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//逃しません。お覚悟を決めて下さい。=
-//どちらに行かれるのですか？　私の子宮はこちらですよ？=
+逃しません。お覚悟を決めて下さい。=Não há escapatória. Desista.
+どちらに行かれるのですか？　私の子宮はこちらですよ？=Aonde você vai? Só há um caminho que leva ao meu ventre.
 逃げ出した=Você escapou

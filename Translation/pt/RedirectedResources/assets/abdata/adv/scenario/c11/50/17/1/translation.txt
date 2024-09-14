@@ -1,14 +1,14 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//ぁ……この様なみっともない姿をお見せして、申し訳ございません。=
-//んんっ……す、すみませんっ。事情は明かせないのですが……助けていただけないでしょうか？=
-//この様な姿で失礼致します。……そのお顔は、何か企んでいらっしゃいますか？=
-//ん……催してまいりました……いかがなさいます？=
-//何故、よりにもよって貴方が……=
-//っ……もじもじしているのは、お気になさらず。何でもございませんからっ……=
-//あぁ……これはきっと、徹底的に犯されてしまうのでしょうね。=
-//急に膀胱が……このままでは、貴方の前で放尿してしまいそうです……=
+ぁ……この様なみっともない姿をお見せして、申し訳ございません。=Ah... Peço desculpas por uma exibição tão vergonhosa.
+んんっ……す、すみませんっ。事情は明かせないのですが……助けていただけないでしょうか？=Hesito em revelar o que exatamente me levou a isso, mas o que é inegável é que estou em uma situação bem difícil. Ofereceria ajuda?
+この様な姿で失礼致します。……そのお顔は、何か企んでいらっしゃいますか？=Esse olhar em seus olhos... Você pretende fazer algo tortuoso, não é?
+ん……催してまいりました……いかがなさいます？=Nnh... Você vai me ajudar? Posso sentir a vontade de me aliviar crescendo...
+何故、よりにもよって貴方が……=Você? *suspiro* Como se não pudesse ficar pior.
+っ……もじもじしているのは、お気になさらず。何でもございませんからっ……=Não dê atenção ao meu arrastar de pés... Não é nada preocupante.
+あぁ……これはきっと、徹底的に犯されてしまうのでしょうね。=Ah, serei submetida a um arrebatamento absoluto. Estou pronta.
+急に膀胱が……このままでは、貴方の前で放尿してしまいそうです……=Minha querida bexiga... Mais um pouco nessa engenhoca e farei uma exibição vergonhosa...
 CHOICE:助ける=Ajudar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:無言で立ち去る=Sair de fininho

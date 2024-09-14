@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//そうでしたか、早とちりをしてすみません。=
-//早合点でしたか……失礼致しました。=
+そうでしたか、早とちりをしてすみません。=Eu entendo. Por favor, desculpe minha impaciência.
+早合点でしたか……失礼致しました。=Parece que me precipitei. Desculpe-me.
 //好意{0}=Amor{0}
-//お声がけ頂いたので舞い上がっていたのですが……お恥ずかしい限りです。=
-//そう、ですか……いえ、お声がけ頂けただけで、嬉しく存じます。=
+お声がけ頂いたので舞い上がっていたのですが……お恥ずかしい限りです。=Oh, minha alegria foi em vão...
+そう、ですか……いえ、お声がけ頂けただけで、嬉しく存じます。=Eu... Entendo. Não importa, eu me alegro com sua visita.
 //享楽{0}=Excitada {0}
-//心も身体も準備は出来ていたのですが、残念です。=
-//失礼、勘違いでしたか。ナニかございましたら、直ぐにお声がけ頂けますと幸いです。=
+心も身体も準備は出来ていたのですが、残念です。=Que lamentável. Eu estava preparado de corpo e alma para suas... Atenções vigorosas.
+失礼、勘違いでしたか。ナニかございましたら、直ぐにお声がけ頂けますと幸いです。=Claro. Eu estarei aqui se você precisar de mim.
 //嫌悪{0}=Ódio {0}
-//ほっ、何もないとのことで安心致しました。=
-//では、今すぐここから立ち去って下さい。=
+ほっ、何もないとのことで安心致しました。=Ufa, meu alívio é imensurável.
+では、今すぐここから立ち去って下さい。=Então vá, me deixe em paz.
 //隷属{0}=Submissa {0}
-//ご遠慮されているわけでは……ない様ですね。畏まりました、また何時でもお声がけ下さい。=
-//……私ではお力になれないことだったのでしょうか。=
+ご遠慮されているわけでは……ない様ですね。畏まりました、また何時でもお声がけ下さい。=Vejo que você está ocupado. Não vou te segurar mais então.
+……私ではお力になれないことだったのでしょうか。=Não sou eu quem você precisa no momento?

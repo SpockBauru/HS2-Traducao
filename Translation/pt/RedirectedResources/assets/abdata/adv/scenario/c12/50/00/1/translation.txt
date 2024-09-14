@@ -14,8 +14,8 @@
 お前とおしゃべりだぁ……まぁ、暇だから別にいいけどな。=Nós? Conversar? Tipo eu e você? Ok...
 俺と話したいっていうのか？　こっちは話す事なんかないけどな。=Conversar, hein? Eu não sei... Pessoalmente, não tenho nada a dizer a você.
 //隷属{0}=Submissa {0}
-//おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=
-お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=Claro, mas e se aproveitássemos esta oportunidade para falar sacanagem? Conversa normal também é bom, eu acho...
+おしゃべり？　おしゃぶりじゃなくて？　まぁ、別にかまわんけどな。=Conversar? Tem certeza de que não quer dizer... Foder? Ah, merda. Acho que conversar está bem.
+お話ねぇ……言葉攻めの練習でもするのか？　分かった、付き合ってやるよ。=Claro, mas e se aproveitássemos esta oportunidade para falar de sacanagem? Conversa normal também é bom, eu acho...
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

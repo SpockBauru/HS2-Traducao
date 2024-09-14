@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//お待たせして、申し訳ございません。=
-//申し訳ございません、次からはこの様なことが無いように注意致します。=
-//お待たせ致しました。……貴方の視線を感じた気がしたのですが、気のせいでしょうか？=
+お待たせして、申し訳ございません。=Peço desculpas. Vamos?
+申し訳ございません、次からはこの様なことが無いように注意致します。=Sinceras desculpas. Isso não vai acontecer novamente.
+お待たせ致しました。……貴方の視線を感じた気がしたのですが、気のせいでしょうか？=Tive a estranha sensação de que estava sendo observada... Hum, vamos?
 ……まさかとは思いますが、覗いてはいませんよね？=Você não está espreitando, está?
-//すみません、お待たせ致しました。……もしかして、ずっとこちらに？　覗きに来られても良かったのですが……=
+すみません、お待たせ致しました。……もしかして、ずっとこちらに？　覗きに来られても良かったのですが……=Você ficou aqui esse tempo todo? Você era mais que bem-vindo para me espionar enquanto me aliviava.

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//すみません、お部屋にいらっしゃいますか？=
+すみません、お部屋にいらっしゃいますか？=Com licença, você está aí?
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//……お留守なのでしょうか。残念です。=
+……お留守なのでしょうか。残念です。=Nada além de silêncio. Que pena.

@@ -2,12 +2,12 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//……この電車は、一体どちらに向かっているのですか？=
-//この施設でたくさん人が乗っている状況……正直に申して怪しさが満載です。=
-//っ……ここで、致すおつもりなのですか……貴方は本当に卑怯物です。=
-//先ほどから貴方のものが当たっていて、非常に不愉快なのですが……何とかして頂けないでしょうか？=
-//……抜けば収まるなど、冗談は仰らないで下さいね？　これは振りなどではありません。=
-//っ……振りではないと申したのに、何を考えているのですかっ……=
-//いかにもお誂え向きなこの状況……貴方の魂胆が見えました。=
-//どうしてこの様な事を考えつくのですか？　貴方は本当に卑劣で破廉恥です……=
-//くっ……ここまで人がいては逃げ場が……いやっ、やめて下さいっ……=
+……この電車は、一体どちらに向かっているのですか？=Você tem alguma noção de para onde esse trem está indo?
+この施設でたくさん人が乗っている状況……正直に申して怪しさが満載です。=... O que é essa estranha sensação de pressentimento?
+っ……ここで、致すおつもりなのですか……貴方は本当に卑怯物です。=Você pretende fazer suas ações sujas aqui? Seu canalha!
+先ほどから貴方のものが当たっていて、非常に不愉快なのですが……何とかして頂けないでしょうか？=Seus inomináveis insistem em me cutucar. Você pode fazer algo sobre eles?
+……抜けば収まるなど、冗談は仰らないで下さいね？　これは振りなどではありません。=Saciar-se aqui? Que esse pensamento pereça!
+っ……振りではないと申したのに、何を考えているのですかっ……=Devo protestar contra o que estamos prestes a fazer... Mas você não parece disposto a desistir.
+いかにもお誂え向きなこの状況……貴方の魂胆が見えました。=Uma tempestade perfeita se aproxima, e eu vejo você no centro dela.
+どうしてこの様な事を考えつくのですか？　貴方は本当に卑劣で破廉恥です……=Que mão ou olho imoral poderia moldar sua terrível obscenidade?
+くっ……ここまで人がいては逃げ場が……いやっ、やめて下さいっ……=Maldito seja! Apresse-se e acabe com isso.

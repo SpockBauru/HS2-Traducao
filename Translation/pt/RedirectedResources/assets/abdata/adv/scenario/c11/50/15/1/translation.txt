@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//貴方のことが恋しくなりまして……突然訪ねてしまい、申し訳ございません。=
+貴方のことが恋しくなりまして……突然訪ねてしまい、申し訳ございません。=Perdoe-me pela minha visita não anunciada. É que... Anseio por estar com você...
 //好意50_汎用{0}=
-//少しの間だけ、貴方の傍にいても宜しいでしょうか？=
-//お時間が宜しければ、少々お話でも致しませんか？=
-//失礼致します。貴方のお部屋を尋ねる際は、いつも胸が高鳴ってしまいます。=
+少しの間だけ、貴方の傍にいても宜しいでしょうか？=Posso ficar ao seu lado, mesmo que por um momento?
+お時間が宜しければ、少々お話でも致しませんか？=Podemos conversar? Se o tempo permitir, é claro.
+失礼致します。貴方のお部屋を尋ねる際は、いつも胸が高鳴ってしまいます。=Ah... Meu coração começa a bater forte toda vez que entro em seu quarto.
 ・・・・・=...
 //好意50続き{0}=
-//我儘を聞いて頂き、誠に有難うございます。それでは……さようなら。=
-//あまり長居をしてはご迷惑になりますね。名残惜しいですがお暇させて頂きます。=
-//分かれる間際はいつも寂しくなります。また、お部屋を訪ねても宜しいでしょうか？=
-//失礼致します。その……貴方の温もりを感じたくなりまして……=
+我儘を聞いて頂き、誠に有難うございます。それでは……さようなら。=Você tem minha sincera gratidão por me mimar. Adeus, então.
+あまり長居をしてはご迷惑になりますね。名残惜しいですがお暇させて頂きます。=Não vou me prolongar. Despeço-me de você.
+分かれる間際はいつも寂しくなります。また、お部屋を訪ねても宜しいでしょうか？=Uma doce saudade ainda permanece em meu coração. Posso visitá-la novamente?
+失礼致します。その……貴方の温もりを感じたくなりまして……=Eu, ah... Ansiava por sentir seu calor.
 //好意80_汎用{0}=

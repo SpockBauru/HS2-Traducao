@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答B普通{0}=
-//ご用の際は、いつでもお声がけ下さい。=
-//お手すきの際は、気軽にお声がけ頂けますと幸いです。=
+ご用の際は、いつでもお声がけ下さい。=Entre em contato conosco sempre que precisar.
+お手すきの際は、気軽にお声がけ頂けますと幸いです。=Agradeceríamos se você pudesse entrar em contato conosco quando precisar de ajuda.
 //なんでもない返答B好意{0}=
-//何かございましたら、ご遠慮なくお声がけ下さいね。=
-//その……お顔を拝見出来ただけでも、嬉しく存じます。=
+何かございましたら、ご遠慮なくお声がけ下さいね。=Se precisar de mais alguma coisa, não hesite em entrar em contato conosco.
+その……お顔を拝見出来ただけでも、嬉しく存じます。=Bem... É um prazer só de ver seu rosto.
 //なんでもない返答B享楽{0}=
-//あら……私の思い違いだったのですね。=
-//てっきり三人で致すのかと……勘違いをしておりました。=
+あら……私の思い違いだったのですね。=Oh... Eu devo ter me enganado.
+てっきり三人で致すのかと……勘違いをしておりました。=Suspeitei que uma proposta para uma orgia estava por vir. Parece que estava enganada.
 //なんでもない返答B嫌悪{0}=
-//ただただ迷惑です。=
-//何故、まだここにいるのですか？=
+ただただ迷惑です。=É simplesmente irritante.
+何故、まだここにいるのですか？=Por que você ainda está aqui?
 //なんでもない返答B隷属{0}=
-//また、いつでもお声がけ下さい。=
-//貴方のご用を優先致しますので、何かございましたらお申しつけ下さい。=
+また、いつでもお声がけ下さい。=Ficariamos felizes em receber seu contato novamente.
+貴方のご用を優先致しますので、何かございましたらお申しつけ下さい。=Suas necessidades terão prioridade, portanto, informe-nos se houver algo que possamos fazer por você.

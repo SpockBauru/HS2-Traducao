@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //汎用{0}=
-//うふふ、本日もお元気そうで何よりでございます。=
-//精巣の調子はいかがでしょうか？=
-//私が会いたいと焦がれていたのが、伝わったのでしょうか……お会いできて、大変嬉しく存じます。=
+うふふ、本日もお元気そうで何よりでございます。=*risos* Como você está neste belo dia?
+精巣の調子はいかがでしょうか？=Como está a virilidade dos seus... órgãos sexuais hoje?
+私が会いたいと焦がれていたのが、伝わったのでしょうか……お会いできて、大変嬉しく存じます。=Parece que minhas preces para que você venha me visitar foram atendidas.
 //風呂{0}=
-//お風呂場でお会いできるなんて、昂ってしまいます。=
-//私を求めて、お風呂場まで？　大変嬉しいです。=
+お風呂場でお会いできるなんて、昂ってしまいます。=A visão de você aqui... Devo dizer que estou excitada.
+私を求めて、お風呂場まで？　大変嬉しいです。=Você veio aos banhos só para me encontrar? Estou lisonjeado!
 //用件{0}=
-//では、こちらへ……早速、子種を注いで下さいませ。=
-//善は急げと申しますので、子作り致しましょう。=
+では、こちらへ……早速、子種を注いで下さいませ。=Se você for gentil o suficiente para se aproximar, por favor... Liberte sua semente dentro de mim.
+善は急げと申しますので、子作り致しましょう。=Venha, apresse-se para através do prazer gerarmos uma nova vida.
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

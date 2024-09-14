@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//その……お恥ずかしい限りなのですが、貴方のお話で高揚しまして……良かったら、このまま致しませんか？=
-//せ、折角というのも変な話ですが、宜しければこのまま……いかがでしょうか？=
+その……お恥ずかしい限りなのですが、貴方のお話で高揚しまして……良かったら、このまま致しませんか？=Sua conversa é, ah... Estimulante. Eu... Sei que é impróprio pedir isso a você, mas... Você poderia me abraçar?
+せ、折角というのも変な話ですが、宜しければこのまま……いかがでしょうか？=E-eu preferiria não fazer parecer uma reflexão tardia, mas... Poderiamos continuar?
 //好意{0}=Amor{0}
-//あ、貴方のことをより理解するために、今度は身体を重ねたいのですが……いかがでしょうか？=
-//その……お時間は、まだ大丈夫でしょうか？　もう少し、貴方のお傍に置いて頂きたく存じます……=
+あ、貴方のことをより理解するために、今度は身体を重ねたいのですが……いかがでしょうか？=Eu adoraria ir para a cama com você. P-Para aumentar meu entendimento sobre você, é claro! Nada mais!
+その……お時間は、まだ大丈夫でしょうか？　もう少し、貴方のお傍に置いて頂きたく存じます……=Você me daria o prazer? Eu adoraria ficar ao seu lado, mesmo que apenas mais um momento.
 //享楽{0}=Excitada {0}
-//……お話だけでは、この熱は引きそうにないので、抱いて頂けませんか？=
-//お話だけでなく、身体を重ね合いたく存じます。貴方も、そのつもりだったのではないですか？=
+……お話だけでは、この熱は引きそうにないので、抱いて頂けませんか？=Receio que falar não seja o suficiente para apagar o fogo que me preenche. Você vai me abraçar?
+お話だけでなく、身体を重ね合いたく存じます。貴方も、そのつもりだったのではないですか？=Desejo trocar mais do que meras palavras. Não foi por isso que você veio até mim?
 //嫌悪{0}=Ódio {0}
-//貴方のお話の所為で、変な気分に……責任を取って頂きます。=
-//うぅ……不本意ですが……これからお付き合いください。貴方の所為なので、拒否権はございません。=
+貴方のお話の所為で、変な気分に……責任を取って頂きます。=Suas palavras foram estranhamente... Provocativas. Você colherá o que plantou.
+うぅ……不本意ですが……これからお付き合いください。貴方の所為なので、拒否権はございません。=*suspiro* Eu desprezo a ideia de me rebaixar ao seu nível, mas suas palavras sensuais me tentam tanto.
 //隷属{0}=Submissa {0}
-//……我儘だとは重々承知しているのですが、どうか私を抱いては下さいませんか……？=
-//貴方のお声を聴いているだけで、身体が疼いてしまいまして……このまま、抱いて頂けないでしょうか？=
+……我儘だとは重々承知しているのですが、どうか私を抱いては下さいませんか……？=Estou bem ciente de que estou pedindo demais, mas devo implorar que você se deite comigo.
+貴方のお声を聴いているだけで、身体が疼いてしまいまして……このまま、抱いて頂けないでしょうか？=Meu corpo se agita ao som da sua voz. Tire-me do tédio e faça o que quiser comigo, por favor?

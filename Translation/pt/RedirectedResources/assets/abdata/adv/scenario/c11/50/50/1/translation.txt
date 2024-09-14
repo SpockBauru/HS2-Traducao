@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //好意{0}=Amor{0}
-//ぷかぷかと浮かんでいたので、普段よりお疲れではありませんか？=
-//時間が許す限り、ここでゆっくり致しましょう……=
-//火照った身体……冷えたところで、もう一度飲み直しませんか？=
-//今日は、その……まだ、貴方と一緒にいたい気分なんです……=
-//ひんやりとして、気持ちのいいぷれいでしたね。=
-//……ですが、少し身体……冷えてしまった様です。……傍で、温めて頂けませんか？=
+ぷかぷかと浮かんでいたので、普段よりお疲れではありませんか？=Espero que a água não tenha te enredado e te exaurido?
+時間が許す限り、ここでゆっくり致しましょう……=Vamos descansar aqui um pouco...
+火照った身体……冷えたところで、もう一度飲み直しませんか？=Agora que nossos corpos estão suficientemente gelados, vamos aquecê-los novamente com uma bebida?
+今日は、その……まだ、貴方と一緒にいたい気分なんです……=Eu... Desejo ficar ao seu lado esta noite...
+ひんやりとして、気持ちのいいぷれいでしたね。=Que brincadeira amorosamente mordiscada foi essa.
+……ですが、少し身体……冷えてしまった様です。……傍で、温めて頂けませんか？=Parece que fiquei na água um pouco tempo demais. Estou com frio, então... Posso chegar mais perto?

@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-薄暗くて気味が悪い場所ですね。この様な状況が、より興奮を高めるのでしょうか？=É um lugar pouco iluminado e assustador. Este tipo de situação o deixa mais entusiasmado?
-何やら嫌の予感がするのですが……私の気のせいですよね？=Tenho um mau pressentimento sobre isso... Mas estou imaginando coisas, não estou?
-成程、貴方を虐げれば宜しいのですね？　少々良心が痛みますが……違うのですか？=Então eu devo abusar de você? Dói-me um pouco a consciência, mas... Não?
-……下衆なことしか考えていないことが、よく分かりました。=... Eu podia dizer que ele só pensava em marginais.
-私を折檻して下さるのですか？　お手を煩わせて申し訳ございません、何卒宜しくお願い致します。=Você vai me castigar, senhor? Lamento incomodá-lo, senhor, mas estou a seu serviço.

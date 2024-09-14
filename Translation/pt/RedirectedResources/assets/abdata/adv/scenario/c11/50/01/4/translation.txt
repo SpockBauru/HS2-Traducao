@@ -2,8 +2,8 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //H{0}=
-//……親になる心構えが出来ていないことが、不安なのですか？　それはこれから学んでいけば問題ございません。さぁ、致しましょう？=
-//元に……？　その様な些細なことは後回しにして、今は私を孕ませることだけをお考えになって下さい。=
+……親になる心構えが出来ていないことが、不安なのですか？　それはこれから学んでいけば問題ございません。さぁ、致しましょう？=Você talvez tenha medo da paternidade? Não precisa ter medo, é algo que podemos aprender juntos. Agora... Vamos?
+元に……？　その様な些細なことは後回しにして、今は私を孕ませることだけをお考えになって下さい。=Ignore os detalhes frívolos. Pense apenas em gerar nosso filho.
 //Home{0}=
-//はっ……私は何を……？　とんでもないことを口走っていた様な……？=
-//も、申し訳ございません。気持ちが急くあまり、我を忘れておりました……=
+はっ……私は何を……？　とんでもないことを口走っていた様な……？=*suspiro* O que eu estava? Meu Deus...
+も、申し訳ございません。気持ちが急くあまり、我を忘れておりました……=Você tem minhas sinceras desculpas. Meus pensamentos não eram meus.

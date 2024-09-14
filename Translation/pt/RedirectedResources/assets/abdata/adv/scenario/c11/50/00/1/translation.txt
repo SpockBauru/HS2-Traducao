@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//会話は不得手なのですが、畏まりました。=
-//ご満足頂けるかは分かりませんが、努力致します。=
+会話は不得手なのですが、畏まりました。=Conversas não são meu forte, mas se você quiser.
+ご満足頂けるかは分かりませんが、努力致します。=Duvido que eu possa ser de muita utilidade, mas farei um esforço.
 //好意{0}=Amor{0}
-//でしたら、恋のお話でも……いえ、何でもありません。=
-//話し手は得意ではないのですが、聞き手でしたらお任せ下さい。=
+でしたら、恋のお話でも……いえ、何でもありません。=Seria de seu interesse um tópico sobre os casos de amor? Peço desculpas, divago.
+話し手は得意ではないのですが、聞き手でしたらお任せ下さい。=Onde não consigo opinar, sou excelente em ouvir os outros.
 //享楽{0}=Excitada {0}
-//想像したご用向きとは違いましたが、畏まりました。=
-//畏まりました。お話というと……猥談をされるのでしょうか？=
+想像したご用向きとは違いましたが、畏まりました。=Isso foi um tanto imprevisto, mas sim, claro.
+畏まりました。お話というと……猥談をされるのでしょうか？=Certamente. Estaremos discutindo... Assuntos obscenos?
 //嫌悪{0}=Ódio {0}
-//親しい間柄でもないのに、お話をしなければならないのですか……=
-//……お互い後悔することになりそうですが、分かりました。=
+親しい間柄でもないのに、お話をしなければならないのですか……=Eu preferiria conversar com um macaquinho do que com você.
+……お互い後悔することになりそうですが、分かりました。=Isso pode resultar em arrependimentos para ambas as partes. Mas, como você desejar.
 //隷属{0}=Submissa {0}
-//はい。貴方にご満足頂ける様に、尽力致します。=
-//はい、盛り上げ役として頑張ります。=
+はい。貴方にご満足頂ける様に、尽力致します。=Entendido. Vou me esforçar para lhe dar prazer.
+はい、盛り上げ役として頑張ります。=Muito bem. Vou me esforçar para liderar esta conversa.
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//今私は……世界で一番幸せです。=
+今私は……世界で一番幸せです。=Neste momento... Estou realmente no auge da satisfação.
 //汎用{0}=
-//ずっと貴方の腕に抱かれていたいです……=
-//貴方のお陰で、とても満たされました。本当に有難うございます。=
-//うふふ、お慕い申しております。=
+ずっと貴方の腕に抱かれていたいです……=Ah, como eu queria estar em seus braços para sempre.
+貴方のお陰で、とても満たされました。本当に有難うございます。=Estou muito satisfeita. Você tem meus sinceros agradecimentos.
+うふふ、お慕い申しております。=*risos* Oh, como eu te adoro.

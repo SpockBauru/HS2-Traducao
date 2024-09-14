@@ -2,16 +2,16 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //会話事後B普通{0}=
-//お答え頂き、感謝致します。=
-//貴方に伺って、良かったです=
+お答え頂き、感謝致します。=Obrigada pela resposta.
+貴方に伺って、良かったです=Estou feliz por ter perguntado.
 //会話事後B好意{0}=
-//ご意見をお聞かせ下さり、誠に有難うございます。=
-//色々な方にお話を伺うのは、大切なことですね。=
+ご意見をお聞かせ下さり、誠に有難うございます。=Eu realmente aprecio sua opinião.
+色々な方にお話を伺うのは、大切なことですね。=Nunca subestimarei a importância de ouvir um conjunto diversificado de opiniões.
 //会話事後B享楽{0}=
-//貴方のお話を伺うことが出来て、良かったです。=
-//貴方の考えを、少し理解できた気が致します。=
+貴方のお話を伺うことが出来て、良かったです。=Sou grata pela sua opinião.
+貴方の考えを、少し理解できた気が致します。=Acredito que estou mais perto de compreender sua perspectiva.
 //会話事後B嫌悪{0}=
-//答えて頂いたことには、感謝申し上げます。=
-//貴方の考えも、一応留意しておきます。=
+答えて頂いたことには、感謝申し上げます。=Acho que devo agradecer sua resposta, por mais inútil que seja.
+貴方の考えも、一応留意しておきます。=Considerarei sua opinião com a mente aberta.
 //会話事後B隷属{0}=
-//意見の交換が大切だということを再認出来ました。=
+意見の交換が大切だということを再認出来ました。=Isso reafirma minha crença de que é importante ouvir uma gama diversificada de opiniões.

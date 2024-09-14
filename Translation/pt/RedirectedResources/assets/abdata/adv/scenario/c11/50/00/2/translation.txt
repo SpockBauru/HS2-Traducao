@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//畏まりました。……それにしても、直球な物言いをなさるのですね。=
-//は、はいっ。では、直ぐに準備を致します。=
+畏まりました。……それにしても、直球な物言いをなさるのですね。=Você certamente não é de medir palavras. Muito bem.
+は、はいっ。では、直ぐに準備を致します。=S-Sim, imediatamente.
 //好意{0}=Amor{0}
-//あ……お誘い頂けて、大変嬉しく存じます。それでは、致しましょう。=
-//私に否やはございません。喜んでお相手させて頂きます。=
+あ……お誘い頂けて、大変嬉しく存じます。それでは、致しましょう。=Estou absolutamente encantada que você tenha perguntado. Vamos, então?
+私に否やはございません。喜んでお相手させて頂きます。=Não consigo encontrar nenhuma razão para protestar. Eu ficaria feliz em me deitar com você.
 //享楽{0}=Excitada {0}
-//はい、喜んで。そう仰って下さることを期待しておりました。=
-//勿論、お相手致します。貴方のお誘いを断理由など、何処にも存在しておりません。=
+はい、喜んで。そう仰って下さることを期待しておりました。=Sem dúvida. Na verdade, eu ansiava por essa mesma proposta.
+勿論、お相手致します。貴方のお誘いを断理由など、何処にも存在しておりません。=Certamente eu vou para a cama com você. Eu ficaria no fim da minha inteligência para encontrar uma razão para protestar.
 //嫌悪{0}=Ódio {0}
-//何故私に……他の方には断られてしまうのですか？=
-//破廉恥なことしか考えていないのですね、呆れて物も言えません。=
+何故私に……他の方には断られてしまうのですか？=Devo protestar... Certamente há outras que te abraçariam!
+破廉恥なことしか考えていないのですね、呆れて物も言えません。=Eu sinto apenas vergonha e desgosto quando submetido às profundezas sórdidas de sua mente obscena.
 //隷属{0}=Submissa {0}
-//はい、畏まりました。誠心誠意ご奉仕させて頂きます。=
-//そのお言葉を聞いただけで、私の身体の準備は整いました。直ぐに始めて頂いても、問題ございません。=
+はい、畏まりました。誠心誠意ご奉仕させて頂きます。=Com prazer. Eu derramarei meu coração e alma para agradá-lo.
+そのお言葉を聞いただけで、私の身体の準備は整いました。直ぐに始めて頂いても、問題ございません。=Suas palavras sozinhas foram o suficiente para estimular meus impulsos à ação. Podemos começar imediatamente, se você desejar.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //HしようB普通{0}=
-//少々緊張しますが、承知致しました。=
-//その……折角の機会ですので、参加させて頂きます。=
+少々緊張しますが、承知致しました。=Uma proposta angustiante, mas eu aceito.
+その……折角の機会ですので、参加させて頂きます。=Eu, bem... Não vou desperdiçar esta oportunidade.
 //HしようB好意{0}=
-//背に腹はかえられません……畏まりました。=
-//このまま除け者にされてしまうのは……承知致しました。=
+背に腹はかえられません……畏まりました。=Às vezes, sacrifícios devem ser feitos para o bem maior. Muito bem.
+このまま除け者にされてしまうのは……承知致しました。=Eu preferiria não ser uma mera espectadora, mas... Muito bem.
 //HしようB享楽{0}=
-//私達二人で、貴方を快楽へと導いてみせます。=
-//貴方が何処まで耐えられるか……楽しみです。=
+私達二人で、貴方を快楽へと導いてみせます。=Juntas, nós o levaremos ao caminho do prazer.
+貴方が何処まで耐えられるか……楽しみです。=Sim, vou adorar ver quanto tempo você vai durar.
 //HしようB嫌悪{0}=
-//……私には構わなくて結構ですので。=
-//彼女を放っておくわけにはいかないので、致し方ありません。=
+……私には構わなくて結構ですので。=... Não esquente essa sua cabecinha comigo.
+彼女を放っておくわけにはいかないので、致し方ありません。=Estremeço com a ideia de deixá-la sozinha com você. Muito bem.
 //HしようB隷属{0}=
-//私も抱いて下さるのですか？　大変嬉しく存じます。=
-//私もご一緒して宜しいのですか？　身に余る光栄です。=
+私も抱いて下さるのですか？　大変嬉しく存じます。=Você gostaria de me ter também? Que ideia magnífica!
+私もご一緒して宜しいのですか？　身に余る光栄です。=Você me deseja também? Eu não mereço tamanha honra.

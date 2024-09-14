@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……私の場合、ですか？　怖くて、声をかけるのがやっとだと思います。=
-//踏み出すことは、とてつもない勇気が必要ですよね。私も、よく分かります……=
+……私の場合、ですか？　怖くて、声をかけるのがやっとだと思います。=Eu? Duvido que pudesse ir além de chamar a atenção deles. Eu ficaria absolutamente mortificada!
+踏み出すことは、とてつもない勇気が必要ですよね。私も、よく分かります……=Reunir coragem para dar o primeiro passo é sempre a parte mais difícil...
 //好意{0}=Amor{0}
-//な、中々難しい問題ですね……私の意見が参考になるかは分かりませんが――=
-//その……正直なことを申しますと、困惑の方が大きいです……申し訳ありません。=
+な、中々難しい問題ですね……私の意見が参考になるかは分かりませんが――=E-Esse é um enigma e tanto. Eu acredito que...
+その……正直なことを申しますと、困惑の方が大きいです……申し訳ありません。=Peço desculpas, mas para ser sincero... Estou perplexa.
 //享楽{0}=Excitada {0}
-//……違う価値観を持っているからこそ、お話をしていて楽しいのではないでしょうか？=
-//……十人十色と申しますし、そこまで気になさる必要はないかと思います。=
+……違う価値観を持っているからこそ、お話をしていて楽しいのではないでしょうか？=Eu acredito que nossas diferenças de opinião são o que tornaram essa conversa tão divertida.
+……十人十色と申しますし、そこまで気になさる必要はないかと思います。=... Eu diria que todos são diferentes, então não acho que haja necessidade de se preocupar tanto com isso.
 //嫌悪{0}=Ódio {0}
-//……憚られることを平気で口にされるのですね。=
-//……今更取り繕うとした所で、手遅れではないでしょうか？=
+……憚られることを平気で口にされるのですね。=Você profere palavras que não ouso dizer. E com tanta facilidade, nada menos.
+……今更取り繕うとした所で、手遅れではないでしょうか？=Acho que é tarde demais para você retirar essa declaração.
 //隷属{0}=Submissa {0}
-//……私の好みではありますが、万人受けはしないと思います。=
-//……そういった中で、ご自分の意見を通すことが出来るのは素晴らしいです。=
+……私の好みではありますが、万人受けはしないと思います。=Tenho certeza de que nem todos concordarão, mas sou bastante parcial a respeito.
+……そういった中で、ご自分の意見を通すことが出来るのは素晴らしいです。=Admiro você por permanecer firme em suas convicções em momentos como este.

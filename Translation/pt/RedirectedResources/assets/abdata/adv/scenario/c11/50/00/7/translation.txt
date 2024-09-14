@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=
-//その様なことを……私には少々刺激が強すぎます……=
+……そ、それは過激ですね。お話を聞いているだけで、顔が赤くなってしまいます……=Que obscenidade! Acho que estou corando só de ouvir.
+その様なことを……私には少々刺激が強すぎます……=Oh não... Isso é muito entusiasmo para o meu próprio bem.
 //好意{0}=Amor{0}
-//えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=
-//ぅ……想像しただけで、照れてしまいます……=
+えっと……貴方がお望みになるのでしたら、多少は努力致します……はい。=Eu... Acredito que posso acomodá-lo, se esse for seu desejo.
+ぅ……想像しただけで、照れてしまいます……=Eu coro só de pensar nisso...
 //享楽{0}=Excitada {0}
-//それは……興味深いですね。私も試してみたです。=
-//まあ……その様な趣向もあるのですね。勉強不足を痛感致します。=
+それは……興味深いですね。私も試してみたです。=Intrigante. Devo tentar isso outra hora.
+まあ……その様な趣向もあるのですね。勉強不足を痛感致します。=Ah... Estou humilde. Essa é uma perspectiva que nunca considerei.
 //嫌悪{0}=Ódio {0}
-//……貴方は、下品なことしか喋ることが出来ないのですか？=
-//……こういった施設だからといって、何を話しても良い訳ではありません。自重して下さい。=
+……貴方は、下品なことしか喋ることが出来ないのですか？=Sua mente está sempre confusa com pensamentos profanos?
+……こういった施設だからといって、何を話しても良い訳ではありません。自重して下さい。=Cuidado com sua língua. Até mesmo estabelecimentos como esses têm padrões.
 //隷属{0}=Submissa {0}
-//その……全く恥じらいがないと言えば嘘になりますが、貴方の為でしたら問題ございません。=
-//……その様な場所があるのですね。この施設を初めて知った時と、同じくらい驚きました。=
+その……全く恥じらいがないと言えば嘘になりますが、貴方の為でしたら問題ございません。=Eu estaria mentindo se dissesse que não me sinto envergonhada... Mas por você, consentirei de bom grado.
+……その様な場所があるのですね。この施設を初めて知った時と、同じくらい驚きました。=Eu não sabia desse local. É tão inspirador quanto este estabelecimento, eu me pergunto?

@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //会話{0}=
-//私達二人の子供とお話されたいのでしょうか？　それでしたら、先ずは子供を授からないといけませんね。=
-//ええ。私が身重になった際は、お腹の子へ存分に語り掛けて下さい。=
+私達二人の子供とお話されたいのでしょうか？　それでしたら、先ずは子供を授からないといけませんね。=Acredito que você deseja um dia conversar com nosso futuro filho? Então precisamos começar a trabalhar.
+ええ。私が身重になった際は、お腹の子へ存分に語り掛けて下さい。=Certamente. Quando sua criança estiver dentro de mim, eu ficaria encantada se você falasse com ela diariamente.

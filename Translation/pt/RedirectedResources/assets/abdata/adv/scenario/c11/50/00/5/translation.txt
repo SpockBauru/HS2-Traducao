@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//へ？　それは誠のお話なのですか？　驚きです……=
-//……人それぞれですね。私にはない発想でした。=
+へ？　それは誠のお話なのですか？　驚きです……=Hm? Isso é verdade mesmo? Que choque...
+……人それぞれですね。私にはない発想でした。=Eu nunca pensei nisso dessa forma. Cada um com o seu gosto, eu acho.
 //好意{0}=Amor{0}
-//……わ、私に出来るかは分かりませんが、参考に致しますっ。=
-//うふふ……貴方のそういった所を、私は特に尊敬しております。=
+……わ、私に出来るかは分かりませんが、参考に致しますっ。=Isso soa um tanto... Oneroso, mas eu vou lembrar.
+うふふ……貴方のそういった所を、私は特に尊敬しております。=*risos* Essa é uma virtude que você possui e que eu tenho em grande estima.
 //享楽{0}=Excitada {0}
-//そうなのですか？　私達の相性はばっちりですね。=
-//それは驚きですね……ですが、いつか試してみたい思いもあります。=
+そうなのですか？　私達の相性はばっちりですね。=É mesmo? Somos uma combinação perfeita.
+それは驚きですね……ですが、いつか試してみたい思いもあります。=Estou absolutamente pasma, mas vou me aventurar a tentar um dia.
 //嫌悪{0}=Ódio {0}
-//……もう少々、ゆっくり話して頂けませんか？=
-//何事も、程度というものがございます。それを学ばない限り、貴方に成長はありません。=
+……もう少々、ゆっくり話して頂けませんか？=Posso pedir que você fale sem me jogar sua saliva?
+何事も、程度というものがございます。それを学ばない限り、貴方に成長はありません。=Moderação é a chave. Também é algo que você não tem.
 //隷属{0}=Submissa {0}
-//えっと……私は、違う箇所があるからこそ、惹かれるのだと思います。=
-//……そういった際は、一度心を落ち着けるのが有効かと思います。気持ちが逸ったままでは上手くいきませんから。=
+えっと……私は、違う箇所があるからこそ、惹かれるのだと思います。=Bem... Eu realmente acredito que os opostos se atraem.
+……そういった際は、一度心を落ち着けるのが有効かと思います。気持ちが逸ったままでは上手くいきませんから。=Eu acredito que o melhor curso de ação é meditar sobre as consequências antes de agir.

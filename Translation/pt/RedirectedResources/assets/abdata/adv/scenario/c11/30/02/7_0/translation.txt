@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答A普通{0}=
-//本当に、宜しいのですか？=
-//わざわざ、お声がけ下さったのですか？=
+本当に、宜しいのですか？=Tem certeza de que deseja fazer isso?
+わざわざ、お声がけ下さったのですか？=Você se esforçou para me perguntar?
 //なんでもない返答A好意{0}=
-//えっと……ご遠慮されているのでしょうか？=
-//お話出来る機会だと思っていたのですが……残念です。=
+えっと……ご遠慮されているのでしょうか？=Hum... Você não está disponível?
+お話出来る機会だと思っていたのですが……残念です。=Achei que seria uma oportunidade para falar com você, mas estou decepcionada.
 //なんでもない返答A享楽{0}=
-//他のご用向きの途中なのですか？=
-//特にご用はなかったのですか？=
+他のご用向きの途中なのですか？=Você está ocupado com outros negócios?
+特にご用はなかったのですか？=Você tinha algo em especial para fazer?
 //なんでもない返答A嫌悪{0}=
-//ご用がないのでしたら、声をかけないで下さい。=
-//では、早急に立ち去って下さい。=
+ご用がないのでしたら、声をかけないで下さい。=Se não precisar de nada, por favor, não me chame.
+では、早急に立ち去って下さい。=Agora, por favor, saia imediatamente.
 //なんでもない返答A隷属{0}=
-//貴方がそう仰るのでしたら……了解致しました。=
-//そうなのですか……少々残念です。=
+貴方がそう仰るのでしたら……了解致しました。=Se é isso que você diz... Eu entendo.
+そうなのですか……少々残念です。=É isso mesmo? É um pouco decepcionante.

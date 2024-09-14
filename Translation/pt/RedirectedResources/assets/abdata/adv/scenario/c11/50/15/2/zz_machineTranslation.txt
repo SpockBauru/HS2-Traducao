@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-今私は……世界で一番幸せです。=Neste momento eu sou... A pessoa mais feliz do mundo.
-//汎用{0}=Objetivo Geral {0}
-ずっと貴方の腕に抱かれていたいです……=Quero ser segurado em seus braços para sempre...
-貴方のお陰で、とても満たされました。本当に有難うございます。=Você me encheu tanto. Muito obrigado.
-うふふ、お慕い申しております。=Eu os adoro.

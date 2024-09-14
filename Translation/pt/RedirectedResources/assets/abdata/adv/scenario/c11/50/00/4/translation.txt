@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//成程……それは興味深いです。=
-//共感して頂けると嬉しいのですが、私は――=
+成程……それは興味深いです。=Ah, entendo. Fascinante.
+共感して頂けると嬉しいのですが、私は――=Espero que você concorde quando digo que...
 //好意{0}=Amor{0}
-//……結局、先に好きだと自覚してしまった方が、負けなのかもしれませんね。=
-//その……私は、貴方が傍にいて下さるだけで幸せです……=
+……結局、先に好きだと自覚してしまった方が、負けなのかもしれませんね。=Arrisco-me a dizer que a pessoa que se apaixona primeiro está em desvantagem.
+その……私は、貴方が傍にいて下さるだけで幸せです……=O que... Importa para mim é que você fique ao meu lado.
 //享楽{0}=Excitada {0}
-//……想定外ですが、効果的かもしれません。参考に致しますね。=
-//そうですね……貴方の仰る通り、試してみる価値はありそうです。=
+……想定外ですが、効果的かもしれません。参考に致しますね。=Inesperado, mas, ao mesmo tempo, sensato. Eu me lembrarei disso.
+そうですね……貴方の仰る通り、試してみる価値はありそうです。=De fato. Como você sugeriu, talvez valha a pena tentar...
 //嫌悪{0}=Ódio {0}
-//……秘密です。貴方に喋るつもりはございません。=
-//……貴方は夢見がちなのですね。正直、意外です。=
+……秘密です。貴方に喋るつもりはございません。=Não. Isso não cabe a você saber.
+……貴方は夢見がちなのですね。正直、意外です。=Você tem uma visão bastante cor-de-rosa da vida. Admito que isso foi uma surpresa.
 //隷属{0}=Submissa {0}
-//私は……好意を寄せる方が幸せなら、それで充分です。=
-//うふふ……それは素敵ですね。=
+私は……好意を寄せる方が幸せなら、それで充分です。=Minha felicidade é baseada na felicidade de quem eu amo.
+うふふ……それは素敵ですね。=*risos* Que ideia encantadora.

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリB普通{0}=
-//こんにちは。私たちに何かご用でしょうか？=
-//どなたかお探しなのでしょうか？=
+こんにちは。私たちに何かご用でしょうか？=Olá. Podemos ajudar em algo?
+どなたかお探しなのでしょうか？=Você está procurando alguém, talvez?
 //前フリB好意{0}=
-//もしお時間が宜しければ、お話にお付き合い頂けませんか？=
-//彼女と話に花を咲かせておりました。良かったら、貴方もいかかがですか？=
+もしお時間が宜しければ、お話にお付き合い頂けませんか？=Se tiver tempo, gostaria de se juntar à nossa pequena conversa?
+彼女と話に花を咲かせておりました。良かったら、貴方もいかかがですか？=Estávamos discutindo fofocas suculentas. Quer se juntar a nós?
 //前フリB享楽{0}=
-//うふふ、何か破廉恥な事を考えていませんか？=
-//貴方から淫靡な気配を感じるのですが……気のせいでしょうか？=
+うふふ、何か破廉恥な事を考えていませんか？=*risos* Tem algo obsceno em sua mente, não é?
+貴方から淫靡な気配を感じるのですが……気のせいでしょうか？=Eu sinto... Lascívia? Ela emana da sua direção.
 //前フリB嫌悪{0}=
-//はぁ……ご用件をどうぞ。=
-//女性がいれば、直ぐに寄ってくるのですね。=
+はぁ……ご用件をどうぞ。=*suspiro* O que você precisa?
+女性がいれば、直ぐに寄ってくるのですね。=Como uma mariposa em direção à chama, você voa em direção a qualquer mulher que vê.
 //前フリB隷属{0}=
-//彼女か私にご用向きでしょうか？=
-//彼女にご用でしたら、私は席を外しますが……？=
+彼女か私にご用向きでしょうか？=Há algo que você precisa dela — ou talvez de mim?
+彼女にご用でしたら、私は席を外しますが……？=Se é ela que você deseja, vou me retirar.

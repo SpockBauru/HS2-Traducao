@@ -1,5 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-すみません、お部屋にいらっしゃいますか？=Desculpe-me, senhor, você está em seu quarto?
-……お留守なのでしょうか。残念です。=... Você não está em casa? É uma pena.

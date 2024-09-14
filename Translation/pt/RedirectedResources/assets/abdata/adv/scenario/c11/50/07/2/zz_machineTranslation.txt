@@ -1,8 +1,0 @@
-//***********************************************************************
-//ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
-//***********************************************************************
-ん……はぁ……ぽかぽか……致します……=Vocês estão todos quentes e... Confusos.
-はぁ……んぅ……好き……好きです……=Huh? Eu, eu gosto.
-ん……もう……終わってしまい、ました……=Está tudo acabadoagora.
-んん……悪夢、です……=Hmm. Pesadelo.
-んぅ……夢の中の……貴方も……素敵、です……=Mmm... Em meus sonhos... Você parece... Maravilhoso...
