@@ -7,7 +7,7 @@
 あは、アンタ毎日ここいない？=Ha, eu sinto que você está literalmente sempre aqui!
 //汎用普通用件{0}=
 それでー、アタシに何か用？=Mm? Você quer alguma coisa?
-ご指名はアタシですかー？　なんて♪=Deixe-me adivinhar: você quer um pouco disto, certo?
+ご指名はアタシですかー？　なんて♪=Deixe-me adivinhar: você quer um pouco daquilo, certo?
 //汎用好意{0}=
 お、ラッキー♪　アンタに会えた～♪=Que sorte! Estou tão excitada com isso ♪
 もしかして、アタシを探してたん？=Procurando por mim? Legal!
