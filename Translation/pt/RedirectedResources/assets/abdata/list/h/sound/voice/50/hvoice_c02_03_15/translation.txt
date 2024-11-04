@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//焦らした方が長く楽しめるようになると聞いたもので……=
-//すぐにイッてしまうのももったいないじゃないですか。=
+焦らした方が長く楽しめるようになると聞いたもので……=Ouvi dizer que quanto antes você começar, mais tempo você poderá aproveitar...
+すぐにイッてしまうのももったいないじゃないですか。=Seria uma pena acabar muito rápido, não é mesmo?
 //あ、んっ……私の弱いところ、わかってきたみたいですね……=
 //ん……慣れてきたせいか……少し、くすぐったいです……=
 //んん……すぐに濡れてきてしまいました……あなたとの訓練のお陰です。=

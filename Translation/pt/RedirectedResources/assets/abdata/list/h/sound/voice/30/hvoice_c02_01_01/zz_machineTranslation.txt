@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-焦らした方が長く楽しめるようになると聞いたもので……=Ouvi dizer que quanto mais você se apressar, mais tempo você poderá desfrutar...
-すぐにイッてしまうのももったいないじゃないですか。=Seria uma pena vir tão cedo, não é mesmo?
+//焦らした方が長く楽しめるようになると聞いたもので……=Ouvi dizer que quanto mais você se apressar, mais tempo você poderá desfrutar...
+//すぐにイッてしまうのももったいないじゃないですか。=Seria uma pena vir tão cedo, não é mesmo?
 沢山気持ちよくしますので、安心して私に委ねてください。=Vou fazer você se sentir muito bem, portanto, sinta-se à vontade para deixar isso comigo.
 大丈夫ですよ、ちゃんと痛くしないようにしますから。=Não se preocupe, eu farei com que não doa.
 おや、おちんちんがムクムクしてきました……=Oh, seu pau está ficando todo mole...
