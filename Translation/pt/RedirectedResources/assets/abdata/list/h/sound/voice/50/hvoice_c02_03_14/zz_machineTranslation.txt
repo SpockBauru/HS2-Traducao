@@ -1,8 +1,8 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-い、色々考え中なのでちょっと待ってください！=Espere um minuto, estou pensando em algo!
-こういうのは焦ると良くないんです！　落ち着いてっ……次は……=Não é bom apressar estas coisas! Acalme-se... Da próxima vez...
+//い、色々考え中なのでちょっと待ってください！=Espere um minuto, estou pensando em algo!
+//こういうのは焦ると良くないんです！　落ち着いてっ……次は……=Não é bom apressar estas coisas! Acalme-se... Da próxima vez...
 んっ……慣らしは、必要……です、もんね……んんっ=Mmm... Você tem que se acostumar... Você não... Mmm...
 あんっ……フ、思わず、声が……出て、しまいました……んんっ=Aah, eu não pude evitar, minha voz saiu... Mmm...
 あっ、んっ、気持ちが、高ぶって、きます、ね、あんっ=Ah, mmm, estou me sentindo tão animado, não estou?
@@ -51,8 +51,8 @@
 こんなに沢山……よほど気持ち良かったんですね。=Tantos deles... Deve ter sido tão bom.
 汚れてしまいました……あ、想定の範囲内ですので、ご心配なく。=Eu sujei tudo... Oh, não se preocupe, isso é de se esperar.
 こういうこともあろうかと、掃除の道具はちゃんと準備してあるんです。=Eu preparei as ferramentas de limpeza para tal ocasião.
-別に、イジワルしてるんじゃありませんからっ=Eu não estou tentando ser um cu.
-これもちゃんと考えがあってのことなんです……！=Eu também tenho pensado sobre isso!
+//別に、イジワルしてるんじゃありませんからっ=Eu não estou tentando ser um cu.
+//これもちゃんと考えがあってのことなんです……！=Eu também tenho pensado sobre isso!
 んっ……そんなに、焦らさないで……好きにすればいいのにっ=Não seja tão impaciente... Você pode fazer o que quiser.
 あ、んっ、ふぅ……この程度で、喘ぐわけないじゃないですか……=Oh, mmm, hmm... Não há como eu estar ofegando assim...
 んっ……そんな風に優しくされると……勘違いするじゃないですかっ=Quando você é legal comigo assim... Isso me faz entender mal.

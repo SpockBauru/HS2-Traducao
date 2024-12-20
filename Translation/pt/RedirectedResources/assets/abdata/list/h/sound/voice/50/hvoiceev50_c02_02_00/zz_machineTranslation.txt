@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あの～……何か問題でも？=Hum... Há algum problema?
-このままっていうのは落ち着かないんですが……=Não me sinto confortável em deixá-lo assim, mas...
-お……思ったよりも……辛く、は……ない……ですねっ=É... Não... Tão... Difícil... Como... Eu... Pensava.
-んんっ……あ、あっ……大丈夫……ですよっ……=Ah, está tudo bem...
+//あの～……何か問題でも？=Hum... Há algum problema?
+//このままっていうのは落ち着かないんですが……=Não me sinto confortável em deixá-lo assim, mas...
+//お……思ったよりも……辛く、は……ない……ですねっ=É... Não... Tão... Difícil... Como... Eu... Pensava.
+//んんっ……あ、あっ……大丈夫……ですよっ……=Ah, está tudo bem...
 んん……水の中なのに、なんで、そんなに動けるんですか……？=Hmm... Como se pode mover tanto quando se está na água?
 あぁ……顔が赤いのは、お酒の所為ですから……=Oh... É o álcool que está te deixando vermelho.
 はぁん……熱心に見つめられたら、勘違いしちゃいます……=Huh... Se você me encarar com atenção, eu terei a idéia errada...
@@ -39,20 +39,20 @@
 ……あなたが出来るなら、もっとしてもいいですけど……=... Eu faria mais se pudesse, mas...
 あぁっ、あん、垂れてきました。はぁ、はぁ、なんだかいやらしいですね……=Aah, an, está pingando. Huh, huh, é meio nojento...
 んあぁ、少し出しすぎでは……？　んんっ、これが普通なんでしょうか……=Isso não é um pouco exagerado? Hmm, isto é normal?
-もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
-……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
-あぁっ、私の中にぃ！=Ahhh, está em mim!
-んあっ、入ってくるぅ……！=Oh, está entrando...
+//もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
+//……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
+//あぁっ、私の中にぃ！=Ahhh, está em mim!
+//んあっ、入ってくるぅ……！=Oh, está entrando...
 //あんっ……そんなペースで……いいんですか……？=Você tem certeza de que quer ir nesse ritmo?
 //もっと……強くしてくれても……大丈夫、ですから……=Você pode... Tornar mais forte, mas... Está tudo bem, então...
 //あぁんっ、激しくてっ、あんっ、イイ感じですよ、イキそうですっ=Ahhh, isso é tão forte. Ahhh, isso é tão bom. Eu vou gozar.
-あんっ、あぁっ、声が、止まらない、んあぁっ、あんっ=Aah, aah, eu não consigo parar de gritar, aah, aah!
-あ、あっ！　私、もう、イキますよっ、いいですかっ=Ah, ah! Vou gozar, está bem?
-あぁんっ！　気持ちいいですっ、イッてもいいですねっ=Aah! Isso é tão bom! Mal posso esperar para gozar!
-あぁっ、熱いのがきてます……！=Oh, está chegando quente!
-んんっ、奥まで、ドクドク感じますっ……！=Mmm, posso senti-lo palpitante por dentro...
-あっ、すごい、噴水みたいですっ！=Ahhh, é como uma fonte!
-あんっ、出しながら、ビクビク、してますよっ！=Oh, você está pulando enquanto está tirando!
+//あんっ、あぁっ、声が、止まらない、んあぁっ、あんっ=Aah, aah, eu não consigo parar de gritar, aah, aah!
+//あ、あっ！　私、もう、イキますよっ、いいですかっ=Ah, ah! Vou gozar, está bem?
+//あぁんっ！　気持ちいいですっ、イッてもいいですねっ=Aah! Isso é tão bom! Mal posso esperar para gozar!
+//あぁっ、熱いのがきてます……！=Oh, está chegando quente!
+//んんっ、奥まで、ドクドク感じますっ……！=Mmm, posso senti-lo palpitante por dentro...
+//あっ、すごい、噴水みたいですっ！=Ahhh, é como uma fonte!
+//あんっ、出しながら、ビクビク、してますよっ！=Oh, você está pulando enquanto está tirando!
 あつぅっ、火傷させる気ですかぁっ……=Você está tentando me queimar...
 あんっ、すっ、好きなだけぶっかけたらどうですかっ=Você pode borrifar o quanto quiser.
 んん……何ニヤけてるんですか……気持ちは、わかりますけどっ……=Sobre o que você está sorrindo... Sei como se sente...

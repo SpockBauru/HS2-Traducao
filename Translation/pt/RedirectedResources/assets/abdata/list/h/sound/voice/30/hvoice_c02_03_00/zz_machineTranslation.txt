@@ -1,10 +1,10 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-あの～……何か問題でも？=Hum... Há algum problema?
-このままっていうのは落ち着かないんですが……=Não me sinto confortável em deixá-lo assim, mas...
-い、色々考え中なのでちょっと待ってください！=Espere um minuto, estou pensando em algo!
-こういうのは焦ると良くないんです！　落ち着いてっ……次は……=Não é bom apressar estas coisas! Acalme-se... Da próxima vez...
+//あの～……何か問題でも？=Hum... Há algum problema?
+//このままっていうのは落ち着かないんですが……=Não me sinto confortável em deixá-lo assim, mas...
+//い、色々考え中なのでちょっと待ってください！=Espere um minuto, estou pensando em algo!
+//こういうのは焦ると良くないんです！　落ち着いてっ……次は……=Não é bom apressar estas coisas! Acalme-se... Da próxima vez...
 ん……こんな感じれひょうら……まらうまふ舌ら使えまへん……（こんな感じでしょうか……まだうまく舌が使えません……）=(Isto é o que parece... Ainda não consigo usar minha língua corretamente...)
 んん……舐めうのも、コツはいりはふね……（舐めるのも、コツがいりますね……）=(O licenciamento também é um truque...)
 あん……これはなかなか……効率的で、いいれふね……=É... Muito... Eficiente, muito bom.
@@ -67,10 +67,10 @@
 こういうこともあろうかと、掃除の道具はちゃんと準備してあるんです。=Eu preparei as ferramentas de limpeza para tal ocasião.
 ん、はぁ……多少の誤差はあれど、一緒にイクのにも慣れましたね……=Hmm, haha... Habituamo-nos a cumular, mesmo que haja alguns erros...
 はぁ、はぁ……時間がない時は、積極的にこの体位で、やりましょう……=Huh, huh... Se temos pouco tempo, vamos fazer esta posição, agressivamente...
-もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
-……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
-別に、イジワルしてるんじゃありませんからっ=Eu não estou tentando ser um cu.
-これもちゃんと考えがあってのことなんです……！=Eu também tenho pensado sobre isso!
+//もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
+//……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
+//別に、イジワルしてるんじゃありませんからっ=Eu não estou tentando ser um cu.
+//これもちゃんと考えがあってのことなんです……！=Eu também tenho pensado sobre isso!
 れろっ……ペロペロされうのら好きとか、子どもみたいれふねっ（ペロペロされるのが好きとか、子どもですねっ）=(Gosta de ser lambido por uma garota)
 わらひの唾液れ、れろちゅぱっ、ベロベロになっれも、んれろっ、知りまへんよっ（私の唾液で、ベトベトになっても、知りませんよっ）=(Não me importo se você ficar manchado com minha saliva)
 あ、ん、そこ……わらひ、らってっ……これなら、どうれふかっ（私、だってっ……これなら、どうですかっ=(Eu também... Que tal isto?)

@@ -11,8 +11,8 @@
 ふぅ、はぁ、はぁ……ハードなプレイは……体力……使いますね……=Huh, huh, huh... Jogo duro... Usa... Muita... Energia...
 はぁ、はぁ……少しの間だけ、優しくして頂けると、嬉しい、です……=Huh, huh... Se você pudesse ser gentil comigo por um momento, eu ficaria feliz...
 ん、はぁ、はぁ……冷やすものは、ありますか？　焼けるように、熱くて……=Hmm, hmm, hmm... Você tem algo para esfriá-lo? Está queimando quente...
-もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
-……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
+//もう……わかってやってますよね、それ！？=Você já... Você sabe o que está fazendo, não sabe? Isso!
+//……ずっとそうしていればいいんじゃないですかっ=... Por que você não continua fazendo isso?
 痛ぁっ！　もうちょっと手加減できないんですかっ！？=Ow! Você não pode ir um pouco mais fácil com ela?
 あふぅっ！　最初から飛ばしすぎですってば！=Agh! Você saltou longe demais desde o início!
 あぅっ！　痛い！　も、ちょっと優しくしてぇっ！=Aah! Ow! Seja um pouco mais gentil!
