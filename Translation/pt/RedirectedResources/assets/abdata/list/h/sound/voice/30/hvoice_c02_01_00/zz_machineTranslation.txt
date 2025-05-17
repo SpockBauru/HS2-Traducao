@@ -45,8 +45,8 @@
 らいじょーぶ、あなたがイクまれ、やめまふぇんからっ（大丈夫、あなたがイクまで、やめませんからっ）=(Não se preocupe, eu não vou parar até que você goze)
 まらイクんれふね！　わらしもおくちしめへ、がんばりまふっ（またイクんですね！　私もお口締めて、頑張りますっ）=(Você está gozando de novo! Vou apertar minha boca e fazer o meu melhor também)
 んは、さっきよりおおきふなっへまふ！　イッへくらはい！（さっきよりも大きくなってます！　イッてください！）=É maior do que antes! Por favor, goze!
-このまま終わった方がお互いの為にもいいと思いませんか？=Você não acha que seria melhor para nós dois se simplesmente acabássemos com isso?
-モチベーションって大事ですよねぇ……いーえ、別にぃ。=A motivação é importante, não é?
+//このまま終わった方がお互いの為にもいいと思いませんか？=Você não acha que seria melhor para nós dois se simplesmente acabássemos com isso?
+//モチベーションって大事ですよねぇ……いーえ、別にぃ。=A motivação é importante, não é?
 こんなの、適当にやっていいですよね。=Você pode fazer estas coisas muito bem.
 勝手に気持ちよくなってくださいね。=Esteja à vontade para se sentir bem consigo mesmo.
 このまま踏みつぶしてやりたい気分です。=Sinto que quero apenas dar-lhe uma surra.
@@ -216,7 +216,7 @@
 あ、こらっ……また汚して、もう……=Oh, ahhh... Você está me sujando novamente.
 何度も好き放題しすぎですっ！=Você já fez isso demasiadas vezes!
 //こうやって焦らされるのも好きなくせに……=Você gosta de ser apressado assim...
-おや、震えてきましたね。続けて欲しいんですか？=Oh, você está começando a tremer. Você quer que eu continue?
+//おや、震えてきましたね。続けて欲しいんですか？=Oh, você está começando a tremer. Você quer que eu continue?
 最初はゆっくりじわじわと、気持ちを昂らせていきますよ……=Lenta e lentamente no início, você vai começar a se sentir excitado.
 何をどうして欲しいのか、ちゃんと言ってくださいね？=Apenas me diga o que você quer que eu faça, certo?
 ゆっくり焦らしながらやるのがいいんですよね。=É melhor fazê-lo de forma lenta e impaciente.
@@ -293,8 +293,8 @@
 じゅぽ、んふっ、さっひよぃも、こい、よぁん、しあふっ、じゅぽ、じゅぽっ（さっきよりも、濃い、予感、しますっ）=Tenho a sensação de que é mais espesso do que antes.
 ふふ、やはりあなたにコントロールは難しいようですね。=Hmm, acho que ainda é difícil para você controlar.
 さっきよりも暴れん坊でしたね、あなたのソレ。=Você era ainda mais safado do que antes, seu manjar.
-あなたを鍛えてるんです。ほら、もう少し頑張りましょう！=Estou trabalhando em você. Vamos lá, vamos trabalhar um pouco mais!
-もっと……私を求めてください……えぇ、もっと……=Por favor... Quer-me mais... Sim, mais...
+//あなたを鍛えてるんです。ほら、もう少し頑張りましょう！=Estou trabalhando em você. Vamos lá, vamos trabalhar um pouco mais!
+//もっと……私を求めてください……えぇ、もっと……=Por favor... Quer-me mais... Sim, mais...
 あの、頑張って気持ちよくしますねっ=Farei o meu melhor para que você se sinta bem.
 私にできることがあれば、何でも言ってくださいっ=Se houver algo que eu possa fazer, por favor, me avise!
 あぁ、あなたの形……私まで興奮してきちゃいました……=Oh, sua forma... Está me excitando também...
@@ -409,8 +409,8 @@
 んんっ、おほい！　じゅぽっ、じゅぽっ（んんっ、遅い！）=(Mmm, devagar!)
 また、やってくれましたね……！=Você fez isso novamente!
 何度もこんな仕打ちをされて、私が喜ぶとでも？=Quantas vezes você acha que eu vou ficar satisfeito com a maneira como você me tratou?
-どうしたらもっとあなたに喜んでもらえるんでしょうか……=Como posso lhe agradar mais...
-はぁ……私、こんなに幸せでいいんでしょうか……=Huh... Estou autorizado a ser tão feliz...
+//どうしたらもっとあなたに喜んでもらえるんでしょうか……=Como posso lhe agradar mais...
+//はぁ……私、こんなに幸せでいいんでしょうか……=Huh... Estou autorizado a ser tão feliz...
 //こんな私でも、お役に立てるってこと……証明します、ね……=Vou lhe provar que até eu posso lhe ajudar.
 //性欲処理のお手伝いを、させて頂けるなんて……光栄です……=Ficaria honrado... Em ajudar você com suas necessidades sexuais.
 あぁ、おちんちん……熱い……大切に、扱いますね……=Oh, seu pau, está tão quente que eu vou cuidar bem dele.

@@ -3,7 +3,7 @@
 //
 //普通{0}=Normal{0}
 お疲れさまです。　とりあえず、これからもよろしくお願いします。=Obrigada por tudo. Enquanto isso, por favor, continue com o bom trabalho.
-終わりですか？　……そうですか、お疲れさまでした。=Você terminou? Bem, obrigado por seu tempo.
+終わりですか？　……そうですか、お疲れさまでした。=Você já terminou? Bem, obrigada pelo seu tempo.
 //好意{0}=Amor{0}
 ……それじゃぁ、これから心身共々、よろしくお願いしますね。=... Bem, então, eu espero trabalhar com você tanto física quanto mentalmente a partir de agora.
 ふぅ……まぁ、したい時にまた呼んで下さい。　……あなたになら、応えて問題なさそうですから。=Hmm... Bem, me chame novamente quando quiser... Porque acho que não terei nenhum problema em responder a você.

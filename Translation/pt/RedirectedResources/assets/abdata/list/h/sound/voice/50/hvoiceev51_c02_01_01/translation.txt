@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.3 by Text Dump Beta v1.4.3.2
 //
-こうやって焦らされるのも好きなくせに……=Não gosto de ficar impaciente assim...
-//おや、震えてきましたね。続けて欲しいんですか？=
+こうやって焦らされるのも好きなくせに……=Não gosto de ficar esperando assim...
+おや、震えてきましたね。続けて欲しいんですか？=Ah, você está tremendo. Quer que eu continue?
 //最初はゆっくりじわじわと、気持ちを昂らせていきますよ……=
 //何をどうして欲しいのか、ちゃんと言ってくださいね？=
 //そんなに足が好きなら、たっぷり味わわせてあげますよ……=

@@ -182,7 +182,7 @@
 あ、こらっ……また汚して、もう……=Oh, ahhh... Você está me sujando novamente.
 何度も好き放題しすぎですっ！=Você já fez isso demasiadas vezes!
 //こうやって焦らされるのも好きなくせに……=Você gosta de ser apressado assim...
-おや、震えてきましたね。続けて欲しいんですか？=Oh, você está começando a tremer. Você quer que eu continue?
+//おや、震えてきましたね。続けて欲しいんですか？=Oh, você está começando a tremer. Você quer que eu continue?
 最初はゆっくりじわじわと、気持ちを昂らせていきますよ……=Lenta e lentamente no início, você vai começar a se sentir excitado.
 何をどうして欲しいのか、ちゃんと言ってくださいね？=Apenas me diga o que você quer que eu faça, certo?
 ゆっくり焦らしながらやるのがいいんですよね。=É melhor fazê-lo de forma lenta e impaciente.
@@ -286,8 +286,8 @@
 んほっ、こぇあまら、さらぃしゅごぃ濃いのぁ、れそうれふねっ（これはまた、さらにすごい濃いのが、出そうですねっ）=(Esta vai ser outra ainda mais densa)
 ふふ、やはりあなたにコントロールは難しいようですね。=Hmm, acho que ainda é difícil para você controlar.
 さっきよりも暴れん坊でしたね、あなたのソレ。=Você era ainda mais safado do que antes, seu manjar.
-あなたを鍛えてるんです。ほら、もう少し頑張りましょう！=Estou trabalhando em você. Vamos lá, vamos trabalhar um pouco mais!
-もっと……私を求めてください……えぇ、もっと……=Por favor... Quer-me mais... Sim, mais...
+//あなたを鍛えてるんです。ほら、もう少し頑張りましょう！=Estou trabalhando em você. Vamos lá, vamos trabalhar um pouco mais!
+//もっと……私を求めてください……えぇ、もっと……=Por favor... Quer-me mais... Sim, mais...
 あの、頑張って気持ちよくしますねっ=Farei o meu melhor para que você se sinta bem.
 私にできることがあれば、何でも言ってくださいっ=Se houver algo que eu possa fazer, por favor, me avise!
 あぁ、あなたの形……私まで興奮してきちゃいました……=Oh, sua forma... Está me excitando também...
@@ -395,8 +395,8 @@
 やらっ♪　ざーえんおかぁり、くるっ、うれひぃ、れふっ（やった♪　ザーメンおかわり、くるっ、嬉しい、ですっ）=Yay... Mais uma recarga de sêmen. Estou tão feliz.
 もっと……何度でもマーキングしてください……=Mais... Marcando as vezes que quiser...
 んん……お風呂で洗い流すのがもったいないです……=Hmm... É uma pena lavá-lo no banho...
-このまま終わった方がお互いの為にもいいと思いませんか？=Você não acha que seria melhor para nós dois se simplesmente acabássemos com isso?
-モチベーションって大事ですよねぇ……いーえ、別にぃ。=A motivação é importante, não é?
+//このまま終わった方がお互いの為にもいいと思いませんか？=Você não acha que seria melhor para nós dois se simplesmente acabássemos com isso?
+//モチベーションって大事ですよねぇ……いーえ、別にぃ。=A motivação é importante, não é?
 何でもやってもらえると思ったら、大間違いですから。=Se você acha que pode fazer qualquer coisa, está enganado.
 この程度のこと、私がする意味あります？=Qual é o objetivo de eu fazer tudo isso?
 はぁ、ちょっとだけですからね……=Huh, é só um pouco...

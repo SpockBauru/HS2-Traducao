@@ -9,7 +9,7 @@
 ……それでは、また何かありましたら声をかけてくださいね。=... Tenho que correr. Me ligue, talvez?
 あなたとの会話は、その……楽しい、ので……また、お願いします……=Eu, uh... Me diverti conversando. Então, bem... Eu não odiaria se fizéssemos isso de novo.
 //享楽{0}=Excitada {0}
-それではこれで。また、お話しましょうね？=Ei, tenho que ir andando. Vamos fazer isso de novo, ok?
+それではこれで。また、お話しましょうね？=Então, por enquanto é só. Vamos conversar de novo, certo?
 ……っと、いい時間ですね。それではまた。=... Olha só a hora. Vejo você por aí.
 //嫌悪{0}=Ódio {0}
 もういいですか？　それでは。=Estamos conversados? Muito bem. Tchau.

@@ -17,8 +17,8 @@
 あら、一緒に入りたいんですか？=Olá! Quer se juntar a mim?
 こんな所で出会うなんて……何を期待していたんですかね？=O que você esperava fazer comigo aqui dentro?
 //風呂享楽用件{0}=
-それで、何でしょうか？=Então, o que é isso?
-さぁ、要件をどうぞ。=Claro, com certeza. Alguma coisa que eu possa fazer por você?
+それで、何でしょうか？=Então, como vão as coisas?
+さぁ、要件をどうぞ。=E aí, quais são os seus desejos?
 //風呂嫌悪{0}=
 はぁ、何でこんな所で……=*affe* O que você está fazendo aqui...
 ……あなたはストーカーか何かですか？=... Você está me perseguindo?

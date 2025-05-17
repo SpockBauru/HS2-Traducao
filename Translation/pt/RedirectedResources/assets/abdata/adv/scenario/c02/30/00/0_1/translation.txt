@@ -20,8 +20,8 @@
 ふふっ、奇遇ですね。=Hehe. Que coincidência.
 あら、丁度私もあなたに会いに行こうと思ってた所です。=Eu estava a caminho para vê-lo.
 //汎用享楽用件{0}=
-それで、何でしょうか？=Então, o que é isso?
-さぁ、要件をどうぞ。=Claro, com certeza. Alguma coisa que eu possa fazer por você?
+それで、何でしょうか？=Então, como vão as coisas?
+さぁ、要件をどうぞ。=E aí, quais são os seus desejos?
 //汎用嫌悪{0}=
 ……どうも。=... Olá.
 あなた、ですか……=*affe* É você.
