@@ -4,7 +4,7 @@
 //セリフ{0}=
 ???=???
 おい、誰かいないのか……！=Olá, tem alguém aí?
-チッ、クソ……誰でもいい、とにかく来やがれ……！=Ugh, literalmente qualquer um estaria bem, então venha já!
+チッ、クソ……誰でもいい、とにかく来やがれ……！=Droga, droga... Não me importa quem seja, venha logo!
 どこからか声が聞こえる・・・=Ouço uma voz que vem de algum lugar...
 CHOICE:探してみる=Procurar
 CHOICE:無視する=Ignorar

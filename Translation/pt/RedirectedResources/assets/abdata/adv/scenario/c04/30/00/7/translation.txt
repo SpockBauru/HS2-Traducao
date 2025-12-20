@@ -4,12 +4,12 @@
 ・・・・・=...
 //普通{0}=Normal{0}
 あーはいはい、そっち系の話ね。アンタも好きだねぇ……=Ok, eu sei onde você está indo com esta conversa, e adivinhe o que? Eu gosto disso!
-えぇっ、いきなりそういう話をされてもねぇ……=Ummm yeah look, isso é um pouco demais para mim, realmente...
+えぇっ、いきなりそういう話をされてもねぇ……=Opa, me falar algo assim do nada, nem sei o que dizer...
 //好意{0}=Amor{0}
 ちょ、あんま大きい声でそういうこと話さないっ。=Fale baixo! E se alguém, tipo, ouve você?!
 え……それマジで言ってる？=... Espere, você está realmente falando sério agora?
 //享楽{0}=Excitada {0}
-……うーん、アタシは気持ちければ基本なんでもいーよ♪=Quer dizer, sim, se for bom, então vá com ele, certo?
+……うーん、アタシは気持ちければ基本なんでもいーよ♪=... Bem, contanto que seja bom, estou bem com qualquer coisa♪
 あはっ、下ネタですかぁ？　んふふ、アタシ以外にはそういう話しない方がいいよ？=Ooh, conversa suja? Certo, um segundo antes vi algumas frases nas redes sociais que estou morrendo de vontade de experimentar!
 //嫌悪{0}=Ódio {0}
 は？　知らないし……キモ……=O quê? Ew, não...
