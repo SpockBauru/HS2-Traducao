@@ -44,11 +44,11 @@
 フォグ=Névoa
 被写界深度=Profund. de Campo
 ブルーム（光る処理）=Bloom
-ビネット=Vignettes
+ビネット=Vignette
 サンシャフト=Raios de Sol
-SSR（反射）=SSR (Reflexões)
+SSR（反射）=SSR (Reflexos)
 セルフシャドウ=Sombras
-映り込み=Reflexões
+映り込み=Reflexos
 雨の描画=Chuva
 
 解像度=Resolução

@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.1.3 by Text Dump v1.4.1
 //
-//おい、どうした？　まさか、やり方が分かんねぇのか？=
-//ビビってんじゃねぇよ。オレを退屈させるな。=
+おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, qual é o problema? Não me diga que você não sabe como fazer isso?
+ビビってんじゃねぇよ。オレを退屈させるな。=Não tenha medo. Você está me deixando entediada.
 //あぁっ、こらっ、尻を叩くなっ……！　ふぅっ、あぐっ……！=
 //んぐっ、なんで……オマエに尻を叩かれなきゃいけなんだ！=
 //ふぅぐっ！　こんなんで、気持ちよくなる奴がいるのかっ？=

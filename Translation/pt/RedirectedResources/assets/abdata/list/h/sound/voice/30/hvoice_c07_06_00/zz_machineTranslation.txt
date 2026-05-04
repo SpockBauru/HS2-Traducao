@@ -1,20 +1,20 @@
 //***********************************************************************
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
-おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, o que foi, cara? Você não sabe como fazer isso, sabe?
-ビビってんじゃねぇよ。オレを退屈させるな。=Não se assuste. Você está me aborrecendo.
+//おい、どうした？　まさか、やり方が分かんねぇのか？=Ei, o que foi, cara? Você não sabe como fazer isso, sabe?
+//ビビってんじゃねぇよ。オレを退屈させるな。=Não se assuste. Você está me aborrecendo.
 //焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
-少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
+//少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
 //んっ、弱っちい腰使いだな……少しはまぁ、感じるが……=Mmm, você está um pouco sensível nos quadris... Mas eu posso senti-lo... Um pouco.
-はぁっ、んっ、遠慮はいらないぞ……ちゃんと濡れてるだろ？=Huh, mmm, não seja tímido... Você está todo molhado, não está?
-んぁっ、尻が広がるっ……はぁっ、こいつは、やばいな……=Mmmm, minha bunda está se espalhando... Hahaha, isso é uma má idéia...
-ああっ、尻は声が抑えられん……んぅっ、何が違うんだ？=Oh, minha bunda não consegue falar baixo... Mmm, qual é a diferença?
+//はぁっ、んっ、遠慮はいらないぞ……ちゃんと濡れてるだろ？=Huh, mmm, não seja tímido... Você está todo molhado, não está?
+//んぁっ、尻が広がるっ……はぁっ、こいつは、やばいな……=Mmmm, minha bunda está se espalhando... Hahaha, isso é uma má idéia...
+//ああっ、尻は声が抑えられん……んぅっ、何が違うんだ？=Oh, minha bunda não consegue falar baixo... Mmm, qual é a diferença?
 ろうら？　こぇくぁいらら、さすがりいらくはらいらろ……？（どうだ？　これくらいなら、流石に痛くはないだろ？）=(O que você acha? Isso não vai machucar as pedras, certo?
 んぅ、おまぇろあじ……みょうにこいら……風呂入っれるろか？（オマエの味、妙に濃いな、風呂入ってるのか？）=Seu gosto é estranho. Você está tomando banho?
 んぉっ……こぇはしゃすがに……おぇれもきちゅぃ……！（これは流石に、オレでもキツい）=(Isto é muito difícil, mesmo para mim)
 あぁっ……おまぇらに、くひざしにさぇれるみらいらっ……！（オマエらに串刺しにされてるみたいだ）=Eu me sinto como se estivesse sendo espezinhado por vocês.
-んぁっ、そうだっ、それくらい強くていい、そのままやれっ！=Mmm, sim, é isso, é o quanto eu quero. Continua!
-あぁっ、ヤってるって感じがするな。これくらいで丁度いいっ！=Ahh, parece que estamos fodendo. Isso é o melhor que se pode fazer!
+//んぁっ、そうだっ、それくらい強くていい、そのままやれっ！=Mmm, sim, é isso, é o quanto eu quero. Continua!
+//あぁっ、ヤってるって感じがするな。これくらいで丁度いいっ！=Ahh, parece que estamos fodendo. Isso é o melhor que se pode fazer!
 んんぅっ、尻が熱いっ、はぁっ、いいなっ、ちゃんと感じてるっ！=Mmmm, minha bunda está tão quente. Ahhh, eu posso sentir isso!
 あぁくっ、尻で感じるとか、オレまで変態みたいだなっ……！=Ahhh, sinto-me um pervertido quando o sinto no meu rabo...
 はぐっ、いきら、れきないっ！　んぅぶ、ちょっろ、まれっ……！（息が出来ない、ちょっと待て）=(Não consigo respirar. Espere)
@@ -99,7 +99,7 @@
 はぁ……出されたモンを全部オマエに返してやりたいな……=Gostaria de poder lhe devolver tudo o que você me deu.
 んんっ……見てんじゃねぇ……目を閉じてろゴミクズ……=Mmm... Não olhe para mim... Feche seus olhos, seu pedaço de lixo...
 んぁ……なんだこの量……オマエ……最悪だな……=Oh... Para que é a quantidade de... Você... Você é o pior...
-くぅ……このレイプ魔どもめ……普通にしたら犯罪だぞ？=Malditos... Vocês violadores... É um crime ser normal, certo?
+//くぅ……このレイプ魔どもめ……普通にしたら犯罪だぞ？=Malditos... Vocês violadores... É um crime ser normal, certo?
 はぁ……群れて調子付くとか……オマエらケダモノだな……=Vocês são um bando de animais, não são?
 二人ともイったな……ならもう、オレは付き合いきれないぞ？=Agora que vocês dois vieram, não posso mais fazer-lhes companhia, posso?
 んぅ……あとは二人で仲良くな……オレは先に抜けるぞ？=Mmm... Vocês dois continuem com isso... E eu vou sair daqui primeiro, ok?
@@ -139,11 +139,11 @@
 んぶぅっ！　おぁえらっ、ちょっろらんぼうすぎらぞっ……！（オマエら、ちょっと乱暴過ぎだぞ）=Vocês estão ficando um pouco ásperos.
 //いいぞっ、あぁっ、イケそうだっ！　そのまま硬くしておけっ！=Oh, ahhh! Oh, ahhh! Eu vou gozar! Mantenha-o duro!
 //んぁあっ、ほらっ、イクぞっ！　あぁっ、よく見ておけよっ！=Oh, vamos lá, estou gozando! Oh, cuidado!
-ふぁあっ、尻がっ、もうやべぇっ！　あぁぐっ、イっくぅぅっ！=Oh, minha bunda! Oh, minha bunda! Ohhh, estou gozando!
+//ふぁあっ、尻がっ、もうやべぇっ！　あぁぐっ、イっくぅぅっ！=Oh, minha bunda! Oh, minha bunda! Ohhh, estou gozando!
 //んんぐっ、もう尻がイキそうだっ！　ふぁぁっ、んぎぃいん！=Ahhh, minha bunda vai gozar! Ohh, não!
 んぅぶ、すごいろ、のどろおくれ、ふくらんれるの分かうっ！（凄いぞ、喉の奥で膨らんでるの分かる）=(Ahhh, posso sentir inchaço no fundo da minha garganta)
 んぶっ！　はぁくイっひまぇ！　おぇのいきがちゅぢゅくうちに！（早くイっちまえ、オレの息が続くうちに）=Vamos lá, enquanto eu ainda respiro.
-んぅおっ！　イっひまぅぅっ！　うぇもしらも、おかしゃぇれぇっ！（イっちまう、上も下も犯されて）=Estou gozando. Estou sendo fodido para cima e para baixo.
+//んぅおっ！　イっひまぅぅっ！　うぇもしらも、おかしゃぇれぇっ！（イっちまう、上も下も犯されて）=Estou gozando. Estou sendo fodido para cima e para baixo.
 ひぅうっ！　なんらこえっ！　もう全身が、イキらがっえうっ！（なんだこれ、もう全身がイキたがってる）=(Que diabos é isto? Meu corpo inteiro quer gozar)
 //ふぁああっ！　出てるっ！　あぁあっ、中でぇっ！=Ahh! Está saindo! Ahhh, está em mim!
 //んぐぅんっ！　そうだっ、たっぷり出せえぇっ！=Mmm! É isso aí, me dê mais!
@@ -175,18 +175,18 @@
 ん？　どうした？　今更なに恥ずかしがってんだ？=Hmm? O que está acontecendo? Você está envergonhado agora?
 まぁそう焦るな。ちゃんとイカせてやるから待ってろ。=Bem, não tenha tanta pressa. Vou fazer você gozar, é só esperar por mim.
 休むのもテクのうちだ。勢いだけ良くてもダメなんだよ。=O repouso é parte da técnica. Não é suficiente ter um bom impulso.
-ほらほら、オレの尻でもっと気持ちよくなりたいか？=Vamos lá, vamos lá. Você quer se sentir melhor no meu traseiro?
+//ほらほら、オレの尻でもっと気持ちよくなりたいか？=Vamos lá, vamos lá. Você quer se sentir melhor no meu traseiro?
 //んんっ、尻がオマエのに馴染むまで、じっくり犯してやる……=Mmm, vou transar com você até meu traseiro ficar confortável comigo.
 ほぁ、おぇのにおいを、たっぷりちゅけれけ……（ほら、オレの匂いをたっぷりつけてけ）=Vá em frente, ponha um pouco do meu cheiro nele.
 もっろなめれほひいなら……おねだぃをしらいとな……（もっと舐めて欲しいなら、おねだりをしないとな）=(Se você quiser mais lambidas, você terá que implorar por elas)
 んぐ、まぅれ……おもひゃあつかいらな……んぅぐっ……（まるで、オモチャ扱いだな）=Você está me tratando como um brinquedo.
 はぁっ……こういうろきは、ほんろになかがいいんらな……（こういう時は、ほんとに仲がいいんだな）=(Em momentos como este, eles realmente se dão bem)
-んぐぅっ、あぁっ、これはいいなっ！　尻が溶けそうだっ！=Ahhh, ahhh, eu adoro isso! Meu traseiro está derretendo!
+//んぐぅっ、あぁっ、これはいいなっ！　尻が溶けそうだっ！=Ahhh, ahhh, eu adoro isso! Meu traseiro está derretendo!
 //あぁあっ、必死に腰を振りやがって、そんなに尻が好きか？=Ahhh, você está abanando seus quadris com tanta força. Você gosta assim tanto da minha bunda?
 あぷっ、こんらにさぇらら、あらまがくあくあしちまうっ……！（こんなにされたら、頭がクラクラしちまう）=Minha cabeça está girando a partir de tudo isso.
 あぁくっ、かぁらが、もうっ、ういれるみらいだっ！　んぁあっ！（身体が、もう浮いてるみたいだ）=É como se meu corpo já estivesse flutuando.
-あぐっ、ふぅぅっ！　ほら、オマエので、尻をイカせてみろっ！=Agh! Agh! Vamos lá, vamos ver o que você pode fazer com meu traseiro!
-んあっ、はぐっ！　分かるか？　オレの尻がイキそうなのが！=Huh, abraço! Veja? Estou prestes a ejacular no meu traseiro!
+//あぐっ、ふぅぅっ！　ほら、オマエので、尻をイカせてみろっ！=Agh! Agh! Vamos lá, vamos ver o que você pode fazer com meu traseiro!
+//んあっ、はぐっ！　分かるか？　オレの尻がイキそうなのが！=Huh, abraço! Veja? Estou prestes a ejacular no meu traseiro!
 いいおっ、もっろおくまれこいっ！　おぇののろれイケっ……！（いいぞ、もっと奥まで来い。オレの喉でイケ）=Vamos lá, vamos lá, vamos lá. Desça pela minha garganta.
 あぁっ、おぇものろれかんじれきた！　いっひょにイキそうら！（オレも喉で感じてきた、一緒にイキそうだ）=Estou começando a sentir isso na garganta. Vamos nos virar juntos.
 んおっ、もうおぁえらもイケっ！　おえは、もうもらないぞっ！（もうオマエらもイケ、オレはもうもたないぞ）=Vamos lá, pessoal, não posso esperar muito mais.
@@ -207,8 +207,8 @@
 んんぅ、こんなにイカされちゃ……オマエらに文句も言えねぇな。=Mmm, não posso reclamar com vocês se vocês me fizerem vir assim.
 あぁ……二人分は……やっぱ半端ねえ量だな……んぅ……=Sim... Para duas pessoas... Isso é muita comida... Hmm...
 フッ……流石のオレも、二人分は飲み切れなそうだ……=Acho que não posso beber o suficiente para nós dois...
-おい、勢いがなくなってきてるぞ！　もう少しだ、頑張れ！=Ei, você está perdendo seu impulso! Quase lá. Vamos lá!
-んぁあっ、イクッ！　おまえにまた、イカされちまうっ……！=Oh, estou gozando! Você está me fazendo gozar de novo...
+//おい、勢いがなくなってきてるぞ！　もう少しだ、頑張れ！=Ei, você está perdendo seu impulso! Quase lá. Vamos lá!
+//んぁあっ、イクッ！　おまえにまた、イカされちまうっ……！=Oh, estou gozando! Você está me fazendo gozar de novo...
 ふぁああっ！　もう凄い！　あぁっ、中がぁっ！=Whoo! Oh, ahhh! Oh, está em mim!
 くぅぁああっ！　もっと出せっ、いっぱい出せぇっ！=Ohh! Dê-me mais! Dê-me mais!
 んぁあぐっ！　ばかっ、中にぃっ！=Oh, não! Droga, está dentro!
@@ -226,7 +226,7 @@
 //あぁっ、本当は、もっと激しくしたいんだろ？　別にいいぞ……=Oh, você quer mesmo ir com força, não é mesmo? Eu não me importo...
 //ほら、なに遠慮してんだ？　んっ、もっと強く突け……！=Vamos lá, o que você está esperando? Mmm, me bata com mais força.
 はぁっ、尻の中でビクビク震えて……もうイキそうなのか？=Huh, sacudindo e tremendo no meu traseiro... Você está prestes a gozar?
-あぁっ、やっぱり……尻でオマエを苛めるのはいいな……=Adoro quando você me atormenta com meu traseiro.
+//あぁっ、やっぱり……尻でオマエを苛めるのはいいな……=Adoro quando você me atormenta com meu traseiro.
 はぁっ、なめれるだけれ……おぇもぬれてきそうら……（舐めてるだけでオレも濡れてきそうだ）=Estou ficando molhada só de lamber você.
 ろうだ？　ゆっくりれも、なめからによっれは感じうらろ？（どうだ？　ゆっくりでも舐め方によっては感じるだろ）=Como assim? Você pode senti-lo, mesmo que seja lento, dependendo de como você o lambe.
 んあっ、ふたぃとも……もっろうごいれもいいんらぞっ……（二人とも、もっと動いてもいいんだぞ）=(Ambos, podem se mover mais)
@@ -321,7 +321,7 @@
 //さぁ、垂れてんの見て、また勃起してきただろ？　早く入れろ。=Agora, olhe para você pingando. Você está ficando com tesão de novo, não está? Entre.
 ほら、零れちまってるぞ？　オマエが一生懸命注いだ精子……=Veja, você está entornando. Todo aquele esperma que você tem derramado...
 あぁ、勿体ねぇ……おい、オマエのでまた栓をしとけ……=Oh, que desperdício... Ei, você deveria colocar a rolha de volta...
-はぁっ……少し息を整えさせろ……またヤッてもいいから……=Huh... Deixe-me recuperar o fôlego um pouco... Para que eu possa foder com você novamente...
+//はぁっ……少し息を整えさせろ……またヤッてもいいから……=Huh... Deixe-me recuperar o fôlego um pouco... Para que eu possa foder com você novamente...
 んぅ……こんなもんが癖になったら、一人じゃイケなそうだな。=Hmm... Se isto se tornar um hábito, nunca poderei sair por conta própria.
 元気で結構……たく、なんでオマエら、まだそんなデカいんだ？=Eu estou bem... Mas por que vocês ainda são tão grandes?
 二人とも出したりねぇって顔だな……ほら、またオレを使え……=Vocês dois parecem não saber o que estão fazendo... Então me usem novamente...
@@ -451,7 +451,7 @@
 んぁああっ！　子宮、いっぱいにしろぉっ！=Ahhh! Encha o seu ventre!
 んぐううぅん！　ケツに、出し過ぎだぁっ！=Unnngh! Isso é demais para mim!
 んぅおおっ！　ケツ穴に、大量だぁっ！=Ohh! Isso é um monte de babaca!
-んぃいいん！　ばかっ、中に、出せぇっ！=Oh, ahhh! Foda-se, mete-o em mim, mete-o em mim!
+//んぃいいん！　ばかっ、中に、出せぇっ！=Oh, ahhh! Foda-se, mete-o em mim, mete-o em mim!
 くうああぁっ！　射精、まだそんなにっ！=Ohhhh! Ejaculação, ainda tanto!
 あぁ……いいぞ……もっと何度でも……溢れるくらい注げ……=Oh... Isso é bom... Derramar novamente... E novamente... E novamente... E novamente.
 ハッ、オマエが枯れるか、オレが溢れるか、勝負ってとこだな。=Ha, é uma confusão entre você morrendo e eu transbordando.
@@ -473,10 +473,10 @@
 ひぅっ、あぐっ！　やぇろっ、こぁえうっ……あぎゅっ、くぅんっ！（やめろ、壊れる）=(Pare, você vai quebrá-lo)
 んぁぁぐ！　ふぅっ……ひぬぅっ、しりがっ、もえりゅぅっ……！（死ぬ、尻が燃える）=(morrendo, queimando rabos)
 あぎゅっ……くぅぅっ！　しりれ……むちゃをしゅうらぁっ……！（尻で無茶をするな）=(Não seja imprudente com meu traseiro)
-ひっ、ぁふっ、ふぅぅっ！　もっ、らぇら……いきゅ……んぁぁ！（もうダメだ、イク）=Estou fodido, estou gozando.
+//ひっ、ぁふっ、ふぅぅっ！　もっ、らぇら……いきゅ……んぁぁ！（もうダメだ、イク）=Estou fodido, estou gozando.
 あっ、イきゅっ！　くぅっ……もっ、きもひぃの……やぇろぉっ！（イク、もう気持ちいいのやめろ）=(Estou gozando. Pare de se sentir tão bem)
 くぅっ、はぐっ！　なんれ……おまぇは、げんきなんらぁっ……！（なんでオマエは元気なんだ）=Por que você está indo tão bem?
-ひゃふっ……ぁぁあ！　ひりがぁっ、いぐぅ……んんぅぅぅうっ！（尻がイク）=(foda de bunda)
+//ひゃふっ……ぁぁあ！　ひりがぁっ、いぐぅ……んんぅぅぅうっ！（尻がイク）=(foda de bunda)
 あぁくっ！　こぁえるっ！　なかがこしゅれて、とけうううっ！（壊れる、中が擦れて、溶ける）=(quebrar, raspar dentro, derreter)
 くぅああっ！　なかれあばえうなっ！　もうげんかいらぁぁっ！（中で暴れるな、もう限界だ）=(Não enlouqueça lá dentro. Eu cheguei ao meu limite)
 んひゅううっ！　ぁっ、なかぁ、むぃぃっ！（中、無理）=Eu não posso.
@@ -493,7 +493,7 @@
 ぁぁぁ……しりのなかれぇ……ちゃぷちゃぷいっれぅぅ……（尻の中でちゃぷちゃぷいってる）=(chupa no rabo)
 んぁ……おまえろは……なんれうしゅくならないんら……（オマエのは、なんで薄くならないんだ）=Por que o seu não fica mais fino?
 はぁぁ……たれぅぅ……も……ゆぅゆぅになっれぇ……（垂れる、もうゆるゆるになって）=(gotejando, já solto)
-んぅぅ……きちくろももめ……おぇをろこまれおかすきら……？（鬼畜どもめ、オレをどこまで犯す気だ？）=Até onde vocês vão para me foder, seus bastardos?
+//んぅぅ……きちくろももめ……おぇをろこまれおかすきら……？（鬼畜どもめ、オレをどこまで犯す気だ？）=Até onde vocês vão para me foder, seus bastardos?
 はぁぁ……こんらにイカさぇらら……ほんろにおかひくなぅ……（こんなにイカされたら、ほんとにおかしくなる）=(Eu realmente vou enlouquecer se você me fizer ejacular desta maneira)
 んぁ……もうせいひのにおぃ……かぎあからろ……（もう精子の匂い、嗅ぎ飽きたぞ）=Estou cansado de sentir o cheiro do seu esperma.
 んぅ……おぁえら……ろんらけらしたらきがすむんら……（オマエら、どんだけ出したら気が済むんだ）=Quanto mais vocês querem?

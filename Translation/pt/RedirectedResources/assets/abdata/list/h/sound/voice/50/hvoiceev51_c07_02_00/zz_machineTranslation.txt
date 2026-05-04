@@ -2,14 +2,14 @@
 //ATENÇÃO: Este arquivo é apenas para as traduções feitas por máquina! Coloque as traduções manuais em "translation.txt"
 //***********************************************************************
 //焦らしてんだよ。ただヤるだけってのも面白くねぇだろ？=Estou apenas enganando você. Não é nada divertido só de brincar, não é?
-少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
-はぁっ、オレのペースでやらせてもらう……文句は言わせねぇ。=Huh, eu vou pegar no meu próprio ritmo... E não reclame.
-んんっ、待ってろ。すぐに馴染む……=Mmm, espere por isso. Você vai se encaixar bem...
+//少し休憩だ。オレのペースに文句は言わせねぇぞ？=Faça uma pausa. Você não pode reclamar do meu ritmo, pode?
+//はぁっ、オレのペースでやらせてもらう……文句は言わせねぇ。=Huh, eu vou pegar no meu próprio ritmo... E não reclame.
+//んんっ、待ってろ。すぐに馴染む……=Mmm, espere por isso. Você vai se encaixar bem...
 どうだ？　オレにされるがままってのは……動かなくていい分、楽だろう？=O que você acha? É muito mais fácil quando você não precisa se mover, não é mesmo?
 はぁっ、大分惨めな姿だが、それでもモノはしっかり硬くしやがって……この変態めっ……=É uma visão miserável, mas a coisa ainda está dura... Seu pervertido!
 んんっ、オレに動いてもらってるんだ……オマエは感謝しながら、最後まで大きくしておけよっ……=Mmm, estou fazendo você se mexer... Você deve ser grato e mantê-lo grande até o final...
-どうだ？　あぁっ、ここまですれば、文句も言えないだろう？=Como assim? Ahh, você não pode reclamar depois de tudo isso, pode?
-そらっ、んんっ、オレの中で、苛められてる気分はどうだ？=Ali, mmm, qual é a sensação de ser torturado dentro de mim?
+//どうだ？　あぁっ、ここまですれば、文句も言えないだろう？=Como assim? Ahh, você não pode reclamar depois de tudo isso, pode?
+//そらっ、んんっ、オレの中で、苛められてる気分はどうだ？=Ali, mmm, qual é a sensação de ser torturado dentro de mim?
 あぁあっ、大分オレも感じてきたっ、嬉しいだろ？　オマエのモノで気持ちよくなってるんだぞっ……=Oh, estou começando a sentir isso também. Você não está feliz? Você está me fazendo sentir bem com a sua...
 ハッ、まるでオモチャだなっ、はぁっ、オレが使い倒してやるからっ、覚悟しておけっ……！=Haha, é como um brinquedo, huh? Vou usá-lo em meu proveito, estar preparado...
 よしっ、良い所に当たるようになってきたっ！　ほら奥のっ、ここだっ、よく覚えておけよっ……！=Certo, estou começando a acertar o ponto certo. No fundo, bem aqui, lembre-se disso.
