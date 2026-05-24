@@ -65,7 +65,7 @@
 んれぉ、れるむ……めんろうれふね(面倒ですね)=(É uma dor de cabeça)
 んぐっ、んんむっ、ん、あお、はふれほう(顎、外れそう)=(queda da mandíbula)
 んむっ、むむっ、いちゅまれ、んむ、つじゅけるんれふか？(いつまで続けるんですか？)=(Por quanto tempo você vai continuar fazendo isso?)
-んんぶっ、んぐっ、んぅぅっ、いき、くるひっ……(息、くるしっ)=(sopro, kuruushikku)
+//んんぶっ、んぐっ、んぅぅっ、いき、くるひっ……(息、くるしっ)=(sopro, kuruushikku)
 んぐぅ、んくぅ、ぬいれくらはいっ(抜いてください)=(Por favor, puxe-o para fora)
 ふっ、んん……ようやく終わり……ですね=Hmmm... Finalmente... O fim.
 ふっ、ん……我慢せず……早く出してください=Hmm... Não se retraia... Apenas me deixe sair.
@@ -409,8 +409,8 @@
 じゅぶるじゅ、なんはいらへばきぁふむんれふか(何回出せば気が済むんですか)=(Quantas vezes tenho que lhe dizer?)
 せめて、においさえマシならば……=Pelo menos se cheirasse melhor...
 ……何度もかけて、飽きないのですか？=... Você já se cansou de jogar repetidas vezes?
-どう攻めるか考えているだけで、一日が経過してしまいそうです=Só de pensar em como atacar vai fazer o dia passar!
-ご希望がなければ、おまかせフルコースとご命令ください=Se você não tem preferência, solicite como Curso Completo Omakase
+//どう攻めるか考えているだけで、一日が経過してしまいそうです=Só de pensar em como atacar vai fazer o dia passar!
+//ご希望がなければ、おまかせフルコースとご命令ください=Se você não tem preferência, solicite como Curso Completo Omakase
 んっ、私の身体でしか……イケないようにして差し上げます……=Vou fazer com que só possa vir comigo...
 私の奉仕だから、こんなに勃起してくださってるんですよね=É o meu serviço. É por isso que você tem uma ereção tão grande.
 んっ……私の手、あなたのおちんちんに、ピッタリのサイズです……=Mmm... Minha mão é o tamanho perfeito para seu pau...
