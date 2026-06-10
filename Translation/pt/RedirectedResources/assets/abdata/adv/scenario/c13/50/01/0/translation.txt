@@ -2,15 +2,15 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //汎用{0}=
-//あなたのこと……ずぅっとずぅっと……待ってましたよ……♪=
-//今まではあなたの自由な時間……これからは私とあなただけの自由な時間、です……♪=
-//今日も産毛の一本に至るまで、あなたを愛して愛して、愛し尽くしています……♪=
+あなたのこと……ずぅっとずぅっと……待ってましたよ……♪=Eu... Esperei por você... Por muito, muito tempo ♪
+今まではあなたの自由な時間……これからは私とあなただけの自由な時間、です……♪=Até agora era o seu tempo livre... De agora em diante, será o nosso tempo livre ♪
+今日も産毛の一本に至るまで、あなたを愛して愛して、愛し尽くしています……♪=Eu vou te amar, amar e amar até o último cabelo...
 //風呂{0}=
-//うふふ……♪　偶然だと思いますか……？　私がお風呂にいることが、ですよ……♪=
-//今この瞬間、このお風呂以外の世界が滅亡しちゃえばいいんですけど……♪=
+うふふ……♪　偶然だと思いますか……？　私がお風呂にいることが、ですよ……♪=Hehe ♪ Você acha que foi coincidência me encontrar aqui no banheiro? ♪
+今この瞬間、このお風呂以外の世界が滅亡しちゃえばいいんですけど……♪=Neste exato momento, seria ótimo se o mundo fora deste banho simplesmente desaparecesse ♪
 //用件{0}=
-//あなたの用件知ってます……♪　心臓の音と目線、それに汗のかき方と、私との将来の赤ちゃんのもとを大事にしまってある場所の大きさで……♪=
-//それじゃああえて聞いちゃいますね……♪　私に何か、用事ですか……？=
+あなたの用件知ってます……♪　心臓の音と目線、それに汗のかき方と、私との将来の赤ちゃんのもとを大事にしまってある場所の大きさで……♪=Eu sei o que você veio fazer...♪ Pelo som do seu coração, seu olhar, seu suor e pelo tamanho do lugar onde guarda o futuro bebê que teremos juntos...♪
+それじゃああえて聞いちゃいますね……♪　私に何か、用事ですか……？=Então, vou perguntar mesmo assim ♪ Você quer alguma coisa comigo?
 CHOICE:おしゃべりしたい=Vamos Conversar.
 CHOICE:Hしたい=Vamos Transar.
 CHOICE:なんでもない=Não é nada.

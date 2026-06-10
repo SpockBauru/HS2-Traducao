@@ -2,7 +2,7 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//……うふふ、ずっと見てました……私とはもっと激しいセックスしてくれるんですよね……？=
-//消毒、しますよね……？=
+……うふふ、ずっと見てました……私とはもっと激しいセックスしてくれるんですよね……？=Hihihi, estive te observando... Você vai transar comigo de um jeito ainda mais intenso, não é?
+消毒、しますよね……？=Vai me desinfetar, não é?
 CHOICE:誘いに乗る=Aceitar o convite
 CHOICE:急いで逃げる=Sair correndo

@@ -1,7 +1,7 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//私です、あなたに会いたくて来ちゃいました……=
+私です、あなたに会いたくて来ちゃいました……=Sou eu, vim aqui porque estava com saudades de você...
 CHOICE:返事をする=Atender a porta
 CHOICE:・・・=・・・
-//……うふふ、わかりました、また今度にしますね……=
+……うふふ、わかりました、また今度にしますね……=... Hihihi, tudo bem, deixamos para a próxima vez...

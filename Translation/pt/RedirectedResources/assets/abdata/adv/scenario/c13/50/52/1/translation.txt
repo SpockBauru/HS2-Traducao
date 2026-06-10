@@ -2,9 +2,9 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //嫌悪{0}=Ódio {0}
-//もう終わりでいんですね……わかりました……=
-//汚してしまった箇所は、後で掃除しておきます……=
-//私なんかを痴漢して楽しかったですか……？=
-//あなたが求めていた反応を出来ていたか、自信ないです……=
-//特殊な状況なのに、私が相手じゃつまらなかったですよね……=
-//役立たずですみません……能無しでごめんなさい……=
+もう終わりでいんですね……わかりました……=Já acabou, não é? Entendi...
+汚してしまった箇所は、後で掃除しておきます……=Vou limpar depois os lugares que sujou...
+私なんかを痴漢して楽しかったですか……？=Você gostou de molestar alguém como eu?
+あなたが求めていた反応を出来ていたか、自信ないです……=Não tenho certeza se consegui dar a reação que você esperava...
+特殊な状況なのに、私が相手じゃつまらなかったですよね……=Apesar da situação ser especial, deve ter sido chato ter-me como parceira, não é?
+役立たずですみません……能無しでごめんなさい……=Desculpe por ser inútil... Desculpe por ser incompetente...

@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //前フリB普通{0}=
-//今きたところですか……？　私はお友達と話してました……=
+今きたところですか……？　私はお友達と話してました……=Você acabou de chegar? Eu estava conversando com uma amiga...
 あの……どっちかに用でしたか……？=Hmm... Você estava procurando por uma de nós?
 //前フリB好意{0}=
-//今日も大好きです……今、お友達とお話してました……=
-//3人で話しますか……？　あ、ふたりがよければですけど……=
+今日も大好きです……今、お友達とお話してました……=Eu amo tanto que chega a doer. O que eu estava fazendo? Conversando com minha amiga aqui.
+3人で話しますか……？　あ、ふたりがよければですけど……=Você quer conversar com a gente? Ou prefere ficar só comigo...
 //前フリB享楽{0}=
-//もしかして……3人でエッチしたいんですか、うふふ……=
-//わざわざ割って入ってきたということは……私たちの身体に割って入りたいんですね……？=
+もしかして……3人でエッチしたいんですか、うふふ……=Será que... Você quer transar com a gente, hehe...
+わざわざ割って入ってきたということは……私たちの身体に割って入りたいんですね……？=O fato de você ter se dado ao trabalho de interromper significa... Que você quer entrar em nossos corpos, certo?
 //前フリB嫌悪{0}=
-//私があなた以外の子と話してるのが意外ですか……？=
-//私にも相談相手ぐらいいます……=
+私があなた以外の子と話してるのが意外ですか……？=Você está surpreso por eu estar conversando com alguém além de você?
+私にも相談相手ぐらいいます……=Eu também tenho pessoas a quem peço conselhos, sabe...
 //前フリB隷属{0}=
-//うふふ、なんとなく……何が言いたいかわかっちゃいます……=
-//この子の前で犯そうとしてませんか……？　その逆ですか……？=
+うふふ、なんとなく……何が言いたいかわかっちゃいます……=Hehe, de alguma forma... Eu sei o que você quer da gente...
+この子の前で犯そうとしてませんか……？　その逆ですか……？=Você está querendo me foder na frente dela? Ou é o contrário?

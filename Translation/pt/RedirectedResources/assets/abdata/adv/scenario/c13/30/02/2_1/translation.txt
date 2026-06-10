@@ -1,8 +1,8 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//あなたはどう思いますか……？=
-//あなたの考えも聞いていいですか……？=
-//私たちのお話にどんな感想を持ちましたか……？=
-//気に触っちゃいましたか……？=
-//ガールズトークとしてはちょっと過激ですけど、大丈夫ですか……？=
+あなたはどう思いますか……？=O que você acha disso?
+あなたの考えも聞いていいですか……？=Posso ouvir a sua opinião também?
+私たちのお話にどんな感想を持ちましたか……？=O que você achou da nossa conversa?
+気に触っちゃいましたか……？=Isso te incomodou?
+ガールズトークとしてはちょっと過激ですけど、大丈夫ですか……？=Nossa conversa foi um pouco picante. Você se importa?

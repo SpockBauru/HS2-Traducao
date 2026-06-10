@@ -1,11 +1,11 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//あの、ちょっとだけ席を外してもいいですか……？=
-//……！　あの、ほんの少しだけ待っててもらってもいいですか……？=
-//うふふ、さっきお水を飲んだので……行ってきますね……=
-//あの……ちょっと待っててください……大丈夫です、逃げませんから……=
-//ごめんなさい、お手洗いに行ってきます……鍵は開けておきますね……=
+あの、ちょっとだけ席を外してもいいですか……？=Olha, posso me ausentar por um pouquinho?
+……！　あの、ほんの少しだけ待っててもらってもいいですか……？=Olha, você poderia esperar só um pouquinho?
+うふふ、さっきお水を飲んだので……行ってきますね……=Hihihi, bebi muita água há pouco... Já vou indo...
+あの……ちょっと待っててください……大丈夫です、逃げませんから……=Então... Espere um pouquinho... Tudo bem, não vou fugir...
+ごめんなさい、お手洗いに行ってきます……鍵は開けておきますね……=Desculpe, vou ao banheiro... Vou deixar a porta destrancada...
 CHOICE:覗く=Espiar
 CHOICE:悪戯する=Fazer safadeza
 CHOICE:連れ出す=Tirar de lá

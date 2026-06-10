@@ -2,5 +2,5 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //セリフ{0}=
-//うふふふ、目玉をくりぬくのは可哀そうですから、私だけしか見えないぐらい、気持ちよくなってもらいますね……♪=
-//あなたの世界から私以外の人を消し去ってあげますね……♪=
+うふふふ、目玉をくりぬくのは可哀そうですから、私だけしか見えないぐらい、気持ちよくなってもらいますね……♪=Hihihi, seria ruim arrancar seus olhos, então vou fazer você se sentir tão bem que só vai conseguir me ver...♪
+あなたの世界から私以外の人を消し去ってあげますね……♪=Vou apagar todas as outras pessoas do seu mundo, menos a mim...♪

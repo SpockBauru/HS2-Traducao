@@ -1,15 +1,15 @@
 //
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
-//最近、ひとりでいると急に切なくなって、あなたに会いたくなっちゃうんです……迷惑でしたか……？=
+最近、ひとりでいると急に切なくなって、あなたに会いたくなっちゃうんです……迷惑でしたか……？=Ultimamente, quando estou sozinha, fico com uma saudade repentina e acabo querendo ver você... Isso te incomoda?
 //好意50_汎用{0}=
-//うふふ、やっぱりお部屋にいたんですね……運命を感じちゃいます……=
-//あなたともっとずっと、一緒にいたくて……嬉しい、ですか……？=
-//この前会ってから、ずっとあなたのことを考えてました……本物のあなたに会えて、本当に嬉しいです……=
+うふふ、やっぱりお部屋にいたんですね……運命を感じちゃいます……=Hihihi, você estava mesmo no quarto... Sinto que é o destino...
+あなたともっとずっと、一緒にいたくて……嬉しい、ですか……？=Quero ficar com você por muito mais tempo... Você está feliz?
+この前会ってから、ずっとあなたのことを考えてました……本物のあなたに会えて、本当に嬉しいです……=Desde a última vez que nos vimos, não parei de pensar em você... Estou muito feliz por ter podido conhecer a sua verdadeira essência...
 ・・・・・=...
 //好意50続き{0}=
-//とっても幸せな時間でした……これからも仲良くしてくださいね……=
-//今日はあなたとの確かな絆を感じられました……また来ますね……=
-//うふふ、人並みの幸せって、こういう時間のことを言うんでしょうね……=
-//いきなりですみません、あなたに会いたい気持ちが抑えきれなくて……=
+とっても幸せな時間でした……これからも仲良くしてくださいね……=Foram momentos de muita felicidade... Vamos continuar sendo amigos, tá?
+今日はあなたとの確かな絆を感じられました……また来ますね……=Hoje senti um laço forte entre nós... Voltarei em breve...
+うふふ、人並みの幸せって、こういう時間のことを言うんでしょうね……=Hehe, acho que é isso que eles querem dizer com ter uma vida normal e feliz...
+いきなりですみません、あなたに会いたい気持ちが抑えきれなくて……=Peço desculpas por ser tão repentina, mas não consegui conter meu desejo de te ver...
 //好意80_汎用{0}=

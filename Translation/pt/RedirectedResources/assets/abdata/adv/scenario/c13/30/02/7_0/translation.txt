@@ -2,17 +2,17 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //なんでもない返答A普通{0}=
-//えっ……？　あっ、挨拶だったんですね、私、期待しちゃって恥ずかしい……=
-//あ……もしかして私、邪魔、でしたか……？=
+えっ……？　あっ、挨拶だったんですね、私、期待しちゃって恥ずかしい……=Hã? Spo veio para dar um oi? Fiquei com esperanças e agora tô decepcionada...
+あ……もしかして私、邪魔、でしたか……？=Ah... Será que eu estava atrapalhando?
 //なんでもない返答A好意{0}=
-//うふふ、私たちの関係を見せつけたかったんですね、悪い人です……=
-//挨拶してくれて嬉しかったです……今度はふたりきりの時に、うふふ……=
+うふふ、私たちの関係を見せつけたかったんですね、悪い人です……=Hihihi, você queria exibir a nossa relação, né? Você é malandro...
+挨拶してくれて嬉しかったです……今度はふたりきりの時に、うふふ……=Fiquei feliz por você ter me cumprimentado... Da próxima vez, quando estivermos sozinhos, hihihi...
 //なんでもない返答A享楽{0}=
-//そうですか……てっきり3Pをしようって言ってくれるのかと……=
-//うふふ、用事でも思い出しましたか……？=
+そうですか……てっきり3Pをしようって言ってくれるのかと……=É mesmo... Eu já tinha imaginado que você fosse propor um ménage à trois...
+うふふ、用事でも思い出しましたか……？=Hihihi, você se lembrou de algum compromisso?
 //なんでもない返答A嫌悪{0}=
-//私も、その方が助かります……=
-//性処理の必要もないなら、私が消えますね……=
+私も、その方が助かります……=Para mim também é melhor assim...
+性処理の必要もないなら、私が消えますね……=Se não há necessidade de satisfazer seus desejos sexuais, vou me retirar...
 //なんでもない返答A隷属{0}=
-//あの、私、何か気に入らないこと言っちゃいましたか……？=
-//そうですか……3Pの流れだと思ったんですが、あなたがなんでもないなら、私もその方がいいです……=
+あの、私、何か気に入らないこと言っちゃいましたか……？=Desculpe, eu disse algo que te desagradou?
+そうですか……3Pの流れだと思ったんですが、あなたがなんでもないなら、私もその方がいいです……=Ah, entendi... Achei que fosse rolar um ménage à trois, mas se não for problema para você, por mim tudo bem também...

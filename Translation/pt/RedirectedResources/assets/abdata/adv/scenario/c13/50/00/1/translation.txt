@@ -2,20 +2,20 @@
 // Dumped for Honey Select 2 v1.2.0 by Text Dump v1.4.3
 //
 //普通{0}=Normal{0}
-//私もあなたとおしゃべりしかったんです……どんなお話にしますか……？=
-//改めて誘われるとちょっと緊張しちゃいます……でも、とっても嬉しいです……=
+私もあなたとおしゃべりしかったんです……どんなお話にしますか……？=Eu também estava com vontade de conversar contigo... Sobre o que vamos conversar?
+改めて誘われるとちょっと緊張しちゃいます……でも、とっても嬉しいです……=Ser convidada novamente me deixa um pouco nervosa... Mas também muito feliz...
 //好意{0}=Amor{0}
-//私たちの将来について語り合うだなんて……あ、それは気が早すぎましたか……？=
-//うふふ、私とあなたのことですから、おしゃべりだけで時間がなくなっちゃいそうですね……=
+私たちの将来について語り合うだなんて……あ、それは気が早すぎましたか……？=Conversar sobre o nosso futuro... Ah, será que foi precipitado demais?
+うふふ、私とあなたのことですから、おしゃべりだけで時間がなくなっちゃいそうですね……=Hihihi, conhecendo você e eu, provavelmente vamos conversar o dia inteiro...
 //享楽{0}=Excitada {0}
-//エッチじゃないんですね、予想が外れたのでびっくりしてます……=
-//うふふ、あなたとのおしゃべりは、かなり話題が絞られちゃいますよね……=
+エッチじゃないんですね、予想が外れたのでびっくりしてます……=Não é sexo, né? Fiquei surpresa porque não era o que eu esperava...
+うふふ、あなたとのおしゃべりは、かなり話題が絞られちゃいますよね……=Hihihi, só consigo pensar em um assunto para conversarmos...
 //嫌悪{0}=Ódio {0}
-//どうしても、おしゃべりしないとだめですか……？=
-//私はしたいですけど……面白い話ができる自信、ないです……=
+どうしても、おしゃべりしないとだめですか……？=Precisamos mesmo conversar?
+私はしたいですけど……面白い話ができる自信、ないです……=Eu quero conversar, mas... Mas não tenho certeza se teria algo interessante a dizer...
 //隷属{0}=Submissa {0}
-//エッチなお話をして、前戯をするんですね……嬉しいです……=
-//はい……私、あなたとおしゃべりしていると濡れてきちゃうので、嬉しいです……=
+エッチなお話をして、前戯をするんですね……嬉しいです……=Vamos conversar sobre sexo e fazer preliminares né? Estou feliz...
+はい……私、あなたとおしゃべりしていると濡れてきちゃうので、嬉しいです……=Sim... Eu fico molhada quando converso com você, então fico feliz...
 CHOICE:親身になって話す=Bater papo
 CHOICE:積極的に話す=Liderar a conversa
 CHOICE:受け身になって話す=Deixe ela falar

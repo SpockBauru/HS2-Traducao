@@ -3,17 +3,17 @@
 //
 ・・・・・=...
 //普通{0}=Normal{0}
-//誰かの意思を尊重して行動するのって、私に合ってると思いますか……？=
-//その人に自分のすべてをかけて尽くす生き方、ですよね……え？　重くとらえすぎですか……？=
+誰かの意思を尊重して行動するのって、私に合ってると思いますか……？=Você acha que agir de acordo com os desejos de outra pessoa combina comigo?
+その人に自分のすべてをかけて尽くす生き方、ですよね……え？　重くとらえすぎですか……？=É sobre o desejo de dedicar a vida inteira a essa pessoa, certo? Hein? Será que estou levando isso muito a sério?
 //好意{0}=Amor{0}
-//個人的な好みなので、片方を否定するつもりはないですけど、快楽から生まれる愛よりも、愛から生まれる快楽の方がいいです……=
-//恋愛は、年の差があっても性別の違いがあっても……対等な関係を築けるものですよね……？　でも、片方が偉かったりしたら……=
+個人的な好みなので、片方を否定するつもりはないですけど、快楽から生まれる愛よりも、愛から生まれる快楽の方がいいです……=Como é uma preferência pessoal, não pretendo negar nenhuma das duas opções, mas prefiro o prazer que nasce do amor ao amor que nasce do prazer...
+恋愛は、年の差があっても性別の違いがあっても……対等な関係を築けるものですよね……？　でも、片方が偉かったりしたら……=O amor é algo que permite construir uma relação de igualdade, mesmo com diferença de idade ou de gênero... Não é? Mas, se um dos dois se achar superior...
 //享楽{0}=Excitada {0}
-//ただ待ってるだけって性に合わないんです……今までそれで損してきたので……=
-//人の意見に付き従うのって、大変ですよね……そういう意味で、私はあなたに甘えちゃってるのかもしれませんね……=
+ただ待ってるだけって性に合わないんです……今までそれで損してきたので……=Ficar apenas esperando não combina comigo... Já perdi muito por causa disso até agora...
+人の意見に付き従うのって、大変ですよね……そういう意味で、私はあなたに甘えちゃってるのかもしれませんね……=É difícil seguir sempre a opinião dos outros, não é? Nesse sentido, talvez eu esteja dependendo demais de você...
 //嫌悪{0}=Ódio {0}
-//あなたと私の関係も、そんな風にしたらうまくいきますか……？=
-//私は心の芯が腐っちゃってるので……相手も腐らせちゃうと思います……=
+あなたと私の関係も、そんな風にしたらうまくいきますか……？=Será que a nossa relação também daria certo se fizéssemos assim?
+私は心の芯が腐っちゃってるので……相手も腐らせちゃうと思います……=Como meu coração está podre... Acho que vou acabar corrompendo a outra pessoa também...
 //隷属{0}=Submissa {0}
-//私の嗜好は過激にとらえられちゃうことが多くて……でも、きっと世の中のイメージがそうだってだけだと思います……=
-//ＳとＭでいうＭの方……というより、心の在り方というか……そんなに簡単に分けて考えられることじゃないと思います……=
+私の嗜好は過激にとらえられちゃうことが多くて……でも、きっと世の中のイメージがそうだってだけだと思います……=Muitas vezes, meus gostos são interpretados como radicais... Mas acho que isso se deve apenas à visão de mundo deles...
+ＳとＭでいうＭの方……というより、心の在り方というか……そんなに簡単に分けて考えられることじゃないと思います……=Aquilo que chamam de masoquismo na verdade, vai muito além disso. É mais uma forma de existir, uma entrega profunda da alma... Não acho que seja algo que se possa separar e categorizar tão facilmente
